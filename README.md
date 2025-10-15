@@ -2,13 +2,13 @@
     <h1 align="center">HAYYat</h1>
 </p>
 <p align="center">
-    <em><code>❯ REPLACE-ME</code></em>
+    <em>News sentiment analyzer with a simple static frontend</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/hemanth8705/HAYYat?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/hemanth8705/HAYYat?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/hemanth8705/HAYYat?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/hemanth8705/HAYYat?style=flat&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/makarlayashwanth24/HAYYat?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/makarlayashwanth24/HAYYat?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/makarlayashwanth24/HAYYat?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/makarlayashwanth24/HAYYat?style=flat&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center">
 		<em>Built with the tools and technologies:</em>
@@ -44,13 +44,23 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+HAYYat collects the latest news, analyzes sentiment, and exposes the results to a lightweight static UI.
+
+- Python script (`app.py`) scrapes category pages (e.g., India Today for Business, Entertainment, Sports, Education) and can be extended to Google News RSS.
+- Sentiment is computed with TextBlob's PatternAnalyzer and stored as Positive/Negative.
+- Output is written into a compact JSON file (`news_data.json`) grouped by category for easy consumption by the frontend.
+- The frontend is a static landing page (`index.html`) with category pages and smooth-scrolling UX.
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+- Scrape news from multiple categories
+- Optional Google News RSS parsing (helper included, currently commented in `app.py`)
+- Sentiment analysis via TextBlob PatternAnalyzer
+- Aggregated output JSON per category with sentiment, URL, and headline
+- Static UI with fullscreen video hero and category tiles
+- No server required to view the UI; generate data once, then open `index.html`
 
 ---
 
@@ -101,25 +111,25 @@
 
 | File | Summary |
 | --- | --- |
-| [news_data2.json](https://github.com/hemanth8705/HAYYat/blob/main/news_data2.json) | <code>❯ REPLACE-ME</code> |
-| [news_data.json](https://github.com/hemanth8705/HAYYat/blob/main/news_data.json) | <code>❯ REPLACE-ME</code> |
-| [styles.css](https://github.com/hemanth8705/HAYYat/blob/main/styles.css) | <code>❯ REPLACE-ME</code> |
-| [index.html](https://github.com/hemanth8705/HAYYat/blob/main/index.html) | <code>❯ REPLACE-ME</code> |
-| [business.css](https://github.com/hemanth8705/HAYYat/blob/main/business.css) | <code>❯ REPLACE-ME</code> |
-| [business.html](https://github.com/hemanth8705/HAYYat/blob/main/business.html) | <code>❯ REPLACE-ME</code> |
-| [business.js](https://github.com/hemanth8705/HAYYat/blob/main/business.js) | <code>❯ REPLACE-ME</code> |
-| [script.js](https://github.com/hemanth8705/HAYYat/blob/main/script.js) | <code>❯ REPLACE-ME</code> |
-| [entertainment.js](https://github.com/hemanth8705/HAYYat/blob/main/entertainment.js) | <code>❯ REPLACE-ME</code> |
-| [sports.html](https://github.com/hemanth8705/HAYYat/blob/main/sports.html) | <code>❯ REPLACE-ME</code> |
-| [sports.js](https://github.com/hemanth8705/HAYYat/blob/main/sports.js) | <code>❯ REPLACE-ME</code> |
-| [entertainment.css](https://github.com/hemanth8705/HAYYat/blob/main/entertainment.css) | <code>❯ REPLACE-ME</code> |
-| [entertainment.html](https://github.com/hemanth8705/HAYYat/blob/main/entertainment.html) | <code>❯ REPLACE-ME</code> |
-| [education.css](https://github.com/hemanth8705/HAYYat/blob/main/education.css) | <code>❯ REPLACE-ME</code> |
-| [sports.css](https://github.com/hemanth8705/HAYYat/blob/main/sports.css) | <code>❯ REPLACE-ME</code> |
-| [education.html](https://github.com/hemanth8705/HAYYat/blob/main/education.html) | <code>❯ REPLACE-ME</code> |
-| [requirements.txt](https://github.com/hemanth8705/HAYYat/blob/main/requirements.txt) | <code>❯ REPLACE-ME</code> |
-| [app.py](https://github.com/hemanth8705/HAYYat/blob/main/app.py) | <code>❯ REPLACE-ME</code> |
-| [education.js](https://github.com/hemanth8705/HAYYat/blob/main/education.js) | <code>❯ REPLACE-ME</code> |
+| [news_data2.json](https://github.com/makarlayashwanth24/HAYYat/blob/main/news_data2.json) | Sample data variant (if present) |
+| [news_data.json](https://github.com/makarlayashwanth24/HAYYat/blob/main/news_data.json) | Generated news with sentiment grouped by category |
+| [styles.css](https://github.com/makarlayashwanth24/HAYYat/blob/main/styles.css) | Global styles for landing page and layout |
+| [index.html](https://github.com/makarlayashwanth24/HAYYat/blob/main/index.html) | Landing page with video hero and category links |
+| [business.css](https://github.com/makarlayashwanth24/HAYYat/blob/main/business.css) | Styles for Business page |
+| [business.html](https://github.com/makarlayashwanth24/HAYYat/blob/main/business.html) | Business category UI |
+| [business.js](https://github.com/makarlayashwanth24/HAYYat/blob/main/business.js) | Business page behavior (reads JSON, renders items) |
+| [script.js](https://github.com/makarlayashwanth24/HAYYat/blob/main/script.js) | Landing page interactions (fade-in, smooth scroll) |
+| [entertainment.js](https://github.com/makarlayashwanth24/HAYYat/blob/main/entertainment.js) | Entertainment page behavior |
+| [sports.html](https://github.com/makarlayashwanth24/HAYYat/blob/main/sports.html) | Sports category UI |
+| [sports.js](https://github.com/makarlayashwanth24/HAYYat/blob/main/sports.js) | Sports page behavior |
+| [entertainment.css](https://github.com/makarlayashwanth24/HAYYat/blob/main/entertainment.css) | Styles for Entertainment page |
+| [entertainment.html](https://github.com/makarlayashwanth24/HAYYat/blob/main/entertainment.html) | Entertainment category UI |
+| [education.css](https://github.com/makarlayashwanth24/HAYYat/blob/main/education.css) | Styles for Education page |
+| [sports.css](https://github.com/makarlayashwanth24/HAYYat/blob/main/sports.css) | Styles for Sports page |
+| [education.html](https://github.com/makarlayashwanth24/HAYYat/blob/main/education.html) | Education category UI |
+| [requirements.txt](https://github.com/makarlayashwanth24/HAYYat/blob/main/requirements.txt) | Python dependencies for scraping and sentiment |
+| [app.py](https://github.com/makarlayashwanth24/HAYYat/blob/main/app.py) | Scraper + sentiment pipeline that outputs JSON |
+| [education.js](https://github.com/makarlayashwanth24/HAYYat/blob/main/education.js) | Education page behavior |
 
 </details>
 
@@ -127,7 +137,7 @@
 
 | File | Summary |
 | --- | --- |
-| [main.yml](https://github.com/hemanth8705/HAYYat/blob/main/.github/workflows/main.yml) | <code>❯ REPLACE-ME</code> |
+| [main.yml](https://github.com/makarlayashwanth24/HAYYat/blob/main/.github/workflows/main.yml) | CI configuration (if present) |
 
 </details>
 
@@ -137,7 +147,9 @@
 
 ### 🔖 Prerequisites
 
-**CSS**: `version x.y.z`
+• Python 3.9+
+• pip
+• Optional: VS Code Live Server or any static file server
 
 ### 📦 Installation
 
@@ -145,7 +157,7 @@ Build the project from source:
 
 1. Clone the HAYYat repository:
 ```sh
-❯ git clone https://github.com/hemanth8705/HAYYat
+❯ git clone https://github.com/makarlayashwanth24/HAYYat
 ```
 
 2. Navigate to the project directory:
@@ -155,32 +167,42 @@ Build the project from source:
 
 3. Install the required dependencies:
 ```sh
-❯ ❯ INSERT-INSTALL-COMMANDS
+❯ pip install -r requirements.txt
 ```
 
 ### 🤖 Usage
 
-To run the project, execute the following command:
+There are two parts: generate the data, then view the UI.
 
+1) Generate or refresh news data (writes `news_data.json`):
 ```sh
-❯ ❯ INSERT-RUN-COMMANDS
+❯ python app.py
 ```
+
+2) Open the static site:
+- Easiest: open `index.html` directly (double-click or from VS Code “Open with Live Server”).
+- Or serve locally (from repo root):
+```sh
+❯ python -m http.server 8000
+```
+Then browse to `http://localhost:8000/`.
 
 ### 🧪 Tests
 
 Execute the test suite using the following command:
 
 ```sh
-❯ ❯ INSERT-TEST-COMMANDS
+❯ # No automated tests yet
 ```
 
 ---
 
 ## 📌 Project Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+- [ ] Add live API endpoint to serve JSON dynamically
+- [ ] Enrich scraping with more sources and pagination
+- [ ] Improve sentiment labeling and add neutral class
+- [ ] Add automated tests and CI
 
 ---
 
@@ -188,9 +210,9 @@ Execute the test suite using the following command:
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Report Issues](https://github.com/hemanth8705/HAYYat/issues)**: Submit bugs found or log feature requests for the `HAYYat` project.
-- **[Submit Pull Requests](https://github.com/hemanth8705/HAYYat/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/hemanth8705/HAYYat/discussions)**: Share your insights, provide feedback, or ask questions.
+- **[Report Issues](https://github.com/makarlayashwanth24/HAYYat/issues)**: Submit bugs or feature requests.
+- **Submit Pull Requests**: Review open PRs, and submit your own PRs.
+- **[Discussions](https://github.com/makarlayashwanth24/HAYYat/discussions)**: Share insights, feedback, or questions.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -198,7 +220,7 @@ Contributions are welcome! Here are several ways you can contribute:
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/hemanth8705/HAYYat
+   git clone https://github.com/makarlayashwanth24/HAYYat
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -221,8 +243,8 @@ Contributions are welcome! Here are several ways you can contribute:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/hemanth8705/HAYYat/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=hemanth8705/HAYYat">
+   <a href="https://github.com{/makarlayashwanth24/HAYYat/}graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=makarlayashwanth24/HAYYat">
    </a>
 </p>
 </details>
@@ -231,7 +253,7 @@ Contributions are welcome! Here are several ways you can contribute:
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+If a LICENSE file is not present, this project has no explicit license. Consider adding one from [Choose a License](https://choosealicense.com/licenses).
 
 ---
 
