@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-sensex-ends-862-points-higher-nifty-above-25600-titan-up-3-percent-2804050-2025-10-16",
+      "headline": "Sensex ends 862 points higher, Nifty above 25,600; Titan up 3%Sensex ends 862 points higher, Nifty above 25,600; Titan up 3%"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/dhanteras-2025-tax-on-gold-jewellery-coins-etfs-and-sgbs-explained-2804025-2025-10-16",
       "headline": "Dhanteras 2025: Tax on gold jewellery, coins, ETFs and SGBs explainedGold shopping during Dhanteras is a tradition, but the way your purchase is taxed depends on what you buy. Jewellery, coins, ETFs and Sovereign Gold Bonds all fall under different tax slabs and timelines, making awareness essential."
     },
@@ -94,14 +99,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/us-tariffs-not-a-matter-of-huge-concern-rbi-chief-downplays-impact-on-india-glbs-2803765-2025-10-16",
       "headline": "US tariffs not a matter of huge concern: RBI chief downplays impact on IndiaRBI Governor Sanjay Malhotra dismissed jitters over US tariffs imposed under Donald Trump, saying India's domestic-driven economy can withstand trade pressure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/epfo-new-rules-myths-and-facts-about-pf-withdrawals-2803660-2025-10-15",
-      "headline": "EPFO new rules: Check myths and facts about PF withdrawalsAfter the announcement, social media was flooded with rumours that employees will no longer be able to withdraw their PF after leaving a job. This is not true. "
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mari-selvaraj-rajinikanth-collaboration-updates-upcoming-film-projects-2804034-2025-10-16",
+      "headline": "Director Mari Selvaraj on Rajinikanth collaboration: Maybe he's a bit unsure Mari Selvaraj reveals he's developing a story for Rajinikanth, hinting at a possible collaboration after 'Bison Kaalamaadan' and 'D56' with Dhanush."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/bhagwat-chapter-one-raskashas-review-jitendra-kumar-arshad-warsi-crime-thriller-that-has-familiar-story-with-new-faces-2804049-2025-10-16",
+      "headline": "Bhagwat Chapter One Review: A crime thriller that has familiar story with new facesRelease Date:Thu Oct 16, 2025 'Bhagwat Chapter 1 \u2013 Raakshas' starts with a promising premise of missing girls and a mysterious professor, but weak storytelling and predictable twists make it an underwhelming crime thriller. Arshad Warsi and Jitendra Kumar give solid performances, but the film fails to leave a lasting impact."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/rise-and-fall-2025-winner-aarush-bhola-winner-fake-or-rumours-arbaz-patel-arjun-bijlani-2804022-2025-10-16",
+      "headline": "Aarush Bhola defeats Arbaz Patel and Arjun Bijlani to win Rise & Fall? Ahead of the 'Rise & Fall' grand finale, reports are rife that influencer Aarush Bhola has won the reality show hosted by Ashneer Grover. He has allegedly defeated Arjun Bijlani and Arbaz Patel, who were among the top contenders. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/the-taj-story-trailer-taj-mahal-contested-history-courtroom-drama-paresh-rawal-2804017-2025-10-16",
@@ -181,21 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/tejasswi-prakash-birthday-message-karan-kundrra-anusha-dandekar-infidelity-claims-2803830-2025-10-16",
       "headline": "Did Tejasswi jab boyfriend Karan Kundrra's ex Anusha Dandekar in birthday post? Tejasswi Prakash posted affectionate photos with Karan Kundrra on his birthday, as recent comments by Anusha Dandekar about a former partner's infidelity have reignited public discourse. The post has drawn attention due to ongoing speculation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/zeeshan-quadri-bigg-boss-19-eviction-reflections-house-controversies-fan-support-2803814-2025-10-16",
-      "headline": "Zeishan Quadri on Tanya Mittal's alleged lies on Bigg Boss 19: Who am I to judge? Zeishan Quadri opens up on his eviction from Bigg Boss 19 and his role in house conflicts. He reflects on betrayals, health struggles, and the support he continues to receive from fans."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/kevin-federline-memoir-custody-battle-britney-spears-wellbeing-2803803-2025-10-16",
-      "headline": "Britney Spears calls ex-husband Kevin's constant gaslighting exhausting, slams him Kevin Federline's upcoming memoir reveals his perspective on his turbulent relationship with Britney Spears and their co-parenting struggles, stirring public responses from Spears herself. The revelations highlight ongoing challenges between the ex-couple and their efforts to protect their children's well-being amidst personal conflicts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-tamil-9-tushaar-stripped-captaincy-indiscipline-2803812-2025-10-16",
-      "headline": "Bigg Boss Tamil 9: Tushaar stripped of captaincy Bigg Boss Tamil 9 captaincy was revoked from Tushaar due to his failure to enforce discipline. This move highlights ongoing tensions and rule-breaking among the contestants."
     }
   ],
   "general news": [
@@ -247,7 +247,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-caste-survey-sudha-murthy-narayan-murthy-obc-sc-st-siddaramaiah-congress-2803833-2025-10-16",
-      "headline": "Narayana Murthy, Sudha Murty opt out of Karnataka caste survey, said thisInfosys founders Narayana Murthy and Sudha Murty opted out of Karnataka's socio-economic survey after the High Court clarified that participation is voluntary. DK Shivakumar said the government will not compel anyone to take part."
+      "headline": "Narayana Murthy, Sudha Murty opted out of Karnataka caste survey, said thisInfosys founder Narayana Murthy and Sudha Murty opted out of Karnataka's socio-economic survey after the High Court clarified that participation is voluntary. DK Shivakumar said the government will not compel anyone to take part."
     },
     {
       "sentiment": "positive",
@@ -321,13 +321,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/the-taj-story-trailer-taj-mahal-contested-history-courtroom-drama-paresh-rawal-2804017-2025-10-16",
-      "headline": "The Taj Story trailer: Temple or tomb? Paresh Rawal wants Taj Mahal's DNA testThe trailer for 'The Taj Story', featuring Paresh Rawal, was released today. The film examines differing interpretations of the Taj Mahal's history, raising questions about historical narratives and public understanding."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mari-selvaraj-rajinikanth-collaboration-updates-upcoming-film-projects-2804034-2025-10-16",
+      "headline": "Director Mari Selvaraj on Rajinikanth collaboration: Maybe he's a bit unsureMari Selvaraj reveals he's developing a story for Rajinikanth, hinting at a possible collaboration after 'Bison Kaalamaadan' and 'D56' with Dhanush."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/pankaj-dheer-passes-away-hema-malini-mourns-veteran-actors-legacy-support-2803973-2025-10-16",
-      "headline": "Hema Malini devastated to lose dear friend Pankaj Dheer, shares emotional tributeHema Malini expressed her grief over Pankaj Dheer's death, remembering his support and friendship. Dheer, known for his role as Karna in 'Mahabharat', died after battling cancer."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/the-taj-story-trailer-taj-mahal-contested-history-courtroom-drama-paresh-rawal-2804017-2025-10-16",
+      "headline": "The Taj Story trailer: Temple or tomb? Paresh Rawal wants Taj Mahal's DNA testThe trailer for 'The Taj Story', featuring Paresh Rawal, was released today. The film examines differing interpretations of the Taj Mahal's history, raising questions about historical narratives and public understanding."
     }
   ],
   "sports": [
