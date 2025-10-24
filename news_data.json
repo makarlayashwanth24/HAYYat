@@ -200,6 +200,11 @@
       "headline": "Why single out India? Piyush Goyal hits back at Western pressure over Russian oilCommerce and Industry Minister Piyush Goyal's remarks come amid rising pressure from the US and its allies on India to scale back imports of discounted Russian crude."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/india-pakistan-war-fears-2002-cia-reveals-parliament-attack-terror-role-glbs-2808112-2025-10-25",
+      "headline": "We believed India, Pak would go to war in 2002: Ex-CIA whistleblower John KiriakouFormer CIA officer John Kiriakou disclosed that the US feared a war between India and Pakistan in 2002 following the Parliament attack. He highlighted Pakistan's support for terror groups."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/doctors-suicide-note-implicates-police-officers-phaltan-sexual-harassment-case-2807620-2025-10-24",
       "headline": "Maharashtra doctor dies by suicide, leaves note on palm accusing cop of rapeA doctor, who was allegedly raped multiple times by a police officer and mentally harassed by another individual for the past five months, died by suicide at a government hospital in Maharashtra's Satara. "
@@ -211,18 +216,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/national-conference-rajya-sabha-seats-bjp-jammu-kashmir-election-article-370-mohammad-ramzan-sajad-kichloo-gsoberoi-2807973-2025-10-24",
-      "headline": "National Conference wins 3 seats, BJP bags 1 in J&K Rajya Sabha pollsThe ruling National Conference won three Rajya Sabha seats in Jammu and Kashmir, while the opposition BJP emerged victorious on one in the first Rajya Sabha polls in J&K since the abrogation of Article 370."
+      "url": "https://www.indiatoday.in/world/us-news/story/video-diwali-celebration-fireworks-destroy-homes-in-new-york-queens-lincoln-street-us-edison-new-jersey-2807983-2025-10-24",
+      "headline": "Video: Diwali fireworks destroy homes in New York's QueensDiwali fireworks caused a massive fire in South Ozone Park, Queens, damaging two homes and injuring two people, US authorities have said. Surveillance video showed fireworks striking a house before flames engulfed the homes. One family lost everything in the blaze."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/video-diwali-celebration-fireworks-destroy-homes-in-new-york-queens-lincoln-street-us-edison-new-jersey-2807983-2025-10-24",
-      "headline": "Video: Diwali fireworks destroy homes in New York's QueensDiwali fireworks caused a massive fire in South Ozone Park, Queens, damaging two homes and injuring two people, US authorities have said. Surveillance video showed fireworks striking a house before flames engulfed the homes. One family lost everything in the blaze."
+      "url": "https://www.indiatoday.in/world/story/john-kiriakou-us-control-pakistan-nuclear-saudi-shield-aq-khan-revelations-glbs-2808111-2025-10-25",
+      "headline": "Pervez Musharraf handed over Pak's nukes to US: Ex-CIA officer drops bombshellFormer CIA officer John Kiriakou claimed that Pakistan's former president Pervez Musharraf handed control of the country's nuclear arsenal to the United States, saying Washington \"purchased\" him with millions in aid."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/national-conference-rajya-sabha-seats-bjp-jammu-kashmir-election-article-370-mohammad-ramzan-sajad-kichloo-gsoberoi-2807973-2025-10-24",
+      "headline": "National Conference wins 3 seats, BJP bags 1 in J&K Rajya Sabha pollsThe ruling National Conference won three Rajya Sabha seats in Jammu and Kashmir, while the opposition BJP emerged victorious on one in the first Rajya Sabha polls in J&K since the abrogation of Article 370."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/up-madarsa-staffer-makes-indecent-remarks-virginity-test-demand-on-minor-girl-arrested-moradabad-uttar-pradesh-police-2808100-2025-10-25",
       "headline": "Madarsa staffer makes indecent remarks, virginity test demand on minor, arrestedPolice said the allegations were found true, and one accused, Shahjahan, has been sent to jail while others are on the run. The madarsa administration denied the charges, calling them baseless."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/divya-suresh-hit-and-run-case-bengaluru-woman-injured-byatarayanapura-accident-2808071-2025-10-25",
+      "headline": "Caught on CCTV: Kannada actor Divya Suresh's car hits bike while en route hospitalEyewitnesses and relatives described the incident as a hit-and-run, stating that the driver did not stop to assist the victims. One of the victims was rushed to the hospital with a fractured kneecap, while the others escaped with minor injuries."
     },
     {
       "sentiment": "positive",
@@ -240,9 +255,9 @@
       "headline": "Hundreds, including Indians, risk lives to flee Chinese mafia-run cybercrime hubAround 700 trafficked workers, including Indians, fled the Chinese mafia-run KK Park compound in Myanmar after the junta raided the facility. Many fleeing the cybercrime hub, risked their lives swimming across the Moei river into Thailand. Hundreds were detained by Thai authorities, while hundreds more, including Indians, remain trapped or in hiding in Myanmar."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/divya-suresh-hit-and-run-case-bengaluru-woman-injured-byatarayanapura-accident-2808071-2025-10-25",
-      "headline": "Caught on CCTV: Kannada actor Divya Suresh's car hits bike while en route hospitalEyewitnesses and relatives described the incident as a hit-and-run, stating that the driver did not stop to assist the victims. One of the victims was rushed to the hospital with a fractured kneecap, while the others escaped with minor injuries."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/afghanistan-to-restrict-water-build-dam-on-kunar-chitral-hydro-pakistan-after-india-pause-indus-waters-treaty-2807572-2025-10-24",
+      "headline": "After India, Taliban-ruled Afghanistan rushes to turn off Pak's tapAfter India's suspension of the Indus Waters Treaty, Afghanistan is now moving to curb Pakistan's access to water from cross-border rivers. The Taliban's Supreme Leader has said that Kabul will build a dam on the Kunar river as soon as possible, just weeks after Afghanistan and Pakistan engaged in a war in which hundreds were killed."
     },
     {
       "sentiment": "positive",
@@ -255,14 +270,14 @@
       "headline": "China builds new air defence site near India border, satellite images revealSatellite imagery shows a new Chinese air-defence complex taking shape, comprising command and control buildings, barracks, vehicle sheds, munition storage, and radar positions. But the most intriguing feature of this facility, experts say, is a set of covered missile launch positions, believed to be equipped with retractable roofs for Transporter Erector Launcher vehicles that can carry, elevate, and fire missiles."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/afghanistan-to-restrict-water-build-dam-on-kunar-chitral-hydro-pakistan-after-india-pause-indus-waters-treaty-2807572-2025-10-24",
-      "headline": "After India, Taliban-ruled Afghanistan rushes to turn off Pak's tapAfter India's suspension of the Indus Waters Treaty, Afghanistan is now moving to curb Pakistan's access to water from cross-border rivers. The Taliban's Supreme Leader has said that Kabul will build a dam on the Kunar river as soon as possible, just weeks after Afghanistan and Pakistan engaged in a war in which hundreds were killed."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/uss-gerald-r-ford-carrier-deployed-caribbean-counter-drug-trafficking-venezuela-glbs-2808102-2025-10-25",
       "headline": "Pentagon deploys world's largest aircraft carrier to Caribbean in major buildupThe USS Gerald R Ford carrier strike group has been deployed to the Caribbean to strengthen US military presence. This move intensifies pressure on Venezuela and targets drug trafficking networks in the region."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/history-of-it/story/pakistan-afghanistan-war-india-border-history-gilgit-baltistan-1947-annexation-wakhan-corridor-betrayal-2807079-2025-10-24",
+      "headline": "How treachery helped Pakistan grab India-Afghanistan Silk Route linkWhile Afghanistan and Pakistan were engaged in a war this month, an image showing an India-Afghanistan border pillar from the 1930s went viral. India and Afghanistan shared a small land border through the Wakhan Corridor before Pakistan wedged itself in through treachery and the illegal occupation of Gilgit-Baltistan in 1947."
     },
     {
       "sentiment": "negative",
@@ -271,13 +286,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/57-magnitude-earthquake-hits-japans-hokkaido-region-2808081-2025-10-24",
+      "headline": "5.7 magnitude earthquake hits Japan's Hokkaido regionA 5.7-magnitude earthquake struck Hokkaido, Japan, with no injuries, damage, or tsunami warnings reported. Authorities continue monitoring the situation and assessing potential aftershocks."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/canada-cheated-and-got-caught-cant-take-advantage-of-us-any-longer-trump-slams-ottawa-over-ronald-reagan-ad-2807870-2025-10-24",
       "headline": "Canada cheated and got caught: Trump slams Ottawa over tariffs, Ronald Reagan adThis comes after a Canadian political advertisement used an edited recording of Ronald Reagan criticising tariffs and warning they could trigger trade wars and economic hardship. Trump, branded the ad \"fraudulent\" and accused Ottawa of manipulating Reagan's words."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/pakistan-afghanistan-war-india-border-history-gilgit-baltistan-1947-annexation-wakhan-corridor-betrayal-2807079-2025-10-24",
-      "headline": "How treachery helped Pakistan grab India-Afghanistan Silk Route linkWhile Afghanistan and Pakistan were engaged in a war this month, an image showing an India-Afghanistan border pillar from the 1930s went viral. India and Afghanistan shared a small land border through the Wakhan Corridor before Pakistan wedged itself in through treachery and the illegal occupation of Gilgit-Baltistan in 1947."
+      "url": "https://www.indiatoday.in/entertainment/television/story/bill-gates-x-tulsi-virani-the-wild-story-behind-most-unexpected-crossover-on-tv-2807885-2025-10-24",
+      "headline": "Bill Gates x Tulsi Virani: The wild story behind most unexpected crossover on TVIn a twist no one saw coming, 'Kyunki Saas Bhi Kabhi Bahu Thi 2' featured Bill Gates casually video-chatting with Tulsi Virani. The viral episode shows nostalgia and surprise as Tulsi's speech on motherhood and nutrition catches Gates' attention online."
     },
     {
       "sentiment": "positive",
@@ -293,26 +313,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/mob-attacks-cab-kathua-jammu-kashmir-preachers-religious-conversion-rumour-8-cops-suspended-2808088-2025-10-24",
       "headline": "Mob attacks cab in J&K's Kathua over religious conversion rumour, 8 cops suspendedA purported video of the attack shows several men armed with sticks attacking a cab. The attack was triggered by rumours that the vehicle was carrying preachers involved in religious conversion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bill-gates-x-tulsi-virani-the-wild-story-behind-most-unexpected-crossover-on-tv-2807885-2025-10-24",
-      "headline": "Bill Gates x Tulsi Virani: The wild story behind most unexpected crossover on TVIn a twist no one saw coming, 'Kyunki Saas Bhi Kabhi Bahu Thi 2' featured Bill Gates casually video-chatting with Tulsi Virani. The viral episode shows nostalgia and surprise as Tulsi's speech on motherhood and nutrition catches Gates' attention online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/do-not-do-deals-with-gun-to-our-head-piyush-goyal-on-trade-talks-with-us-2807857-2025-10-24",
-      "headline": "Don't do deals with gun to our head: Piyush Goyal on trade talks with USIndia is exploring newer markets to reduce the impact of high tariffs and ensure fair trade terms for its exporters, said Piyush Goyal. He noted that India's approach is guided by strategy and self-interest rather than external pressure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/26-mba-surge-in-india-golden-opportunity-amid-visa-problems-abroad-2807791-2025-10-24",
-      "headline": "26% MBA surge in India: Can we cash in on the opportunity amid visa woes abroad?GMAC data shows a 26% rise in MBA applications in India as visa uncertainty in the US, UK and Canada pushes students to domestic management programmes. This could be a big win for India or a missed opportunity. Policy, capacity, and quality will decide the outcome."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-3rd-odi-virat-kohli-sydney-test-prediction-2807947-2025-10-24",
-      "headline": "3rd ODI: Virat Kohli faces another Sydney test. Will it end like the last one?Australia vs India, 3rd ODI: 10 months after his Test career ended in Sydney, Virat Kohli returns to the same venue facing another stern examination \u2014 this time in one-day colours. With back-to-back ducks and mounting scrutiny, the third ODI against Australia could define how the next chapter of his white-ball career unfolds, as India fight to avoid a clean sweep."
     }
   ],
   "sports": [
