@@ -200,24 +200,24 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/story/poll-body-to-announce-dates-for-nationwide-poll-roll-revision-on-monday-10-15-states-likely-in-1st-phase-2808690-2025-10-26",
+      "headline": "Poll body to announce pan-India SIR dates, 10-15 states likely in 1st phaseThe poll body is expected to unveil the first phase of the SIR, covering 10 to 15 states, including those scheduled for Assembly elections in 2026. Tamil Nadu, West Bengal, Kerala, Assam, and Puducherry are among the states set to go to the polls next year."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/kurnool-bus-fire-case-filed-against-drunk-biker-shivashankar-for-negligence-reckless-driving-2808607-2025-10-26",
       "headline": "Biker killed in Andhra bus fire was drunk, case against him for reckless drivingPolice have booked deceased biker Shivashankar for negligent and reckless driving that led to the Kurnool bus fire killing 20 people. The FIR states he was drunk and lost control before the fatal crash."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-china-direct-flights-resume-after-5-year-freeze-amid-thaw-in-ties-2808646-2025-10-26",
-      "headline": "India, China direct flights resume after 5-year freeze amid\u00a0thaw\u00a0in\u00a0tiesDirect flights between India and China have resumed after over five years, marking a significant step in restoring connectivity. This move is expected to boost trade, tourism, and diplomatic relations between the two nations."
+      "url": "https://www.indiatoday.in/lifestyle/story/harpers-bazaar-women-of-the-year-awards-2025-power-creativity-and-purpose-2808584-2025-10-26",
+      "headline": "Harper's Bazaar Women of the Year Awards 2025: Power, creativity and purposeThe Harper's Bazaar Women of the Year Awards returned to Mumbai for its second India edition, celebrating women of influence across film, fashion, art, and business. From Zeenat Aman and Janhvi Kapoor to Falguni Nayar and Anamika Khanna, the evening honoured icons and innovators shaping India's cultural landscape."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/telangana/story/hyderabad-police-commissioner-vs-sajjanar-drunk-drivers-kurnool-bus-fire-killed-statement-2808589-2025-10-26",
       "headline": "Drunk drivers are terrorists: Hyderabad top cop after Andhra bus tragedyDays after 20 people died in a bus fire in Andhra Pradesh's Kurnool, Hyderabad Police Commissioner VS Sajjanar gave a stern message for drunk drivers, saying they were \"terrorists\". He said no leniency would be given to them for such \"acts of terror\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/story/harpers-bazaar-women-of-the-year-awards-2025-power-creativity-and-purpose-2808584-2025-10-26",
-      "headline": "Harper's Bazaar Women of the Year Awards 2025: Power, creativity and purposeThe Harper's Bazaar Women of the Year Awards returned to Mumbai for its second India edition, celebrating women of influence across film, fashion, art, and business. From Zeenat Aman and Janhvi Kapoor to Falguni Nayar and Anamika Khanna, the evening honoured icons and innovators shaping India's cultural landscape."
     },
     {
       "sentiment": "positive",
@@ -236,13 +236,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-calls-pakistan-pm-shehbaz-sharif-asim-munir-great-people-vows-to-end-conflict-with-afghanistan-2808612-2025-10-26",
-      "headline": "Great people: Trump's big praise for Munir, Sharif, and an Afghanistan mentionTrump called Pakistan's PM Shehbaz Sharif and Army Chief Asim Munir \"great people\" and vowed to quickly resolve the Pakistan-Afghanistan conflict. Talks between Islamabad and Kabul are set to continue in Istanbul following a temporary calm along the border."
+      "url": "https://www.indiatoday.in/india/story/india-china-direct-flights-resume-after-5-year-freeze-amid-thaw-in-ties-2808646-2025-10-26",
+      "headline": "India, China direct flights resume after 5-year freeze amid\u00a0thaw\u00a0in\u00a0tiesDirect flights between India and China have resumed after over five years, marking a significant step in restoring connectivity. This move is expected to boost trade, tourism, and diplomatic relations between the two nations."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/music/story/katy-perry-justin-trudeau-hand-in-hand-birthday-celebration-paris-2808539-2025-10-26",
       "headline": "Katy Perry, Justin Trudeau walk hand-in-hand in Paris amid dating rumours. WatchAmid dating rumours, a video of singer Katy Perry and former Canadian Prime Minister Justin Trudeau walking hand-in-hand in Paris after celebrating Perry's birthday, has emerged online. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cyclone-montha-andhra-pradesh-coast-odisha-tamil-nadu-puducherry-heavy-rain-alerts-imd-2808488-2025-10-26",
+      "headline": "Cyclone Montha likely to hit Andhra on Oct 28; rain alert for Odisha, Tamil NaduCyclone Montha is expected to make landfall on the Andhra Pradesh coast near Kakinada, between Machilipatnam and Kalingapatnam, on Tuesday evening or night (October 28)."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-calls-pakistan-pm-shehbaz-sharif-asim-munir-great-people-vows-to-end-conflict-with-afghanistan-2808612-2025-10-26",
+      "headline": "Great people: Trump's big praise for Munir, Sharif, and an Afghanistan mentionTrump called Pakistan's PM Shehbaz Sharif and Army Chief Asim Munir \"great people\" and vowed to quickly resolve the Pakistan-Afghanistan conflict. Talks between Islamabad and Kabul are set to continue in Istanbul following a temporary calm along the border."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/two-suspects-arrested-over-theft-of-jewels-at-louvre-museum-2808613-2025-10-26",
+      "headline": "2 arrested in connection with daring Louvre jewel heist in major breakthroughFrench police have arrested two men in connection with the audacious daylight theft of crown jewels from Paris's Louvre Museum."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/house-of-dynamite-political-thriller-review-kathryn-bigelow-netflix-idris-elba-2808615-2025-10-26",
+      "headline": "House of Dynamite review: Kathryn Bigelow crafts a smart but inconsistent thrillerRelease Date:Fri Oct 24, 2025Kathryn Bigelow's 'A House of Dynamite' is a gripping Netflix political thriller exploring the fallout of a mysterious warhead launch through a Rashomon-style lens. With strong turns by Idris Elba and Rebecca Ferguson, it's a tense study of power and fear, though its pacing and emotional depth occasionally falter."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/isro-moves-lvm3-to-launch-pad-for-november-2-liftoff-with-cms-03-satellite-heaviest-ever-launched-indian-soil-2808692-2025-10-26",
+      "headline": "Isro moves LVM3 to launch pad for November 2 liftoff with CMS-03 satelliteThe mission, LVM3-M5, will place the satellite into geosynchronous transfer orbit to enhance multi-band communication across India and nearby oceans. It marks the fifth operational flight of LVM3, following its Chandrayaan-3 success in 2023."
     },
     {
       "sentiment": "positive",
@@ -256,31 +281,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-virtually-addresses-47th-asean-summit-highlights-india-asean-partnership-shared-opportunities-2808675-2025-10-26",
-      "headline": "21st century belongs to us: PM calls for stronger regional ties at Asean SummitPM Modi said that India and Asean, home to nearly a quarter of the world's population, are bound not just by geography but by shared history and values."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/house-of-dynamite-political-thriller-review-kathryn-bigelow-netflix-idris-elba-2808615-2025-10-26",
-      "headline": "House of Dynamite review: Kathryn Bigelow crafts a smart but inconsistent thrillerRelease Date:Fri Oct 24, 2025Kathryn Bigelow's 'A House of Dynamite' is a gripping Netflix political thriller exploring the fallout of a mysterious warhead launch through a Rashomon-style lens. With strong turns by Idris Elba and Rebecca Ferguson, it's a tense study of power and fear, though its pacing and emotional depth occasionally falter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/top-pakistani-general-meets-bangladeshs-muhammad-yunus-discusses-trade-defence-ties-2808667-2025-10-26",
-      "headline": "Top Pak general meets Bangladesh's Muhammad Yunus, discusses trade, defence tiesThe meeting marks a renewed attempt to revive engagement between Dhaka and Islamabad, whose relations have been limited in recent years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bus-battery-smartphones-explosion-causes-deadly-fire-andhra-pradesh-2808472-2025-10-26",
-      "headline": "Bus batteries sparked Andhra bus fire, smartphones made it deadlier: ProbeA preliminary investigation has suggested that the bus's batteries and a large consignment of smartphones on the vehicle aggravated the blaze when the vehicle hit a recklessly-driven bike and caught fire in Andhra Pradesh's Kurnool. The inferno claimed 20 lives."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-dances-on-red-carpet-as-he-lands-in-malaysia-for-asean-summit-2808498-2025-10-26",
-      "headline": "Video: Trump does his iconic dance as he arrives in Malaysia for Asean summitUS President Donald Trump surprised everyone by dancing on the red carpet after landing in Malaysia for the ASEAN summit. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/who-is-mystery-man-in-detective-suit-in-viral-louvre-heist-probe-photo-2808494-2025-10-26",
       "headline": "Internet obsessed with 'detective' in viral Louvre heist photo, but who's he really?A photo taken outside the Louvre during an ongoing heist investigation is going viral because a sharply dressed man who looked straight out of a detective film has become the centre of attention. The internet believes he's one of the investigators involved in the case, but is he really? Here's what we know:"
     },
@@ -291,8 +291,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/satish-shah-funeral-inconsolable-rupali-ganguly-rajesh-kumar-in-tears-2808656-2025-10-26",
-      "headline": "Satish Shah funeral: Inconsolable Rupali Ganguly, Rajesh Kumar in tearsVeteran actor Satish Shah, famed for 'Sarabhai vs Sarabhai', received an emotional farewell in Mumbai, with co-stars Rupali Ganguly and Rajesh Kumar visibly moved. He died at 74 on Saturday, October 25."
+      "url": "https://www.indiatoday.in/world/story/donald-trump-dances-on-red-carpet-as-he-lands-in-malaysia-for-asean-summit-2808498-2025-10-26",
+      "headline": "Video: Trump does his iconic dance as he arrives in Malaysia for Asean summitUS President Donald Trump surprised everyone by dancing on the red carpet after landing in Malaysia for the ASEAN summit. "
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-woman-praises-rapido-driver-who-messaged-on-gpay-and-returned-her-earphones-2808620-2025-10-26",
-      "headline": "Bengaluru woman praises Rapido driver who messaged on GPay, returned her earphonesA woman from Bengaluru appreciated a Rapido driver who contacted her through Google Pay (GPay) and returned her lost earphones."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/two-suspects-arrested-over-theft-of-jewels-at-louvre-museum-2808613-2025-10-26",
-      "headline": "2 suspects arrested in connection with daring Louvre jewel\u00a0heist:\u00a0ReportFrench police have arrested two men in connection with the audacious daylight theft of crown jewels from Paris's Louvre Museum."
+      "url": "https://www.indiatoday.in/entertainment/television/story/satish-shah-funeral-inconsolable-rupali-ganguly-rajesh-kumar-in-tears-2808656-2025-10-26",
+      "headline": "Satish Shah funeral: Inconsolable Rupali Ganguly, Rajesh Kumar in tearsVeteran actor Satish Shah, famed for 'Sarabhai vs Sarabhai', received an emotional farewell in Mumbai, with co-stars Rupali Ganguly and Rajesh Kumar visibly moved. He died at 74 on Saturday, October 25."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cyclone-montha-andhra-pradesh-coast-odisha-tamil-nadu-puducherry-heavy-rain-alerts-imd-2808488-2025-10-26",
-      "headline": "Cyclone Montha likely to hit Andhra on Oct 28; rain alert for Odisha, Tamil NaduCyclone Montha is expected to make landfall on the Andhra Pradesh coast near Kakinada, between Machilipatnam and Kalingapatnam, on Tuesday evening or night (October 28)."
+      "url": "https://www.indiatoday.in/india/story/pm-modi-virtually-addresses-47th-asean-summit-highlights-india-asean-partnership-shared-opportunities-2808675-2025-10-26",
+      "headline": "21st century belongs to us: PM calls for stronger regional ties at Asean SummitPM Modi said that India and Asean, home to nearly a quarter of the world's population, are bound not just by geography but by shared history and values."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bus-battery-smartphones-explosion-causes-deadly-fire-andhra-pradesh-2808472-2025-10-26",
+      "headline": "Bus batteries sparked Andhra bus fire, smartphones made it deadlier: ProbeA preliminary investigation has suggested that the bus's batteries and a large consignment of smartphones on the vehicle aggravated the blaze when the vehicle hit a recklessly-driven bike and caught fire in Andhra Pradesh's Kurnool. The inferno claimed 20 lives."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-2025-riyan-parag-assam-shortest-game-defeat-services-2808689-2025-10-26",
+      "headline": "Riyan Parag leads Assam to script unwanted record in Ranji Trophy history Riyan Parag starred with the ball as Assam fell to a heavy defeat against Services, scripting an unwanted Ranji Trophy record despite his valiant efforts."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ab-de-villiers-urges-fans-to-celebrate-virat-kohli-career-2025-2808688-2025-10-26",
@@ -368,8 +373,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aakash-chopra-bilateral-odi-cricket-india-vs-australia-2808627-2025-10-26",
-      "headline": "Are ODIs boring? Ex-cricketer calls for more multi-laterals after IND vs AUS Former cricketer Aakash Chopra believes that bilateral ODIs have lost their charm and hold no meaning at all. Chopra wants the boards to come together and play multi-lateral series more."
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-farewell-post-departure-2808660-2025-10-26",
+      "headline": "One last time: Rohit Sharma signs off from Australia, heads back to India India's star batter Rohit Sharma signed off for one last time from Australia after his heroics during the recently-concluded ODI series. Rohit was adjudged as the Player Of The Series for his heroics with the bat.  "
     },
     {
       "sentiment": "positive",
@@ -389,7 +394,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/aakash-chopra-bilateral-odi-cricket-india-vs-australia-2808627-2025-10-26",
-      "headline": "Are ODIs boring? Ex-cricketer calls for more multi-laterals after IND vs AUS Former cricketer Aakash Chopra believes that bilateral ODIs have lost their charm and hold no meaning at all. Chopra wants the boards to come together and play multi-lateral series more."
+      "headline": "Are ODIs boring? Ex-cricketer calls for more multi-laterals after IND vs AUSFormer cricketer Aakash Chopra believes that bilateral ODIs have lost their charm and hold no meaning at all. Chopra wants the boards to come together and play multi-lateral series more."
     },
     {
       "sentiment": "positive",
@@ -423,8 +428,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/harry-brook-century-england-vs-new-zealand-1st-odi-rescue-early-collapse-2808530-2025-10-26",
-      "headline": "Harry Brook's ferocious 135 rescues England from embarrassment vs New ZealandEngland captain Harry Brook scored a career-best 135 to rescue his side after a top-order collapse against New Zealand in the first ODI. His innings helped England reach a defendable total of 223 in 35.2 overs from being 56/6."
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-ban-live-score-smriti-mandhana-harmanpreet-kaur-2808598-2025-10-26",
+      "headline": "IND vs BAN Live: Rain stops play after Bangladesh lose both openersIndia (IND) vs Bangladesh (BAN) Live Score, Women's World Cup: Rain has stopped play in Navi Mumbai after Bangladesh lost both their openers, Rubaiya Haider Jhelik and Sumaiya Akter in quick succession. "
     },
     {
       "sentiment": "positive",
@@ -475,11 +480,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-warning-india-aus-vs-sa-women-2808452-2025-10-26",
       "headline": "Australia awaken the beast within, fire chilling warning to IndiaWomen's World Cup: Australia demolished South Africa by seven wickets in Indore and set up a semi-final clash with Harmanpreet Kaur's India at Navi Mumbai. On Thursday, Alana King rocked the Proteas with the best-ever figures in the history of the tournament. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-ind-vs-aus-sydney-odi-2808445-2025-10-26",
-      "headline": "Virat Kohli turns back the clock at packed SCG: Legend, chasemaster, fighterFor likely one final time in Australia, Virat Kohli reminded the Sydney Cricket Ground\u2014and the cricketing world\u2014why he is one of the greatest ODI batters of all time. Kohli finished unbeaten on 74 to guide India to victory in front of a raucous, predominantly Indian crowd."
     }
   ],
   "education": [
