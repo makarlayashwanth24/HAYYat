@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/bajaj-finance-share-price-falls-7-after-q2-results-growth-guidance-cut-asset-quality-stress-2817165-2025-11-11",
+      "headline": "Bajaj Finance share price falls 7% after Q2 results. Should you buy the dip?Bajaj Finance shares plunged nearly 7% after Q2 results showed solid profit growth but weaker guidance and rising asset stress. With valuations still rich, is this a buying opportunity?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-nifty-flat-despite-positive-global-sentiment-q2-earnings-2817161-2025-11-11",
+      "headline": "Sensex, Nifty flat despite positive global sentiment, Q2 earningsThe S&P BSE Sensex was down by 242.13 points to\u00a083,293.22, while the NSE Nifty50 lost 72.35 points to\u00a025,502.00 as of 9:32 am.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/groww-ipo-listing-date-share-price-prediction-strong-debut-muted-opening-latest-gmp-trend-2817155-2025-11-11",
+      "headline": "Groww IPO listing: Strong debut or muted opening on cards? Check what GMP saysThe parent company of Groww, Billionbrains Garage Ventures Ltd, saw massive investor interest during the subscription window. Groww allotment was finalised on November 10.\u00a0"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/how-to-choose-right-ipo-read-drhp-pe-ratio-pricing-explained-avoid-overvaluation-retail-investor-guide-2817142-2025-11-11",
       "headline": "Not every IPO is a jackpot: How to know if an IPO is really worth your moneyMany retail investors still go by hype, brand names, and subscription figures rather than understanding whether the issue is actually worth investing in."
     },
@@ -84,24 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/government-to-relax-lending-rethink-quality-checks-to-boost-exporters-2816521-2025-11-10",
       "headline": "Government to relax lending, rethink quality checks to boost exportersA senior government source said that the new support could include relaxed bank lending rules, better working capital access, and a review of strict quality checks that have been slowing down supply chains."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/itr-mistakes-to-be-fixed-faster-heres-how-cbdts-new-rules-can-speed-up-income-tax-refunds-2816492-2025-11-10",
-      "headline": "ITR mistakes to be fixed faster? Here's how CBDT's new rules can speed up refundsTaxpayers who've faced delays due to errors in their income tax returns may soon breathe easier. The CBDT has introduced new rules aimed at correcting ITR mistakes faster and speeding up refunds."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/ipo/story/lenskart-shares-listing-below-expectation-market-debut-3-percent-discount-review-hold-or-sell-2816488-2025-11-10",
-      "headline": "Lenskart shares list at 3% discount: Should you sell or hold?The stock opened at Rs 395 on the National Stock Exchange (NSE), lower than the issue price of Rs 402. On the BSE, it listed at Rs 390, marking a discount of 2.98%."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/sebi-warns-investors-about-digital-gold-how-it-differs-from-gold-etfs-2816463-2025-11-10",
-      "headline": "Why Sebi is warning investors about digital gold and what makes Gold ETFs saferSebi has warned investors about digital gold sold by fintech apps, calling it unregulated and risky. Experts say investors should move to Gold ETFs and other Sebi-regulated options for safety."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/honest-renovations-renewed-season-4-roku-jessica-alba-lizzy-mathis-2817137-2025-11-11",
+      "headline": "Jessica Alba's Honest Renovations renewed for season 4 at Roku Actors Jessica Alba and Lizzy Mathis will continue their home transformation series as Roku announces a fourth season of 'Honest Renovations' and a new holiday special set to premiere in 2026."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/dharmendra-he-man-who-loved-like-a-poet-fought-like-a-hero-lived-like-a-legend-2816704-2025-11-11",
@@ -110,7 +115,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/story/bollywood-legend-dharmendra-dies-aged-89-2817129-2025-11-11",
-      "headline": "Dharmendra, Bollywood's He-Man, dies at 89 Veteran actor Dharmendra died at 89 in Mumbai, leaving behind an unmatched legacy spanning six decades. Fondly known as Bollywood's He-Man, he is survived by wives Prakash Kaur and Hema Malini and their six children."
+      "headline": "Dharmendra, Bollywood's beloved He-Man, dies at 89 Veteran actor Dharmendra died at 89 in Mumbai, leaving behind an unmatched legacy spanning six decades. Fondly known as Bollywood's He-Man, he is survived by wives Prakash Kaur and Hema Malini and their six children."
     },
     {
       "sentiment": "positive",
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/rana-daggubati-before-baahubali-we-didnt-know-a-rs-1000-crore-film-2816874-2025-11-10",
       "headline": "Rana Daggubati: Before Baahubali, we didn't know a Rs 1,000 crore film Actor Rana Daggubati, opened up about the growing obsession with Rs 1,000-crore box-office targets, reflecting on how the definition of success changed after 'Baahubali'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/renuka-shahane-recalls-married-producers-proposal-to-live-together-for-a-campaign-2816870-2025-11-10",
-      "headline": "Renuka Shahane recalls married producer's proposal to live together for a campaign Renuka Shahane shared that a married producer once made an inappropriate proposal to her in front of her mother, offering work in exchange for living together. The actor also highlighted how such incidents often lead to further victimisation in the industry."
     }
   ],
   "general news": [
@@ -207,12 +207,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/bihar-assembly-elections-second-phase-rjd-jdu-bjp-nitish-kumar-tejashwi-yadav-mahagatbandhan-voting-2817012-2025-11-11",
-      "headline": "Bihar votes in Phase 2 of polls, focus on Seemanchal  Live UpdatesOver 3.7 crore voters will decide the fate of 1,302 candidates in Bihar's second and final phase of assembly elections, which is expected to be crucial for regional parties and could reshape seat dynamics."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/dharmendra-he-man-who-loved-like-a-poet-fought-like-a-hero-lived-like-a-legend-2816704-2025-11-11",
-      "headline": "Dharmendra loved like a poet, fought like a hero, lived like a legendVeteran actor Dharmendra, the legendary 'He-Man of Bollywood', died at 89, leaving behind a six-decade legacy that defined heroism, love, and humility in Indian cinema. From 'Phool Aur Patthar' to 'Sholay' and 'Satyakam', his journey was one of grit and grace -- a life of both stardom and dreams."
+      "headline": "Bihar Phase 2 sees 15% turnout till 9 am, focus on Seemanchal region  Live UpdatesOver 3.7 crore voters will decide the fate of 1,302 candidates in Bihar's second and final phase of assembly elections, which is expected to be crucial for regional parties and could reshape seat dynamics."
     },
     {
       "sentiment": "positive",
@@ -221,13 +216,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/tesla-cybertruck-leader-siddhant-awasthi-leaves-after-eight-years-2816969-2025-11-10",
-      "headline": "Indian-origin Siddhant Awasthi exits Tesla, rose from intern to Cybertruck chiefSiddhant Awasthi's leadership coincided with significant milestones and challenges for the Cybertruck. Between November 2023 and early 2024, 46,096 Cybertrucks were produced, according to US recall filings. The Cybertruck also faced product recalls and sales difficulties, with Tesla offering discounts on inventory vehicles."
+      "url": "https://www.indiatoday.in/india/story/cctv-shows-hyundai-i20-parked-near-red-fort-mosque-for-3-hours-leaving-just-before-blast-2817080-2025-11-11",
+      "headline": "CCTV shows i20 parked near Red Fort mosque for 3 hours, leaving just before blastA Hyundai i20 parked near Sunehri Masjid for hours exploded near Delhi's Red Fort, killing eight and injuring many. Investigations reveal a complex ownership trail and possible terror links involving suspects from Jammu and Kashmir.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cctv-shows-hyundai-i20-parked-near-red-fort-mosque-for-3-hours-leaving-just-before-blast-2817080-2025-11-11",
-      "headline": "CCTV shows i20 parked near Red Fort mosque for 3 hours, leaving just before blastA Hyundai i20 parked near Sunehri Masjid for hours exploded near Delhi's Red Fort, killing eight and injuring many. Investigations reveal a complex ownership trail and possible terror links involving suspects from Jammu and Kashmir.\r\n"
+      "url": "https://www.indiatoday.in/world/story/tesla-cybertruck-leader-siddhant-awasthi-leaves-after-eight-years-2816969-2025-11-10",
+      "headline": "Indian-origin Siddhant Awasthi exits Tesla, rose from intern to Cybertruck chiefSiddhant Awasthi's leadership coincided with significant milestones and challenges for the Cybertruck. Between November 2023 and early 2024, 46,096 Cybertrucks were produced, according to US recall filings. The Cybertruck also faced product recalls and sales difficulties, with Tesla offering discounts on inventory vehicles."
     },
     {
       "sentiment": "positive",
@@ -241,18 +236,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/the-girlfriend-rashmika-mandanna-rahul-ravindran-chains-break-narcissism-patriarchy-freedom-healing-2816666-2025-11-11",
-      "headline": "The Girlfriend: Rashmika Mandanna shreds veil of patriarchy for every woman'The Girlfriend' showcases Rashmika Mandanna's compelling portrayal of a woman breaking free from patriarchal chains.  The film highlights the subtle yet pervasive impact of abuse and the courage needed to reclaim one's identity."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/how-to-choose-right-ipo-read-drhp-pe-ratio-pricing-explained-avoid-overvaluation-retail-investor-guide-2817142-2025-11-11",
       "headline": "Not every IPO is a jackpot: How to know if an IPO is really worth your moneyMany retail investors still go by hype, brand names, and subscription figures rather than understanding whether the issue is actually worth investing in."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/the-new-luxury-how-republic-of-nature-redefines-meaningful-living-on-ecr-2814472-2025-11-06",
-      "headline": "The New Luxury: How Republic of Nature Redefines Meaningful Living on ECRDiscover how Republic of Nature by GTB Developers is reshaping Chennai's East Coast Road with design-forward homes that blend luxury, nature, and mindfulness in one of India's most refined new communities."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/the-girlfriend-rashmika-mandanna-rahul-ravindran-chains-break-narcissism-patriarchy-freedom-healing-2816666-2025-11-11",
+      "headline": "The Girlfriend: Rashmika Mandanna shreds veil of patriarchy for every woman'The Girlfriend' showcases Rashmika Mandanna's compelling portrayal of a woman breaking free from patriarchal chains.  The film highlights the subtle yet pervasive impact of abuse and the courage needed to reclaim one's identity."
     },
     {
       "sentiment": "positive",
@@ -261,13 +251,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-are-shubman-gill-co-ready-for-first-real-test-vs-wtc-champions-2817031-2025-11-11",
-      "headline": "Are India ready for their first real test at home against WTC champions?India captain Shubman Gill is gearing up for a challenging Test series against South Africa, the reigning World Test Champions. While India enter the contest on the back of a recent 2-0 series win, several concerns linger for the hosts ahead of the all-important clash."
+      "url": "https://www.indiatoday.in/impact-feature/story/the-new-luxury-how-republic-of-nature-redefines-meaningful-living-on-ecr-2814472-2025-11-06",
+      "headline": "The New Luxury: How Republic of Nature Redefines Meaningful Living on ECRDiscover how Republic of Nature by GTB Developers is reshaping Chennai's East Coast Road with design-forward homes that blend luxury, nature, and mindfulness in one of India's most refined new communities."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/delhi-red-fort-car-blast-terror-plot-doctors-questioned-revelations-2817055-2025-11-11",
       "headline": "J&K doctors questioned over Delhi blast, link to Faridabad module suspected:\u00a0SourcesCops questioned the doctors arrested in connection with a terror plot after an explosion near Red Fort claimed 8 lives on Monday evening."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-are-shubman-gill-co-ready-for-first-real-test-vs-wtc-champions-2817031-2025-11-11",
+      "headline": "Are India ready for their first real test at home against WTC champions?India captain Shubman Gill is gearing up for a challenging Test series against South Africa, the reigning World Test Champions. While India enter the contest on the back of a recent 2-0 series win, several concerns linger for the hosts ahead of the all-important clash."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/45-minute-focus-block-productivity-energy-management-2816670-2025-11-10",
+      "headline": "The 45-minute rule: How the world's most productive people workWhy working in 45-minute focus blocks can make you more productive and less stressed"
     },
     {
       "sentiment": "positive",
