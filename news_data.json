@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-open-slightly-lower-despite-global-optimism-record-low-inflation-2818552-2025-11-13",
+      "headline": "Sensex, Nifty open slightly lower despite global optimism, record-low inflationAt around 9:21 am, the Sensex slipped 143 points to 84,323, while the Nifty50 fell 60 points to 25,816. Broader markets were also under pressure, indicating some profit booking after recent gains."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/gold-silver-price-today-precious-metal-india-rate-impact-us-government-shutdown-end-donald-trump-buy-sell-2818535-2025-11-13",
       "headline": "Gold, silver rate today: How will US shutdown end impact precious metals?After weeks of uncertainty, both houses of the US Congress have passed a deal to reopen the government, ending the longest shutdown in US history."
     },
@@ -94,14 +99,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/pine-labs-ipo-allotment-status-check-latest-gmp-share-price-expectation-2817908-2025-11-12",
       "headline": "Pine Labs IPO allotment out: Check status, listing date and expected gainsInvestors who have applied for the IPO can check their allotment status through the BSE website or via the registrar, Kfin Technologies Ltd."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/gold-silver-prices-today-us-fed-rate-cut-forecast-precious-metals-outlook-2817906-2025-11-12",
-      "headline": "Gold price at Rs 1.24 lakh, silver nears Rs 1.56 lakh: What's next?The rally in precious metals comes amid expectations of a US Federal Reserve rate cut next month, easing concerns around the prolonged US government shutdown and continued weakness in the dollar index."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dhanush-ar-rahman-unreleased-tere-ishk-mein-song-performance-mumbai-2818541-2025-11-13",
+      "headline": "Dhanush's emotional Tamil song at Tere Ishk Mein Mumbai event moves audience Actor Dhanush delivered a live performance of an unreleased Tamil version of a song from 'Tere Ishk Mein' during the film's audio launch event in Mumbai. AR Rahman played the piano and together, the two created a special moment for the fans."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/kris-jenner-plastic-surgeon-steven-levine-was-the-star-of-her-70th-birthday-bash-2818546-2025-11-13",
+      "headline": "Kris Jenner's plastic surgeon Steven Levine was the star of her 70th birthday\u00a0bash Kris Jenner's star-studded 70th birthday bash, hosted at Jeff Bezos and Lauren Sanchez's mansion, featured A-list guests from Beyonc\u00e9 to Oprah Winfrey but it was her plastic surgeon, Dr. Steven Levine, who stole the spotlight online. Levine, credited for Jenner's viral new facelift, was seen celebrating alongside the Kardashian-Jenner clan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/the-girlfriend-box-office-collection-day-6-rashmika-mandanna-film-eyes-rs-20-crore-mark-2818533-2025-11-13",
+      "headline": "The Girlfriend box office Day 6: Rashmika Mandanna's film eyes Rs 20-crore mark Rashmika Mandanna and Dheekshith Shetty's 'The Girlfriend' has crossed the Rs 10-crore mark within six days of its release, maintaining steady box office momentum. The romantic drama's upcoming weekend performance will be crucial in determining if it can reach the Rs 20-crore milestone."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-praised-by-rashmika-mandanna-as-a-blessing-during-the-success-of-the-girlfriend-2818523-2025-11-13",
@@ -181,28 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/devi-sri-prasad-hails-rashmikas-the-girlfriend-says-she-deserves-national-award-2818322-2025-11-12",
       "headline": "Devi Sri Prasad hails Rashmika's The Girlfriend, says she deserves National Award Music composer Devi Sri Prasad, who gave Rashmika Mandanna chart-topping hits like 'Srivalli' and 'Peelings', has heaped praise on the actor for her latest performance in 'The Girlfriend'"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/globe-trotter-priyanka-chopra-says-malti-marie-bonded-with-mahesh-babu-daughter-sitara-a-calf-2818326-2025-11-12",
-      "headline": "Globe Trotter: Priyanka says Malti bonded with Mahesh Babu's daughter, a calf Priyanka Chopra revealed that her daughter Malti Marie had the best time with Mahesh Babu's daughter Sitara during the shoot of 'SSMB29'. The film is tentatively titled 'Globe Trotter'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/priyanka-chopra-goes-guns-blazing-in-saree-1st-look-from-rajamouli-globe-trotter-2818341-2025-11-12",
-      "headline": "Priyanka Chopra goes guns blazing in saree: 1st look from Rajamouli's Globe Trotter SS Rajamouli shared Priyanka Chopra's first look as Mandakini from 'Globe Trotter'. The actor is seen in a fierce appearance, aiming a pistol while wearing a yellow saree."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/border-2-varun-dhawans-march-into-legacy-could-be-his-battle-for-reinvention-2818291-2025-11-12",
-      "headline": "Border 2: Varun Dhawan's march into legacy could be his battle for reinvention Varun Dhawan aims to take a strong leap with 'Border 2', playing Param Vir Chakra awardee Colonel Hoshiar Singh Dahiya. The film could mark his most defining shift as an actor yet \u2013 from mass entertainer to an intense performer."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bomber-identified-dna-confirms-dr-umar-un-nabis-role-in-red-fort-car-blast-2818486-2025-11-13",
-      "headline": "DNA test confirms Dr Umar Nabi drove i20 that exploded near Red Fort Live UpdatesDNA samples taken from members of his family in Kashmir's Pulwama were later matched with human remains recovered from the car, confirming that Dr Umar was driving the Hyundai i20 when it exploded, sources said."
+      "url": "https://www.indiatoday.in/india/story/red-fort-bomber-dr-umar-visited-faiz-e-ilahi-mosque-near-ramlila-maidan-before-blast-caught-on-cctv-2818511-2025-11-13",
+      "headline": "Red Fort bomber Dr Umar visited Old Delhi mosque before blast, caught on CCTVCCTV cameras captured Dr Umar un Nabi entering and leaving the Faiz-e-Ilahi Mosque near Ramlila Maidan, opposite Turkman Gate, where he stayed for over 10 minutes before heading towards the Red Fort."
     },
     {
       "sentiment": "positive",
@@ -211,13 +211,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/fact-check/story/from-jamia-to-jail-terror-tainted-al-falah-chancellor-jawad-siddiqui-shady-past-2818411-2025-11-12",
-      "headline": "From Jamia to jail: Chancellor of terror-tainted Al-Falah has a shady pastAccording to a former colleague who spoke to India Today Fact Check on the condition of anonymity, Jawad became a Mechanical Engineering lecturer at Jamia Millia Islamia in 1993. But his ambitions far exceeded the humble podium of a college."
+      "url": "https://www.indiatoday.in/india/story/bomber-identified-dna-confirms-dr-umar-un-nabis-role-in-red-fort-car-blast-2818486-2025-11-13",
+      "headline": "DNA test confirms Dr Umar Nabi drove i20 that exploded near Red Fort  Live UpdatesDNA samples taken from members of his family in Kashmir's Pulwama were later matched with human remains recovered from the car, confirming that Dr Umar was driving the Hyundai i20 when it exploded, sources said."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/red-fort-blast-handler-ukasa-traced-to-ankara-linked-to-faridabad-module-glbs-2818502-2025-11-13",
-      "headline": "Delhi car bomber was in touch with Turkey-based handler 'Ukasa', say sourcesInvestigators say the Red Fort blast suspects were in contact with a handler codenamed \"Ukasa,\" traced to Ankara, Turkey, who coordinated the group's movements and radicalisation through the encrypted Session app."
+      "url": "https://www.indiatoday.in/fact-check/story/from-jamia-to-jail-terror-tainted-al-falah-chancellor-jawad-siddiqui-shady-past-2818411-2025-11-12",
+      "headline": "From Jamia to jail: Chancellor of terror-tainted Al-Falah has a shady pastAccording to a former colleague who spoke to India Today Fact Check on the condition of anonymity, Jawad became a Mechanical Engineering lecturer at Jamia Millia Islamia in 1993. But his ambitions far exceeded the humble podium of a college."
     },
     {
       "sentiment": "positive",
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-signs-government-funding-bill-ending-shutdown-after-a-record-43-day-disruption-2818544-2025-11-13",
+      "headline": "Trump signs government funding bill, ending shutdown after 43-day disruptionThe President's signature came hours after the Republican-led House of Representatives passed the legislation on Wednesday by a 222-209 vote, despite opposition from House Democrats, who are outraged at their Senate colleagues failing to secure a deal to extend federal health insurance subsidies."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/red-fort-blast-handler-ukasa-traced-to-ankara-linked-to-faridabad-module-glbs-2818502-2025-11-13",
+      "headline": "Delhi car bomber was in touch with Turkey-based handler 'Ukasa', say sourcesInvestigators say the Red Fort blast suspects were in contact with a handler codenamed \"Ukasa,\" traced to Ankara, Turkey, who coordinated the group's movements and radicalisation through the encrypted Session app."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/us-offers-help-in-delhi-blast-probe-but-rubio-says-india-very-capable-doing-good-job-glbs-2818490-2025-11-13",
       "headline": "They don't need our help: Marco Rubio praises India's handling of Delhi blastThe US offered help in probing the deadly Delhi blast, but Secretary of State Marco Rubio praised India's capable, professional investigation, expressing confidence in its handling of the tragedy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/bihar-election-2025-bhagalpur-congress-ajeet-sharma-bollywood-neha-sharma-roadshow-glamour-campaign-votes-results-2818201-2025-11-13",
-      "headline": "Actor-beti Neha Sharma a brahmastra for Congress MLA in Bhagalpur?With election season in Bihar, Bollywood actor and influencer Neha Sharma was back in Bhagalpur. She gave her Instagram feed a break from the usual film promotion, brand endorsements and travel posts and shared a Reel of a roadshow with her father, Congress MLA Ajeet Sharma. Is Neha Sharma really the \"Brahmastra\" and \"Hukum ka ikka\" for her dad?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/red-fort-bomber-dr-umar-visited-faiz-e-ilahi-mosque-near-ramlila-maidan-before-blast-caught-on-cctv-2818511-2025-11-13",
-      "headline": "Red Fort bomber Dr Umar visited Old Delhi mosque before blast, caught on CCTVCCTV cameras captured Dr Umar un Nabi entering and leaving the Faiz-e-Ilahi Mosque near Ramlila Maidan, opposite Turkman Gate, where he stayed for over 10 minutes before heading towards the Red Fort."
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/cia-secretly-dropped-modified-poppy-seeds-to-weaken-afghan-heroin-trade-report-2818489-2025-11-13",
-      "headline": "CIA dropped modified poppy seeds to weaken Afghan heroin trade: ReportThe Washington Post revealed the CIA secretly dropped modified poppy seeds over Afghanistan for a decade to weaken its opium trade, a covert operation that proved costly and largely ineffective.\r\n"
+      "url": "https://www.indiatoday.in/elections/assembly/story/bihar-election-2025-bhagalpur-congress-ajeet-sharma-bollywood-neha-sharma-roadshow-glamour-campaign-votes-results-2818201-2025-11-13",
+      "headline": "Actor-beti Neha Sharma a brahmastra for Congress MLA in Bhagalpur?With election season in Bihar, Bollywood actor and influencer Neha Sharma was back in Bhagalpur. She gave her Instagram feed a break from the usual film promotion, brand endorsements and travel posts and shared a Reel of a roadshow with her father, Congress MLA Ajeet Sharma. Is Neha Sharma really the \"Brahmastra\" and \"Hukum ka ikka\" for her dad?"
     },
     {
       "sentiment": "positive",
@@ -255,14 +255,19 @@
       "headline": "The New Luxury: How Republic of Nature Redefines Meaningful Living on ECRDiscover how Republic of Nature by GTB Developers is reshaping Chennai's East Coast Road with design-forward homes that blend luxury, nature, and mindfulness in one of India's most refined new communities."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/video-nithari-killings-accused-surendra-koli-walks-out-of-jail-after-acquittal-2818522-2025-11-13",
-      "headline": "Video: Nithari killings accused Surendra Koli walks out of jail after acquittalSurendra Koli was released from the jail Wednesday night after he was acquitted by the Supreme Court in the last remaining murder case related to the infamous 2005-2006 Nithari killings in Noida, which drew widespread media attention."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/cia-secretly-dropped-modified-poppy-seeds-to-weaken-afghan-heroin-trade-report-2818489-2025-11-13",
+      "headline": "CIA dropped modified poppy seeds to weaken Afghan heroin trade: ReportThe Washington Post revealed the CIA secretly dropped modified poppy seeds over Afghanistan for a decade to weaken its opium trade, a covert operation that proved costly and largely ineffective.\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/adah-sharma-half-the-country-wanted-to-protect-me-other-half-wanted-to-kill-me-2818260-2025-11-13",
       "headline": "Adah Sharma: Half the country wanted to protect me, other half wanted to kill meActor Adah Sharma spoke to IndiaToday.in about receiving death threats post 'The Kerala Story' and why she deems controversial roles necessary. She also discussed her upcoming legal thriller 'Reeta Sanyal Season 2'"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/video-nithari-killings-accused-surendra-koli-walks-out-of-jail-after-acquittal-2818522-2025-11-13",
+      "headline": "Video: Nithari killings accused Surendra Koli walks out of jail after acquittalSurendra Koli was released from the jail Wednesday night after he was acquitted by the Supreme Court in the last remaining murder case related to the infamous 2005-2006 Nithari killings in Noida, which drew widespread media attention."
     },
     {
       "sentiment": "positive",
@@ -276,18 +281,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-house-advances-bill-to-end-record-shutdown-restore-key-federal-services-glbs-2818499-2025-11-13",
-      "headline": "US House clears bill to end longest government shutdown, Trump to sign it soonCongress passed a deal ending the longest US government shutdown, restoring worker pay and services. The bill, backed by Trump, extends funding through January 30, reigniting partisan clashes over healthcare subsidies."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kajol-says-marriage-expiry-date-renewal-option-twinkle-khanna-cheating-remark-vicky-kaushal-kriti-sanon-2818141-2025-11-12",
       "headline": "After Twinkle's viral cheating remark, Kajol says marriage should have expiry dateIn the finale of 'Two Much With Kajol and Twinkle', Kajol sparked a debate by suggesting marriages should have an expiry date and renewal option."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/delhi-red-fort-blast-live-updates-car-explosion-chandini-chowk-dr-umar-nia-pm-modi-faridabad-terror-module-2818500-2025-11-13",
-      "headline": "Live: Lal Quila Metro Station to remain closed until further notice due to security reasonsDelhi Red Fort Blast Live Updates: A powerful explosion ripped through a Hyundai i20 near Delhi's Red Fort Metro Station at around 6.50 pm on Monday, killing 12 people and injuring 20 others. The explosion took place in a slow-moving car that had stopped at a red light just outside the Red Fort metro station. Preliminary investigations suggest a coordinated terror attack, prompting authorities to invoke the UAPA in the FIR. The Union Cabinet on Wednesday officially classified the blast as a \"terrorist act\" carried out by \"anti-national elements.\" The National Investigation Agency has assumed charge of the probe as security has been tightened and nationwide alerts remain in effect. Stay tuned to indiatoday.in for all the latest updates."
+      "headline": "Live: Dr Umar, his associates coordinated via Signal app, raised Rs 20 lakh for attackDelhi Red Fort Blast Live Updates: A powerful explosion ripped through a Hyundai i20 near Delhi's Red Fort Metro Station at around 6.50 pm on Monday, killing 12 people and injuring 20 others. The explosion took place in a slow-moving car that had stopped at a red light just outside the Red Fort metro station. Preliminary investigations suggest a coordinated terror attack, prompting authorities to invoke the UAPA in the FIR. The Union Cabinet on Wednesday officially classified the blast as a \"terrorist act\" carried out by \"anti-national elements.\" The National Investigation Agency has assumed charge of the probe as security has been tightened and nationwide alerts remain in effect. Stay tuned to indiatoday.in for all the latest updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-house-advances-bill-to-end-record-shutdown-restore-key-federal-services-glbs-2818499-2025-11-13",
+      "headline": "US House clears bill to end longest government shutdown, Trump to sign it soonCongress passed a deal ending the longest US government shutdown, restoring worker pay and services. The bill, backed by Trump, extends funding through January 30, reigniting partisan clashes over healthcare subsidies."
     },
     {
       "sentiment": "negative",
@@ -295,14 +300,14 @@
       "headline": "Bhopal model death: Family claims boyfriend hid religion, forced her to convertBhopal Police arrested Kasim Ahmad, boyfriend of model Khushbu Ahirwar, for allegedly forcing her to convert and altering her Aadhaar photo to show her in a burqa. The case has sparked outrage after Khushbu's mysterious death earlier this month."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/delhi-bomb-blast-red-fort-pakistan-islamabad-court-explosion-expose-bias-trump-america-us-india-condolence-tweets-2818325-2025-11-12",
-      "headline": "Do US remarks on Delhi, Islamabad blasts reveal Trump's bias?The explosion in Delhi and the suicide blast in Islamabad triggered global reactions. But the US' responses to both the incidents have sparked a debate if America, under President Donald Trump, has a bias towards Pakistan. While Washington DC condemned the Islamabad attack as terrorism, it delayed its response to the Delhi blast, which had a neutral tone. The US' response didn't go unnoticed."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/the-devil-wears-prada-sequel-reunites-meryl-streep-anne-hathaway-media-industry-shift-2818494-2025-11-13",
       "headline": "The Devil Wears Prada 2 drops teaser: Meryl Streep, Anne Hathaway return in MayThe sequel to the 2006 hit brings back Meryl Streep, Anne Hathaway and Emily Blunt to depict new power struggles at Runway magazine amid the decline of print journalism."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/delhi-bomb-blast-red-fort-pakistan-islamabad-court-explosion-expose-bias-trump-america-us-india-condolence-tweets-2818325-2025-11-12",
+      "headline": "Do US remarks on Delhi, Islamabad blasts reveal Trump's bias?The explosion in Delhi and the suicide blast in Islamabad triggered global reactions. But the US' responses to both the incidents have sparked a debate if America, under President Donald Trump, has a bias towards Pakistan. While Washington DC condemned the Islamabad attack as terrorism, it delayed its response to the Delhi blast, which had a neutral tone. The US' response didn't go unnoticed."
     },
     {
       "sentiment": "negative",
@@ -316,21 +321,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/bihar-elections-2025-axis-my-india-exit-polls-nda-mahagathbandhan-nitish-tejashwi-2818284-2025-11-12",
-      "headline": "Narrow edge for NDA, Bihar staring at photo finish, predicts Axis My India exit pollBihar exit polls: The Axis My India exit poll has predicted a narrow win for the Nitish Kumar-led NDA in the Bihar elections, despite 20 years of anti-incumbency. The Tejashwi Yadav-led Mahagathbandhan is likely to secure 98-118 seats."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dhanush-ar-rahman-unreleased-tere-ishk-mein-song-performance-mumbai-2818541-2025-11-13",
+      "headline": "Dhanush's emotional Tamil song at Tere Ishk Mein Mumbai event moves audienceActor Dhanush delivered a live performance of an unreleased Tamil version of a song from 'Tere Ishk Mein' during the film's audio launch event in Mumbai. AR Rahman played the piano and together, the two created a special moment for the fans."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/the-girlfriend-box-office-collection-day-6-rashmika-mandanna-film-eyes-rs-20-crore-mark-2818533-2025-11-13",
-      "headline": "The Girlfriend box office Day 6: Rashmika Mandanna's film eyes Rs 20-crore markRashmika Mandanna and Dheekshith Shetty's 'The Girlfriend' has crossed the Rs 10-crore mark within six days of its release, maintaining steady box office momentum. The romantic drama's upcoming weekend performance will be crucial in determining if it can reach the Rs 20-crore milestone."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-praised-by-rashmika-mandanna-as-a-blessing-during-the-success-of-the-girlfriend-2818523-2025-11-13",
-      "headline": "Rashmika Mandanna: Hope everyone has a Vijay Deverakonda in life, he's a blessingAt the success meet of 'The Girlfriend' in Hyderabad, Rashmika Mandanna expressed gratitude to Vijay Deverakonda, referring to him as \"a blessing\" and sharing her hopes that everyone has such a person in their lives."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/kris-jenner-plastic-surgeon-steven-levine-was-the-star-of-her-70th-birthday-bash-2818546-2025-11-13",
+      "headline": "Kris Jenner's plastic surgeon Steven Levine was the star of her 70th birthday\u00a0bashKris Jenner's star-studded 70th birthday bash, hosted at Jeff Bezos and Lauren Sanchez's mansion, featured A-list guests from Beyonc\u00e9 to Oprah Winfrey but it was her plastic surgeon, Dr. Steven Levine, who stole the spotlight online. Levine, credited for Jenner's viral new facelift, was seen celebrating alongside the Kardashian-Jenner clan."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/euro-2028-uk-ireland-cardiff-opening-wembley-final-2818563-2025-11-13",
+      "headline": "Euro 2028 to kick off in Cardiff, Wembley to host final Cardiff will host the opening match of the 2028 European Championship on June 9, while the final has been scheduled for London's Wembley Stadium on July 9, tournament organiser UEFA announced on Wednesday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-wi-5th-t20i-jacob-duffy-leads-new-zealand-to-eight-wicket-win-over-west-indies-2818554-2025-11-13",
+      "headline": "NZ vs WI: New Zealand cruise past West Indies after Duffy sparks top-order collapse Jacob Duffy's four-wicket burst and a commanding opening stand from Tim Robinson and Devon Conway powered New Zealand to an eight-wicket win over the West Indies. The visitors crumbled early and never recovered as the hosts wrapped up the chase with ease."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-hashim-amla-says-inexperience-could-help-south-africa-in-india-tests-2818534-2025-11-13",
@@ -368,13 +378,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/sania-mirze-single-mother-panic-attacks-shoaib-malik-divore-farah-khan-support-2818449-2025-11-12",
-      "headline": "Sania Mirza details emotional toll of Shoaib Malik divorce, recalls panic attack Sania Mirza has revealed she suffered panic attacks after her divorce from Shoaib Malik. The tennis star credited her close friend, Bollywood director Farah Khan, for helping her through one of her lowest emotional moments."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/sanam-sekhon-india-drift-king-guinness-world-record-2818139-2025-11-13",
+      "headline": "Tyre smoke, control: India's drift king Sanam Sekhon on his Guinness record ride India's very own Drift King, Sanam Sekhon, did the unthinkable when he pulled off the perfect drift to claim the Guinness World Record at the Umling La. Speaking to India Today, Sanam opens up on his journey, the legacy he wants to leave and more. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-to-abandon-ongoing-pakistan-tour-after-islamabad-bomb-blast-2818445-2025-11-12",
-      "headline": "SLC to take action against players considering leaving Pak after Islamabad blast The Sri Lankan cricket board has warned its players of action who are thinking of pulling out of the ongoing Pakistan tour after a bomb blast in Islamabad. Several members of the Sri Lankan squad have informed their cricket board that they are unwilling to continue with the tour, citing security fears"
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-south-africa-test-series-2025-stat-pack-rishabh-pant-shubman-gill-2818313-2025-11-13",
+      "headline": "Rishabh Pant eyes Sehwag's historic India record in South Africa Tests: Stat Pack IND vs SA, Stat Pack: Rishabh Pant, Shubman Gill, Ravindra Jadeja and other Indian players will eye key milestones in the upcoming Test series against South Africa, starting November 14."
     },
     {
       "sentiment": "positive",
@@ -389,12 +399,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/sania-mirze-single-mother-panic-attacks-shoaib-malik-divore-farah-khan-support-2818449-2025-11-12",
-      "headline": "Sania Mirza details emotional toll of Shoaib Malik divorce, recalls panic attack Sania Mirza has revealed she suffered panic attacks after her divorce from Shoaib Malik. The tennis star credited her close friend, Bollywood director Farah Khan, for helping her through one of her lowest emotional moments."
+      "headline": "Sania Mirza details emotional toll of Shoaib Malik divorce, recalls panic attackSania Mirza has revealed she suffered panic attacks after her divorce from Shoaib Malik. The tennis star credited her close friend, Bollywood director Farah Khan, for helping her through one of her lowest emotional moments."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-to-abandon-ongoing-pakistan-tour-after-islamabad-bomb-blast-2818445-2025-11-12",
-      "headline": "SLC to take action against players considering leaving Pak after Islamabad blast The Sri Lankan cricket board has warned its players of action who are thinking of pulling out of the ongoing Pakistan tour after a bomb blast in Islamabad. Several members of the Sri Lankan squad have informed their cricket board that they are unwilling to continue with the tour, citing security fears"
+      "headline": "SLC to take action against players considering leaving Pak after Islamabad blastThe Sri Lankan cricket board has warned its players of action who are thinking of pulling out of the ongoing Pakistan tour after a bomb blast in Islamabad. Several members of the Sri Lankan squad have informed their cricket board that they are unwilling to continue with the tour, citing security fears"
     },
     {
       "sentiment": "positive",
@@ -428,13 +438,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-responds-ian-botham-criticism-england-ashes-preparation-australia-tour-2818264-2025-11-12",
-      "headline": "Stokes responds to Botham's criticism over Ashes preps: Not sure what more we can doBen Stokes has dismissed Ian Botham's criticism over England's Ashes preparations, insisting the team has done everything possible despite a packed schedule. He sounded confident that England will be ready when the series begins."
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-yet-to-confirm-vijay-hazare-trophy-participation-mca-official-2818358-2025-11-12",
+      "headline": "No word from Rohit Sharma on availability for Vijay Hazare Trophy: MCA OfficialMumbai Cricket Association officials state Rohit Sharma has not yet communicated his availability for the Vijay Hazare Trophy. The BCCI has reportedly urged senior players to participate in domestic cricket to remain in ODI contention. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/david-beckham-gary-neville-india-visit-november-salford-city-promotion-2818265-2025-11-12",
-      "headline": "David Beckham and Gary Neville set to land in India promoting Salford CityManchester United legends David Beckham and Gary Neville will visit India this November to promote their club Salford City. Their trip adds to a star-studded year for Indian football, with Lionel Messi also set to arrive soon."
+      "url": "https://www.indiatoday.in/sports/cricket/story/r-ashwin-shardul-thakur-arjun-tendulkartraded-mumbai-indians-ipl-2026-retention-2818340-2025-11-12",
+      "headline": "Shardul Thakur to MI? R Ashwin accidentally reveals big trade move for IPL 2026Ravichandran Ashwin accidentally revealed Shardul Thakur's trade to Mumbai Indians ahead of the IPL 2026 retention deadline. Thakur played for Lucknow Super Giants (LSG) in IPL and scalped 13 wickets from ten games."
     },
     {
       "sentiment": "positive",
@@ -485,16 +495,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/laura-wolvaardt-senuran-muthuswamy-named-icc-players-of-the-month-for-october-2818171-2025-11-12",
       "headline": "Laura Wolvaardt named ICC Player of the Month for October after World Cup heroicsSouth Africa's Laura Wolvaardt and Senuran Muthuswamy have been named ICC Women's and Men's Players of the Month respectively for October. Wolvaardt was the highest run scorer of the Women's World Cup 2025, while Muthuswamy was the Player of the Series in the two-match Test rubber against Pakistan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-confident-shukri-conrad-to-end-test-series-win-india-press-conference-2818125-2025-11-12",
-      "headline": "South Africa confident of history of our own in India: Head coach Shukri ConradIND vs SA, 1st Test: In the press conference before the Kolkata Test, South Africa head coach Shukri Conrad said that the Proteas have a potent spin attack and are more than capable of beating India in their upcoming Test series."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/security-beefed-up-for-sri-lankan-cricket-team-amid-terror-threats-mohsin-naqvi-2818092-2025-11-12",
-      "headline": "Security beefed up for Sri Lanka team after suicide bombing in IslamabadPakistan has ramped up security for the visiting Sri Lankan cricket team following recent militant attacks, deploying the army and paramilitary forces for protection. PCB chairman and Interior Minister Mohsin Naqvi personally assured the visitors of fool-proof safety."
     }
   ],
   "education": [
