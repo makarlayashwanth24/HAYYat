@@ -104,6 +104,31 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/meezaan-jafri-interview-on-groupism-nepotism-de-de-pyaar-de-2-opportunities-saying-star-kids-have-it-easy-is-stupid-2824835-2025-11-24",
+      "headline": "Saying star kids have it easy is stupid: Meezaan Jafri on groupism, opportunities In an exclusive interview with us, Meezaan Jafri opened up about the biggest myths around nepotism and why calling star-kids privileged is \"stupid.\" He spoke about groupism, navigating industry circles, and building a career without gimmicks or PR noise. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-wedding-security-concerns-rise-high-profile-event-2824848-2025-11-24",
+      "headline": "Taylor Swift reportedly a high-risk target ahead of wedding to Travis Kelce Singer Taylor Swift's security team is reportedly on high alert as she and Travis Kelce prepare for their upcoming wedding, with concerns rising over potential risks due to the singer's high profile and public appearances."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/rebel-wilson-addresses-sexual-harassment-lawsuit-claims-legal-battle-2824845-2025-11-24",
+      "headline": "Rebel Wilson breaks silence after costar sues her over harassment report Actor Rebel Wilson has publicly addressed her legal dispute with 'The Deb' star Charlotte MacInnes, following allegations of sexual harassment involving producer Amanda Ghost."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/donald-glover-cancels-2024-world-tour-after-stroke-heart-surgery-2824844-2025-11-24",
+      "headline": "Donald Glover opens up about stroke and heart condition that halted tour Singer Donald Glover has spoken publicly about the health challenges that forced him to halt his The New World Tour in 2024, revealing he suffered a stroke and underwent heart surgery. The artiste, who returned to the stage recently, provided details about his medical ordeal and discussed his recovery"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/stranger-things-transforms-david-harbours-acting-career-iconic-jim-hopper-2824842-2025-11-24",
+      "headline": "David Harbour says Stranger Things shattered his idea of who he'd become Actor David Harbour discusses his evolving career, the impact of 'Stranger Things,' and the creative journey with the Duffer brothers, highlighting the shifts in both the series and his own approach over five seasons."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/photo/neha-kakkar-lights-up-sahitya-aaj-tak-grand-finale-sings-chartbusters-2824833-2025-11-24",
       "headline": "Neha Kakkar lights up Sahitya Aaj Tak grand finale, sings chartbusters The grand finale of Sahitya Aaj Tak 2025 took place at Delhi's Major Dhyan Chand Stadium, where singer Neha Kakkar lit up the evening with her high-energy performance, making the event even more special and entertaining."
     },
@@ -171,48 +196,33 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/never-thought-of-acting-as-profession-jaideep-ahlawat-once-wanted-to-join-the-army-2824687-2025-11-23",
       "headline": "Jaideep Ahlawat wanted to join the Army: Never thought of acting as profession Actor Jaideep Ahlawat recently revealed that he wanted to join the Indian Army before adopting acting as a profession. Here's what he said at Sahitya AajTak 2025"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/ektaa-kapoor-saw-me-at-office-reception-cast-me-as-tulsi-smriti-irani-bagging-kyunki-saas-bhi-kabhi-bahu-thi-2824654-2025-11-23",
-      "headline": "Smriti Irani on bagging Kyunki: Ekta saw me at office reception, cast me as Tulsi Actor and politician Smriti Irani recently spoke about how she bagged the popular role as Tulsi Virani in 'Kyunki Saas Bhi Kabhi Bahu Thi'. The actor looked back at her initial career days and said how the role changed her role. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/divyabharathi-accuses-goat-director-naresh-kuppili-of-misconduct-aicwa-demands-womens-safety-reforms-2824629-2025-11-23",
-      "headline": "Cine workers body backs Divyabharathi, urges women's safety reforms in films Actor Divyabharathi's public accusations against director Naresh Kuppili have led to calls from the All Indian Cine Workers Association for a formal enquiry and stronger mechanisms to protect women in the Indian film industry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/naga-chaitanya-nc24-titled-vrushakarma-makers-unveil-poster-actor-birthday-2824618-2025-11-23",
-      "headline": "Naga Chaitanya's NC24 titled Vrushakarma, makers unveil poster on actor's birthday On actor Naga Chaitanya's birthday today, the makers of his upcoming film 'NC24' unveiled the first look poster along with the title. The film also stars Meenakshi Chaudhary in a key role. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sobhita-dhulipala-birthday-wish-naga-chaitanya-protective-husband-see-pic-2824613-2025-11-23",
-      "headline": "Sobhita's birthday wish shows Naga Chaitanya as protective husband. See pic Actor Sobhita Dhulipala shared a special post on her husband Naga Chaitanya's 39th birthday with a romantic picture of the couple. Take a look at the post here. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/salman-khan-confronts-amaal-mallik-shehbaz-badeshah-bigg-boss-19-weekend-ka-vaar-2824592-2025-11-23",
-      "headline": "Bigg Boss 19: Salman Khan confronts Amaal, Shehbaz for disrespectful conduct During the recent Weekend Ka Vaar episode on Bigg Boss 19, host Salman Khan confronted contestants Amaal Mallik and Shehbaz Badeshah regarding their comments and behaviour on the show. "
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/trump-slams-ukraine-volodymyr-zelenskyy-zero-gratitude-as-europe-scrambles-to-save-peace-framework-2824819-2025-11-23",
-      "headline": "Trump slams Ukraine's 'zero gratitude' as Europe scrambles to save peace frameworkIn a lengthy Truth Social post, Trump accused Ukraine's leadership of \"zero gratitude\" towards US's efforts in ending the war. He also slammed Europe for continuing to buy oil from Russia."
+      "headline": "Zero gratitude: Trump slams Ukraine as Europe scrambles to save peace planIn a lengthy Truth Social post, Trump accused Ukraine's leadership of \"zero gratitude\" towards US's efforts in ending the war. He also slammed Europe for continuing to buy oil from Russia."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/defence-minister-rajnath-singh-says-borders-can-change-and-sindh-may-return-to-india-again-2824774-2025-11-23",
-      "headline": "Borders can change, Sindh may return to India: Rajnath Singh's big remarkDefence Minister Rajnath Singh, while speaking at an event, said the Sindh region, now in Pakistan, may not be part of India today but it will always be civilisationally a part of India."
+      "url": "https://www.indiatoday.in/world/us-news/story/doge-department-ceases-operations-trump-executive-order-glbs-2824847-2025-11-24",
+      "headline": "DOGE quietly ceased to exist eight months ahead of schedule: ReportThe DOGE department has quietly stopped functioning months before its mandate expired. Created in January, DOGE was initially positioned as a strike force to cut federal agencies' budgets and reorient government functions toward Trump's agenda."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pm-modi-carney-india-canada-resume-trade-negotiations-glbs-2824839-2025-11-24",
-      "headline": "PM Modi invites Carney to New Delhi as India, Canada move to resume trade talksThe MEA said the leaders agreed to begin negotiations on a \"high-ambition\" Comprehensive Economic Partnership Agreement (CEPA), aiming to double bilateral trade by 2030."
+      "url": "https://www.indiatoday.in/world/story/ramaphosas-jibe-at-pm-modi-on-hosting-g20-summit-glbs-2824841-2025-11-24",
+      "headline": "Maybe we would have run away: Ramaphosa's banter with PM Modi on hosting G20India hosted the 18th G20 summit at Bharat Mandapam in New Delhi in September 2023, when the African Union was added as a permanent member of the group. Ramaphosa said South Africa had closely watched India's stewardship of the group in 2023."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-air-pollution-aqi-today-noida-gurugram-ghaziabad-very-poor-severe-grap-2824849-2025-11-24",
+      "headline": "Delhi air quality on brink of turning severe, Noida AQI worse at 413On Monday, Delhi-NCR's air quality deteriorated, with multiple areas including ITO, Anand Vihar, Jahangirpuri, Rohini, and Noida recording severe pollution levels. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/video/video-russian-aerobatic-teams-tribute-to-iafs-namansh-syal-who-died-in-tejas-crash-2824825-2025-11-23",
+      "headline": "Brother who didn't return: Russia's tribute to IAF pilot killed in Tejas crashThe Russian aerobatic team paid tribute to Indian Air Force's Wing Commander Namansh Syal, who was killed after the Light Combat Airfract Tejas he was flying crashed in Dubai on Friday."
     },
     {
       "sentiment": "positive",
@@ -221,8 +231,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/gujarati-ben-mumbai-ahmedabad-gujarat-making-for-america-thepla-fafda-hit-among-indian-techies-nri-students-diaspora-usa-2824509-2025-11-23",
-      "headline": "How Gujarati kitchens became lifelines for Indian students and techies in USBefore flying to the US, many travellers make a quick stop at small businesses in Mumbai and Ahmedabad to stock up on vacuum-sealed packets of thepla, fafda, ready-to-eat pav bhaji, and other Gujarati snacks. The Gujarati women who run these businesses from their home kitchens are a lifeline for students and techies going to the US. Their pre-ordered foods are especially for those travelling abroad."
+      "url": "https://www.indiatoday.in/world/story/pm-modi-carney-india-canada-resume-trade-negotiations-glbs-2824839-2025-11-24",
+      "headline": "PM Modi invites Carney to New Delhi as India, Canada move to resume trade talksThe MEA said the leaders agreed to begin negotiations on a \"high-ambition\" Comprehensive Economic Partnership Agreement (CEPA), aiming to double bilateral trade by 2030."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/defence-minister-rajnath-singh-says-borders-can-change-and-sindh-may-return-to-india-again-2824774-2025-11-23",
+      "headline": "Borders can change, Sindh may return to India: Rajnath Singh's big remarkDefence Minister Rajnath Singh, while speaking at an event, said the Sindh region, now in Pakistan, may not be part of India today but it will always be civilisationally a part of India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-a-win-asia-cup-rising-stars-title-third-time-super-over-final-2824832-2025-11-24",
+      "headline": "India denied, but Mohsin Naqvi hands Pakistan Asia Cup trophyMohsin Naqvi handed the trophy to Pakistan A after they won the Rising Stars Asia Cup title after beating Bangladesh A in the thrilling final that went into the Super Over in Doha on Sunday. Naqvi, who is the Asian Cricket Council chief, famously denied India the Asia Cup after they beat Pakistan in the final earlier this year.  "
     },
     {
       "sentiment": "positive",
@@ -231,18 +251,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/wing-commander-afshan-wife-of-namash-syal-killed-dubai-tejas-crash-emotional-farewell-to-husband-2824739-2025-11-23",
-      "headline": "Wing Commander's teary goodbye to fighter pilot husband killed in Tejas crashVideos showed an inconsolable Wing Commander Afshan, with tears profusely rolling down her eyes, paying her final salutations to her husband."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/israel-targets-hezbollah-chief-of-staff-in-first-strike-on-beirut-in-months-2824780-2025-11-23",
-      "headline": "Hezbollah chief-of-staff Haytham Ali Tabatabai killed in Beirut\u00a0strike:\u00a0IsraelThe Israel Defense Forces have reportedly eliminated Hezbollah's chief of staff Ali Tabatabai in a rare strike on Beirut's southern suburbs, marking a significant blow to the group's leadership. This operation reflects Israel's ongoing efforts to curb Hezbollah's military capabilities amid rising regional tensions.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/video/video-protesters-march-in-washington-demanding-trumps-impeachment-removal-2824809-2025-11-23",
-      "headline": "Video: Protesters march in Washington demanding Trump's impeachment, removalDemonstrators return to the streets with renewed urgency. Organisers accuse Trump of authoritarian overreach. Lawmakers promise impeachment articles before Christmas."
+      "url": "https://www.indiatoday.in/cities/delhi/story/fresh-protests-erupt-at-india-gate-over-delhis-toxic-air-cop-injured-in-chilli-spray-attack-6-detained-2824804-2025-11-23",
+      "headline": "Fresh protests at India Gate over Delhi pollution, cops pepper sprayed; 6 detainedOn Sunday evening, protesters gathered near India Gate demanding action on the city's \"very poor\" air quality. Police said the demonstrators were asked to vacate the site, citing a Supreme Court order that says that Jantar Mantar, not India Gate, is the designated site for protests in Delhi."
     },
     {
       "sentiment": "positive",
@@ -251,23 +261,48 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-odi-squad-bcci-kl-rahul-captain-2824737-2025-11-23",
-      "headline": "KL Rahul to lead India vs South Africa, Ruturaj Gaikwad returns to ODI squadIndia vs South Africa: KL Rahul will lead India in the absence of Shubman Gil in the upcoming ODI series, starting November 30. Rohit Sharma and Virat Kohli have been named in India's 15-man squad, which features Ravindra Jadeja and Ruturaj Gaikwad. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/fresh-protests-erupt-at-india-gate-over-delhis-toxic-air-cop-injured-in-chilli-spray-attack-6-detained-2824804-2025-11-23",
-      "headline": "Fresh protests at India Gate over Delhi pollution, chilli sprayed on cops; 6 detainedThe protesters had gathered near India Gate demanding action on the city's \"very poor\" air quality, but were eventually removed by police."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/vijay-varma-gustakh-ishq-fatima-sana-shaikh-2824784-2025-11-23",
-      "headline": "Vijay Varma: Gustakh Ishq will remind of life before mobile phonesVijay Varma and Fatima Sana Shaikh discussed their upcoming romantic film, 'Gustakh Ishq', at Sahitya Aajtak 2025 on Sunday. The film also features Naseeruddin Shah."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/india-sends-students-abroad-but-can-it-attract-the-world-back-2824772-2025-11-24",
+      "headline": "India sends students abroad, but can it attract the world back?India's universities can become competitive only when quality, autonomy, and research strength grow together. The world's top institutions succeed because they combine stable funding, independent decision-making, strong faculty, and deep industry ties."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/impact-feature/story/cgc-university-mohali-where-vision-becomes-legacy-and-education-becomes-evolution-2821185-2025-11-17",
       "headline": "CGC University, Mohali: Where vision becomes legacy and education becomes evolutionStories of students who dare to dream, of educators who ignite curiosity, and of a community that chooses progress with purpose."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/wing-commander-afshan-wife-of-namash-syal-killed-dubai-tejas-crash-emotional-farewell-to-husband-2824739-2025-11-23",
+      "headline": "Wing Commander's teary goodbye to fighter pilot husband killed in Tejas crashVideos showed an inconsolable Wing Commander Afshan, with tears profusely rolling down her eyes, paying her final salutations to her husband."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-odi-squad-bcci-kl-rahul-captain-2824737-2025-11-23",
+      "headline": "KL Rahul to lead India vs South Africa, Ruturaj Gaikwad returns to ODI squadIndia vs South Africa: KL Rahul will lead India in the absence of Shubman Gil in the upcoming ODI series, starting November 30. Rohit Sharma and Virat Kohli have been named in India's 15-man squad, which features Ravindra Jadeja and Ruturaj Gaikwad. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/meezaan-jafri-interview-on-groupism-nepotism-de-de-pyaar-de-2-opportunities-saying-star-kids-have-it-easy-is-stupid-2824835-2025-11-24",
+      "headline": "Saying star kids have it easy is stupid: Meezaan Jafri on groupism, opportunitiesIn an exclusive interview with us, Meezaan Jafri opened up about the biggest myths around nepotism and why calling star-kids privileged is \"stupid.\" He spoke about groupism, navigating industry circles, and building a career without gimmicks or PR noise. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sunday-special/story/gujarati-ben-mumbai-ahmedabad-gujarat-making-for-america-thepla-fafda-hit-among-indian-techies-nri-students-diaspora-usa-2824509-2025-11-23",
+      "headline": "How Gujarati kitchens became lifelines for Indian students and techies in USBefore flying to the US, many travellers make a quick stop at small businesses in Mumbai and Ahmedabad to stock up on vacuum-sealed packets of thepla, fafda, ready-to-eat pav bhaji, and other Gujarati snacks. The Gujarati women who run these businesses from their home kitchens are a lifeline for students and techies going to the US. Their pre-ordered foods are especially for those travelling abroad."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/lost-in-translation-indian-techie-terrified-after-uber-drivers-message-misreads-as-threat-2824315-2025-11-22",
+      "headline": "Lost in translation: Indian techie terrified after Uber driver's message misreads as threatA Meta techie's Uber ride turned frightening due to a wrong auto-translated message from the driver, and no one was prepared for what the original message from the driver was."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-says-udaipur-played-cupid-in-his-love-story-with-deepika-padukone-2824796-2025-11-23",
+      "headline": "Ranveer Singh says Udaipur played Cupid in his love story with Deepika PadukoneRanveer Singh spoke about the significance of Udaipur in his personal life during the wedding celebrations of Netra Mantena and Vamsi Gadiraju. The actor shared memories from 2013 when he and Deepika Padukone first grew close during a shoot in the city. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-wedding-security-concerns-rise-high-profile-event-2824848-2025-11-24",
+      "headline": "Taylor Swift reportedly a high-risk target ahead of wedding to Travis KelceSinger Taylor Swift's security team is reportedly on high alert as she and Travis Kelce prepare for their upcoming wedding, with concerns rising over potential risks due to the singer's high profile and public appearances."
     },
     {
       "sentiment": "positive",
@@ -281,56 +316,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-ravindra-jadeja-odi-squad-announcement-comeback-bcci-kl-rahul-2824746-2025-11-23",
-      "headline": "Ravindra Jadeja returns to ODI squad as India rest like-for-like Axar PatelIND vs SA: Ravindra Jadeja's ODI journey gets a fresh lifeline as he earns a recall for the South Africa series, ending months of speculation around his place in the format."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-545-21-11-2025",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/lost-in-translation-indian-techie-terrified-after-uber-drivers-message-misreads-as-threat-2824315-2025-11-22",
-      "headline": "Lost in translation: Indian techie terrified after Uber driver's message misreads as threatA Meta techie's Uber ride turned frightening due to a wrong auto-translated message from the driver, and no one was prepared for what the original message from the driver was."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/new-labour-codes-10-key-changes-every-employee-should-know-2824640-2025-11-23",
       "headline": "New labour codes: 10 key changes every employee should knowWhether someone works full-time, on a contract, or in sector-specific roles like media, plantations or factories, the new framework affects nearly everyone. Here are the key updates workers should be aware of, along with several other important changes that haven't received enough attention."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-says-udaipur-played-cupid-in-his-love-story-with-deepika-padukone-2824796-2025-11-23",
-      "headline": "Ranveer Singh says Udaipur played Cupid in his love story with Deepika PadukoneRanveer Singh spoke about the significance of Udaipur in his personal life during the wedding celebrations of Netra Mantena and Vamsi Gadiraju. The actor shared memories from 2013 when he and Deepika Padukone first grew close during a shoot in the city. "
+      "url": "https://www.indiatoday.in/movies/celebrities/story/meezaan-jafri-interview-on-groupism-nepotism-de-de-pyaar-de-2-opportunities-saying-star-kids-have-it-easy-is-stupid-2824835-2025-11-24",
+      "headline": "Saying star kids have it easy is stupid: Meezaan Jafri on groupism, opportunitiesIn an exclusive interview with us, Meezaan Jafri opened up about the biggest myths around nepotism and why calling star-kids privileged is \"stupid.\" He spoke about groupism, navigating industry circles, and building a career without gimmicks or PR noise. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bangladesh-urges-india-to-return-sheikh-hasina-after-tribunals-death-sentence-2824823-2025-11-23",
-      "headline": "Bangladesh sends extradition request to India for Sheikh\u00a0HasinaBangladesh's interim government led by Muhammad Yunus has formally requested India to extradite deposed prime minister Sheikh Hasina following her death sentence by the International Crimes Tribunal. This move intensifies diplomatic tensions between the two neighbouring countries amid serious allegations.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dmk-functionary-named-in-rape-fir-after-woman-alleges-months-of-assault-blackmail-2824830-2025-11-23",
-      "headline": "Woman accuses DMK functionary of sexual harassment, blackmail; case\u00a0registeredA DMK functionary Baskaran has been FIR registered for sexual harassment and blackmail by a 25-year-old woman in Tamil Nadu. The case has sparked political reactions with opposition demanding strict action and better safety measures for women.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-police-busts-international-drug-syndicate-seizes-meth-worth-rs-262-crore-2824783-2025-11-23",
-      "headline": "Delhi Police busts international drug syndicate, seizes meth worth\u00a0Rs\u00a0262\u00a0croreA major drug syndicate has been busted in Delhi with the seizure of over 328 kg of methamphetamine worth Rs 262 crore. The operation highlights the success of coordinated efforts by NCB and Delhi Police against synthetic drug trafficking.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/wicked-for-good-sets-box-office-records-226-million-global-debut-2824817-2025-11-23",
-      "headline": "Wicked: For Good becomes biggest Broadway film debut with $226M worldwide'Wicked: For Good', Universal's highly-anticipated musical, has made a remarkable debut at the box office with outstanding earnings and audience response, setting new records for Broadway musical adaptations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-says-udaipur-played-cupid-in-his-love-story-with-deepika-padukone-2824796-2025-11-23",
-      "headline": "Ranveer Singh says Udaipur played Cupid in his love story with Deepika PadukoneRanveer Singh spoke about the significance of Udaipur in his personal life during the wedding celebrations of Netra Mantena and Vamsi Gadiraju. The actor shared memories from 2013 when he and Deepika Padukone first grew close during a shoot in the city. "
+      "url": "https://www.indiatoday.in/movies/hollywood/story/rebel-wilson-addresses-sexual-harassment-lawsuit-claims-legal-battle-2824845-2025-11-24",
+      "headline": "Rebel Wilson breaks silence after costar sues her over harassment reportActor Rebel Wilson has publicly addressed her legal dispute with 'The Deb' star Charlotte MacInnes, following allegations of sexual harassment involving producer Amanda Ghost."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ruturaj-gaikwad-india-recall-16-months-201-runs-south-africa-a-2824829-2025-11-24",
+      "headline": "Ruturaj Gaikwad breaks selection barrier to force his way back into India team After 16 months on the sidelines, Ruturaj Gaikwad has earned a return to the India squad for the ODI series against South Africa. The Maharashtra batter has kept piling on runs during his time away, and his prolific form has finally compelled the selectors to take notice."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-2nd-test-live-score-day-3-guwahati-updates-2824855-2025-11-24",
+      "headline": "2nd Test Day 3 Live: Rahul, Jaiswal eye flying start India vs South Africa live score 2nd Test Day 3 Updates: With a mountain to climb, India will set out for Day 3 of the Guwahati Test, aiming for a fast start. KL Rahul and Yashasvi Jaiswal will be in firm focus as India look to overhaul the 489 set by South Africa on a flat deck in Guwahati. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-a-win-asia-cup-rising-stars-title-third-time-super-over-final-2824832-2025-11-24",
+      "headline": "India denied, but Mohsin Naqvi hands Pakistan Asia Cup trophy Mohsin Naqvi handed the trophy to Pakistan A after they won the Rising Stars Asia Cup title after beating Bangladesh A in the thrilling final that went into the Super Over in Doha on Sunday. Naqvi, who is the Asian Cricket Council chief, famously denied India the Asia Cup after they beat Pakistan in the final earlier this year.  "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ravi-shastris-bold-advice-to-declare-early-for-india-to-win-in-guwahati-2824816-2025-11-23",
@@ -373,18 +388,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-blind-womens-cricket-team-win-inaugural-t20-world-cup-celebration-2824775-2025-11-23",
-      "headline": "Watch: India Blind team imitates Harmanpreet's iconic celebration after World Cup win India's blind women's team lifted the T20 World Cup in style, mirroring Harmanpreet Kaur's iconic celebration and dominating Nepal with a clinical all-round performance led by Phula Saren's match-winning heroics."
+      "url": "https://www.indiatoday.in/sports/cricket/story/r-ashwin-on-england-bazball-batting-ashes-test-perth-ben-stokes-2824802-2025-11-23",
+      "headline": "R Ashwin tears into England's Bazball approach: How reckless can you be? Ravichandran Ashwin has criticised England's Bazball approach after their batting collapse in the first Ashes Test in Perth. Ashwin questioned whether high-risk batting is being wrongly justified as positive intent."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/video/smriti-mandhanas-wedding-postponed-due-to-fathers-medical-emergency-ytvd-2824756-2025-11-23",
-      "headline": "Smriti Mandhana's Wedding Postponed Due To Father's Medical Emergency This special report covers the indefinite postponement of Indian cricketer Smriti Mandhana's wedding to music composer Palash Muchhal. The decision was made following a medical emergency involving her father, Shrinivas Mandhana, who was hospitalised on the morning the ceremony was scheduled to take place. The report states, 'Smriti Mandana has decided that until her father recovers, the wedding which was supposed to happen today will be postponed indefinitely'. The segment includes live inputs from India Today's Nitin Srivastava, who confirms that Mandhana's father is under observation and undergoing tests. The family has requested privacy as they focus on his recovery."
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-crush-zimbabwe-rawalpindi-t20i-tri-series-final-usman-tariq-babar-azam-2824805-2025-11-23",
+      "headline": "Clinical Pakistan hammer Zimbabwe to storm into T20I tri-series final PAK vs ZIM: Pakistan stormed into the T20I tri-series final with a dominant 69-run win over Zimbabwe, powered by fifties from Sahibzada Farhan and Babar Azam, and Usman Tariq's hat-trick.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-kuldeep-yadav-guwahati-pitch-road-no-complaints-2824750-2025-11-23",
-      "headline": "Kuldeep Yadav's stunning take on Guwahati Test pitch: It was road, but no complaints IND vs SA: Kuldeep Yadav called the Guwahati surface \"like a road\" as South Africa piled up 489, leaving India chasing time rather than turn. On a flat track, the challenge now is purely about survival and discipline."
+      "url": "https://www.indiatoday.in/sports/cricket/story/usman-tariq-hat-trick-zimbabwe-pakistan-tri-series-rawalpindi-2824800-2025-11-23",
+      "headline": "Usman Tariq rattles Zimbabwe, becomes 4th Pakistan bowler with Men's T20I hat-trick PAK vs ZIM: Usman Tariq etched his name into Pakistan's cricket history with a brilliant T20I hat-trick against Zimbabwe in Rawalpindi, becoming the country's fourth bowler to achieve the feat. "
     },
     {
       "sentiment": "negative",
@@ -399,17 +414,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-blind-womens-cricket-team-win-inaugural-t20-world-cup-celebration-2824775-2025-11-23",
-      "headline": "Watch: India Blind team imitates Harmanpreet's iconic celebration after World Cup win India's blind women's team lifted the T20 World Cup in style, mirroring Harmanpreet Kaur's iconic celebration and dominating Nepal with a clinical all-round performance led by Phula Saren's match-winning heroics."
+      "headline": "Watch: India Blind team imitates Harmanpreet's iconic celebration after World Cup winIndia's blind women's team lifted the T20 World Cup in style, mirroring Harmanpreet Kaur's iconic celebration and dominating Nepal with a clinical all-round performance led by Phula Saren's match-winning heroics."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/video/smriti-mandhanas-wedding-postponed-due-to-fathers-medical-emergency-ytvd-2824756-2025-11-23",
-      "headline": "Smriti Mandhana's Wedding Postponed Due To Father's Medical Emergency This special report covers the indefinite postponement of Indian cricketer Smriti Mandhana's wedding to music composer Palash Muchhal. The decision was made following a medical emergency involving her father, Shrinivas Mandhana, who was hospitalised on the morning the ceremony was scheduled to take place. The report states, 'Smriti Mandana has decided that until her father recovers, the wedding which was supposed to happen today will be postponed indefinitely'. The segment includes live inputs from India Today's Nitin Srivastava, who confirms that Mandhana's father is under observation and undergoing tests. The family has requested privacy as they focus on his recovery."
+      "headline": "Smriti Mandhana's Wedding Postponed Due To Father's Medical EmergencyThis special report covers the indefinite postponement of Indian cricketer Smriti Mandhana's wedding to music composer Palash Muchhal. The decision was made following a medical emergency involving her father, Shrinivas Mandhana, who was hospitalised on the morning the ceremony was scheduled to take place. The report states, 'Smriti Mandana has decided that until her father recovers, the wedding which was supposed to happen today will be postponed indefinitely'. The segment includes live inputs from India Today's Nitin Srivastava, who confirms that Mandhana's father is under observation and undergoing tests. The family has requested privacy as they focus on his recovery."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-kuldeep-yadav-guwahati-pitch-road-no-complaints-2824750-2025-11-23",
-      "headline": "Kuldeep Yadav's stunning take on Guwahati Test pitch: It was road, but no complaints IND vs SA: Kuldeep Yadav called the Guwahati surface \"like a road\" as South Africa piled up 489, leaving India chasing time rather than turn. On a flat track, the challenge now is purely about survival and discipline."
+      "headline": "Kuldeep Yadav's stunning take on Guwahati Test pitch: It was road, but no complaintsIND vs SA: Kuldeep Yadav called the Guwahati surface \"like a road\" as South Africa piled up 489, leaving India chasing time rather than turn. On a flat track, the challenge now is purely about survival and discipline."
     },
     {
       "sentiment": "positive",
@@ -438,18 +453,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-2nd-test-day-2-score-senuran-jansen-bowlers-2824711-2025-11-23",
-      "headline": "Home disadvantage? India bowlers toil as South Africa pile on 489 in GuwahatiIndia vs South Africa, 2nd Test Day 2: Senuran Muthusamy's 109 and Marco Jansen's 93 ensured South Africa added 243 runs for their last four wickets and posted a massive first innings total of 489. India now face an unforgiving equation: bat big, bat fast, and find urgency, or watch South Africa stroll to a series win."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-ravindra-jadeja-odi-squad-announcement-comeback-bcci-kl-rahul-2824746-2025-11-23",
+      "headline": "Ravindra Jadeja returns to ODI squad as India rest like-for-like Axar PatelIND vs SA: Ravindra Jadeja's ODI journey gets a fresh lifeline as he earns a recall for the South Africa series, ending months of speculation around his place in the format."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-wedding-postponed-father-unwell-palash-muchhal-2824709-2025-11-23",
-      "headline": "Smriti Mandhana's wedding postponed after father shows heart attack symptomsSmriti Mandhana and Palash Muchhal's wedding has been postponed indefinitely after the cricketer's father fell ill. Dr. Naman Shah, Director of Sarvhit Hospital, said that her father showed symptoms of a heart attack after pain on the left side of his chest.\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/video/india-vs-south-africa-kuldeep-yadav-press-conference-guwahati-test-2824745-2025-11-23",
+      "headline": "Can't attack all the time and leak runs: Kuldeep Yadav on toiling hard in Guwahati TestIND vs SA, 2nd Test: Kuldeep Yadav picked up four wickets, but worked hard for nearly 30 overs as South Africa put up a massive score of 489 in the first innings of the second Test at the Barsapara Stadium in Guwahati. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-wins-inaugural-womens-t20-world-cup-for-the-blind-2824689-2025-11-23",
-      "headline": "India script history, clinch inaugural Women's T20 World Cup for the BlindIndia made history by winning the first-ever Women's T20 World Cup for the Blind, outplaying Nepal with a convincing seven-wicket victory in the final. A disciplined bowling display and a commanding chase led by Phula Saren highlighted India's dominance, capping an undefeated tournament campaign."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-odi-squad-bcci-kl-rahul-captain-2824737-2025-11-23",
+      "headline": "KL Rahul to lead India vs South Africa, Ruturaj Gaikwad returns to ODI squadIndia vs South Africa: KL Rahul will lead India in the absence of Shubman Gil in the upcoming ODI series, starting November 30. Rohit Sharma and Virat Kohli have been named in India's 15-man squad, which features Ravindra Jadeja and Ruturaj Gaikwad. "
     },
     {
       "sentiment": "positive",
@@ -495,21 +510,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-squad-odi-t20i-selection-live-updates-captaincy-rohit-virat-2824641-2025-11-23",
       "headline": "IND v SA squad announcement highlights: Jadeja, Gaikwad return to ODIsIndia vs South Africa ODI and T20I squad selection: The BCCI selection committee will meet on Sunday, November 23 to pick the one-day and T20I squad. Shubman Gill is all but ruled out of the ODI series, starting November 30 and India are looking at Shubman Gill or Rishabh Pant for leadership. Follow us for all updates on the big selection day."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/lakshya-sen-wins-sydney-super-500-title-2824620-2025-11-23",
-      "headline": "Resurgent Lakshya Sen wins Australian Open, ends wait for first title of the yearLakshya Sen ended his title drought by winning the Australian Open, a Super 500 tournament in Sydney. The World No. 14 defeated Japan's Yushi Tanaka in straight games in a one-sided final on Sunday. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-2nd-test-guwahati-rishabh-pant-captaincy-anil-kumble-2824616-2025-11-23",
-      "headline": "Passive? Pant's captaincy questioned after wicketless session in Guwahati TestIndia vs South Africa: India's lack of intent on a benign Guwahati pitch has reignited scrutiny of their tactical flexibility. South Africa added 69 runs on Sunday morning without losing a wicket in the first session as they went past 300 in the first innings. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/liverpool-suffer-heavy-3-0-home-defeat-to-nottingham-forest-premier-league-2824562-2025-11-23",
-      "headline": "Liverpool manager Arne Slot accepts blame for Nottingham Forest hammeringLiverpool manager Arne Slot has accepted the blame for his side's humbling loss to Nottingham Forest at Anfield on Saturday, November 22. The Reds were hammered 0-3 at home as their poor run of form continued. "
     }
   ],
   "education": [
