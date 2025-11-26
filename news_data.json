@@ -202,7 +202,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/hong-kong-tai-po-fire-kills-high-rise-flats-bamboo-scaffolding-2826383-2025-11-26",
-      "headline": "Three arrested after Hong Kong high-rise fire kills 36 and leaves 279 missingA massive blaze tore through seven high-rise blocks in Hong Kong's Tai Po district, killing 36 people, injuring at least 279 and leaving hundreds displaced as firefighters battled the level-5 alarm inferno through the night. "
+      "headline": "Three arrested after Hong Kong high-rise fire kills 44, nearly 300 missingA massive blaze tore through seven high-rise blocks in Hong Kong's Tai Po district, killing 44 people and nearly 300 missing. The fire tore through a cluster of apartment towers in the Tai Po district on Wednesday."
     },
     {
       "sentiment": "positive",
@@ -210,9 +210,9 @@
       "headline": "Two National Guard members killed in shooting near White House, suspect\u00a0in\u00a0custodyA suspect, who was taken into custody shortly after the shooting, was also wounded. His injuries are not believed to be life-threatening, according to local media. One of the wounded guardsmen suffered a gunshot wound to the head. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-races-to-be-global-rare-earths-magnet-repm-with-rs-7300-crore-plan-china-dependence-ev-fighter-jet-semiconductors-2826495-2025-11-26",
-      "headline": "How India's Rs 7,280-crore rare earths plan will help it escape China chokeholdThe Cabinet on Wednesday cleared a Rs 7,280-crore rare earth permanent magnet (REPM) scheme to cut import dependence on China. The 7-year plan isn't just crucial for the EV, wind energy, electronics and defence sectors, it will help New Delhi geopolitically."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/rashtriya-janata-dal-rejects-bihar-government-order-vacate-lalu-prasad-yadav-bungalows-2826412-2025-11-26",
+      "headline": "Not at any cost: RJD leader says Lalu Yadav's family won't vacate Patna bungalowsThe Bihar government reassigned former Chief Minister Rabri Devi's long-held residence at 10 Circular Road and a separate bungalow on M Strand Road occupied by her elder son, Tej Pratap Yadav."
     },
     {
       "sentiment": "positive",
@@ -225,6 +225,11 @@
       "headline": "HR88B8888: India's costliest car number plate fetches a stunning Rs 1.17 croreThe auction, held through the official portal, drew 45 applicants; bidding began at Rs 50,000 and surged to a record high by the 5 pm deadline."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-races-to-be-global-rare-earths-magnet-repm-with-rs-7300-crore-plan-china-dependence-ev-fighter-jet-semiconductors-2826495-2025-11-26",
+      "headline": "How India's Rs 7,280-crore rare earths plan will help it escape China chokeholdThe Cabinet on Wednesday cleared a Rs 7,280-crore rare earth permanent magnet (REPM) scheme to cut import dependence on China. The 7-year plan isn't just crucial for the EV, wind energy, electronics and defence sectors, it will help New Delhi geopolitically."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/us-news/story/trump-bars-south-africa-from-2026-g20-summit-cuts-us-funding-after-summit-dispute-glbs-2826626-2025-11-27",
       "headline": "Trump bars South Africa from 2026 G20 summit, cuts US funding after disputeTrump said he is excluding South Africa from the 2026 G20 summit in Miami and cutting all US support to the country after accusing it of disrespecting a US representative during the Johannesburg summit. "
@@ -233,11 +238,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/operation-1011-the-explosive-truth-how-the-red-fort-car-bomb-ingredients-were-sourced-so-easily-2826537-2025-11-26",
       "headline": "Exclusive: How Delhi's Red Fort car bomb ingredients were sourced so easilyAn India Today sting investigation shows how farm outlets allegedly fudge land records to show bulk sales of fertilisers, unaware of their potential use in crude car bombs."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rashtriya-janata-dal-rejects-bihar-government-order-vacate-lalu-prasad-yadav-bungalows-2826412-2025-11-26",
-      "headline": "Not at any cost: RJD leader says Lalu Yadav's family won't vacate Patna bungalowsThe Bihar government reassigned former Chief Minister Rabri Devi's long-held residence at 10 Circular Road and a separate bungalow on M Strand Road occupied by her elder son, Tej Pratap Yadav."
     },
     {
       "sentiment": "positive",
@@ -252,7 +252,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/national-guard-members-shot-white-house-lockdown-thanksgiving-glbs-2826627-2025-11-27",
-      "headline": "Video shows moments after shooting of two National Guard members near White HouseTwo National Guard members were shot near the White House, causing a brief lockdown. The incident raised security concerns ahead of Thanksgiving in Washington DC."
+      "headline": "Video shows moments after shooting of two National Guard members near White HouseTwo West Virginia National Guard members were shot near the White House in Washington, DC. A suspect, who was taken into custody shortly after the shooting, was also wounded. His injuries are not believed to be life-threatening."
     },
     {
       "sentiment": "positive",
