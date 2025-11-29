@@ -99,6 +99,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/vir-das-turns-lyricist-to-highlight-mumbai-pollution-with-a-witty-song-2827956-2025-11-29",
+      "headline": "Vir Das turns lyricist to highlight Mumbai pollution with a witty song. Video Vir Das turned lyricist to highlight Mumbai's worsening smog, posting a witty song with lines like \"AQI, AQI, let me die\" that has humour with the city's pollution woes."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/tere-ishk-mein-box-office-collection-day-1-dhanush-kriti-sanon-film-earns-rs-1650-crore-2827932-2025-11-29",
       "headline": "Tere Ishk Mein box office Day 1: Dhanush-Kriti Sanon's film earns Rs 16.50\u00a0crore Tere Ishk Mein, starring Dhanush and Kriti Sanon, opened strongly at the box office with a Rs 16.50 crore Day 1 collection, supported by solid occupancy across major cities."
     },
@@ -186,23 +191,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/arunachal-cm-praises-riyan-mipi-family-man-3-northeast-young-actor-2827606-2025-11-28",
       "headline": "Arunachali child actor Riyan Mipi praised by CM for The Family Man 3 role Arunachal Pradesh CM Pema Khandu praises young actor Riyan Mipi for his role in The Family Man Season 3. This recognition highlights growing opportunities for Northeast actors on national platforms."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/zootopia-2-review-a-wilder-louder-sequel-where-flaws-hide-under-fur-and-laughter-2827599-2025-11-28",
-      "headline": "Zootopia 2 review: A wilder, louder sequel where flaws hide under fur and laughterRelease Date:Fri Nov 28, 2025 Zootopia 2 warmly invites viewers back into its vibrant city, with deeper and timely themes of trust and prejudice. The film balances humour and urgency, offering a fresh yet thoughtful continuation of the Disney prequel. "
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/karnataka-cm-siddaramaiah-welcome-his-deputy-shivakumar-at-residence-for-breakfast-meet-amid-power-crisis-2827937-2025-11-29",
-      "headline": "Siddaramaiah hosts Shivakumar for breakfast amid Karnataka power tussleKarnataka Chief Minister Siddaramaiah on Saturday morning hosted embattled Deputy Chief Minister DK Shivakumar over breakfast to discuss the ongoing leadership tussle within the Congress-led government. "
+      "url": "https://www.indiatoday.in/india/story/karnataka-power-tussle-siddaramaiah-dk-shivakumar-breakfast-chief-minister-congress-high-command-2827979-2025-11-29",
+      "headline": "We're united: Siddaramaiah, Shivakumar's bonhomie after breakfast meetSiddaramaiah and DK Shivakumar used a high-command-prompted breakfast meeting in Bengaluru to project unity, discuss 2028 election strategy and dismiss speculation of a leadership rift in Karnataka. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-congress-crisis-news-live-updates-power-tussle-dk-shivakumar-siddaramaiah-politics-breakfast-meeting-bengaluru-2827882-2025-11-29",
-      "headline": "Live: Held productive discussion, posts Shivakumar after meet with Siddaramaiah \u00a0Karnataka Political Crisis Live: Karnataka Chief Minister Siddaramaiah and embattled Deputy Chief Minister DK Shivakumar are set to meet today to discuss the ongoing leadership tussle within the Congress-led government. Shivakumar and his supporters have demanded that the party honour what they describe as a power-sharing agreement, seeking his appointment as Chief Minister as the government reaches its midway term. The meeting has been convened at the behest of the Congress High Command. Shivakumar said he was 'not in a hurry,' while Siddaramaiah reiterated that his position remains unchanged. Stay tuned to India Today for the latest updates and political developments from Karnataka."
+      "url": "https://www.indiatoday.in/india/story/karnataka-cm-siddaramaiah-welcome-his-deputy-shivakumar-at-residence-for-breakfast-meet-amid-power-crisis-2827937-2025-11-29",
+      "headline": "Siddaramaiah hosts Shivakumar for breakfast amid Karnataka power tussleSiddaramaiah on Saturday hosted Shivakumar over breakfast to discuss the ongoing leadership tussle within the Congress-led Karnataka government. "
     },
     {
       "sentiment": "positive",
@@ -220,19 +220,49 @@
       "headline": "Nikhil Kamath teases next podcast with Elon Musk. Internet can't handle itNikhil Kamath dropped a black-and-white teaser hinting at Elon Musk's upcoming appearance on his WTF podcast."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/cyclone-ditwah-and-senyar-live-updates-rain-alert-tamil-nadu-puducherry-andhra-pradesh-2827299-2025-11-28",
       "headline": "LIVE: Heavy rain hits Tamil Nadu as storm inches closer; flights affected, trains\u00a0cancelledCyclone Ditwah Live Updates: The India Meteorological Department (IMD) informed that Cyclonic Storm Ditwah is moving toward the Tamil Nadu, Puducherry and south Andhra Pradesh coast, and is likely to make landfall on November 30. The storm had earlier struck Sri Lanka's eastern coast on Friday morning, leaving over 80 people dead and causing extensive damage as it moved northwest toward India. PM Modi offered condolences to those who lost loved ones and wished a swift recovery for the affected communities. The system remains classified as a cyclonic storm with no indication of strengthening further. Tamil Nadu has issued a red alert for four districts and an orange alert for five others ahead of its arrival. Follow indiatoday.in for live updates."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-palash-muchhal-update-instagram-bios-wedding-postponed-2827942-2025-11-29",
-      "headline": "Smriti Mandhana, Palash Muchhal update Instagram bios amid wedding delayIndia batter Smriti Mandhana and her fianc\u00e9 have postponed their wedding due to her father's health scare. The couple updated their Instagram bios with a nazar emoji amid social media rumours following the delay."
+      "headline": "Buzz over Mandhana, Palash's Instagram bio update amid wedding delayIndia batter Smriti Mandhana and her fianc\u00e9 Palash Muchhal have postponed their wedding due to her father's health scare. The couple updated their Instagram bios with a nazar emoji amid social media rumours about their personal lives."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indian-speakers-dispute-pakistan-high-commission-oxford-union-debate-withdrawal-claims-2827874-2025-11-29",
-      "headline": "Oxford Union debate row: Indian lawyer demolishes Pakistan's walkout versionThe controversy erupted after the Pakistan High Commission in the UK claimed in a tweet that Indian speakers withdrew at the last moment from a debate titled 'India's Policy Towards Pakistan is a Populist Strategy Sold as Security Policy,' resulting in a walkover for the Pakistani team."
+      "headline": "Oxford Union debate row: Lawyer Sai Deepak demolishes Pak's walkout versionThe controversy erupted after the Pakistan High Commission in the UK claimed in a tweet that Indian speakers withdrew at the last moment from a debate titled 'India's Policy Towards Pakistan is a Populist Strategy Sold as Security Policy,' resulting in a walkover for the Pakistani team."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/reviews/story/mahindra-xev-9s-review-first-drive-an-e-suv-for-the-family-man-2827926-2025-11-29",
+      "headline": "Mahindra XEV 9S review, first drive: An E-SUV for the family manMahindra's electric SUVs are rather radical. But what about people who don't want to go that flashy? Mahindra believes the XEV 9S will be the right choice for them. But will it be? We find out.\r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/impact-feature/story/amazons-siddharth-bhagat-breaks-down-indias-new-beauty-economy-from-global-trends-to-tech-led-discovery-2825952-2025-11-26",
+      "headline": "Amazon's Siddharth Bhagat Breaks Down India's New Beauty Economy\u2014From Global Trends to Tech-Led DiscoveryTracing India's changing beauty codes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-congress-crisis-news-live-updates-power-tussle-dk-shivakumar-siddaramaiah-politics-breakfast-meeting-bengaluru-2827882-2025-11-29",
+      "headline": "Live: Shivakumar to head to Delhi to meet key MPsKarnataka Political Crisis Live: Karnataka Chief Minister Siddaramaiah and embattled Deputy Chief Minister DK Shivakumar met for breakfast today after the Congress leadership asked them to bury their differences, before heading to Delhi to resolve the crisis within the Congress-led government. Shivakumar and his supporters have demanded that the party honour what they describe as a power-sharing agreement, seeking his appointment as Chief Minister as the government reaches its halfway mark. Stay tuned to IndiaToday.in for the latest updates and political developments from Karnataka."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/terror-suspects-ask-for-food-at-jk-home-spark-massive-search-operation-2827955-2025-11-29",
+      "headline": "3 terror suspects ask for food at J&K home, spark massive search\u00a0operationA tense security operation is underway in Udhampur's Basantgarh region after suspected terrorists sought food from a local Bakerwal family. Security forces are combing dense forests and villages to trace the suspects in this high-risk infiltration corridor.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/vir-das-turns-lyricist-to-highlight-mumbai-pollution-with-a-witty-song-2827956-2025-11-29",
+      "headline": "Vir Das turns lyricist to highlight Mumbai pollution with a witty song. VideoVir Das turned lyricist to highlight Mumbai's worsening smog, posting a witty song with lines like \"AQI, AQI, let me die\" that has humour with the city's pollution woes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/impact-feature/story/from-serenity-to-celebration-gujarat-in-all-its-shades-2823221-2025-11-20",
+      "headline": "From Serenity to Celebration - Gujarat in All Its ShadesAnother destination that has stood the test of time and modernisation is Vadnagar."
     },
     {
       "sentiment": "negative",
@@ -241,43 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/amazons-siddharth-bhagat-breaks-down-indias-new-beauty-economy-from-global-trends-to-tech-led-discovery-2825952-2025-11-26",
-      "headline": "Amazon's Siddharth Bhagat Breaks Down India's New Beauty Economy\u2014From Global Trends to Tech-Led DiscoveryTracing India's changing beauty codes."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/blank-cd-shocks-pune-court-during-rahul-gandhi-savarkar-defamation-trial-2827445-2025-11-28",
-      "headline": "Drama during Rahul Gandhi's Savarkar defamation trial, blank CD shocks Pune courtThe CD, which was earlier viewed by the court, was found blank during Thursday's hearing"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/muslim-cleric-confronted-for-refusing-to-chant-bharat-mata-ki-jai-in-viral-video-in-arunachal-pradesh-2827927-2025-11-29",
-      "headline": "Muslim cleric confronted for refusing to chant 'Bharat Mata ki Jai'\u00a0in\u00a0viral\u00a0videoA heated confrontation at Naharlagun's Jama Masjid in Arunachal Pradesh has sparked widespread debate after APIYO leaders challenged the mosque's cleric over patriotic slogans. The incident highlights tensions around identity, immigration, and nationalism in the region."
+      "url": "https://www.indiatoday.in/education-today/study-abroad/story/us-graduate-loan-rules-to-change-in-2026-new-limits-for-11-professional-degrees-2827707-2025-11-29",
+      "headline": "US sets $200,000 loan cap for 11 graduate degrees under new 2026 rulesThe United States is preparing one of the most significant changes to graduate lending in more than a decade. The new framework will reshape borrowing limits, programme categories and access to federal loans for thousands of students."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-gautam-gambhir-drs-2827858-2025-11-29",
-      "headline": "DRS: Who is responsible for the lowest point in Indian cricket?India's losses in two home series in two years have forced the cricketing fans into an uncomfortable question \u2013 who is responsible for this mess? Is it the selectors, the coach or the current crop of players who have failed to live up to their positions?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/from-serenity-to-celebration-gujarat-in-all-its-shades-2823221-2025-11-20",
-      "headline": "From Serenity to Celebration - Gujarat in All Its ShadesAnother destination that has stood the test of time and modernisation is Vadnagar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/new-afghan-equation-india-gifts-lifesaving-drugs-pakistan-airstike-deaths-10-million-dollar-trade-afghanistan-setback-islamabad-2827762-2025-11-28",
-      "headline": "New Afghan equation: India gifts lifesaving drugs, Pak airstrike deathsIndia is winning goodwill in Afghanistan through humanitarian aid and a multi-million-dollar medicine deal, even as Pakistan's airstrikes are killing dozens of Afghans. On Friday, a 73-tonne consignment of lifesaving medicines and vaccines reached Kabul from India. It is a new equation that is emerging amid strained ties with Pakistan, the Afghan Taliban's former ally."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-board-exams-2026-new-question-paper-pattern-students-must-know-2827929-2025-11-29",
-      "headline": "CBSE shifts to 50% competency-based questions for 2026 board examsCBSE has announced a major revamp of the 2026 board exam pattern, shifting focus from rote learning to real understanding. The new structure aims to test application, analysis, and problem-solving skills more effectively.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/rangeela-at-30-does-the-trendsetter-superhit-survive-new-age-scrutiny-2827644-2025-11-29",
-      "headline": "Rangeela at 30: Does the trendsetter superhit survive new-age scrutiny?As Rangeela's 4K restoration lights up screens this November 28, Cinematic Saturday looks at the blueprint that changed it all, while analysing if its tropes pass in 2025?\r\n\r\n"
+      "url": "https://www.indiatoday.in/trending-news/story/man-claims-his-friend-thought-hr-wanted-to-marry-him-after-routine-interview-2827933-2025-11-29",
+      "headline": "Man claims his friend thought HR wanted to marry him after routine interviewA man's friend misinterpreted an HR interview question about marriage as a personal interest, which triggered a mixture of both amusement and concern among social media users. "
     },
     {
       "sentiment": "positive",
@@ -286,13 +286,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-says-he-endorsed-cardamom-not-gutkha-in-pan-masala-ad-row-2827917-2025-11-29",
-      "headline": "Salman Khan says he endorsed cardamom, not gutkha, in pan masala ad rowSalman Khan told the Kota Consumer Court that he endorsed only silver-coated cardamom and \"not gutkha,\" as he faced allegations of promoting misleading pan masala ads. The complaint also questioned the authenticity of his signatures and raised concerns about celebrity responsibility in influencing young consumers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/study-abroad/story/us-graduate-loan-rules-to-change-in-2026-new-limits-for-11-professional-degrees-2827707-2025-11-29",
-      "headline": "US sets $200,000 loan cap for 11 graduate degrees under new 2026 rulesThe United States is preparing one of the most significant changes to graduate lending in more than a decade. The new framework will reshape borrowing limits, programme categories and access to federal loans for thousands of students."
+      "url": "https://www.indiatoday.in/india/story/blank-cd-shocks-pune-court-during-rahul-gandhi-savarkar-defamation-trial-2827445-2025-11-28",
+      "headline": "Drama during Rahul Gandhi's Savarkar defamation trial, blank CD shocks Pune courtThe CD, which was earlier viewed by the court, was found blank during Thursday's hearing"
     },
     {
       "sentiment": "positive",
@@ -301,8 +296,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-hot-air-balloon-rides-launch-dda-yamuna-riverfront-2827884-2025-11-29",
-      "headline": "Delhi set to float above skyline: Hot air balloon rides\u00a0launch\u00a0todayDelhi is set to introduce its first-ever hot air balloon rides along the Yamuna riverfront, offering residents a unique aerial adventure. This initiative aims to enhance the city's recreational options and attract tourism during the winter months."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/rangeela-at-30-does-the-trendsetter-superhit-survive-new-age-scrutiny-2827644-2025-11-29",
+      "headline": "Rangeela at 30: Does the trendsetter superhit survive new-age scrutiny?As Rangeela's 4K restoration lights up screens this November 28, Cinematic Saturday looks at the blueprint that changed it all, while analysing if its tropes pass in 2025?\r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-gautam-gambhir-drs-2827858-2025-11-29",
+      "headline": "DRS: Who is responsible for the lowest point in Indian cricket?India's losses in two home series in two years have forced the cricketing fans into an uncomfortable question \u2013 who is responsible for this mess? Is it the selectors, the coach or the current crop of players who have failed to live up to their positions?"
     },
     {
       "sentiment": "negative",
@@ -311,8 +311,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/siddaramaiah-dk-shivakumar-karnataka-power-tussle-chief-minister-congress-high-command-2827900-2025-11-29",
-      "headline": "Stop taking jibes: How Congress top brass pulled up Siddaramaiah, ShivakumarCongress leaders Siddaramaiah and DK Shivakumar have been asked by KC Venugopal to resolve their differences over Karnataka power-sharing. Both are set to meet at the Chief Minister's residence before being called to Delhi."
+      "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2026-mumbai-indians-royal-challengers-bengaluru-schedule-navi-mumbai-vadodara-2827948-2025-11-29",
+      "headline": "MI vs RCB kicks off blockbuster season as BCCI announces full scheduleThe WPL 2026 will begin on January 9 with defending champions Mumbai Indians facing Royal Challengers Bengaluru, featuring 20 league matches across Navi Mumbai and Vadodara, following an auction where 67 of 277 players were sold for Rs 40.8 crore."
     },
     {
       "sentiment": "positive",
@@ -328,13 +328,23 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ayush-mhatre-youngest-player-score-centuries-all-formats-breaks-rohit-sharma-record-2827963-2025-11-29",
+      "headline": "Ayush Mhatre shatters Rohit Sharma's record after blistering century in SMAT Ayush Mhatre broke Rohit Sharma's record to become the youngest player to score centuries in all three formats of cricket. He achieved the feat  after scoring his maiden T20 century for Mumbai in Syed Mushtaq Ali Trophy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ashes-ben-stokes-responds-critics-england-heavy-defeat-in-perth-2827936-2025-11-29",
+      "headline": "Ben Stokes hits back at critics: Call England rubbish, but not arrogant Ashes, AUS vs ENG: Skipper Ben Stokes defended England after a heavy eight-wicket loss, insisting the team isn't arrogant and vowing to fight back in the five-match series."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2026-mumbai-indians-royal-challengers-bengaluru-schedule-navi-mumbai-vadodara-2827948-2025-11-29",
       "headline": "MI vs RCB kicks off blockbuster season as BCCI announces full schedule The WPL 2026 will begin on January 9 with defending champions Mumbai Indians facing Royal Challengers Bengaluru, featuring 20 league matches across Navi Mumbai and Vadodara, following an auction where 67 of 277 players were sold for Rs 40.8 crore."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-palash-muchhal-update-instagram-bios-wedding-postponed-2827942-2025-11-29",
-      "headline": "Smriti Mandhana, Palash Muchhal update Instagram bios amid wedding delay India batter Smriti Mandhana and her fianc\u00e9 have postponed their wedding due to her father's health scare. The couple updated their Instagram bios with a nazar emoji amid social media rumours following the delay."
+      "headline": "Buzz over Mandhana, Palash's Instagram bio update amid wedding delay India batter Smriti Mandhana and her fianc\u00e9 Palash Muchhal have postponed their wedding due to her father's health scare. The couple updated their Instagram bios with a nazar emoji amid social media rumours about their personal lives."
     },
     {
       "sentiment": "positive",
@@ -373,13 +383,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/junior-hockey-world-cup-india-vs-chile-winning-start-chennai-2827855-2025-11-28",
-      "headline": "India thrash Chile 7-0 to open Junior Hockey World Cup campaign in style Rosan Khujur and Dilraj Singh starred as India began their Junior Hockey World Cup campaign in dominant fashion, thrashing Chile 7-0 to underline their title ambitions in front of the home crowd."
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-records-india-odi-series-south-africa-2827902-2025-11-29",
+      "headline": "Rohit Sharma nears 20K international runs, eyes historic landmark IND vs SA: Rohit Sharma enters the South Africa ODI series on the verge of two historic milestones, reaching 20,000 international runs and becoming the first batter to hit 650 sixes."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/papua-new-guinea-cricketer-kiplin-doriga-jailed-robbery-jersey-2827839-2025-11-28",
-      "headline": "International cricketer jailed for punching woman and stealing her phone: Report Papua New Guinea cricketer Kiplin Doriga has been sentenced to three years in jail for robbery in Jersey. The case raises concerns about athlete conduct during international tours."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-gautam-gambhir-drs-2827858-2025-11-29",
+      "headline": "DRS: Who is responsible for the lowest point in Indian cricket? India's losses in two home series in two years have forced the cricketing fans into an uncomfortable question \u2013 who is responsible for this mess? Is it the selectors, the coach or the current crop of players who have failed to live up to their positions?"
     },
     {
       "sentiment": "positive",
@@ -399,12 +409,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/junior-hockey-world-cup-india-vs-chile-winning-start-chennai-2827855-2025-11-28",
-      "headline": "India thrash Chile 7-0 to open Junior Hockey World Cup campaign in style Rosan Khujur and Dilraj Singh starred as India began their Junior Hockey World Cup campaign in dominant fashion, thrashing Chile 7-0 to underline their title ambitions in front of the home crowd."
+      "headline": "India thrash Chile 7-0 to open Junior Hockey World Cup campaign in styleRosan Khujur and Dilraj Singh starred as India began their Junior Hockey World Cup campaign in dominant fashion, thrashing Chile 7-0 to underline their title ambitions in front of the home crowd."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/papua-new-guinea-cricketer-kiplin-doriga-jailed-robbery-jersey-2827839-2025-11-28",
-      "headline": "International cricketer jailed for punching woman and stealing her phone: Report Papua New Guinea cricketer Kiplin Doriga has been sentenced to three years in jail for robbery in Jersey. The case raises concerns about athlete conduct during international tours."
+      "headline": "International cricketer jailed for punching woman and stealing her phone: ReportPapua New Guinea cricketer Kiplin Doriga has been sentenced to three years in jail for robbery in Jersey. The case raises concerns about athlete conduct during international tours."
     },
     {
       "sentiment": "positive",
@@ -438,13 +448,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ashwin-backlash-syed-mushtaq-ali-trophy-missed-run-out-delhi-tamil-nadu-cricket-2827743-2025-11-28",
-      "headline": "Backlash for Mankad? R Ashwin reacts to missed chance in TN vs Delhi thrillerFormer India off-spinner R Ashwin responded to a missed run-out chance in a thrilling Syed Mushtaq Ali Trophy match between Delhi and Tamil Nadu in Ahmedabad. Ashwin had run Jos Buttler at the non-striker's end in IPL 2019, triggering one of the fiercest debates in modern cricket."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-odi-series-morne-morkel-south-africa-press-conference-2827817-2025-11-28",
+      "headline": "Morne Morkel distances himself from team selection after Test disasterIndia bowling coach Morne Morkel said that he plays no part in selecting players for the team. Morkel said that the decision rests with the head coach, captain and the selectors."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/wbbl-controversy-adelaide-strikers-vs-sydney-thunder-rain-2827732-2025-11-28",
-      "headline": "WBBL: Fans slam contentious finish to Strikers vs Thunder clashThe Australian Cricket Board was slammed for a contentious finish in the Adelaide Strikers vs Sydney Thunder match on Friday, November 28. The fans could not believe that the rain-affected match was abandoned with Thunder needing just 3 runs with 10 wickets in hand."
+      "url": "https://www.indiatoday.in/sports/badminton/story/syed-modi-international-tanvi-sharma-kidambi-srikanth-2827807-2025-11-28",
+      "headline": "Syed Modi International: Tanvi Sharma qualifies for semi-final with spirited runSyed Modi International: Giant killer Tanvi Sharma continued her dream run by reaching the semi-finals of the Syed Modi International Super 300 badminton tournament. Alongside Tanvu, Unnati Hooda also qualified for the semis with a hardfought victory."
     },
     {
       "sentiment": "positive",
@@ -495,16 +505,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-t20-world-cup-2021-ind-vs-pak-proud-captain-2827587-2025-11-28",
       "headline": "Beating India in T20 World Cup proudest moment as Pakistan captain: Babar AzamBabar Azam has opened up on his most cherished moment as Pakistan captain, recalling the historic 2021 T20 World Cup win over India while reflecting on the key milestones that shaped his career."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/david-beckham-india-visit-youth-empowerment-childrens-rights-football-2827557-2025-11-28",
-      "headline": "Watch: Beckham gets traditional welcome in India, takes Dal ki Chaat lessonsDavid Beckham got a special welcome as he arrived in Mumbai as part of his second tour to India. The UNICEF Goodwill Ambassador participating in activities focused on youth empowerment and community engagement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-rcb-sale-rajasthan-royals-harsh-goenka-speculation-2827514-2025-11-28",
-      "headline": "After RCB, another IPL franchise up for sale as valuations soar: ReportIPL: Industrialist Harsh Goenka's claim that Rajasthan Royals are up for sale has triggered fresh speculation, with the franchise yet to issue any confirmation amid growing chatter over a possible ownership change."
     }
   ],
   "education": [
