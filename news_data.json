@@ -1,9 +1,9 @@
 {
   "business": [
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-opens-100-points-lower-nifty-below-26000-hul-down-1-percent-2830412-2025-12-04",
-      "headline": "Sensex opens 100 points lower, Nifty below 26,000; HUL down 1%Sensex opens 100 points lower, Nifty below 26,000; HUL down 1%"
+      "headline": "Sensex opens 100 points lower, Nifty below 26,000; HUL down 1%The S&P BSE Sensex was up by 110.14 points as it recovered to 85,216.95, while the NSE Nifty 50 added 41.15 points to 26,027.15 as of 9:39 am."
     },
     {
       "sentiment": "positive",
@@ -104,6 +104,21 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/geetha-kailasam-angammal-review-autonomy-family-dynamics-2830077-2025-12-04",
+      "headline": "Angammal review: Geetha Kailasam's powerhouse performance in a tale of autonomyRelease Date:Wed Dec 03, 2025 Angammal movie review: Directed by Vipin Radhakrishnan, Angammal is a stimulating and evocative piece of art that chronicles the life of a matriarch who lives on her own terms. Geetha Kailasam, with an exceptional performance, brings the story to life."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ajinkya-deo-praises-yash-raavan-nitesh-tiwari-ramayan-2026-2830422-2025-12-04",
+      "headline": "Exclusive: Ajinkya Deo on why Yash's Raavan in Ramayana breaks the mould Actor Ajinkya Deo, in an interview with India Today, shared his experience working with Yash in Nitesh Tiwari's Ramayana. The film promises grand scale and a fresh retelling of the epic with a star-studded cast."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/martin-scorsese-what-happens-at-night-to-begin-filming-next-month-with-leonardo-dicaprio-and-jennifer-lawrence-2830429-2025-12-04",
+      "headline": "DiCaprio, Jennifer Lawrence to start shoot for Scorsese's What Happens\u00a0At\u00a0Night Martin Scorsese's What Happens At Night, starring Leonardo DiCaprio and Jennifer Lawrence, begins filming in early 2026 and adapts Peter Cameron's psychological, gothic novel. The film follows a couple's disorienting journey in a remote European town as reality blurs, deepening the emotional and supernatural tension."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/air-india-mishandling-sitar-anoushka-shankar-calls-better-care-musical-instruments-2830397-2025-12-04",
       "headline": "Truly disturbed: Anoushka Shankar criticises Air India for breaking her sitar Internationally acclaimed musician Anoushka Shankar has raised concerns over Air India's handling of musical instruments after reporting significant damage to her sitar post-flight, sharing her disappointment with the airline's service."
     },
@@ -181,28 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/ready-or-not-2-trailer-samara-weaving-returns-to-gore-splattered-horror-comedy-2830261-2025-12-03",
       "headline": "Ready or Not 2 trailer: Samara Weaving returns to gore-splattered, horror-comedy The trailer for 'Ready or Not 2: Here I Come' was released on November 28, 2025. The film promises a violent and thrilling continuation featuring Samara Weaving, Elijah Wood, Sarah Michelle Gellar and others."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/shabana-azmis-diwali-gathering-unites-film-industry-friends-celebrating-achievements-2830240-2025-12-03",
-      "headline": "Shabana Azmi shares joyful clip of Vidya, Divya, Sandhya owning the dance floor Shabana Azmi's recent social media posts reveal a joyful Diwali celebration with her circle of friends and colleagues, highlighting the camaraderie and appreciation within the group."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/thudarum-malayalam-film-remake-ajay-devgn-aamir-khan-hindi-version-2830186-2025-12-03",
-      "headline": "Aamir Khan and Ajay Devgn keen on Hindi remake of Mohanlal's Thudarum Director Tharun Moorthy confirms that discussions are in progress to remake the Malayalam hit Thudarum in Hindi, with major Bollywood studios and actors showing interest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/malaika-arora-calls-out-society-double-standards-men-move-on-women-are-judged-2830219-2025-12-03",
-      "headline": "Malaika Arora calls out society's double standards: Men move on, women are judged Actor Malaika Arora highlighted societal double standards around divorce and remarriage. She pointed out how men face less judgement than women for similar personal choices."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/world-exclusive-russian-president-putin-speaks-to-india-today-ahead-of-india-visit-2830342-2025-12-03",
-      "headline": "World exclusive: Russian President Putin speaks to India Today ahead of India visitThe interview, filmed inside the historic Ekaterina (Catherine) Hall of the Kremlin, was conducted by India Today Group's Anjana Om Kashyap and Geeta Mohan."
+      "headline": "World exclusive: Russian President Putin speaks to India Today ahead of India visitPutin speaks with India Today Group's Anjana Om Kashyap and Geeta Mohan at the historic Ekaterina (Catherine) Hall of the Kremlin."
     },
     {
       "sentiment": "negative",
@@ -211,18 +211,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pacts-on-health-trade-agriculture-media-cultural-exchange-to-be-signed-during-putins-india-visit-sources-2830243-2025-12-03",
-      "headline": "Putin's 2-day India visit begins today: BrahMos, trade, defence deals on agendaVladimir Putin is visiting India on an invitation by Prime Minister Narendra Modi, and it is the first since the Russian leader launched his war against Ukraine."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/us-state-department-reviews-h1b-visa-applicants-linked-to-censorship-glbs-2830371-2025-12-04",
       "headline": "Trump administration orders tougher vetting for H-1B visa applicants: ReportH-1B visas are lifelines for US tech companies that draw heavily from India and China. Many industry leaders backed Donald Trump last year, betting on a business-friendly environment even as immigration rules tightened. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-odi-century-india-loss-raipur-vs-south-africa-2025-2830400-2025-12-04",
-      "headline": "A Virat Kohli ton finally isn't enough: India's 7-year unbeaten ODI streak endsVirat Kohli's superb 102 in Raipur could not save India, who suffered their first ODI defeat with a Kohli century in nearly seven years. His stand with Ruturaj Gaikwad set up 358, but South Africa chased it down to level the series."
+      "url": "https://www.indiatoday.in/india/story/pacts-on-health-trade-agriculture-media-cultural-exchange-to-be-signed-during-putins-india-visit-sources-2830243-2025-12-03",
+      "headline": "Putin's 2-day India visit begins today: BrahMos, trade, defence deals on agendaVladimir Putin is visiting India on an invitation by Prime Minister Narendra Modi, and it is the first since the Russian leader launched his war against Ukraine."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-odi-finisher-problem-raipur-loss-vs-south-africa-analysis-2830375-2025-12-04",
+      "headline": "Finisher who? Raipur loss highlights India's glaring ODI weaknessSouth Africa's record chase of 359 exposed India's inability to push harder with the bat in the death overs. Hundreds from Virat Kohli and Ruturaj Gaikwad went in vain with at least 20\u201330 runs left on the field in the first innings."
     },
     {
       "sentiment": "positive",
@@ -236,8 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kolkata-airport-mosque-amit-malviya-bankra-history-location-secondary-runway-safety-concerns-relocation-deadlock-2830038-2025-12-03",
-      "headline": "Mosque inside Kolkata airport kicks up storm. How did it actually get there?The century-old Bankra mosque, which is situated a few hundred metres from the secondary runway of Kolkata airport, has sparked a political row. BJP leaders have flagged safety and security concerns regarding the mosque. How did the mosque come to be in the airport in the first place?"
+      "url": "https://www.indiatoday.in/world/story/house-democrats-release-new-photos-videos-epsteins-private-island-glbs-2830353-2025-12-04",
+      "headline": "Expansive rooms, masks on walls: New videos of Epstein's private islandDemocratic lawmakers have released new photos and videos from Jeffrey Epstein's private island. The release intensifies calls for transparency amid ongoing trafficking and abuse investigations."
     },
     {
       "sentiment": "positive",
@@ -247,17 +247,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ashes-2025-aus-vs-eng-2nd-test-day-1-live-score-updates-brisbane-2830385-2025-12-04",
-      "headline": "2nd Test, Day 1 Live: England opt to bat first in Pink-Ball TestAshes 2025, 2nd Test Day 1 Live Score and Updates: England have won the toss and opted to bat first in Brisbane. Ben Stokes said that he does not know how the pitch is expected to play, and hence England are trusting their strengths."
+      "headline": "2nd Test, Day 1 Live: Starc's doublestrike leaves England reelingAshes 2025, 2nd Test Day 1 Live Score and Updates: Mitchell Starc has dismantled the England batting line-up once again. He has sent back Ben Duckett and Ollie Pope for ducks. England are reeling and have Joe Root out at the crease in the third over of the match."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/house-democrats-release-new-photos-videos-epsteins-private-island-glbs-2830353-2025-12-04",
-      "headline": "Expansive rooms, masks on walls: New videos of Epstein's private islandDemocratic lawmakers have released new photos and videos from Jeffrey Epstein's private island. The release intensifies calls for transparency amid ongoing trafficking and abuse investigations."
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-odi-century-india-loss-raipur-vs-south-africa-2025-2830400-2025-12-04",
+      "headline": "A Virat Kohli ton finally isn't enough: India's 7-year unbeaten ODI streak endsVirat Kohli's superb 102 in Raipur could not save India, who suffered their first ODI defeat with a Kohli century in nearly seven years. His stand with Ruturaj Gaikwad set up 358, but South Africa chased it down to level the series."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-odi-finisher-problem-raipur-loss-vs-south-africa-analysis-2830375-2025-12-04",
-      "headline": "Finisher who? Raipur loss highlights India's glaring ODI weaknessSouth Africa's record chase of 359 exposed India's inability to push harder with the bat in the death overs. Hundreds from Virat Kohli and Ruturaj Gaikwad went in vain with at least 20\u201330 runs left on the field in the first innings."
+      "url": "https://www.indiatoday.in/india/story/kolkata-airport-mosque-amit-malviya-bankra-history-location-secondary-runway-safety-concerns-relocation-deadlock-2830038-2025-12-03",
+      "headline": "Mosque inside Kolkata airport kicks up storm. How did it actually get there?The century-old Bankra mosque, which is situated a few hundred metres from the secondary runway of Kolkata airport, has sparked a political row. BJP leaders have flagged safety and security concerns regarding the mosque. How did the mosque come to be in the airport in the first place?"
     },
     {
       "sentiment": "positive",
@@ -295,16 +295,6 @@
       "headline": "Mentally unstable man: Imran Khan blasts Asim Munir in explosive attackImran Khan, held in Adiala Jail, accused Army Chief Asim Munir of 'disastrous' policies, deliberately fuelling Afghanistan tensions, worsening terrorism, and subjecting him to solitary confinement and psychological torture."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/prince-patel-bike-accident-surat-young-vlogger-dies-riding-ktm-at-high-speed-2830268-2025-12-03",
-      "headline": "Video: Gujarat vlogger killed in fatal bike crash while filming reelCCTV footage from Anuvrat Dwar Over Bridge captured the sequence as Prince lost control of his speeding bike, fell onto the road, and the motorcycle continued forward before crashing into a divider."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/the-family-man-3-tamil-diaspora-moreh-manipur-border-trade-2829443-2025-12-04",
-      "headline": "Explained: What The Family Man 3 reveals about Tamil diaspora in MorehThe Family Man 3 portrays the Tamil diaspora's history in Moreh, Manipur. The narrative highlights displacement, trade challenges, and cultural resilience amid regional unrest."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/study-abroad/story/is-tougher-uk-immigration-policy-pushing-thousands-of-indian-students-to-leave-2830044-2025-12-04",
       "headline": "74,000 Indian students are leaving UK. Are stricter visa rules the culprit?Stricter UK visa and dependant rules are prompting a growing number of Indian students to leave the country, raising fresh concerns for universities heavily reliant on international fee revenue. New ONS data showing 74,000 Indian departures in 2025 signals a shifting trend that could reshape the future of UK higher education.\f\r\n"
@@ -326,11 +316,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/zeeshan-ayyub-calls-raanjhanaa-problematic-as-tere-ishk-mein-faces-similar-backlash-2830407-2025-12-04",
-      "headline": "Zeeshan Ayyub calls Raanjhanaa problematic as Tere Ishk Mein faces similar backlashMohammed Zeeshan Ayyub has called Raanjhanaa \"problematic,\" saying the film promoted aggression in one-sided love and should not be defended. His remarks come as Tere Ishk Mein faces similar criticism and Raanjhanaa's AI-altered re-release sparks a dispute between Aanand L. Rai and Eros."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ajinkya-deo-praises-yash-raavan-nitesh-tiwari-ramayan-2026-2830422-2025-12-04",
+      "headline": "Exclusive: Ajinkya Deo on why Yash's Raavan in Ramayana breaks the mouldActor Ajinkya Deo, in an interview with India Today, shared his experience working with Yash in Nitesh Tiwari's Ramayana. The film promises grand scale and a fresh retelling of the epic with a star-studded cast."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/geetha-kailasam-angammal-review-autonomy-family-dynamics-2830077-2025-12-04",
+      "headline": "Angammal review: Geetha Kailasam's powerhouse performance in a tale of autonomyRelease Date:Wed Dec 03, 2025Angammal movie review: Directed by Vipin Radhakrishnan, Angammal is a stimulating and evocative piece of art that chronicles the life of a matriarch who lives on her own terms. Geetha Kailasam, with an exceptional performance, brings the story to life."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ajinkya-deo-praises-yash-raavan-nitesh-tiwari-ramayan-2026-2830422-2025-12-04",
+      "headline": "Exclusive: Ajinkya Deo on why Yash's Raavan in Ramayana breaks the mouldActor Ajinkya Deo, in an interview with India Today, shared his experience working with Yash in Nitesh Tiwari's Ramayana. The film promises grand scale and a fresh retelling of the epic with a star-studded cast."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/arsenal-extend-unbeaten-run-2-0-win-brentford-strengthen-premier-league-lead-2830417-2025-12-04",
+      "headline": "Premier League: Arsenal grind out Brentford win, Chelsea suffer shock loss Arsenal reinforced their position at the top of the Premier League with a disciplined win against Brentford, extending their unbeaten run. Chelsea, meanwhile, suffered a home defeat to Leeds United, slipping further behind in the title race."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-odi-century-india-loss-raipur-vs-south-africa-2025-2830400-2025-12-04",
@@ -344,7 +349,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ashes-2025-aus-vs-eng-2nd-test-day-1-live-score-updates-brisbane-2830385-2025-12-04",
-      "headline": "2nd Test, Day 1 Live: England opt to bat first in Pink-Ball Test Ashes 2025, 2nd Test Day 1 Live Score and Updates: England have won the toss and opted to bat first in Brisbane. Ben Stokes said that he does not know how the pitch is expected to play, and hence England are trusting their strengths."
+      "headline": "2nd Test, Day 1 Live: Starc's doublestrike leaves England reeling Ashes 2025, 2nd Test Day 1 Live Score and Updates: Mitchell Starc has dismantled the England batting line-up once again. He has sent back Ben Duckett and Ollie Pope for ducks. England are reeling and have Joe Root out at the crease in the third over of the match."
     },
     {
       "sentiment": "positive",
@@ -373,13 +378,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-ms-dhoni-smoke-shisha-talk-cricket-chennai-super-kings-michael-hussey-2830289-2025-12-03",
-      "headline": "Smoke shisha, talk cricket: MS Dhoni's open-door CSK routine revealed by ex-teammate Michael Hussey lifts the lid on MS Dhoni's relaxed and welcoming team culture at CSK, sharing stories of open-room hangouts, shisha sessions and Dhoni's surprising lack of keeping practice."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-e-scooter-helmet-breach-ashes-test-gabba-2830270-2025-12-03",
-      "headline": "Irritated by media attention, Stokes snaps at Aussie reporter over e-scooter row Ashes: A tense standoff unfolded between Ben Stokes and a reporter in Brisbane after the England captain and teammates were questioned about not wearing helmets while riding e-scooters. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-2nd-odi-virat-kohli-player-mentor-ruturaj-partnership-gavaskar-praise-raipur-2830341-2025-12-03",
+      "headline": "Leader and mentor: Virat Kohli's double role in Raipur earns praise from Gavaskar Virat Kohli did more than score runs in the Raipur ODI. He steadied a nervous Ruturaj Gaikwad after a brutal first-ball bouncer from Marco Jansen, helping him settle before he struck his maiden ODI hundred. Sunil Gavaskar praised Kohli's leadership and mentorship during the key partnership."
     },
     {
       "sentiment": "positive",
@@ -399,12 +399,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-ms-dhoni-smoke-shisha-talk-cricket-chennai-super-kings-michael-hussey-2830289-2025-12-03",
-      "headline": "Smoke shisha, talk cricket: MS Dhoni's open-door CSK routine revealed by ex-teammate Michael Hussey lifts the lid on MS Dhoni's relaxed and welcoming team culture at CSK, sharing stories of open-room hangouts, shisha sessions and Dhoni's surprising lack of keeping practice."
+      "headline": "Smoke shisha, talk cricket: MS Dhoni's open-door CSK routine revealed by ex-teammateMichael Hussey lifts the lid on MS Dhoni's relaxed and welcoming team culture at CSK, sharing stories of open-room hangouts, shisha sessions and Dhoni's surprising lack of keeping practice."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-e-scooter-helmet-breach-ashes-test-gabba-2830270-2025-12-03",
-      "headline": "Irritated by media attention, Stokes snaps at Aussie reporter over e-scooter row Ashes: A tense standoff unfolded between Ben Stokes and a reporter in Brisbane after the England captain and teammates were questioned about not wearing helmets while riding e-scooters. "
+      "headline": "Irritated by media attention, Stokes snaps at Aussie reporter over e-scooter rowAshes: A tense standoff unfolded between Ben Stokes and a reporter in Brisbane after the England captain and teammates were questioned about not wearing helmets while riding e-scooters. "
     },
     {
       "sentiment": "positive",
@@ -495,16 +495,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-auction-maxwell-ashwin-faf-russell-withdrawals-jp-duminy-explains-2830031-2025-12-03",
       "headline": "Why senior pros are retiring from IPL ahead of 2026 mini auctionJP Duminy explained why senior pros like Glenn Maxwell and Faf du Plessis have decided to pull out of the IPL 2026 auction. The duo have been joined by the likes of Andre Russell and others. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-ashes-return-possible-steve-smith-gabba-test-2830023-2025-12-03",
-      "headline": "Cummins fit for Gabba Test? Steve Smith tight-lipped on Australia's playing XIAshes: Pat Cummins may return as Australia's captain for the second Test against England, with stand-in skipper Steve Smith indicating that the fast bowler has a genuine chance of featuring in the pink-ball match."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-overtakes-gill-icc-odi-rankings-ranchi-rohit-sharma-2829992-2025-12-03",
-      "headline": "Virat Kohli leapfrogs Gill in ICC ODI rankings, Rohit maintains top spotVirat Kohli went past India captain Shubman Gill in the latest ICC ODI rankings while Rohit Sharma maintained his grip at the top. Kohli scored a brilliant 135 against South Africa in Ranchi in his return game. "
     }
   ],
   "education": [
