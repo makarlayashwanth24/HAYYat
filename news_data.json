@@ -206,6 +206,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/modi-putin-car-selfie-us-congress-india-us-relations-trump-glbs-2834169-2025-12-11",
+      "headline": "PM Modi-Putin selfie becomes US warning shot over Trump's handling of India tiesThe Congresswoman urged lawmakers to move with incredible urgency to mitigate the damage this administration has done to the US-India partnership and return to steady cooperation. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-praises-ranveer-singhs-dhurandhar-but-questions-its-politics-2834120-2025-12-10",
       "headline": "Hrithik Roshan praises Ranveer Singh's Dhurandhar, but questions its politicsActor Hrithik Roshan has applauded the film 'Dhurandhar' for its storytelling while expressing his disagreements with its political undertones. He joined the list of celebrities who have shared their views on the film."
     },
@@ -213,11 +218,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/want-us-tourist-visa-you-might-need-to-disclose-5-year-social-media-history-vetting-h1b-f1-esta-fifa-world-cup-olympics-2833929-2025-12-10",
       "headline": "Want US tourist visa? You might need to disclose 5-year social media historyThe Trump administration plans to make it mandatory for foreign tourists from around 40 countries to provide five years of their social media history as part of enhanced visa screening. Will this affect India? Here's what you need to know about the proposed rule."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-gold-card-citizenship-applications-latest-glbs-2834159-2025-12-11",
-      "headline": "Trump launches $1 million Gold Card fast-track visa to keep top foreign talentDonald Trump launched the \"Gold Card\" programme, allowing individuals to pay $1 million and companies $2 million to fast-track visas. He says the plan will keep foreign graduates in the US and generate billions.\r\n"
     },
     {
       "sentiment": "positive",
@@ -230,14 +230,14 @@
       "headline": "Asked questions not being done by West: Kalli Purie speaks on Putin interviewInaugurating the Agenda AajTak summit, Kalli Purie, vice chairperson of the India Today group, said the interview with Putin broke the perception that Indian media cannot participate in global issues."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-gold-card-citizenship-applications-latest-glbs-2834159-2025-12-11",
+      "headline": "Trump launches $1 million Gold Card fast-track visa to keep top foreign talentDonald Trump launched the \"Gold Card\" programme, allowing individuals to pay $1 million and companies $2 million to fast-track visas. He says the plan will keep foreign graduates in the US and generate billions.\r\n"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/us-news/story/trump-attacks-ilhan-omar-immigration-somali-glbs-2834155-2025-12-11",
       "headline": "Imagine if Trump married his sister: US President ramps up attacks on Ilhan OmarDonald Trump launched a fierce attack on Ilhan Omar during a Pennsylvania rally, reviving past inflammatory comments. He called Somalia \"the worst country in the world\" and claimed that Somalis \"kill each other all the time\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indigo-chief-apologises-for-chaos-denies-deliberate-crisis-as-flights-normalise-2834122-2025-12-10",
-      "headline": "IndiGo chief apologises for chaos, denies deliberate crisis as flights normaliseIndiGo Chairman Vikram Singh Mehta has publicly apologised for the recent flight disruptions, assuring passengers that operations have normalised and denying any intentional wrongdoing by the airline. The airline is committed to regaining trust and cooperating fully with regulatory investigations.\r\n"
     },
     {
       "sentiment": "positive",
@@ -245,9 +245,9 @@
       "headline": "Untold story of Dhurandhar's Lyari: How Mother of Karachi nursed ferocious gangsAditya Dhar's spy thriller Dhurandhar is set in Pakistan's Lyari of the 2000s. This is how Lyari, a small dock-worker settlement and called the Mother of Karachi, became a stage for brutal gang wars, and is now slowly redeeming itself."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-seizes-venezuela-oil-tanker-trump-maduro-latest-glbs-2834165-2025-12-11",
-      "headline": "US seizes large tanker near Venezuela as Trump steps up pressure on Maduro regimeThe announcement follows months of increased US military activity in the region and marks the first known interdiction of a vessel carrying Venezuelan crude under the Trump administration's expanded operations."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indigo-chief-apologises-for-chaos-denies-deliberate-crisis-as-flights-normalise-2834122-2025-12-10",
+      "headline": "IndiGo chief apologises for chaos, denies deliberate crisis as flights normaliseIndiGo Chairman Vikram Singh Mehta has publicly apologised for the recent flight disruptions, assuring passengers that operations have normalised and denying any intentional wrongdoing by the airline. The airline is committed to regaining trust and cooperating fully with regulatory investigations.\r\n"
     },
     {
       "sentiment": "negative",
@@ -266,6 +266,11 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-seizes-venezuela-oil-tanker-trump-maduro-latest-glbs-2834165-2025-12-11",
+      "headline": "US seizes large tanker near Venezuela as Trump steps up pressure on Maduro regimeThe announcement follows months of increased US military activity in the region and marks the first known interdiction of a vessel carrying Venezuelan crude under the Trump administration's expanded operations."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/tn-ed-fir-kn-nehru-son-arun-nehru-meets-finance-minister-delhi-2833642-2025-12-10",
       "headline": "After ED heat on DMK Minister in corruption case, son meets Nirmala SitharamanDays after the ED sought an FIR against DMK Minister KN Nehru, his son and DMK MP Arun Nehru met Finance Minister Nirmala Sitharaman in Delhi, submitting memorandums on credit rating reforms and PACL scam relief."
     },
@@ -276,18 +281,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-dares-amit-shah-challenge-debate-parliament-vote-chori-sir-2833951-2025-12-10",
-      "headline": "I will decide what to say: Amit Shah fires back at Rahul Gandhi's debate dareTensions flared in the Lok Sabha after Rahul Gandhi interrupted Union Home Minister Amit Shah's speech on SIR to challenge him to a debate on alleged vote theft. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/food/story/we-tried-latiao-the-viral-chinese-snack-everyones-obsessed-with-online-2833767-2025-12-10",
       "headline": "We tried Latiao, the viral Chinese snack everyone's obsessed with onlineIf you've seen an elderly man casually snacking on old-school Chinese treats online, you're not alone. We saw it, tried it, and here's our verdict."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/elon-musk-serving-india-starlink-meets-union-minister-glbs-2834158-2025-12-11",
-      "headline": "Looking forward to serving India, says Musk as Starlink officials meet ScindiaThe Union Minister said he held discussions with Lauren Dreyer, Vice President of Starlink Business Operations, about strengthening last-mile satellite connectivity across the country. "
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-dares-amit-shah-challenge-debate-parliament-vote-chori-sir-2833951-2025-12-10",
+      "headline": "I will decide what to say: Amit Shah fires back at Rahul Gandhi's debate dareTensions flared in the Lok Sabha after Rahul Gandhi interrupted Union Home Minister Amit Shah's speech on SIR to challenge him to a debate on alleged vote theft. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/erika-kirk-conspiracy-theories-charlie-kirk-murder-latest-glbs-2834167-2025-12-11",
+      "headline": "We are human: Erika Kirk blasts mind virus conspiracies about husband's murderErika Kirk's statement comes as several commentators, notably Candace Owens, have been making several claims about Charlie Kirk's death. Charlie Kirk was assassinated during an event at Utah Valley University on September 10, at the age of 31. "
     },
     {
       "sentiment": "positive",
@@ -296,13 +301,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bombay-high-court-orders-shilpa-shetty-raj-kundra-deposit-rs-60-crore-before-london-travel-2834144-2025-12-10",
-      "headline": "Deposit Rs 60 crore or give bank guarantee: High court to Shilpa Shetty, Raj KundraThe couple is seeking a stay on the Lookout Circular (LOC) issued against them by the Mumbai police while investigating a case related to a Rs 60 crore fraud initiated by a businessman, Deepak Kothari."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/11-free-iit-courses-to-learn-data-science-and-analytics-with-credits-2833723-2025-12-10",
+      "headline": "IITs are offering 11 free data science and analytics courses. Join by Jan 26Here are 11 free NPTEL data science and analytics courses from leading IITs cover graph theory, Bayesian modelling, Python, R, databases and big-data stats. These are all free to audit, and enrolment windows all close in January 2026."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/11-free-iit-courses-to-learn-data-science-and-analytics-with-credits-2833723-2025-12-10",
-      "headline": "IITs are offering 11 free data science and analytics courses. Join by Jan 26Here are 11 free NPTEL data science and analytics courses from leading IITs cover graph theory, Bayesian modelling, Python, R, databases and big-data stats. These are all free to audit, and enrolment windows all close in January 2026."
+      "url": "https://www.indiatoday.in/india/story/bombay-high-court-orders-shilpa-shetty-raj-kundra-deposit-rs-60-crore-before-london-travel-2834144-2025-12-10",
+      "headline": "Deposit Rs 60 crore or give bank guarantee: High court to Shilpa Shetty, Raj KundraThe couple is seeking a stay on the Lookout Circular (LOC) issued against them by the Mumbai police while investigating a case related to a Rs 60 crore fraud initiated by a businessman, Deepak Kothari."
     },
     {
       "sentiment": "positive",
@@ -310,14 +315,9 @@
       "headline": "6 months without pay: Cops in Pak's Khyber Pakhtunkhwa reel under\u00a0salary\u00a0crisisThe Khyber Pakhtunkhwa Tourism Police are facing a severe salary crisis, with officers unpaid for six months, sparking public outrage across Pakistan. The situation highlights administrative delays impacting the force responsible for tourist safety in key regions."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/canada-news/story/indian-origin-man-arrested-in-canada-brampton-for-exposing-himself-to-female-doctors-mississauga-clinics-crime-vaibhav-2834021-2025-12-10",
-      "headline": "Indian-origin man on flashing spree arrested in Canada, targeted women doctorsA 25-year-old Indian-origin man in Canada has been arrested for allegedly exposing himself to female medical staff. The man, Vaibhav, reportedly used a fake name and medical conditions to carry out the obscene acts. Charged with indecent acts, identity fraud, and identity theft, police believe there may be more unreported incidents."
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-pollution-why-the-air-feels-worse-than-what-aqi-monitors-show-2834024-2025-12-10",
-      "headline": "Delhi pollution: Why the air feels worse than what AQI monitors showContrary to guidelines, several AQI stations in Delhi are located near dense greenery, possibly undermining the AQI data."
+      "url": "https://www.indiatoday.in/india/story/elon-musk-serving-india-starlink-meets-union-minister-glbs-2834158-2025-12-11",
+      "headline": "Looking forward to serving India, says Musk as Starlink officials meet ScindiaThe Union Minister said he held discussions with Lauren Dreyer, Vice President of Starlink Business Operations, about strengthening last-mile satellite connectivity across the country. "
     }
   ],
   "sports": [
