@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-ajay-devgn-tiger-shroff-meet-football-icon-lionel-messi-in-mumbai-2835894-2025-12-14",
+      "headline": "Kareena Kapoor, Ajay Devgn, Tiger Shroff meet football icon Lionel Messi in Mumbai Kareena Kapoor Khan, Ajay Devgn, and Tiger Shroff were among the Indian film celebrities who met football legend Lionel Messi in Mumbai. While Kareena and her sons, Taimur and Jeh, posed with Messi in Argentina jerseys at the CCI, Ajay and Tiger met him later at the Wankhede Stadium."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/manju-warrier-slams-2017-sexual-assault-verdict-says-justice-is-still-incomplete-2835855-2025-12-14",
       "headline": "Manju Warrier slams 2017 sexual assault verdict, says justice is still incomplete Manju Warrier, referring to the Kerala actor assault case, said those who committed the crime were punished but the mind that planned the act walks free. Manju is the ex-wife of actor Dileep, an accused who was acquitted."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/soha-ali-khan-reviews-kunal-khemu-single-papa-says-it-made-her-heart-full-2835611-2025-12-14",
       "headline": "Soha Ali Khan reviews Kunal Khemu's Single Papa, says it made her heart full Soha Ali Khan has reviewed the comedy series Single Papa, which features her actor-husband Kunal Khemu. She praised the show for its light-hearted and emotional moments."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-calls-daayra-director-meghna-gulzar-tigress-in-special-birthday-note-2835601-2025-12-13",
-      "headline": "Kareena Kapoor calls Daayra director Meghna Gulzar tigress in special birthday note As Director Meghna Gulzar celebrated her 52nd birthday, Kareena Kapoor shared an emotional social media tribute from the sets of 'Daayra'. Kapoor called the film one of her most special projects, praising the director as kind, passionate, and sharp, and expressing gratitude for her mentorship.\r\n"
     }
   ],
   "general news": [
@@ -203,6 +203,11 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/jewish-hanukkah-celebration-bondi-beach-bloodbath-gunmen-mass-shooting-australia-sydney-terror-attack-2835872-2025-12-14",
       "headline": "Jewish event at Bondi Beach turns into bloodbath after gunmen shoot dead 11 people UpdatesAustralian authorities are investigating one of the country's deadliest mass shootings in decades after a gun attack on a public religious gathering left multiple people dead and wounded. At least 12 people, including one of the gunmen, were killed in the attack."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/ahmed-al-ahmed-sydney-bondi-beach-shooting-profile-fruitseller-australia-2835900-2025-12-14",
+      "headline": "Who is Ahmed al Ahmed, fruitseller who tackled Sydney beach shooter at frontlineAhmed al Ahmed, a 43-year-old Sydney fruit shop owner, was shot twice after bravely tackling and disarming a gunman during a deadly attack at Bondi Beach. The targeted shooting at a Jewish Hanukkah event left at least 12 people dead and dozens injured."
     },
     {
       "sentiment": "positive",
@@ -216,13 +221,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kerala-actor-first-post-after-assault-case-verdict-lost-faith-in-trial-court-2835845-2025-12-14",
-      "headline": "Kerala actor's first post after assault case verdict: Lost faith in this trial courtNearly a week after the Kerala actor assault case verdict, in which actor Dileep was acquitted and six others were convicted, the survivor has shared a post for the first time, criticising the trial court."
+      "url": "https://www.indiatoday.in/world/story/video-man-grabs-overpowers-bondi-beach-attacker-mass-shooting-australia-2835761-2025-12-14",
+      "headline": "Video: Heroic bystander tackles, disarms Bondi Beach attackerThe clip captures the chaotic moments during the mass shooting at Bondi Beach, with the man confronting the gunman and disarming him as others flee the scene."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/video-man-grabs-overpowers-bondi-beach-attacker-mass-shooting-australia-2835761-2025-12-14",
-      "headline": "Video: Heroic bystander tackles, disarms Bondi Beach attackerThe clip captures the chaotic moments during the mass shooting at Bondi Beach, with the man confronting the gunman and disarming him as others flee the scene."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kerala-actor-first-post-after-assault-case-verdict-lost-faith-in-trial-court-2835845-2025-12-14",
+      "headline": "Kerala actor's first post after assault case verdict: Lost faith in this trial courtNearly a week after the Kerala actor assault case verdict, in which actor Dileep was acquitted and six others were convicted, the survivor has shared a post for the first time, criticising the trial court."
     },
     {
       "sentiment": "positive",
@@ -231,8 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-goat-tour-sunil-chhetri-sachin-tendulkar-mumbai-wankhede-2835859-2025-12-14",
-      "headline": "Messi, Sachin, Chhetri: GOATS meet at Wankhede to create epic moments in MumbaiLionel Messi's GOAT tour moment saw some epic moments in Mumbai's Wankhede Stadium. The legendary Argentine meet the very best of Indian sports - Sachin Tendulkar and Sunil Chhetri and exchanged jerseys."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-3rd-t20i-match-report-arshdeep-varun-2835893-2025-12-14",
+      "headline": "Arshdeep, Varun combine as India blow away South Africa in DharamsalaIND vs SA: India completed yet another thumping win against South Africa in the 5-match T20I series. The bowling unit, led by Arshdeep Singh and Varun Chakravarthy blew away the Proteas in Dharamsala."
     },
     {
       "sentiment": "positive",
@@ -240,14 +245,14 @@
       "headline": "Next Sanju Samson? Aaron George, Kerala-born Hyderabad batter, impresses vs PakistanU19 Asia Cup India vs Pakistan: Aaron George played a composed knock of 85 off 88 balls to rescue India after early setbacks in clash against Pakistan in Dubai, building crucial partnerships and drawing comparisons to Sanju Samson with his stylish strokeplay."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/congress-vote-chori-rally-delhi-rahul-gandhi-accuses-bjp-election-commission-bias-rss-2835880-2025-12-14",
-      "headline": "Remember the names: Rahul Gandhi vows to change law guarding election commissionersThe Congress sharpened its attack on the BJP at the 'Vote Chor Gaddi Chhod' rally in Delhi, with Rahul Gandhi alleging \"vote theft\" as part of the BJP-RSS's DNA. The BJP hit back by condemning alleged sloganeering and likening the Nehru family's leadership of Congress to the Mughal dynasty's decline.\r\n\r\n"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-goat-tour-sunil-chhetri-sachin-tendulkar-mumbai-wankhede-2835859-2025-12-14",
+      "headline": "Messi, Sachin, Chhetri: GOATs meet at Wankhede to create epic moments in MumbaiLionel Messi's GOAT tour moment saw some epic moments in Mumbai's Wankhede Stadium. The legendary Argentine meet the very best of Indian sports - Sachin Tendulkar and Sunil Chhetri and exchanged jerseys."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/air-pollution-delhi-ncr-air-quality-slips-deeper-into-severe-zone-aqi-toxic-smog-dense-fog-2835629-2025-12-14",
-      "headline": "Delhi-NCR air disaster: Season's thickest smog, AQI nears 500 in several areasDelhi's air quality has deteriorated sharply, plunging into the hazardous zone amid dense smog and fog. Authorities have invoked Stage-IV emergency measures to combat the severe pollution affecting the capital and NCR region."
+      "url": "https://www.indiatoday.in/india/story/congress-vote-chori-rally-delhi-rahul-gandhi-accuses-bjp-election-commission-bias-rss-2835880-2025-12-14",
+      "headline": "Remember the names: Rahul Gandhi vows to change law guarding election commissionersRahul Gandhi accused the BJP and the Election Commission of enabling \"vote theft\" at a Congress rally in Delhi, vowing to repeal and retrospectively change laws he claimed were enacted to protect election commissioners.\r\n\r\n\r\n"
     },
     {
       "sentiment": "positive",
@@ -260,14 +265,14 @@
       "headline": "How Indians are raising the bar at house partiesProfessional bartenders and mixologists are elevating India's house party scene. Bring one in and give your party an instant, caramel-popcorn-level glow-up. Across metros, and even in smaller cities like Jabalpur and Nagpur, you can dial a bar home at just a day's notice. And prices start at just Rs 2,000."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/who-is-nitin-nabin-appointed-bjp-national-working-president-after-fifth-consecutive-bankipur-win-2835842-2025-12-14",
-      "headline": "Who is Nitin Nabin, the Bihar MLA appointed as BJP National Working President?Belonging to a political family, Nitin Nabin entered electoral politics following the death of his father, veteran BJP leader Nabin Kishore Prasad Sinha, and has retained his hold on Bankipur since his by-election victory in 2006."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/air-pollution-delhi-ncr-air-quality-slips-deeper-into-severe-zone-aqi-toxic-smog-dense-fog-2835629-2025-12-14",
+      "headline": "Delhi-NCR air disaster: Season's thickest smog, AQI nears 500 in several areasDelhi's air quality has deteriorated sharply, plunging into the hazardous zone amid dense smog and fog. Authorities have invoked Stage-IV emergency measures to combat the severe pollution affecting the capital and NCR region."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/sydney-bondi-beach-shooting-2835760-2025-12-14",
-      "headline": "Live: PM Anthony Albanese calls Hanukkah shooting an evil antisemitic terror attackSydney Bondi Beach Shooting Live Updates: Multiple people were killed and several others injured after at least two gunmen opened fire on crowds at Bondi Beach, triggering scenes of panic. Police shot dead the attackers, while another suspect is believed to have fled after being disarmed."
+      "url": "https://www.indiatoday.in/india/story/who-is-nitin-nabin-appointed-bjp-national-working-president-after-fifth-consecutive-bankipur-win-2835842-2025-12-14",
+      "headline": "Who is Nitin Nabin, the Bihar MLA appointed as BJP National Working President?Belonging to a political family, Nitin Nabin entered electoral politics following the death of his father, veteran BJP leader Nabin Kishore Prasad Sinha, and has retained his hold on Bankipur since his by-election victory in 2006."
     },
     {
       "sentiment": "positive",
@@ -281,6 +286,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/sydney-bondi-beach-shooting-2835760-2025-12-14",
+      "headline": "Live: PM Anthony Albanese calls Hanukkah shooting an evil antisemitic terror attackSydney Bondi Beach Shooting Live Updates: Multiple people were killed and several others injured after at least two gunmen opened fire on crowds at Bondi Beach, triggering scenes of panic. Police shot dead the attackers, while another suspect is believed to have fled after being disarmed."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/after-delhi-gautam-buddh-nagar-makes-online-classes-mandatory-for-classes-1-5-2835861-2025-12-14",
       "headline": "Noida makes online classes mandatory for Classes 1\u20135 as AQI crosses 400Noida administration has announced online classes for students of Classes 1\u20135 as air quality worsens and crosses the 400 mark at several locations."
     },
@@ -290,32 +300,32 @@
       "headline": "India has zero tolerance for terror: PM condemns ghastly Sydney beach attackPrime Minister Narendra Modi condemned the ghastly terrorist attack at Sydney's Bondi Beach that targeted a Jewish Hanukkah event, reiterating India's zero tolerance towards terrorism and expressing solidarity with Australia.\r\n"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/i-saw-blood-gushing-israel-october-7-survivor-injured-in-bondi-shooting-sydney-australia-2835782-2025-12-14",
-      "headline": "I saw blood gushing: Israel's October 7 survivor injured in Sydney beach shootingA survivor of the October 7 attacks was injured in the Bondi Beach shooting during a Hanukkah celebration, describing scenes of chaos, gunfire and \"blood gushing\" from his head wound.\r\n"
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/know-real-dhurandhars-lyaric-karachi-pakistan-rehman-dakait-uzair-baloch-chaudhry-aslam-2835296-2025-12-13",
       "headline": "Know real Dhurandhars: Men who turned Karachi into a\u00a0war zoneRehman Dakait, Chaudhry Aslam, Uzair Baloch carved legends in blood, bullets, and vengeance, leaving Pakistan's Lyari haunted. 'Dhurandhar' brings their violent underworld to life on screen, where monsters, messiahs, and spies collide. Know the real stories of these men: the Dhurandhars who ruled Lyari with fear and fire."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-mumbai-live-updates-india-goat-tour-sachin-tendulkar-sunil-chhetri-2835684-2025-12-14",
-      "headline": "GOAT tour Mumbai highlights: Tendulkar gifts Messi Indian jerseyLionel Messi GOAT India Tour 2025 highlights: Lionel Messi meets Sachin Tendulkar at the Wankhede Stadium. Sachin gifts Messi an Indian cricket jersey with his name on it. Messi also meets Sunil Chhetri, the legendary Indian football team captain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-u19-asia-cup-vaibhav-suryavanshi-report-2835851-2025-12-14",
-      "headline": "Unstoppable India crush Pakistan to continue flawless run in U19 Asia CupIndia U19 extended their unbeaten run in the U19 Asia Cup with a commanding 90-run win over Pakistan in Dubai on Sunday, posting 240 and restricting their rivals to 150."
+      "url": "https://www.indiatoday.in/world/story/i-saw-blood-gushing-israel-october-7-survivor-injured-in-bondi-shooting-sydney-australia-2835782-2025-12-14",
+      "headline": "I saw blood gushing: Israel's October 7 survivor injured in Sydney beach shootingA survivor of the October 7 attacks was injured in the Bondi Beach shooting during a Hanukkah celebration, describing scenes of chaos, gunfire and \"blood gushing\" from his head wound.\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/health/story/aiims-study-coronary-artery-disease-not-covid-vaccination-driving-sudden-deaths-in-india-2835763-2025-12-14",
       "headline": "AIIMS study: Coronary artery disease, not COVID vaccines driving sudden deaths in young adults in IndiaThe study is based on an analysis of 180 autopsies done on people whose passing away were qualified as sudden deaths. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-u19-asia-cup-vaibhav-suryavanshi-report-2835851-2025-12-14",
+      "headline": "Unstoppable India crush Pakistan to continue flawless run in U19 Asia CupIndia U19 extended their unbeaten run in the U19 Asia Cup with a commanding 90-run win over Pakistan in Dubai on Sunday, posting 240 and restricting their rivals to 150."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-3rd-t20i-arshdeep-singh-makes-ball-talk-dharamsala-dedicates-award-to-neice-2835905-2025-12-14",
+      "headline": "Arshdeep makes the ball talk in Dharamsala, dedicates POTM award to 10-year-old niece Arshdeep Singh bounced back strongly in Dharamsala, using swing and seam to outthink South Africa before dedicating his Player of the Match award to his 10-month-old niece."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-3rd-t20i-match-report-arshdeep-varun-2835893-2025-12-14",
@@ -339,7 +349,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-goat-tour-sunil-chhetri-sachin-tendulkar-mumbai-wankhede-2835859-2025-12-14",
-      "headline": "Messi, Sachin, Chhetri: GOATS meet at Wankhede to create epic moments in Mumbai Lionel Messi's GOAT tour moment saw some epic moments in Mumbai's Wankhede Stadium. The legendary Argentine meet the very best of Indian sports - Sachin Tendulkar and Sunil Chhetri and exchanged jerseys."
+      "headline": "Messi, Sachin, Chhetri: GOATs meet at Wankhede to create epic moments in Mumbai Lionel Messi's GOAT tour moment saw some epic moments in Mumbai's Wankhede Stadium. The legendary Argentine meet the very best of Indian sports - Sachin Tendulkar and Sunil Chhetri and exchanged jerseys."
     },
     {
       "sentiment": "positive",
@@ -364,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-goat-tour-kolkata-mess-will-hurt-for-decades-aiff-kalyan-chaubey-2835805-2025-12-14",
-      "headline": "Messi event fiasco will hurt Kolkata for decades: Indian football chief Kalyan Chaubey AIFF president Kalyan Chaubey slammed the West Bengal government over chaos at Lionel Messi's Kolkata event, warning poor planning could hurt the city and India's global sporting image for decades."
+      "headline": "Messi event fiasco will hurt Kolkata for decades: Indian football chief Kalyan ChaubeyAIFF president Kalyan Chaubey slammed the West Bengal government over chaos at Lionel Messi's Kolkata event, warning poor planning could hurt the city and India's global sporting image for decades."
     },
     {
       "sentiment": "positive",
@@ -460,11 +470,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-3rd-t20i-predicted-xi-kuldeep-yadav-dharamsala-weather-2835644-2025-12-14",
       "headline": "IND vs SA 3rd T20I Predicted XIs: Will experimental India bring in Kuldeep?India are set to take on South Africa in third T20I in Dharamsala. The team management might be tempted to bring in Kuldeep Yadav after bowling failure in the second match. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/vips-first-fans-later-lionel-messi-goat-tours-kolkata-flop-exposed-misplaced-priorities-2835623-2025-12-14",
-      "headline": "VIPs first, fans later: How Messi tour's Kolkata flop exposed misplaced prioritiesLionel Messi's presence could not mask what unfolded in Kolkata. The event laid bare a system where optics mattered more than organisation, and fans paid the price for failures not of their making."
     }
   ],
   "education": [
