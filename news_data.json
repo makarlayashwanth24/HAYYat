@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/radhika-apte-reveals-challenges-unfair-treatment-debut-film-vaah-life-ho-toh-aisi-2837598-2025-12-17",
+      "headline": "The awful producers didn't put me up, didn't pay me: Radhika Apte on debut film Radhika Apte reflected on her difficult experience during the making of her debut film 'Vaah! Life Ho Toh Aisi!', describing issues with the producers and contract process, as well as highlighting positive interactions with Mahesh Manjrekar."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/john-abraham-birthday-celebration-actor-warmth-fan-engagement-bollywood-2837537-2025-12-17",
       "headline": "Watch: John Abraham celebrates 53rd birthday with fans and paparazzi John Abraham marked his 53rd birthday by celebrating with fans and photographers. Pictures and videos of the actor celebrating the same have gone viral. "
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/saali-mohabbat-film-challenges-tisca-chopra-directorial-debut-insights-2837346-2025-12-17",
       "headline": "Tisca Chopra reveals why directing her debut film almost led to divorce Tisca Chopra opened up about the personal and creative challenges she faced while co-writing and directing her first film, 'Saali Mohabbat'. Chopra said that intense creative differences with her husband, Sanjay Chopra, who co-wrote the film, nearly impacted their marriage. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sreeleela-urges-social-media-users-to-reject-harmful-ai-generated-content-2837315-2025-12-17",
-      "headline": "Sreeleela urges action against AI deepfakes, calls for women's online dignity Sreeleela has spoken out against AI-generated harmful content on social media, calling for greater responsibility and support for women's safety in online spaces."
     }
   ],
   "general news": [
@@ -322,6 +322,21 @@
   ],
   "sports": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/satwik-rankireddy-chirag-shetty-improve-service-receive-top-badminton-pairs-2837571-2025-12-17",
+      "headline": "Satwik and Chirag aim for improvement after gritty win in opening match BWF World Tour Finals: Satwiksairaj Rankireddy and Chirag Shetty clinched a gritty win over Olympic silver medallists Liang Wei Keng and Wang Chang of China in their first group match in the season-ending tournament in Hangzhou. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/icc-t20-world-cup-eden-gardens-ticket-prices-announced-2837610-2025-12-17",
+      "headline": "T20 World Cup: Eden Gardens tickets start at Rs 100, India Super 8 game at Rs 900 The Cricket Association of Bengal has revealed the ticket structure for ICC Men's T20 World Cup matches at Eden Gardens, with prices varying across group-stage and knockout fixtures."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-lucknow-t20i-abandoned-fog-ekana-stadium-2837608-2025-12-17",
+      "headline": "Heartbroken, give my money back: Fans demand refund after Lucknow T20I abandoned Fans in Lucknow demanded a refund after the 4th T20I between India and South Africa at the Ekana stadium was abandoned due to fog on Wednesday, December 17. The game was abandoned without the toss even happening. "
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/fog-abandons-ind-vs-sa-4th-t20i-lucknow-cricket-history-2837586-2025-12-17",
       "headline": "Was Lucknow T20I the first time an international game was abandoned due to fog? Fog played spoilsport in Lucknow on Wednesday, December 17 as the 4th T20I between India and South Africa was abandoned without the toss even happening. Here's a look if this was the first time an international game was abandoned due to poor visibility. "
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/mohun-bagan-banned-afc-competitions-2027-refusal-travel-iran-2837491-2025-12-17",
-      "headline": "AFC bans Mohun Bagan SG from 2027 to 28 tournaments, imposes fine Indian Super League champions Mohun Bagan Super Giant have been banned from all AFC club competitions until the 2027\u201328 season and fined over USD 100,000 for refusing to travel to Iran for a scheduled group-stage match against Sepahan SC."
+      "headline": "AFC bans Mohun Bagan SG from 2027 to 28 tournaments, imposes fineIndian Super League champions Mohun Bagan Super Giant have been banned from all AFC club competitions until the 2027\u201328 season and fined over USD 100,000 for refusing to travel to Iran for a scheduled group-stage match against Sepahan SC."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/srk-fan-sarthak-ranjan-kkr-ipl-2026-auction-manifestation-2837482-2025-12-17",
-      "headline": "Manifestation works: SRK, Gambhir fan Ranjan's wish to play for KKR comes true Shah Rukh Khan and Gautam Gambhir fan Sarthak Ranjan was able to fulfil his wish of playing for KKR after being picked by the three-time IPL champions during the 2026 auction. "
+      "headline": "Manifestation works: SRK, Gambhir fan Ranjan's wish to play for KKR comes trueShah Rukh Khan and Gautam Gambhir fan Sarthak Ranjan was able to fulfil his wish of playing for KKR after being picked by the three-time IPL champions during the 2026 auction. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-booed-sydney-bbl-poor-form-sixers-strikers-2837455-2025-12-17",
-      "headline": "Was Babar Azam booed by own fans in BBL? Video from Sixers vs Strikers go viral Babar Azam poor run of form in the Big Bash League continued as he was dismissed for 9 runs in the match against Adelaide Strikers. Babar was seemingly booed off the park following his latest match by the home crowd in Sydney. "
+      "headline": "Was Babar Azam booed by own fans in BBL? Video from Sixers vs Strikers go viralBabar Azam poor run of form in the Big Bash League continued as he was dismissed for 9 runs in the match against Adelaide Strikers. Babar was seemingly booed off the park following his latest match by the home crowd in Sydney. "
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-hospitalised-gastroenteritis-syed-mushtaq-ali-trophy-2025-2837162-2025-12-17",
       "headline": "Yashasvi Jaiswal hospitalised with stomach cramps during domestic T20 in PuneIndia batter Yashasvi Jaiswal was hospitalised with acute gastroenteritis after the Syed Mushtaq Ali Trophy match between Mumbai and Rajasthan in Pune."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cameron-green-ipl-2026-mini-auction-chennai-super-kings-ashwin-2837139-2025-12-17",
-      "headline": "Cameron Green a generational talent, CSK missed a trick letting him go: R AshwinR Ashwin said CSK showed a lack of intent at the IPL 2026 mini-auction, allowing KKR to snap up generational all-rounder Cameron Green for a record Rs 25.20 crore, a move he hailed as an outstanding buy.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-auction-sarthak-ranjan-son-of-pappu-yadav-picked-up-kkr-2837124-2025-12-17",
-      "headline": "IPL auction: Sarthak Ranjan, son of Congress leader Pappu Yadav picked up by KKRKKR's IPL 2026 auction included a notable off-field moment as the franchise signed Sarthak Ranjan, son of former MP and Congress leader Pappu Yadav, prompting an emotional reaction from the Bihar politician."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kiran-kumar-grandhi-on-prithvi-shaw-delhi-capitals-ipl-2026-auction-2837112-2025-12-17",
-      "headline": "Prithvi Shaw's 2nd chance: DC co-owner on why they bid for Maharashtra batterDC co-owner Kiran Kumar Grandhi explained why the franchise decided to bring back Prithvi Shaw into the side during the IPL 2026 auction. Shaw was bought back by DC for his base price of Rs. 75 Lakh."
     }
   ],
   "education": [
