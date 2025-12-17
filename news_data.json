@@ -245,6 +245,11 @@
       "headline": "Was Lucknow T20I the first time an international game was abandoned due to fog?Fog played spoilsport in Lucknow on Wednesday, December 17 as the 4th T20I between India and South Africa was abandoned without the toss even happening. Here's a look if this was the first time an international game was abandoned due to poor visibility. "
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/video/video-car-rolls-down-slope-in-himachal-narrow-escape-for-tourists-2837631-2025-12-18",
+      "headline": "Video: Car rolls down slope in Himachal, narrow escape for touristsTourists had a narrow escape in the popular hill station of Dalhousie in Himachal Pradesh after a vehicle carrying them suddenly started rolling backwards down a steep slope on Wednesday."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/aap-claims-victories-zones-punjab-zila-parishad-panchayat-samiti-polls-2837623-2025-12-17",
       "headline": "AAP claims victories in over 900 zones as Punjab local body poll counting continuesThe AAP said early trends reflected public support for the Bhagwant Mann government, even as opposition parties alleged irregularities during counting.\r\n\r\n"
@@ -255,14 +260,14 @@
       "headline": "Can act against older Delhi-NCR cars below BS-IV: Supreme Court modifies own orderAdditional Solicitor General Aishwarya Bhati, appearing for the Delhi Government, sought a modification for action against vehicles up to BS-III, arguing that continued use of older, highly polluting vehicles was contributing significantly to deteriorating pollution levels."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/video-haryana-rohtak-university-car-tries-to-run-over-students-at-university-chased-attacked-with-stones-2837607-2025-12-17",
-      "headline": "Video: Car tries to run over students at university; chased, attacked with stonesThe incident has once again raised serious concerns over security at Maharshi Dayanand University. Locals and students allege that the campus frequently sees the presence of outsiders and unruly elements."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/irans-hormuz-coast-turns-blood-red-after-heavy-rain-heres-the-science-behind-it-2837256-2025-12-17",
       "headline": "Iran's Hormuz coast turned blood-red overnight. Science explains whyLocated in the Persian Gulf near the Strait of Hormuz, this small island is already famous for its dramatic landscape and kaleidoscopic geology."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/video-haryana-rohtak-university-car-tries-to-run-over-students-at-university-chased-attacked-with-stones-2837607-2025-12-17",
+      "headline": "Video: Car tries to run over students at university; chased, attacked with stonesThe incident has once again raised serious concerns over security at Maharshi Dayanand University. Locals and students allege that the campus frequently sees the presence of outsiders and unruly elements."
     },
     {
       "sentiment": "positive",
@@ -276,13 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/north-goa-court-orders-five-day-police-custody-for-luthra-brothers-in-nightclub-fire-case-2837565-2025-12-17",
-      "headline": "Luthras organised fire activities with full knowledge of risk: Goa Police to courtCalling out gross negligence, the Goa Police told the court that the Luthra brothers had knowingly permitted and organised fireworks inside the restaurant/club without adopting any security measures, despite being fully aware that such activity posed serious fire hazards and was likely to cause loss of life.\r\n\r\n"
+      "url": "https://www.indiatoday.in/science/story/cancer-cure-blood-cancer-leukaemia-incurable-cancer-dna-base-editing-genetic-editing-crispr-cas9-car-t-cell-therapy-lymphoblastic-leukaemia-alyssa-university-college-london-2837461-2025-12-17",
+      "headline": "A new hope: Scientists have found a way to cure a rare blood cancerScientists have utilised revolutionary DNA base editing to treat previously incurable T-cell acute lymphoblastic leukaemia. This breakthrough study marks the first human use of base-edited cells to achieve long-term cancer remission.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/cancer-cure-blood-cancer-leukaemia-incurable-cancer-dna-base-editing-genetic-editing-crispr-cas9-car-t-cell-therapy-lymphoblastic-leukaemia-alyssa-university-college-london-2837461-2025-12-17",
-      "headline": "A new hope: Scientists have found a way to cure a rare blood cancerScientists have utilised revolutionary DNA base editing to treat previously incurable T-cell acute lymphoblastic leukaemia. This breakthrough study marks the first human use of base-edited cells to achieve long-term cancer remission.\r\n"
+      "url": "https://www.indiatoday.in/india/story/north-goa-court-orders-five-day-police-custody-for-luthra-brothers-in-nightclub-fire-case-2837565-2025-12-17",
+      "headline": "Luthras organised fire activities with full knowledge of risk: Goa Police to courtCalling out gross negligence, the Goa Police told the court that the Luthra brothers had knowingly permitted and organised fireworks inside the restaurant/club without adopting any security measures, despite being fully aware that such activity posed serious fire hazards and was likely to cause loss of life.\r\n\r\n"
     },
     {
       "sentiment": "positive",
@@ -296,13 +301,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/poses-risks-warner-bros-discovery-board-rejects-108-billion-rival-bid-from-paramount-netflix-in-race-2837474-2025-12-17",
-      "headline": "Warner Bros rejects Paramount's $108-billion hostile bid, Netflix in raceThe board said Netflix's $27.75-per-share binding merger offers greater certainty, stronger finances and lower risk for shareholders."
+      "url": "https://www.indiatoday.in/lifestyle/wellness/story/shy-bowel-syndrome-parcopresis-symptoms-anxiety-disorder-2837177-2025-12-17",
+      "headline": "Shy bowel syndrome is real: Why some people can only poop at homeBreaking wind in public washrooms, the time you spend when taking a dump in the office toilet \u2013 all of it can become a point of anxiety for some people. And that makes their bowel shy.  Experts agree."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/shy-bowel-syndrome-parcopresis-symptoms-anxiety-disorder-2837177-2025-12-17",
-      "headline": "Shy bowel syndrome is real: Why some people can only poop at homeBreaking wind in public washrooms, the time you spend when taking a dump in the office toilet \u2013 all of it can become a point of anxiety for some people. And that makes their bowel shy.  Experts agree."
+      "url": "https://www.indiatoday.in/business/story/poses-risks-warner-bros-discovery-board-rejects-108-billion-rival-bid-from-paramount-netflix-in-race-2837474-2025-12-17",
+      "headline": "Warner Bros rejects Paramount's $108-billion hostile bid, Netflix in raceThe board said Netflix's $27.75-per-share binding merger offers greater certainty, stronger finances and lower risk for shareholders."
     },
     {
       "sentiment": "positive",
@@ -313,11 +318,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/information/story/indian-railways-revises-initial-reservation-chart-timing-ease-travel-planning-2837270-2025-12-17",
       "headline": "Railways to allow ticket status check 10 hours before train departurePassengers will now know their train ticket reservation status well in advance as Indian Railways revises chart preparation timings, enabling confirmation details to be available up to 10 hours before the scheduled departure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-government-mandates-50-work-from-home-amid-toxic-air-crisis-warns-of-fines-for-violation-2837126-2025-12-17",
-      "headline": "Function at 50% WFH or pay fine: Delhi's mandate to all firms amid air crisisThe Delhi government on Wednesday mandated all government and private companies to function at a 50 per cent work from home mode amid the air pollution crisis."
     }
   ],
   "sports": [
