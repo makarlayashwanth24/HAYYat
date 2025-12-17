@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-eb4-visa-process-for-foreign-technical-experts-glbs-2837630-2025-12-18",
+      "headline": "India eases visa process for foreign professionals, engineers hired by firmsIndia has introduced a simplified e-B-4 visa process to facilitate foreign experts' entry for manufacturing projects. The move aims to reduce visa processing time and support faster industrial execution."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/poses-risks-warner-bros-discovery-board-rejects-108-billion-rival-bid-from-paramount-netflix-in-race-2837474-2025-12-17",
       "headline": "Warner Bros rejects Paramount's $108-billion hostile bid, Netflix in raceThe board said Netflix's $27.75-per-share binding merger offers greater certainty, stronger finances and lower risk for shareholders."
     },
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-economy-debt-borrowing-global-finance-comparison-us-dollar-weak-rupee-world-inequality-report-2026-2836731-2025-12-16",
       "headline": "India loses billions yearly as global finance favours rich nations: ReportPoorer and emerging economies like India consistently pay more to the global financial system than they receive back, while rich countries continue to benefit from lower costs and higher returns.\u200b"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/will-your-loan-emi-fall-sbi-cuts-lending-rates-lowers-interest-on-select-fd-2836668-2025-12-16",
-      "headline": "Will your loan EMI fall? SBI cuts lending rates, lowers interest on select FDThe State Bank of India has announced reductions in both lending and select deposit rates, aiming to balance relief for borrowers with steady returns for most deposit holders."
     }
   ],
   "entertainment": [
