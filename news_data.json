@@ -226,8 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/indians-in-new-zealand-protest-against-sikh-procession-nagar-kirtan-nanaksar-gurudwara-manurewa-auckland-haka-dance-2839751-2025-12-22",
-      "headline": "This isn't India: New Zealand far-right group performs Haka against SikhsA Sikh religious procession in Auckland had to pause when a far-right group blocked it with a Haka display. The Sikhs, including Nihangs, did not react to the protests. Community leaders have expressed concern, noting this was the third big anti-immigrant incident in New Zealand this year."
+      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-women-domestic-cricketers-pay-rise-hike-christmas-2840118-2025-12-22",
+      "headline": "BCCI announces 2.5x pay hike for domestic women's cricketersThe Indian Cricket Board has given a major pay hike to women's cricketers in the domestic structure. According to the new proposal, women's players will get an appraisal of 2.5 times their current match fees."
     },
     {
       "sentiment": "positive",
@@ -255,14 +255,19 @@
       "headline": "Yogi Adityanath's 'do namune' jab, Akhilesh Yadav turns the taunt aroundAkhilesh Yadav countered Yogi Adityanath's jibe about \"'do namune' sitting in Delhi and Lucknow\" by terming it an own goal that exposed the rift within the BJP."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/secret-behind-huge-airport-crowd-for-pakistan-under-19-team-kaaba-imam-masjid-al-haram-deception-madrassa-students-2839936-2025-12-22",
-      "headline": "Secret behind huge airport crowd for Pak's U-19 team: Kaaba cleric deception?To bring a crowd to the Islamabad Airport to greet the U-19 Asia Cup winning team, Pakistani authorities apparently lied to them. Madrassa students were told that they would be meeting the Imam of Mecca's Masjid al-Haram but were taken aback when they had to welcome Pakistan's U-19 cricket team instead. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/indians-in-new-zealand-protest-against-sikh-procession-nagar-kirtan-nanaksar-gurudwara-manurewa-auckland-haka-dance-2839751-2025-12-22",
+      "headline": "This isn't India: New Zealand far-right group performs Haka against SikhsA Sikh religious procession in Auckland had to pause when a far-right group blocked it with a Haka display. The Sikhs, including Nihangs, did not react to the protests. Community leaders have expressed concern, noting this was the third big anti-immigrant incident in New Zealand this year."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/hajmola-experience-priyanka-chopra-shares-nick-jonas-funny-first-reaction-great-indian-kapil-show-2839980-2025-12-22",
       "headline": "Priyanka Chopra shares Nick Jonas's hilarious reaction after trying HajmolaPriyanka Chopra recounted her husband Nick Jonas's amusing experience trying Hajmola for the first time, sharing his candid reaction during an appearance on The Great Indian Kapil Show Season 4."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/secret-behind-huge-airport-crowd-for-pakistan-under-19-team-kaaba-imam-masjid-al-haram-deception-madrassa-students-2839936-2025-12-22",
+      "headline": "Secret behind huge airport crowd for Pak's U-19 team: Kaaba cleric deception?To bring a crowd to the Islamabad Airport to greet the U-19 Asia Cup winning team, Pakistani authorities apparently lied to them. Madrassa students were told that they would be meeting the Imam of Mecca's Masjid al-Haram but were taken aback when they had to welcome Pakistan's U-19 cricket team instead. "
     },
     {
       "sentiment": "positive",
@@ -276,18 +281,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/indians-in-america-visa-updates-news-why-american-tech-companies-h1b-visa-holders-not-to-leave-us-trump-executive-order-2839772-2025-12-22",
-      "headline": "H-1B staffers shouldn't leave US: What's behind Apple, Google, Microsoft email?An increase in the H-1B visa application fee and stricter social media vetting prompted several US tech companies to ask employees to remain in the country or return to the US immediately. The move was triggered by lack of clarity on new provisions."
+      "url": "https://www.indiatoday.in/health/story/no-workout-no-crash-diets-how-discipline-helped-me-lose-21-kilos-in-10-months-2839725-2025-12-22",
+      "headline": "No workout, no crash diets: How discipline helped me lose 21 kilos in 10 monthsI didn't wait for a Monday or a New Year's resolution. I started anyway and lost 21 kilos in 10 months. Here's what worked for me and might help you too."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/no-workout-no-crash-diets-how-discipline-helped-me-lose-21-kilos-in-10-months-2839725-2025-12-22",
-      "headline": "No workout, no crash diets: How discipline helped me lose 21 kilos in 10 monthsI didn't wait for a Monday or a New Year's resolution. I started anyway and lost 21 kilos in 10 months. Here's what worked for me and might help you too."
+      "url": "https://www.indiatoday.in/world/story/indians-in-america-visa-updates-news-why-american-tech-companies-h1b-visa-holders-not-to-leave-us-trump-executive-order-2839772-2025-12-22",
+      "headline": "H-1B staffers shouldn't leave US: What's behind Apple, Google, Microsoft email?An increase in the H-1B visa application fee and stricter social media vetting prompted several US tech companies to ask employees to remain in the country or return to the US immediately. The move was triggered by lack of clarity on new provisions."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/bangladesh-student-leader-motaleb-shikder-shot-in-head-during-violent-protests-over-osman-hadis-killing-2839782-2025-12-22",
       "headline": "Bangladesh student leader shot in head during violent protests over Hadi's killingThe shooting of NCP labour leader Md Motaleb Sikder follows the killing of student leader Sharif Osman Hadi, whose death sparked protests and heightened concerns over Bangladesh's law and order."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/swiggy-says-bengaluru-user-tipped-rs-68600-hyderabad-buyer-spent-rs-43-lakh-on-iphone-17-in-2025-2839932-2025-12-22",
+      "headline": "Swiggy says Bengaluru user tipped Rs 68,600, Hyderabad buyer spent Rs 4.3 lakh on iPhone 17 in 2025From Rs 68,600 tip to delivery boy to Rs 4.3 lakh iPhone carts, Instamart's 2025 data shows India shopping without limits. Here is everything that Swiggy revealed."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/gen-z-freelancing-portfolio-careers-gap-years-india-2839745-2025-12-22",
+      "headline": "'I don't want a 9-to-5': How Gen Z is rewriting career timelinesGen Z students in India are shifting away from traditional 9-to-5 jobs towards freelancing and portfolio careers. This change highlights a growing emphasis on freedom, mental health, and flexible work models amid institutional challenges."
     },
     {
       "sentiment": "positive",
@@ -301,26 +316,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/gen-z-freelancing-portfolio-careers-gap-years-india-2839745-2025-12-22",
-      "headline": "'I don't want a 9-to-5': How Gen Z is rewriting career timelinesGen Z students in India are shifting away from traditional 9-to-5 jobs towards freelancing and portfolio careers. This change highlights a growing emphasis on freedom, mental health, and flexible work models amid institutional challenges."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/shararat-choreographer-vijay-ganguly-tamannaah-bhatia-was-never-considered-for-dhurandhar-song-2840075-2025-12-22",
       "headline": "Choreographer Vijay Ganguly: Tamannaah was never considered for Dhurandhar songChoreographer Vijay Ganguly has addressed recent reports about Tamannaah Bhatia's supposed rejection from the Shararat song in Dhurandhar, stating she was never considered due to her significant star power and explaining the creative rationale behind the casting decisions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/the-odyssey-trailer-matt-damon-leads-christopher-nolan-epic-tom-holland-anne-hathaway-homer-2840090-2025-12-22",
-      "headline": "The Odyssey trailer: A myth reborn in Christopher Nolan's cinematic universeUniversal has revealed the first trailer for Christopher Nolan's adaptation of Homer's classic tale, featuring Matt Damon as Odysseus. The Odyssey promises sweeping visuals, a celebrated ensemble, and a fresh take from the acclaimed director, with the film set for release on July 2026."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/awami-league-hadi-killing-violence-sheikh-hasina-party-members-bangladesh-elections-2840047-2025-12-22",
-      "headline": "Awami League members killed without reason: Hasina's party leaders in BangladeshAn Awami League leader, whose father was a freedom fighter, broke down talking to India Today TV recounting the ordeal: \"Almost a year and two months ago, our house was attacked, and he was attacked as well, despite having sacrificed everything for the country. They are doing mob justice in the name of Allah.\""
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/robin-uthappa-shubman-gill-jitesh-sharma-axed-t20-world-cup-2026-2840140-2025-12-22",
+      "headline": "Indian cricket is a strange place: Gill's T20 World Cup snub stuns Uthappa Robin Uthappa expressed his disbelief in seeing Shubman Gill being axed from the Indian squad for the T20 World Cup 2026. Gill and Jitesh Sharma were snubbed with Ishan Kishan and Rinku Singh coming into the mix. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/glenn-mcgrath-england-ashes-mentality-australia-0-3-deficit-2840121-2025-12-22",
+      "headline": "Is England's winless Ashes run in Australia down to mentality? McGrath reacts Glenn McGrath feels that England's winless run in Australia during Ashes is down to mentality. The Aussies have already blanked England in the first three Tests to regain the Ashes. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-women-domestic-cricketers-pay-rise-hike-christmas-2840118-2025-12-22",
+      "headline": "BCCI announces 2.5x pay hike for domestic women's cricketers The Indian Cricket Board has given a major pay hike to women's cricketers in the domestic structure. According to the new proposal, women's players will get an appraisal of 2.5 times their current match fees."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/kazuyoshi-miura-extends-football-career-fukushima-united-58-defying-retirement-norms-2840083-2025-12-22",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/krishnappa-gowtham-retires-karnataka-all-rounder-14-year-domestic-cricket-career-2839968-2025-12-22",
-      "headline": "IPL star and domestic stalwart Krishnappa Gowtham retires from cricket Krishnappa Gowtham has announced his retirement from all forms of cricket, drawing the curtain on a notable career across India's domestic circuit and the IPL."
+      "headline": "IPL star and domestic stalwart Krishnappa Gowtham retires from cricketKrishnappa Gowtham has announced his retirement from all forms of cricket, drawing the curtain on a notable career across India's domestic circuit and the IPL."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ishan-kishan-jharkhand-vijay-hazare-trophy-2025-2839978-2025-12-22",
-      "headline": "After T20 World Cup selection, Ishan Kishan named Jharkhand's VHT captain After the selection for India's T20 World Cup squad, Ishan Kishan will continue leading Jharkhand, this time in the Vijayu Hazare Trophy. Kishan played a vital role in Jharkhand's Syed Mushtaq Ali Trophy win. "
+      "headline": "After T20 World Cup selection, Ishan Kishan named Jharkhand's VHT captainAfter the selection for India's T20 World Cup squad, Ishan Kishan will continue leading Jharkhand, this time in the Vijayu Hazare Trophy. Kishan played a vital role in Jharkhand's Syed Mushtaq Ali Trophy win. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/indian-women-cricket-team-visits-simhachalam-temple-after-win-sri-lanka-2839929-2025-12-22",
-      "headline": "Prayer time: India Women visit Vizag's Lakshmi Narasimha Swamy temple after 1st T20I After a dominant eight-wicket win over Sri Lanka in the first Women's T20I, the Indian women's team visited Vizag's Simhachalam temple to seek blessings as they began the series with authority and momentum."
+      "headline": "Prayer time: India Women visit Vizag's Lakshmi Narasimha Swamy temple after 1st T20IAfter a dominant eight-wicket win over Sri Lanka in the first Women's T20I, the Indian women's team visited Vizag's Simhachalam temple to seek blessings as they began the series with authority and momentum."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bcci-finalises-t20-world-cup-squad-ishan-kishan-return-shubman-gill-omitted-2839718-2025-12-22",
       "headline": "I was shocked: Former captain says he didn't expect India to drop Shubman GillFormer India captain Kris Srikkanth said he didn't expect the selectors to drop Shubman Gill from the T20 World Cup squad. The ex-chairman of selectors gave Ajit Agarkar and his selection team credit for valuing domestic performances.  "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bazball-died-in-adelaide-australian-media-covered-englands-ashes-loss-2839710-2025-12-22",
-      "headline": "Bazball died in Adelaide: How Australian media covered England's Ashes nightmareAustralia completed a dominant Ashes series victory over England with a 3-0 lead in the five-match series. Following their win, the Australian media mocked the England team by giving a twist to the historic Ashes obituary."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-wi-3rd-test-jacob-duffy-5-wickets-323-run-win-devon-conway-brandon-king-2839687-2025-12-22",
-      "headline": "NZ vs WI: Jacob Duffy's 5-wicket haul sets up 2-0 series win for NZ with 323-run winNew Zealand beat West Indies by 323 runs in the third Test to claim the series 2-0. Jacob Duffy was adjudged Player of the Match for taking his third five-wicket haul."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-form-struggles-optimism-t20-world-cup-2839671-2025-12-22",
-      "headline": "The day I blast\u2026: Surya's speech on poor form at Ahmedabad university goes viralBacked despite lean returns, Suryakumar Yadav reiterated his acknowledgement of a dip in T20I form in 2025. The India captain will be under pressure as he prepares the team for the T20 World Cup, starting February 7."
     }
   ],
   "education": [
