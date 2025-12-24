@@ -3,7 +3,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/new-airline-noc-al-hind-air-flyexpress-india-aviation-duopoly-dgca-2841111-2025-12-24",
-      "headline": "Al Hind Air, FlyExpress get NOCs as government looks to widen airline choicesAl Hind Air and FlyExpress have received no objection certificates from the civil aviation ministry, as the government looks to reduce heavy dependence on a few airlines following recent disruption at IndiGo."
+      "headline": "Al Hind Air, FlyExpress: Centre clears two new airlines days after IndiGo chaosAl Hind Air and FlyExpress have received no objection certificates from the civil aviation ministry, as the government looks to reduce heavy dependence on a few airlines following recent disruption at IndiGo."
     },
     {
       "sentiment": "positive",
@@ -104,8 +104,13 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/the-50-reality-show-launch-colors-tv-jiohotstar-unique-no-rule-format-2841186-2025-12-24",
+      "headline": "After Bigg Boss 19, The 50 promises reality TV chaos: No rules, no pattern A new Indian reality show titled The 50, based on the French series Les Cinquante, is set to feature 50 contestants competing without a rulebook, promising higher levels of mind games and strategy."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-shares-photos-from-farm-getaway-with-ogs-saif-ali-khan-karisma-2841198-2025-12-24",
-      "headline": "Kareena Kapoor shares photos from farm getaway with OG's Saif Ali Khan, Karisma Kareena Kapoor shared glimpses from her peaceful winter break at a farm, where she is spending time with husband Saif Ali Khan and sister Karisma Kapoor."
+      "headline": "Kareena posts sun-kissed selfie of Saif and Karisma: OGs in the sarson ka khet Kareena Kapoor shared glimpses from her peaceful winter break at a farm, where she is spending time with husband Saif Ali Khan and sister Karisma Kapoor."
     },
     {
       "sentiment": "positive",
@@ -191,23 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/rob-reiner-wife-michele-died-of-sharp-force-injuries-death-certificates-2840953-2025-12-24",
       "headline": "Death certificates say Rob Reiner, wife Michele died of sharp force injuries According to their death certificates, filmmaker Rob Reiner and his wife, Michele, died from multiple sharp force injuries in their Los Angeles residence. The documents indicate the fatal injuries led to the couple's death within minutes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/dhurandhars-aditya-dhar-reacts-to-films-criticism-corporate-booking-claims-2840949-2025-12-24",
-      "headline": "Dhurandhar's Aditya Dhar reacts to film's criticism, corporate booking claims Aditya Dhar re-shared a note defending Dhurandhar's historic box office run, calling its success completely organic. The note took a veiled swipe at a 'video maker' critic while dismissing corporate booking claims."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/up-minister-op-rajbhar-mocks-unnao-rape-survivor-after-being-removed-from-delhi-protest-kuldeep-sengar-2841132-2025-12-24",
-      "headline": "Unnao rape survivor, mother dragged from Delhi protest; UP minister mocks them\"I wanted to kill myself then and there, but I stopped after thinking about my family,\" the survivor said on Tuesday after she and her mother were forcibly dragged out of the lawns of India Gate. A day later, Uttar Pradesh minister OP Rajbhar laughed off the incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/grap-iv-restrictions-strictest-level-of-anti-pollution-curbs-lifted-in-delhi-as-aqi-improves-2841222-2025-12-24",
-      "headline": "GRAP-IV restrictions lifted in Delhi as AQI improvesDespite the improvement in air quality, the authorities have not lifted the GRAP-III restrictions."
+      "headline": "Unnao rape survivor, mother dragged from Delhi protest; UP minister mocks themA day after the Unnao rape survivor and her mother were evicted while protesting at the India Gate lawns, UP minister OP Rajbhar laughed off the incident. They were protesting against the relief granted to ex-BJP MLA Kuldeep Singh Sengar, a convict in the case."
     },
     {
       "sentiment": "positive",
@@ -215,9 +210,14 @@
       "headline": "Indian vlogger detained in China for 15 hours over Arunachal remarkThe incident reportedly occurred on November 16, when Chinese authorities questioned him at length before eventually releasing him."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/karbi-anglong-news-violence-police-attacked-two-dead-what-happened-land-rights-tribal-sixth-schedule-himanta-biswa-sarma-2841097-2025-12-24",
+      "headline": "Bombs, arrows fly in Assam's Karbi Anglong, Army deployed | Crisis explainedThe Army has been deployed in Assam's West Karbi Anglong, a day after police personnel were attacked by a barrage of stones, arrows and crude bombs. Markets and a BJP leader's home were set ablaze. Internet services have been snapped as two people were killed in large-scale violence in the tribal district of Assam. The flare-up was sparked by police action against tribal hunger strikers protesting alleged encroachment on protected tribal land. It is a long-running fault line in the Sixth Schedule district of Assam."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/christmas-holiday-2025-date-origins-jesus-christ-birth-debate-javed-akhtar-pegan-festival-ancient-rome-king-emperor-constantine-2841053-2025-12-24",
-      "headline": "Was Christmas moved from spring to December 25? Here are the factsPoet Javed Akhtar claimed that Christmas was moved from spring to December to coincide with a popular pagan festival to ease religious transition in ancient Rome. Historians, however, say that December 25 emerged as Christmas day through a complex mix of theology, symbolism, and circumstance rather than a single imperial decision."
+      "url": "https://www.indiatoday.in/india/story/unnao-rape-survivor-likely-to-meet-rahul-gandhi-reaches-his-house-2841228-2025-12-24",
+      "headline": "Want to tell PM what we're enduring: Unnao rape survivor as she meets Rahul GandhiEarlier, Rahul Gandhi said India was not just becoming a dead economy but also a dead society while reacting to the Unnao rape survivor's ordeal."
     },
     {
       "sentiment": "positive",
@@ -226,18 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vijay-hazare-trophy-virat-kohli-hundred-delhi-vs-ap-2841101-2025-12-24",
-      "headline": "Virat Kohli marks Vijay Hazare Trophy return with a vintage hundred for DelhiReturning to the Vijay Hazare Trophy after nearly 15 years, Virat Kohli marked his comeback with a commanding century, reminding everyone why he remains one of the finest batters in the 50-over game."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/karbi-anglong-news-violence-police-attacked-two-dead-what-happened-land-rights-tribal-sixth-schedule-himanta-biswa-sarma-2841097-2025-12-24",
-      "headline": "Bombs, arrows fly in Assam's Karbi Anglong, crisis kills 2 | ExplainedPolice in Assam's Karbi Anglong came under a barrage of stones, arrows and crude bombs on Thursday. Markets and the house of a BJP leader were set on fire. Internet services were snapped as two people were killed in large-scale violence that rocked the tribal district of Assam. The flare-up was sparked by police action against tribal hunger strikers protesting alleged encroachment on protected tribal land. It is a long-running fault line in the Sixth Schedule district of Assam."
+      "url": "https://www.indiatoday.in/cities/delhi/story/grap-iv-restrictions-strictest-level-of-anti-pollution-curbs-lifted-in-delhi-as-aqi-improves-2841222-2025-12-24",
+      "headline": "GRAP-IV restrictions lifted in Delhi as AQI improvesAlthough the restrictions under GRAP-IV have been revoked, the capital presently grapples with GRAP I, GRAP II, and GRAP IV guidelines. Despite the improvement in air quality, the Commission has not decided to abolish the implementation of these three categories."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/coffee-sellers-on-the-go-setup-goes-viral-internet-cant-stop-watching-2840947-2025-12-24",
-      "headline": "Coffee seller's 'on-the-go' setup goes viral. Internet can't stop watchingA young coffee seller's innovative setup and skillful preparation captured social media's attention and earned him praise for his creativity."
+      "url": "https://www.indiatoday.in/india/story/christmas-holiday-2025-date-origins-jesus-christ-birth-debate-javed-akhtar-pegan-festival-ancient-rome-king-emperor-constantine-2841053-2025-12-24",
+      "headline": "Was Christmas moved from spring to December 25? Here are the factsPoet Javed Akhtar claimed that Christmas was moved from spring to December to coincide with a popular pagan festival to ease religious transition in ancient Rome. Historians, however, say that December 25 emerged as Christmas day through a complex mix of theology, symbolism, and circumstance rather than a single imperial decision."
     },
     {
       "sentiment": "positive",
@@ -246,13 +241,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-woman-road-harassment-fir-police-search-karnataka-rejecting-proposal-2840960-2025-12-24",
-      "headline": "Groped, hit: Woman assaulted on road by Instagram friend for rejecting proposalA woman in Bengaluru alleged sexual harassment after refusing a love proposal. The accused reportedly pulled her clothes and assaulted her in public. Police registered an FIR and launched a search for him."
+      "url": "https://www.indiatoday.in/trending-news/story/coffee-sellers-on-the-go-setup-goes-viral-internet-cant-stop-watching-2840947-2025-12-24",
+      "headline": "Coffee seller's 'on-the-go' setup goes viral. Internet can't stop watchingA young coffee seller's innovative setup and skillful preparation captured social media's attention and earned him praise for his creativity."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/indians-abroad/story/ndian-student-in-us-dies-under-suspicious-circumstances-cardiac-arrest-food-poisoning-while-dining-with-friends-2841109-2025-12-24",
       "headline": "Indian student in US dies under suspicious circumstances while dining with friendsSoon after the incident, social media platforms were flooded with claims that Pawan Kumar Reddy died due to food poisoning. However, neither US authorities nor the medical department have officially confirmed food poisoning as the cause of death so far."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-woman-road-harassment-fir-police-search-karnataka-rejecting-proposal-2840960-2025-12-24",
+      "headline": "Groped, hit: Woman assaulted on road by Instagram friend for rejecting proposalA woman in Bengaluru alleged sexual harassment after refusing a love proposal. The accused reportedly pulled her clothes and assaulted her in public. Police registered an FIR and launched a search for him."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vijay-hazare-trophy-virat-kohli-hundred-delhi-vs-ap-2841101-2025-12-24",
+      "headline": "Virat Kohli marks Vijay Hazare Trophy return with a vintage hundred for DelhiReturning to the Vijay Hazare Trophy after nearly 15 years, Virat Kohli marked his comeback with a commanding century, reminding everyone why he remains one of the finest batters in the 50-over game."
     },
     {
       "sentiment": "negative",
@@ -282,7 +287,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/new-airline-noc-al-hind-air-flyexpress-india-aviation-duopoly-dgca-2841111-2025-12-24",
-      "headline": "Al Hind Air, FlyExpress get NOCs as government looks to widen airline choicesAl Hind Air and FlyExpress have received no objection certificates from the civil aviation ministry, as the government looks to reduce heavy dependence on a few airlines following recent disruption at IndiGo."
+      "headline": "Al Hind Air, FlyExpress: Centre clears two new airlines days after IndiGo chaosAl Hind Air and FlyExpress have received no objection certificates from the civil aviation ministry, as the government looks to reduce heavy dependence on a few airlines following recent disruption at IndiGo."
     },
     {
       "sentiment": "positive",
@@ -316,6 +321,11 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vijay-hazare-trophy-rohit-sharma-virat-kohli-centuries-jaipur-bengaluru-2841251-2025-12-24",
+      "headline": "Too easy? Rohit Sharma and Virat Kohli show Vijay Hazare isn't their test Too easy? Rohit Sharma and Virat Kohli did not need domestic cricket to prove themselves, but their return to the Vijay Hazare Trophy created the buzz the tournament was hoping for. Rohit struck a daddy hundred to lead Mumbai's chase against Sikkim in Jaipur, while Kohli lived up to his 'chase master' tag with a fluent 131 off 101 balls for Delhi against Andhra in Bengaluru."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/hardik-singh-khel-ratna-arjuna-awards-list-2025-2841246-2025-12-24",
@@ -369,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ravi-shastri-monty-panesar-coach-brendon-mccullum-england-ashes-australia-2841091-2025-12-24",
-      "headline": "Ravi Shastri backed to replace Brendon McCullum as England coach after Ashes defeat Former England spinner Monty Panesar has urged England to turn to Ravi Shastri as a replacement for Brendon McCullum, arguing that the ex-India coach's proven success against Australia makes him the ideal candidate to revive the team after a disappointing Ashes campaign."
+      "headline": "Ravi Shastri backed to replace Brendon McCullum as England coach after Ashes defeatFormer England spinner Monty Panesar has urged England to turn to Ravi Shastri as a replacement for Brendon McCullum, arguing that the ex-India coach's proven success against Australia makes him the ideal candidate to revive the team after a disappointing Ashes campaign."
     },
     {
       "sentiment": "positive",
@@ -465,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-suryavanshi-moral-policing-helps-no-one-u19-asia-cup-ind-vs-pak-reaction-2840832-2025-12-24",
       "headline": "Leave Vaibhav Suryavanshi alone. Moral policing a 15-year-old helps no oneMoral policing a 15-year-old won't build champions. Patience might. Vaibhav Suryavanshi's mistake was human. Our reaction was not."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ashes-2025-rob-key-brendon-mccullum-backs-head-coach-england-vs-australia-performance-2840824-2025-12-24",
-      "headline": "Rob Key backs Brendon McCullum despite England's Ashes horror in AustraliaRob Key closed ranks around Brendon McCullum after England's Ashes collapse in Australia. Admitting failures in preparation and execution, England's leadership now face a decisive moment to evolve their approach."
     }
   ],
   "education": [
