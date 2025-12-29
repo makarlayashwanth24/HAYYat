@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/indian-banking-sector-shows-stability-bad-loans-fall-to-multi-decade-low-report-2843512-2025-12-29",
+      "headline": "Indian banking sector shows stability, bad loans fall to multi-decade low: ReportIndia's banking sector has shown resilience in 2025, with strong growth, improved asset quality, and attention to emerging climate risks, according to a recent Reserve Bank of India report."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-crude-oil-imports-rise-in-december-as-delhi-continues-buying-from-moscow-2843511-2025-12-29",
       "headline": "India's crude oil imports rise in December as Delhi continues buying from MoscowIndia's Russian oil imports are poised to top 1 million barrels per day in December, defying expectations for a sharp decline as refiners have resumed buying from non-sanctioned entities offering deep discounts."
@@ -94,14 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/silver-touches-record-high-india-silver-price-today-major-cities-new-delhi-mumbai-chennai-2843147-2025-12-29",
       "headline": "Silver at record highs: Why prices are surging and should you buy now?Market experts say silver's sharp rise is being driven by a powerful combination of factors rather than a single trigger. Here is all you need to know. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/jayshree-ullal-richest-indian-origin-ceo-hurun-india-rich-list-2025-satya-nadella-microsoft-sunder-pichai-google-2843135-2025-12-29",
-      "headline": "This Indian-origin CEO is now richer than Satya Nadella and Sundar PichaiAccording to Hurun India's latest list for 2025, Jayshree Ullal, President and CEO of Arista Networks, has taken the top spot among Indian-origin leaders globally."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-serves-bhel-puri-to-riteish-and-genelia-on-60th-birthday-video-2843536-2025-12-29",
+      "headline": "Salman Khan serves Bhel Puri to Riteish and Genelia on 60th birthday. Video Salman Khan served Bhel Puri to Riteish and Genelia Deshmukh at his Panvel farmhouse during his 60th birthday celebrations. Genelia shared the video on social media, praising Salman's hospitality."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/jagapathi-babu-transforms-into-appala-soori-for-ram-charans-peddi-first-look-out-2843541-2025-12-29",
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/lailas-sweet-dream-kannada-film-chaithra-j-achar-mother-daughter-bond-2843275-2025-12-29",
       "headline": "Chaithra Achar to star in Shaktiprasad's emotional thriller Laila's Sweet Dream Actor Chaithra J Achar is starring in Laila's Sweet Dream, a Kannada film directed by first-time feature filmmaker Shaktiprasad. The production explores the emotional nuances of mother-daughter relationships."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prabhas-spirit-first-look-set-for-new-years-eve-reveal-says-report-2843298-2025-12-29",
-      "headline": "Prabhas' Spirit: First look set for New Year's Eve reveal, says report  As fans await updates on The Raja Saab, reports suggest that the first-look poster of Prabhas from spirit could drop on New Year's Eve."
     }
   ],
   "general news": [
@@ -323,6 +323,11 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/anthony-joshua-boxer-car-crash-nigeria-two-dead-2843565-2025-12-29",
+      "headline": "Anthony Joshua involved in car crash that leaves 2 dead in Nigeria: Report Anthony Joshua was injured in a car crash on the Ogun\u2013Lagos expressway in Nigeria that left two people dead. The local police reportedly said Joshua sustained minor injuries and is stable."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-2026-world-cup-ticket-prices-defended-demand-global-football-2843540-2025-12-29",
       "headline": "FIFA president defends 2026 World Cup ticket pricing amid booming demand FIFA President Gianni Infantino defended the ticket prices for next year's World Cup in the United States, Canada and Mexico, pointing to overwhelming demand and the revenue the tournament generates for football around the world."
     },
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sonam-yeshey-bhutan-bowler-record-8-wickets-t20-cricket-bhutan-historic-win-2843372-2025-12-29",
-      "headline": "Who's Sonam Yeshey? Bhutan bowler who scripted T20 history with 8-wicket haul Bhutan's Sonam Yeshey scripted history, becoming the first player to claim eight wickets in a T20 match. He finished with match figures of 8/7 in four overs to help Bhutan beat Myanmar by 8 wickets."
+      "headline": "Who's Sonam Yeshey? Bhutan bowler who scripted T20 history with 8-wicket haulBhutan's Sonam Yeshey scripted history, becoming the first player to claim eight wickets in a T20 match. He finished with match figures of 8/7 in four overs to help Bhutan beat Myanmar by 8 wickets."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/magnus-carlsen-wins-sixth-fide-world-rapid-chess-championship-india-shines-2843089-2025-12-28",
       "headline": "World Rapid C'ships: Carlsen wins sixth title, Koneru Humpy settles for bronzeMagnus Carlsen captured his sixth World Rapid Chess Championship title after a dramatic final day, while Koneru Humpy narrowly missed a record third women's crown, finishing third on tie-breaks despite sharing the top score."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/hero-hockey-india-league-2025-26-sg-pipers-open-campaign-2-0-win-ranchi-royals-2843088-2025-12-28",
-      "headline": "SG Pipers kick off Women's Hockey India League with 2-0 win vs Ranchi RoyalsSG Pipers began their Women's Hero Hockey India League 2025\u201326 campaign with a convincing 2\u20130 win over Ranchi Royals, showing strong defensive organisation and clinical finishing. Navneet Kaur and Teresa Viana scored for the Pipers as the team controlled key phases of the match in Ranchi."
     }
   ],
   "education": [
