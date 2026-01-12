@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/prashant-tamang-wife-martha-daughter-pay-last-respects-to-late-singer-watch-2850868-2026-01-12",
+      "headline": "Prashant Tamang's wife Martha, daughter pay last respects to late singer. Watch Prashant Tamang's wife Martha Aley and daughter paid tearful last respects to the late singer. Prashant was the winner in the singing reality show 'Indian Idol 3'."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/julia-roberts-gets-standing-ovation-at-golden-globes-thanks-audience-watch-video-2850839-2026-01-12",
       "headline": "Julia Roberts gets standing ovation at Golden Globes, thanks audience. Watch video Julia Roberts received a standing ovation at the Golden Globes 2026. She was among the presenters at the awards event among Priyanka Chopra, Mila Kunis, Pamela Anderson, Orlando Bloom, Miley Cyrus and others."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/will-smith-expresses-interest-bollywood-collaboration-shah-rukh-khan-salman-khan-2850606-2026-01-12",
       "headline": "Will Smith says he wants Shah Rukh Khan to cast him in a Bollywood film Oscar-winning actor Will Smith voiced his desire to work with Shah Rukh Khan in a Bollywood film during his visit to Dubai for the premiere of National Geographic's new series Pole to Pole."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mardaani-3-trailer-rani-mukerji-leads-a-gritty-mission-to-find-missing-girls-2850617-2026-01-12",
-      "headline": "Mardaani 3 trailer: Rani Mukerji leads a gritty mission to find missing girls The trailer for Mardaani 3, starring Rani Mukerji as Shivani Shivaji Roy, has been released. The film, directed by Abhiraj Minawala and produced by Aditya Chopra, continues the franchise's focus on socially relevant issues."
     }
   ],
   "general news": [
@@ -231,13 +231,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-protest-internet-blackout-kill-switch-jamming-kills-starlink-elon-musk-china-russia-technology-help-2850566-2026-01-12",
-      "headline": "Iran uses kill switch to jam Starlink as protests rage on. Did China or Russia help?As anti-Khamenei protests in Iran enter the third week, the Ayatollah's clerical regime has reportedly activated a military-grade \"kill switch\", which cut off Elon Musk's Starlink and plunged 80 million Iranians into digital darkness. Experts say the sophisticated jamming technology could likely have been supplied by Russia or China."
+      "url": "https://www.indiatoday.in/world/story/turkey-seeks-to-join-pakistan-saudi-arabia-defence-alliance-ankara-aided-islamabad-in-op-sindoor-bloomberg-2850857-2026-01-12",
+      "headline": "Turkey in talks to join Pak-Saudi defence pact; Nato member eyeing Islamic Nato?Turkey is in advanced talks to join a newly signed collective defence pact with Pakistan and Saudi Arabia, according to a Bloomberg report. Is the Nato member eyeing an Islamic Nato, partnering Pakistan that has nukes and ballistic missiles and Saudi Arabia, which has financial clout?"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-to-join-pax-silica-alliance-next-month-united-states-ambassador-2850732-2026-01-12",
-      "headline": "What is Pax Silica, US-led strategic alliance that India might join next month?Pax Silica, derived from the Latin word for peace, aims to ensure stability and long-term prosperity by securing the silicon supply chain from critical minerals and energy to advanced manufacturing, semiconductors, AI infrastructure, and logistics."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/india-space-power-bank-pslv-c62-mission-takeme2space-orbital-data-centre-server-room-2850339-2026-01-12",
+      "headline": "Not just DRDO satellite, India lost a comic server as PSLV failsAn Indian startup revealed an exclusive plan to build a massive server room in the stars. This cosmic power bank would have allowed satellites to plug in and process data in real time. However, the mission failed due to technical glitches during the rocket launch. \r\n"
     },
     {
       "sentiment": "positive",
@@ -250,14 +250,34 @@
       "headline": "Cold wave to intensify in north India, rainfall likely in southern statesTemperatures are set to fall further across north India on Tuesday, with the IMD warning of severe cold wave conditions and dense fog in parts of the northwest."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/india-space-power-bank-pslv-c62-mission-takeme2space-orbital-data-centre-server-room-2850339-2026-01-12",
-      "headline": "Not just DRDO satellite, India lost a comic server as PSLV failsAn Indian startup revealed an exclusive plan to build a massive server room in the stars. This cosmic power bank would have allowed satellites to plug in and process data in real time. However, the mission failed due to technical glitches during the rocket launch. \r\n"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-hang-26-year-old-in-first-reported-execution-over-anti-ayatollah-khamenei-protests-erfan-soltani-hanging-death-sentence-2850856-2026-01-12",
+      "headline": "Iran to hang 26-year-old in first reported execution over anti-Khamenei protestsA 26-year-old protester, Erfan Soltani, arrested last week, is now facing an imminent death sentence. Activists and rights groups are warning that his case could set a precedent for executions aimed at deterring further anti-regime protests."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/turkey-seeks-to-join-pakistan-saudi-arabia-defence-alliance-ankara-aided-islamabad-in-op-sindoor-bloomberg-2850857-2026-01-12",
-      "headline": "Turkey in talks to join Pak-Saudi defence pact; Nato member eyeing Islamic Nato?Turkey is in advanced talks to join a newly signed collective defence pact with Pakistan and Saudi Arabia, according to a Bloomberg report. Is the Nato member eyeing an Islamic Nato, partnering Pakistan that has nukes and ballistic missiles and Saudi Arabia, which has financial clout?"
+      "url": "https://www.indiatoday.in/india/story/west-bengal-reports-two-nipah-cases-both-infected-patients-health-workers-2850834-2026-01-12",
+      "headline": "2 Nipah virus cases detected in Bengal, Centre mobilises response teamUnion Health Minister Jagat Prakash Nadda has written to West Bengal Chief Minister Mamata Banerjee, assuring full support from the Centre.\u00a0Nadda also spoke to Mamata Banerjee over telephone and reiterated the Centre's commitment to extend all necessary assistance to West Bengal in managing the situation."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/surat-woman-assaults-child-ding-dong-ditch-doorbell-prank-cctv-video-2850867-2026-01-12",
+      "headline": "Video: Surat woman drags and assaults 7-year-old over ding-dong ditch prankA seven-year-old boy was allegedly assaulted by a woman for a ding-dong dash prank. The child suffered multiple injuries due to the assault and the accused woman has since been detained."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-protest-internet-blackout-kill-switch-jamming-kills-starlink-elon-musk-china-russia-technology-help-2850566-2026-01-12",
+      "headline": "Iran uses kill switch to jam Starlink as protests rage on. Did China or Russia help?As anti-Khamenei protests in Iran enter the third week, the Ayatollah's clerical regime has reportedly activated a military-grade \"kill switch\", which cut off Elon Musk's Starlink and plunged 80 million Iranians into digital darkness. Experts say the sophisticated jamming technology could likely have been supplied by Russia or China."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-to-join-pax-silica-alliance-next-month-united-states-ambassador-2850732-2026-01-12",
+      "headline": "What is Pax Silica, US-led strategic alliance that India might join next month?Pax Silica, derived from the Latin word for peace, aims to ensure stability and long-term prosperity by securing the silicon supply chain from critical minerals and energy to advanced manufacturing, semiconductors, AI infrastructure, and logistics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-venezuela-greenland-western-hemisphere-us-expansionism-china-taiwan-2850610-2026-01-12",
+      "headline": "Trump is normalising conquest. China may followTrump's actions in Venezuela and intent to annex Greenland chip away at the moral authority the US relies on to deter aggression on foreign soil. It may embolden Beijing to test boundaries -- putting Taiwan in the line of fire."
     },
     {
       "sentiment": "positive",
@@ -281,28 +301,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-venezuela-greenland-western-hemisphere-us-expansionism-china-taiwan-2850610-2026-01-12",
-      "headline": "Trump is normalising conquest. China may followTrump's actions in Venezuela and intent to annex Greenland chip away at the moral authority the US relies on to deter aggression on foreign soil. It may embolden Beijing to test boundaries -- putting Taiwan in the line of fire."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-hang-26-year-old-in-first-reported-execution-over-anti-ayatollah-khamenei-protests-erfan-soltani-hanging-death-sentence-2850856-2026-01-12",
-      "headline": "Iran to hang 26-year-old in first reported execution over anti-Khamenei protestsA 26-year-old protester, Erfan Soltani, arrested last week, is now facing an imminent death sentence. Activists and rights groups are warning that his case could set a precedent for executions aimed at deterring further anti-regime protests."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/west-bengal-reports-two-nipah-cases-both-infected-patients-health-workers-2850834-2026-01-12",
-      "headline": "2 Nipah virus cases detected in Bengal, Centre mobilises response teamUnion Health Minister Jagat Prakash Nadda has written to West Bengal Chief Minister Mamata Banerjee, assuring full support from the Centre.\u00a0Nadda also spoke to Mamata Banerjee over telephone and reiterated the Centre's commitment to extend all necessary assistance to West Bengal in managing the situation."
+      "url": "https://www.indiatoday.in/india/story/sorry-kolkata-bikaner-is-indias-undisputed-mithai-capital-2850578-2026-01-12",
+      "headline": "Sorry, Kolkata. Bikaner is India's undisputed mithai capitalWhile Kolkata remains famous for its traditional chhena sweets, Bikaner has built a diverse and enduring sweet empire that caters to global tastes. This desert city's innovative approach to sweets and snacks is redefining India's culinary landscape."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-modi-set-to-move-to-new-office-seva-teerth-on-makar-sankranti-new-pmo-address-soon-2850531-2026-01-12",
       "headline": "PMO to move out of South Block on Makar Sankranti, a first since IndependenceThe relocation of the Prime Minister's Office will mark the end of an era, as it has been located in the South Block since India's independence in 1947."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sorry-kolkata-bikaner-is-indias-undisputed-mithai-capital-2850578-2026-01-12",
-      "headline": "Sorry, Kolkata. Bikaner is India's undisputed mithai capitalWhile Kolkata remains famous for its traditional chhena sweets, Bikaner has built a diverse and enduring sweet empire that caters to global tastes. This desert city's innovative approach to sweets and snacks is redefining India's culinary landscape."
     },
     {
       "sentiment": "positive",
@@ -313,11 +318,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/world-news-uae-warns-of-islamic-radicalisation-in-uk-universities-cuts-students-scholarships-britain-college-ban-2850496-2026-01-12",
       "headline": "UAE warns of Islamic radicalisation in UK universities, ends students' scholarshipsThe United Arab Emirates has decided to end funding for Emirati students studying in UK-based universities due to fears they might get radicalised by Islamic terrorist group Muslim Brotherhood in British educational institutions. Ties between the UK and the UAE have become strained over multiple issues."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/priyanka-chopra-jonas-nick-jonas-golden-globes-2026-dior-gown-outfit-2850349-2026-01-12",
-      "headline": "All eyes on Priyanka Chopra as she brings blue glam to the Golden Globes in DiorPriyanka Chopra Jonas wore a custom blue Dior gown featuring an intriguing mix of metallic and matte details at the 2026 Golden Globe Awards."
     }
   ],
   "sports": [
@@ -339,7 +339,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/wpl-live-score-today-match-rcb-vs-up-warriorz-updates-navi-mumbai-smriti-mandhana-meg-lanning-2850776-2026-01-12",
-      "headline": "RCB vs UP Warriorz live: Deepti, Dottin look to rebuild but RCB on top Royal Challengers Bengaluru (RCB) vs UP Warriorz (UPW) WPL live cricket score and updates: RCB are firmly on top but the Warriorz will be hoping that Deepti Sharma and Deandre Dottin can get a partnership going and get them close to the 150-mark. "
+      "headline": "RCB vs UP Warriorz live: Harris fifty puts RCB on course for win Royal Challengers Bengaluru (RCB) vs UP Warriorz (UPW) WPL live cricket score and updates: A brilliant innings from Grace Harris sees RCB in cruise control of this chase as UP Warriorz struggle to stem the run flow in Navi Mumbai. "
     },
     {
       "sentiment": "positive",
@@ -374,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/wojciech-szczesny-smoking-leaked-lamine-yamal-instagram-live-real-madrid-vs-fc-barcelona-2850656-2026-01-12",
-      "headline": "Watch: Lamine Yamal leaks another Szczesny smoking clip after Super Cup win Lamine Yamal accidentally went live from Barcelona's dressing room and briefly caught Wojciech Szczesny smoking after the Super Cup final win over Real Madrid. The clip was quickly cut but spread rapidly online."
+      "headline": "Watch: Lamine Yamal leaks another Szczesny smoking clip after Super Cup winLamine Yamal accidentally went live from Barcelona's dressing room and briefly caught Wojciech Szczesny smoking after the Super Cup final win over Real Madrid. The clip was quickly cut but spread rapidly online."
     },
     {
       "sentiment": "positive",
@@ -460,11 +460,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-batting-no-6-pressure-perks-india-vs-new-zealand-2850333-2026-01-12",
       "headline": "KL Rahul and perks of batting at No.6: India star explains advantage of roleKL Rahul explained the perks and pressure that comes with batting for at No.6 and playing the finisher's role for the side. Rahul helped India beat New Zealand in the Baroda ODI. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/delhi-capitals-narrow-loss-gujarat-giants-wpl-jemimah-rodrigues-powerplay-bowling-2850328-2026-01-11",
-      "headline": "Jemimah dejected after DC lose thriller vs Gujarat: Tough pill to swallowJemimah Rodrigues was dejected after the Delhi Capitals lost back-to-back games following their four-run defeat to the Gujarat Giants on Sunday in Navi Mumbai. "
     }
   ],
   "education": [
