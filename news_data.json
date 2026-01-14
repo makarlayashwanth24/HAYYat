@@ -200,24 +200,24 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-says-killing-in-iran-stopping-no-plan-for-executions-amid-crackdown-protesters-glbs-2852137-2026-01-15",
+      "headline": "There's no plan for executions: Trump says Iran has stopped killing protestersDonald Trump said he was told executions in Iran have stopped, citing \"good authority,\" even as Tehran signals fast trials, leaving uncertainty over US action amid an ongoing crackdown on protesters.\r\n"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/iranian-state-tv-issues-chilling-assassination-threat-to-trump-amid-ongoing-tehran-protests-glbs-2852132-2026-01-15",
       "headline": "This time it won't miss: Iranian TV issues chilling assassination threat to TrumpThe broadcast marked one of Tehran's most open threats yet to the US President amid reports that he is weighing military strikes against Iran. Iranian officials have accused Washington of using the country's internal unrest as a justification for possible intervention."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-says-killing-in-iran-stopping-no-plan-for-executions-amid-crackdown-protesters-glbs-2852137-2026-01-15",
-      "headline": "Trump says killing in Iran is stopping, with no plan for executions amid crackdownDonald Trump said he was told executions in Iran have stopped, citing \"good authority,\" even as Tehran signals fast trials, leaving uncertainty over US action amid an ongoing crackdown on protesters.\r\n"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/iran-foreign-minister-dials-s-jaishankar-discusses-evolving-situation-amid-deadly-unrest-2852039-2026-01-14",
-      "headline": "Iran Foreign Minister dials S Jaishankar as deadly unrest intensifiesAs tension has accelerated in Iran in the last few days, the Foreign Minister of Iran, Seyed Abbas Araghchi called S Jaishankar and discussed the existing situation."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/lawrence-bishnoi-gang-operating-in-canada-on-behalf-of-indian-government-royal-canadian-mounted-police-report-rcmp-2851861-2026-01-14",
       "headline": "Canadian police link Bishnoi gang's activities in Canada to Indian govtCanada's national police service has said that the Lawrence Bishnoi gang was operating in the country on behalf of the Indian government. The assessment, in a report seen by Global News, added that despite being designated a terrorist organisation, the gang continued to expand its footprint in Canada."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/nasa-spacex-crew-11-medical-emergency-iss-undocking-live-watch-2851990-2026-01-15",
+      "headline": "Watch LIVE: Nasa begins historic medical evacuation from Space StationWatch live as Nasa's Crew-11 undocks from the International Space Station as part of a historic medical evacuation. Follow the SpaceX Dragon's journey from the orbital laboratory to its Pacific Ocean splashdown.\r\n"
     },
     {
       "sentiment": "positive",
@@ -231,8 +231,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/nasa-spacex-crew-11-medical-emergency-iss-undocking-live-watch-2851990-2026-01-15",
-      "headline": "Watch LIVE: Nasa begins historic medical evacuation from Space StationWatch live as Nasa's Crew-11 undocks from the International Space Station as part of a historic medical evacuation. Follow the SpaceX Dragon's journey from the orbital laboratory to its Pacific Ocean splashdown.\r\n"
+      "url": "https://www.indiatoday.in/india/story/iran-foreign-minister-dials-s-jaishankar-discusses-evolving-situation-amid-deadly-unrest-2852039-2026-01-14",
+      "headline": "Iran Foreign Minister dials S Jaishankar as deadly unrest intensifiesAs tension has accelerated in Iran in the last few days, the Foreign Minister of Iran, Seyed Abbas Araghchi called S Jaishankar and discussed the existing situation."
     },
     {
       "sentiment": "positive",
