@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prabhas-spirit-set-for-march-2027-release-confirms-sandeep-reddy-vanga-2853180-2026-01-16",
+      "headline": "Prabhas' Spirit set for March 2027 release, confirms Sandeep Reddy Vanga Director Sandeep Reddy Vanga has officially confirmed the theatrical release date of Spirit, starring Prabhas, with the film now locked for a March 2027 release."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ar-rahman-calls-chhaava-divisive-thinks-core-of-the-film-is-to-show-bravery-2853164-2026-01-16",
+      "headline": "AR Rahman calls Chhaava divisive, thinks core of the film is to show bravery AR Rahman spoke about working in an increasingly divided film industry. During an interview, he highlighted the importance of choosing projects thoughtfully and curating music for Chhaava, a film that he called \"divisive.\""
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sidharth-malhotra-41st-birthday-intimate-celebration-kiara-advani-2853090-2026-01-16",
       "headline": "On Sidharth Malhotra's birthday, Kiara sings for daughter Saraayah's favourite human Actor Sidharth Malhotra marked his 41st birthday on January 16 with a private midnight gathering attended by close friends and family. Kiara Advani posted a heartfelt message and shared moments from the celebration."
     },
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ishita-dutta-confirms-drishyam-3-shoot-with-first-bts-photos-from-sets-2852966-2026-01-16",
       "headline": "Ishita Dutta confirms Drishyam 3 shoot with first BTS photos from sets Ishita Dutta confirmed that Drishyam 3 has gone on floors by sharing the film's clapboard on social media, officially marking the start of production. The Ajay Devgn\u2013Tabu starrer is set to release in theatres on October 2, 2026."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/prime-video-daldal-psychological-crime-thriller-premiere-january-30-2852859-2026-01-16",
-      "headline": "Daldal teaser: Bhumi Pednekkar as a tormented cop investigating gruesome murders Prime Video announces the global premiere of Daldal on January 30. The series explores psychological trauma and systemic biases in Mumbai's police force."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/happy-patel-khatarnak-jasoos-review-vir-das-spy-comedy-breaks-bollywood-stereotypes-2852875-2026-01-16",
-      "headline": "Happy Patel review: Vir Das breaks spy movie stereotypes with madcap comedyRelease Date:Fri Jan 16, 2026 Happy Patel Khatarnak Jasoos movie review: Vir Das's Happy Patel breaks traditional spy film clich\u00e9s with humour and heart. The film's unique blend of genres offers an entertaining, madcap cinematic experience."
     }
   ],
   "general news": [
@@ -211,13 +211,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/maharashtra-municipal-election-result-2026-live-updates-civic-body-polls-shiv-sena-ncp-bjp-congress-2852722-2026-01-16",
-      "headline": "Live: Saffron sweep in Maharashtra civic polls, Latur cheap consolation for CongressMaharashtra Civic Body Election Result Live Updates: After nearly nine years, Maharashtra held civic body elections across 29 municipal corporations, including key urban centres such as Mumbai, Pune, Thane, Nagpur, Pimpri-Chinchwad and Nashik. With polling completed on Thursday and an overall turnout of 46\u201350 per cent, attention has now shifted to counting, that began today. The elections featured several high-profile political contests. The coming together of the Thackeray brothers to take on the BJP-led alliance, including Deputy Chief Minister Eknath Shinde's Shiv Sena, emerged as a major talking point. In Pune and Pimpri-Chinchwad, members of the Pawar family joined forces to defend their traditional strongholds. Notably, despite being on opposite sides at the state level, the NCP and NCP (SP) put aside differences for the municipal polls and jointly fielded candidates, adding another layer of intrigue to the results. Stay with IndiaToday.in for the latest and live updates-"
+      "url": "https://www.indiatoday.in/elections/story/maharashtra-has-given-blessings-to-ndas-pro-people-good-governance-agenda-pm-on-mahayutis-civic-poll-win-2853197-2026-01-16",
+      "headline": "Maharashtra blessed NDA's good governance: PM hails Mahayuti's civic poll winPrime Minister Narendra Modi congratulated the BJP-led Mahayuti alliance over the massive civic poll success in Maharshtra"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-news-iranian-regime-is-harsh-at-home-but-it-refuses-to-kneel-american-antics-donald-trump-ayatollah-khamenei-israel-2853004-2026-01-16",
-      "headline": "Why the US can batter Iran, but can't bend itThe US has tried it all against Iran, a Shia Muslim country it accuses of trying to get a nuclear bomb. It has crippled its economy with sanctions, struck its nuclear sites and backed its rivals, but Tehran stands defiant. Even a full-blown military strike, what President Trump threatened the Khamenei regime with, won't make Iranians bow down. Here's why."
+      "url": "https://www.indiatoday.in/elections/story/maharashtra-municipal-election-result-2026-live-updates-civic-body-polls-shiv-sena-ncp-bjp-congress-2852722-2026-01-16",
+      "headline": "Live: Saffron sweep in Maharashtra civic polls, Latur cheap consolation for CongressMaharashtra Civic Body Election Result Live Updates: After nearly nine years, Maharashtra held civic body elections across 29 municipal corporations, including key urban centres such as Mumbai, Pune, Thane, Nagpur, Pimpri-Chinchwad and Nashik. With polling completed on Thursday and an overall turnout of 46\u201350 per cent, attention has now shifted to counting, that began today. The elections featured several high-profile political contests. The coming together of the Thackeray brothers to take on the BJP-led alliance, including Deputy Chief Minister Eknath Shinde's Shiv Sena, emerged as a major talking point. In Pune and Pimpri-Chinchwad, members of the Pawar family joined forces to defend their traditional strongholds. Notably, despite being on opposite sides at the state level, the NCP and NCP (SP) put aside differences for the municipal polls and jointly fielded candidates, adding another layer of intrigue to the results. Stay with IndiaToday.in for the latest and live updates-"
     },
     {
       "sentiment": "positive",
@@ -225,14 +225,24 @@
       "headline": "12 Rajdeep Sardesai takeaways from Mahayuti's big show in civic pollsHeld after a nine-year gap amid fractured alliances and an intense contest over Marathi identity, the Maharashtra civic polls result demonstrated a clear shift in voter preferences. Here are key takeaways from BJP-Shinde Sena sweep of the civic polls."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-news-iranian-regime-is-harsh-at-home-but-it-refuses-to-kneel-american-antics-donald-trump-ayatollah-khamenei-israel-2853004-2026-01-16",
+      "headline": "Why the US can batter Iran, but can't bend itThe US has tried it all against Iran, a Shia Muslim country it accuses of trying to get a nuclear bomb. It has crippled its economy with sanctions, struck its nuclear sites and backed its rivals, but Tehran stands defiant. Even a full-blown military strike, what President Trump threatened the Khamenei regime with, won't make Iranians bow down. Here's why."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/delhi/story/anti-pollution-restrictions-under-grap-stage-3-reimposed-in-delhi-ncr-as-pollution-levels-soar-2853139-2026-01-16",
-      "headline": "GRAP 3 restrictions reimposed in Delhi-NCR as pollution levels soarThe decision was taken as Delhi's air quality deteriorated further, with the Air Quality Index, AQI, crossing the 350 mark and entering the 'severe' category."
+      "headline": "GRAP-III restrictions reimposed in Delhi-NCR as pollution levels soarThe decision was taken as Delhi's air quality deteriorated further, with the Air Quality Index, AQI, crossing the 350 mark and entering the 'severe' category."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/india-open-badminton-world-championships-bai-secretary-2853113-2026-01-16",
       "headline": "World Champs will feel like a festival, critics will regret doubts: BAIBadminton Association of India general secretary Sanjay Mishra dismissed the intense scrutiny surrounding the India Open, reiterating that the tournament is being staged as a test event for the World Championships, set to return to India after a 16-year gap. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/instant-delivery-apps-10-minutes-makar-sankranti-maggi-noodles-quick-commerce-industry-india-2852563-2026-01-16",
+      "headline": "Living in a post-Blinkit India: What's the hurry? Slow it downIndia is done with the \"instant\" insanity. Blinkit and Zomato cannot Swiggy by in 10 minutes any longer. Even if they do, they cannot make a virtue out of it. India is not known for doing pretty much anything fast. But now that the government has spoken, we must learn to fill time into a handful of \"instant\" activities we developed the dangerous habit for."
     },
     {
       "sentiment": "positive",
@@ -251,8 +261,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/darbhanga-dynasty-and-its-last-queen-a-tale-of-wealth-mystery-and-decline-2853047-2026-01-16",
+      "headline": "Darbhanga dynasty and its last queen: A tale of wealth, mystery, and declineThe Darbhanga Raj's opulent legacy ended with Maharani Kamsundari Devi's recent death at 96, closing a chapter of wealth, intrigue, and quiet tragedy. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/municipal-corporation/story/maharashtra-thane-municipal-election-result-triple-win-mhatre-family-2852925-2026-01-16",
       "headline": "One family, three parties: Rare triple win in Maharashtra civic pollsThane TMC municipal corporation: In the Thane municipal corporation elections, the Mhatre family has scripted a unique electoral feat, winning three wards by contesting on tickets of three rival parties."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ar-rahman-calls-chhaava-divisive-thinks-core-of-the-film-is-to-show-bravery-2853164-2026-01-16",
+      "headline": "AR Rahman calls Chhaava divisive, thinks core of the film is to show braveryAR Rahman spoke about working in an increasingly divided film industry. During an interview, he highlighted the importance of choosing projects thoughtfully and curating music for Chhaava, a film that he called \"divisive.\""
     },
     {
       "sentiment": "negative",
@@ -261,8 +281,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/darbhanga-dynasty-and-its-last-queen-a-tale-of-wealth-mystery-and-decline-2853047-2026-01-16",
-      "headline": "Darbhanga dynasty and its last queen: A tale of wealth, mystery, and declineThe Darbhanga Raj's opulent legacy ended with Maharani Kamsundari Devi's recent death at 96, closing a chapter of wealth, intrigue, and quiet tragedy. "
+      "url": "https://www.indiatoday.in/history-of-it/story/iran-protest-ayatollah-khamenei-human-rights-abuse-killings-persia-cyrus-the-great-cylinder-shah-pahlavi-2852810-2026-01-16",
+      "headline": "How the pre-Islamic Cyrus Cylinder shames rulers of modern-day IranIran's Ayatollah Ali Khamenei's regime is facing scrutiny for widespread human rights violations amid weeks-long protests. Thousands have been killed and tens of thousands have been jailed. But it is the same land that gave the world the first charter of human rights around 2,500 years ago. Here's all about the conqueror, Cyrus the Great, who freed slaves, and his Cyrus Cylinder."
     },
     {
       "sentiment": "positive",
@@ -280,14 +300,9 @@
       "headline": "After 15,000 layoffs, Microsoft cuts staff library and newspaper accessMicrosoft laid off 15,000 employees in 2025. With rumours indicating more layoffs around the corner, the Redmond-based giant has now cut back on newspapers and library subscriptions for its staff, while focusing more on AI-based learning."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/iran-protest-ayatollah-khamenei-human-rights-abuse-killings-persia-cyrus-the-great-cylinder-shah-pahlavi-2852810-2026-01-16",
-      "headline": "How the pre-Islamic Cyrus Cylinder shames rulers of modern-day IranIran's Ayatollah Ali Khamenei's regime is facing scrutiny for widespread human rights violations amid weeks-long protests. Thousands have been killed and tens of thousands have been jailed. But it is the same land that gave the world the first charter of human rights around 2,500 years ago. Here's all about the conqueror, Cyrus the Great, who freed slaves, and his Cyrus Cylinder."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/instant-delivery-apps-10-minutes-makar-sankranti-maggi-noodles-quick-commerce-industry-india-2852563-2026-01-16",
-      "headline": "Living in a post-Blinkit India: What's the hurry? Slow it downIndia is done with the \"instant\" insanity. Blinkit and Zomato cannot Swiggy by in 10 minutes any longer. Even if they do, they cannot make a virtue out of it. India is not known for doing pretty much anything fast. But now that the government has spoken, we must learn to fill time into a handful of \"instant\" activities we developed the dangerous habit for."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/reviews/story/rahu-ketu-movie-review-a-mythological-misfire-that-forgets-its-own-story-starring-pulkit-sharma-varun-sharma-2852975-2026-01-16",
+      "headline": "Rahu Ketu review: A mythological misfire that forgets its own storyRelease Date:Fri Jan 16, 2026Rahu Ketu movie review: The Pulkit Samrat and Varun Sharma starrer struggles to justify its ambitious mythological premise, collapsing under weak writing, confused mythology and a narrative that goes nowhere."
     },
     {
       "sentiment": "positive",
@@ -300,27 +315,22 @@
       "headline": "TCS headcount dips sharply: Why is India's IT sector facing a job crisisAt the end of Q3 FY26, Tata Consultancy Services said its total headcount stood at 582,163, down by 11,151 employees from 593,314 at the end of the September quarter."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/reviews/story/rahu-ketu-movie-review-a-mythological-misfire-that-forgets-its-own-story-starring-pulkit-sharma-varun-sharma-2852975-2026-01-16",
-      "headline": "Rahu Ketu review: A mythological misfire that forgets its own storyRelease Date:Fri Jan 16, 2026Rahu Ketu movie review: The Pulkit Samrat and Varun Sharma starrer struggles to justify its ambitious mythological premise, collapsing under weak writing, confused mythology and a narrative that goes nowhere."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/municipal-corporation/story/pune-civic-body-bjp-massive-lead-pawar-alliance-shiv-sena-2852851-2026-01-16",
-      "headline": "BJP takes massive lead in Pune civic poll results, Opposition in single digitsThe BJP surged ahead in the Pune civic elections as early trends showed a wide gap over rivals. The Pawar-led NCP alliance remained in single digits while Shiv Sena UBT has failed to open accounts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/2026-is-the-new-2016-trend-goes-viral-ananya-panday-kusha-kapila-nostalgia-2852846-2026-01-16",
-      "headline": "Why is everyone suddenly posting photos from 2016?Not even half a month into 2026, and everyone is already looking back a decade, as the '2026 is the new 2016' trend takes over Instagram."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/story/thane-tmc-results-live-updates-shinde-sena-bjp-shiv-sena-ubt-thackerays-ncp-sharad-pawar-ajit-pawar-2852872-2026-01-16",
       "headline": "Thane TMC results: Shinde Sena leads in stronghold, Thackerays struggleBesides the Thane Municipal Corporation (TMC) of Thane, the counting of votes is also underway for 28 other urban civic bodies across Maharashtra, including the high-stakes Brihanmumbai Municipal Corporation (BMC) of Mumbai."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/liverpools-arne-slot-happy-to-welcome-mohamed-salah-back-from-afcon-2853186-2026-01-16",
+      "headline": "Liverpool's Slot happy to welcome Salah back from AFCON despite earlier rift Liverpool coach Arne Slot said he was delighted to welcome Mohamed Salah back from Africa Cup of Nations duty, playing down reports of a rift between them just weeks ago."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rcb-vs-gg-live-score-wpl-2026-royal-challengers-bengaluru-vs-gujarat-giants-match-2853182-2026-01-16",
+      "headline": "RCB vs GGW Live Score: Gujarat opt to bowl, Shivani Singh debuts Royal Challengers Bengaluru (RCB) vs Gujarat Giants Women (GGW), WPL 2026 Live Score: Gujarat have won the toss and opted to bowl first in Navi Mumbai. Shivani Singh is making her WPL debut for the Giants, replacing Ayushi Soni, while RCB are unchanged from their win over the Warriorz. "
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/badminton/story/india-open-badminton-delhi-pollution-mia-blichfeldt-2853143-2026-01-16",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2026-sophie-devine-gujarat-giants-review-boundary-sizes-womens-cricket-2852987-2026-01-16",
-      "headline": "Sophie Devine urges review of fielding rules and boundary lengths in women's cricket New Zealand captain Sophie Devine has called for major changes to fielding restrictions and boundary dimensions in women's cricket, stating current regulations unduly favour batters and hinder bowlers."
+      "headline": "Sophie Devine urges review of fielding rules and boundary lengths in women's cricketNew Zealand captain Sophie Devine has called for major changes to fielding restrictions and boundary dimensions in women's cricket, stating current regulations unduly favour batters and hinder bowlers."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/gukesh-vs-praggnanandhaa-india-host-chess-world-championship-final-2026-2852972-2026-01-16",
-      "headline": "Gukesh vs Pragg? India may host Chess World Championship if all-Indian clash An all-Indian World Chess Championship between D Gukesh and R Praggnanandhaa could bring the showpiece back to India, with Viswanathan Anand saying the clash would be emotionally charged and possibly held in Chennai."
+      "headline": "Gukesh vs Pragg? India may host Chess World Championship if all-Indian clashAn all-Indian World Chess Championship between D Gukesh and R Praggnanandhaa could bring the showpiece back to India, with Viswanathan Anand saying the clash would be emotionally charged and possibly held in Chennai."
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/lakshya-sen-india-open-quarterfinals-win-2852661-2026-01-15",
       "headline": "Rejuvenated Lakshya keeps India's hopes alive after rusty Sat-Chi crash outIndia Open 2026: Former champion Lakshya Sen stormed into the quarters, keeping India's hopes alive on a day when big guns, including Satwiksairaj Rankireddy-Chirag Shetty, KidambI Srikanth and HS Prannoy crashed out in New Delhi.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-returns-the-hundred-2026-manchester-super-giants-2852633-2026-01-15",
-      "headline": "Smriti Mandhana returns to The Hundred Women, joins Manchester Super GiantsSmriti Mandhana returns to The Hundred with Manchester Super Giants for 2026 after standout WPL form, bringing proven experience, big-match pedigree and elite top-order firepower to a star-studded squad."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/manoj-tiwary-criticises-mary-kom-disrespecting-ex-husband-divorce-2852610-2026-01-15",
-      "headline": "Manoj Tiwary slams boxer Mary Kom over allegations on ex-husband, deletes videoFormer cricketer Manoj Tiwary criticised Mary Kom for publicly disrespecting her ex-husband, saying her comments caused him pain and highlighted the importance of mutual support in relationships."
     }
   ],
   "education": [
