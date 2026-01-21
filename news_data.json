@@ -1,9 +1,24 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/kalyan-jewellers-share-price-down-sharply-why-is-it-falling-today-2855419-2026-01-21",
+      "headline": "Kalyan Jewellers share price tumbles 12%: Why is the stock falling today?While the broader market was weak, the depth of the fall pointed to a mix of technical stress, institutional activity and sector-specific caution."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/rupee-91-per-us-dollar-why-is-indian-currency-falling-explained-2855409-2026-01-21",
+      "headline": "Rupee slides past 91 per US dollar: What is driving the fall?The sharp slide came as global uncertainty rose once again. Investors worldwide have been shifting money toward safer assets, which has strengthened the US dollar and put pressure on emerging market currencies."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-falls-900-points-why-stock-market-is-falling-today-crash-us-eu-greenland-trump-tariff-2855391-2026-01-21",
+      "headline": "Sensex tumbles 900 points: 5 reasons why the stock market is falling todayAt 11:07 am, the Sensex was down 895.64 points to 81,303.08, while the Nifty dropped 252.35 points to trade at 24,980.15. Read to know the key factors behind today's bloodbath on Dalal Street. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/commodities/story/gold-silver-record-high-rally-continues-what-next-explained-2855370-2026-01-21",
-      "headline": "Gold near Rs 1.6 lakh, silver close to Rs 3.5 lakh: What next?Charts are still pointing higher and buyers are in no mood to step back. If global cues stay this shaky, gold and silver could easily throw up another round of fresh highs."
+      "headline": "Gold at record highs, silver inching closer to Rs 3.5 lakh: Should you buy now?With both metals roaring to lifetime levels, investors are torn between fear of heights and fear of missing out. Whether this is a peak or a fresh beginning is the real question now."
     },
     {
       "sentiment": "positive",
@@ -84,24 +99,39 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/phonepe-gets-sebi-approval-for-ipo-targets-15-billion-valuation-2854907-2026-01-20",
       "headline": "PhonePe gets Sebi approval for IPO, targets $15 billion valuation: ReportThe Bengaluru-based company is now expected to move closer to the market with an IPO that could value it at around $15 billion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/budget/story/hybrid-push-ev-support-public-transport-what-auto-sector-wants-from-budget-2026-2854866-2026-01-20",
-      "headline": "Hybrid push, EV support, public transport: What auto sector wants from Budget 2026As Budget 2026 approaches, the auto sector is once again looking to the government for clear and practical policy support. Industry leaders say a stronger push for hybrids, electric vehicles and public transport could help balance sustainability with affordability."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/companies/story/alchemy-capital-launches-series-3-fund-to-tap-indias-next-growth-wave-2854871-2026-01-20",
-      "headline": "Alchemy Capital launches Series 3 fund to tap India's next growth waveThe Series 3 fund will run for four years, with an option to extend by one more year. Investors will need to commit at least Rs 1 crore, which will be drawn in four parts of 25% each."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-tanks-600-points-why-stock-market-is-falling-today-nifty-down-it-stocks-fall-fii-selling-dalal-street-india-2026-2854868-2026-01-20",
-      "headline": "Sensex crashes over 1,000 points: Why the stock market fell todayAs of 3:30 PM, the S&P BSE Sensex fell 1,065.71 points to 82,180.47. The NSE Nifty50 dropped 353 points to 25,232.50. Both indices were down by over one percent at the closing bell."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rgv-claims-sukhwinder-singh-made-oscar-winning-jai-ho-not-ar-rahman-in-old-video-2855418-2026-01-21",
+      "headline": "RGV claims Sukhwinder Singh made Oscar-winning Jai Ho, not AR Rahman, in old video A resurfaced interview with director Ram Gopal Varma has led to renewed controversy over the true composer of the Oscar-winning Jai Ho song from Slumdog Millionaire. The video went viral amid Rahman's latest statement about work bias."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/reviews/story/timothee-chalamet-marty-supreme-intense-sports-biopic-obsession-survival-2026-2855412-2026-01-21",
+      "headline": "Marty Supreme review: Timoth\u00e9e Chalamet thrives in a delirious, high-stakes spiralRelease Date:Fri Jan 23, 2026 Marty Supreme movie review: Marty Supreme follows Timoth\u00e9e Chalamet as a hustler navigating obsession and ego in 1950s sports. The film's chaotic style challenges traditional biopic norms and explores deeper themes of survival and self-awareness."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/meghan-trainor-welcomes-third-child-mikey-moon-trainor-surrogate-family-expansion-2855392-2026-01-21",
+      "headline": "Precious girl: Meghan Trainor and Daryl Sabara welcome third child via surrogate The couple, already parents to two sons, announced the arrival of daughter Mikey Moon Trainor following a surrogacy journey described as the safest option for their family."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ar-rahman-controversy-anup-jalota-suggests-reconversion-communal-bias-hindi-film-industry-2855376-2026-01-21",
+      "headline": "He can convert back to Hinduism, see if he gets work: Anup Jalota on AR Rahman Anup Jalota reacted to AR Rahman's claim of facing a lack of work due to a shift in industry power and possible communal bias. In a video statement, the veteran singer suggested the Oscar-winning composer 'convert back to Hinduism'."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-teaser-ranveer-singh-gets-a-rating-from-cbfc-ahead-of-march-release-2855385-2026-01-21",
+      "headline": "Dhurandhar 2 teaser gets A rating from censor board. Title, runtime revealed Ranveer Singh's Dhurandhar 2 teaser has been attached to prints of Sunny Deol's Border 2. Ahead of its theatrical screening, the Central Board of Film Certification has given an A rating to the teaser."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/border-2-advance-booking-2-days-left-for-release-sunny-deol-film-beats-jaat-republic-day-surge-expected-2855381-2026-01-21",
+      "headline": "Border 2 advance booking: Sunny Deol's film beats Jaat, Republic Day surge expected With just two days left for its theatrical launch, Border 2 is already making waves in advance ticket sales. The film has outpaced recent releases, setting the stage for a major box office run this Republic Day."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/video/sophie-turner-india-exclusive-on-steal-rrr-not-wanting-to-do-boring-films-india-2855365-2026-01-21",
@@ -166,39 +196,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-is-very-well-made-javed-akhtar-on-why-he-personally-called-aditya-dhar-2855104-2026-01-20",
       "headline": "Dhurandhar is very well made: Javed Akhtar on why he personally called Aditya Dhar Javed Akhtar praised Ranveer Singh's Dhurandhar and called it a great film. He revealed that he personally called Aditya Dhar to congratulate him. \r\n"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/victoria-beckham-looks-distant-avoids-nicola-and-brooklyn-in-old-viral-video-2855141-2026-01-20",
-      "headline": "Viral: Victoria Beckham gives cold vibes; avoids Nicola, son Brooklyn in old video Brooklyn Beckham pulled an uncomfortable Nicola Peltz into a family photo in a resurfaced red carpet video. The video is from the premiere of the Netflix documentary series Beckham.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/brooklyn-brand-beckham-timeline-how-family-fallout-played-out-public-victoria-david-nicola-peltz-2855138-2026-01-20",
-      "headline": "Brooklyn vs Brand Beckham: Timeline of how family fallout played out in public A timeline of the Beckham family feud, from Brooklyn's wedding to Nicola Peltz to blocked accounts, legal notices and a widening family rift."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kl-rahul-jumps-on-border-2-trend-ahan-shetty-ups-the-challenge-2855119-2026-01-20",
-      "headline": "KL Rahul joins Border 2 trend, Ahan Shetty ups the challenge Cricketer KL Rahul has shown his support for actor and brother-in-law Ahan Shetty as Border 2 gears up for its theatrical release. He joined a social media trend, prompting a response from the latter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/david-beckham-walks-away-from-questions-on-brooklyn-beckham-explosive-family-claims-2855128-2026-01-20",
-      "headline": "Video: David Beckham ignores questions on son Brooklyn's bombshell post David Beckham remained silent and kept moving when questioned about his son Brooklyn's public statement regarding family tensions. He was attending the World Economic Forum in Davos."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/zakir-khan-tells-fans-hes-taking-a-3-to-5-year-break-from-comedy-viral-video-2855089-2026-01-20",
-      "headline": "Zakir Khan announces break from stand-up comedy for 3-5 years. Here's why Zakir Khan revealed during a live performance in Hyderabad that he will take a multi-year hiatus from comedy. The stand-up comedian is currently touring with his special Papa Yaar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/vivek-oberoi-denies-bollywood-exit-rumours-calls-2021-accident-blip-in-career-2855099-2026-01-20",
-      "headline": "Vivek Oberoi denies Bollywood exit rumours, calls 2004 accident blip in career Vivek Oberoi addressed rumours about quitting the film industry, clarifying that his 2004 on-set accident did not affect his ability to perform physically demanding roles. The actor opened up about his recovery and the work he did thereafter."
     }
   ],
   "general news": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/noida/story/noida-builder-arrested-after-warning-authority-about-drainage-issues-before-engineer-death-2855404-2026-01-21",
+      "headline": "Noida builder had flagged dangers of water pit years before techie's deathDocuments accessed by India Today revealed that the Noida authorities were formally warned as early as 2022 about the deadly drainage hazards at the site, but failed to act."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/canada-news/story/canadian-pm-mark-carney-says-old-world-order-is-dead-as-great-powers-weaponize-trade-2855294-2026-01-21",
@@ -211,8 +216,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-claims-india-pakistan-ceasefire-prevented-nuclear-war-key-achievement-2025-2855339-2026-01-21",
-      "headline": "They were going to go nuclear: Trump lists India-Pak truce a key win of 2nd termUS President Donald Trump once again took credit for ending last year's brief India-Pakistan conflict, with the White House listing it as a major achievement of the first year of his second term."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-elections-2026-will-there-be-an-early-end-to-donald-trump-madness-america-midterms-polls-republican-gop-2855280-2026-01-21",
+      "headline": "Will there be an early end to Trump's madness?Just a year into Donald Trump's second term and not just Americans, the whole world is anxious. From tariffs on nearly all countries to deposing a head of state, to threats of acquiring territory by force, every day is a new antic. All this has led to low approval ratings for Trump in the midterm year. Will the midterm elections clip his wings and tame his madness? Here's an analysis."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/reviews/story/timothee-chalamet-marty-supreme-intense-sports-biopic-obsession-survival-2026-2855412-2026-01-21",
+      "headline": "Marty Supreme review: Timoth\u00e9e Chalamet thrives in a delirious, high-stakes spiralRelease Date:Fri Jan 23, 2026Marty Supreme movie review: Marty Supreme follows Timoth\u00e9e Chalamet as a hustler navigating obsession and ego in 1950s sports. The film's chaotic style challenges traditional biopic norms and explores deeper themes of survival and self-awareness."
     },
     {
       "sentiment": "negative",
@@ -221,58 +231,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/priya-kapur-manipulated-my-son-to-commit-trust-fraud-sunjay-kapurs-mother-in-fresh-suit-2855380-2026-01-21",
+      "headline": "Priya Kapur manipulated my son to commit Trust fraud: Sunjay Kapur's motherRani Kapur alleged that the trust was fraudulently created in her name but used to divert control of assets. She accused Priya Kapur, her son's widow, of being the \"chief mastermind\" of the conspiracy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/is-india-seeing-a-surprise-baby-boom-as-glp-1-use-takes-off-2854872-2026-01-20",
+      "headline": "Is India seeing a 'surprise baby' boom as GLP-1 use takes off?As GLP-1 drugs reshape India's weight-loss landscape, they may also be quietly rewriting reproductive outcomes. Surprise \"Ozempic babies\" are catching patients and doctors alike off guard.\r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/mark-carney-exposes-western-hypocrisy-at-davos-signals-dawn-of-post-american-realism-2855414-2026-01-21",
+      "headline": "Davos rupture: Carney exposes West hypocrisy, signals post-American realism eraCanadian PM Mark Carney's Davos speech shreds the myth of a fair Western order, calling out the US as a disruptor. His advice to middle powers amidst Trump's tariffs and threats: adapt or perish."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/donald-trump-most-dangerous-president-america-venezuela-tariffs-greenland-india-pakistan-truce-sydney-sweeney-stromy-daniels-2854889-2026-01-21",
       "headline": "Why Trump is the most dangerous PresidentWhen Trump entered the Oval Office, diplomacy left. Ego and whim stayed. From capturing Venezuela's President to targeting Greenland, from deporting immigrants in chains to taxing Antarctica, Trump has blurred the line between power and parody. In Trumpland, everything is possible and everything is legal."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/priya-kapur-manipulated-my-son-to-commit-trust-fraud-sunjay-kapurs-mother-in-fresh-suit-2855380-2026-01-21",
-      "headline": "Priya Kapur manipulated my son to commit Trust fraud: Sunjay Kapur's motherPriya Kapur manipulated my son to commit Trust fraud: Sunjay Kapur's mother in fresh suit"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-elections-2026-will-there-be-an-early-end-to-donald-trump-madness-america-midterms-polls-republican-gop-2855280-2026-01-21",
-      "headline": "Will there be an early end to Trump's madness?Just a year into Donald Trump's second term and not just Americans, the whole world is anxious. From tariffs on nearly all countries to deposing a head of state, to threats of acquiring territory by force, every day is a new antic. All this has led to low approval ratings for Trump in the midterm year. Will the midterm elections clip his wings and tame his madness? Here's an analysis."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/nodejs-creator-says-era-of-humans-writing-code-is-over-suggests-next-options-for-software-engineers-2854873-2026-01-20",
-      "headline": "NodeJS creator says era of humans writing code is overThe state of Vibe Coding in early 2026 is such that even seasoned software developers are now saying that the days of manually writing code are over. The latest in line to say this is NodeJS creator Ryan Dahl. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/reviews/story/2026-tata-punch-review-first-drive-does-it-finally-pack-a-real-punch-2855330-2026-01-21",
-      "headline": "2026 Tata Punch review, first drive: Does it finally pack a real punch?It was already a sales champion. Now it returns sharper, stronger and smarter. Has Tata finally turned the Punch into the most complete sub-Rs 10 lakh car in India?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trumps-air-force-one-bound-for-switzerland-returns-to-us-base-after-minor-electrical-issue-2855334-2026-01-21",
-      "headline": "Trump's Air Force One turns back after takeoff for Davos. What happenedThe decision to turn around was taken after the crew on board Air Force One identified a minor electrical issue. Trump is slated to address the World Economic Forum in Davos today."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/canada-prime-minister-carney-speech-world-economic-forum-davos-us-hegemony-world-order-rupture-donald-trump-sovereignty-tarrifs-2855323-2026-01-21",
-      "headline": "If you're not at the table, you're on the menu: Mark Carney's top Davos quotesMark Carney told the World Economic Forum that the US-led rules-based order has permanently broken down. He warned that middle powers must abandon outdated assumptions and build new alliances to protect their sovereignty. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/brooklyn-and-nicola-peltz-wedding-guest-backs-victoria-beckham-inappropriate-dance-claim-in-deleted-comment-2855298-2026-01-21",
-      "headline": "Wedding guest backs Brooklyn Beckham's sensational dance claim about VictoriaStavros Agapiou, partner of DJ Fat Tony, backed Brooklyn Beckham's account of Victoria Beckham's controversial dance at his 2022 wedding to Nicola Peltz, as detailed in a now-deleted Instagram comment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/sophie-turner-steal-financial-heist-thriller-prime-video-review-2855335-2026-01-21",
-      "headline": "Steal\u00a0review: Sophie Turner leads a smart but uneven heist thrillerRelease Date:Wed Jan 21, 2026Steal series review: Steal follows a \u00a34 billion theft at a London pension fund with Sophie Turner in the lead role. The series offers a timely premise but falters due to uneven writing and pacing."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-defence-minister-khawaja-asif-inaugurates-fake-pizza-hut-outlet-in-sialkot-2855277-2026-01-21",
-      "headline": "Pakistan Defence Minister Khawaja Asif inaugurates fake Pizza Hut in SialkotPakistan defence minister Khawaja Asif inaugurated a Pizza Hut outlet in Sialkot that was later declared unauthorised by the company, triggering social media backlash and prompting a trademark complaint by Pizza Hut Pakistan."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/elon-musk-michael-o-leary-ryanair-starlink-service-big-idiot-seat-sale-feud-public-spat-poll-buy-ireland-airline-viral-tweet-post-2855338-2026-01-21",
-      "headline": "Thank that big idiot: Irish airline's special seat sale in dig at Elon MuskThe public feud between Ireland's Ryanair and Elon Musk has escalated as the airline announced the start of its 'big idiot seat sale' in a fresh jibe at the world's richest person. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-given-27th-january-deadline-chinnaswamy-stadium-bcci-2855432-2026-01-21",
+      "headline": "IPL 2026: RCB given January 27 deadline to inform BCCI about home venueRajasthan Royals (RR) and Royal Challengers Bengaluru (RCB) have been given 27th January deadline to inform BCCI about their home venues for Indian Premier League 2026 (IPL 2026). "
     },
     {
       "sentiment": "positive",
@@ -281,8 +261,43 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/sunita-williams-nasa-space-travel-boeiing-spacex-retirement-astronaut-stuck-in-space-for-9-months-2855344-2026-01-21",
-      "headline": "When Sunita Williams was stuck in space for 9 monthsHer final mission was never part of the plan, but it became a defining chapter in her stellar career spent exploring the world past Earth's orbit."
+      "url": "https://www.indiatoday.in/auto/cars/story/2026-jeep-meridian-launched-at-rs-2333-lakh-gets-sliding-second-row-seats-2855415-2026-01-21",
+      "headline": "2026 Jeep Meridian launched at Rs 23.33 lakh, gets sliding second-row seatsJeep India has launched the 2026 Meridian at Rs 23.33 lakh (ex-showroom), adding sliding second-row seats on higher variants to improve third-row comfort and overall flexibility in its premium seven-seat SUV."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-defence-minister-khawaja-asif-inaugurates-fake-pizza-hut-outlet-in-sialkot-2855277-2026-01-21",
+      "headline": "Pakistan Defence Minister Khawaja Asif inaugurates fake Pizza Hut in SialkotPakistan defence minister Khawaja Asif inaugurated a Pizza Hut outlet in Sialkot that was later declared unauthorised by the company, triggering social media backlash and prompting a trademark complaint by Pizza Hut Pakistan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-1st-t20i-preview-predicted-xi-nagpur-pitch-weather-streaming-2855065-2026-01-21",
+      "headline": "Pressure on Suryakumar Yadav as India enter home stretch of T20 World Cup prepIndia vs New Zealand: Skipper Suryakumar Yadav has one final opportunity to iron out his batting concerns as India face New Zealand in a five-match T20I series, using the contest as a crucial tune-up ahead of their T20 World Cup title defence in less than three weeks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/kanpur-man-kills-wife-over-suspected-affair-surrenders-police-uttar-pradesh-2855296-2026-01-21",
+      "headline": "Four months into marriage, UP man finds wife with 3 men, kills herThe man strangled his wife to death four months after their marriage over suspected infidelity and confessed to the police the next day. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/artemis-missions/story/nasa-artemis-ii-avatar-organ-chips-space-health-personalised-medicine-2855417-2026-01-21",
+      "headline": "Artemis astronauts are carrying their organs on a chip to the MoonNasa is sending organ chips containing astronaut cells into deep space on Artemis II. This research will help develop personalised medical kits and improve treatments for diseases on Earth.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/brooklyn-and-nicola-peltz-wedding-guest-backs-victoria-beckham-inappropriate-dance-claim-in-deleted-comment-2855298-2026-01-21",
+      "headline": "Wedding guest backs Brooklyn Beckham's sensational dance claim about VictoriaStavros Agapiou, partner of DJ Fat Tony, backed Brooklyn Beckham's account of Victoria Beckham's controversial dance at his 2022 wedding to Nicola Peltz, as detailed in a now-deleted Instagram comment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/how-much-water-should-one-drink-daily-according-to-age-daily-water-intake-explained-2855050-2026-01-21",
+      "headline": "How much water should one drink daily according to age? Daily intake explainedDiscover easy daily water intake advice and practical advice on how much water to drink guidance for every age, from children to seniors, based on lifestyle and body needs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/earth-hit-by-strongest-solar-storm-in-20-years-heres-what-happened-next-2855413-2026-01-21",
+      "headline": "Earth hit by strongest solar storm in 20 years: Here's what happenedSolar radiation storms erupt when the sun unleashes a magnetic fury, typically via a coronal mass ejection (CME). "
     },
     {
       "sentiment": "positive",
@@ -290,37 +305,37 @@
       "headline": "Considering a baby in your 40s? What doctors want you to knowPregnancy in your 40s is no longer rare. Now, if you are someone hanging in there, worried about being a mother at 40, India Today Digital spoke to doctors who shared a clearer picture."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bcci-vice-president-rajeev-shukla-indian-chief-ministers-signing-mou-deals-indian-firms-davos-status-symbol-show-off-waste-of-money-congress-2855302-2026-01-21",
-      "headline": "CMs meeting CMs: Congress MP says Davos visits by officials becoming a show-offBCCI vice president Rajeev Shukla has criticised Chief Ministers for signing MoUs with Indian companies at the ongoing World Economic Forum in Davos, Switzerland, saying it could have easily been done in India and that it has become a status symbol for them."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/elon-musk-michael-o-leary-ryanair-starlink-service-big-idiot-seat-sale-feud-public-spat-poll-buy-ireland-airline-viral-tweet-post-2855338-2026-01-21",
+      "headline": "Thank that big idiot: Irish airline's special seat sale in dig at Elon MuskThe public feud between Ireland's Ryanair and Elon Musk has escalated as the airline announced the start of its 'big idiot seat sale' in a fresh jibe at the world's richest person. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-falls-900-points-why-stock-market-is-falling-today-crash-us-eu-greenland-trump-tariff-2855391-2026-01-21",
+      "headline": "Sensex tumbles 900 points: 5 reasons why the stock market is falling todayAt 11:07 am, the Sensex was down 895.64 points to 81,303.08, while the Nifty dropped 252.35 points to trade at 24,980.15. Read to know the key factors behind today's bloodbath on Dalal Street. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/fareed-zakaria-india-dealing-trump-20-tariff-politics-world-economic-forum-davos-2855205-2026-01-20",
-      "headline": "Fareed Zakaria on 'economy manager' Modi and how India should deal with Trump 2.0Geopolitical expert Fareed Zakaria has argued that India should respond to US President Donald Trump with patience and pragmatism rather than confrontation amid his tariff threats, stressing that \"time is on India's side.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/jobs-and-careers/story/starting-work-at-22-benefits-career-outcomes-part-time-jobs-build-skills-2855043-2026-01-21",
-      "headline": "Is there a 'right' age to start working? What research showsSo yes, Sharma ji ka ladka may have started working at 22. But science suggests it wasn't the age that mattered; it was the balance. And the rest of us? We can stop racing the calendar and start focusing on readiness."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/party-with-difference-bjp-new-national-president-nitin-nabin-congress-high-command-inter-party-democracy-2854993-2026-01-20",
-      "headline": "How BJP, the party with a difference, became a party with deferenceThe world's biggest political party, the BJP, got a new president. Continuing with the parampara, no electoral contest was needed. That the BJP doesn't have a Shashi Tharoor-like leader is because it is no more the party with a difference, but one with deference."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shinde-sena-corporators-hotel-stay-ends-partys-bid-foil-horse-trading-2854720-2026-01-20",
-      "headline": "Shinde Sena corporators' hotel stay ends after party's bid to foil horse-tradingAccording to sources,\u00a0the Shinde Sena corporators, who had been staying at the Taj Lands End in Bandra\u00a0since January 17, were growing frustrated as they could not celebrate their victory with their voters."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/eu-close-to-sealing-historic-india-trade-deal-says-ursula-von-der-leyen-at-wef-2854978-2026-01-20",
-      "headline": "EU, India close to sealing 'mother of all deals' worth a quarter of global GDPEuropean Commission President Ursula von der Leyen said negotiators had made substantial progress, but the deal still needed final work before both sides could seal it. \"There is still work to do. But we are on the cusp of a historic trade agreement."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-odi-series-loss-new-zealand-gambhir-coaching-criticism-2855401-2026-01-21",
+      "headline": "T20 World Cup defence first, verdict on Gautam Gambhir can waitIndia vs New Zealand: Criticism of Gautam Gambhir has intensified after India's ODI series loss at home to a second-string New Zealand side. While Gambhir must be questioned over India's inconsistent results, the head coach needs breathing space as the team turns its focus to a five-match T20I series against New Zealand ahead of next month's T20 World Cup title defence."
     }
   ],
   "sports": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-given-27th-january-deadline-chinnaswamy-stadium-bcci-2855432-2026-01-21",
+      "headline": "IPL 2026: RCB given 27th January deadline to inform BCCI about home venue IPL 2026: RCB given 27th January deadline to inform BCCI about home venue"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-odi-series-loss-new-zealand-gambhir-coaching-criticism-2855401-2026-01-21",
+      "headline": "T20 World Cup defence first, verdict on Gautam Gambhir can wait India vs New Zealand: Criticism of Gautam Gambhir has intensified after India's ODI series loss at home to a second-string New Zealand side. While Gambhir must be questioned over India's inconsistent results, the head coach needs breathing space as the team turns its focus to a five-match T20I series against New Zealand ahead of next month's T20 World Cup title defence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-odi-series-loss-new-zealand-manjrekar-defends-shubman-gill-gautam-gambhir-2855395-2026-01-21",
+      "headline": "Manjrekar defends Gill, Gambhir after NZ loss: Only World Cup matters in ODIs Former cricketer Sanjay Manjrekar defends team India after a rare home ODI series loss to New Zealand. He urges fans to prioritise the World Cup over bilateral series results."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/icc-s-t20-world-cup-verdict-on-bangladesh-cricket-bcci-2855353-2026-01-21",
@@ -349,7 +364,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-2026-carlos-alcaraz-aryna-sabalenka-coco-gauff-day-4-live-updates-2855244-2026-01-20",
-      "headline": "Day 4 Live Updates: Sabalenka, Svitolina into Round 3, Rublev wins 2 sets Australian Open 2026 Day 4 Live Updates: Aryna Sabalenka and Elina Svitolina have made their way into Round 3, having registered clinical victories against Zhuoxuan Bai and Linda Klimovicova respectively. Meanwhile, Carlos Alcaraz is in action in his second round fixture at the Rod Laver Arena."
+      "headline": "Day 4 Live Updates: Yuki Bhambri off to winning start, Alcaraz into Round 3 Australian Open 2026 Day 4 Live Updates: Aryna Sabalenka and Elina Svitolina have made their way into Round 3, having registered clinical victories against Zhuoxuan Bai and Linda Klimovicova respectively. Meanwhile, Carlos Alcaraz is in action in his second round fixture at the Rod Laver Arena."
     },
     {
       "sentiment": "positive",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2026-mi-vs-dc-third-umpire-long-decision-lizelle-lee-frustration-stumping-confusion-2855215-2026-01-20",
-      "headline": "Out or not out? Third umpire's delayed decision on Lizelle Lee stumping confuses fans WPL 2026, MI vs DC: Lizelle Lee's stumping triggered a five-minute third-umpire review and a storm of reactions online, with fans split over whether she was really out as controversy overshadowed her fluent knock."
+      "headline": "Out or not out? Third umpire's delayed decision on Lizelle Lee stumping confuses fansWPL 2026, MI vs DC: Lizelle Lee's stumping triggered a five-minute third-umpire review and a storm of reactions online, with fans split over whether she was really out as controversy overshadowed her fluent knock."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-naomi-osaka-advance-australian-open-2026-day-3-2855189-2026-01-20",
-      "headline": "Australian Open 2026: Jannik Sinner cruises to round 2, Osaka made to work hard Jannik Sinner started his Australian Open 2026 campaign with a two-sets win over Hugo Gaston, who had to retire due to an injury. Naomi Osaka made a fashion statement on Tuesday, but was made to work hard to progress to round two in Melbourne. "
+      "headline": "Australian Open 2026: Jannik Sinner cruises to round 2, Osaka made to work hardJannik Sinner started his Australian Open 2026 campaign with a two-sets win over Hugo Gaston, who had to retire due to an injury. Naomi Osaka made a fashion statement on Tuesday, but was made to work hard to progress to round two in Melbourne. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/oleksandra-oliynykova-australian-open-ukraine-message-tshirt-2855173-2026-01-20",
-      "headline": "After Australian Open loss, Oliynykova delivers moving tribute and plea for Ukraine Australian Open 2026: Oleksandra Oliynykova used a post-match T-shirt at the Australian Open to send a quiet plea for Ukraine, honouring her soldier father and finding a powerful voice beyond the tennis result."
+      "headline": "After Australian Open loss, Oliynykova delivers moving tribute and plea for UkraineAustralian Open 2026: Oleksandra Oliynykova used a post-match T-shirt at the Australian Open to send a quiet plea for Ukraine, honouring her soldier father and finding a powerful voice beyond the tennis result."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/lockie-ferguson-india-vs-new-zealand-perfect-prep-t20-world-cup-2854846-2026-01-20",
       "headline": "India series will offer perfect preparation for T20 World Cup: Lockie FergusonNew Zealand fast bowler Lockie Ferguson reckons the five-match T20I series against India, beginning Wednesday, will serve as ideal preparation for next month's T20 World Cup."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-cricket-t20-world-cup-2026-bcci-controversy-bcci-najmul-islam-2854824-2026-01-20",
-      "headline": "Bangladesh cricket in freefall, turning into never-ending circus of chaos\u00a0Bangladesh cricket has spiralled into a self-made crisis, where chaos, controversy and administrative failure have consistently overshadowed the game itself, even on the eve of the T20 World Cup."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kristian-clarke-added-new-zealand-squad-t20-series-injury-cover-michael-bracewell-2854797-2026-01-20",
-      "headline": "Clarke to stay with NZ squad for three T20Is as injury cover for BracewellNew Zealand pacer Kristian Clarke will remain with the squad as injury cover for Michael Bracewell during the five-match T20I series against India. Bracewell's participation, meanwhile, will depend on his recovery from a minor left-calf strain sustained during the third ODI in Indore."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-central-contracts-virat-kohli-rohit-sharma-demotion-a-plus-category-2854801-2026-01-20",
-      "headline": "Virat and Rohit likely to be demoted, BCCI may scrap top contract bracketThe Ajit Agarkar-led selection committee has suggested removing the top bracket, the A-plus category, from the annual retainership contracts. As a result, Rohit Sharma and Virat Kohli are likely to be demoted to the B category, having featured in only one format of international cricket since January 2025. "
     }
   ],
   "education": [
