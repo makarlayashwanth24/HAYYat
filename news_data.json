@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/video/movie-isnt-over-gita-gopinath-on-trump-tariffs-and-carneys-speech-2855847-2026-01-21",
+      "headline": "Movie isn't over: Gita Gopinath on Trump tariffs and Carney's speechGita Gopinath, Indian-American economist and Professor of Economics at Harvard University, shares her insights on Canadian Prime Minister Mark Carney's remarks on shifting global economic order during the World Economic Forum in Davos and dealing with tariffs.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/pollution-a-bigger-economic-threat-than-tariffs-for-india-says-gita-gopinath-world-economic-forum-davos-2855620-2026-01-21",
+      "headline": "Pollution a bigger economic threat than tariffs for India, says Gita GopinathGopinath said discussions about new business development often focus on trade, tariffs and regulations, but pollution is rarely given the importance it deserves. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/video/wef-roundtable-can-india-become-the-third-largest-economy-experts-weigh-in-2855821-2026-01-21",
       "headline": "WEF Roundtable: Can India become the third-largest economy? Experts weigh inAt World Economic Forum (WEF) Roundtable in Davos, India Today Group Vice-Chairperson and Executive Editor-in-Chief Kalli Purie moderated a session on India's growth story."
     },
@@ -89,19 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-long-term-investment-ananya-birla-wef-davos-2026-2855364-2026-01-21",
       "headline": "India remains top investment bet despite global volatility: Ananya BirlaSpeaking about the global business environment, Ananya Birla said artificial intelligence is changing the way companies operate at a rapid pace."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-sensex-nifty-high-volatility-explained-2855349-2026-01-21",
-      "headline": "Sensex, Nifty face high volatility: 4 reasons behind tug of war on Dalal StreetThe indices opened firmly in the green, tumbled into the red within minutes, and then began clawing their way back, mirroring the nervous, headline-driven mood dominating global markets."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-opens-in-green-india-eu-trade-deal-nifty-above-25200-eternal-up-2855331-2026-01-21",
-      "headline": "Sensex, Nifty slip as global risk-off mood builds on Trump tariff fearsAt 9:22 am, the Sensex was down 183.61 points or 0.22 percent at 81,996.86, while the Nifty edged 32.20 points lower to 25,200.30."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-to-be-inducted-as-second-youngest-member-into-songwriters-hall-of-fame-2855846-2026-01-21",
+      "headline": "Taylor Swift to be inducted as second-youngest member into Songwriters Hall of Fame Taylor Swift has been inducted into the Songwriters Hall of Fame as one of its youngest members in history. The 36-year-old submitted All Too Well (10 Minute Version), Blank Space, Anti-Hero, Love Story and The Last Great American Dynasty for her successful nomination.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/bts-plans-a-free-comeback-performance-at-south-korea-historic-gwanghwamun-square-2855829-2026-01-21",
+      "headline": "BTS plans a free comeback performance at South Korea's historic Gwanghwamun Square BTS is planning a 'free' comeback performance at South Korea's historic Gwanghwamun Square. The first solo concert will link BTS to Korean heritage."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sanjay-leela-bhansali-to-represent-indian-cinema-at-republic-day-parade-report-2855813-2026-01-21",
@@ -186,23 +196,13 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-transformation-pvc-hero-hoshiyar-singh-border-2-2855517-2026-01-21",
       "headline": "Why was Varun Dhawan chosen to play Param Vir Hoshiyar Singh in Border 2? Read here Producer Nidhi Dutta revealed why Varun Dhawan was chosen to play Major Hoshiyar Singh in Border 2. She condemned negative PR against the actor portraying a Param Vir Chakra hero."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/oromeo-trailer-shahid-kapoor-tripti-dimri-promise-a-dark-raw-romantic-thriller-with-vishal-bhardwaj-2855550-2026-01-21",
-      "headline": "O'Romeo trailer: Shahid Kapoor, Triptii Dimri promise a dark, raw romantic thriller Shahid Kapoor and Vishal Bhardwaj return for their fourth project together with O'Romeo. The trailer for the film introduced intense action and complex characters, marking Bhardwaj's return to theatres after several years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ram-gopal-varma-backtracks-after-claiming-sukhwinder-singh-made-jai-ho-not-ar-rahman-2855532-2026-01-21",
-      "headline": "RGV backtracks after claiming Sukhwinder Singh made Jai Ho, not AR Rahman Director Ram Gopal Varma responded on social media after an old interview resurfaced in which he seems to suggest Sukhwinder Singh, not AR Rahman, created the Oscar-winning song Jai Ho. Varma's clarification comes amid renewed debate over the song's authorship and comments about the film and music industry."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/no-country-in-position-to-secure-greenland-except-us-trump-at-davos-2855761-2026-01-21",
-      "headline": "Greenland's just a piece of ice, say no and we'll remember, Trump warns EuropeThe US President also said that no nation can secure Greenland as the United States. Calling Greenland 'a piece of ice,' he said it is a very small ask. Trump also ruled out the use of force in his bid to control Greenland."
+      "headline": "Greenland's just a piece of ice, say no and we'll remember, Trump warns Europe Live UpdatesThe US President also said that no nation can secure Greenland as the United States. Calling Greenland 'a piece of ice,' he said it is a very small ask. Trump also ruled out the use of force in his bid to control Greenland."
     },
     {
       "sentiment": "positive",
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/canada-lives-because-of-us-donald-trump-to-mark-carney-after-fiery-speech-2855798-2026-01-21",
-      "headline": "Remember that, Mark\u2026: Trump's message to Canada PM on fiery Davos speechA day after Canadian Prime Minister Mark Carney declared at the World Economic Forum that the US-led global order was fading, Donald Trump needled him on the same stage, saying the US's northern neighbour was \"not grateful\" despite receiving several \"freebies\" from Washington, DC."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-1st-t20i-abhishek-sharma-glenn-phillips-nagpur-report-2855827-2026-01-21",
+      "headline": "Abhishek Sharma fireworks blow New Zealand away in Nagpur T20I, India take 1-0 leadIND vs NZ, 1st T20I: Suryakumar Yadav's India took a 1-0 lead in the five-match series after hammering New Zealand by 48 runs at the VCA Stadium in Nagpur. Abhishek Sharma was the star performer for the hosts with 84 runs off 35 balls. \r\n"
     },
     {
       "sentiment": "positive",
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-1st-t20i-live-score-india-vs-new-zealand-match-suryakumar-bumrah-2855600-2026-01-21",
-      "headline": "1st T20I Live: India in control as New Zealand stumble under scoreboard pressureIndia (IND) vs New Zealand (NZ) Live Score: New Zealand (181/5 in 18 ov). With Glenn Phillips and Mark Chapman back in the hut, New Zealand face an impossible situation if they are to mount a comeback in this contest. "
+      "url": "https://www.indiatoday.in/world/story/canada-lives-because-of-us-donald-trump-to-mark-carney-after-fiery-speech-2855798-2026-01-21",
+      "headline": "Remember that, Mark\u2026: Trump's message to Canada PM on fiery Davos speechA day after Canadian Prime Minister Mark Carney declared at the World Economic Forum that the US-led global order was fading, Donald Trump needled him on the same stage, saying the US's northern neighbour was \"not grateful\" despite receiving several \"freebies\" from Washington, DC."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/yuvraj-mehta-cctv-trail-shows-last-moments-of-noida-techie-before-drowning-in-water-filled-pit-2855767-2026-01-21",
+      "headline": "CCTV trail shows last moments of Noida techie before drowning in water-filled pitAajtak accesses the complete chronology of the movements of Noida techie Yuvraj Mehta on the day his car plunged into the water-filled pit in Greater Noida. Here is a minute-by-minute timeline to show what happened after he left office. Read here...."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/india-weather-forecast-january-22-rain-snow-western-disturbance-temperature-rise-imd-2855733-2026-01-21",
       "headline": "Rain and rising temperatures to hit parts of north India on ThursdayAn intense western disturbance will bring widespread rain and snow to parts of north India on Thursday, January 22. Minimum temperatures are expected to rise by two to four degrees Celsius across the plains."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/video-trump-fluffs-greenland-iceland-wef-davos-speech-rules-out-use-force-denmark-europe-nato-allies-2855826-2026-01-21",
-      "headline": "Video: Trump fluffs Greenland with Iceland during Davos speechUS President Donald Trump confused Greenland with Iceland during his Davos address, while insisting that no country other than the US can secure the Danish territory."
     },
     {
       "sentiment": "positive",
@@ -256,8 +256,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/european-parliament-suspends-work-on-eu-us-trade-deal-after-trumps-repeated-greenland-comments-at-davos-2855810-2026-01-21",
-      "headline": "EU Parliament halts work on US trade deal after Trump's Greenland remarks at DavosThe European Parliament has suspended work on an EU\u2013US trade deal after Donald Trump renewed tariff threats and remarks on Greenland.\r\n"
+      "url": "https://www.indiatoday.in/world/story/video-trump-fluffs-greenland-iceland-wef-davos-speech-rules-out-use-force-denmark-europe-nato-allies-2855826-2026-01-21",
+      "headline": "Video: Trump fluffs Greenland with Iceland during Davos speechUS President Donald Trump confused Greenland with Iceland during his Davos address, while insisting that no country other than the US can secure the Danish territory."
     },
     {
       "sentiment": "positive",
@@ -266,28 +266,13 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/davos-world-economic-forum-trump-forgets-if-switzerland-has-prime-minister-or-president-recalls-only-a-woman-2855844-2026-01-21",
+      "headline": "Trump forgets if Switzerland has PM or President, recalls only a 'woman'At Davos, Trump did not even remember the name of former Swiss President Karin Keller-Sutter, whom he was referring to. Throughout the speech, he repeatedly called her \"woman\" and \"she.\" More strikingly, Trump appeared unsure whether he had spoken to a Swiss president or a prime minister."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-trusted-value-chain-partner-ashwini-vaishnaw-davos-wef-2026-2855582-2026-01-21",
       "headline": "India has emerged as trusted value chain partner to the world: Ashwini VaishnawUnion Minister Ashwini Vaishnaw said the biggest change over the last decade has been how the world views India's role in global manufacturing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/yuvraj-mehta-cctv-trail-shows-last-moments-of-noida-techie-before-drowning-in-water-filled-pit-2855767-2026-01-21",
-      "headline": "CCTV trail shows last moments of Noida techie before drowning in water-filled pitAajtak accesses the complete chronology of the movements of Noida techie Yuvraj Mehta on the day his car plunged into the water-filled pit in Greater Noida. Here is a minute-by-minute timeline to show what happened after he left office. Read here...."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/mark-carney-exposes-western-hypocrisy-at-davos-signals-dawn-of-post-american-realism-2855414-2026-01-21",
-      "headline": "Why the world must thank Mark CarneyCanadian PM Mark Carney's Davos speech shreds the myth of a fair Western order, calling out the US as a disruptor. His advice to middle powers amidst Trump's tariffs and threats: adapt or perish."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/sahara-desert-snowfall-2026-northern-algeria-ain-sefra-weather-news-2855746-2026-01-21",
-      "headline": "Sahara turns white: Why is it snowing in the desert?Rare snowfall has transformed the golden dunes of northern Algeria into a stunning winter landscape. Cold air from Europe collided with Mediterranean moisture to create this extraordinary desert phenomenon."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/is-india-seeing-a-surprise-baby-boom-as-glp-1-use-takes-off-2854872-2026-01-20",
-      "headline": "Is India seeing a 'surprise baby' boom as GLP-1 use takes off?As GLP-1 drugs reshape India's weight-loss landscape, they may also be quietly rewriting reproductive outcomes. Surprise \"Ozempic babies\" are catching patients and doctors alike off guard.\r\n\r\n"
     },
     {
       "sentiment": "negative",
@@ -298,6 +283,26 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/maharashtra-eknath-shinde-shiv-sena-raj-thackeray-mns-alliance-kalyan-dombivli-kdmc-2855519-2026-01-21",
       "headline": "Maha puzzle: Shinde Sena-MNS tie-up derails BJP's mayor bid in KalyanIn Kalyan-Dombivli, the Eknath Shinde-led Shiv Sena kept aside its bitter rivalry with Raj Thackeray's Maharashtra Navnirman Sena (MNS) to stitch up an alliance to prevent the BJP from securing the mayor's post."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/sahara-desert-snowfall-2026-northern-algeria-ain-sefra-weather-news-2855746-2026-01-21",
+      "headline": "Sahara turns white: Why is it snowing in the desert?Rare snowfall has transformed the golden dunes of northern Algeria into a stunning winter landscape. Cold air from Europe collided with Mediterranean moisture to create this extraordinary desert phenomenon."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/european-parliament-suspends-work-on-eu-us-trade-deal-after-trumps-repeated-greenland-comments-at-davos-2855810-2026-01-21",
+      "headline": "EU Parliament halts work on US trade deal after Trump's Greenland remarks at DavosThe European Parliament has suspended work on an EU\u2013US trade deal after Donald Trump renewed tariff threats and remarks on Greenland.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/is-india-seeing-a-surprise-baby-boom-as-glp-1-use-takes-off-2854872-2026-01-20",
+      "headline": "Is India seeing a 'surprise baby' boom as GLP-1 use takes off?As GLP-1 drugs reshape India's weight-loss landscape, they may also be quietly rewriting reproductive outcomes. Surprise \"Ozempic babies\" are catching patients and doctors alike off guard.\r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/mark-carney-exposes-western-hypocrisy-at-davos-signals-dawn-of-post-american-realism-2855414-2026-01-21",
+      "headline": "Why the world must thank Mark CarneyCanadian PM Mark Carney's Davos speech shreds the myth of a fair Western order, calling out the US as a disruptor. His advice to middle powers amidst Trump's tariffs and threats: adapt or perish."
     },
     {
       "sentiment": "positive",
@@ -313,14 +318,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/india-uae-israel-axis-counter-saudi-arabia-pakistan-turkey-islamic-nato-us-donald-trump-defence-agreement-2855518-2026-01-21",
       "headline": "Is an India-UAE-Israel axis forming to counter Saudi-Pak-Turkey Islamic Nato?Donald Trump has made the US focus on its interests. Europe appears divided. But far from the western hemisphere, military and security equations are changing in Southern and Western Asia. The churn, triggered by Pakistan and Saudi Arabia joining hands for a Nato-like pact, with Turkey looking to join it, has sparked questions over whether an India-UAE-Israel axis is quietly taking shape to counter the \"Islamic Nato\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kanpur-man-kills-wife-over-suspected-affair-surrenders-police-uttar-pradesh-2855296-2026-01-21",
-      "headline": "Four months into marriage, UP man finds wife with 3 men, kills herThe man strangled his wife to death four months after their marriage over suspected infidelity and confessed to the police the next day. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-t20-world-cup-icc-india-2855865-2026-01-22",
+      "headline": "Bangladesh to decide on T20 World Cup participation after meeting cricketers The Bangladesh government will take a call on T20 World Cup participation in a cabinet meeting on Friday, January 23. The sports advisor will also meet the cricketers and take their opinion on participation in the World Cup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-1st-t20i-abhishek-sharma-glenn-phillips-nagpur-report-2855827-2026-01-21",
+      "headline": "Abhishek Sharma fireworks blow New Zealand away in Nagpur T20I, India take 1-0 lead IND vs NZ, 1st T20I: Suryakumar Yadav's India took a 1-0 lead in the five-match series after hammering New Zealand by 48 runs at the VCA Stadium in Nagpur. Abhishek Sharma was the star performer for the hosts with 84 runs off 35 balls. \r\n"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-third-fastest-indian-9000-t20-runs-new-zealand-2855808-2026-01-21",
@@ -359,12 +369,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/icc-statement-t20-world-cup-bangladesh-security-threat-india-2855744-2026-01-21",
-      "headline": "ICC says no credible threat to safety of Bangladesh team in India T20 World Cup 2026: The International Cricket Council on Wednesday dismissed Bangladesh's concerns over security in India, saying it's not feasible to change the venues in the eleventh hour. Bangladesh have remained adamant about not playing in India with all four of their league games scheduled across two cities in India. "
+      "headline": "ICC says no credible threat to safety of Bangladesh team in IndiaT20 World Cup 2026: The International Cricket Council on Wednesday dismissed Bangladesh's concerns over security in India, saying it's not feasible to change the venues in the eleventh hour. Bangladesh have remained adamant about not playing in India with all four of their league games scheduled across two cities in India. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/steve-waugh-maxwell-support-odi-cricket-european-t20-premier-league-2855717-2026-01-21",
-      "headline": "Waugh, Maxwell open up on ODI cricket's future: Would hate to see it disappear Steve Waugh and Glenn Maxwell have expressed concerns over the future of ODI cricket amid the rapid growth of T20 leagues. Both Waugh and Maxwell are part of the inaugural European T20 Premier League."
+      "headline": "Waugh, Maxwell open up on ODI cricket's future: Would hate to see it disappearSteve Waugh and Glenn Maxwell have expressed concerns over the future of ODI cricket amid the rapid growth of T20 leagues. Both Waugh and Maxwell are part of the inaugural European T20 Premier League."
     },
     {
       "sentiment": "positive",
@@ -394,7 +404,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-1st-t20i-live-score-india-vs-new-zealand-match-suryakumar-bumrah-2855600-2026-01-21",
-      "headline": "1st T20I Live: India get rid of Glenn Phillips as India hold controlIndia (IND) vs New Zealand (NZ) Live Score: New Zealand (136/4 in 14 ov). Glenn Phillips' knock comes to an end with Axar Patel getting the big breakthrough. With that, New Zealand's chances of completing this chase could come to an end. "
+      "headline": "1st T20I Highlights: India win by 48 runs, take 1-0 series leadIndia (IND) vs New Zealand (NZ) Highlights: A comprehensive all-round show saw Abhishek Sharma's fifty and Rinku Singh's late blitz set the tone, before Arshdeep and Hardik struck early and India closed out a comfortable 48-run win with authority."
     },
     {
       "sentiment": "positive",
@@ -450,16 +460,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-odi-series-loss-new-zealand-gambhir-coaching-criticism-2855401-2026-01-21",
       "headline": "T20 World Cup defence first, verdict on Gautam Gambhir can waitIndia vs New Zealand: Criticism of Gautam Gambhir has intensified after India's ODI series loss at home to a second-string New Zealand side. While Gambhir must be questioned over India's inconsistent results, the head coach needs breathing space as the team turns its focus to a five-match T20I series against New Zealand ahead of next month's T20 World Cup title defence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-odi-series-loss-new-zealand-manjrekar-defends-shubman-gill-gautam-gambhir-2855395-2026-01-21",
-      "headline": "Manjrekar defends Gill, Gambhir after NZ loss: Only World Cup matters in ODIsFormer cricketer Sanjay Manjrekar defends team India after a rare home ODI series loss to New Zealand. He urges fans to prioritise the World Cup over bilateral series results."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-s-t20-world-cup-verdict-on-bangladesh-cricket-bcci-2855353-2026-01-21",
-      "headline": "ICC's verdict on Bangladesh live: Bangladesh asked to play in India or sit-outICC's decision on Bangladesh live: The International Cricket Council (ICC) has issued their ultimatium to the Bangladesh Cricket Board following their board meeting. The message is simple, play in India or sit out the T20 World Cup. "
     }
   ],
   "education": [
