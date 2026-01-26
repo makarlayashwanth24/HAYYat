@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/vijay-sethupathi-shares-why-he-became-an-actor-leaves-kapil-sharma-in-laughs-2858102-2026-01-26",
+      "headline": "Vijay Sethupathi shares why he became an actor, leaves Kapil Sharma in splits Vijay Sethupathi left Kapil Sharma in splits on The Great Indian Kapil Show with his honest reason for becoming an actor, as seen in a leaked promo."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/cha-eun-woo-apologises-for-tax-evasion-row-involving-his-mother-company-2858094-2026-01-26",
+      "headline": "Cha Eun-woo apologises for tax evasion row involving his mother's company Cha Eun-woo issued a personal apology regarding tax evasion allegations involving a shell company established by his mother. The actor expressed deep regret for disappointing fans and pledged to cooperate fully with all future tax-related legal procedures.\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/mm-keeravanis-vande-mataram-prioritises-ceremonial-scale-over-emotional-movement-2858065-2026-01-26",
       "headline": "MM Keeravani's Vande Mataram prioritises ceremonial scale over emotional movement Unveiled at the Republic Day parade amid grand visuals and mass choreography, Vande Mataram received a new musical treatment by Oscar-winning composer M. M. Keeravani."
     },
@@ -186,28 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/alia-bhatt-shares-glimpse-of-daughter-raha-handmade-national-flag-on-republic-day-2857920-2026-01-26",
       "headline": "Alia Bhatt shares glimpse of daughter Raha's handmade national flag on Republic Day Alia Bhatt celebrated the 77th Republic Day by sharing a social media post featuring her daughter Raha's handmade national flag. Along with the sweet tribute to her three-year-old's creativity, the actor extended warm wishes to her fans on the significant national occasion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/manoj-muntashir-honours-javed-akhtar-legacy-border-2-fresh-patriotic-songs-2857904-2026-01-26",
-      "headline": "Sandese Aate Hai will always be a Javed Akhtar, Anu Malik song: Manoj Muntashir Manoj Muntashir acknowledged the iconic Border songs by Javed Akhtar and Anu Malik while introducing new music in Border 2. He said that the fresh soundtrack aims to respect the original legacy and connect with today's audience."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/story/mumbai-actor-nadeem-khan-arrested-allegedly-raping-domestic-help-10-years-promise-marriage-2857921-2026-01-26",
-      "headline": "Dhurandhar actor arrested for raping domestic help over marriage promise The woman alleged that Khan promised to marry her, and on that assurance, raped her on multiple occasions at her residence in Malwani and at his house in Versova in the western suburbs, over a period of 10 years."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/us-india-share-historic-bond-trump-in-congratulatory-message-to-delhi-on-77th-republic-day-2857993-2026-01-26",
-      "headline": "Trump hails 'historic bond' with India on Republic Day amid trade strainsDespite ongoing trade disputes and policy differences, the United States and India continue to uphold a historic partnership, as highlighted by US leaders on India's 77th Republic Day. The celebrations underscored the enduring strategic and democratic ties between the two nations.\r\n"
+      "url": "https://www.indiatoday.in/india/story/canada-pm-mark-carney-likely-visit-india-march-trump-tariffs-rattle-trade-order-2858103-2026-01-26",
+      "headline": "Canada's PM likely to visit India in March as Trump tariffs rattle trade orderCanadian Prime Minister Mark Carney is likely to visit India in early March with agreements expected on energy, critical minerals and emerging technologies, reported news agency Reuters. This comes as both countries move to reset ties and diversify trade amid global uncertainty and stalled negotiations."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-eu-trade-deal-republic-day-european-union-tariff-cut-car-imports-ursula-leyen-2857869-2026-01-26",
-      "headline": "Successful India makes world stable: EU chief ahead of landmark trade dealEuropean Commission President Ursula von der Leyen's Republic Day visit came as India and Brussels push to seal a long-pending trade pact, with New Delhi signalling major tariff cuts on European car imports."
+      "url": "https://www.indiatoday.in/world/story/xi-jinping-china-investigates-general-zhang-youxia-corruption-nuclear-data-leaks-2858093-2026-01-26",
+      "headline": "Xi's top general accused of leaking China's nuke secrets to USThe allegations include leaking \"core technical data\" from China's nuclear weapons programme to the United States. The report cites people familiar with a high-level internal briefing for senior Chinese military officers, which took place shortly before the public announcement of the investigation, reported The Wall Street Journal."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/us-india-share-historic-bond-trump-in-congratulatory-message-to-delhi-on-77th-republic-day-2857993-2026-01-26",
+      "headline": "Trump hails 'historic bond' with India on Republic Day amid trade strainsDespite ongoing trade disputes and policy differences, the United States and India continue to uphold a historic partnership, as highlighted by US leaders on India's 77th Republic Day. The celebrations underscored the enduring strategic and democratic ties between the two nations.\r\n"
     },
     {
       "sentiment": "positive",
@@ -216,13 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/india-us-trade-deal-stalled-trump-jd-vance-us-senator-ted-cruz-leaked-audio-2857782-2026-01-26",
-      "headline": "Vance, Trump stalled India trade talks: US Senator's viral audio amid tariff rowLeaked audio of Senator Ted Cruz reveals internal Trump administration rifts, with JD Vance, Peter Navarro and sometimes President Trump blamed for stalling the long-pending India-US trade deal."
+      "url": "https://www.indiatoday.in/india/story/pm-modi-shares-glimpses-of-spectacular-republic-day-celebration-at-kartavya-path-2858079-2026-01-26",
+      "headline": "PM Modi shares glimpses of spectacular Republic Day celebration at Kartavya PathPrime Minister Narendra Modi highlighted the 77th Republic Day parade as a proud showcase of India's security strength, cultural diversity and growing ties with the European Union. The celebrations reflected the nation's unity, democratic values and expanding international partnerships."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-shares-glimpses-of-spectacular-republic-day-celebration-at-kartavya-path-2858079-2026-01-26",
-      "headline": "PM Modi shares glimpses of spectacular Republic Day celebration at Kartavya PathPrime Minister Narendra Modi highlighted the 77th Republic Day parade as a proud showcase of India's security strength, cultural diversity and growing ties with the European Union. The celebrations reflected the nation's unity, democratic values and expanding international partnerships."
+      "url": "https://www.indiatoday.in/auto/cars/story/renault-duster-launch-live-dates-features-engines-colours-price-and-everything-you-need-to-know-2857987-2026-01-26",
+      "headline": "Renault Duster launch live: Features, engines, price and everything you need to knowNew Renault Duster launch live updates: Renault India is all set to reintroduce the Duster in India, marking the brand's return to the competitive mids-size SUV segment with fresh design, technology and powertrains."
     },
     {
       "sentiment": "negative",
@@ -231,13 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-military-strengthens-middle-east-presence-fighter-jets-missile-batteries-iran-tensions-2858029-2026-01-26",
-      "headline": "Iran warns of 'regret\u2011inducing' response as nuke\u2011powered US warship moves closerSince early January, the United States has deployed significant military assets to the Middle East, approaching Iranian waters, sending flutters through Tehran's power corridors after mass protests over inflation and a collapsing currency left at least 5,000 dead in the country."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-china-relations-improve-renewed-cooperation-border-dialogue-ladakh-standoff-2857989-2026-01-26",
-      "headline": "Xi Jinping calls for 'dragon and elephant' unity in Republic Day message to IndiaOn India's Republic Day, Chinese President Xi Jinping said that China views the relationship as one in which both sides \"help each other succeed,\" and emphasised the value of the \"dragon and the elephant dancing together,\" which he described as the appropriate path for both countries."
+      "url": "https://www.indiatoday.in/india/story/india-eu-trade-deal-republic-day-european-union-tariff-cut-car-imports-ursula-leyen-2857869-2026-01-26",
+      "headline": "Successful India makes world stable: EU chief ahead of landmark trade dealEuropean Commission President Ursula von der Leyen's Republic Day visit came as India and Brussels push to seal a long-pending trade pact, with New Delhi signalling major tariff cuts on European car imports."
     },
     {
       "sentiment": "positive",
@@ -246,23 +246,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/after-70-hr-work-call-from-narayana-murthy-infosys-tracks-how-much-power-wfh-staff-use-at-home-2857995-2026-01-26",
-      "headline": "Infosys is now tracking how much power WFH staff use at homeInfosys has reportedly asked employees following its hybrid work policy to share details of their home electricity usage, as the company looks to better measure its overall environmental footprint."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-2026-pakistan-consider-boycott-india-match-bangladesh-exit-report-2858016-2026-01-26",
-      "headline": "After ICC warning, Pakistan consider forfeiting India game at T20 World Cup: ReportT20 World Cup 2026: Pakistan are reportedly weighing its options to protest against the ICC, which includes forfeiting its game against India. This comes after the ICC's decision to not change the venues of Bangladesh's fixtures in the tournament. "
+      "url": "https://www.indiatoday.in/world/us-news/story/india-us-trade-deal-stalled-trump-jd-vance-us-senator-ted-cruz-leaked-audio-2857782-2026-01-26",
+      "headline": "Vance, Trump stalled India trade talks: US Senator's viral audio amid tariff rowLeaked audio of Senator Ted Cruz reveals internal Trump administration rifts, with JD Vance, Peter Navarro and sometimes President Trump blamed for stalling the long-pending India-US trade deal."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-eu-trade-deal-lowers-car-tariffs-expands-market-access-2857914-2026-01-26",
-      "headline": "Lower auto tariffs, wider market access: What the India-EU trade deal may look likeIndia-European Union trade negotiations have reached a decisive stage, with New Delhi offering major tariff cuts on European cars and both sides signalling readiness to seal a politically significant deal that could reshape trade, investment and supply chains."
+      "url": "https://www.indiatoday.in/world/story/us-military-strengthens-middle-east-presence-fighter-jets-missile-batteries-iran-tensions-2858029-2026-01-26",
+      "headline": "Iran warns of 'regret\u2011inducing' response as nuke\u2011powered US warship moves closerSince early January, the United States has deployed significant military assets to the Middle East, approaching Iranian waters, sending flutters through Tehran's power corridors after mass protests over inflation and a collapsing currency left at least 5,000 dead in the country."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sara-ali-khan-orry-fallout-social-media-bullying-debate-2857945-2026-01-26",
-      "headline": "Sara Ali Khan\u2013Orry fallout turns ugly after influencer's viral digActor Sara Ali Khan and social media personality Orry have reportedly fallen out following a controversial comment. The incident has sparked widespread debate on bullying and accountability on social media platforms."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/fujii-kaze-spiritual-india-debut-lollapalooza-mumbai-album-prema-hindu-philosophy-music-2857820-2026-01-26",
+      "headline": "Japanese singer Fujii Kaze on India debut, inspiration from Hindu spiritualityJapanese singer Fujii Kaze speaks to India Today about spirituality, his album Prema, and India as his spiritual home. He also opens up about his Lollapalooza Mumbai debut and creative journey."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mm-keeravanis-vande-mataram-prioritises-ceremonial-scale-over-emotional-movement-2858065-2026-01-26",
+      "headline": "MM Keeravani's Vande Mataram prioritises ceremonial scale over emotional movementUnveiled at the Republic Day parade amid grand visuals and mass choreography, Vande Mataram received a new musical treatment by Oscar-winning composer M. M. Keeravani."
     },
     {
       "sentiment": "positive",
@@ -271,13 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-reaches-australian-open-quarter-tracker-controversy-2857990-2026-01-26",
-      "headline": "Sinner beats fellow Italian to storm into quarters after tracker controversyWorld number two Jannik Sinner was dominant in the shorter exchanges as he defeated Italian compatriot Luciano Darderi 6-1, 6-3, 7-6 (2) to book his place in the Australian Open quarter-finals."
+      "url": "https://www.indiatoday.in/technology/news/story/after-70-hr-work-call-from-narayana-murthy-infosys-tracks-how-much-power-wfh-staff-use-at-home-2857995-2026-01-26",
+      "headline": "Infosys is now tracking how much power WFH staff use at homeInfosys has reportedly asked employees following its hybrid work policy to share details of their home electricity usage, as the company looks to better measure its overall environmental footprint."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/european-union-probes-elon-musk-x-grok-ai-sexualised-deepfake-images-women-and-children-2858077-2026-01-26",
-      "headline": "X's Grok AI under EU probe over sexualised deepfake imagesThe European Commission has opened an investigation into Elon Musk-owned X to assess whether its Grok AI chatbot breached EU rules by disseminating illegal content, including sexualised and manipulated images of women and minors."
+      "url": "https://www.indiatoday.in/science/story/weather-update-snow-expected-himachal-mountains-hails-plains-delhi-punjab-western-disturbance-weather-report-2857991-2026-01-26",
+      "headline": "North India prepares for another round of rain, hail and snowIn Delhi-NCR, the weather is expected to remain poor from morning till afternoon on January 27, with rain accompanied by thunder, lightning, and winds of around 40 kmph. This spell may lead to a temporary drop in temperatures, adding to the winter chill."
     },
     {
       "sentiment": "positive",
@@ -291,8 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/renault-duster-launch-live-dates-features-engines-colours-price-and-everything-you-need-to-know-2857987-2026-01-26",
-      "headline": "Renault Duster launch live: Features, engines, price and everything you need to knowNew Renault Duster launch live updates: Renault India is all set to reintroduce the Duster in India, marking the brand's return to the competitive mids-size SUV segment with fresh design, technology and powertrains."
+      "url": "https://www.indiatoday.in/india/story/india-china-relations-improve-renewed-cooperation-border-dialogue-ladakh-standoff-2857989-2026-01-26",
+      "headline": "Xi Jinping calls for 'dragon and elephant' unity in Republic Day message to IndiaOn India's Republic Day, Chinese President Xi Jinping said that China views the relationship as one in which both sides \"help each other succeed,\" and emphasised the value of the \"dragon and the elephant dancing together,\" which he described as the appropriate path for both countries."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-2026-pakistan-consider-boycott-india-match-bangladesh-exit-report-2858016-2026-01-26",
+      "headline": "After ICC warning, Pakistan consider forfeiting India game at T20 World Cup: ReportT20 World Cup 2026: Pakistan are reportedly weighing its options to protest against the ICC, which includes forfeiting its game against India. This comes after the ICC's decision to not change the venues of Bangladesh's fixtures in the tournament. "
     },
     {
       "sentiment": "positive",
@@ -301,26 +306,46 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/op-sindoor-tableau-dominates-r-day-parade-showcasing-indias-strike-readiness-2857906-2026-01-26",
-      "headline": "Op Sindoor Tri-services tableau steals spotlight at R-Day, shows combat powerIndia's 77th Republic Day parade prominently featured a tri-services tableau on Operation Sindoor, highlighting the armed forces' swift and coordinated military prowess. The display underscored India's readiness and strategic deterrence amid evolving security challenges.\r\n"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-climber-alex-honnold-scales-taipei-101-floor-skyscraper-without-safety-gear-taiwan-glbs-2857745-2026-01-26",
       "headline": "One man vs 101 storey-skyscraper: Alex Honnold's heart-stopping feat. WatchAlex Honnold began his ascent up one corner of the 508-metre tower, relying on narrow L-shaped outcroppings and ornamental ledges as footholds. Unlike his usual climbs in remote wilderness, this one unfolded in the middle of a bustling city, with cheers rising from street level as he moved steadily upward."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/story/european-commission-chief-ursula-von-der-leyen-traditional-indian-attire-77th-republic-day-parade-india-2857848-2026-01-26",
-      "headline": "EU Chief stuns in fusion brocade at Republic Day paradeIn a graceful departure from her usual tailored pantsuits, Ursula von der Leyen's maroon-and-gold brocade bandhgala and off-white pants not only showcased her elegance but also reflected a deep appreciation for Indian culture."
+      "url": "https://www.indiatoday.in/business/story/india-eu-trade-deal-lowers-car-tariffs-expands-market-access-2857914-2026-01-26",
+      "headline": "Lower auto tariffs, wider market access: What the India-EU trade deal may look likeIndia-European Union trade negotiations have reached a decisive stage, with New Delhi offering major tariff cuts on European cars and both sides signalling readiness to seal a politically significant deal that could reshape trade, investment and supply chains."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/bharat-bhagya-vidhata-astronaut-p-balakrishnan-nair-dedicates-kirti-chakra-to-youth-2857825-2026-01-26",
-      "headline": "Bharat bhagya vidhata: Astronaut Papa Nair on getting Kirti ChakraFor Nair, whose career has spanned high-risk missions, discipline, and years of quiet preparation, the Kirti Chakra is not a culmination, but a symbol."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sara-ali-khan-orry-fallout-social-media-bullying-debate-2857945-2026-01-26",
+      "headline": "Sara Ali Khan\u2013Orry fallout turns ugly after influencer's viral digActor Sara Ali Khan and social media personality Orry have reportedly fallen out following a controversial comment. The incident has sparked widespread debate on bullying and accountability on social media platforms."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-cricket-crisis-senior-team-skips-t20-world-cup-u19s-exit-early-2858109-2026-01-26",
+      "headline": "Bangladesh's cricket crisis deepens with U19 World Cup exit after senior's T20 WC snub Bangladesh U19 have been knocked out of the U19 World Cup after England beat them by seven wickets in the Super Sixes match on Monday in Bulawayo. Earlier, the senior men's team was left out of the T20 World Cup with Scotland replacing them. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/west-indies-15-man-squad-icc-t20-world-cup-shai-hope-captain-2858106-2026-01-26",
+      "headline": "Shai Hope to lead as West Indies name strong squad for T20 World Cup The West Indies have named a strong 15-member squad for the upcoming T20 World Cup 2026, with the two-time champions set to be led by Shai Hope at the ICC tournament."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-ishan-kishan-audacious-intent-praise-ravichandran-ashwin-different-breed-2858107-2026-01-26",
+      "headline": "Ishan Kishan's audacious intent receives big praise from R Ashwin: Different breed IND vs NZ: Ravichandran Ashwin praised Ishan Kishan's fearless batting after his rapid 28 off 13 balls against New Zealand, saying the left-hander's audacity and confidence showed a different breed of cricketer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2026-rcb-vs-mi-updates-vadodara-smriti-mandhana-harmanpreet-kaur-2858095-2026-01-26",
+      "headline": "RCB vs MI LIVE Score: Sciver-Brunt, Matthews steady Mumbai Indians Royal Challengers Bengaluru (RCB) vs Mumbai Indians (MI), WPL 2026 Live Updates: Bengaluru have won the toss and opted to bowl first. Nicola Carey has been left out while Amelia Kerr has returned for Mumbai. Bengaluru have a chance of qualifying for the final, while Mumbai are looking to earn a crucial win and enter the top three. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-2026-quarterfinals-alcaraz-djokovic-tien-sabalenka-swiatek-2858090-2026-01-26",
+      "headline": "Sabalenka, Alcaraz headline star-studded quarterfinal lineup Australian Open: Aryna Sabalenka, Iga Swiatek, Carlos Alcaraz, Jannik Sinner and several other top contenders will be chasing places in the semifinals when they take the court in their respective quarterfinal matches."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-wanted-bangladesh-pakistan-misled-bcci-rajeev-shukla-2858086-2026-01-26",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/iga-swiatek-australian-open-quarter-final-win-maddison-inglis-2857996-2026-01-26",
-      "headline": "Iga Swiatek emulates Serena Williams, youngest in 23 years to reach major landmark Australian Open: World No.2 Iga Swiatek beat Maddison Inglis on Sunday at the Rod Laver Arena and advanced to the quarterfinals where she will lock horns with Elena Rybakina. \r\n"
+      "headline": "Iga Swiatek emulates Serena Williams, youngest in 23 years to reach major landmarkAustralian Open: World No.2 Iga Swiatek beat Maddison Inglis on Sunday at the Rod Laver Arena and advanced to the quarterfinals where she will lock horns with Elena Rybakina. \r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-reaches-australian-open-quarter-tracker-controversy-2857990-2026-01-26",
-      "headline": "Sinner beats fellow Italian to storm into quarters after tracker controversy World number two Jannik Sinner was dominant in the shorter exchanges as he defeated Italian compatriot Luciano Darderi 6-1, 6-3, 7-6 (2) to book his place in the Australian Open quarter-finals."
+      "headline": "Sinner beats fellow Italian to storm into quarters after tracker controversyWorld number two Jannik Sinner was dominant in the shorter exchanges as he defeated Italian compatriot Luciano Darderi 6-1, 6-3, 7-6 (2) to book his place in the Australian Open quarter-finals."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/yuki-bhambri-andre-goransson-exit-australian-open-mens-doubles-third-round-2857976-2026-01-26",
-      "headline": "Australian Open: Yuki Bhambri's exit brings down curtains on India's challenge Yuki Bhambri and Andre Goransson were eliminated in the third round of Australian Open men's doubles. Their defeat ends India's participation in this year's Grand Slam tournament and raises concerns for Indian tennis prospects."
+      "headline": "Australian Open: Yuki Bhambri's exit brings down curtains on India's challengeYuki Bhambri and Andre Goransson were eliminated in the third round of Australian Open men's doubles. Their defeat ends India's participation in this year's Grand Slam tournament and raises concerns for Indian tennis prospects."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-tilak-varma-fitness-availability-t20-world-cup-2857936-2026-01-26",
-      "headline": "IND vs NZ: Tilak Varma to miss last two T20Is as BCCI makes T20 World Cup call IND vs NZ: Tilak Varma has been ruled out of the last two T20Is of the ongoing series against New Zealand as he continues his recovery from abdomen injury. Varma will link up with the Indian squad on February 3 ahead of their first warm-up fixture of the T20 World Cup 2026."
+      "headline": "IND vs NZ: Tilak Varma to miss last two T20Is as BCCI makes T20 World Cup callIND vs NZ: Tilak Varma has been ruled out of the last two T20Is of the ongoing series against New Zealand as he continues his recovery from abdomen injury. Varma will link up with the Indian squad on February 3 ahead of their first warm-up fixture of the T20 World Cup 2026."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-guwahati-abhhishek-sharma-bat-viral-video-2857935-2026-01-26",
-      "headline": "Spring in the bat? Why New Zealand players inspected Abhishek Sharma's bat India vs New Zealand, 3rd T20I: A video of New Zealand players checking Abhishek Sharma's bat after his 14-ball fifty went viral. The opener tore into the Black Caps' attack, powering India's 154-run chase in just 10 overs on Sunday."
+      "headline": "Spring in the bat? Why New Zealand players inspected Abhishek Sharma's batIndia vs New Zealand, 3rd T20I: A video of New Zealand players checking Abhishek Sharma's bat after his 14-ball fifty went viral. The opener tore into the Black Caps' attack, powering India's 154-run chase in just 10 overs on Sunday."
     },
     {
       "sentiment": "negative",
@@ -450,31 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-2026-round-of-16-sinner-keys-djokovic-live-updates-2857736-2026-01-26",
       "headline": "Day 9 Highlights: Jannik Sinner, Iga Swiatek advance into quarter finalsAustralian Open Day 9 Highlights: Jannik Sinner and Iga Swiatek have made their way into quarter-finals of the Australian Open having won their respective fourth round fixtures. Earlier, Lorenzo Musetti and Amanda Anisimova also sealed their spots in the final 8."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/carrick-ball-reigns-supreme-man-united-arsenal-3-2-emirates-2857731-2026-01-26",
-      "headline": "Carrick-ball reigns supreme as Manchester United beat Arsenal 3-2 at Emirates stadiumCarrick-ball came of age as Manchester United stunned Arsenal 3-2 at the Emirates, with Matheus Cunha's late stunner sealing a statement win that reshaped the title race and confirmed United's revival."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sa20-final-sunrisers-eastern-cape-pretoria-capitals-tristan-stubbs-dewald-brevis-sourav-ganguly-2857729-2026-01-26",
-      "headline": "Heartbreak for coach Ganguly as Pretoria Capitals lose SA20 final to SunrisersSunrisers Eastern Cape claimed their third SA20 title after defeating Pretoria Capitals in a closely contested final at Newlands, as it was heartbreak for coach Sourav Ganguly. Stubbs and Breetzke's partnership was enough to see Sunrisers over the line as Dewald Brevis' hundred went in vain. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-3rd-t20i-key-stats-milestones-guwahati-india-epic-abhishek-sharma-suryakumar-yadav-2857726-2026-01-26",
-      "headline": "IND vs NZ, Stat Wrap: India show no mountain is too high to climb after Guwahati epicIND vs NZ, 3rd T20I statwrap: Abhishek Sharma's explosive knock powered India to a dominant win over New Zealand, sealing the series in record-setting fashion as multiple milestones fell in one of the fastest chases in T20 history."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/is-bindra-former-bcci-president-passes-away-aged-84-2857712-2026-01-25",
-      "headline": "IS Bindra, former BCCI President, dies at 84 after prolonged illnessFormer BCCI and Punjab Cricket Association chief IS Bindra, a pioneer who helped transform Indian cricket into a billion-dollar industry, passed away at 84 on Sunday, January 25. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-flexible-bowling-leads-india-series-win-new-zealand-2857706-2026-01-25",
-      "headline": "New-ball or death specialist? Jasprit Bumrah opens up on flexible bowling challengesIND vs NZ, 3rd T20I: Jasprit Bumrah was impressive in the third T20I against New Zealand, winning the Player of the Match award with figures of 4-0-17-3 at the Barsapara Stadium in Guwahati. "
     }
   ],
   "education": [
