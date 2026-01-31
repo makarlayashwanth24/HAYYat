@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/budget/story/fm-sitharamans-9th-budget-set-to-break-tradition-spotlight-part-b-as-reform-roadmap-2860967-2026-01-31",
+      "headline": "Budget 2026: In a first, Nirmala Sitharaman to spotlight Part B as reform roadmapFinance Minister Nirmala Sitharaman's ninth Union Budget marks a strategic shift by emphasising Part B to outline India's economic vision and reform agenda. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/budget/story/union-budget-2026-no-major-tax-changes-what-to-expect-2860903-2026-01-31",
       "headline": "Big tax changes unlikely in Budget 2026. So what can you expect?With major tax relief already delivered last year and the economy stable, Budget 2026 is expected to offer only minor tweaks. The chances of a big income tax announcement remain slim."
     },
@@ -94,14 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/budget/story/budget-2026-why-exporters-need-a-boost-trump-tariff-shock-explained-2860272-2026-01-30",
       "headline": "Budget 2026 should be an exporter's budget. Here's whyFrom tariff pressure to compliance hurdles, exporters are under strain. Budget 2026 needs to focus on easing these burdens so Indian businesses can protect market share and grow confidently this year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/hindustan-copper-vedanta-hindalco-metal-stocks-fall-nifty-metal-today-why-reasons-gold-silver-2860255-2026-01-30",
-      "headline": "Hindustan Copper, Vedanta, Hindalco fall up to 10%: Why are metal stocks down?The Nifty Metal index slipped close to 5% to 11,855.85, ending its three-day winning run during which it had gained nearly 9%. On Friday, the metal index emerged as the worst-performing sector on Dalal Street."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kiccha-sudeep-marks-30-years-kannada-cinema-gratitude-humility-2860934-2026-01-31",
+      "headline": "Kichcha Sudeep marks 30 years in cinema, promises to work even harder Kannada star Kichcha Sudeep marked 30 years in the industry with a heartfelt message expressing thanks to fans, collaborators, and the Kannada film fraternity for their support and inspiration throughout his career."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/akshay-kumar-endorses-rani-mukerji-mardaani-3-box-office-wildfire-india-2860897-2026-01-31",
@@ -191,23 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/alia-bhatt-on-wanting-to-quit-social-media-after-motherhood-2860668-2026-01-30",
       "headline": "Life is so personal: Alia Bhatt on wanting to quit social media after motherhood Alia Bhatt shared that there are days she feels like deleting social media and simply being an actor. She also spoke about how motherhood has made her personal life more private and deeply transformative."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/vishal-bhardwaj-on-arijit-singh-stepping-away-from-playback-singing-2860643-2026-01-30",
-      "headline": "This is unfair\u2026 Take back your Sanyaas: Vishal Bhardwaj's appeal to Arijit Singh Vishal Bhardwaj shared an emotional video singing a song recorded by Arijit Singh, reacting to the singer's decision to step away from playback singing."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/budget/story/fm-sitharamans-9th-budget-set-to-break-tradition-spotlight-part-b-as-reform-roadmap-2860967-2026-01-31",
+      "headline": "Budget 2026: In a first, Nirmala Sitharaman to spotlight Part B as reform roadmapFinance Minister Nirmala Sitharaman's ninth Union Budget marks a strategic shift by emphasising Part B to outline India's economic vision and reform agenda. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/ajit-pawars-wife-sunetra-takes-oath-as-maharashtra-deputy-chief-minister-first-woman-to-take-up-the-post-2860896-2026-01-31",
-      "headline": "Ajit Pawar's wife Sunetra takes oath as Maharashtra Deputy Chief MinisterGovernor Acharya Devvrat administered the oath in the presence of Chief Minister Devendra Fadnavis and Deputy Chief Minister Eknath Shinde."
+      "headline": "Ajit Pawar's wife Sunetra takes oath as Maharashtra Deputy Chief Minister  Live UpdatesGovernor Acharya Devvrat administered the oath in the presence of Chief Minister Devendra Fadnavis and Deputy Chief Minister Eknath Shinde."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-aryna-sabalenka-champion-elena-rybakina-final-2860855-2026-01-31",
       "headline": "Elena Rybakina gets sweet revenge over Aryna Sabalenka, lifts Australian Open crownAustralian Open 2026: Elena Rybakina won her maiden title at Melbourne Park after beating World No.1 Aryna Sabalenka in a thrilling three-setter on Saturday at the Rod Laver Arena. Sabalenka, meanwhile, lost back-to-back finals at Melbourne Park."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-5th-t20i-live-score-commentary-thiruvananthapuram-india-new-zealand-abhishek-suryakumar-2860845-2026-01-31",
+      "headline": "5th T20I Live: Ishan Kishan hits Ish Sodhi for 29-run overIndia vs New Zealand Live score, 5th T20I IND (141/2 in 12 ov): Ishan Kishan and Suryakumar Yadav have helped India recover after the hosts lost the wickets of Sanju Samson and Suryakumar Yadav inside the powerplay. "
     },
     {
       "sentiment": "positive",
@@ -221,28 +231,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/thanks-but-no-thanks-sunny-deol-border-2-does-not-do-justice-to-the-armed-forces-2860548-2026-01-31",
-      "headline": "Thanks, but no thanks, Sunny Deol: Border 2 has a serious problemMy father served in the Army, so I will always have a soft corner for Border. Sadly, Border 2 disappointed me. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/explosion-rocks-irans-bandar-abbas-port-damages-residential-building-2860936-2026-01-31",
-      "headline": "Explosion rocks Iran's Bandar Abbas port, damages residential buildingThe blast comes amid heightened tensions between Iran and the United States, following recent nationwide protests in Iran and renewed Western concerns over Tehran's nuclear programme."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/epstein-files-photos-former-prince-andrew-mountbatten-windsor-woman-2860923-2026-01-31",
       "headline": "Photos of ex-Prince Andrew crouching over woman in new Epstein filesFormer prince Andrew, the brother of the UK's King Charles, is seen kneeling over a woman lying on the floor in the photos released by the US Justice Department linked to late sex offender Jeffrey Epstein."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-5th-t20i-live-score-commentary-thiruvananthapuram-india-new-zealand-abhishek-suryakumar-2860845-2026-01-31",
-      "headline": "5th T20I Live: Sanju Mania grips Trivandrum, toss coming up soonIndia vs New Zealand Live score, 5th T20I: Thiruvananthapuram gets ready for what could be a homecoming for the ages. Sanju Samson is definitely in the spotlight here as he is in dire need of a big knock. This is the final game as he head into the T20 World Cup next, can Samson get a big one?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/relationship/story/in-the-age-of-dating-apps-disabled-and-chromically-ill-indians-are-still-looking-for-love-2860836-2026-01-31",
-      "headline": "In the age of dating apps, disabled and chronically ill Indians are still looking for loveMost of us carry long checklists before choosing a partner. For those already fighting their own battles, how easy is it to find companionship in 2026? Or do we simply assume that love comes last on their priority list?"
     },
     {
       "sentiment": "positive",
@@ -251,18 +241,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/thanks-but-no-thanks-sunny-deol-border-2-does-not-do-justice-to-the-armed-forces-2860548-2026-01-31",
+      "headline": "Thanks, but no thanks, Sunny Deol: Border 2 has a serious problemMy father served in the Army, so I will always have a soft corner for Border. Sadly, Border 2 disappointed me. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/explosion-rocks-irans-bandar-abbas-port-damages-residential-building-2860936-2026-01-31",
+      "headline": "Explosions reported in Iran's Bandar Abbas, Ahvaz; 4 killed in residential gas blastThe reported explosion in Bandar Abbas comes amid heightened tensions between Tehran and Washington, following weeks of unrest in Iran and renewed Western concerns over the country's nuclear programme."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/elena-rybakina-subtile-celebration-australian-open-title-beating-aryna-sabalenka-2860937-2026-01-31",
+      "headline": "Subtle over spectacle: Rybakina's calm celebration strikes a chord after winAustralian Open: Elena Rybakina marked her maiden Australian Open title at Melbourne Park with a restrained celebration, offering only a quiet fist pump. On Saturday, she defeated Aryna Sabalenka in three sets to avenge her loss in the 2023 final."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/india-europe-free-trade-deal-impact-pakistan-jittery-2860786-2026-01-31",
       "headline": "Why India-EU trade deal is mother of all setbacks for PakistanThe India-EU free trade agreement (FTA), years in the making, will give India broad market access to those sectors that have long fostered Pakistan's export success in Europe, especially textiles and apparel. Pakistan now seems to be feeling the heat and is in panic mode."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-compromised-by-israel-fbi-report-epstein-files-jared-kushner-us-president-2860756-2026-01-31",
-      "headline": "Trump compromised by Israel: Epstein files drop fresh bombshellAn FBI report citing a 'credible' confidential source claims that United States President Donald Trump's son-in-law, Jared Kushner, effectively ran key operations of his organisation and presidency."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/board-exam-stress-and-student-loneliness-causes-evidence-and-practical-solutions-2860574-2026-01-31",
-      "headline": "As board exams near, so does loneliness for studentsWith board exams weeks away, study routines have intensified, and social lives have shrunk. Homes have grown quieter as pressure has mounted and expectations have sharpened. For many students, preparation has turned into isolation. "
+      "url": "https://www.indiatoday.in/lifestyle/relationship/story/in-the-age-of-dating-apps-disabled-and-chromically-ill-indians-are-still-looking-for-love-2860836-2026-01-31",
+      "headline": "In the age of dating apps, disabled and chronically ill Indians are still looking for loveMost of us carry long checklists before choosing a partner. For those already fighting their own battles, how easy is it to find companionship in 2026? Or do we simply assume that love comes last on their priority list?"
     },
     {
       "sentiment": "positive",
@@ -271,13 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sunetra-pawar-oath-ceremony-live-updates-maharashtra-deputy-cm-ncp-meeting-ajit-pawar-death-sharad-pawar-merger-mahayuti-2860778-2026-01-31",
-      "headline": "Live: PM congratulates Sunetra Pawar as Maharashtra's first woman deputy CMMaharashtra Deputy CM Oath Ceremony Live Updates: Maharashtra politics appears to be at a critical juncture following the sudden death of senior NCP leader Ajit Pawar in a plane crash. Sunetra Pawar sworn-in as Maharashtra's new Deputy Chief Minister on Saturday evening, NCP chief Sharad Pawar told the media that neither he nor his family were aware of the development, adding that the decision would have been taken by his nephew's party. Meanwhile, talks of a reunion between the two NCP factions have gained momentum, with Sharad Pawar saying discussions between Jayant Patil and Ajit Pawar had been ongoing for four months. CM Devendra Fadnavis said the Mahayuti alliance will back the NCP's decision. Stay tuned to inditatoday.in to get all the latest updates on the Maharashtra politics."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/board-exam-stress-and-student-loneliness-causes-evidence-and-practical-solutions-2860574-2026-01-31",
+      "headline": "As board exams near, so does loneliness for studentsWith board exams weeks away, study routines have intensified, and social lives have shrunk. Homes have grown quieter as pressure has mounted and expectations have sharpened. For many students, preparation has turned into isolation. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-australia-squad-pat-cummins-ruled-out-injury-2860805-2026-01-31",
-      "headline": "T20 World Cup: Pat Cummins ruled out, no Steve Smith in Australia's squadT20 World Cup: Australia have suffered a major setback going into the T20 World Cup captain. Senior fast bowler Pat Cummins has been ruled out of the tournament due to a back injury."
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-compromised-by-israel-fbi-report-epstein-files-jared-kushner-us-president-2860756-2026-01-31",
+      "headline": "Trump compromised by Israel: Epstein files drop fresh bombshellAn FBI report citing a 'credible' confidential source claims that United States President Donald Trump's son-in-law, Jared Kushner, effectively ran key operations of his organisation and presidency."
     },
     {
       "sentiment": "positive",
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/visuals/time-tide-tamil-rise-and-rifts-justice-partys-power-plays-and-pitfalls-part-19-344-31-01-2026",
-      "headline": "Time, Tide & Tamil Part 19 | Rise & Rifts: Justice Party's Power Plays & PitfallsWhile the North unified under Gandhi's call for Non-Cooperation, the Justice Party saw an opening in Madras. They boycotted the boycott, choosing to align with colonial levers rather than revolutionary lanterns.\u00a0"
+      "url": "https://www.indiatoday.in/science/story/nasa-perseverance-mars-2020-rover-ai-drive-artificial-intelligence-jezero-crater-space-mission-2860953-2026-01-31",
+      "headline": "Watch: Perseverance rover completes first drive planned by AINasa has officially validated the first rover drives on Mars planned entirely by generative artificial intelligence. This milestone marks a shift toward autonomous space exploration."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/australia-open-novak-djokovic-vs-jannik-sinner-carlos-alcaraz-vs-zverev-9-hours-5-set-semi-finals-marathon-2860765-2026-01-31",
-      "headline": "Game, set, marathons: Djokovic, Alcaraz power an epic 9-hour Australian Open bingeMelbourne Park was treated to a Friday for the ages as Novak Djokovic and Carlos Alcaraz delivered more than nine and a half hours of engrossing drama in the Australian Open semifinals. Djokovic outlasted Jannik Sinner to flaunt his seemingly bottomless reserves, while Alcaraz staged a remarkable comeback to shatter Alexander Zverev's title hopes."
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-australia-squad-pat-cummins-ruled-out-injury-2860805-2026-01-31",
+      "headline": "T20 World Cup: Pat Cummins ruled out, no Steve Smith in Australia's squadT20 World Cup: Australia have suffered a major setback going into the T20 World Cup captain. Senior fast bowler Pat Cummins has been ruled out of the tournament due to a back injury."
     },
     {
       "sentiment": "positive",
@@ -306,8 +306,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/budget/story/union-budget-2026-expections-no-buzz-income-tax-gst-reforms-already-done-2860859-2026-01-31",
-      "headline": "Why there's no buzz ahead of Budget 2026With tax reforms already delivered, inflation under control and the economy stable, Budget 2026 is expected to emphasise stability and long-term growth, which is why public expectations remain modest this year."
+      "url": "https://www.indiatoday.in/interactive/visuals/time-tide-tamil-rise-and-rifts-justice-partys-power-plays-and-pitfalls-part-19-344-31-01-2026",
+      "headline": "Time, Tide & Tamil Part 19 | Rise & Rifts: Justice Party's Power Plays & PitfallsWhile the North unified under Gandhi's call for Non-Cooperation, the Justice Party saw an opening in Madras. They boycotted the boycott, choosing to align with colonial levers rather than revolutionary lanterns.\u00a0"
     },
     {
       "sentiment": "positive",
@@ -316,11 +316,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/economic-survey-2025-2026-union-budget-on-freebies-unconditional-cash-transfers-brazil-mexico-schemes-2860324-2026-01-31",
-      "headline": "How freebies bled Indian economy. Economic Survey suggests a Brazilian modelThe Economic Survey 2025-26 flags the unchecked rise of freebies provided by the state governments in India. It says they are draining public finances, widening deficits by leaving little money for investments in infrastructure and human capital. It argues that reforms are needed to the freebie culture, and urges policymakers to adopt outcome-linked, time-bound models like Brazil's Bolsa Familia."
+      "url": "https://www.indiatoday.in/sports/tennis/story/australia-open-novak-djokovic-vs-jannik-sinner-carlos-alcaraz-vs-zverev-9-hours-5-set-semi-finals-marathon-2860765-2026-01-31",
+      "headline": "Game, set, marathons: Djokovic, Alcaraz power an epic 9-hour Australian Open bingeMelbourne Park was treated to a Friday for the ages as Novak Djokovic and Carlos Alcaraz delivered more than nine and a half hours of engrossing drama in the Australian Open semifinals. Djokovic outlasted Jannik Sinner to flaunt his seemingly bottomless reserves, while Alcaraz staged a remarkable comeback to shatter Alexander Zverev's title hopes."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-5th-t20i-sanju-samson-fails-thiruvananthapuram-poor-form-2860965-2026-01-31",
+      "headline": "Sanju Samson's horror run continues, batter disappoints local crowd in Trivandrum IND vs NZ: Sanju Samson failed to impress at his home ground during the fifth T20I against New Zealand. The opening batter was dismissed for 6, leaving his large fanbase disappointed."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-row-india-bangladesh-pakistan-ioc-olympics-bid-2860945-2026-01-31",
+      "headline": "International Olympic Committee monitors India after T20 World Cup row: Report The 2026 T20 World Cup disco has put India's 2036 Olympic hosting ambitions under scrutiny, with the IOC unlikely to tolerate political tensions that risk boycotts by participating nations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-5th-t20i-playing-xi-ishan-kishan-axar-patel-sanju-samson-varun-chakravarthy-2860952-2026-01-31",
+      "headline": "Kishan, Patel return for 5th T20I as India finalise World Cup preparation India made three changes to their playing XI for the final T20I against New Zealand. Captain Suryakumar Yadav opted to bat first to test bowlers under dew ahead of the T20 World Cup 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/elena-rybakina-subtile-celebration-australian-open-title-beating-aryna-sabalenka-2860937-2026-01-31",
+      "headline": "Subtle over spectacle: Rybakina's calm celebration strikes a chord after win Australian Open: Elena Rybakina marked her maiden Australian Open title at Melbourne Park with a restrained celebration, offering only a quiet fist pump. On Saturday, she defeated Aryna Sabalenka in three sets to avenge her loss in the 2023 final."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-carlos-alcaraz-australian-open-2026-final-2860941-2026-01-31",
@@ -339,7 +359,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-5th-t20i-live-score-commentary-thiruvananthapuram-india-new-zealand-abhishek-suryakumar-2860845-2026-01-31",
-      "headline": "5th T20I Live: Sanju Mania grips Trivandrum ahead of final T20 WC prep India vs New Zealand Live score, 5th T20I: Thiruvananthapuram gets ready for what could be a homecoming for the ages. Sanju Samson is definitely in the spotlight here as he is in dire need of a big knock. This is the final game as he head into the T20 World Cup next, can Samson get a big one?"
+      "headline": "5th T20I Live: Kishan, Suryakumar accelerate for hosts India vs New Zealand Live score, 5th T20I IND (102/2 in 10 ov): Ishan Kishan and Suryakumar Yadav have helped India recover after the hosts lost the wickets of Sanju Samson and Suryakumar Yadav inside the powerplay. "
     },
     {
       "sentiment": "positive",
@@ -354,22 +374,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/premier-league-liverpool-vs-newcastle-united-tottenham-vs-manchester-city-preview-arne-slot-thomas-frank-2860821-2026-01-31",
-      "headline": "Premier League: Managerial fates on line as Spurs face City, Liverpool host Newcastle Super Sunday turns the Premier League spotlight on managers, with pressure mounting as results shape narratives and futures. Tottenham's City test and Liverpool's Newcastle clash could redefine Thomas Frank and Arne Slot's seasons this weekend."
+      "headline": "Premier League: Managerial fates on line as Spurs face City, Liverpool host NewcastleSuper Sunday turns the Premier League spotlight on managers, with pressure mounting as results shape narratives and futures. Tottenham's City test and Liverpool's Newcastle clash could redefine Thomas Frank and Arne Slot's seasons this weekend."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-australia-squad-pat-cummins-ruled-out-injury-2860805-2026-01-31",
-      "headline": "T20 World Cup: Pat Cummins ruled out, no Steve Smith in Australia's squad T20 World Cup: Australia have suffered a major setback going into the T20 World Cup captain. Senior fast bowler Pat Cummins has been ruled out of the tournament due to a back injury."
+      "headline": "T20 World Cup: Pat Cummins ruled out, no Steve Smith in Australia's squadT20 World Cup: Australia have suffered a major setback going into the T20 World Cup captain. Senior fast bowler Pat Cummins has been ruled out of the tournament due to a back injury."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-women-singles-final-live-updates-aryna-sabalenka-vs-elena-rybakina-2860802-2026-01-31",
-      "headline": "Women's Singles Final Highlights: Comeback queen Rybakina wins Australian Open Australian Open 2026 Highlights, Women's Singles final: Elena Rybakina has pulled off an incredible comeback win against Aryna Sabalenka. 0-3 down in the decider, Rybakina beats Sabalenka 6-4, 4-6, 6-4 to clinch her maiden Australian Open title."
+      "headline": "Women's Singles Final Highlights: Comeback queen Rybakina wins Australian OpenAustralian Open 2026 Highlights, Women's Singles final: Elena Rybakina has pulled off an incredible comeback win against Aryna Sabalenka. 0-3 down in the decider, Rybakina beats Sabalenka 6-4, 4-6, 6-4 to clinch her maiden Australian Open title."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-cricket-harry-brook-wellington-uturn-nightclub-statement-admits-lying-2860795-2026-01-31",
-      "headline": "Harry Brook makes U-turn on England nightclub row: Admits lying to protect teammates Harry Brook admitted he lied about the Wellington nightclub incident to protect teammates. The U-turn comes amid wider scrutiny of England's off-field conduct following a bruising Ashes tour and disciplinary investigations."
+      "headline": "Harry Brook makes U-turn on England nightclub row: Admits lying to protect teammatesHarry Brook admitted he lied about the Wellington nightclub incident to protect teammates. The U-turn comes amid wider scrutiny of England's off-field conduct following a bruising Ashes tour and disciplinary investigations."
     },
     {
       "sentiment": "positive",
@@ -450,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-novak-djokovic-beats-jannik-sinner-set-up-final-vs-alcaraz-2860613-2026-01-30",
       "headline": "Ageless Djokovic does the unthinkable, outlasts Sinner to keep No. 25 dream aliveNovak Djokovic refused to bow to time, form or expectation on Friday night, delivering one of the most stirring wins of his career by defeating defending champion Jannik Sinner to reach an 11th Australian Open final and keep his dream of a record-breaking 25th Grand Slam title alive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-sitanshu-kotak-on-sanju-samson-5th-t20i-t20-world-cup-2026-2860517-2026-01-30",
-      "headline": "Sanju is Sanju, nothing to worry about him: Batting coach backs struggling India starIndia batting coach Sitanshu Kotak supports Sanju Samson despite his recent poor form in the ongoing New Zealand T20I series. Samson faces pressure to improve quickly ahead of the T20 World Cup 2026 with stiff competition for places."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ravi-shastri-backed-pro10-malaysia-tournament-to-be-rescheduled-2860475-2026-01-30",
-      "headline": "Ravi Shastri-backed Pro10 Malaysia tournament to be rescheduledThe Pro10 Malaysia cricket tournament has been postponed until after the ICC Men's T20 World Cup in India and Sri Lanka, with the organisers citing logistical challenges as the reason for the rescheduling."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-men-t20-world-cup-2026-match-officials-announced-nitin-menon-javagal-srinath-2860462-2026-01-30",
-      "headline": "ICC unveil officials for T20 World Cup, Nitin Menon, Javagal Srinath only IndiansThe ICC has appointed 24 umpires and 6 match referees for the 2026 Men's T20 World Cup group stage. Key officials like Dharmasena and Tucker are set to reach significant milestones during the tournament."
     }
   ],
   "education": [
