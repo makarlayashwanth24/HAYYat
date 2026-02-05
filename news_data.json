@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/a-system-upgrade-led-to-a-criminal-tax-notice-how-budget-2026-changes-that-2863440-2026-02-05",
+      "headline": "A system upgrade led to a criminal tax notice. How Budget 2026 changes thatA routine system upgrade or staff reshuffle should not land a business in criminal trouble. Yet, under earlier tax rules, even genuine operational delays could trigger prosecution. Budget 2026 aims to fix this by easing penalties for procedural lapses."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/regulator-cci-orders-probe-into-indigo-after-mass-flight-cancellations-interglobe-aviation-shares-down-2863443-2026-02-05",
       "headline": "Competition watchdog orders probe into IndiGo after mass flight cancellationsIn a 16-page order, the Competition Commission of India (CCI) said that IndiGo, which holds a dominant position in the domestic aviation market, may have abused its strength by cancelling a large number of flights."
     },
@@ -94,14 +99,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/anthropic-new-ai-tools-panic-on-wall-street-it-stocks-hit-explained-2862772-2026-02-04",
       "headline": "Why Anthropic's new AI tools rattled Wall Street's tech giants, hit Indian IT stocksThe slide in IT stocks is not just about prices. It reflects the new uncertainty AI brings to global tech. Knowing what sparked it helps decode what lies ahead for the sector."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/commodities/story/how-etfs-digital-buying-are-pushing-gold-and-silver-prices-precious-metals-rally-2862755-2026-02-04",
-      "headline": "How buying gold on an app is pushing real gold prices higherIt is not just safe haven demand or industrial demand alone driving gold and silver prices higher. A quiet shift in how people buy gold and silver is changing real-world supply and prices."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/relationship-goals-review-prime-video-rom-com-self-help-promotion-2863434-2026-02-05",
+      "headline": "Relationship Goals review: A not-so-subtle sales pitch garbed as rom-comRelease Date:Wed Feb 04, 2026 Relationship Goals movie review: Prime Video's Relationship Goals mixes romance with overt self-help promotion. The film struggles to deliver genuine emotional impact amid heavy product placement, says our review. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-had-gun-in-hand-acted-in-self-defence-at-3-am-manager-on-violent-incident-2863469-2026-02-05",
+      "headline": "Govinda had gun in hand, acted in self-defence at 3 am: Manager on violent incident Govinda's manager denied rumours linking the actor to any criminal or violent incident, saying he acted purely in self-defence. He revealed that the incident occurred late at night and involved unidentified individuals near the actor's residence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-release-delayed-legal-issues-silambarasan-tr-supports-vijay-2863438-2026-02-05",
+      "headline": "Actor Silambarasan stands by Vijay as Jana Nayagan release remains uncertain Actor Silambarasan TR has spoken out in support of Vijay, whose film Jana Nayagan remains delayed due to ongoing legal hurdles with the Cental Board of Film Certification (CBFC)."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/adarsh-gourav-on-arijit-singh-playback-exit-i-am-sure-he-has-his-reasons-2863412-2026-02-05",
@@ -181,33 +196,33 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/splitsvilla-x6-paisa-vs-pyaar-hypocrisy-uorfi-javed-nia-sharma-himanshu-arora-gullu-karan-kundrra-sunny-leone-2863203-2026-02-05",
       "headline": "Wait, since when did hypocrisy become the main plot in Splitsvilla X6? Splitsvilla X6 has unfolded as a chaotic spectacle marked by selective morality and biased rule enforcement, overshadowing its original theme of 'Pyaar vs Paisa'. The season reveals a troubling double standard where drama is encouraged at the cost of fairness and respect, leaving viewers questioning the integrity of the show."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-the-revenge-teaser-soundtrack-doja-cat-confirmed-details-inside-2863325-2026-02-05",
-      "headline": "Dhurandhar: The Revenge teaser soundtrack X Doja Cat confirmed? Details inside The makers confirmed on YouTube that the song AAAHH MEN! by Doja Cat is the official soundtrack for the teaser. Directed by Aditya Dhar and headlined by Ranveer Singh, the film is slated for release on March 19. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/film-certification-time-reduced-18-working-days-online-system-ministry-lok-sabha-2863313-2026-02-05",
-      "headline": "Film certification time slashed to 18 days with new online system, informs Ministry L Murugan, Minister of Information and Broadcasting said in Lok Sabha that the Central Board of Film Certification now averages 18 working days for feature film certification due to the Online Certificate System, significantly below the prescribed 48-day limit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/bridgeton-4-benedict-may-lead-but-footman-john-is-the-seasons-real-gem-2862865-2026-02-05",
-      "headline": "Bridgerton 4: Benedict may lead but footman John is the season's real diamond In Bridgerton Season 4, not all eyes are on leading man Benedict. As the series expands its focus beyond the ballroom, the subtle performance of footman John is emerging as a talking point."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/parliament-budget-session-fiery-showdown-rajya-sabha-pm-modis-lok-sabha-speech-cancelled-2863418-2026-02-05",
-      "headline": "Fiery showdown in Rajya Sabha day after PM Modi's Lok Sabha speech cancelled Live UpdatesThe fiery showdown in Rajya Sabha comes amid repeated disruptions and the controversy surrounding the cancellation of Prime Minister Narendra Modi's scheduled address in the Lok Sabha on Wednesday. "
+      "url": "https://www.indiatoday.in/india/story/joint-statement-on-india-us-trade-deal-next-week-fine-print-to-be-made-public-sources-2863459-2026-02-05",
+      "headline": "India-US statement on trade deal next week, agriculture safeguardedThe much-awaited statement is likely to lift the secrecy that has shrouded the trade deal ever since Trump unilaterally announced that a trade deal with India had been reached. There was no mention of the deal in PM Modi's post."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pms-parliament-address-priyanka-gandhi-jabs-pm-modi-over-lok-sabha-no-show-2863466-2026-02-05",
+      "headline": "Scared of Epstein files? Priyanka Gandhi jabs PM Modi over Lok Sabha no-showPriyanka Gandhi's remarks came after Union Minister JP Nadda, speaking in the Rajya Sabha, described Rahul Gandhi as \"naive.\" She said the Leader of the Opposition in the Lok Sabha should be allowed to speak freely."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/story/ghaziabad-sisters-minors-suicide-jump-building-father-debt-financial-crisis-chetan-kumar-exclusive-korean-culture-drama-music-2863425-2026-02-05",
       "headline": "Ghaziabad sisters' father in deep financial crisis, has Rs 2-crore debt: SourcesChetan Kumar, the father of Ghaziabad sisters who died by suicide in a shocking case on Tuesday, is in deep financial crisis and has a Rs 2-crore debt. The sisters have not been going to school for two to three years, and the new revelation may explain the same."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/icc-world-cup-2026-bangladesh-thanks-pakistan-asif-nazrul-shehbaz-sharif-politics-off-field-nexux-2863447-2026-02-05",
+      "headline": "Thank you, Pakistan: Bangladesh reveals big cricket nexus against IndiaBangladesh's sports adviser Asif Nazrul thanked Pakistan for backing Dhaka's boycott of the T20 World Cup, after Islamabad decided to skip its match against India in Colombo. A day earlier, Pakistani PM Shehbaz Sharif publicly justified the move as standing \"completely\" with Bangladesh. This exposed how both governments made cricket a theatre of a political engagement against India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/plastic-now-outweighs-all-animals-on-earth-combined-why-this-should-alarm-us-2863467-2026-02-05",
+      "headline": "Plastic now outweighs all animals on Earth combined. Let that sink inThe figures suggest that plastic, a material that has existed for barely a century, now outweighs all animal life combined, underscoring the unprecedented environmental impact of modern industrial activity."
     },
     {
       "sentiment": "positive",
@@ -221,18 +236,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/naseeruddin-shah-alleges-last-minute-disinvite-from-university-event-2863389-2026-02-05",
-      "headline": "Never praised 'Vishwaguru': Naseeruddin Shah links university snub to political viewsNaseeruddin Shah said he was disinvited at the last minute from Mumbai University's Jashn-e-Urdu event and later falsely accused of refusing to attend. He linked the issue to his political criticism, citing \"the Vishwaguru\" he never praised. "
+      "url": "https://www.indiatoday.in/india/story/parliament-budget-session-fiery-showdown-rajya-sabha-pm-modis-lok-sabha-speech-cancelled-2863418-2026-02-05",
+      "headline": "Fiery showdown in Rajya Sabha day after PM Modi's Lok Sabha speech cancelled Live UpdatesThe fiery showdown in Rajya Sabha comes amid repeated disruptions and the controversy surrounding the cancellation of Prime Minister Narendra Modi's scheduled address in the Lok Sabha on Wednesday. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-had-gun-in-hand-acted-in-self-defence-at-3-am-manager-on-violent-incident-2863469-2026-02-05",
+      "headline": "Govinda had gun in hand, acted in self-defence at 3 am: Manager on violent incidentGovinda's manager denied rumours linking the actor to any criminal or violent incident, saying he acted purely in self-defence. He revealed that the incident occurred late at night and involved unidentified individuals near the actor's residence."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/story/ghaziabad-sisters-suicide-note-father-korean-culture-k-pop-love-obsession-2863344-2026-02-05",
       "headline": "Here's proof of our love for K-Pop: What Ghaziabad sisters wrote in suicide noteThe three sisters died after allegedly jumping from the ninth floor of their residential building in Ghaziabad. Police are investigating the circumstances surrounding the deaths, including their intense obsession with the Korean pop culture."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/free-to-buy-oil-from-any-country-russias-1st-reaction-on-india-purchasing-venezuelan-oil-under-us-trade-pact-2863304-2026-02-05",
-      "headline": "New Delhi free to buy oil from any country: Russia after India-US trade dealIndia imports nearly 88% of its crude, with Russian oil emerging as a key source after 2022. Moscow said India is free to diversify, but replacing Russian volumes is not commercially simple."
     },
     {
       "sentiment": "positive",
@@ -246,28 +261,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/allahabad-high-court-acquits-100-year-old-convict-1982-murder-case-decades-long-appeal-2863394-2026-02-05",
-      "headline": "Justice after 42 years: Court acquits 100-year-old man convicted for murderThe Allahabad High Court set aside the conviction of Dhaniram, who had been sentenced to life imprisonment by a sessions court in Hamirpur in 1984. His appeal against the conviction had remained pending before the High Court for over 40 years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-united-states-secret-trade-deal-before-election-unelected-yunus-regime-garment-textile-sector-2862850-2026-02-05",
-      "headline": "Yunus's rush to ink secretive deal with US has Bangladesh exporters worriedThe interim setup of Muhammad Yunus is set to sign a tariff deal with the US. However, the non-disclosure agreement that keeps details shrouded in mystery has got Bangladeshi business leaders concerned. Then there is a bigger question. Is it legal for the unelected Yunus regime to ink a deal even as an elected government could come to office in weeks time?"
+      "url": "https://www.indiatoday.in/movies/celebrities/story/naseeruddin-shah-alleges-last-minute-disinvite-from-university-event-2863389-2026-02-05",
+      "headline": "Never praised 'Vishwaguru': Naseeruddin Shah links university snub to political viewsNaseeruddin Shah said he was disinvited at the last minute from Mumbai University's Jashn-e-Urdu event and later falsely accused of refusing to attend. He linked the issue to his political criticism, citing \"the Vishwaguru\" he never praised. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/woman-murder-father-in-law-up-police-mau-district-records-throat-sliitting-2863375-2026-02-05",
-      "headline": "UP woman kills father-in-law, lover records video of her slitting his throatPolice said the accused called Subachchan Rajbhar out on the pretext of drinking liquor, gagged him and slit his throat. The accused even recorded the video of the crime on their mobile phone. "
+      "url": "https://www.indiatoday.in/world/story/free-to-buy-oil-from-any-country-russias-1st-reaction-on-india-purchasing-venezuelan-oil-under-us-trade-pact-2863304-2026-02-05",
+      "headline": "New Delhi free to buy oil from any country: Russia after India-US trade dealIndia imports nearly 88% of its crude, with Russian oil emerging as a key source after 2022. Moscow said India is free to diversify, but replacing Russian volumes is not commercially simple."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/why-korean-culture-won-indias-heart-with-k-dramas-k-pop-kimchi-2863396-2026-02-05",
-      "headline": "K-dramas, K-pop, kimchi: Why Korean culture won India's heartKorean pop culture has surged in India since 2022, spanning dramas, music, food, fashion, and language learning. From family-centric storytelling to soft masculinity and female-focused narratives, Korean content has struck a deep emotional chord across age groups, becoming one of the most influential global cultural forces shaping Indian audiences today."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/eva-dubin-invited-jeffrey-epstein-her-home-when-her-daughter-celina-was-15-glbs-2863284-2026-02-05",
-      "headline": "Epstein's ex invited him home when daughter was 15: She'll have 5 friends overJeffrey Epstein had already served jail time in Florida in a trafficking case and was registered as a sex offender when he exchanged emails with Eva Andersson-Dubin, his on and off girlfriend throughout the 1980s."
+      "url": "https://www.indiatoday.in/india/story/allahabad-high-court-acquits-100-year-old-convict-1982-murder-case-decades-long-appeal-2863394-2026-02-05",
+      "headline": "Justice after 42 years: Court acquits 100-year-old man convicted for murderThe Allahabad High Court set aside the conviction of Dhaniram, who had been sentenced to life imprisonment by a sessions court in Hamirpur in 1984. His appeal against the conviction had remained pending before the High Court for over 40 years."
     },
     {
       "sentiment": "positive",
@@ -276,33 +281,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/why-korean-culture-won-indias-heart-with-k-dramas-k-pop-kimchi-2863396-2026-02-05",
+      "headline": "K-dramas, K-pop, kimchi: Why Korean culture won India's heartKorean pop culture has surged in India since 2022, spanning dramas, music, food, fashion, and language learning. From family-centric storytelling to soft masculinity and female-focused narratives, Korean content has struck a deep emotional chord across age groups, becoming one of the most influential global cultural forces shaping Indian audiences today."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-united-states-secret-trade-deal-before-election-unelected-yunus-regime-garment-textile-sector-2862850-2026-02-05",
+      "headline": "Yunus's rush to ink secretive deal with US has Bangladesh exporters worriedThe interim setup of Muhammad Yunus is set to sign a tariff deal with the US. However, the non-disclosure agreement that keeps details shrouded in mystery has got Bangladeshi business leaders concerned. Then there is a bigger question. Is it legal for the unelected Yunus regime to ink a deal even as an elected government could come to office in weeks time?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/news/story/bharat-taxi-launching-today-will-take-on-uber-and-ola-with-govt-backed-cooperative-model-2863328-2026-02-05",
       "headline": "Bharat Taxi officially launching today, will take on Uber and OlaBharat Taxi is set for its official launch today, at 3 pm. The app is a government-backed service that will take on private cab aggregators like Uber and Ola. Here are all the details."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/before-wapo-layoffs-bezos-shut-million-dollar-space-tourism-program-whats-happening-2863403-2026-02-05",
-      "headline": "Before WaPo layoffs, Bezos pulled the plug on space tourism programBlue Origin confirmed it will suspend New Shepard flights for at least two years, effectively grounding its most visible commercial product. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-was-willing-to-wait-out-donald-trump-term-on-trade-deal-ajit-doval-told-marco-rubio-narendra-modi-us-india-agreement-2863103-2026-02-04",
-      "headline": "Won't be bullied, will wait out Trump term for trade deal, Doval told RubioThe Modi government had conveyed to the US in early September 2025 that it was willing to wait out the Trump presidential term if needed on the India-US trade deal. This tough line was conveyed to US Secretary of State Marco Rubio by India NSA Ajit Doval, according to a Bloomberg report. The report on the meeting and the mellowing down of Trump and his aides after that gives a new perspective to the debate over the India-US trade deal."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/indian-businessman-racial-slur-riyadh-exhibition-not-one-muslim-viral-video-online-outrage-2863319-2026-02-05",
-      "headline": "Not one Muslim? Indian businessman comes under racial attack at Riyadh exhibitionIn the video, the man appears to mock the firm for its religious identity, sneering that it has \"not even one Muslim.\" The controversy gained traction after a UAE-based political analyst shared the video online, condemning the incident as \"blatant racism.\""
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/woman-sends-sealed-package-through-rapido-what-the-delivery-boy-found-shocked-him-2863361-2026-02-05",
-      "headline": "Woman sends sealed package through Rapido. What the delivery boy found shocked himA woman used Rapido's porter service to send a sealed package. However, what the delivery boy found in the package when he reached the drop location left him confused and shocked."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/standpoint/story/arjun-kapoors-viral-post-exposes-us-we-knew-and-we-mocked-anyway-2863160-2026-02-05",
-      "headline": "Arjun Kapoor's viral post exposes us: We knew, and we mocked anywayArjun Kapoor's post about his mother opens up a larger conversation on grief, endurance, and what we, on the internet, choose to overlook."
     },
     {
       "sentiment": "positive",
@@ -311,20 +301,35 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/video-routine-lift-ride-turns-dangerous-gas-filled-balloons-explode-goregaon-building-lift-2863225-2026-02-04",
-      "headline": "Video: Terrifying moments inside Mumbai lift as gas-filled balloons explodeA routine lift ride in Mumbai's Goregaon West turned dangerous after a hydrogen gas\u2013filled balloon burst inside an elevator, triggering a brief fire that left two people with minor injuries."
+      "url": "https://www.indiatoday.in/india/story/woman-murder-father-in-law-up-police-mau-district-records-throat-sliitting-2863375-2026-02-05",
+      "headline": "UP woman kills father-in-law, lover records video of her slitting his throatPolice said the accused called Subachchan Rajbhar out on the pretext of drinking liquor, gagged him and slit his throat. The accused even recorded the video of the crime on their mobile phone. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/woman-sends-sealed-package-through-rapido-what-the-delivery-boy-found-shocked-him-2863361-2026-02-05",
+      "headline": "Woman sends sealed package through Rapido. What the delivery boy found shocked himA woman used Rapido's porter service to send a sealed package. However, what the delivery boy found in the package when he reached the drop location left him confused and shocked."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/parliament-budget-session-live-updates-pm-modi-lok-sabha-rajya-sabha-rahul-gandhi-naravane-memoir-2863333-2026-02-05",
-      "headline": "Live: Lok Sabha passes Motion of Thanks without PM's addressParliament Session Live Updates: The Motion of Thanks on the President's Address was passed in the Lok Sabha on Thursday without Prime Minister Narendra Modi replying to the debate as repeated disruptions triggered by Rahul Gandhi's speech continued to stall proceedings in the Lower House. The Lok Sabha has remained paralysed since Leader of Opposition Rahul Gandhi referred to an unpublished memoir of former Army chief General Manoj Naravane, drawing sharp objections from Defence Minister Rajnath Singh and Home Minister Amit Shah. According to sources, Prime Minister Modi is likely to reply to the Motion of Thanks in the Rajya Sabha today, where discussion has concluded without disruption. The government is planning to get the Motion of Thanks passed in both Houses on the same day, even if the Lok Sabha debate does not resume normally. Sources also said that discussion on the Union Budget is expected to begin in the Lok Sabha today, even as uncertainty hangs over the smooth conduct of business amid the ongoing standoff. Stay tuned to indiatoday.in for the latest updates on the ongoing Budget Session."
+      "url": "https://www.indiatoday.in/world/story/eva-dubin-invited-jeffrey-epstein-her-home-when-her-daughter-celina-was-15-glbs-2863284-2026-02-05",
+      "headline": "Epstein's ex invited him home when daughter was 15: She'll have 5 friends overJeffrey Epstein had already served jail time in Florida in a trafficking case and was registered as a sex offender when he exchanged emails with Eva Andersson-Dubin, his on and off girlfriend throughout the 1980s."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/indian-businessman-racial-slur-riyadh-exhibition-not-one-muslim-viral-video-online-outrage-2863319-2026-02-05",
+      "headline": "Not one Muslim? Indian businessman comes under racial attack at Riyadh exhibitionIn the video, the man appears to mock the firm for its religious identity, sneering that it has \"not even one Muslim.\" The controversy gained traction after a UAE-based political analyst shared the video online, condemning the incident as \"blatant racism.\""
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/salaam-cricket-t20-world-cup-sunil-gavaskar-suresh-raina-india-pakistan-2863468-2026-02-05",
+      "headline": "T20 World Cup Salaam Cricket Live: Can Pakistan really boycott match against India? Salaam Cricket 2026, T20 World Cup: Sunil Gavaskar, Suresh Raina and other experts are all set to share their opinions as India are set to begin their title defence in the World Cup on February 7 against the United States. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/icc-world-cup-2026-bangladesh-thanks-pakistan-asif-nazrul-shehbaz-sharif-politics-off-field-nexux-2863447-2026-02-05",
-      "headline": "Thank you, Pakistan, says Bangladesh on cricket politics, reveals off-field nexus Bangladesh's sports adviser Asif Nazrul thanked Pakistan for backing Dhaka's boycott of the T20 World Cup, after Islamabad decided to skip its match against India in Colombo. A day earlier, Pakistani PM Shehbaz Sharif publicly justified the move as standing \"completely\" with Bangladesh. This exposed how both governments made cricket a theatre of a political engagement against India."
+      "headline": "Thank you, Pakistan: Bangladesh reveals big cricket nexus against India Bangladesh's sports adviser Asif Nazrul thanked Pakistan for backing Dhaka's boycott of the T20 World Cup, after Islamabad decided to skip its match against India in Colombo. A day earlier, Pakistani PM Shehbaz Sharif publicly justified the move as standing \"completely\" with Bangladesh. This exposed how both governments made cricket a theatre of a political engagement against India."
     },
     {
       "sentiment": "positive",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rcb-recharge-goa-trip-wpl-2026-final-delhi-capitals-2863250-2026-02-04",
-      "headline": "Could Goa break unsettle RCB? Smriti Mandhana opens up ahead of WPL final WPL 2026: Smriti Mandhana said that Royal Challengers Bengaluru (RCB) are fresh for the final against Delhi Capitals (DC) after they spent their one-week break enjoying in Goa."
+      "headline": "Could Goa break unsettle RCB? Smriti Mandhana opens up ahead of WPL finalWPL 2026: Smriti Mandhana said that Royal Challengers Bengaluru (RCB) are fresh for the final against Delhi Capitals (DC) after they spent their one-week break enjoying in Goa."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanisthan-u19-world-cup-semifinal-live-score-harare-vaibhav-suryavanshi-2862794-2026-02-04",
       "headline": "IND U19 vs AFG U19 Highlights: India hammer Afghanistan to set up final vs EnglandIndia (IND) vs Afghanistan (AFG) Highlights, U19 World Cup 2026 semifinal: India beat Afghanistan by seven wickets on Wednesday at the Harare Sports Club to qualify for the final, where they will face England. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-rain-colombo-weather-2862728-2026-02-04",
-      "headline": "Boycott India, forget Super 8s: Why rain is Pakistan's biggest foe in ColomboT20 World Cup: Pakistan have decided to boycott their group stage match against India in Colombo. But can they afford to waste a game when two of their other matches are threatened by rain?"
     }
   ],
   "education": [
