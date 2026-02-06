@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/rohit-shettys-khatron-ke-khiladi-returns-with-season-15-makers-release-ai-promo-2864432-2026-02-06",
+      "headline": "Rohit Shetty's Khatron Ke Khiladi returns with Season 15, makers release AI promo Khatron Ke Khiladi will return to Colors TV for its fifteenth season after a two-year break, with the announcement made through an AI-generated promo video."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/raveena-ravi-exposes-harassment-sabarish-twins-urges-public-vigilance-chennai-2864007-2026-02-06",
       "headline": "Raveena Ravi names alleged harassers after years of complaints, seeks public support Actor and voice artist Raveena Ravi exposed two men for harassing her and her family for three years, urging authorities to take strict action following ongoing incidents despite previous police complaints."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/mahesh-babu-reveals-he-was-nervous-after-hearing-rajamoulis-varanasi-narration-2864168-2026-02-06",
       "headline": "Mahesh Babu reveals he was nervous after hearing Rajamouli's Varanasi narration Mahesh Babu recently revealed that he was nervous when SS Rajamouli narrated Varanasi. The actor recalled what he did to deal with the moment. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/dhurandhar-tops-netflix-in-22-nations-including-pak-bangladesh-saudi-arabia-uae-2864136-2026-02-06",
-      "headline": "Dhurandhar tops Netflix in 22 nations including Pak, Bangladesh, Saudi Arabia, UAE The espionage-thriller Dhurandhar has set a global benchmark following its OTT release. The film is currently trending at number one in 22 countries, including Pakistan, Bangladesh and Saudi Arabia."
     }
   ],
   "general news": [
@@ -230,19 +230,24 @@
       "headline": "Confused by conflicting reports on missing Delhi children? Here's all you need to knowIndia Today Fact Check went through the many claims and counterclaims to cut through the noise."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/india-condemns-islamabad-suicide-bombing-says-pak-deluding-itself-by-blaming-others-for-home-grown-ills-2864455-2026-02-06",
+      "headline": "India condemns Islamabad blast, says Pakistan blaming others for home-grown illsIndia condemns Islamabad suicide bombing, says Pak deluding itself by blaming others for home-grown ills"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/fact-check/story/anti-india-islamist-party-promises-shining-bangladesh-with-borrowed-indian-pics-2864394-2026-02-06",
       "headline": "Anti-India Islamist party promises shining Bangladesh with borrowed Indian picsIndia Today Fact Check found that Bangladesh's Jamaat-e-Islami used photographs from India in its election manifesto to showcase its vision for Bangladesh."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-mohammed-siraj-named-harshit-rana-replacement-india-squad-2864416-2026-02-06",
-      "headline": "T20 World Cup: Mohammed Siraj replaces injured Harshit Rana in India's squadIndia have named senior pacer Mohammed Siraj as Harshit Rana's replacement after the fast bowler was ruled out of the ICC Men's T20 World Cup 2026 with a knee injury sustained during a warm-up match."
+      "url": "https://www.indiatoday.in/india/story/gujarat-valsad-truck-accident-on-national-highway-48-traffic-updates-off-balance-container-falls-on-house-on-gujarat-highway-man-eating-inside-dies-2864369-2026-02-06",
+      "headline": "Off-balance container falls on house on Gujarat highway, man eating inside diesWhile attempting to overtake, a car driver caused a container truck to lose control and overturn. In CCTV footage, a man is seen doing chores as the truck passes the window, before he steps away moments before it crashes into the adjacent room."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/gujarat-valsad-truck-accident-on-national-highway-48-traffic-updates-off-balance-container-falls-on-house-on-gujarat-highway-man-eating-inside-dies-2864369-2026-02-06",
-      "headline": "Off-balance container falls on house on Gujarat highway, man eating inside diesWhile attempting to overtake, a car driver caused a container truck to lose control and overturn. In CCTV footage, a man is seen doing chores as the truck passes the window, before he steps away moments before it crashes into the adjacent room."
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-mohammed-siraj-named-harshit-rana-replacement-india-squad-2864416-2026-02-06",
+      "headline": "T20 World Cup: Mohammed Siraj replaces injured Harshit Rana in India's squadIndia have named senior pacer Mohammed Siraj as Harshit Rana's replacement after the fast bowler was ruled out of the ICC Men's T20 World Cup 2026 with a knee injury sustained during a warm-up match."
     },
     {
       "sentiment": "positive",
@@ -255,19 +260,14 @@
       "headline": "ICE's Worst of the Worst list has 89 Indians, most convicted of financial fraudThe US Department of Homeland Security has released a database listing immigrants arrested by ICE and convicted for a range of offences. The database, which has at least 25,000 entries, also lists the names of 89 Indian offenders arrested for crimes ranging from financial fraud to sexual offences. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-shares-video-depicting-obamas-as-monkeys-gets-social-media-heat-from-democrats-2864411-2026-02-06",
-      "headline": "Trump shares video depicting Obamas as monkeys, gets social media heatA video posted by US President Donald Trump on social media featuring former President Barack Obama and former First Lady Michelle Obama as apes has sparked widespread criticism from Democrats. Former national security advisor Ben Rhodes said that Trump would be remembered as a \"stain\" in history."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/gurugram/story/speeding-scorpio-hits-schoolgirl-gurugram-adarsh-nagar-cctv-haryana-2864391-2026-02-06",
       "headline": "Video: Scorpio driver hits schoolgirl in Gurugram, drags her, then fleesA speeding Scorpio SUV hit a schoolgirl riding a scooter in Gurugram's Adarsh Nagar, dragging her for several metres and leaving her critically injured. \r\n\r\n"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/explosion-at-islamabads-imam-bargah-mosque-casualties-feared-2864152-2026-02-06",
-      "headline": "50 killed, over 150 injured in suicide attack in Islamabad during Friday prayersThe blast occurred while worshippers were offering Friday prayers at a Shia imambara on the outskirts of Islamabad. Videos from the site showed severed limbs strewn across the area, as locals and victims' family members gathered, desperately searching for their loved ones."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-shares-video-depicting-obamas-as-monkeys-gets-social-media-heat-from-democrats-2864411-2026-02-06",
+      "headline": "Trump shares video depicting Obamas as monkeys, gets social media heatA video posted by US President Donald Trump on social media featuring former President Barack Obama and former First Lady Michelle Obama as apes has sparked widespread criticism from Democrats. Former national security advisor Ben Rhodes said that Trump would be remembered as a \"stain\" in history."
     },
     {
       "sentiment": "positive",
@@ -323,6 +323,16 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-captaincy-smile-india-world-cup-2864452-2026-02-06",
+      "headline": "T20 World Cup to defend, home crowd to please and Suryakumar Yadav just smiling away T20 World Cup 2026: Suryakumar Yadav leads India under immense World Cup pressure with a constant smile. Calm in chaos, he trusts preparation and people, carrying expectation lightly as Indian captaincy demands everything.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/t20-world-cup-2026-pakistan-calling-bcci-bullies-easy-excuse-sunil-gavaskar-rajdeep-sardesai-2864444-2026-02-06",
+      "headline": "T20 World Cup: Pakistan calling BCCI bullies is the easiest excuse, says Gavaskar Sunil Gavaskar hit back at Pakistan's claims of calling the Board of Control for Cricket in India (BCCI) bullies in the whole T20 World Cup controversy, with the nation opting to boycott their game against India. In the T20 World Cup roundtable hosted by Rajdeep Sardesai, Gavaskar said that the decision to remove Bangladesh from the tournament was one taken by a vote where 14 teams were for the move, while 2 other member nations were against it altogether.\u00a0"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/u19-world-cup-final-vaibhav-suryavanshi-175-vs-england-whatsapp-message-coach-2864438-2026-02-06",
       "headline": "How a WhatsApp message fuelled Vaibhav Sooryavanshi's 175 in the final A quiet WhatsApp reminder from his childhood coach preceded a night of calculated brutality. 14-year-old Vaibhav Sooryavanshi dismantled England in the U19 World Cup final, hitting 175, including 15 sixes and as many boundaries in Harare on Friday. "
     },
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/icc-t20-world-cup-2026-pakistan-banned-india-boycott-ex-bcci-president-anurag-thakur-2864246-2026-02-06",
-      "headline": "Pakistan should be banned for refusing to play India in T20 World Cup: Anurag Thakur ICC T20 World Cup 2026: Former BCCI president and BJP MP, Anurag Thakur has called for the ICC to take strong action against Pakistan for their boycott of their group-stage game against India. "
+      "headline": "Pakistan should be banned for refusing to play India in T20 World Cup: Anurag ThakurICC T20 World Cup 2026: Former BCCI president and BJP MP, Anurag Thakur has called for the ICC to take strong action against Pakistan for their boycott of their group-stage game against India. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-suryavanshi-175-u19-world-cup-final-records-broken-ind-vs-eng-2864166-2026-02-06",
-      "headline": "Vaibhav 175: No double, but he shatters records in U19 World Cup final Vaibhav Sooryavanshi produced one of the most commanding innings in Under-19 World Cup history, scoring a stunning 175 off 80 balls in the final of the ICC Men's Under-19 World Cup against England at Harare. The 14-year-old left-hander's knock put India in complete control of the title clash and left England struggling to contain the onslaught."
+      "headline": "Vaibhav 175: No double, but he shatters records in U19 World Cup finalVaibhav Sooryavanshi produced one of the most commanding innings in Under-19 World Cup history, scoring a stunning 175 off 80 balls in the final of the ICC Men's Under-19 World Cup against England at Harare. The 14-year-old left-hander's knock put India in complete control of the title clash and left England struggling to contain the onslaught."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-on-how-gautam-gambhir-removed-personal-milestone-obsession-2863783-2026-02-05",
       "headline": "Gautam Gambhir has changed team's milestone-obsessed mindset: Suryakumar YadavIndia captain Suryakumar Yadav praised head coach Gautam Gambhir for prioritising team goals over personal milestones. The India captain sakid that the shift has fuelled India's dominant run in T20 cricket and boosted team unity."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/video/t20-world-cup-captains-press-conference-suryakumar-yadav-2863761-2026-02-05",
-      "headline": "India ready to play Pakistan in T20 World Cup, will travel to Colombo: SuryakumarT20 World Cup 2026: India captain Suryakumar Yadav said the Men in Blue will travel to Colombo for the February 15 match, despite Pakistan threatening a boycott. Suryakumar said the matter is beyond his control, adding that even the International Cricket Council finds it difficult to intervene when decisions are driven by the Pakistan government."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/chetan-sharma-on-pakistan-t20-world-cup-boycott-reversal-bangladesh-elections-2863746-2026-02-05",
-      "headline": "Pak will make a U-turn on India boycott stance after February 12: Chetan SharmaFormer India pacer Chetan Sharma expects Pakistan to reverse their boycott of the India match after the Bangladesh elections. The Pakistan government have denied permission to their cricket team to play against India."
     }
   ],
   "education": [
