@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/closing-bell-sensex-ends-485-points-higher-nifty-above-25800-sbi-jumps-8-percent-2865436-2026-02-09",
+      "headline": "Sensex ends 485 points higher, Nifty above 25,800; SBI jumps 8%The S&P BSE Sensex added 485.35 points to end at\u00a084,065.75, while the NSE Nifty50 gained 173.50 points to close at\u00a025,867.30.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/who-settles-insurance-claims-fastest-2026-irdai-claim-settlement-ratio-life-insurers-2865430-2026-02-09",
+      "headline": "Who settles insurance claims fastest in 2026? Check if your insurer is in top 10Many people buy insurance to make sure their family is financially safe if something unexpected happens. But buying a policy is only one part of the decision. The bigger question is whether the insurer will actually pay the claim on time."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/draft-income-tax-rules-2026-and-new-forms-out-what-changes-for-taxpayers-2865383-2026-02-09",
       "headline": "Draft Income-tax Rules 2026 and new forms out: What changes for taxpayers?The drafts have been opened for public comments for 15 days, until February 22, 2026. The tax department has invited taxpayers, professionals and industry bodies to review the proposals and share feedback, saying the aim is to make the rule-making process more participative and practical."
     },
@@ -89,19 +99,54 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-us-interim-trade-deal-500-billion-products-tariff-trump-modi-washington-2864515-2026-02-07",
       "headline": "India to buy $500 billion of US goods in 5 years as new trade deal cuts tariffsIndia's USD 500 billion buying plan will anchor the interim trade framework, as New Delhi will cut tariffs on US goods and Washington will lower duties on Indian exports to 18 per cent under the proposed bilateral pact."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-us-interim-trade-agreement-framework-key-points-benefits-explained-2864509-2026-02-07",
-      "headline": "18% tariff, wider US market access: How India gains from trade pact with USIndia and the US have finally agreed on a framework for an interim trade agreement. In this article, we break down what it means and why it matters for India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-us-trade-deal-framework-trump-tariffs-markets-open-lakhs-of-jobs-piyush-goyal-2864501-2026-02-07",
-      "headline": "Tariffs to fall, markets to open, lakhs of jobs: Piyush Goyal on India-US dealThe agreement will see the US cut reciprocal tariffs on Indian goods to 18 per cent and eliminate duties on products such as generic pharmaceuticals, gems and diamonds, and aircraft parts, boosting export opportunities across key sectors. "
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/asha-sarath-promises-twist-filled-climax-in-mohanlals-drishyam-3-2865479-2026-02-09",
+      "headline": "Actor Asha Sarath promises twist-filled climax in Mohanlal's Drishyam 3 Actor Asha Sarath, who returns as IG Geetha Prabhakar in Drishyam 3, says the third instalment will leave audiences stunned as it brings the Georgekutty saga to a close.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/we-really-kiss-a-lot-margot-robbie-on-how-wuthering-heights-differs-from-the-book-2865411-2026-02-09",
+      "headline": "We really kiss a lot: Margot Robbie on how Wuthering Heights differs from the book Margot Robbie drew parallels between the intimacy depicted in Emily Bronte's 1847 novel Wuthering Heights and her upcoming film adaptation of the same title. She also opened up on her kissing scenes with Jacob Elordi in the film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/oromeo-film-release-2026-shahid-kapoor-vishal-bhardwaj-vikrant-massey-tamannaah-bhatia-2865427-2026-02-09",
+      "headline": "Why Vikrant Massey and Tamannaah Bhatia worked for free in O'Romeo: Read here Ahead of O'Romeo's release, Vishal Bhardwaj reveals why Vikrant Massey and Tamannaah Bhatia worked on the film without charging a fee."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/golmaal-5-filming-march-2026-ajay-devgn-akshay-kumar-enhanced-security-2865418-2026-02-09",
+      "headline": "Golmaal 5 based on Do Aur Do Paanch? Rohit Shetty clears the air on rumours The fifth installment of the Golmaal franchise, directed by Rohit Shetty, is rumoured to be inspired by the classic comedy Do Aur Do Paanch, featuring Ajay Devgn, Akshay Kumar, and the ensemble cast. Amid such reports, Rohit Shetty has issued a clarification on the same. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rishab-shetty-wedding-anniversary-heartfelt-tribute-pragathi-shetty-2865384-2026-02-09",
+      "headline": "Rishab Shetty's note to Pragathi on wedding anniversary: Love that never ends Celebrating nine years together, Rishab Shetty shared an emotional anniversary post for wife Pragathi, reflecting on love, growth and companionship."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-raj-nidimorus-joyful-moments-at-pickleball-match-go-viral-2865378-2026-02-09",
+      "headline": "Samantha, Raj Nidimoru's joyful moments at pickleball match go viral Samantha and Raj Nidimoru were spotted enjoying the World Pickleball League match, with their easy chemistry drawing attention online."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/did-pelli-choopulu-director-call-vijay-deverakonda-film-overhyped-teaser-sparks-buzz-2865406-2026-02-09",
+      "headline": "Did Pelli Choopulu director call Vijay Deverakonda film overhyped? Teaser sparks buzz  A humorous self-referential dialogue in the Gaayapadda Simham teaser has triggered chatter online, with the actor-director clarifying it was meant purely for fun."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prakash-raj-denies-spirit-exit-dismisses-rift-rumours-with-sandeep-reddy-vanga-2865420-2026-02-09",
+      "headline": "Prakash Raj denies Spirit exit, dismisses rift rumours with Sandeep Reddy Vanga Actor Prakash Raj dismissed reports of a fallout with director Sandeep Reddy Vanga, saying his scenes for the film have not even begun."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/justin-bieber-hailey-bieber-coordinated-super-bowl-appearance-relationship-talks-2865385-2026-02-09",
+      "headline": "Why Justin and Hailey Bieber's Super Bowl appearance has everyone talking After sparking rumours with their Grammys exit, Justin and Hailey Bieber appeared together at the Super Bowl. Here's why it matters.\r\n"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-thanks-arijit-singh-for-bringing-heart-to-the-music-of-ek-din-2865365-2026-02-09",
@@ -151,54 +196,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-craves-calm-in-abu-dhabi-ahead-of-dhurandhar-the-revenge-release-2865325-2026-02-09",
       "headline": "Ranveer Singh craves calm in Abu Dhabi ahead of Dhurandhar: The Revenge release Ranveer Singh admitted that he craves for moments of serenity and calmness. Ahead of the release of Dhurandhar: The Revenge, he emphasised on the need to reconnect with his passions.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/sunil-grover-meriyaan-zulfaan-parody-viral-kapil-show-ap-dhillon-2865327-2026-02-09",
-      "headline": "After Baby Slowly Slowly, Sunil Grover drops another banger Meriyaan Zulfaan. Watch Sunil Grover's new parody song Meriyaan Zulfaan on hair loss has become a viral hit. His performance on The Great Indian Kapil Show left the audience and guests in splits."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ayesha-khan-calls-out-ai-misuse-says-morphed-content-is-becoming-normalised-2865342-2026-02-09",
-      "headline": "Ayesha Khan calls out AI misuse, says morphed content is becoming normalised Ayesha Khan spoke out against the misuse of artificial intelligence after morphed images and videos of her surfaced online, calling the trend \"very scary.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/shekhar-kapur-revisits-masoom-unlikely-journey-to-stardom-in-reflective-post-2865310-2026-02-09",
-      "headline": "Only two people watched Masoom on release day, recalls director Shekhar Kapur Shekhar Kapur reflected on the difficult opening days of his debut film Masoom, the hostile response from black marketeers, and how the film's fortunes changed unexpectedly, as he prepares for its spiritual sequel."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prakash-raj-removed-from-sandeep-reddy-vangas-spirit-due-to-heated-argument-report-2865316-2026-02-09",
-      "headline": "Prakash Raj removed from Sandeep Vanga's Spirit due to heated argument: Report Reports suggest actor Prakash Raj is no longer part of the upcoming film Spirit due to disagreements with director Sandeep Reddy Vanga, leading to speculation about changes in the cast and production schedule."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/music/story/why-did-trump-criticise-bad-bunnys-super-bowl-show-of-history-identity-culture-2865308-2026-02-09",
-      "headline": "Why Trump slammed Bad Bunny's Super Bowl show - history, identity, culture explained Bad Bunny's Super Bowl halftime show was historic, not just for its music, but for what it represented. From Puerto Rican life to Latin American history, the performance sparked a political backlash from Donald Trump that revealed deeper anxieties around culture, language and belonging in America."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/konkona-sen-sharma-netflix-accused-trust-betrayal-sexual-misconduct-release-2865300-2026-02-09",
-      "headline": "Netflix announces Konkona Sen Sharma, Pratibha Rannta's Accused. Release date out Konkona Sen Sharma and Pratibha Rannta star in Netflix's Accused, premiering February 27. The film examines trust and betrayal amid serious allegations, raising complex moral questions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/dhurandhar-producer-compares-films-success-to-sholay-no-greater-accolade-than-this-2865311-2026-02-09",
-      "headline": "Dhurandhar producer: After Sholay, can't think of a film as successful Producer Jyoti Deshpande compared the historic success of Dhurandhar to Sholay after the film crossed Rs 1000 crore at the domestic box office."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/music/story/bad-bunny-super-bowl-grammy-moment-liam-conejo-ramos-speculation-2865292-2026-02-09",
-      "headline": "Fact Check: Was boy in Bad Bunny's Super Bowl show ICE-detained Liam Conejo? Singer Bad Bunny's Super Bowl halftime show triggered an emotional theory across social media. A child, a Grammy and a viral claim. Here's what actually happened.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/leonardo-dicaprio-tobey-maguire-dance-off-turns-super-bowl-into-a-party-2865264-2026-02-09",
-      "headline": "Leonardo DiCaprio, Tobey Maguire's dance-off turns Super Bowl into a party Leonardo DiCaprio and Tobey Maguire were seen celebrating at a private Super Bowl party in San Francisco, surprising fans with their energy as they enjoyed a live performance by Ice Cube just hours before the big game."
     }
   ],
   "general news": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/wont-allow-any-impediments-in-sir-process-supreme-court-warns-states-during-ec-vs-mamata-hearing-2865485-2026-02-09",
+      "headline": "Won't allow any impediments in SIR process: Supreme Court warns states during EC vs Mamata hearingWon't allow any impediments in SIR process: Supreme Court warns states during EC vs Mamata hearing"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/himanta-sarma-has-nothing-to-prove-my-pak-links-gaurav-gogoi-hits-back-2865401-2026-02-09",
+      "headline": "Himanta ups 'Pak agent' attack, Gaurav Gogoi hits back, says his kids dragged in tooThe political tension in Assam escalates as Congress leader Gaurav Gogoi accuses Chief Minister Himanta Biswa Sarma of suppressing an SIT report and dragging his family into a political controversy."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-cricket-board-icc-meeting-t20-world-cup-ind-vs-pak-2865299-2026-02-09",
@@ -211,8 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/cuba-blackout-crisis-communist-regime-fidel-castro-us-pressure-sanctions-blockade-venezuela-oil-2865302-2026-02-09",
-      "headline": "Cuba after Venezuela? Will US blockade topple Havana's 67-year Communist ruleThe Communist regime of Cuba is facing its gravest test in decades. Following the US blockade, the sanctions-battered nation is facing acute food and fuel shortages and blackouts. Everything is converging into a big crisis. As the Trump administration tightens the screws, will Cuba's Communist regime fall like it did in Venezuela?"
+      "url": "https://www.indiatoday.in/business/story/how-norway-turned-oil-into-a-2-trillion-fund-that-may-never-run-out-2865217-2026-02-09",
+      "headline": "How Norway turned oil into a $2 trillion fund that may never run outNorway is more often known as one of the happiest countries in the world which has the best Northern Lights, not as a financial powerhouse. Yet behind this image of calm and comfort sits one of the most powerful financial institutions on the planet. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/if-this-is-their-professionalism-its-serious-sc-raps-banks-over-digital-arrests-asks-centre-to-restore-fun-2865424-2026-02-09",
+      "headline": "If this is their quality, it's serious: Supreme Court raps banks over digital fraudObserving the gravity of losses suffered by victims, the CJI said individual losses matter, noting that for an elderly couple, the loss often amounts to their entire life savings. The court said banks have a duty to protect customers and questioned why suspicious transactions are not flagged when they occur."
     },
     {
       "sentiment": "negative",
@@ -221,23 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/how-norway-turned-oil-into-a-2-trillion-fund-that-may-never-run-out-2865217-2026-02-09",
-      "headline": "How Norway turned oil into a $2 trillion fund that may never run outNorway is more often known as one of the happiest countries in the world which has the best Northern Lights, not as a financial powerhouse. Yet behind this image of calm and comfort sits one of the most powerful financial institutions on the planet. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/who-is-lamborghini-crash-accused-shivam-mishra-tycoons-son-linked-to-2024-i-t-raids-2865369-2026-02-09",
-      "headline": "Who is Lamborghini crash accused Shivam Mishra, tycoon's son linked To 2024 I-T raids?A high-speed Lamborghini crash in Kanpur has brought Shivam Mishra and his family business, Banshidhar Tobacco Group, back into the national spotlight amid ongoing controversies. \r\n"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/hdfc-bank-employee-casteist-abuse-viral-kanpur-customer-dispute-2865309-2026-02-09",
-      "headline": "I'm a Thakur: Bank employee abuses customer, tries to hit him in viral videoA video of a Kanpur bank employee verbally abusing a customer with casteist remarks has gone viral. The incident has sparked widespread outrage and calls for accountability against the employee."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/opposition-mps-remove-lok-sabha-speaker-om-birla-pm-modi-attack-allegations-2865359-2026-02-09",
-      "headline": "Opposition MPs to pass resolution to remove Lok Sabha Speaker Om Birla: SourcesThis comes after the Opposition MPs, mainly from Congress, sought action against Birla, alleging that he made defamatory allegations against them.\u00a0Last Thursday, the Lok Sabha was adjourned minutes before PM'd scheduled speech amid protests and sloganeering.\r\n\r\n"
+      "url": "https://www.indiatoday.in/world/story/cuba-blackout-crisis-communist-regime-fidel-castro-us-pressure-sanctions-blockade-venezuela-oil-2865302-2026-02-09",
+      "headline": "Cuba after Venezuela? Will US blockade topple Havana's 67-year Communist ruleThe Communist regime of Cuba is facing its gravest test in decades. Following the US blockade, the sanctions-battered nation is facing acute food and fuel shortages and blackouts. Everything is converging into a big crisis. As the Trump administration tightens the screws, will Cuba's Communist regime fall like it did in Venezuela?"
     },
     {
       "sentiment": "positive",
@@ -246,18 +246,18 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/9-schools-in-delhi-get-bomb-threat-police-bomb-squads-rush-to-spot-2865214-2026-02-09",
-      "headline": "'Delhi will become Khalistan': Bomb threat to Parliament, 9 schoolsThe bomb threats via email come\u00a0amid a surge in hoaxes that have increasingly become routine in metros, stretching emergency services and causing widespread alarm among parents and school administrators."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/ghaziabad-suicide-fresh-twist-in-sisters-suicide-case-father-chetans-third-wife-tina-was-his-employee-2865255-2026-02-09",
-      "headline": "Ghaziabad sisters' suicide: Father's lies about third wife surface amid probeThe tragic deaths of three minor sisters in Ghaziabad have revealed a complex family background marked by financial troubles and conflicting statements. The investigation is uncovering disturbing details about their home life and education, deepening the mystery."
+      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/kanpur-nicu-fire-newborn-dies-hospital-negligence-family-protests-2865399-2026-02-09",
+      "headline": "Newborn dies after NICU fire at Kanpur nursing home, family alleges negligenceA newborn girl died after a fire broke out in the NICU of a Kanpur nursing home. The family alleges negligence and a cover-up, prompting police investigation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/jobs-and-careers/story/rs-3-lakh-then-rs-3-lakh-now-a-decade-of-unchanged-fresher-pay-at-tcs-infosys-2865254-2026-02-09",
-      "headline": "Rs 3 lakh then, Rs 3 lakh now: A decade of unchanged fresher pay at TCS, InfosysFor nearly two decades, entry-level salaries in India's IT giants have remained frozen around Rs 3\u20134 LPA, even as education costs, urban living expenses, and corporate profits have surged. The result is a quiet collapse in real purchasing power for fresh engineering graduates, turning once-secure campus placements into a prolonged struggle for financial stability. "
+      "url": "https://www.indiatoday.in/india/story/nationalist-congress-party-veteran-sharad-pawar-admitted-pune-hospital-throat-related-issues-2865426-2026-02-09",
+      "headline": "NCP veteran Sharad Pawar admitted to Pune hospital due to throat-related issuesThe senior opposition leader was brought to the city from his residence in Baramati and admitted for medical evaluation as a precautionary measure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/who-is-lamborghini-crash-accused-shivam-mishra-tycoons-son-linked-to-2024-i-t-raids-2865369-2026-02-09",
+      "headline": "Who is Shivam Mishra, tobacco tycoon's son behind 2024 I-T raids, Lamborghini crash?A high-speed Lamborghini crash in Kanpur has brought Shivam Mishra and his family business, Banshidhar Tobacco Group, back into the national spotlight amid ongoing controversies. \r\n"
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-refuses-give-up-uranium-enrichment-programme-amid-oman-talks-glbs-2865157-2026-02-09",
-      "headline": "Iran refuses to give up on uranium enrichment: No one has right to dictateIranian Foreign Minister Abbas Araghchi said Tehran would not be intimidated into changing its nuclear policy and expressed deep scepticism about the United States' intentions in ongoing negotiations."
+      "url": "https://www.indiatoday.in/india/bihar/story/conspiracy-against-me-tej-pratap-yadav-denies-link-to-anushka-yadav-2865182-2026-02-09",
+      "headline": "Child is not mine: Tej Pratap denies links with Anushka, claims conspiracyClarifying his stand, Tej Pratap Yadav said he had no connection with the woman and warned of legal action over what he termed false reporting. He also strongly dismissed rumours that he had a child, alleging that the discussion was fabricated to malign his image."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/information/story/pizza-base-evolution-india-thick-crust-cheese-burst-pan-pizzas-2865380-2026-02-09",
+      "headline": "What was the original pizza base and where did it come from?Pizza's base has evolved from ancient flatbreads to India's cheese-loaded pan pizzas. This change reflects cultural preferences and a balance between comfort and tradition."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/hdfc-bank-employee-casteist-abuse-viral-kanpur-customer-dispute-2865309-2026-02-09",
+      "headline": "I'm a Thakur: Bank employee abuses customer, tries to hit him in viral videoA video of a Kanpur bank employee verbally abusing a customer with casteist remarks has gone viral. The incident has sparked widespread outrage and calls for accountability against the employee."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/h1b-visa-news-ai-boom-drives-for-foreign-workers-google-amazon-meta-apple-us-immigration-limits-forbes-report-2865317-2026-02-09",
-      "headline": "Amid gloom, H-1B visas find new use as US tech giants hire AI talent amid crackdownAs US tech giants rush to expand their operations in the artificial intelligence (AI) sector, they are becoming increasingly dependent on hiring foreign workers via the H-1B visa route, according to a Forbes report. However, measures by the Trump administration to limit the H-1B programme might erode US's competitive edge."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prakash-raj-denies-spirit-exit-dismisses-rift-rumours-with-sandeep-reddy-vanga-2865420-2026-02-09",
+      "headline": "Prakash Raj denies Spirit exit, dismisses rift rumours with Sandeep Reddy VangaActor Prakash Raj dismissed reports of a fallout with director Sandeep Reddy Vanga, saying his scenes for the film have not even begun."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/9-schools-in-delhi-get-bomb-threat-police-bomb-squads-rush-to-spot-2865214-2026-02-09",
+      "headline": "'Delhi will become Khalistan': Bomb threat to Parliament, 9 schoolsThe bomb threats via email come\u00a0amid a surge in hoaxes that have increasingly become routine in metros, stretching emergency services and causing widespread alarm among parents and school administrators."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/associate-nations-disrupt-2026-t20-world-cup-fearless-performances-2865297-2026-02-09",
-      "headline": "March of the underdogs: How associate nations are adding flair to World CupT20 World Cup 2026: Last-ball drama and Associates have provided the thrill in the opening week of the tournament, exposing cricket's new reality: there are no minnows any more, only disruptors capable of rattling giants on the biggest stage globally."
+      "url": "https://www.indiatoday.in/science/story/new-discovery-by-curiosity-rover-on-mars-sparks-hopes-of-life-on-red-planet-2865435-2026-02-09",
+      "headline": "New discovery by Nasa rover sparks hopes of life on MarsThe Curiosity rover is travelling along the lower slopes of Mount Sharp (Mars), a large mountain in the center of Gale Crater on Mars. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/ghaziabad-suicide-fresh-twist-in-sisters-suicide-case-father-chetans-third-wife-tina-was-his-employee-2865255-2026-02-09",
+      "headline": "Ghaziabad sisters' suicide: Father's lies about third wife surface amid probeThe tragic deaths of three minor sisters in Ghaziabad have revealed a complex family background marked by financial troubles and conflicting statements. The investigation is uncovering disturbing details about their home life and education, deepening the mystery."
     },
     {
       "sentiment": "positive",
@@ -286,45 +306,30 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/parliament-budget-session-live-lok-sabha-rajya-sabha-rahul-gandhi-mallikarjun-kharge-trade-deal-pm-modi-naravane-book-congress-bjp-2865172-2026-02-09",
-      "headline": "Live: Lok Sabha adjourned after Rahul Gandhi mentions Naravane memoir againParliament Budget session Live Updates: Lok Sabha has been adjourned for the day and would resume proceedings on Tuesday. On Monday, a notice to move a resolution for the removal of the Lok Sabha Speaker was likely to be submitted to the Lok Sabha Secretary General, sources said, invoking provisions under Article 94(c) of the Constitution.\r\n\r\nArticle 94(c) lays down the constitutional procedure for removing the Speaker or Deputy Speaker of the Lok Sabha. It states that they may be removed from office by a resolution of the House passed by a majority of all the then members. The provision also mandates that at least 14 days' prior notice must be given before moving such a resolution.\r\nIn their letter communication, the six opposition MPs inducing Priyanka Gandhi Vadra alleged that the Speaker was being compelled to act at the behest of the government and raised concerns over what they described as \"false, baseless and defamatory\" allegations made against women Members of Parliament from the Opposition, particularly those belonging to the Indian National Congress.\r\n\r\nThe letter also details how the MPs have allegedly been targeted and subjected to serious accusations, terming the developments a grave matter affecting the dignity of elected representatives.\r\nThe first phase of the Budget Session is set to conclude on February 13. Parliament will then adjourn for a recess before resuming on March 9. Stay with IndiaToday.in for latest updates"
+      "url": "https://www.indiatoday.in/education-today/jobs-and-careers/story/rs-3-lakh-then-rs-3-lakh-now-a-decade-of-unchanged-fresher-pay-at-tcs-infosys-2865254-2026-02-09",
+      "headline": "Rs 3 lakh then, Rs 3 lakh now: A decade of unchanged fresher pay at TCS, InfosysFor nearly two decades, entry-level salaries in India's IT giants have remained frozen around Rs 3\u20134 LPA, even as education costs, urban living expenses, and corporate profits have surged. The result is a quiet collapse in real purchasing power for fresh engineering graduates, turning once-secure campus placements into a prolonged struggle for financial stability. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijays-jana-nayagan-sent-to-revising-committee-by-censor-board-sources-2865373-2026-02-09",
-      "headline": "Vijay's Jana Nayagan sent to revising committee by censor board: SourcesVijay's fans can breathe easy as his film Jana Nayagan has been sent to the censor board's revising committee. The makers had earlier approached the Madras High Court after the board failed to issue a certificate."
+      "url": "https://www.indiatoday.in/india/story/opposition-mps-remove-lok-sabha-speaker-om-birla-pm-modi-attack-allegations-2865359-2026-02-09",
+      "headline": "Opposition MPs to pass resolution to remove Lok Sabha Speaker Om Birla: SourcesThis comes after the Opposition MPs, mainly from Congress, sought action against Birla, alleging that he made defamatory allegations against them.\u00a0Last Thursday, the Lok Sabha was adjourned minutes before PM'd scheduled speech amid protests and sloganeering.\r\n\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/highly-debatable-if-youd-be-eligible-for-bail-sc-sends-unnao-rape-convict-kuldeep-sengar-back-to-high-court-2865366-2026-02-09",
-      "headline": "Supreme Court sends Unnao rape convict Kuldeep Sengar back to High CourtA Supreme Court bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice N V Anjaria heard a petition filed by former MLA Kuldeep Singh Sengar challenging the Delhi High Court's January 19 order refusing to suspend his sentence in the custodial death case."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/bad-bunnys-super-bowl-zara-outfit-jersey-spanish-culture-watch-diamond-stud-2865315-2026-02-09",
-      "headline": "Bad Bunny's Super Bowl outfit: A style breakdownBad Bunny headlined Super Bowl's halftime show on Sunday and made it into a grand spectacle of fashion, music,and personal narratives. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/elon-musk-spacex-moon-city-mars-colonisation-nasa-artemis-starship-super-heavy-2865260-2026-02-09",
-      "headline": "Why Elon Musk wants a Moon city before his dream of colonising MarsElon Musk said his company SpaceX is prioritising plans to build a self-sustaining city on the Moon before attempting a permanent settlement on Mars. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/tiny-particles-reveal-new-clues-about-asteroid-behind-rajasthans-ramgarh-crater-2865375-2026-02-09",
-      "headline": "What made the 3.5-km-wide crater in Rajasthan? Tiny particles revealThe Ramgarh crater is located near Ramgarh village in Baran district, southeastern Rajasthan, and is widely believed to be the result of an ancient impact."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/music/story/why-did-trump-criticise-bad-bunnys-super-bowl-show-of-history-identity-culture-2865308-2026-02-09",
-      "headline": "Why Trump slammed Bad Bunny's Super Bowl show - history, identity, culture explainedBad Bunny's Super Bowl halftime show was historic, not just for its music, but for what it represented. From Puerto Rican life to Latin American history, the performance sparked a political backlash from Donald Trump that revealed deeper anxieties around culture, language and belonging in America."
+      "url": "https://www.indiatoday.in/sports/cricket/story/associate-nations-disrupt-2026-t20-world-cup-fearless-performances-2865297-2026-02-09",
+      "headline": "March of the underdogs: How associate nations are adding flair to World CupT20 World Cup 2026: Last-ball drama and Associates have provided the thrill in the opening week of the tournament, exposing cricket's new reality: there are no minnows any more, only disruptors capable of rattling giants on the biggest stage globally."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/zimbabwe-vs-oman-live-score-t20-world-cup-updates-colobmo-2865391-2026-02-09",
-      "headline": "Zimbabwe vs Oman live score: T20 World Cup updates from Colombo Zimbabwe (ZIM) vs Oman (OMA) T20 World Cup 2026 live cricket score: Zimbabwe will begin their T20 World Cup campaign against Oman at Sinhalese Sports Club in Colombo on Monday. Having drawn with the likes of Australia, Sri Lanka and Ireland, Zimbabwe will be keen on making a winning start. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/karnataka-beats-mumbai-four-wickets-ranji-trophy-semifinals-kl-rahul-century-2865444-2026-02-09",
+      "headline": "KL Rahul hundred knocks Mumbai out, powers Karnataka to semifinal Karnataka secured a semifinal berth in the Ranji Trophy by successfully chasing down a target of 325 against Mumbai, ending the defending champions' campaign and reviving hopes for their first title since 2015. KL Rahul was the star of Karnataka's win as he hit a hundred in the fourth innings in Mumbai. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-jammu-kashmir-reach-semis-1st-time-auqib-nabi-12-wicket-2865440-2026-02-09",
+      "headline": "Jammu and Kashmir reach semis for 1st time after Nabi's 12-wicket haul Sixty-seven years after their first appearance in the Ranji Trophy, Jammu and Kashmir made history by reaching the semi-finals for the first time with a stirring 56-run victory over Madhya Pradesh in Indore."
     },
     {
       "sentiment": "positive",
@@ -369,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/davis-cup-who-is-dhakshineswar-suresh-netherlands-stunned-guy-de-ouden-yuki-bhambri-2865241-2026-02-09",
-      "headline": "Who is Dhakshineswar Suresh? India's Davis Cup star who left Netherlands stunned Dhakshineswar Suresh announced himself as India's newest Davis Cup hero, sweeping all three rubbers against the Netherlands. The 25-year-old's stunning weekend powered India into Qualifiers Round 2 for the first time since 2019."
+      "headline": "Who is Dhakshineswar Suresh? India's Davis Cup star who left Netherlands stunnedDhakshineswar Suresh announced himself as India's newest Davis Cup hero, sweeping all three rubbers against the Netherlands. The 25-year-old's stunning weekend powered India into Qualifiers Round 2 for the first time since 2019."
     },
     {
       "sentiment": "negative",
@@ -460,16 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-u19-world-cup-team-of-the-tournament-2865056-2026-02-08",
       "headline": "Vaibhav Sooryavanshi headlines ICC U19 Team of the Tournament, 3 Indians in XIThe ICC has announced the team of the tournament for the U19 World Cup. Vaibhav Sooryavanshi headlines the side which has 3 Indian players. India earlier hammered England in the final of the tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-t20-world-cup-noor-ahmad-omission-new-zealand-chennai-2865046-2026-02-08",
-      "headline": "Did Afghanistan miss Noor Ahmad trick? Trott clarifies surprise call after NZ lossT20 World Cup, NZ vs AFG: Jonathan Trott defended Afghanistan's decision to leave out Noor Ahmad against New Zealand, saying the selection was right and blaming the defeat on the pacers' failure to execute rather than the absence of a specialist spinner."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nepal-cricket-fans-vibrant-support-t20-world-cup-qualification-wankhede-mumbai-2865008-2026-02-08",
-      "headline": "Mumbai or Kathmandu? Passionate Nepal fans paint Wankhede red in England clashNepal fans flocked to Wankhede Stadium in Mumbai for their T20 World Cup clash against England on Sunday. The passionate support underlined how Nepal's fans have long been the backbone of the national team, turning up in numbers and lending their voices wherever the side plays across the world."
     }
   ],
   "education": [
