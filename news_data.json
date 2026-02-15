@@ -323,6 +323,11 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/india-vs-pakistan-t20-world-cup-pak-coach-mike-hesson-post-match-press-conference-2868752-2026-02-16",
+      "headline": "Fearless Ishan Kishan took the game away from Pakistan: Pak coach Mike Hesson India vs Pakistan, ICC T20 World Cup: Pakistan head coach Mike Hesson said it was Ishan Kishan's counter-attacking knock, rather than the top-order collapse, that proved to be the difference between the two sides in Pakistan's 61-run defeat to India in Colombo.\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-fan-breaks-tv-t20-world-cup-loss-reactions-2868747-2026-02-15",
       "headline": "Heartbroken Pakistan fan smashes TV after humbling loss to India in Colombo T20 World Cup, IND vs PAK: A heartbroken Pakistan supporter was filmed smashing his television set following the team's crushing 61-run defeat to India in Colombo. He was just one of millions left reeling after Sunday's humbling at the hands of their arch-rivals."
     },
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/devdutt-padikkal-unbeaten-ranji-semi-final-india-test-no3-claim-2868689-2026-02-15",
-      "headline": "Devdutt Padikkal puts hands up for India Test No.3 with stunning Ranji semis century Ranji Trophy 2025-26: Devdutt Padikkal scored 148 off 236 balls against Uttarakhand, guiding Karnataka to a commanding 355 for two at stumps on Day 1 at the Ekana Stadium in Lucknow."
+      "headline": "Devdutt Padikkal puts hands up for India Test No.3 with stunning Ranji semis centuryRanji Trophy 2025-26: Devdutt Padikkal scored 148 off 236 balls against Uttarakhand, guiding Karnataka to a commanding 355 for two at stumps on Day 1 at the Ekana Stadium in Lucknow."
     },
     {
       "sentiment": "positive",
@@ -455,11 +460,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-t20-world-cup-toughest-test-yet-dinesh-karthik-colombo-2868463-2026-02-15",
       "headline": "India to face toughest test yet against Pakistan in Colombo clash: Dinesh KarthikT20 World Cup: Dinesh Karthik feels India could face their toughest Pakistan test in Colombo. With Usman Tariq's spin threat and Pakistan's improved T20 World Cup 2026 form, Sunday's clash promises a real battle."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-abhishek-sharma-harbhajan-singh-mohammad-amir-t20-world-cup-2868450-2026-02-15",
-      "headline": "Abhishek will haunt Pakistan again: Harbhajan slams Amir for slogger remarkHarbhajan Singh fired back at Mohammad Amir for his slogger remark on Abhishek Sharma before warning the former pacer that the Indian opener can haunt Pakistan once again. Abhishek is expected to be back in the starting lineup for the India vs Pakistan clash.  "
     }
   ],
   "education": [
