@@ -323,6 +323,11 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-virat-kohli-dinesh-karthik-goat-debate-t20-world-cup-2869316-2026-02-17",
+      "headline": "Kohli would never give up: Dinesh Karthik rips into Babar Azam, ends GOAT debate Dinesh Karthik reignited the Kohli vs Babar debate after Pakistan's loss, calling Babar's shot \"submission\" and saying Virat Kohli would never give up under pressure."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-australia-t20-world-cup-2869298-2026-02-16",
       "headline": "Match vs AUS one of Sri Lanka's best performances in recent past: Shanaka T20 World Cup: Sri Lanka beat Australia in the T20 World Cup to qualify for the Super 8s. After the win, captain Dasun Shanaka called the game one of Sri Lanka's finest in the recent past."
     },
@@ -369,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/afg-vs-uae-t20-world-cup-2026-azmatullah-omarzai-afghanistan-super-8-hopes-2869007-2026-02-16",
-      "headline": "All-round Azmat helps Afghanistan beat UAE, remain in Super 8s race T20 World Cup: Azmatullah Omarzai's all-round brilliance has powered Afghanistan to a five-wicket win over UAE in New Delhi to remain in the race to reach the Super 8 stage of the T20 World Cup 2026. "
+      "headline": "All-round Azmat helps Afghanistan beat UAE, remain in Super 8s raceT20 World Cup: Azmatullah Omarzai's all-round brilliance has powered Afghanistan to a five-wicket win over UAE in New Delhi to remain in the race to reach the Super 8 stage of the T20 World Cup 2026. "
     },
     {
       "sentiment": "positive",
@@ -460,11 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-afghanistan-uae-england-italy-australia-sri-lanka-super-8-battle-preview-2868597-2026-02-16",
       "headline": "Matchday Preview: Struggling Australia look to breathe life into their campaignT20 World Cup: Day 10 of the tournament features crucial clashes in Delhi, Kolkata and Pallekele as Afghanistan face UAE, England meet Italy and Australia take on Sri Lanka in matches that could shape the Super 8 race."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/ind-vs-pak-t20-world-cup-axar-patel-team-man-press-conference-colombo-2868756-2026-02-16",
-      "headline": "IND vs PAK: Axar Patel focused on being a team man, not stressed about changing rolesHere is the full transcript of India all-rounder Axar Patel's press conference after their 61-run loss to India in the Group A clash in the ICC Men's T20 World Cup in Colombo."
     }
   ],
   "education": [
