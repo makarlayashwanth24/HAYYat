@@ -201,13 +201,13 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/galgotias-universitys-robotic-dog-ai-summit-row-government-says-exhibitors-must-not-display-items-that-arent-theirs-2870619-2026-02-18",
-      "headline": "Exhibitors mustn't display items that aren't theirs: Centre on AI Summit rowGalgotias University was expelled from the AI Impact Summit 2026 for presenting a commercially available Chinese robot as their own creation. "
+      "url": "https://www.indiatoday.in/world/story/iran-rushes-to-turn-nuclear-sites-into-hardened-bunkers-satellite-images-reveal-2870684-2026-02-19",
+      "headline": "Iran rushes to turn nuclear sites into bunkers, satellite images revealSatellite imagery shows Iran burying and reinforcing key nuclear facilities with concrete, soil and upgraded air defenses, as US military pressure grows and diplomatic talks continue over Tehran's nuclear programme."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-rushes-to-turn-nuclear-sites-into-hardened-bunkers-satellite-images-reveal-2870684-2026-02-19",
-      "headline": "Iran rushes to turn nuclear sites into bunkers, satellite images revealSatellite imagery shows Iran burying and reinforcing key nuclear facilities with concrete, soil and upgraded air defenses, as US military pressure grows and diplomatic talks continue over Tehran's nuclear programme."
+      "url": "https://www.indiatoday.in/india/story/galgotias-universitys-robotic-dog-ai-summit-row-government-says-exhibitors-must-not-display-items-that-arent-theirs-2870619-2026-02-18",
+      "headline": "Exhibitors mustn't display items that aren't theirs: Centre on AI Summit rowGalgotias University was expelled from the AI Impact Summit 2026 for presenting a commercially available Chinese robot as their own creation. "
     },
     {
       "sentiment": "negative",
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-family-trademark-airport-services-naming-rights-brand-protection-glbs-2870648-2026-02-18",
-      "headline": "Trump wants his name on US airports, his family business files trademark rightsThe Trump Organization, led by Donald Trump Jr. and Eric Trump, said the filings were not about making money but about guarding the family name against 'bad actors'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/eight-of-15-skiers-caught-in-california-avalanche-near-lake-tahoe-confirmed-dead-glbs-2870671-2026-02-19",
-      "headline": "Eight of 15 skiers caught in California avalanche confirmed dead, one still missingThe avalanche struck Tuesday morning in the Castle Peak area near Donner Summit, north of Interstate 80, after a massive winter storm dumped heavy snow across the region. Authorities received a 911 call reporting that as many as 15 skiers had been buried."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-iran-war-imminent-countries-brink-of-war-tehran-washington-nuclear-talks-ayatollah-khamenei-donald-trump-2870610-2026-02-18",
       "headline": "US-Iran war imminent, can go on for weeks; Israel preparing for scenario: ReportAccording to Axios, US officials believe that if military action is launched, it would not be limited or symbolic but instead a sustained, multi-week campaign. A White House official was quoted as putting the chances of a strike in the coming weeks at 90 percent."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/at-infosys-we-were-building-ai-platform-10-years-ago-now-it-is-all-in-past-vishal-sikka-2870203-2026-02-18",
+      "headline": "At Infosys we were building AI platform 10 years ago, now it is all in past: Vishal SikkaSpeaking at the India Today AI Summit 2026, former Infosys CEO Vishal Sikka on Wednesday revealed that the Indian IT giant could have been a frontrunner in AI if it had persisted with its initial approach. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-2026-shivam-dube-ms-dhoni-advice-short-ball-india-netherlands-2870666-2026-02-19",
+      "headline": "T20 World Cup: How Dhoni's advice helped Shivam Dube overcome his short-ball weaknessT20 World Cup 2026: Shivam Dube credits MS Dhoni's advice for helping him overcome his short-ball struggles. The all-rounder's 66 against the Netherlands proves how far he's come since those early IPL days."
     },
     {
       "sentiment": "positive",
@@ -246,13 +246,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shivam-dube-t20-world-cup-2026-ind-vs-ned-beat-netherlands-unbeaten-super-8s-2870638-2026-02-18",
-      "headline": "Dube delivers on Surya's wish as India beat Netherlands in AhmedabadIND vs NED, T20 World Cup 2026: Suryakumar Yadav made a wish at the toss. Shivam Dube made it come true under the Ahmedabad lights as India beat Netherlands by 17 runs to maintain their perfect record in the group stages.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/galgotias-apologises-for-robodog-row-says-hod-communications-ill-informed-not-authorised-to-speak-to-press-2870444-2026-02-18",
-      "headline": "Galgotias blames Comms head for robodog row: Ill-informed, not authorised to speakGalgotias University has publicly apologised for misinformation provided by an unauthorised staff member at the recent AI Summit. The university said it is commitment to transparency and has vacated the event premises following the controversy.\r\n"
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-family-trademark-airport-services-naming-rights-brand-protection-glbs-2870648-2026-02-18",
+      "headline": "Trump wants his name on US airports, his family business files trademark rightsThe Trump Organization, led by Donald Trump Jr. and Eric Trump, said the filings were not about making money but about guarding the family name against 'bad actors'."
     },
     {
       "sentiment": "positive",
@@ -261,13 +256,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/galgotias-apologises-for-robodog-row-says-hod-communications-ill-informed-not-authorised-to-speak-to-press-2870444-2026-02-18",
+      "headline": "Galgotias blames Comms head for robodog row: Ill-informed, not authorised to speakGalgotias University has publicly apologised for misinformation provided by an unauthorised staff member at the recent AI Summit. The university said it is commitment to transparency and has vacated the event premises following the controversy.\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/french-president-emmanuel-macron-ai-generated-photo-pm-modi-ai-impact-summit-2026-2870571-2026-02-18",
       "headline": "Macron shares AI-generated photo with PM Modi: Ready for AI Impact SummitIndia and France have already unveiled plans to establish key collaborative institutions, including the Indo-French Centre for AI in Health, the Indo-French Centre for Digital Science and Technology, and a National Centre of Excellence for Skilling in Aeronautics."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/google-spending-15-billion-to-build-ai-in-india-plans-a-us-india-sea-cable-link-2870414-2026-02-18",
-      "headline": "Google spending $15 billion to build AI in India, plans a US-India sea cable linkAt India AI Impact Summit, Google has announced that it will connect India with the US through new subsea cables as part of a $15 billion investment spread over five years. It will boost AI connectivity between the two nations. Alongside this, the company plans to expand data centres and cloud capacity, while also rolling out AI skilling programmes and other related initiatives."
+      "url": "https://www.indiatoday.in/world/us-news/story/eight-of-15-skiers-caught-in-california-avalanche-near-lake-tahoe-confirmed-dead-glbs-2870671-2026-02-19",
+      "headline": "Eight of 15 skiers caught in California avalanche confirmed dead, one still missingThe avalanche struck Tuesday morning in the Castle Peak area near Donner Summit, north of Interstate 80, after a massive winter storm dumped heavy snow across the region. Authorities received a 911 call reporting that as many as 15 skiers had been buried."
     },
     {
       "sentiment": "negative",
@@ -276,8 +276,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-news-bnp-tarique-rahman-cabinet-mohammad-yunus-next-president-2870307-2026-02-18",
-      "headline": "Will Muhammad Yunus become Bangladesh President?Earlier, speculation about whether Bangladesh's interim administration chief, Muhammad Yunus, would become the country's next President would have been dismissed outright. But after his National Security Adviser, Khalilur Rahman, was inducted as Foreign Minister into PM Tarique Rahman's BNP Cabinet, the idea couldn't be fully discarded."
+      "url": "https://www.indiatoday.in/sports/cricket/story/shivam-dube-t20-world-cup-2026-ind-vs-ned-beat-netherlands-unbeaten-super-8s-2870638-2026-02-18",
+      "headline": "Dube delivers on Surya's wish as India beat Netherlands in AhmedabadIND vs NED, T20 World Cup 2026: Suryakumar Yadav made a wish at the toss. Shivam Dube made it come true under the Ahmedabad lights as India beat Netherlands by 17 runs to maintain their perfect record in the group stages.\r\n"
     },
     {
       "sentiment": "positive",
@@ -286,8 +286,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/google-spending-15-billion-to-build-ai-in-india-plans-a-us-india-sea-cable-link-2870414-2026-02-18",
+      "headline": "Google spending $15 billion to build AI in India, plans a US-India sea cable linkAt India AI Impact Summit, Google has announced that it will connect India with the US through new subsea cables as part of a $15 billion investment spread over five years. It will boost AI connectivity between the two nations. Alongside this, the company plans to expand data centres and cloud capacity, while also rolling out AI skilling programmes and other related initiatives."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-news-bnp-tarique-rahman-cabinet-mohammad-yunus-next-president-2870307-2026-02-18",
+      "headline": "Will Muhammad Yunus become Bangladesh President?Earlier, speculation about whether Bangladesh's interim administration chief, Muhammad Yunus, would become the country's next President would have been dismissed outright. But after his National Security Adviser, Khalilur Rahman, was inducted as Foreign Minister into PM Tarique Rahman's BNP Cabinet, the idea couldn't be fully discarded."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-daughter-in-law-lara-trump-social-media-ban-for-teens-glbs-2870630-2026-02-18",
       "headline": "Will Donald Trump impose social media ban for teens? Daughter-in-law reveals planGlobal efforts to curb children's social media use are reaching US politics as Lara Trump says Donald Trump is open to age limits after discussing international rules. She backs regulation and a strict no-screen policy for her own children."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/galgotias-university-ai-summit-row-timeline-rs-350-crore-ai-bet-to-robodog-fraud-2870198-2026-02-18",
+      "headline": "From Rs 350 crore AI bet to robodog row: The 12-day Galgotias AI spiralGalgotias University announced a Rs 350+ crore AI push days before the AI Impact Summit 2026. At the summit, a Chinese robodog was presented as campus-developed, triggering backlash, late-night clarifications, and reports of eviction. In less than two weeks, a flagship AI showcase turned into a credibility crisis."
     },
     {
       "sentiment": "negative",
@@ -301,26 +316,16 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/galgotias-university-ai-summit-row-timeline-rs-350-crore-ai-bet-to-robodog-fraud-2870198-2026-02-18",
-      "headline": "From Rs 350 crore AI bet to robodog row: The 12-day Galgotias AI spiralGalgotias University announced a Rs 350+ crore AI push days before the AI Impact Summit 2026. At the summit, a Chinese robodog was presented as campus-developed, triggering backlash, late-night clarifications, and reports of eviction. In less than two weeks, a flagship AI showcase turned into a credibility crisis."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/rajasthan-bjp-mla-bahadur-singh-koli-girl-boy-budget-remark-row-2870585-2026-02-18",
       "headline": "Birth to son is useful: Rajasthan BJP MLA's 'girl' budget remark sparks rowA controversy broke out in the Rajasthan Assembly after BJP MLA Bahadur Singh Koli compared the BJP government's budgets to the birth of a \"son\" and the previous Congress budget to a \"daughter,\" triggering objections from Congress MLAs.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/google-launches-pixel-10a-its-most-affordable-pixel-10-series-phone-in-india-price-specs-and-more-2870535-2026-02-18",
-      "headline": "Google launches Pixel 10a: Price, specs and moreGoogle has launched the Pixel 10a in India. As you can probably tell from the name, the 10a is the most affordable member of Google's Pixel 10 series, designed from ground up to bring the Pixel experience to more people."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/sikh-nurse-attacked-australia-gym-racial-abuse-indian-dog-2870466-2026-02-18",
-      "headline": "Indian dog, go back: Sikh nurse thrashed at Australian gym in racial attackVerbal insults, racist abuse, and a thrashing left a 22-year-old Sikh nurse with a broken nose and trauma from which he is unlikely to recover anytime soon. It comes months after anti-immigration protests swept Australia."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/west-indies-italy-sri-lanka-zimbabwe-t20-world-cup-day-12-preview-2870637-2026-02-19",
+      "headline": "Matchday Preview: Zimbabwe aim to top table, Afghanistan look for pride T20 World Cup: Day 12 of the global tournament will feature three exciting clashes - West Indies take on Italy, followed by Sri Lanka facing Zimbabwe, and the day will conclude with Afghanistan facing Canada."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-2026-shivam-dube-ms-dhoni-advice-short-ball-india-netherlands-2870666-2026-02-19",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-t20-world-cup-netherlands-third-duck-equals-sanju-samson-record-2870539-2026-02-18",
-      "headline": "Abhishek Sharma's nightmare T20 World Cup continues with third duck in a row T20 World Cup 2026, IND vs NED: Abhishek Sharma registered his third duck of the competition after being dismissed by off-spinner Aryan Dutt in the Group A clash on Wednesday at the Narendra Modi Stadium in Ahmedabad."
+      "headline": "Abhishek Sharma's nightmare T20 World Cup continues with third duck in a rowT20 World Cup 2026, IND vs NED: Abhishek Sharma registered his third duck of the competition after being dismissed by off-spinner Aryan Dutt in the Group A clash on Wednesday at the Narendra Modi Stadium in Ahmedabad."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sikandar-raza-zimbabwe-t20-world-cup-2026-super-8-redemption-story-2870059-2026-02-18",
       "headline": "Muqaddar ka Sikandar: How Raza turned heartbreak into happiness for ZimbabweT20 World Cup: Zimbabwe missed out on qualifying for the tournament in 2024, but this time around, Sikandar Raza's men have secured their berth in the Super 8. It was Raza, with his inspirational leadership and attitude, aims to keep his side grounded and continue their journey towards bigger goals at the T20 World Cup 2026. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-namibia-t20-world-cup-2026-must-win-clash-colombo-2870028-2026-02-18",
-      "headline": "PAK vs NAM weather forecast: Will Pakistan suffer Australia's fate?Pakistan takes on Namibia in a crucial Group A fixture at the Sinhalese Sports Club in Colombo, needing a win to stay alive in the T20 World Cup 2026. But will the weather play spoilsport during the contest?"
     }
   ],
   "education": [
