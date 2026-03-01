@@ -99,6 +99,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-tirumala-temple-wedding-celebrations-2876151-2026-03-01",
+      "headline": "Newlyweds Rashmika-Vijay seek blessings at Tirupati temple, distribute sweets Newly-wed Vijay Deverakonda and Rashmika Mandanna sought blessings at Tirumala Temple and distributed sweets to devotees on Sunday, marking the start of a series of nationwide celebrations."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sutapa-sikdar-remembers-irrfan-on-anniversary-recalls-his-wish-to-marry-again-2876139-2026-03-01",
       "headline": "Sutapa Sikdar remembers Irrfan on anniversary, recalls his wish to marry again Sutapa Sikdar remembered late actor Irrfan on their wedding anniversary with an emotional note, recalling why they chose their wedding date and his wish to remarry after 25 years."
     },
@@ -186,23 +191,38 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/rashmika-mandanna-vijay-deverakonda-wedding-post-becomes-indias-most-liked-photo-on-instagram-2875900-2026-02-28",
       "headline": "Rashmika-Vijay's wedding pics beat Virat Kohli's World Cup win post on Instagram Rashmika Mandanna and Vijay Deverakonda have made Instagram history as their wedding pictures became the most-liked post by an Indian account. It surpassed the 24 million likes garnered by Virat Kohli's 2024 T20 World Cup winning post. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anurag-kashyap-to-sister-anubhuti-after-accused-release-2875886-2026-02-28",
-      "headline": "Keep fighting slowly: Anurag Kashyap to sister Anubhuti after Accused release Anurag Kashyap wrote a heartfelt note for sister Anubhuti Kashyap after the release of her directorial, Accused, urging her to \"keep fighting slowly\" despite mixed reviews."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/senior-cleric-ayatollah-arafi-to-serve-as-interim-supreme-leader-after-ali-khamenei-killing-iran-news-agency-2876153-2026-03-01",
-      "headline": "Senior cleric Ayatollah Arafi named interim Supreme Leader after Khamenei killingKhamenei, 86, who had ruled Iran since 1989, was killed in a large US-Israel military strike on Saturday. The operation targeted military bases, government sites and senior leadership locations, including those linked to Defence Minister Amir Naserzadeh and commander-in-chief Mohammad Pakpour."
+      "url": "https://www.indiatoday.in/world/story/israel-iran-conflict-attack-state-of-emergency-explosions-tehran-us-warnings-2875811-2026-02-28",
+      "headline": "Live: Air Force jets 'stand in' over Tehran, says Israel as it bombs Iran capitalUS-Israel's Iran Strikes Live Updates: Iran on Sunday confirmed that Supreme Leader Ayatollah Ali Khamenei was killed at his office in US\u2013Israeli strikes on Tehran, a development that marks a major escalation in the conflict that began on Saturday. The claim followed coordinated attacks by the US and Israel, with Israel saying the US-led operation \u2014 codenamed Epic Fury \u2014 involved pre-emptive strikes. US President Donald Trump confirmed a \"major combat operation\" as explosions were reported across Iran. Tehran, which vowed a \"crushing\" response to the strikes, targeted US bases across the Middle East, including in the UAE, Bahrain, Qatar and Jordan. Several countries in the region shut their airspace, while governments issued advisories urging citizens to stay indoors and avoid unnecessary movement. Follow indiatoday.in for live updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-iran-conflict-attack-state-of-emergency-explosions-tehran-us-warnings-2875811-2026-02-28",
-      "headline": "Live: Vladimir Putin condoles 'cynical murder' of Ali Khamenei, his familyUS-Israel's Iran Strikes Live Updates: Iran on Sunday confirmed that Supreme Leader Ayatollah Ali Khamenei was killed at his office in US\u2013Israeli strikes on Tehran, a development that marks a major escalation in the conflict that began on Saturday. The claim followed coordinated attacks by the US and Israel, with Israel saying the US-led operation \u2014 codenamed Epic Fury \u2014 involved pre-emptive strikes. US President Donald Trump confirmed a \"major combat operation\" as explosions were reported across Iran. Tehran, which vowed a \"crushing\" response to the strikes, targeted US bases across the Middle East, including in the UAE, Bahrain, Qatar and Jordan. Several countries in the region shut their airspace, while governments issued advisories urging citizens to stay indoors and avoid unnecessary movement. Follow indiatoday.in for live updates."
+      "url": "https://www.indiatoday.in/world/story/senior-cleric-ayatollah-arafi-to-serve-as-interim-supreme-leader-after-ali-khamenei-killing-iran-news-agency-2876153-2026-03-01",
+      "headline": "Senior cleric Ayatollah Arafi named interim Supreme Leader after Khamenei killingBorn in 1959, the 67-year-old Ayatollah Alireza Arafi is a senior figure in Iran's clerical hierarchy. Before his interim leadership role, he held several key posts at once. He heads Iran's national network of Islamic seminaries, serves as a clerical member of the Guardian Council and sits on the Assembly of Experts."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/oil-tanker-with-15-indians-on-board-hit-off-oman-coast-as-israel-iran-exchange-fresh-attacks-4-injured-2876167-2026-03-01",
+      "headline": "Indian-crewed tanker hit off Oman coast amid fresh Israel-Iran strikes; 4 injuredAn oil tanker was hit near Oman's Musandam peninsula as US-Israel strikes drew retaliatory attack from Iran, escalating tensions in Middle East. The crew comprised 15 Indians and five Iranian nationals."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/go-back-to-your-senses-your-war-is-not-with-your-neighbours-uae-president-slams-iran-2876140-2026-03-01",
+      "headline": "Return to your senses, your war is not with neighbours: UAE President warns IranPresident Mohammed bin Zayed Al Nahyan slammed Iran for targeting several provinces of the United Arab Emirates with its missiles."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sunday-special/story/insurance-mis-selling-in-india-human-cost-high-commissions-rbi-irdai-regulatory-lapses-2875939-2026-03-01",
+      "headline": "Insurance mis-selling hits families. But regulators kept ignoring it for yearsIt has taken India decades to see the seriousness and scale of insurance mis-selling for what it is. We tell you the stories of some people who suffered because of it, and why the problem was allowed to go unchecked for so long."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-t20-world-cup-preview-pitch-report-predicted-xi-semi-final-fight-kolkata-2876074-2026-03-01",
+      "headline": "West Indies, at home in Kolkata, stand between India and semifinalIND vs WI Preview, T20 World Cup: India are facing West Indies in a virtual knockout. Windies feel at home in Eden Gardens, having played two of their fixtures at the ground already. And they also have that one fond memory of 2016, where they beat England in the final of the tournament to clinch their second T20 World Cup."
     },
     {
       "sentiment": "positive",
@@ -220,9 +240,9 @@
       "headline": "Dubai airport, iconic Burj Al Arab hotel damaged in Iranian missile strikesOne of the terminals at the airport, normally one of the world's busiest aviation hubs, was damaged during an overnight Iranian attack that authorities publicly referred to only as an \"incident.\""
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/go-back-to-your-senses-your-war-is-not-with-your-neighbours-uae-president-slams-iran-2876140-2026-03-01",
-      "headline": "Return to your senses, your war is not with neighbours: UAE President warns IranPresident Mohammed bin Zayed Al Nahyan slammed Iran for targeting several provinces of the United Arab Emirates with its missiles."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/khamenei-killing-iran-us-israel-strikes-russia-putin-condoles-supreme-leader-cynical-murder-middle-east-2876174-2026-03-01",
+      "headline": "Khamenei's cynical murder violated human morality norms: Putin's message to IranIran's Supreme Leader Ayatollah Ali Khamenei, 86, was killed on Saturday following a large-scale military offensive carried out by Israel and the United States across the Islamic nation. "
     },
     {
       "sentiment": "positive",
@@ -236,28 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/insurance-mis-selling-in-india-human-cost-high-commissions-rbi-irdai-regulatory-lapses-2875939-2026-03-01",
-      "headline": "Insurance mis-selling hits families. But regulators kept ignoring it for yearsIt has taken India decades to see the seriousness and scale of insurance mis-selling for what it is. We tell you the stories of some people who suffered because of it, and why the problem was allowed to go unchecked for so long."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-t20-world-cup-preview-pitch-report-predicted-xi-semi-final-fight-kolkata-2876074-2026-03-01",
-      "headline": "West Indies, at home in Kolkata, stand between India and semifinalIND vs WI Preview, T20 World Cup: India are facing West Indies in a virtual knockout. Windies feel at home in Eden Gardens, having played two of their fixtures at the ground already. And they also have that one fond memory of 2016, where they beat England in the final of the tournament to clinch their second T20 World Cup."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-tirumala-temple-wedding-celebrations-2876151-2026-03-01",
+      "headline": "Newlyweds Rashmika-Vijay seek blessings at Tirupati temple, distribute sweetsNewly-wed Vijay Deverakonda and Rashmika Mandanna sought blessings at Tirumala Temple and distributed sweets to devotees on Sunday, marking the start of a series of nationwide celebrations."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/trump-warns-iran-of-unprecedented-force-if-tehran-strikes-after-khameneis-death-promises-strong-retaliation-2876089-2026-03-01",
       "headline": "Trump issues tit-for-tat warning for Iran, vows to use 'never seen before force'The warning came after the Islamic Revolutionary Guard Corps said that the murderers of Khamenei would be punished."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-us-war-iranian-president-two-other-to-lead-iran-during-transitional-phase-2876079-2026-03-01",
-      "headline": "Iran President, 2 others to lead transition after Khamenei's killingThe country will also look for the next Supreme Leader who will succeed Khamenei after his death. The responsibility will be bestowed on a body of clerics."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-content-creators-cringe-david-miller-reel-cupcake-ad-influencers-journalists-access-2876094-2026-03-01",
-      "headline": "When cricket took a backseat as cringe ads and influencers took overT20 World Cup: This is not about influencers versus journalists. It is about why access is being decided by follower count instead of understanding of the game."
     },
     {
       "sentiment": "positive",
@@ -271,8 +276,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/khamenei-daughter-grandchild-killed-in-us-israel-strikes-says-iranian-state-media-2876054-2026-03-01",
-      "headline": "Khamenei's daughter, grandchild killed in US-Israel strikes: Iranian state mediaIsrael said nearly 200 fighter jets carried out what it described as the largest aerial mission in its history, striking about 500 targets across Iran, including strategic defence systems previously damaged in earlier attacks."
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-content-creators-cringe-david-miller-reel-cupcake-ad-influencers-journalists-access-2876094-2026-03-01",
+      "headline": "When cricket took a backseat as cringe ads and influencers took overT20 World Cup: This is not about influencers versus journalists. It is about why access is being decided by follower count instead of understanding of the game."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-576-28-02-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-board-exams-on-march-2-postponed-in-middle-east-amid-iran-us-israel-conflict-2876168-2026-03-01",
+      "headline": "CBSE postpones March 2 board exams in Middle East amid Iran-US-Israel conflictThe CBSE Class 10 and Class 12 board exams scheduled for March 2, 2026, have been postponed in several Middle East countries due to the Iran-US-Israel conflict in the region. The Board will review the situation on March 3 and announce fresh dates soon."
     },
     {
       "sentiment": "positive",
@@ -281,8 +296,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-576-28-02-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+      "url": "https://www.indiatoday.in/science/story/china-moon-landing-2030-nasa-artemis-2028-lunar-race-progress-china-manned-space-agency-science-news-2876129-2026-03-01",
+      "headline": "China races to land humans on Moon as Nasa revamps Artemis. Know moreChina announces steady advances in its crewed Moon mission with successful tests on lunar spacecraft, and a detailed 2026 space station schedule. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/khamenei-daughter-grandchild-killed-in-us-israel-strikes-says-iranian-state-media-2876054-2026-03-01",
+      "headline": "Khamenei's daughter, grandchild killed in US-Israel strikes: Iranian state mediaIsrael said nearly 200 fighter jets carried out what it described as the largest aerial mission in its history, striking about 500 targets across Iran, including strategic defence systems previously damaged in earlier attacks."
     },
     {
       "sentiment": "positive",
@@ -290,32 +310,17 @@
       "headline": "Loud blasts heard in Kabul amid clashes between Afghanistan, Pakistan forcesPakistan targeted multiple Afghan cities alleging militant safe havens, while the Taliban denied the claims and expressed willingness to resolve the crisis through dialogue. Both sides have reported casualties, though figures remain unverified."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/twenty-four-hours-conflict-west-asia-what-is-confirmed-so-far-israel-iran-tensions-us-strikes-khamenei-dead-osint-updates-2876102-2026-03-01",
-      "headline": "24 Hours of conflict in west Asia: What is confirmed so farIndia Today's OSINT team answers the most-asked questions on the widening West Asia conflict, separating verified facts from speculation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/china-moon-landing-2030-nasa-artemis-2028-lunar-race-progress-china-manned-space-agency-science-news-2876129-2026-03-01",
-      "headline": "China races to land humans on Moon as Nasa revamps Artemis. Know moreChina announces steady advances in its crewed Moon mission with successful tests on lunar spacecraft, and a detailed 2026 space station schedule. "
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/jobs/story/sam-altman-says-dont-listen-to-old-people-trust-ai-or-experience-on-career-educ-2876035-2026-03-01",
       "headline": "Sam Altman says 'don't listen to old people': Trust AI or experience on career?Handcrafted ByOur Editors Artificial Intelligence is revolutionising how we learn, work, and make decisions by compressing decades of knowledge into seconds. But experts warn that AI cannot replace the power of human mentorship, judgment, and real-world experience, skills essential for ethical decision-making, effective leadership, and long-term career growth in today's AI-driven world."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/information/story/delhi-igi-airport-flight-cancellations-amid-middle-east-airspace-crisis-2876101-2026-03-01",
-      "headline": "Travel chaos erupts as airlines cancel flights after US-Israel strikes on IranTravel chaos erupts as airlines cancel flights after US-Israel strikes on Iran, with Middle East airspace closures forcing widespread disruptions at Delhi IGI Airport and leaving thousands of passengers across South Asia stranded. Europe and gulf routes impacted as well. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iran-us-israel-conflict-disrupt-flights-84-pune-students-stranded-in-dubai-2876121-2026-03-01",
-      "headline": "84 Pune MBA students stranded in Dubai as flights halt amid Iran-US-Israel crisisEighty-four MBA students from Pune's Indira School of Business Studies are stranded in Dubai after airspace closures linked to the escalating Iran-US-Israel conflict. Institute officials say all students and staff are safe, housed in a hotel, and efforts are underway to bring them back to India soon."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-t20-world-cup-super-8-live-score-today-match-kolkata-2876169-2026-03-01",
+      "headline": "India vs West Indies Live Score, Super 8: Battle for semi-final spot in Kolkata India (IND) vs West Indies (WI) Live Score, T20 World Cup: Defending champions India, led by Suryakumar Yadav, will take on Shai Hope's West Indies in a virtual quarter-final in their final Super 8 clash of the ICC T20 World Cup 2026 on Sunday, with a semi-final spot at stake."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/video/pv-sindhu-dubai-stuck-iran-israel-us-attacks-watch-video-2876164-2026-03-01",
@@ -364,7 +369,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-t20-world-cup-washington-sundar-unchanged-playing-xi-aakash-chopra-2876085-2026-03-01",
-      "headline": "Don't make the Washington Sundar mistake: Ex-India cricketer wants unchanged XI vs WI T20 World Cup: Aakash Chopra warned India against tinkering with their Playing XI now. He stressed stability over experimentation ahead of the must-win clash vs West Indies"
+      "headline": "Don't make the Washington Sundar mistake: Ex-India cricketer wants unchanged XI vs WIT20 World Cup: Aakash Chopra warned India against tinkering with their Playing XI now. He stressed stability over experimentation ahead of the must-win clash vs West Indies"
     },
     {
       "sentiment": "positive",
@@ -450,11 +455,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/icc-contingency-plans-t20-world-cup-middle-east-conflict-travel-disruption-2875973-2026-02-28",
       "headline": "ICC working on alternate flight plans after US-Israel's Iran strikesThe ICC has activated contingency plans to protect all involved in the T20 World Cup 2026 after Middle East conflict disrupted key Gulf travel routes. This move ensures the tournament proceeds smoothly while prioritising safety amid geopolitical tensions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-mccullum-sehwag-message-rehan-ahmed-eng-vs-nz-2875954-2026-02-28",
-      "headline": "Bat like Sehwag: McCullum's message to Rehan Ahmed during NZ vs ENGRehan Ahmed revealed that Brendan McCullum told him via his walkie-talkie to bat like Virender Sehwag during the Super 8 clash against New Zealand. Rehan's cameo helped England secure the win against the Blackcaps. "
     }
   ],
   "education": [
