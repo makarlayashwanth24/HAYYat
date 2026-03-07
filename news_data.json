@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/finland-president-alexander-stubb-says-he-watched-ranveer-singh-dhurandhar-awaits-sequel-2878838-2026-03-07",
+      "headline": "Watched Dhurandhar before I came to India: Finland President can't wait for sequel Finnish President Alexander Stubb shared that he watched Ranveer Singh's Dhurandhar before his official visit to India. The film, which has garnered international attention, is now gearing up for the release of its sequel on March 19."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/dhurandhar-2-trailer-celebrity-reaction-alia-bhatt-vicky-kaushal-karan-johar-praise-ranveer-singh-film-2878812-2026-03-07",
       "headline": "Juggernaut loading: Dhurandhar 2 trailer earns praise from Alia, Vicky, Karan Johar The trailer for the highly anticipated sequel, Dhurandhar: The Revenge, was released on Saturday. It quickly drew widespread attention from Bollywood celebrities like Alia Bhatt, Vicky Kaushal and filmmaker Karan Johar, among others."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/raja-shivaji-cocktail-2-teasers-to-be-attached-to-dhurandhar-2-release-report-2878456-2026-03-06",
       "headline": "Raja Shivaji, Cocktail 2 teasers to be attached to Dhurandhar 2 release: Report The teasers for the highly anticipated films Cocktail 2 and Raja Shivaji will be attached to the theatrical release of Dhurandhar 2. The move is expected to boost excitement for the two films."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rajshri-deshpande-calls-for-open-conversations-on-cancer-lets-normalise-this-2878419-2026-03-06",
-      "headline": "Rajshri Deshpande calls for open conversations on cancer: Let's normalise this Actor Rajshri Deshpande opened up about her cancer diagnosis and emphasised the need to address the stigma around the disease. The actor, now recovering after surgery, also shared her plans to raise awareness."
     }
   ],
   "general news": [
@@ -272,7 +272,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-conflict-crisis-lebanon-dubai-saudiarabia-uae-qatar-bahrain-trump-netanyahu-mojtabakhamenei-2878019-2026-03-06",
-      "headline": "Live: Blasts in Doha, missiles intercepted in UAE as Iran strikes Gulf nations againUS-Israel-Iran War Live Updates: Tensions in the Middle East escalated on Day 8 as Iranian President Masoud Pezeshkian rejected the US call for unconditional surrender, calling it a \"dream they should take to their grave,\" while Iranian forces launched repeated attacks on Saudi Arabia, Bahrain, and the UAE. He clarified that Iran will not target neighbouring countries unless provoked, apologising to regional states and emphasising respect for their sovereignty. Meanwhile, Israel conducted another wave of airstrikes on Tehran and Isfahan, targeting military infrastructure. Qatar intercepted a missile attack, and Dubai International Airport partially resumed operations after a temporary suspension due to prior alerts. Russian President Vladimir Putin spoke with Pezeshkian, urging an immediate cessation of hostilities and resolution of disputes through diplomacy rather than force. Stay tuned to IndiaToday.in for live updates."
+      "headline": "Highlights: Blasts in Doha, missiles intercepted in UAE as Iran strikes Gulf nations againUS-Israel-Iran War Highlights: Tensions in the Middle East escalated on Day 8 as Iranian President Masoud Pezeshkian rejected the US call for unconditional surrender, calling it a \"dream they should take to their grave,\" while Iranian forces launched repeated attacks on Saudi Arabia, Bahrain, and the UAE. He clarified that Iran will not target neighbouring countries unless provoked, apologising to regional states and emphasising respect for their sovereignty. Meanwhile, Israel conducted another wave of airstrikes on Tehran and Isfahan, targeting military infrastructure. Qatar intercepted a missile attack, and Dubai International Airport partially resumed operations after a temporary suspension due to prior alerts. Russian President Vladimir Putin spoke with Pezeshkian, urging an immediate cessation of hostilities and resolution of disputes through diplomacy rather than force. Stay tuned to IndiaToday.in for live updates."
     },
     {
       "sentiment": "negative",
