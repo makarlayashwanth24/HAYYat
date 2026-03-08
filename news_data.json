@@ -104,13 +104,18 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/youtuber-anurag-dobhal-smiles-from-icu-after-live-streamed-car-crash-viral-video-2879014-2026-03-08",
+      "headline": "Viral video: YouTuber Anurag Dobhal smiles from ICU after live-streamed car crash An early video to surface after Anurag Dobhal's car crash shows the YouTuber briefly smiling while lying in a hospital bed. Fellow social media influencer Yogesh Kathuria shared the video following a hospital visit after the accident."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/akansha-ranjan-kapoor-marks-women-day-by-revealing-egg-freezing-journey-2878995-2026-03-08",
       "headline": "Akansha Ranjan Kapoor marks Women's Day by revealing egg-freezing journey Actor Akansha Ranjan Kapoor revealed her decision to freeze her eggs on Women's Day. She celebrated women's strength through an honest social media post."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/anurag-dobhal-car-crash-delhi-meerut-expressway-livestream-family-disputes-mental-health-2878975-2026-03-08",
-      "headline": "Explained: Why YouTuber Anurag Dobhal crashed his car during livestream The high-speed crash of YouTuber Anurag Dobhal, also know as UK 07 Rider, during a livestream has raised questions. Reports reveal what he said before the accident and the issues he claimed to face.\r\n"
+      "headline": "Explained: Why YouTuber Anurag Dobhal crashed his car during livestream The high-speed crash of YouTuber Anurag Dobhal, also known as UK 07 Rider, during a livestream has raised questions. Reports reveal what he said before the accident and the issues he claimed to face.\r\n"
     },
     {
       "sentiment": "positive",
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/bhooth-bangla-teaser-release-9-march-akshay-kumar-tabu-2878661-2026-03-07",
       "headline": "Bhooth Bangla teaser on Akshay Kumar's special date in March? Read all about it Akshay Kumar's upcoming horror-comedy Bhooth Bangla is gearing up for its first reveal. The makers have reportedly chosen a date in March that the actor deems special. Here's what is there to know."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-thalapathy-wife-sangeetha-files-fresh-plea-to-stay-in-matrimonial-home-2878608-2026-03-07",
-      "headline": "Vijay's wife's plea seeking residential rights surfaces amid viral pics with Trisha A fresh petition filed by Thalapathy Vijay's wife Sangeetha Sornalingam in their ongoing divorce case has surfaced, amid the Tamil actor-politician's outing with co-actor Trisha.  In her petition, Sangeetha has sought an interim court order over her right to stay in their matrimonial home.\r\n"
     }
   ],
   "general news": [
@@ -217,7 +217,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-tension-lebanon-dubai-saudiarabia-uae-qatar-bahrain-trump-netanyahu-khamenei-glbs-2878853-2026-03-08",
-      "headline": "Live: Iran's President threatens more attacks on US targetsUS-Israel-Iran War Live Updates: As the war in the Middle East rages for a ninth consecutive day, the Israeli military has warned it will target every successor of Supreme Leader Khamenei, killed in US-Israeli strikes on February 28. As hostilitied continued, Tehran was shrouded in smoke after Israeli airstrikes hit four oil storage facilities and a production transfer centre in Tehran and Alborz, killing four tanker drivers, with fuel spills igniting a \"river of fire\" along city streets. Explosions also struck Yazd, Tehran, and Isfahan, widening the conflict's impact. The Islamic Revolutionary Guard Corps claimed drone and missile strikes on Kuwait's Al-Adiri Airbase, destroying US helicopter repair centres, fuel tanks, and a command post. Also, US-Israeli jets hit workshops and a horse-riding club in Isfahan, killing 11. Earlier, the Israel Defense Forces said several Iranian F-14 jets and air defence systems at Isfahan Airport were destroyed, following previous strikes on IRGC-linked aircraft at Tehran's Mehrabad Airport. Stay tuned to IndiaToday.in for live updates."
+      "headline": "Live: Tehran blanketed in smoke after Israeli air strikes hit oil storage sitesUS-Israel-Iran War Live Updates: As the war in the Middle East rages for a ninth consecutive day, the Israeli military has warned it will target every successor of Supreme Leader Khamenei, killed in US-Israeli strikes on February 28. As hostilitied continued, Tehran was shrouded in smoke after Israeli airstrikes hit four oil storage facilities and a production transfer centre in Tehran and Alborz, killing four tanker drivers, with fuel spills igniting a \"river of fire\" along city streets. Explosions also struck Yazd, Tehran, and Isfahan, widening the conflict's impact. The Islamic Revolutionary Guard Corps claimed drone and missile strikes on Kuwait's Al-Adiri Airbase, destroying US helicopter repair centres, fuel tanks, and a command post. Also, US-Israeli jets hit workshops and a horse-riding club in Isfahan, killing 11. Earlier, the Israel Defense Forces said several Iranian F-14 jets and air defence systems at Isfahan Airport were destroyed, following previous strikes on IRGC-linked aircraft at Tehran's Mehrabad Airport. Stay tuned to IndiaToday.in for live updates."
     },
     {
       "sentiment": "positive",
@@ -245,9 +245,9 @@
       "headline": "Why Millennials and Gen Z are paying to travel with strangersHandcrafted ByOur Editors Community travel is taking off among young explorers, revealing something deeper than wanderlust. For a generation that has mastered doing everything alone, these trips offer stolen moments of connection. On crowded buses, over late-night hostel dinners, and through winding streets, where strangers become friends, and a sense of belonging quietly blooms, one shared adventure at a time."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bihar-cm-nitish-kumars-son-nishant-kumar-joins-jdu-at-party-office-in-patna-2878969-2026-03-08",
-      "headline": "Bihar CM Nitish Kumar's son Nishant Kumar joins JDU at party office in PatnaNishant took the party membership from JD(U)'s National Working President and the Rajya Sabha MP, Sanjay Jha. His entry to the party and Bihar's state politics came a few days after his father filed his Rajya Sabha nomination."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/delhi-uttam-nagar-man-killed-holi-violence-house-vandalised-protests-2878580-2026-03-07",
+      "headline": "Delhi horror: Mob goes on rampage after man beaten to death with rods on HoliDelhi's Uttam Nagar remains tense following the death of a 26-year-old man in a clash between two families from different communities on Holi."
     },
     {
       "sentiment": "positive",
@@ -271,13 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/tamil-nadu-principal-sponsors-first-flight-for-20-government-school-students-2878980-2026-03-08",
-      "headline": "Tamil Nadu principal sponsors first flight for 20 government school students20 students from Kondanur village in Tenkasi district experienced their first airplane journey, thanks to an initiative by their school principal, Michael Raj. "
+      "url": "https://www.indiatoday.in/india/story/bihar-cm-nitish-kumars-son-nishant-kumar-joins-jdu-at-party-office-in-patna-2878969-2026-03-08",
+      "headline": "Bihar CM Nitish Kumar's son Nishant Kumar joins JDU at party office in PatnaNishant took the party membership from JD(U)'s National Working President and the Rajya Sabha MP, Sanjay Jha. His entry to the party and Bihar's state politics came a few days after his father filed his Rajya Sabha nomination."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/karnataka/story/class-9-student-bed-rod-attack-karnataka-ballari-school-hostel-killed-injured-absconding-2878892-2026-03-08",
-      "headline": "Rod-wielding Class 9 student goes on rampage, kills classmate at Karnataka hostelA Class 9 student allegedly attacked his classmates with an iron at a school hostel in Karnataka's Ballari district, killing one and injuring seven others. Police launched a search to catch the accused."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/tamil-nadu-principal-sponsors-first-flight-for-20-government-school-students-2878980-2026-03-08",
+      "headline": "Tamil Nadu principal sponsors first flight for 20 government school students20 students from Kondanur village in Tenkasi district experienced their first airplane journey, thanks to an initiative by their school principal, Michael Raj. "
     },
     {
       "sentiment": "positive",
@@ -291,18 +291,23 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/karnataka/story/class-9-student-bed-rod-attack-karnataka-ballari-school-hostel-killed-injured-absconding-2878892-2026-03-08",
+      "headline": "Rod-wielding Class 9 student goes on rampage, kills classmate at Karnataka hostelA Class 9 student allegedly attacked his classmates with an iron at a school hostel in Karnataka's Ballari district, killing one and injuring seven others. Police launched a search to catch the accused."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/iran-president-masoud-pezeshkian-says-remarks-misinterpreted-enemy-sowing-rift-regime-gulf-countries-middle-east-conflict-2878962-2026-03-08",
       "headline": "Iran president says his remarks misinterpreted by enemy sowing rift in regimeIranian President Masoud Pezeshkian said his remarks about attacks affecting Gulf countries had been \"misinterpreted by the enemy,\" after his earlier apology to neighbouring states sparked political debate at home."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/indian-origin-man-madhu-raju-face-deportation-viral-video-tik-tok-dance-world-war-two-memorial-washington-dc-us-2878879-2026-03-08",
-      "headline": "Indian-origin man may face deportation over viral dance video at WW2 Memorial in USIndian-origin man Madhu Raju deleted his social media accounts after a video of him dancing at the World War II Memorial in Washington DC went viral, triggering online backlash and scrutiny over possible immigration implications in the US."
+      "url": "https://www.indiatoday.in/jobs/story/women-still-face-gender-gap-at-work-34-dont-see-equal-pay-naukri-report-educ-2878952-2026-03-08",
+      "headline": "1 in 2 women hide marriage plans in job interviews, 34% don't see equal payWorkplace inequality remains a concern, with 34 percent of women professionals saying pay parity is still missing at workplaces, while one in two women avoid sharing their marriage plans during job interviews due to fears of hiring bias, according to a recent Naukri report. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/women-still-face-gender-gap-at-work-34-dont-see-equal-pay-naukri-report-educ-2878952-2026-03-08",
-      "headline": "1 in 2 women hide marriage plans in job interviews, 34% don't see equal payWorkplace inequality remains a concern, with 34 percent of women professionals saying pay parity is still missing at workplaces, while one in two women avoid sharing their marriage plans during job interviews due to fears of hiring bias, according to a recent Naukri report. "
+      "url": "https://www.indiatoday.in/world/story/indian-origin-man-madhu-raju-face-deportation-viral-video-tik-tok-dance-world-war-two-memorial-washington-dc-us-2878879-2026-03-08",
+      "headline": "Indian-origin man may face deportation over viral dance video at WW2 Memorial in USIndian-origin man Madhu Raju deleted his social media accounts after a video of him dancing at the World War II Memorial in Washington DC went viral, triggering online backlash and scrutiny over possible immigration implications in the US."
     },
     {
       "sentiment": "positive",
@@ -313,14 +318,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/bank-insurance-mis-selling-relationship-managers-stiff-targets-sales-pressure-2878964-2026-03-08",
       "headline": "Your bank knows when an investment plan isn't right. Why is it still sold?You trust your bank for financial advice and investments. But what if the person across the desk is under pressure to sell something else? In this article, we look at how sales targets shape what bank relationship managers recommend."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/delhi-uttam-nagar-man-killed-holi-violence-house-vandalised-protests-2878580-2026-03-07",
-      "headline": "Delhi horror: Mob goes on rampage after man beaten to death with rods on HoliDelhi's Uttam Nagar remains tense following the death of a 26-year-old man in a clash between two families from different communities on Holi."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-alyssa-healy-farewell-t20-world-cup-final-perth-test-2879011-2026-03-08",
+      "headline": "After happy farewell, Alyssa Healy bids for India vs Australia Women's T20 WC final INDW vs AUSW: Alyssa Healy expressed her hope to see India and Australia clash in the Women's T20 World Cup final later this year in England. On Sunday, she led Australia to a 10-wicket victory in the Perth Test, marking her farewell match for the Aussies."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/brett-randell-six-wickets-eight-balls-first-class-cricket-record-2878982-2026-03-08",
@@ -369,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ahmedabad-crime-branch-nabs-two-black-marketing-t20-world-cup-final-tickets-2878903-2026-03-08",
-      "headline": "Ahmedabad Crime Branch nabs two for black marketing T20 World Cup final tickets Ahmedabad Crime Branch arrested two men for selling T20 World Cup final tickets at three times the original price, with police warning of strict action against black marketeers ahead of the final."
+      "headline": "Ahmedabad Crime Branch nabs two for black marketing T20 World Cup final ticketsAhmedabad Crime Branch arrested two men for selling T20 World Cup final tickets at three times the original price, with police warning of strict action against black marketeers ahead of the final."
     },
     {
       "sentiment": "positive",
@@ -404,7 +409,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-t20-world-cup-final-live-score-updates-ahmedabad-2878871-2026-03-08",
-      "headline": "T20 World Cup final live: India expected to stick by Abhishek, VarunIndia (IND) vs New Zealand (NZ) Live, T20 World Cup Final: As per reports, it is suggested that India are going to field an unchanged side, meaning that they will back Abhishek Sharma and Varun Chakravarthy despite their poor form."
+      "headline": "T20 World Cup final live: Closing ceremony to begin at 5:30 PMIndia (IND) vs New Zealand (NZ) Live, T20 World Cup Final: India have the chance to create history in Ahmedabad. But New Zealand will not be an easy side to beat. An exciting contest awaits us but before that we have a fun-filled closing ceremony featuring some of the biggest artists in the country and beyond. "
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pink-ball-test-india-women-vs-australia-day-2-report-hamilton-sutherland-2878791-2026-03-07",
       "headline": "Pink-ball Test: Sutherland stars as India women stare at a huge loss vs AustraliaAnnabel Sutherland's superb all-round display and Lucy Hamilton's incisive spell helped Australia tighten their grip on the one-off pink-ball Test against India at the WACA Ground in Perth, leaving the visitors staring at a heavy defeat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-on-varun-chakravarthy-ind-vs-nz-t20-world-cup-2026-final-2878780-2026-03-07",
-      "headline": "Will India drop Varun Chakravarthy for final? Suryakumar keeps everyone guessingIndia captain Suryakumar Yadav has expressed strong support for Varun Chakravarthy ahead of the ICC T20 World Cup 2026 final against New Zealand, emphasising the team's focus on collective performance despite the bowler's recent struggles."
     }
   ],
   "education": [
