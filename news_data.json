@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/g7-considers-emergency-oil-reserve-release-amid-gulf-crisis-2879414-2026-03-09",
+      "headline": "G7 considers emergency oil reserve release amid Gulf crisisG7 finance ministers are scheduled to hold a call with Fatih Birol, executive director of the International Energy Agency (IEA), to discuss the impact of the ongoing war involving Iran on global oil markets."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/india-inflation-impact-crude-oil-price-surge-fm-nirmala-sitharaman-iran-war-2879383-2026-03-09",
       "headline": "Can crude oil rally trigger inflation in India? FM Nirmala Sitharaman explainsReplying in writing in Parliament, Nirmala Sitharaman said domestic price levels are currently near the lower end of the Reserve Bank of India's (RBI) tolerance band, which should help limit the impact of higher crude prices on inflation."
@@ -8,7 +13,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/market-closing-bell-sensex-ends-1353-points-lower-nifty-below-24100-sbi-down-iran-war-crude-oil-2879381-2026-03-09",
-      "headline": "Sensex ends 1,353 points lower, Nifty below 24,100; SBI down 4%Sensex ends 1,353 points lower, Nifty below 24,100; SBI down 4%"
+      "headline": "Sensex, Nifty sink to near 1-year lows as crude oil jumps on Iran warThe Nifty 50 index fell 1.73% to close at 24,028.05, its lowest closing level in 10 months. The market's volatility (VIX) also surged to a 21-month-high, showing that uncertainty among investors has increased."
     },
     {
       "sentiment": "positive",
@@ -18,7 +23,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/how-lucky-number-7-helped-unravel-an-alleged-cement-cartel-report-2879324-2026-03-09",
-      "headline": "How 'lucky number 7' helped unravel an alleged cement cartel: ReportThe issue surfaced during a 2018 tender by ONGC for a cement order. When the bids were opened, the company noticed that all competing firms had quoted exactly Rs 7,000 per tonne."
+      "headline": "How 'lucky number 7' helped unravel an alleged cement cartelThe issue surfaced during a 2018 tender by ONGC for a cement order. When the bids were opened, the company noticed that all competing firms had quoted exactly Rs 7,000 per tonne."
     },
     {
       "sentiment": "positive",
@@ -94,14 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/are-bank-lockers-safe-in-india-rbi-locker-rules-bank-locker-safety-liability-insurance-guide-2878578-2026-03-07",
       "headline": "Are bank lockers still the safest place for your valuables?Bank lockers are trusted to store gold and valuables, but recent cases have raised questions about safety. At the same time, getting a bank locker itself has become increasingly difficult, with waiting lists stretching months or even years in many cities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/can-you-afford-rs-1-lakh-iphone-on-emi-calculation-best-phone-debt-trap-salary-budget-2878399-2026-03-07",
-      "headline": "Is buying a Rs 1 lakh iPhone on EMI a bad idea? Here's the math you should knowEasy EMI options offered by banks and online platforms have made it possible to buy these expensive devices with monthly payments that may appear manageable at first glance."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-ananya-panday-kalyani-priyadarshan-on-hypermasculine-trend-in-films-2879385-2026-03-09",
+      "headline": "Kareena, Ananya Panday and Kalyani Priyadarshan on hypermasculine trend in films Actors Kareena Kapoor Khan, Kalyani Priyadarshan and Ananya Panday shared their views on the growing trend of hypermasculine male characters in Indian cinema."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/what-vikram-bhatt-posted-about-vijay-trisha-amid-wedding-outing-divorce-case-2879412-2026-03-09",
+      "headline": "What Vikram Bhatt posted about Vijay-Trisha amid wedding outing, divorce case Filmmaker Vikram Bhatt defended Vijay and Trisha after the two were spotted together at a wedding amid the actor-politician's divorce battle. In a long Instagram note, Bhatt said people should stop judging actors' personal lives."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/kamal-haasan-highest-paid-actor-kalki-2898-ad-150-crore-fee-2879378-2026-03-09",
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-the-revenge-advance-booking-update-ranveer-singh-film-on-pre-sales-rampage-2879240-2026-03-09",
       "headline": "Dhurandhar The Revenge advance booking: Ranveer Singh's film on pre-sales rampage Ranveer Singh's Dhurandhar: The Revenge is already setting the box office ablaze with massive advance bookings. With over two lakh tickets sold in two days and Rs 18.11 crore collected, the film's pre-release momentum is hard to ignore."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/india-wins-t20-world-cup-2026-against-new-zealand-amitabh-bachchan-shah-rukh-khan-jr-ntr-celebrate-victory-2879232-2026-03-09",
-      "headline": "Calm, composure, dominance: Big B, SRK to Jr NTR, stars celebrate India's victory India celebrated its historic T20 World Cup victory as Bollywood and South film stars joined fans in congratulating the team online. Under Suryakumar Yadav's captaincy, India became the first side to defend the title and win the tournament on home soil."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/alia-bhatt-womens-day-card-from-daughter-raha-and-ranbir-kapoor-2879222-2026-03-09",
-      "headline": "Alia Bhatt shares heartfelt Women's Day card from daughter Raha, Ranbir Kapoor Actor Alia Bhatt revealed how her daughter Raha and husband Ranbir Kapoor made Women's Day memorable by creating a special card. She shared a thoughtful message about raising daughters."
     }
   ],
   "general news": [
@@ -205,9 +205,9 @@
       "headline": "Israel fired white phosphorus munitions over Lebanon homes, claims rights bodyThe Israeli military unlawfully used artillery-fired white phosphorus munitions over homes on March 3, 2026, in the southern Lebanese town of Yohmor, according to Human Rights Watch.  "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-updates-middle-east-crises-us-iran-israel-dubai-uae-donald-trump-netanyahu-lebanon-beirut-saudi-arabia-tehran-drones-missles-2879187-2026-03-09",
-      "headline": "Live: Toll in Israel rises to 11; UK PM Starmer calls for de-escalation in IranUS-Israel Attacks Iran Live Updates: As the Middle East war entered its 10th day, Iran launched fresh attacks on Israel and several Gulf countries on Monday, hours after state television reported that Mojtaba Khamenei, son of the country's late supreme leader, had been named his successor. The escalation rattled global markets, sending oil prices sharply higher and sparking fears that rising energy costs could fuel inflation and curb consumer spending in the United States. Meanwhile, Saudi Arabia warned Tehran it would be the \"biggest loser\" if attacks on Arab states continued after a drone strike targeted its Shaybah oil field. Follow indiatoday.in for all latest updates on the Middle East crisis."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iran-war-us-tomahawk-missile-struck-school-where-175-girls-died-2879266-2026-03-09",
+      "headline": "US struck Iran school where 175, including girls, died? What we know so farA new video purportedly shows a Tomahawk missile hitting an Iranian base located next to a school where 175 people, most of them young girls, died on the opening day of the ongoing US-Iran war. The US is the only country in the world to operate the Tomahawk missile."
     },
     {
       "sentiment": "positive",
@@ -221,18 +221,33 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-us-war-rift-in-tehran-leadership-president-masoud-pezeshkian-apology-uproar-mojtaba-khamenei-2879342-2026-03-09",
+      "headline": "Rift in Iran leadership? What President's U-turn, Mojtaba's appointment revealAlthough Iran's leadership remains united in continuing the fight against the US and Israel, signs of division are emerging in Tehran. The backlash over President Masoud Pezeshkian's apology for attacks on neighbouring states, and the appointment of Mojtaba Khamenei as the supreme leader despite resistance, suggest growing discord."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/how-lucky-number-7-helped-unravel-an-alleged-cement-cartel-report-2879324-2026-03-09",
+      "headline": "How 'lucky number 7' helped unravel an alleged cement cartelThe issue surfaced during a 2018 tender by ONGC for a cement order. When the bids were opened, the company noticed that all competing firms had quoted exactly Rs 7,000 per tonne."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/the-big-boom-theory-goat-is-dead-all-hail-new-king-jasprit-bumrah-india-vs-new-zealand-final-t20-world-cup-2879366-2026-03-09",
       "headline": "The Big BOOM Theory: GOAT is dead, all hail the new kingGOAT ruled one timeline. But GOAT's run is over. Now meet BOOM: Best Of Our Multiverse. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/trump-administration-airstrike-kharg-island-middle-east-war-us-iran-israel-strikes-tehran-gulf-2879362-2026-03-09",
-      "headline": "What is Kharg Island? Trump weighs strike on Iran's oil hub as Gulf war heats upAs the Gulf war intensifies, Kharg Island has emerged as a high-stakes flashpoint, with US President Donald Trump reportedly weighing options to strike Iran's oil hub \u2014 a move that could cripple Iran's economy but also send shockwaves through global energy markets."
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-woman-murders-husband-with-lover-help-fake-heart-attack-2879402-2026-03-09",
+      "headline": "Wife, lover kill man, pass it off as heart attack. Remarriage exposes murder plotA woman murdered her husband with the help of her lover and tried to pass it off as death due to natural causes. Her remarriage exposed the murder plot."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/law-news/story/delhi-riots-case-accused-sharjeel-imam-granted-10-day-bail-to-attend-brothers-wedding-2879403-2026-03-09",
-      "headline": "Delhi riots accused Sharjeel Imam gets 10-day bail to attend brother's weddingSharjeel Imam is among several accused booked in the larger conspiracy case linked to the communal violence that erupted in northeast Delhi in February 2020. The riots had left 53 people dead and over 700 injured."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/what-vikram-bhatt-posted-about-vijay-trisha-amid-wedding-outing-divorce-case-2879412-2026-03-09",
+      "headline": "What Vikram Bhatt posted about Vijay-Trisha amid wedding outing, divorce caseFilmmaker Vikram Bhatt defended Vijay and Trisha after the two were spotted together at a wedding amid the actor-politician's divorce battle. In a long Instagram note, Bhatt said people should stop judging actors' personal lives."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-updates-middle-east-crises-us-iran-israel-dubai-uae-donald-trump-netanyahu-lebanon-beirut-saudi-arabia-tehran-drones-missles-2879187-2026-03-09",
+      "headline": "Live: Israel launches fresh strike in Tehran, kills Hezbollah terrorists in LebanonUS-Israel Attacks Iran Live Updates: As the Middle East war entered its 10th day, Iran launched fresh attacks on Israel and several Gulf countries on Monday, hours after state television reported that Mojtaba Khamenei, son of the country's late supreme leader, had been named his successor. The escalation rattled global markets, sending oil prices sharply higher and sparking fears that rising energy costs could fuel inflation and curb consumer spending in the United States. Meanwhile, Saudi Arabia warned Tehran it would be the \"biggest loser\" if attacks on Arab states continued after a drone strike targeted its Shaybah oil field. Follow indiatoday.in for all latest updates on the Middle East crisis."
     },
     {
       "sentiment": "positive",
@@ -241,23 +256,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/oil-prices-surge-past-110-amid-gulf-conflict-will-petrol-diesel-flight-fares-rise-india-2879306-2026-03-09",
-      "headline": "Crude oil prices cross $110 amid Gulf conflict. Will your pocket feel the pinch?While the government has said crude oil imports are continuing in \"full flow\" through alternative routes and that energy supplies remain secure for now, analysts warn that a prolonged spike in crude prices could still affect consumers if the rally continues."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/is-your-job-in-the-red-zone-the-anthropic-ai-chart-shows-which-careers-are-changing-claude-educ-2879304-2026-03-09",
-      "headline": "Is your job in the red zone? The Anthropic AI chart shows which careers are changingThe debate around AI and jobs often swings between hype and alarm, but a new visual based on research by Anthropic brings a rare dose of clarity to the conversation. By comparing AI's theoretical capabilities with how workers are using it today, it sketches an early map of how the modern workplace is shifting. The question now is,  where do you stand on that map?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ravi-shastri-ninth-wicket-commentary-gaffe-india-t20-world-cup-win-2879296-2026-03-09",
-      "headline": "Ravi Shastri slammed after ruining India's T20 World Cup-winning moment on commentaryRavi Shastri called the final wicket of India's historic T20 World Cup win the ninth, not the tenth. The gaffe immediately went viral, overshadowing one of cricket's greatest moments."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/law-news/story/frame-policy-government-jobs-allowance-acid-attack-victims-supreme-court-to-states-2879394-2026-03-09",
-      "headline": "Government jobs for acid attack survivors? Supreme Court's nudge to statesThe Supreme Court asked states to work on framing a policy to provide acid attack survivors with government jobs or necessary alliance."
+      "url": "https://www.indiatoday.in/world/story/trump-administration-airstrike-kharg-island-middle-east-war-us-iran-israel-strikes-tehran-gulf-2879362-2026-03-09",
+      "headline": "What is Kharg Island? Trump weighs strike on Iran's oil hub as Gulf war heats upAs the Gulf war intensifies, Kharg Island has emerged as a high-stakes flashpoint, with US President Donald Trump reportedly weighing options to strike Iran's oil hub \u2014 a move that could cripple Iran's economy but also send shockwaves through global energy markets."
     },
     {
       "sentiment": "positive",
@@ -271,18 +271,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/indias-cheetah-population-crosses-50-after-new-cubs-born-at-kuno-2879368-2026-03-09",
-      "headline": "India now has over 50 living CheetahsThe birth marks a proud moment for Project Cheetah, which aims to restore the world's fastest land animal to Indian landscapes decades after it went extinct in the country. "
+      "url": "https://www.indiatoday.in/fact-check/story/fact-check-netanyahus-house-on-fire-no-here-is-the-truth-2879410-2026-03-09",
+      "headline": "Fact Check: Netanyahu's house on fire? No, here is the truthIndia Today Fact Check found that the video is a month old and shows a house on fire in Galloway Township, New Jersey, in the US.\u00a0"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/oil-prices-surge-past-110-amid-gulf-conflict-will-petrol-diesel-flight-fares-rise-india-2879306-2026-03-09",
+      "headline": "Crude oil prices cross $110 amid Gulf conflict. Will your pocket feel the pinch?While the government has said crude oil imports are continuing in \"full flow\" through alternative routes and that energy supplies remain secure for now, analysts warn that a prolonged spike in crude prices could still affect consumers if the rally continues."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-final-ms-dhoni-gautam-gambhir-smile-india-vs-new-zealand-2879329-2026-03-09",
-      "headline": "Gambhir responds to MS Dhoni's viral T20 World Cup tribute: Great seeing youT20 World Cup final: After MS Dhoni's glowing tribute, Gautam Gambhir responded back to his former captain and teammate after India's T20 World Cup win. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/why-gen-z-can-afford-to-pause-careers-at-27-but-millennials-at-37-often-cant-educ-2879321-2026-03-09",
-      "headline": "Why Gen Z can afford a sabbatical at 27 but millennials often can'tAt 27, some workers are planning their first sabbatical. At 37, many are still paying off the life they built."
+      "url": "https://www.indiatoday.in/lifestyle/society/story/pickle-ball-padel-do-elites-hate-a-mainstream-sport-2878024-2026-03-09",
+      "headline": "Do elites 'hate' a mainstream sport?Pickleball had its moment. Now, padel is the new obsession. But behind the switch is there a bigger story about status, relevance, and exclusivity that we are missing?"
     },
     {
       "sentiment": "positive",
@@ -296,28 +296,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/is-your-job-in-the-red-zone-the-anthropic-ai-chart-shows-which-careers-are-changing-claude-educ-2879304-2026-03-09",
+      "headline": "Is your job in the red zone? The Anthropic AI chart shows which careers are changingThe debate around AI and jobs often swings between hype and alarm, but a new visual based on research by Anthropic brings a rare dose of clarity to the conversation. By comparing AI's theoretical capabilities with how workers are using it today, it sketches an early map of how the modern workplace is shifting. The question now is,  where do you stand on that map?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-final-ms-dhoni-gautam-gambhir-smile-india-vs-new-zealand-2879329-2026-03-09",
+      "headline": "Gambhir responds to MS Dhoni's viral T20 World Cup tribute: Great seeing youT20 World Cup final: After MS Dhoni's glowing tribute, Gautam Gambhir responded back to his former captain and teammate after India's T20 World Cup win. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ravi-shastri-ninth-wicket-commentary-gaffe-india-t20-world-cup-win-2879296-2026-03-09",
+      "headline": "Ravi Shastri slammed after ruining India's T20 World Cup-winning moment on commentaryRavi Shastri called the final wicket of India's historic T20 World Cup win the ninth, not the tenth. The gaffe immediately went viral, overshadowing one of cricket's greatest moments."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/indias-cheetah-population-crosses-50-after-new-cubs-born-at-kuno-2879368-2026-03-09",
+      "headline": "India now has over 50 living CheetahsThe birth marks a proud moment for Project Cheetah, which aims to restore the world's fastest land animal to Indian landscapes decades after it went extinct in the country. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/chennai-doctor-hands-newborn-to-nervous-father-in-adorable-video-with-198-million-views-2879247-2026-03-09",
       "headline": "Chennai doctor hands newborn to nervous father in video with 198 million viewsThe video showed Dr Suganya Saravanakumar handing the newborn baby to the father. However, the man was so nervous that his hands trembled as he prepared to hold the child. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/iran-war-middle-east-crisis-pushes-india-to-fast-track-long-range-strike-drones-shahed-136-project-kal-sheshnag-2879136-2026-03-09",
-      "headline": "Does India have low-cost killer kamikaze drones like Iran's Shahed?Low-cost drones are reshaping warfare, as seen in Ukraine for the last four years, and now in the Iran war. Iran's low-cost Shahed drones have inspired the US's LUCAS. In India, low-cost, deep-strike drone projects like Sheshnag-150 and Project KAL are picking pace."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/interest-of-indian-consumer-always-overriding-priority-s-jaishankar-iran-war-parliament-budget-session-2879264-2026-03-09",
-      "headline": "Interest of Indian consumer always overriding priority: Jaishankar on Iran warMaking a statement in the Rajya Sabha amid sloganeering by opposition MPs, Jaishankar said the conflict in the region had intensified in recent days, raising concerns over energy supplies, shipping routes and global trade flows."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-dedicates-t20-world-cup-win-to-rahul-dravid-vvs-laxman-jay-shah-2879172-2026-03-09",
-      "headline": "Gambhir dedicates T20 WC win to Dravid and Laxman, says Jay Shah stood by himIndia head coach Gautam Gambhir has dedicated the team's T20 World Cup 2026 triumph to Rahul Dravid, VVS Laxman, Ajit Agarkar and Jay Shah. India beat New Zealand by 96 runs to win their third T20 World Cup title."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/explained-why-trisha-slammed-r-parthiban-amid-vijay-and-sangeethas-divorce-row-2879261-2026-03-09",
-      "headline": "Explained: Why Trisha slammed director Parthiban amid Vijay-Sangeetha's divorce rowActor Trisha Krishnan firmly responded to director R Parthiban's dig at her at a recent award show. In this piece, we explain the context behind the controversy and what led to their publicly played-out confrontation."
     }
   ],
   "sports": [
