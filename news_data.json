@@ -16,9 +16,9 @@
       "headline": "ED arrests 2 in Rs 183-crore online ponzi scam; accused returned from DubaiThe case was registered in December 2024 in Thane, accusing Sudhir Kotadiya, Umang Kotadiya, Jaysukh Sakhariya and others of running a fraudulent digital investment scheme that allegedly collected large sums from investors in Gujarat and Maharashtra."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/lpg-cylinder-shortage-live-updates-india-gas-supply-crisis-impact-kolkata-chennai-bengaluru-delhi-us-iran-israel-war-2881786-2026-03-14",
-      "headline": "Live: Raids at over 1,400 locations in Lucknow to check LPG cylinder black marketingLPG Crisis Live Updates: Amid reports of commercial LPG cylinder shortage, Karnataka minister Priyank Kharge slammed the Centre, calling the crisis a result of the BJP government's \"disastrous policy\" and questioned PM Narendra Modi's foreign policy moves. Meanwhile, the shortage is beginning to affect services on the ground as well\u2014food for the public at the \"Didi Ki Rasoi\" run by Jeevika didis at Rohtas Sadar Hospital has been stopped due to lack of LPG cylinders, and patient meals could also be affected if supply is not restored."
+      "headline": "Live: Long queues outside LPG centres in Kolkata, Bengal districts amid crisisLPG Crisis Live Updates: Amid reports of commercial LPG cylinder shortage, Karnataka minister Priyank Kharge slammed the Centre, calling the crisis a result of the BJP government's \"disastrous policy\" and questioned PM Narendra Modi's foreign policy moves. Meanwhile, the shortage is beginning to affect services on the ground as well\u2014food for the public at the \"Didi Ki Rasoi\" run by Jeevika didis at Rohtas Sadar Hospital has been stopped due to lack of LPG cylinders, and patient meals could also be affected if supply is not restored."
     },
     {
       "sentiment": "positive",
@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/sunidhi-chauhan-postpones-kolkata-concert-date-on-medical-advice-read-statement-2881605-2026-03-14",
+      "headline": "Sunidhi Chauhan postpones Kolkata concert on medical advice. Read statement Sunidhi Chauhan has postponed her Kolkata show, citing a throat infection. In a post on social media, she claimed that her doctors have advised her to complete rest.\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/rajkummar-rao-keerthy-suresh-team-up-for-start-up-drama-raftaar-release-date-out-2881865-2026-03-14",
       "headline": "Rajkummar Rao and Keerthy Suresh team up for start-up drama Raftaar, release date out Rajkummar Rao and Keerthy Suresh have announced their upcoming film Raftaar, which is set to release in theatres on July 24, 2026.\r\n"
     },
@@ -165,7 +170,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/anil-kapoor-was-offered-ameo-in-aditya-dhar-ranveer-singh-dhurandhar-2-2881637-2026-03-13",
-      "headline": "It's my loss: Anil Kapoor reveals why he turned down Dhurandhar 2 cameo Anil Kapoor recently revealed that he was approached by Aditya Dhar for a cameo in Dhurandhar: The Revenge. The actor shared his reasons behind declining the offer. "
+      "headline": "Anil Kapoor was offered Dhurandhar 2, but he declined. Here's why Anil Kapoor recently revealed that he was approached by Aditya Dhar for a cameo in Dhurandhar: The Revenge. The actor shared his reasons behind declining the offer. "
     },
     {
       "sentiment": "positive",
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/still-shining-first-impression-jinyoung-kim-min-ju-lead-a-tender-healing-romance-2881560-2026-03-13",
       "headline": "Still Shining first impression: Jinyoung, Kim Min-ju lead a tender healing romanceRelease Date:Fri Mar 06, 2026 Park Jin-young and Kim Min-ju's Still Shining is a slow-burn romance about companionship and growing up. The drama, which is now streaming on Netflix, blends nostalgia, quiet emotions and tender performances."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/video/music-chose-me-viral-sensation-paramjeet-kaur-on-her-singing-journey-2881540-2026-03-13",
-      "headline": "Music chose me: Viral sensation Paramjeet Kaur on her singing journey Viral Punjabi singer Paramjeet Kaur talks about her unexpected music journey, viral fame and comparisons with Sidhu Moosewala at the India Today Conclave."
     }
   ],
   "general news": [
@@ -211,18 +211,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shouldnt-have-said-some-of-the-things-i-did-trump-ally-laura-loomer-apologises-for-some-anti-india-x-posts-2881894-2026-03-14",
-      "headline": "Shouldn't have said: Trump ally Laura Loomer apologises for some anti-India X postsTrump loyalist Laura Loomer apologised for some of her earlier anti-India social media posts after they sparked outrage, saying she would not regret her stance on the H-1B visa programme. "
+      "url": "https://www.indiatoday.in/elections/assembly/story/pm-modi-congress-iran-war-spreading-panic-being-puppet-of-anti-india-forces-prime-minister-asssam-silchar-2881875-2026-03-14",
+      "headline": "Spreading panic amid war, puppet of anti-India forces: PM tears into CongressHandcrafted ByOur Editors PM Modi accused the Congress of trying to create panic among Indians amid the Middle East war and alleged the party has become a puppet of forces hostile to India's development. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/pm-modi-congress-iran-war-spreading-panic-being-puppet-of-anti-india-forces-prime-minister-asssam-silchar-2881875-2026-03-14",
-      "headline": "Spreading panic amid war, puppet of anti-India forces: PM tears into CongressPM Modi accused the Congress of trying to create panic among Indians amid the Middle East war and alleged the party has become a puppet of forces hostile to India's development. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-war-nopo-secret-force-guarding-new-supreme-leader-mojtaba-khamenei-2881874-2026-03-14",
+      "headline": "NOPO: Secret force guarding 'injured' new Supreme Leader Mojtaba KhameneiThe new Iranian Supreme Leader, Mojtaba Khamenei, is severely wounded, and Israel has threatened to take him down. However, protecting Mojtaba is not the all-powerful IRGC or the Iranian army. That task lies with a secretive and elite security unit known as NOPO."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/interactive/story/communists-lose-nepal-too-if-not-marx-then-who-in-south-asia-2881702-2026-03-14",
       "headline": "Communists Lose Nepal Too: If Not Marx, Then Who In South Asia?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/laura-loomer-islam-muslims-public-office-us-quran-ilhan-omar-zohran-mamdani-trump-2881908-2026-03-14",
+      "headline": "They put Islam first: Trump loyalist Laura Loomer blasts Zohran Mamdani, Ilhan OmarDonald Trump loyalist Laura Loomer lashed out at Muslim-American politicians like Zohran Mamdani, Ilhan Omar and Rashida Tlaib, saying they put Islam before the US. Speaking at the India Today Conclave 2026, the far-right activist said \"demography is destiny\" and argued that the US should remain a \"majority white Christian country\"."
     },
     {
       "sentiment": "positive",
@@ -236,33 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-fm-says-us-now-begging-india-to-buy-russian-oil-after-pressuring-it-2881743-2026-03-14",
-      "headline": "Begging the world, including India, to buy Russian oil: Iran hits out at USIran's Foreign Minister Abbas Araghchi accused the US of double standards on Russian oil, saying Washington once pressured India to cut imports but is now urging countries to buy Russian crude."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/bank-locker-insurance-india-jewellery-insurance-bank-locker-liability-rbi-rules-locker-safety-2881819-2026-03-14",
       "headline": "If valuables vanish from your locker, can insurance cover the loss?This is the second story in Lock & Key, a series examining how India's bank locker system works and what customers should know before trusting their valuables to a steel vault."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/centre-revokes-sonam-wangchuks-detention-under-national-security-act-months-after-leh-violence-2881846-2026-03-14",
-      "headline": "Govt set to release Sonam Wangchuk from detention months after Leh violenceThe government said the move aims to restore peace and enable constructive dialogue with stakeholders in Ladakh. The detention came in the backdrop of a serious law and order situation that arose in the peace-loving town of Leh on September 24, 2025.\r\n\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ram-gopal-varma-says-industry-is-waiting-for-aditya-dhar-yami-gautam-to-fumble-and-fall-2881818-2026-03-14",
-      "headline": "RGV says industry is waiting for Aditya Dhar, Yami Gautam to fumble and fallRam Gopal Varma praised Aditya Dhar for transforming the grammar of storytelling in Indian cinema with Dhurandhar. He also claimed the director's success has made many in the industry envious."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-crisis-crude-oil-west-asia-tension-strait-of-hormuz-lebanon-trump-irgc-hezbollah-2881192-2026-03-13",
-      "headline": "Live: Deadly US attack on warship won't go unanswered, says Iran army chiefUS-Israel-Iran War Live Updates: As the war enters its 15th day, regional tensions in the Middle East intensified as fresh strikes and security incidents were reported across multiple countries. In Lebanon, local authorities said the death toll from recent Israeli attacks has climbed to 773. Israel also issued an evacuation warning for an industrial zone in Iran's Tabriz, signalling the possibility of imminent strikes amid ongoing missile and drone exchanges. In Iraq, a missile struck a helipad inside the US Embassy compound in Baghdad's heavily fortified Green Zone, with smoke seen rising from the complex. Meanwhile, rockets and missiles launched toward northern Israel were either intercepted or landed in open areas in the Upper Galilee region. Iran's Fars News Agency reported strikes on military facilities on Kharg Island, including a maritime base and helicopter infrastructure, warning of potential retaliation if oil sites are targeted. In Dubai, debris from an interception hit a building fa\u00e7ade without causing injuries. Stay tuned to indiatoday.in for the latest updates."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/wanted-bollywood-hits-for-the-family-audience-2881479-2026-03-14",
-      "headline": "Wanted: Bollywood hits for the family audienceTraditionally, the family drama has been the strongest crowdpuller at the Hindi box office. Lately, however, the family audience is left with few options for a weekend's outing together, with films riding heavy violence and gore taking over the box office. Film experts weigh in on the trend."
     },
     {
       "sentiment": "negative",
@@ -271,13 +251,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/can-be-argued-iris-dena-sinking-was-illegal-sri-lankan-mp-namal-rajapaksa-at-india-today-conclave-2881858-2026-03-14",
-      "headline": "Can be argued IRIS Dena sinking was illegal: Sri Lankan MP Namal RajapaksaFollowing the incident which claimed 87 lives, Sri Lanka's Foreign Minister Vijitha Herath told parliament that around 180 people were on board the Moudge-class frigate IRIS Dena when it went down about 40 nautical miles off the island."
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-crisis-crude-oil-west-asia-tension-strait-of-hormuz-lebanon-trump-irgc-hezbollah-2881192-2026-03-13",
+      "headline": "Live: Iranians want blood revenge for Ali Khamenei's death, says Tehran's envoy in MoscowUS-Israel-Iran War Live Updates: As the war enters its 15th day, regional tensions in the Middle East intensified as fresh strikes and security incidents were reported across multiple countries. In Lebanon, local authorities said the death toll from recent Israeli attacks has climbed to 773. Israel also issued an evacuation warning for an industrial zone in Iran's Tabriz, signalling the possibility of imminent strikes amid ongoing missile and drone exchanges. In Iraq, a missile struck a helipad inside the US Embassy compound in Baghdad's heavily fortified Green Zone, with smoke seen rising from the complex. Meanwhile, rockets and missiles launched toward northern Israel were either intercepted or landed in open areas in the Upper Galilee region. Iran's Fars News Agency reported strikes on military facilities on Kharg Island, including a maritime base and helicopter infrastructure, warning of potential retaliation if oil sites are targeted. In Dubai, debris from an interception hit a building fa\u00e7ade without causing injuries. Stay tuned to indiatoday.in for the latest updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/iran-envoy-confirms-tehran-giving-safe-passage-to-indian-ships-in-strait-of-hormuz-says-india-is-a-friend-2881603-2026-03-13",
-      "headline": "For 'friend' India, Iran clears passage of 2 LPG tankers through HormuzIran's Ambassador to India, Mohammad Fathali, signalled that Indian vessels could receive safe passage through the Strait of Hormuz. He described India as a friend and pointed to shared interests between the two countries amid the Middle East war."
+      "url": "https://www.indiatoday.in/india/story/shouldnt-have-said-some-of-the-things-i-did-trump-ally-laura-loomer-apologises-for-some-anti-india-x-posts-2881894-2026-03-14",
+      "headline": "Shouldn't have said: Trump ally Laura Loomer apologises for some anti-India X postsTrump loyalist Laura Loomer apologised for some of her anti-India social media posts after they sparked outrage, adding she would not regret her stance on the H-1B visa programme. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/wanted-bollywood-hits-for-the-family-audience-2881479-2026-03-14",
+      "headline": "Wanted: Bollywood hits for the family audienceTraditionally, the family drama has been the strongest crowdpuller at the Hindi box office. Lately, however, the family audience is left with few options for a weekend's outing together, with films riding heavy violence and gore taking over the box office. Film experts weigh in on the trend."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/centre-revokes-sonam-wangchuks-detention-under-national-security-act-months-after-leh-violence-2881846-2026-03-14",
+      "headline": "Govt set to release Sonam Wangchuk from detention months after Leh violenceThe government said the move aims to restore peace and enable constructive dialogue with stakeholders in Ladakh. The detention came in the backdrop of a serious law and order situation that arose in the peace-loving town of Leh on September 24, 2025.\r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-fm-says-us-now-begging-india-to-buy-russian-oil-after-pressuring-it-2881743-2026-03-14",
+      "headline": "Begging the world, including India, to buy Russian oil: Iran hits out at USIran's Foreign Minister Abbas Araghchi accused the US of double standards on Russian oil, saying Washington once pressured India to cut imports but is now urging countries to buy Russian crude."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ram-gopal-varma-says-industry-is-waiting-for-aditya-dhar-yami-gautam-to-fumble-and-fall-2881818-2026-03-14",
+      "headline": "RGV says industry is waiting for Aditya Dhar, Yami Gautam to fumble and fallRam Gopal Varma praised Aditya Dhar for transforming the grammar of storytelling in Indian cinema with Dhurandhar. He also claimed the director's success has made many in the industry envious."
     },
     {
       "sentiment": "positive",
@@ -291,13 +291,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/geopolitical-expert-adelle-nazarian-how-iran-war-likely-benefit-us-india-ties-global-order-power-shifts-2881882-2026-03-14",
-      "headline": "Geopolitical expert on how Iran war is going to benefit US-India tiesAt the India Today Conclave 2026, geopolitical consultant Adelle Nazarian said the ongoing US\u2013Iran war is accelerating shifts in the global order and could strengthen US\u2013India ties while pushing Gulf nations closer to the West."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-ranveer-singh-film-opens-for-advance-bookings-2881837-2026-03-14",
-      "headline": "Dhurandhar 2: Ranveer Singh's film opens for advance bookingsRanveer Singh's Dhurandhar: The Revenge opened advance bookings for its first day across cinemas in India on March 14, ahead of its March 19 release.\r\n"
+      "url": "https://www.indiatoday.in/india/story/can-be-argued-iris-dena-sinking-was-illegal-sri-lankan-mp-namal-rajapaksa-at-india-today-conclave-2881858-2026-03-14",
+      "headline": "Can be argued IRIS Dena sinking was illegal: Sri Lankan MP Namal RajapaksaFollowing the incident which claimed 87 lives, Sri Lanka's Foreign Minister Vijitha Herath told parliament that around 180 people were on board the Moudge-class frigate IRIS Dena when it went down about 40 nautical miles off the island."
     },
     {
       "sentiment": "positive",
@@ -306,21 +301,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/hackathons-are-indias-new-fresher-hiring-arena-for-high-paying-tech-jobs-educ-2881310-2026-03-13",
-      "headline": "Hackathons are the new placements: Code your way into top tech jobsWith campus placements slowing and tech hiring evolving, Indian students are turning to hackathons as live recruitment arenas. Backed by government and institutes, India's vast hackathon ecosystem is creating real pathways to high-paying jobs and start-ups, making skill, speed and execution more powerful than just degrees. "
+      "url": "https://www.indiatoday.in/science/story/iit-madras-advanced-frugal-biotechnology-green-technology-affordable-india-2881891-2026-03-14",
+      "headline": "India's jugaad era is over. IIT Madras makes green tech affordableForget the era of quick fixes and makeshift patches. IIT Madras is replacing the chaos of jugaad with precision science to ensure that going green is finally affordable for every Indian."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-threatens-strikes-us-supported-oil-facilities-middle-east-kharg-island-bombed-2881760-2026-03-14",
-      "headline": "Will turn US-linked oil infra into ashes: Iran vows retaliation after Kharg bombedIranian armed forces threatened to launch retaliatory strikes on oil facilities operated by companies cooperating with the US in the Middle East, after President Donald Trump said American forces had destroyed military targets on the strategic Kharg Island."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-ranveer-singh-film-opens-for-advance-bookings-2881837-2026-03-14",
+      "headline": "Dhurandhar 2: Ranveer Singh's film opens for advance bookingsRanveer Singh's Dhurandhar: The Revenge opened advance bookings for its first day across cinemas in India on March 14, ahead of its March 19 release.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/monalisa-bhonsle-kumbh-mela-girl-love-jihad-claim-marriage-farman-khan-madhya-pradesh-cm-help-2881829-2026-03-14",
-      "headline": "Love jihad victim: Kumbh girl Monalisa's father seeks Madhya Pradesh CM's helpMonalisa Bhonsle, who gained fame during the Prayagraj Kumbh Mela, married Farman Khan in Kerala, triggering a controversy after her father alleged she was a victim of \"love jihad\" and sought Madhya Pradesh CM Mohan Yadav's intervention.\r\n"
+      "url": "https://www.indiatoday.in/india/story/iran-envoy-confirms-tehran-giving-safe-passage-to-indian-ships-in-strait-of-hormuz-says-india-is-a-friend-2881603-2026-03-13",
+      "headline": "For 'friend' India, Iran clears passage of 2 LPG tankers through HormuzIran's Ambassador to India, Mohammad Fathali, signalled that Indian vessels could receive safe passage through the Strait of Hormuz. He described India as a friend and pointed to shared interests between the two countries amid the Middle East war."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/geopolitical-expert-adelle-nazarian-how-iran-war-likely-benefit-us-india-ties-global-order-power-shifts-2881882-2026-03-14",
+      "headline": "Geopolitical expert Adelle Nazarian explains why Iran war may boost US-India tiesAt the India Today Conclave 2026, geopolitical consultant Adelle Nazarian said the ongoing US\u2013Iran war is accelerating shifts in the global order and could strengthen US\u2013India ties while pushing Gulf nations closer to the West."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/wada-ban-trump-us-officials-2028-la-olympics-fifa-world-cup-2881929-2026-03-14",
+      "headline": "Trump banned from LA 2028, FIFA World Cup? World Anti-Doping Agency ponders big move WADA is considering banning Donald Trump and US government officials from the 2028 LA Olympics and FIFA World Cup over USD 7.3 million in unpaid dues in a growing standoff."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/kimi-antonelli-youngest-pole-position-chinese-grand-prix-formula-one-2881911-2026-03-14",
+      "headline": "Chinese GP: Kimi Antonelli creates history, becomes youngest-ever pole sitter Kimi Antonelli made history by taking pole position as a teenager, leading a Mercedes qualifying one-two in Shanghai. George Russell overcame technical issues to secure second, while Ferrari's Lewis Hamilton finished third fastest."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/indias-historic-eden-gardens-comeback-against-australia-2001-test-cricket-2881879-2026-03-14",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/formula-one/story/f1-bahrain-saudi-arabian-grand-prix-cancelled-middle-east-conflict-2881759-2026-03-14",
-      "headline": "Saudi, Bahrain Grand Prix races to be cancelled amid Middle East conflict Formula 1 is set to cancel the Bahrain and Saudi Arabian Grands Prix in April amid escalating Middle East conflict, with security concerns and logistics forcing the decision."
+      "headline": "Saudi, Bahrain Grand Prix races to be cancelled amid Middle East conflictFormula 1 is set to cancel the Bahrain and Saudi Arabian Grands Prix in April amid escalating Middle East conflict, with security concerns and logistics forcing the decision."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/salman-agha-controversial-run-out-bangladesh-mehidy-miraz-spirit-of-cricket-2nd-odi-2881751-2026-03-14",
-      "headline": "Would've gone for sportsman spirit: Salman Agha on controversial run-out vs BAN Pakistan batter Salman Ali Agha said that he would have chosen sportsmanship after his controversial run-out during the second ODI against Bangladesh on March 12. Agha was dismissed by Mehidy Hasan Miraz and it led to an on-field spat between the batter and the Bangladesh players. "
+      "headline": "Would've gone for sportsman spirit: Salman Agha on controversial run-out vs BANPakistan batter Salman Ali Agha said that he would have chosen sportsmanship after his controversial run-out during the second ODI against Bangladesh on March 12. Agha was dismissed by Mehidy Hasan Miraz and it led to an on-field spat between the batter and the Bangladesh players. "
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-message-fans-t20-world-cup-2026-india-win-2881324-2026-03-13",
       "headline": "Trophy is home: Suryakumar thanks Team India fans after T20 World Cup winT20 World Cup: Suryakumar Yadav sent a heartfelt message to the Indian cricket team fans after the T20 World Cup 2026 win. Suryakumar dedicated the win to the supporters and thanked them for their part in the journey to the title. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-captain-suryakumar-yadav-under-fire-scrutiny-fair-unfair-2881296-2026-03-13",
-      "headline": "World Cup-winning captain under fire: The strange scrutiny of Suryakumar YadavDespite leading India to a successful title defence at the ICC T20 World Cup 2026, Suryakumar Yadav has found himself at the centre of surprising criticism. A section of fans continues to question his place as skipper, overlooking his key contributions with the bat and bold leadership decisions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/ramit-tandon-finance-job-squash-olympics-journey-indian-open-2026-2881272-2026-03-13",
-      "headline": "Suit, stocks and squash: Ramit Tandon now eyes the Olympic dream for IndiaSwapping the world of finance for the Squash court, Ramit Tandon now eyes the Olympic dream for India. In an exclusive with India Today, the World No.38 talks about his journey from the cubicle to chasing his love for the sport, major goals in 2026 and more.\u00a0"
     }
   ],
   "education": [
