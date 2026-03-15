@@ -46,7 +46,7 @@
       "headline": "ED arrests 2 in Rs 183-crore online ponzi scam; accused returned from DubaiThe case was registered in December 2024 in Thane, accusing Sudhir Kotadiya, Umang Kotadiya, Jaysukh Sakhariya and others of running a fraudulent digital investment scheme that allegedly collected large sums from investors in Gujarat and Maharashtra."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/lpg-cylinder-shortage-live-updates-india-gas-supply-crisis-impact-kolkata-chennai-bengaluru-delhi-us-iran-israel-war-2881786-2026-03-14",
       "headline": "Highlights: Two vessels carrying 92,700 metric tons of LPG en route to India, govt assuresLPG Crisis Highlights: Amid reports of commercial LPG cylinder shortage, Karnataka minister Priyank Kharge slammed the Centre, calling the crisis a result of the BJP government's \"disastrous policy\" and questioned PM Narendra Modi's foreign policy moves. Meanwhile, the shortage is beginning to affect services on the ground as well\u2014food for the public at the \"Didi Ki Rasoi\" run by Jeevika didis at Rohtas Sadar Hospital has been stopped due to lack of LPG cylinders, and patient meals could also be affected if supply is not restored. Meanwhile, the government has assured that two vessels named Nanda Devi and Shivalik are en route to India with 92,700 metric tons of LPG cylinders."
     },
@@ -102,6 +102,11 @@
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/harry-styles-addresses-queerbaiting-humour-snl-monologue-kiss-ben-marshall-2882219-2026-03-15",
+      "headline": "Harry Styles claps back at queerbaiting criticism with a kiss on Saturday Night Live During his recent Saturday Night Live appearance, Harry Styles used humor and direct engagement to address ongoing queerbaiting allegations. The singer proved his point by kissing Ben Marshall on stage. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/jnanpith-award-vairamuthu-debate-sexual-misconduct-allegations-tamil-film-industry-2882197-2026-03-15",
@@ -191,11 +196,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/ott/story/anurag-dobhals-health-worsens-after-return-from-icu-pray-for-him-says-manager-2881868-2026-03-14",
       "headline": "Anurag Dobhal's health worsens after return from ICU. Pray for him, says manager Anurag Dobhal's condition has reportedly worsened after his return from ICU, where he was admitted following a car crash. His manager confirmed that the YouTuber's condition has become complicated, and he remains under medical supervision."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-is-my-favourite-actor-sri-lankan-mp-namal-rajapaksa-2881888-2026-03-14",
-      "headline": "Sri Lankan MP Namal Rajapaksa names Vijay as favourite actor Sri Lankan MP Namal Rajapaksa shared at the India Today Conclave 2026 that Vijay was his favourite actor. He said he plans to watch Vijay's film with his father."
     }
   ],
   "general news": [
@@ -216,11 +216,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-president-donald-trump-warns-new-strikes-iran-kharg-island-2882179-2026-03-15",
-      "headline": "Will hit it just for fun: Trump warns of fresh US strikes on Iran's Kharg IslandThe US president has indicated the possibility of further US military action against oil hub Iran's Kharg Island, emphasising that while Iran signals readiness for talks, current terms remain unsatisfactory. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sunday-special/story/ai-recession-proof-career-temple-management-job-diploma-degree-gen-z-caste-dynamics-economy-2882054-2026-03-15",
       "headline": "An AI-proof, recession-proof career, with blessings from templesThere is seemingly a job that AI can't take away, and it might boom during recession. Wondering what it is? It's related to India's temple economy, and is coming up as a new career path. Courses in temple management are drawing Gen Z students and retirees alike."
     },
@@ -232,7 +227,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/delhi-rain-march-2026-western-disturbance-thunderstorm-spring-india-weather-2882207-2026-03-15",
-      "headline": "Why is it suddenly raining in Delhi in March, amid rising heat?A chain of western disturbances brought unexpected rain, thunderstorms, and cooler temperatures to Delhi and northern India on March 15, 2026. Weather experts say India may avoid a severe heatwave until mid-to-late April, as spring makes a surprise return."
+      "headline": "Why is it suddenly raining in Delhi in March amid rising heat?A chain of western disturbances brought unexpected rain, thunderstorms, and cooler temperatures to Delhi and northern India on March 15, 2026. Weather experts say India may avoid a severe heatwave until mid-to-late April, as spring makes a surprise return."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-crisis-crude-oil-west-asia-tension-strait-of-hormuz-lebanon-trump-irgc-hezbollah-2882141-2026-03-15",
+      "headline": "Live: 20 arrested in Iran for sharing intel with Israel, says local mediaUS-Israel-Iran War Live Updates: The conflict across the Middle East continue to escalate as the US-Israel war on Iran enters another volatile phase, with fighting spreading across several fronts and global energy markets on edge. US President Donald Trump has called on the UK and other allies to send naval vessels to help secure the Strait of Hormuz, a vital oil shipping route that Iran has threatened to block. Trump vowed the passage would be reopened \"one way or the other\", warning the United States would act if shipping remained disrupted. Maritime authorities say at least 16 vessels operating in and around the Gulf have been attacked since the conflict began. Iran's new Supreme Leader Mojtaba Khamenei has signalled the blockade will continue, while Iranian officials warned they could target energy infrastructure linked to American companies if further strikes hit their own facilities. The standoff has already begun to ripple through the global economy, pushing fuel prices higher and rattling oil markets. Meanwhile, military escalation continues across the region. Israeli forces say Iran launched multiple waves of attacks over the weekend, while drone strikes hit sites across Iraq and Lebanon and missiles targeted areas in Israel. The US embassy compound in Baghdad was struck by drones. Follow indiatoday.in for live updates."
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-crisis-crude-oil-west-asia-tension-strait-of-hormuz-lebanon-trump-irgc-hezbollah-2882141-2026-03-15",
-      "headline": "Live: 20 arrested in Iran for sharing intel with Israel, says local mediaUS-Israel-Iran War Live Updates: The conflict across the Middle East continue to escalate as the US-Israel war on Iran enters another volatile phase, with fighting spreading across several fronts and global energy markets on edge. US President Donald Trump has called on the UK and other allies to send naval vessels to help secure the Strait of Hormuz, a vital oil shipping route that Iran has threatened to block. Trump vowed the passage would be reopened \"one way or the other\", warning the United States would act if shipping remained disrupted. Maritime authorities say at least 16 vessels operating in and around the Gulf have been attacked since the conflict began. Iran's new Supreme Leader Mojtaba Khamenei has signalled the blockade will continue, while Iranian officials warned they could target energy infrastructure linked to American companies if further strikes hit their own facilities. The standoff has already begun to ripple through the global economy, pushing fuel prices higher and rattling oil markets. Meanwhile, military escalation continues across the region. Israeli forces say Iran launched multiple waves of attacks over the weekend, while drone strikes hit sites across Iraq and Lebanon and missiles targeted areas in Israel. The US embassy compound in Baghdad was struck by drones. Follow indiatoday.in for live updates."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/most-shocking-oscar-moments-ever-angelina-jolie-jennifer-lawrence-will-smith-chris-rock-2880962-2026-03-15",
+      "headline": "Most shocking Oscar moments ever; see them hereThe Oscars have always been a blend of glamour and unexpected drama, with moments ranging from shocking attacks to wardrobe malfunctions. Such incidents, including Will Smith's infamous slap and the Envelopegate blunder, continue to be fresh in audience memory even as they shape Oscar legacy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-president-donald-trump-warns-new-strikes-iran-kharg-island-2882179-2026-03-15",
+      "headline": "Will hit it just for fun: Trump warns of fresh US strikes on Iran's Kharg IslandThe US president has indicated the possibility of further US military action against oil hub Iran's Kharg Island, emphasising that while Iran signals readiness for talks, current terms remain unsatisfactory. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/society/story/using-only-cash-in-delhi-ncr-no-upi-till-2025-2882127-2026-03-15",
+      "headline": "'I lived without UPI and used only cash until 2025. Here's how I survived'Handcrafted ByOur Editors We bring you the story of a 31-year-old HR professional who managed without UPI, well almost, until 2025 in a city like Delhi, where people often ask, \"Who uses cash now?\" even for routine payments."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/india-genomics-agriculture-genome-editing-crispr-rice-mustard-banana-india-today-science-news-2882139-2026-03-15",
+      "headline": "India is re-engineering its grains. The lab is finally serving the kitchenA silent revolution is unfolding inside Indian laboratories. From the patent-free power of an indigenous CRISPR-like tool to gene-edited Kamala rice and high-protein designer grains, Indian scientists are rewriting the very architecture of food to feed 1.4 billion people."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/man-uses-chatgpt-and-alphafold-to-build-diy-mrna-cancer-vaccine-saves-dog-2882198-2026-03-15",
+      "headline": "Techie uses ChatGPT and AlphaFold to build DIY mRNA cancer vaccine, saves dogAustralian tech entrepreneur Paul Conyngham claims that he used AI tools such as ChatGPT and AlphaFold to cure his dog's cancer by making custom mRNA vaccines after traditional treatment failed to stop the tumour."
     },
     {
       "sentiment": "positive",
@@ -256,8 +276,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-genomics-agriculture-genome-editing-crispr-rice-mustard-banana-india-today-science-news-2882139-2026-03-15",
-      "headline": "India is re-engineering its grains. The lab is finally serving the kitchenA silent revolution is unfolding inside Indian laboratories. From the patent-free power of an indigenous CRISPR tool to gene-edited Kamala rice and high-protein designer grains, scientists are rewriting the very architecture of food to feed 1.4 billion people."
+      "url": "https://www.indiatoday.in/jobs/story/work-without-pause-have-weekend-emails-and-70-hour-weeks-become-normal-educ-2882064-2026-03-15",
+      "headline": "Work without pause: Have weekend emails and 70-hour weeks become normal?Handcrafted ByOur Editors From late-night emails to calls for 70-hour work schedules, the rise of hustle culture and always-on workplaces is reshaping professional expectations, raising growing concerns about employee burnout, long working hours and work-life balance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-582-13-03-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "negative",
@@ -271,51 +296,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/80000-watched-anurag-dobhal-final-drive-instagram-livestream-what-it-says-about-cost-of-living-online-2882121-2026-03-15",
-      "headline": "80,000 watched Anurag Dobhal 'final drive': What it says about cost of living onlineAfter YouTuber Anurag Dobhal crashed his car during a livestream watched by thousands, questions surfaced about the pressure of living life online. From creators like Armaan Malik to Kusha Kapila, the influencer economy is forcing a deeper conversation about the personal cost of constant visibility."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/work-without-pause-have-weekend-emails-and-70-hour-weeks-become-normal-educ-2882064-2026-03-15",
-      "headline": "Work without pause: Have weekend emails and 70-hour weeks become normal?Handcrafted ByOur Editors From late-night emails to calls for 70-hour work schedules, the rise of hustle culture and always-on workplaces is reshaping professional expectations, raising growing concerns about employee burnout, long working hours and work-life balance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-582-13-03-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/formula-one/story/formula-1-bahrain-saudi-arabian-grands-prix-cancelled-west-asia-tensions-middle-east-2882170-2026-03-15",
-      "headline": "Formula 1 cancel Bahrain and Saudi Arabian Grands Prix due to Middle East warFormula 1 has cancelled the Bahrain and Saudi Arabian Grands Prix scheduled for April as tensions escalate in West Asia. Safety concerns linked to the Iran conflict forced the sport to drop both races from the 2026 calendar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/weather-update-delhi-wakes-up-to-light-rain-as-sudden-weather-change-brings-respite-from-heat-2882156-2026-03-15",
-      "headline": "Rain lashes Delhi-NCR, brings respite from heat, weather body issues orange alertThe India Meteorological Department (IMD) attributed the rain to a western disturbance affecting parts of northern India."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/daughters-gift-parents-brand-new-car-their-heartwarming-reactions-are-a-must-watch-2881984-2026-03-14",
       "headline": "Daughters gift parents brand-new car, their heartwarming reactions are a must watchA video showed two daughters gifting their parents a brand-new car, which captured the family's emotional celebration and received widespread admiration on social media."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-urges-nations-to-send-warships-to-keep-hormuz-open-warns-us-will-bomb-the-hell-out-of-iran-shoreline-2882090-2026-03-14",
-      "headline": "Trump calls on allies to send warships, says Hormuz will open one way or otherIn a statement, Donald Trump said several countries affected by the crisis in the Strait of Hormuz were preparing to send warships to operate alongside the United States in order to keep the vital shipping corridor open."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/80000-watched-anurag-dobhal-final-drive-instagram-livestream-what-it-says-about-cost-of-living-online-2882121-2026-03-15",
+      "headline": "80,000 watched Anurag Dobhal 'final drive': What it says about cost of living onlineAfter YouTuber Anurag Dobhal crashed his car during a livestream watched by thousands, questions surfaced about the pressure of living life online. From creators like Armaan Malik to Kusha Kapila, the influencer economy is forcing a deeper conversation about the personal cost of constant visibility."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-india-cricket-dominance-hopeful-t20-world-cup-just-a-start-mumbai-2882200-2026-03-15",
-      "headline": "Rohit Sharma hopeful India will extend cricket dominance: T20 World Cup just a startRohit Sharma believes India's recent success in ICC tournaments could be the start of a strong phase for the national teams. The India captain praised both men's and women's teams and hopes the winning run continues."
+      "url": "https://www.indiatoday.in/health/story/the-real-reason-you-want-sugar-after-meals-according-to-a-doctor-2881278-2026-03-15",
+      "headline": "The real reason you want sugar after meals, according to a doctorMany people blame themselves for craving sweets, but doctors say it is not simply about willpower. Hormones, blood sugar levels, stress, and sleep patterns all play a role in triggering sugar cravings."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/man-uses-chatgpt-and-alphafold-to-build-diy-mrna-cancer-vaccine-saves-dog-2882198-2026-03-15",
-      "headline": "Techie uses ChatGPT and AlphaFold to build DIY mRNA cancer vaccine, saves dogAustralian tech entrepreneur Paul Conyngham claims that he used AI tools such as ChatGPT and AlphaFold to cure his dog's cancer by making custom mRNA vaccines after traditional treatment failed to stop the tumour."
+      "url": "https://www.indiatoday.in/sports/formula-one/story/formula-1-bahrain-saudi-arabian-grands-prix-cancelled-west-asia-tensions-middle-east-2882170-2026-03-15",
+      "headline": "Formula 1 cancel Bahrain and Saudi Arabian Grands Prix due to Middle East warFormula 1 has cancelled the Bahrain and Saudi Arabian Grands Prix scheduled for April as tensions escalate in West Asia. Safety concerns linked to the Iran conflict forced the sport to drop both races from the 2026 calendar."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-2026-suryakumar-yadav-jasprit-bumrah-robot-national-treasure-2882238-2026-03-15",
+      "headline": "Robot, national treasure: Suryakumar doesn't hold back on his praise for Bumrah T20 World Cup 2026: Suryakumar Yadav called Jasprit Bumrah a \"robot\" and \"national treasure\" after his match-winning 4/15 in the T20 World Cup final helped India defend their title against New Zealand."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-t20-world-cup-comeback-sachin-tendulkar-advice-most-runs-2882213-2026-03-15",
@@ -364,12 +369,12 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-bangladesh-aaqib-javed-scapegoat-2882115-2026-03-14",
-      "headline": "Pakistan needs to move on from scapegoat culture: National selector Pakistan national selector Aaqib Javed believes that the country and the country's cricket board need to move on from scapegoating culture to move forward in international cricket."
+      "headline": "Pakistan needs to move on from scapegoat culture: National selectorPakistan national selector Aaqib Javed believes that the country and the country's cricket board need to move on from scapegoating culture to move forward in international cricket."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-trophy-suryakumar-yadav-gautam-gambhir-jay-shah-siddhivinayak-temple-2882108-2026-03-14",
-      "headline": "Surya, Gambhir and Shah visit Siddhivinayak temple with ICC trophy Suryakumar Yadav, Gautam Gambhir and Jay Shah carried India's T20 World Cup trophy to Mumbai's Siddhivinayak Temple. Earlier, they had also taken the trophy to a Hanuman temple in Ahmedabad after India's title triumph."
+      "headline": "Surya, Gambhir and Shah visit Siddhivinayak temple with ICC trophySuryakumar Yadav, Gautam Gambhir and Jay Shah carried India's T20 World Cup trophy to Mumbai's Siddhivinayak Temple. Earlier, they had also taken the trophy to a Hanuman temple in Ahmedabad after India's title triumph."
     },
     {
       "sentiment": "positive",
@@ -460,16 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/shilanand-lakra-sundargarh-tribal-forward-indian-hockey-rise-2881820-2026-03-14",
       "headline": "Shilanand Lakra and the end of tribal reticenceSundargarh has been known for creating some of India's finest defenders in hockey. But the district and the Kalijapathar village is seeing Shilanand Lakra change the norm and become one of India's most lethal forwards and a star in the making. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-five-years-india-debut-anniversary-2881813-2026-03-14",
-      "headline": "5 years and still smiling: Suryakumar Yadav celebrates his India debut anniversaryFrom a patient wait on the sidelines to leading India to back-to-back T20 World Cup glory, Suryakumar Yadav marks five years of a journey that redefined modern T20 batting."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/blessing-muzarabani-breach-psl-contract-pcb-legal-action-ipl-switch-2881785-2026-03-14",
-      "headline": "Pakistan Cricket Board plans legal action after Muzarabani skips PSL to join IPLBlessing Muzarabani faces legal action from the PCB after leaving his PSL contract with Islamabad United to join Kolkata Knight Riders in the IPL. This is the second time in as many years that a player has ditched PSL for the IPL. "
     }
   ],
   "education": [
