@@ -323,6 +323,11 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kkr-injuries-ipl-harshit-rana-pathirana-mustafizur-2882903-2026-03-17",
+      "headline": "KKR's fast bowling problem: 2024 winners head towards shaky start to IPL campaign Kolkata Knight Riders enter the new IPL season with a fast-bowling unit already battered by injuries and uncertainty. With Harshit Rana unlikely to feature and Matheesha Pathirana still recovering, the defending champions suddenly look short of pace options and experience."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pratika-rawal-test-cricket-deep-bond-india-women-2882944-2026-03-16",
       "headline": "Pratika Rawal opens up on her deep bond with Test cricket: This is my format Pratika Rawal said that she considers Test cricket the ultimate measure of a cricketer's character, patience, and determination. She made her debut in the Day-Night Perth Test against Australia, scoring her maiden fifty. \r\n"
     },
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-hardik-pandya-mumbai-indians-title-hopes-harbhajan-singh-2882822-2026-03-16",
-      "headline": "Unleash the real Hardik Pandya: Harbhajan Singh on what MI needs to win IPL 2026 IPL 2026: Harbhajan Singh believes that the Mumbai Indians need to find a way to bring out the best in Hardik Pandya should they stand a chance of getting back to winning titles. "
+      "headline": "Unleash the real Hardik Pandya: Harbhajan Singh on what MI needs to win IPL 2026IPL 2026: Harbhajan Singh believes that the Mumbai Indians need to find a way to bring out the best in Hardik Pandya should they stand a chance of getting back to winning titles. "
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-vaibhav-sooryavanshi-rahul-dravid-naman-awards-ipl-2882456-2026-03-15",
       "headline": "Samson reveals Sooryavanshi's carefree chat with Dravid: Pehla hi uda dengeDuring the Naman Awards, Sanju Samson revealed that during IPL 2025, Vaibhav Sooryavanshi confidently told Rahul Dravid he would simply play his natural game, even planning to go aerial on the first opportunity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/gulveer-singh-half-marathon-national-record-new-york-city-bronze-medal-2882444-2026-03-15",
-      "headline": "Gulveer Singh shatters national record with bronze in New York City half marathonIndia's Gulveer Singh made history at the NYC Half Marathon 2026, winning bronze and breaking the national men's half-marathon record with a time of 59:42, becoming the first Indian to run under one hour."
     }
   ],
   "education": [
