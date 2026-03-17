@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/irdai-revamps-key-advisory-committee-brings-in-industry-and-policy-experts-2883301-2026-03-17",
+      "headline": "IRDAI revamps key advisory committee, brings in industry and policy expertsThe reconstituted panel includes several key institutional representatives. These include members from the Life Insurance Council and the General Insurance Council, along with heads of important professional bodies."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/market-closing-bell-sensex-ends-568-points-higher-nifty-above-23500-eternal-auto-metal-stocks-up-2883215-2026-03-17",
       "headline": "Sensex ends 568 points higher, Nifty above 23,500; Eternal up 6%The S&P BSE Sensex jumped 567.99 points to close at\u00a076,070.84, while the NSE Nifty50 gained 172.35 points to end at\u00a023,581.15.\u00a0\u00a0"
     },
@@ -94,11 +99,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/commodities/story/saudi-arabia-red-sea-route-yanbu-strait-of-hormuz-oil-crisis-iran-war-bloomberg-report-2882707-2026-03-16",
       "headline": "Saudi Arabia offers alternate Red Sea route as Strait of Hormuz faces crisisSaudi Arabia is now giving its long-term customers the option to receive their April oil allocations through the Red Sea port of Yanbu instead of the usual Persian Gulf terminals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/citigroup-lowers-nifty-target-27000-war-risks-oil-supply-shock-iran-middle-east-conflict-2882693-2026-03-16",
-      "headline": "Citigroup lowers Nifty target to 27,000 amid war risksThe global brokerage has cut its Nifty target to 27,000 from the earlier estimate of 28,500. Even after the reduction, the new target still suggests a possible upside of about 17% from the Nifty's last closing level."
     }
   ],
   "entertainment": [
@@ -113,7 +113,7 @@
       "headline": "Silambarasaran shares BTS still from Arasan shoot, second schedule underway Actor Silambarasan is back on the sets of Arasan, with the second shooting schedule progressing fast in Chennai.  Fans are eagerly waiting for the film, which is part of Vetri Maaran's Vada Chennai universe."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/sarke-chunar-teri-sarke-row-cine-association-seeks-action-from-ib-ministry-cbfc-2883209-2026-03-17",
       "headline": "Nora Fatehi song Sarke Chunar row: Cine worker body seeks action from I&B, censors All Indian Cine Workers Association has called on the CBFC and the Ministry of Information and Broadcasting to take strict action against the song Sarke Chunar Teri Sarke. In their letter, they cited public outrage and negative impact on youth."
     },
@@ -130,7 +130,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/divyanka-tripathi-vivek-dahiya-expecting-first-child-baby-shower-preparations-2883190-2026-03-17",
-      "headline": "Divyanka Tripathi, Vivek Dahiya to welcome first child after 10 years: Source Television actors Divyanka Tripathi and Vivek Dahiya are preparing to welcome their first child. A source close to the actors confirmed India Today. "
+      "headline": "Divyanka Tripathi, Vivek Dahiya to welcome first child after 10 years: Source Television actors Divyanka Tripathi and Vivek Dahiya are preparing to welcome their first child after 10 years of marriage, a source close to the actors confirmed to India Today. "
     },
     {
       "sentiment": "positive",
@@ -201,6 +201,11 @@
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/tmc-fields-mamata-banerjee-against-bjps-suvendu-adhikari-in-kolkatas-bhabanipur-2883255-2026-03-17",
+      "headline": "Dilli ka laddu will not win: Mamata to lock horns with Suvendu in BhabanipurThe Trinamool Congress announced its candidates for the West Bengal Assembly elections, declaring it will contest 291 of the 294 seats while leaving three constituencies for its ally BGPM."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/iran-security-chief-ali-larijani-targeted-israel-killed-injured-2883184-2026-03-17",
       "headline": "Israel claims Iran security chief Ali Larijani killed, he posts handwritten noteAli Larijani was virtually the No 2 in Iran and was playing a vital role in steering Tehran's security strategy. Larijani becomes the most senior Iranian official to be killed after Supreme Leader Ayatollah Ali Khamenei."
     },
@@ -210,9 +215,9 @@
       "headline": "LPG situation concerning: Government calls for judicious use amid shortage fearsThe Centre has urged judicious LPG use, pushed PNG adoption for commercial users, and asked states to fast-track approvals for city gas pipelines to ensure stable supply and avoid disruptions."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/netanyahu-new-photo-ordering-elimination-iran-officials-death-rumours-ai-2883210-2026-03-17",
-      "headline": "Israel posts photo of Netanyahu ordering strikes on Iran leadership amid death buzzIsrael shared a photo of Prime Minister Benjamin Netanyahu ordering strikes on Iran's leadership, even as authorities pushed back against viral but unverified claims about his death. The post comes amid escalating hostilities with Iran and a parallel information war marked by misinformation and official rebuttals."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/celina-jaitly-plea-closed-by-delhi-high-court-after-brother-in-uae-refuses-to-communicate-declines-legal-aid-2883125-2026-03-17",
+      "headline": "Celina Jaitly's brother says he doesn't want to speak to her, court closes caseThe Delhi High Court closed actor Celina Jaitly's plea after her brother Vikrant Jaitly, detained in the UAE, refused communication and legal aid. The court noted he has had multiple consular meetings and will let his wife decide future steps."
     },
     {
       "sentiment": "positive",
@@ -220,54 +225,34 @@
       "headline": "How BJP is trying to trap Mamata in Bhabanipur ChakravyuhThe BJP has strategised to bog down Mamata Banerjee in her Bhabanipur seat by fielding West Bengal LOP, Suvendu Adhikari, from the Kolkata seat. This is why the Bhabanipur battle is a Chakravyuh for Mamata and her Trinamool Congress."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/celina-jaitly-plea-closed-by-delhi-high-court-after-brother-in-uae-refuses-to-communicate-declines-legal-aid-2883125-2026-03-17",
-      "headline": "Celina Jaitly's brother says he doesn't want to speak to her, court closes caseThe Delhi High Court closed actor Celina Jaitly's plea after her brother Vikrant Jaitly, detained in the UAE, refused communication and legal aid. The court noted he has had multiple consular meetings and will let his wife decide future steps."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-aiadmk-leader-cv-shanmugam-want-nayanthara-speech-womens-day-2883167-2026-03-17",
+      "headline": "I want Nayanthara: AIADMK MP's crass remark at women safety rally sparks rowAn AIADMK leader, CV Shanmugam, has sparked outrage for making a crude and derogatory remark involving actor Nayanthara during a women's safety protest. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-aiadmk-leader-cv-shanmugam-want-nayanthara-speech-womens-day-2883167-2026-03-17",
-      "headline": "AIADMK MP stokes row with crass remark on Nayanthara at women safety rallyAn AIADMK leader, CV Shanmugam, has sparked outrage for making a crude and derogatory remark involving actor Nayanthara during a women's safety protest. "
+      "url": "https://www.indiatoday.in/world/story/netanyahu-new-photo-ordering-elimination-iran-officials-death-rumours-ai-2883210-2026-03-17",
+      "headline": "Israel posts photo of Netanyahu ordering strikes on Iran leadership amid death buzzIsrael shared a photo of Prime Minister Benjamin Netanyahu ordering strikes on Iran's leadership, even as authorities pushed back against viral but unverified claims about his death. The post comes amid escalating hostilities with Iran and a parallel information war marked by misinformation and official rebuttals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/why-iran-hitting-uae-hardest-israel-us-war-tehran-missile-drone-attack-dubai-abu-dhabi-2883141-2026-03-17",
+      "headline": "Why Iran is hitting UAE the hardest?The UAE has faced the most intense barrage of Iranian attacks among the Gulf countries since the US-Israel war on Tehran began. Civilian and business infrastructure in Dubai and other hubs have been targeted. But why has the UAE been targeted more than its Gulf neighbours? Here's what's driving Iran's aggression against it."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/is-protein-water-worth-the-hype-2883265-2026-03-17",
+      "headline": "Is protein water worth the hype?Hydrolysed protein, often known as protein water, is a novel type of protein supplement that is becoming popular. We asked experts about its advantages, benefits and claims it makes about gaining muscle."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-tension-dubai-tehran-strait-of-hormuz-2882967-2026-03-17",
-      "headline": "Live: India denies vessel swap with Iran, says talks on to bring back stranded ships from HormuzUS-Israel-Iran War Live Updates: The Middle East conflict continues to escalate with fresh developments across the region. US President Donald Trump said Washington was \"shocked\" after Iran began striking Gulf countries including Kuwait and Bahrain, widening the war's scope. Meanwhile, tensions have intensified around the Strait of Hormuz as several US allies declined Trump's call to deploy warships to escort oil tankers. Israel also reported new Iranian missile launches, while global markets remain on edge amid fears of prolonged disruption to energy supplies. Follow indiatoday.in for the latest live updates."
+      "headline": "Live: War will end in weeks, not months; Trump won't back down, says White House officialUS-Israel-Iran War Live Updates: The Middle East conflict continues to escalate with fresh developments across the region. US President Donald Trump said Washington was \"shocked\" after Iran began striking Gulf countries including Kuwait and Bahrain, widening the war's scope. Meanwhile, tensions have intensified around the Strait of Hormuz as several US allies declined Trump's call to deploy warships to escort oil tankers. Israel also reported new Iranian missile launches, while global markets remain on edge amid fears of prolonged disruption to energy supplies. Follow indiatoday.in for the latest live updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/you-indian-get-lost-why-vietnam-people-are-rude-to-indian-tourists-2882394-2026-03-16",
-      "headline": "You Indian? Get lost: Are Indians treated badly in Vietnam?Vietnam has grown popular among Indian travellers, but some say they faced hostility in shops and markets. Tourists and locals suggest stereotypes about Indians may be contributing to the friction."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/should-married-couples-be-allowed-to-file-taxes-together-in-india-2883132-2026-03-17",
-      "headline": "Should married couples be allowed to file taxes together in India?In most homes, finances are shared. But when it comes to taxes, couples are treated as individuals. Should that change? A new idea is now putting this question in focus."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/natos-nay-to-trump-why-europe-wants-no-part-of-americas-war-on-iran-2883208-2026-03-17",
-      "headline": "Nato's 'nay' to Trump: Why Europe wants no part of America's war on IranThe conflict initiated by Donald Trump has escalated into a difficult war with Iran, but European Nato allies have largely refused to support it, arguing it is not their responsibility and prioritising their own security concerns. Europe's reluctance stems from lack of consultation, domestic opposition, and fear of weakening defenses against Russia, while instead pushing for a diplomatic resolution."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-afghanistan-war-live-updates-airstrike-on-kabul-hospital-death-taliban-islamabad-2883057-2026-03-17",
-      "headline": "Live: Was like doomsday, says survivor as Pak strike on Kabul rehab kills 408Pakistan-Afghanistan Conflict Live Updates: At least 400 people were killed and 250 others injured in an airstrike allegedly carried out by Pakistan on a drug rehabilitation hospital in Kabul, the Afghan Taliban government said on Tuesday.\r\n\r\nPakistan, however, rejected the allegation as \"false and misleading\", maintaining that its strikes on Monday night were precise and targeted only military installations and terrorist support infrastructure. Stay tuned to India Today for the latest updates on the Pakistan-Afghanistan conflict."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/rashmika-mandanna-haldi-jewellery-moment-with-vijay-deverakonda-those-stacked-gold-kadhas-2883130-2026-03-17",
-      "headline": "Rashmika Mandanna turned stacked gold kadhas into the ultimate haldi statementThere hasn't been a single dull fashion moment from Rashmika Mandanna and Vijay Deverakonda's wedding, and their haldi photos prove exactly that."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/lpg-cylinder-shortage-live-updates-india-gas-supply-crisis-impact-kolkata-chennai-bengaluru-nanda-devi-shivalik-iran-war-2882990-2026-03-17",
-      "headline": "Live: Amid LPG concerns, govt pushes shift to PNGLPG crisis live updates: Amid shortage fears triggered by ongoing conflict in West Asia, fresh supplies are beginning to arrive in India. After the Shivalik vessel reached on Monday, another LPG carrier, Nanda Devi, has now arrived at Gujarat's Vadinar port with over 47,000 metric tonnes, easing immediate pressure. Even so, the impact of earlier disruptions continues to be felt across sectors, with cities like Pune reporting strain and limited cafeteria operations. Authorities have also intensified action against hoarding, with raids, FIRs and arrests reported across states, while the government pushes commercial users to shift to piped natural gas and maintains there is no nationwide shortage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-man-shoots-chest-friend-video-new-ashok-nagar-pawan-2882992-2026-03-17",
-      "headline": "What have you done, friend shouts after filming Delhi man shoot himselfThe man loaded the magazine, cocked the pistol, briefly looked at the camera, and then shot himself in the left side of his chest."
+      "url": "https://www.indiatoday.in/business/personal-finance/story/health-insurance-claim-rejections-rising-policyholders-age-slab-irdai-guidelines-2883172-2026-03-17",
+      "headline": "Did your health insurance premium jump at renewal? Here's what's behind itMany people are seeing sudden jumps in their health insurance premiums at renewal. The reasons aren't always clear, and insurers don't always explain them. In this article, we break down the possible reasons behind these sudden premium jumps."
     },
     {
       "sentiment": "negative",
@@ -276,8 +261,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/when-kalpana-chawla-got-a-call-from-india-and-nasa-told-her-its-prime-minister-ik-gujral-2883169-2026-03-17",
-      "headline": "When Nasa told Kalpana Chawla in space: The Indian PM is on the lineKalpana Chawla's historic journey began on November 19, 1997, when she flew aboard the STS-87 Columbia mission as part of a six-member crew. "
+      "url": "https://www.indiatoday.in/lifestyle/travel/story/you-indian-get-lost-why-vietnam-people-are-rude-to-indian-tourists-2882394-2026-03-16",
+      "headline": "You Indian? Get lost: Are Indians treated badly in Vietnam?Vietnam has grown popular among Indian travellers, but some say they faced hostility in shops and markets. Tourists and locals suggest stereotypes about Indians may be contributing to the friction."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/artemis-missions/story/what-will-artemis-ii-astronauts-do-on-their-10-day-voyage-around-the-moon-2883106-2026-03-17",
+      "headline": "This is what Artemis-II astronauts will do on their trip to the MoonThe 10-day journey, which will send the four astronauts around the Moon and back, is packed with critical tests, scientific observations, and preparations for future lunar landings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/natos-nay-to-trump-why-europe-wants-no-part-of-americas-war-on-iran-2883208-2026-03-17",
+      "headline": "Nato's 'nay' to Trump: Why Europe wants no part of America's war on IranThe conflict initiated by Donald Trump has escalated into a difficult war with Iran, but European Nato allies have largely refused to support it, arguing it is not their responsibility and prioritising their own security concerns. Europe's reluctance stems from lack of consultation, domestic opposition, and fear of weakening defenses against Russia, while instead pushing for a diplomatic resolution."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/started-gym-at-38-won-mr-india-this-bihar-man-now-runs-a-naan-stall-in-delhi-2883165-2026-03-17",
+      "headline": "Started gym at 38, won Mr India, this Bihar man now runs a naan stall in DelhiA street vendor, who began bodybuilding at 38, has won the Mr India Classic title while continuing to run a naan stall to support himself in Delhi. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/rashmika-mandanna-haldi-jewellery-moment-with-vijay-deverakonda-those-stacked-gold-kadhas-2883130-2026-03-17",
+      "headline": "Rashmika Mandanna turned stacked gold kadhas into the ultimate haldi statementThere hasn't been a single dull fashion moment from Rashmika Mandanna and Vijay Deverakonda's wedding, and their haldi photos prove exactly that."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-afghanistan-war-live-updates-airstrike-on-kabul-hospital-death-taliban-islamabad-2883057-2026-03-17",
+      "headline": "Live: Pak strike on Kabul rehab kills 408; China expresses concern, calls for ceasefirePakistan-Afghanistan Conflict Live Updates: At least 400 people were killed and 250 others injured in an airstrike allegedly carried out by Pakistan on a drug rehabilitation hospital in Kabul, the Afghan Taliban government said on Tuesday.\r\n\r\nPakistan, however, rejected the allegation as \"false and misleading\", maintaining that its strikes on Monday night were precise and targeted only military installations and terrorist support infrastructure. Stay tuned to India Today for the latest updates on the Pakistan-Afghanistan conflict."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/lpg-cylinder-shortage-live-updates-india-gas-supply-crisis-impact-kolkata-chennai-bengaluru-nanda-devi-shivalik-iran-war-2882990-2026-03-17",
+      "headline": "Live: Amid LPG concerns, govt pushes shift to PNGLPG crisis live updates: Amid shortage fears triggered by ongoing conflict in West Asia, fresh supplies are beginning to arrive in India. After the Shivalik vessel reached on Monday, another LPG carrier, Nanda Devi, has now arrived at Gujarat's Vadinar port with over 47,000 metric tonnes, easing immediate pressure. Even so, the impact of earlier disruptions continues to be felt across sectors, with cities like Pune reporting strain and limited cafeteria operations. Authorities have also intensified action against hoarding, with raids, FIRs and arrests reported across states, while the government pushes commercial users to shift to piped natural gas and maintains there is no nationwide shortage."
     },
     {
       "sentiment": "positive",
@@ -286,18 +301,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/gaurav-kapur-kritika-kamra-intimate-bandra-wedding-video-emotional-moments-2883155-2026-03-17",
-      "headline": "Gaurav Kapur gets emotional as Kritika Kamra walks in at wedding. Watch videoGaurav Kapur and Kritika Kamra recently got married in a private ceremony. A new video emerging from the March 11 wedding captures heartfelt moments and vows shared between the couple."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/india-condemns-pakistan-airstrike-kabul-hospital-2883128-2026-03-17",
-      "headline": "Dressing up massacre as military op: India slams Pak for Kabul hospital attackThe strike on a drug rehabilitation hospital in Kabul, which killed over 400 and left nearly 300 injured, comes amid a sharp escalation in the conflict between Pakistan and Afghanistan."
+      "url": "https://www.indiatoday.in/jobs/story/menstrual-leave-debate-returns-why-women-must-hide-biology-to-succeed-educ-2881906-2026-03-17",
+      "headline": "Menstrual leave debate returns: Why women must hide biology to succeedThe debate around menstrual leave has resurfaced after the Supreme Court said mandating it may discourage companies from hiring women. But the controversy raises a deeper question: why are women still expected to ignore biological realities and work within systems designed almost entirely around male physiology?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/menstrual-leave-debate-returns-why-women-must-hide-biology-to-succeed-educ-2881906-2026-03-17",
-      "headline": "Menstrual leave debate returns: Why women must hide biology to succeedThe debate around menstrual leave has resurfaced after the Supreme Court said mandating it may discourage companies from hiring women. But the controversy raises a deeper question: why are women still expected to ignore biological realities and work within systems designed almost entirely around male physiology?"
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-man-shoots-chest-friend-video-new-ashok-nagar-pawan-2882992-2026-03-17",
+      "headline": "What have you done? Cousin screams as Delhi man shoots himself while filming reelThe man loaded the magazine, cocked the pistol, briefly looked at the camera, and then shot himself in the left side of his chest."
     },
     {
       "sentiment": "positive",
@@ -306,13 +316,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/leaked-audio-reveals-how-iran-new-leader-mojtaba-khamenei-escaped-missile-strike-that-killed-his-father-says-report-2882960-2026-03-17",
-      "headline": "Mojtaba Khamenei cheated death by seconds in strike that killed fatherAccording to a report by The Telegraph, Israeli ballistic missiles struck the compound soon after Mojtaba left the building, killing Ali Khamenei along with dozens of senior officials and relatives."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/the-60-day-job-hunt-why-laid-off-employees-feel-they-must-find-work-fast-educ-2883091-2026-03-17",
-      "headline": "The '60-day job hunt': Why laid off employees feel they must find work fastWhen a Google engineer admitted he felt 'worried and scared' after being laid off, the internet could relate instantly. In today's volatile job market, losing a job often feels like the start of a 60-day race to find the next one"
+      "url": "https://www.indiatoday.in/india/story/india-condemns-pakistan-airstrike-kabul-hospital-2883128-2026-03-17",
+      "headline": "Dressing up massacre as military op: India slams Pak for Kabul hospital attackThe strike on a drug rehabilitation hospital in Kabul, which killed over 400 and left nearly 300 injured, comes amid a sharp escalation in the conflict between Pakistan and Afghanistan."
     }
   ],
   "sports": [
