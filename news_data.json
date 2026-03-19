@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-wins-praise-from-jr-ntr-mahesh-babu-finest-version-of-ranveer-singh-2884411-2026-03-20",
+      "headline": "Dhurandhar 2 wins praise from Jr NTR, Mahesh Babu: Finest version of Ranveer Dhurandhar: The Revenge received glowing endorsements from Tollywood stars Jr NTR and Mahesh Babu. They praised Ranveer Singh's powerful performance and Aditya Dhar's visionary direction. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-the-revenge-box-office-day-1-collection-report-rs-100-crore-opening-for-ranveer-singh-tops-jawan-kalki-2884427-2026-03-19",
+      "headline": "Dhurandhar 2 box office Day 1: Rs 100 crore opening for Ranveer; tops Jawan, Kalki Aditya Dhar's Dhurandhar: The Revenge opened at the box office like the juggernaut that it is. Initial trade reports suggested that the film touched the benchmark of Rs 100 crore nett on Thursday, taking the two-day total to near Rs 150 crore nett in India. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/welcome-to-khoya-mahal-aditi-rao-barun-sobti-lead-konkona-sensharmas-directorial-teaser-out-2884392-2026-03-19",
       "headline": "Khoya Mahal: Aditi Rao, Barun Sobti lead Konkona Sensharma's directorial, teaser out Welcome to Khoya Mahal is an intriguing Prime Video series set in a mysterious heritage hotel. Featuring Aditi Rao Hydari and Barun Sobti, it explores the eerie world of estranged siblings grappling with a crumbling inheritance and secrets that the mansion itself seems to hold."
     },
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/divyanka-tripathi-vivek-dahiya-announce-pregnancy-plot-twist-after-10-years-2884080-2026-03-19",
       "headline": "Actors Divyanka Tripathi-Vivek Dahiya announce pregnancy: Plot twist after 10 years Actors Divyanka Tripathi and Vivek Dahiya announced pregnancy, shared that they kept the news private for six months, leaving fans pleasantly surprised. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-box-office-prediction-ram-gopal-varma-review-new-cinematic-order-2884048-2026-03-19",
-      "headline": "Ram Gopal Varma says people want to marry Dhurandhar 2 in new remark Ram Gopal Varma has a striking new take on Dhurandhar 2, claiming audiences are deeply invested. His comments are adding to the film's growing buzz\u2014here's why.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aditya-dhar-dhurandhar-2-release-mukesh-chhabra-praise-ranveer-singh-2884039-2026-03-19",
-      "headline": "Aditya Dhar worked till 2:30 am before Dhurandhar 2 release, reveals Mukesh Chhabra Casting director Mukesh Chhabra praised Aditya Dhar's dedication to Dhurandhar and revealed he worked till 2:30 am before release. He called Dhar a genius and expressed confidence that the film would surpass expectations and break records."
     }
   ],
   "general news": [
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-pakistan-nuclear-threat-mea-tulsi-gabbard-report-landestine-history-2884401-2026-03-19",
-      "headline": "It shows Pakistan has history: India on US intel chief's nuclear threat remarkIndia flagged Pakistan's clandestine nuclear proliferation history as a global threat, echoing concerns raised in a recent US intelligence assessment.\r\n"
+      "url": "https://www.indiatoday.in/world/story/iran-claims-direct-hit-us-f-35-stealth-jet-emergency-landing-irgc-releases-video-2884437-2026-03-19",
+      "headline": "Iran claims direct hit on US F-35 stealth jet, video shows damage midairA video shared by Tehran Times claims to show the moment a US F-35 fighter jet was hit during a combat mission over Iranian airspace. The clip shows the aircraft appearing to take damage, with explosions, smoke trails, and the jet veering off course mid-air."
     },
     {
       "sentiment": "positive",
@@ -227,7 +227,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-tension-dubai-tehran-strait-of-hormuz-trump-mojtaba-khamenei-ali-larijani-irgc-beirut-lebanon-gulf-2883469-2026-03-18",
-      "headline": "Live: US F-35 fighter jet damaged in Iranian strikes, claims Iran's revolutionary guardUS-Israel-Iran War Live Updates: The United States was informed in advance of Israel's strike on Iran's South Pars gas field but did not take part, as global oil prices surged on fears of retaliation. Hours later, a missile hit Qatar's key gas facility, causing significant damage and prompting Doha to expel some Iranian embassy officials. Israel also killed Iran's intelligence minister, further destabilising its leadership, as Tehran warned of retaliation. Meanwhile, an Iranian missile struck a building in the occupied West Bank, killing three people and injuring at least 13 \u2014 the first fatalities there since the Iran war began. Stay tuned to IndiaToday.in for the latest updates."
+      "headline": "Live: Netanyahu says Iran can no longer enrich uranium or make ballistic missilesUS-Israel-Iran War Live Updates: The United States was informed in advance of Israel's strike on Iran's South Pars gas field but did not take part, as global oil prices surged on fears of retaliation. Hours later, a missile hit Qatar's key gas facility, causing significant damage and prompting Doha to expel some Iranian embassy officials. Israel also killed Iran's intelligence minister, further destabilising its leadership, as Tehran warned of retaliation. Meanwhile, an Iranian missile struck a building in the occupied West Bank, killing three people and injuring at least 13 \u2014 the first fatalities there since the Iran war began. Stay tuned to IndiaToday.in for the latest updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-pakistan-nuclear-threat-mea-tulsi-gabbard-report-landestine-history-2884401-2026-03-19",
+      "headline": "It shows Pakistan has history: India on US intel chief's nuclear threat remarkIndia flagged Pakistan's clandestine nuclear proliferation history as a global threat, echoing concerns raised in a recent US intelligence assessment.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pune-three-friends-returning-jammu-leh-ladakh-trip-toyota-fortuner-overturns-plunges-flyover-dead-2884424-2026-03-19",
+      "headline": "3 friends, returning from Ladakh trip, die after car plunges 30 feet off flyoverThe three friends were part of a group of 12 people, all from Pune, who were returning from a Jammu and Leh-Ladakh trip. The remaining friends were in two other cars and were at a toll plaza at the time of the incident."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/bjp-strategic-poaching-congress-leaders-pradyut-bordoloi-bhupen-borah-crisis-assam-assembly-elections-2884355-2026-03-19",
+      "headline": "Decoding Congress's Assam crisis: How BJP's strategic poaching deepens electoral woesBJP's first list of candidates for the upcoming Assam Assembly elections also featured the names of two former Congress turncoats, Pradyut Bordoloi and Bhupen Borah."
     },
     {
       "sentiment": "positive",
@@ -241,18 +256,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/bjp-strategic-poaching-congress-leaders-pradyut-bordoloi-bhupen-borah-crisis-assam-assembly-elections-2884355-2026-03-19",
-      "headline": "Decoding Congress's Assam crisis: How BJP's strategic poaching deepens electoral woesBJP's first list of candidates for the upcoming Assam Assembly elections also featured the names of two former Congress turncoats, Pradyut Bordoloi and Bhupen Borah."
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-2026-uss-gerald-r-ford-out-of-action-going-to-souda-bay-greec-did-american-soldiers-clog-toilets-set-fire-to-bedding-to-skip-war-duty-2884193-2026-03-19",
+      "headline": "Did US soldiers set fire to bedding, clog toilets of warship to skip war duty?Amid the war in Iran, the US aircraft carrier Gerald R Ford is retreating to a port in Greece for repairs. The ship was plagued by clogged toilets, and a fire that burnt through the vessel's laundry system and sleeping quarters. While the first has been blamed on the crew, the other could also be their handiwork of soldiers trying to skip war duty."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-the-revenge-box-office-day-1-collection-report-rs-100-crore-opening-for-ranveer-singh-tops-jawan-kalki-2884427-2026-03-19",
+      "headline": "Dhurandhar 2 box office Day 1: Rs 100 crore opening for Ranveer; tops Jawan, KalkiAditya Dhar's Dhurandhar: The Revenge opened at the box office like the juggernaut that it is. Initial trade reports suggested that the film touched the benchmark of Rs 100 crore nett on Thursday, taking the two-day total to near Rs 150 crore nett in India. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/photo/manish-malhotra-mother-dies-sidharth-kiara-to-varun-natasha-celebs-pay-respects-2884406-2026-03-19",
-      "headline": "Manish Malhotra's mother dies: Sidharth-Kiara to Varun-Natasha, celebs pay respectsCelebrity fashion designer and producer Manish Malhotra's mother, Garima Malhotra, died on March 19, 2026. Several members of the film fraternity visited his residence later in the evening to offer their condolences."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-2026-uss-gerald-r-ford-out-of-action-going-to-souda-bay-greec-did-american-soldiers-clog-toilets-set-fire-to-bedding-to-skip-war-duty-2884193-2026-03-19",
-      "headline": "Did US soldiers set fire to bedding, clog toilets of warship to skip war duty?Amid the war in Iran, the US aircraft carrier Gerald R Ford is retreating to a port in Greece for repairs. The ship was plagued by clogged toilets, and a fire that burnt through the vessel's laundry system and sleeping quarters. While the first has been blamed on the crew, the other could also be their handiwork of soldiers trying to skip war duty."
+      "headline": "Manish Malhotra's mother dies: Aishwarya-Abhishek to KJo, celebs pay respectsCelebrity fashion designer and producer Manish Malhotra's mother, Garima Malhotra, died on March 19, 2026. Several members of the film fraternity visited his residence later in the evening to offer their condolences."
     },
     {
       "sentiment": "positive",
@@ -261,18 +276,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/india-world-indoor-athletics-championships-2884397-2026-03-19",
-      "headline": "Mondo Duplantis in India? Bhubaneshwar set to host World Indoor Champs' 2028Indian athletics fans could get a chance to watch pole vault superstar Mondo Duplantis on home soil, with Bhubaneswar set to host the 2028 World Indoor Athletics Championships."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/israeli-officials-contradict-trump-say-us-knew-of-iran-gas-strike-2884402-2026-03-19",
       "headline": "Israeli officials contradict Trump, say US knew of Iran gas strikeIsraeli officials said the United States was informed in advance of the strike on Iran's South Pars gas field, contradicting Donald Trump, who claimed Washington had no prior knowledge. The attack triggered Iranian retaliation across Gulf energy infrastructure, escalating regional tensions despite efforts to limit further strikes.\r\n"
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/india-world-indoor-athletics-championships-2884397-2026-03-19",
+      "headline": "Mondo Duplantis in India? Bhubaneshwar set to host World Indoor Champs' 2028Indian athletics fans could get a chance to watch pole vault superstar Mondo Duplantis on home soil, with Bhubaneswar set to host the 2028 World Indoor Athletics Championships."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/iran-foreign-minister-syed-abbas-araghchi-tehran-used-fraction-power-israel-warns-stronger-response-2884399-2026-03-19",
       "headline": "Iran used only fraction of its power against Israel, says Foreign Minister AraghchiAraghchi also stressed that any future resolution must take into account the damage caused to civilian infrastructure, signalling that Tehran would push for accountability in any diplomatic outcome."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/iran-israel-war-cricket-dukes-ball-2884345-2026-03-19",
+      "headline": "Iran-Israel war's odd effect on cricket: England are running out of ballsEngland's domestic cricket season faces an odd disruption due to the Iran-Israel conflict. It seems that the war has hit the supply of Dukes balls, leaving counties with limited stock ahead of their new season."
     },
     {
       "sentiment": "positive",
@@ -281,13 +301,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/theatres-erupt-as-pm-modi-appears-in-dhurandhar-2-internet-cant-keep-calm-2884132-2026-03-19",
-      "headline": "Theatres erupt as PM Modi appears in Dhurandhar 2, internet can't keep calmDhurandhar: The Revenge screenings saw loud cheers for the scenes where Prime Minister Narendra Modi appears. While theatres reacted positively, the moment also drew responses online, too."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/oil-gas-supplies-cut-strait-of-hormuz-red-sea-houthi-attacks-internet-undersea-cables-iran-2883908-2026-03-19",
-      "headline": "Can Iran shut down global internet by cutting Hormuz undersea cables?The world is facing an energy crisis as Iran blocked supplies passing through the Strait of Hormuz after strikes by the US and Israel. Vital subsea cables that carry global internet traffic also pass through Hormuz. Any damage to them could trigger internet outages and hit financial systems across countries, including in India."
+      "url": "https://www.indiatoday.in/jobs/story/the-sandwich-generation-layoff-when-parents-lose-jobs-and-children-start-earning-educ-2883618-2026-03-19",
+      "headline": "The sandwich generation layoff: When parents lose jobs and children start earningThe script of the Indian household is silently flipping. As layoffs hit professionals in their early 50s, parents who once carried families for decades are now depending on their children to hold things together."
     },
     {
       "sentiment": "positive",
@@ -301,23 +316,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/dhurandhar-the-revenge-review-power-politics-and-ranveer-singh-who-devours-it-all-2883964-2026-03-18",
-      "headline": "Dhurandhar The Revenge review: Power, politics and Ranveer Singh who devours it allRelease Date:Wed Mar 18, 2026Dhurandhar: The Revenge is loud, political, and deeply character-driven, refusing to play safe at any point. Ranveer Singh leads a film that knows exactly the impact it wants to leave behind."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/pune/story/iit-students-killed-mumbai-pune-expressway-car-crash-khopoli-maharashtra-2884337-2026-03-19",
-      "headline": "3 IIT students killed as car loses control, overturns on Mumbai-Pune ExpresswayThree IIT students were killed and one critically injured after a speeding car lost control and overturned multiple times on the Mumbai-Pune Expressway."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ranveer-singh-dhurandhar-2-breaks-all-premiere-records-with-rs-52-crore-set-for-historic-run-2884006-2026-03-19",
-      "headline": "Dhurandhar 2 breaks all premiere records with Rs 52 crore, set for historic runRanveer Singh's Dhurandhar: The Revenge has begun its box office journey with record-breaking paid premiere collections exceeding Rs 52 crore.  The film is expected to dominate the box office with positive reviews from preview shows."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/father-two-children-among-4-shot-at-in-delhi-home-by-bike-borne-attackers-gang-war-suspected-2884354-2026-03-19",
-      "headline": "Father, 2 children among 4 shot at in Delhi home; gang war suspectedA suspected gang war incident was reported in Delhi's Bawana area, where armed assailants barged into a house and opened fire. Four people sustained bullet injuries in the attack, including a young boy who later succumbed."
+      "url": "https://www.indiatoday.in/world/story/oil-gas-supplies-cut-strait-of-hormuz-red-sea-houthi-attacks-internet-undersea-cables-iran-2883908-2026-03-19",
+      "headline": "Can Iran shut down global internet by cutting Hormuz undersea cables?The world is facing an energy crisis as Iran blocked supplies passing through the Strait of Hormuz after strikes by the US and Israel. Vital subsea cables that carry global internet traffic also pass through Hormuz. Any damage to them could trigger internet outages and hit financial systems across countries, including in India."
     }
   ],
   "sports": [
