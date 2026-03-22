@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/standpoint/story/deepika-padukone-silence-on-ranveer-singh-dhurandhar-2-bugs-trolls-should-we-care-2885436-2026-03-22",
+      "headline": "Deepika Padukone's silence on Ranveer's Dhurandhar 2 bugs trolls. Should we care? The internet is losing it over Deepika Padukone's silence on Ranveer Singh's Dhurandhar 2. But since when did a happy marriage require an Instagram post? The trolling reflects the classic double standard: Demanding wives be public cheerleaders while ignoring their right to a private life."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/bts-arirang-album-review-seven-voices-evolving-identity-2885408-2026-03-22",
       "headline": "BTS' comeback album ARIRANG review: Seven voices, one evolving identity BTS returns with ARIRANG, blending tradition and innovation to showcase their evolving identity after a long hiatus and military service. This album marks a new chapter where each member's unique voice contributes to a fluid, dynamic collective sound."
     },
@@ -191,14 +196,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/rakesh-bedi-shares-aditya-dhar-emotional-speech-from-inside-dhurandhar-2-the-revenge-mumbai-screening-2885169-2026-03-21",
       "headline": "Rakesh Bedi shares Aditya Dhar's emotional speech from inside Dhurandhar 2 screening Aditya Dhar expressed gratitude as Dhurandhar 2 received overwhelming love. He thanked his team during the film's premiere in Mumbai.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rakesh-bedi-calling-himself-dhurandhar-12-years-ago-is-ultimate-iykyk-moment-watch-2885162-2026-03-21",
-      "headline": "Rakesh Bedi calling himself Dhurandhar 12 years ago is ultimate IYKYK moment. Watch Actor Rakesh Bedi once played an interesting role in the popular TV show Qubool Hai. A clip from the show is now going viral, in which Bedi is seen calling himself Dhurandhar. Consider this your spoiler warning."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/all-but-enemy-linked-vessels-iran-softens-stance-on-allowing-ships-via-hormuz-2885449-2026-03-22",
+      "headline": "All but enemy-linked vessels: Iran softens stance on allowing ships via HormuzThe statement comes hours after US President Donald Trump threatened to target Iranian power plants if the waterway does not \"fully open\" within 48 hours."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/pakistan-former-envoy-abdul-basit-warns-india-targets-mumbai-new-delhi-us-attack-2885401-2026-03-22",
@@ -211,13 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/where-is-mojtaba-khamenei-alive-but-not-in-control-of-iran-say-reports-2885400-2026-03-22",
-      "headline": "Finding Mojtaba Khamenei: Iran Supreme Leader's whereabouts puzzle US, IsraelThe continued absence of Mojtaba, according to an Axios report, has been a matter of discussion during President Donald Trump's intelligence briefings. The report also quoted an official as saying that the US national security team is still assessing who is in charge in Tehran."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/aditya-dhars-dhurandhar-2-politics-explained-anti-terror-not-anti-pakistan-2885313-2026-03-22",
-      "headline": "Aditya Dhar's Dhurandhar 2 politics explained: Anti-terror, not anti-PakistanAditya Dhar doesn't make it easy to watch Dhurandhar: The Revenge. He lets you experience the discomfort, the silence that haunts and the screams that linger longer than you want. But at the centre of it all is India's clear policy: anti-terror, not anti-Pakistan. Consider this your spoiler warning. "
+      "url": "https://www.indiatoday.in/movies/standpoint/story/deepika-padukone-silence-on-ranveer-singh-dhurandhar-2-bugs-trolls-should-we-care-2885436-2026-03-22",
+      "headline": "Deepika Padukone's silence on Ranveer's Dhurandhar 2 bugs trolls. Should we care?The internet is losing it over Deepika Padukone's silence on Ranveer Singh's Dhurandhar 2. But since when did a happy marriage require an Instagram post? The trolling reflects the classic double standard: Demanding wives be public cheerleaders while ignoring their right to a private life."
     },
     {
       "sentiment": "positive",
@@ -230,19 +230,19 @@
       "headline": "Ambling off Air Force One, struggling to sit down: Trump sparks health concernsA brief moment caught on camera has reignited debate around Donald Trump's health, with another clip adding fuel to speculation as online reactions grow sharper and questions around his fitness return.\r\n"
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/where-is-mojtaba-khamenei-alive-but-not-in-control-of-iran-say-reports-2885400-2026-03-22",
+      "headline": "Finding Mojtaba Khamenei: Iran Supreme Leader's whereabouts puzzle US, IsraelThe continued absence of Mojtaba, according to an Axios report, has been a matter of discussion during President Donald Trump's intelligence briefings. The report also quoted an official as saying that the US national security team is still assessing who is in charge in Tehran."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-ace-up-tehran-sleeve-what-is-dirty-bomb-will-tehran-use-against-america-jerusalem-2883881-2026-03-22",
       "headline": "The ace up Iran's sleeve? What is a dirty bomb and will Tehran use one?With uranium enriched to 60%, it is not possible to build a nuclear bomb, but a radiological dispersal device can still be made. Such devices can be used to disperse radiological dust and smoke over a wide area. If Iran can make it, it could make Israel very uncomfortable."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/nvidia-ceo-jensen-huang-says-engineers-should-be-evaluated-on-basis-of-how-many-ai-tokens-they-use-2885149-2026-03-21",
-      "headline": "Nvidia CEO says engineers should be evaluated on basis of how many AI tokens they useNvidia CEO Jensen Huang says the rise of AI is changing software engineering so much that companies may soon judge engineers by how many AI tokens they use instead of just how much code they write. He believes access to AI compute will become a key productivity tool, and engineers who use more AI effectively will deliver better results."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/video/beirut-displacement-crisis-israel-evacuation-lebanon-tents-2885441-2026-03-22",
-      "headline": "Tents, cars as homes: How Beirut's displaced families live amid Israeli strikesRows of makeshift tents and parked cars have turned into shelters on the outskirts of Beirut, as thousands of displaced families struggle to cope after evacuation orders amid the ongoing conflict between Israel Defense Forces and Hezbollah.\r\n\r\nGround reports by Ashraf Wani from the area show families, including children, spending nights in the open, with limited protection from weather and scarce access to basic necessities.\r\n\r\nMore than one million people have already been displaced across Lebanon as the conflict intensifies.\r\n\r\nWhile some have managed to find shelter with relatives in safer areas, others have moved into temporary shelters. Many, however, have been left with no option but to stay in open spaces on the city's fringes.\r\n\r\nIn one such location, small tents dot open fields, offering little respite to families forced out of their homes.\r\n\r\nVehicles parked along the roadside have become improvised homes.\r\n\r\n\"Any car you see behind is a small home where families are sleeping for the night,\" said Ashraf Wani in a ground report from Beirut.\r\n\r\nWith large parts of the city ordered to be vacated, the pressure on both space and resources has intensified.\r\n\r\nThe scale of displacement has placed significant strain on the Lebanese government, with the situation fast evolving into a humanitarian crisis.\r\n\r\nDespite the challenges, aid efforts continue.\r\n\r\nVolunteers and non government groups are arriving daily to provide essentials such as food, water and breakfast to those stranded without support.\r\n\r\n\"Despite all these hardships, there are people coming every day\u2026 to serve food and water,\" Wani said.\r\n\r\nAs the conflict shows no immediate signs of easing, displaced families remain uncertain about how long they will have to live in such conditions."
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/the-death-of-lived-in-homes-is-instagram-algorithm-killing-indian-interior-design-2885428-2026-03-22",
+      "headline": "The death of 'lived-in homes'In the race to design the \"perfect\" home, are we losing what made homes feel like ours?"
     },
     {
       "sentiment": "positive",
@@ -255,19 +255,39 @@
       "headline": "Anaya Bangar undergoes gender change surgery, thanks father for supportAnaya Bangar shared that she has successfully undergone gender-affirming surgery in Thailand. She credited her father Sanjay Bangar and family for their support through the emotional journey."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/aditya-dhars-dhurandhar-2-politics-explained-anti-terror-not-anti-pakistan-2885313-2026-03-22",
+      "headline": "Aditya Dhar's Dhurandhar 2 politics explained: Anti-terror, not anti-PakistanAditya Dhar doesn't make it easy to watch Dhurandhar: The Revenge. He lets you experience the discomfort, the silence that haunts and the screams that linger longer than you want. But at the centre of it all is India's clear policy: anti-terror, not anti-Pakistan. Consider this your spoiler warning. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/video/beirut-displacement-crisis-israel-evacuation-lebanon-tents-2885441-2026-03-22",
+      "headline": "Tents, cars as homes: How Beirut's displaced families live amid Israeli strikesRows of makeshift tents and parked cars have turned into shelters on the outskirts of Beirut, as thousands of displaced families struggle to cope after evacuation orders amid the ongoing conflict between Israel Defense Forces and Hezbollah.\r\n\r\nGround reports by Ashraf Wani from the area show families, including children, spending nights in the open, with limited protection from weather and scarce access to basic necessities.\r\n\r\nMore than one million people have already been displaced across Lebanon as the conflict intensifies.\r\n\r\nWhile some have managed to find shelter with relatives in safer areas, others have moved into temporary shelters. Many, however, have been left with no option but to stay in open spaces on the city's fringes.\r\n\r\nIn one such location, small tents dot open fields, offering little respite to families forced out of their homes.\r\n\r\nVehicles parked along the roadside have become improvised homes.\r\n\r\n\"Any car you see behind is a small home where families are sleeping for the night,\" said Ashraf Wani in a ground report from Beirut.\r\n\r\nWith large parts of the city ordered to be vacated, the pressure on both space and resources has intensified.\r\n\r\nThe scale of displacement has placed significant strain on the Lebanese government, with the situation fast evolving into a humanitarian crisis.\r\n\r\nDespite the challenges, aid efforts continue.\r\n\r\nVolunteers and non government groups are arriving daily to provide essentials such as food, water and breakfast to those stranded without support.\r\n\r\n\"Despite all these hardships, there are people coming every day\u2026 to serve food and water,\" Wani said.\r\n\r\nAs the conflict shows no immediate signs of easing, displaced families remain uncertain about how long they will have to live in such conditions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/nvidia-ceo-jensen-huang-says-engineers-should-be-evaluated-on-basis-of-how-many-ai-tokens-they-use-2885149-2026-03-21",
+      "headline": "Nvidia CEO says engineers should be evaluated on basis of how many AI tokens they useNvidia CEO Jensen Huang says the rise of AI is changing software engineering so much that companies may soon judge engineers by how many AI tokens they use instead of just how much code they write. He believes access to AI compute will become a key productivity tool, and engineers who use more AI effectively will deliver better results."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/crude-oil-supply-shortage-west-asia-war-iran-us-global-recession-risk-explained-2885418-2026-03-22",
       "headline": "Oil shock deepens as West Asia war escalates. Is a global recession coming?The world is already feeling the heat as the West Asia conflict enters its fourth week, pushing global crude oil prices higher. In this article, we speak to experts to understand whether this shock could tip the world toward a recession."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/the-death-of-lived-in-homes-is-instagram-algorithm-killing-indian-interior-design-2885428-2026-03-22",
-      "headline": "The death of 'lived-in homes'In the race to design the \"perfect\" home, are we losing what made homes feel like ours?"
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-police-respond-after-video-of-lamborghini-doing-stunts-goes-viralg-2885434-2026-03-22",
+      "headline": "Bengaluru police respond after video of Lamborghini doing stunts goes viralThe clip, shared by a user on X, captures a Lamborghini repeatedly doing donuts at a public junction under a flyover in Bengaluru, even as other vehicles pass by."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-police-respond-after-video-of-lamborghini-doing-stunts-goes-viralg-2885434-2026-03-22",
-      "headline": "Bengaluru police respond after video of Lamborghini doing stunts goes viralThe clip, shared by a user on X, captures a Lamborghini repeatedly doing donuts at a public junction under a flyover in Bengaluru, even as other vehicles pass by."
+      "url": "https://www.indiatoday.in/health/story/women-willing-to-give-organs-but-more-men-get-them-india-gender-gap-organ-donation-2884877-2026-03-22",
+      "headline": "A silent imbalance: Women still donate the organs and men get themHandcrafted ByOur Editors Four out of five organ donors in India are women, and four out of five people who received the organs were men. The imbalance remains a telling reflection of society itself."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-584-20-03-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "negative",
@@ -281,38 +301,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shreyanka-patil-exclusive-interview-t20-world-cup-india-comeback-2885309-2026-03-22",
-      "headline": "Shreyanka, stronger and wiser, fights past pain to reignite T20 World Cup flameIn an exclusive interview with India Today Digital, Shreyanka Patil opened up on battling one of the toughest phases of her career, with multiple injuries leaving her full of doubt. Having recently made her India comeback on the Australia tour, Shreyanka now hopes to help India chase their maiden Women's T20 World Cup title."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-584-20-03-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/air-india-bmi-policy-for-cabin-crew-derostering-pay-loss-rules-explained-2885388-2026-03-22",
-      "headline": "Air India tightens cabin crew fitness rules, weight gain may lead to pay lossA new policy at Air India could directly impact cabin crew rosters and salaries, linking fitness levels to employment status, as the airline moves to enforce stricter health standards from May 1.\r\n"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/jobs/story/should-ai-be-allowed-in-job-interviews-hiring-debate-educ-2885262-2026-03-22",
       "headline": "The AI Hiring Hypocrisy: Why AI is okay at work, but 'cheating' in job interviewsCompanies want AI-driven productivity at work, but penalise it in interviews. That contradiction in hiring practices is now raising questions bigger questions about outdated evaluation systems."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-groundwater-crisis-depletion-contamination-el-nino-2026-2884746-2026-03-22",
-      "headline": "India's groundwater crisis is deep. One Delhi neighbourhood has a fixIndia has spent decades borrowing water from the future. The bill is now due as several regions around the country face acute water shortages and over-extraction threatens cities."
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/battlefield-to-kitchen-how-wars-taught-us-to-cook-without-cooking-2884935-2026-03-22",
+      "headline": "Battlefield to kitchen: How wars taught us to cook without cookingHandcrafted ByOur Editors As fuel prices rise and global tensions ripple into everyday life, the kitchen once again feels the shadow of war. In Part 2 of our ongoing series, we trace how battlefield innovations have reshaped how we eat today. Cooking, it seems, is no longer bound to the moment of hunger."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/airlines-to-maintain-fair-pricing-goverment-withdraws-temporary-domestic-air-fare-caps-citing-stabilised-ops-2885354-2026-03-21",
-      "headline": "Government withdraws domestic airfare caps imposed after IndiGo fiascoThe government has withdrawn temporary domestic airfare caps from March 23, 2026, citing stabilised operations and restored capacity. Airlines have been asked to maintain fair, transparent pricing, with authorities warning of strict action if fares rise excessively."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/women-willing-to-give-organs-but-more-men-get-them-india-gender-gap-organ-donation-2884877-2026-03-22",
-      "headline": "A silent imbalance: Women still donate the organs and men get themHandcrafted ByOur Editors Four out of five organ donors in India are women, and four out of five people who received the organs were men. The imbalance remains a telling reflection of society itself."
+      "url": "https://www.indiatoday.in/india/story/air-india-bmi-policy-for-cabin-crew-derostering-pay-loss-rules-explained-2885388-2026-03-22",
+      "headline": "Air India tightens cabin crew fitness rules, weight gain may lead to pay lossA new policy at Air India could directly impact cabin crew rosters and salaries, linking fitness levels to employment status, as the airline moves to enforce stricter health standards from May 1.\r\n"
     },
     {
       "sentiment": "negative",
@@ -321,6 +321,16 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rishabh-pant-lucknow-super-giants-batting-position-no-3-2885459-2026-03-22",
+      "headline": "Lucknow Super Giants make big call to help accommodate Rishabh Pant in IPL 2026 IPL 2026: Rishabh Pant is expected to be LSG's new No.3 while Nicholas Pooran gets demoted to the middle-order despite being one of their standout players last season."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-players-fine-t20-world-cup-2026-mohsin-naqvi-pcb-gary-kirsten-2885451-2026-03-22",
+      "headline": "Pakistan fined for poor T20 WC 2026: Kirsten says he isn't shocked about news Gary Kirsten said that he was sad to hear the news that the Pakistan players were being fined for their performance in the T20 World Cup 2026. Kirtsen, however, admitted that he wasn't surprised to hear about the move from PCB. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sunil-gavaskar-indian-owned-franchises-stop-paying-pakistan-players-2885443-2026-03-22",
@@ -364,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rohit-sharma-viral-video-mi-fan-fest-divine-song-daughter-samaira-tilak-varma-2885357-2026-03-21",
-      "headline": "Watch: Rohit Sharma grooves to Divine, enjoys MI fan fest with daughter Samaira IPL 2026: Rohit Sharma danced with daughter Samaira at Mumbai Indians' fan fest. The video went viral as MI gear up for IPL 2026."
+      "headline": "Watch: Rohit Sharma grooves to Divine, enjoys MI fan fest with daughter SamairaIPL 2026: Rohit Sharma danced with daughter Samaira at Mumbai Indians' fan fest. The video went viral as MI gear up for IPL 2026."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-eid-t20-world-cup-cooking-skills-2885350-2026-03-21",
-      "headline": "Watch: Babar Azam shows off cooking skills on Eid amid injury controversy Pakistan batter Babar Azam delighted his fans on Eid\u2011ul\u2011Fitr by sharing a video of himself cooking traditional festive dishes at home. \r\n"
+      "headline": "Watch: Babar Azam shows off cooking skills on Eid amid injury controversyPakistan batter Babar Azam delighted his fans on Eid\u2011ul\u2011Fitr by sharing a video of himself cooking traditional festive dishes at home. \r\n"
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/angkrish-raghuvanshi-century-kkr-intra-squad-victory-eden-gardens-2885079-2026-03-21",
       "headline": "Raghuvanshi hits statement hundred in KKR intra-squad match, Rahane flopsAngkrish Raghuvanshi produced a statement knock during KKR's intra-squad match ahead of the IPL 2026 season, scoring an unbeaten 103 off just 55 balls. While Raghuvanshi impressed, Ajinkya Rahane and Umran Malik struggled to find early form. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/harry-maguire-red-card-man-utd-vs-bournemouth-var-controversy-carrick-reaction-2885077-2026-03-21",
-      "headline": "Maguire on red card during Manchester United vs Bournemouth: That's football todayHarry Maguire slammed the controversial call made by Stuart Attwell to give him a red card during Manchester United's 2-2 draw against Bournemouth on Friday, March 20. United felt that they should have got a penalty earlier for a foul on Amad Diallo. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-portugal-friendly-squad-miss-fifa-world-cup-2026-injury-2885048-2026-03-21",
-      "headline": "Cristiano Ronaldo set to miss Portugal friendlies ahead of FIFA World Cup 2026Cristiano Ronaldo misses Portugal's March friendlies with a hamstring issue, but the bigger focus remains his fitness for the FIFA World Cup 2026 as Portugal manage their captain's workload carefully."
     }
   ],
   "education": [
