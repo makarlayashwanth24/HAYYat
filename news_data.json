@@ -323,6 +323,11 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-praises-devdutt-padikkal-explosive-innings-rcb-beat-srh-ipl-2026-opener-2888559-2026-03-29",
+      "headline": "RCB vs SRH: Virat Kohli not surprised by Devdutt Padikkal's Bengaluru blitz IPL 2026, RCB vs SRH: Virat Kohli heaped praise on Devdutt Padikkal, who scored 61 off 26 balls to help Royal Challengers Bengaluru beat Sunrisers Hyderabad by six wickets at the M Chinnaswamy Stadium."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-anushka-sharma-flying-kiss-chinnaswamy-rcb-vs-srh-ipl-2026-opener-win-2888544-2026-03-28",
       "headline": "Virat Kohli, Anushka Sharma exchange flying kisses after RCB's opener RCB vs SRH, IPL 2026: Virat Kohli's unbeaten 69 powers RCB to a six-wicket win over SRH in IPL 2026 opener, capped by a flying kiss to Anushka Sharma at a roaring Chinnaswamy Stadium."
     },
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rcb-vs-srh-live-score-ipl-2026-royal-challengers-bengaluru-sunrisers-hyderabad-match-2888402-2026-03-28",
-      "headline": "RCB vs SRH Highlights: Kohli, Padikkal help Bengaluru hammer Hyderabad by 6 wickets Bengaluru (RCB) vs Hyderabad (SRH) Highlights, IPL 2026: Virat Kohli stayed not out on 69 as Bengaluru made a stupendous start to their campaign with a six-wicket win over Hyderabad at the M Chinnaswamy Stadium. "
+      "headline": "RCB vs SRH Highlights: Kohli, Padikkal help Bengaluru hammer Hyderabad by 6 wicketsBengaluru (RCB) vs Hyderabad (SRH) Highlights, IPL 2026: Virat Kohli stayed not out on 69 as Bengaluru made a stupendous start to their campaign with a six-wicket win over Hyderabad at the M Chinnaswamy Stadium. "
     },
     {
       "sentiment": "positive",
@@ -454,7 +459,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-vs-srh-preview-pitch-report-team-news-virat-kohli-bengaluru-predicted-xi-2888215-2026-03-28",
-      "headline": "Kohli headlines cricket's return to Bengaluru in high-octane IPL opener Live UpdatesIPL 2026: Royal Challengers Bengaluru and SunRisers Hyderabad are set to kick off the season in Bengaluru. Two heavy-hitting batting line-ups will look to light up the M Chinnaswamy Stadium, which returns after nearly a year in exile."
+      "headline": "Kohli headlines cricket's return to Bengaluru in high-octane IPL opener  Live UpdatesIPL 2026: Royal Challengers Bengaluru and SunRisers Hyderabad are set to kick off the season in Bengaluru. Two heavy-hitting batting line-ups will look to light up the M Chinnaswamy Stadium, which returns after nearly a year in exile."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rohit-sharma-dale-steyn-mumbai-indians-2888178-2026-03-27",
       "headline": "Rohit Sharma to hit 500 runs? Dale Steyn predicts explosive IPL season for MI starIPL 2026: Dale Steyn backed Rohit Sharma to have one of his best IPL seasons, using the tournament to showcase his skills and remind everyone he remains among the top players."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mumbai-indians-akash-madhwal-training-ipl-2026-bumrah-workload-management-2888130-2026-03-27",
-      "headline": "Is he Bumrah's replacement? MI fans buzzing after ex-bowler spotted with squadMumbai Indians fans were buzzing after spotting former bowler Akash Madhwal training with the squad ahead of the start of the IPL 2026 campaign. Many wondered if Madhwal was brought in as a replacement for Jasprit Bumrah. "
     }
   ],
   "education": [
