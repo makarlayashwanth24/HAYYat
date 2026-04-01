@@ -202,12 +202,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/artemis-ii-moon-mission-launched-nasa-reid-wiseman-victor-glover-christina-koch-apollo-2890423-2026-04-02",
-      "headline": "Nasa successfully launches four astronauts on a 10-day trip to the MoonNasa successfully launches four astronauts on a 10-day trip to the Moon"
+      "headline": "One giant leap again: Nasa launches four astronauts on historic Moon trip LIVENasa's first crewed lunar voyage in over 50 years is commanded by Reid Wiseman, and carries a historic crew that includes the first woman, the first person of colour, and the first Canadian astronaut on a round trip to the far side of the Moon."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/irans-president-pezeshkian-releases-letter-addressed-to-the-us-says-no-enmity-towards-ordinary-americans-2890416-2026-04-02",
       "headline": "No enmity towards Americans: Iran's Pezeshkian in letter to US public amid warIran's President Pezeshkian says Tehran holds no hostility towards ordinary Americans in an open letter, questioning US military actions and urging a rethink amid escalating tensions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/donald-trump-speech-live-updates-addresses-us-israel-iran-war-middle-east-conflict-2890388-2026-04-01",
+      "headline": "Live: Trump to address the nation after saying US will exit Iran pretty quicklyDonald Trump Address on Iran War Live Updates: US President Donald Trump is set to deliver an update on Iran in an address at 9 PM ET (6:30 AM IST), as mixed messaging continues to surround Washington's stance on the ongoing conflict. On Wednesday, Trump claimed that Iran had reached out seeking a ceasefire, writing, \"Iran's New Regime President, much less radicalized and far more intelligent than his predecessors, has just asked the United States of America for a CEASEFIRE!\" He went on to link any potential truce to conditions in the Strait of Hormuz, adding, \"We will consider when Hormuz Strait is open, free, and clear. Until then, we are blasting Iran into oblivion or, as they say, back to the Stone Ages!\" The remarks came a day after Trump suggested the war could end soon, saying the month-long conflict may conclude within two to three weeks and that oil prices would come tumbling down once US forces withdraw. However, Iran has firmly pushed back, with its Foreign Ministry calling the ceasefire claim \"false and baseless\" and denying that any such request had been made. Meanwhile, Houthi rebels in Yemen fired ballistic missiles at southern Israel, describing the strike as part of a coordinated effort with Iran and Hezbollah. The attack comes as the conflict intensifies, with Iran and its allies stepping up joint operations in response to ongoing US and Israeli strikes. Stay with indiatoday.in for the latest and live updates."
     },
     {
       "sentiment": "positive",
@@ -227,7 +232,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/artemis-missions/story/artemis-ii-moon-mission-launch-live-updates-nasa-donald-trump-reid-wiseman-2890113-2026-04-01",
-      "headline": "LIVE: Artemis-II launched to the Moon, Orion spacecraft to separate shortlyArtemis-II, the first crewed journey toward the Moon in over five decades since Apollo, launched on Thursday. It is carrying four astronauts on a 10-day mission around the Moon and back to Earth without landing."
+      "headline": "LIVE: Artemis-II launched to the Moon, Orion begins journey in spaceArtemis-II, the first crewed journey toward the Moon in over five decades since Apollo, launched on Thursday. It is carrying four astronauts on a 10-day mission around the Moon and back to Earth without landing."
     },
     {
       "sentiment": "positive",
@@ -318,6 +323,11 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/sangram-singh-mma-india-global-push-argentina-fight-2890241-2026-04-02",
+      "headline": "Sangram Singh's second act: Taking Indian MMA to the world at the age of 40 From wrestling champion to MMA pioneer, Sangram Singh aims to elevate Indian combat sports globally as he continues to defy the odds at the age of 40. Sangram hopes to act as a bridge for India to the MMA world and help up-and-coming talent. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-lsg-vs-dc-rishabh-pant-top-order-role-lucknow-super-giants-2890418-2026-04-02",
       "headline": "Rishabh Pant drops big hint on batting position after unlucky start as opener IPL 2026: Rishabh Pant hinted at a top-order role despite an unlucky run-out as opener, as LSG fell short against DC in IPL 2026, with Sameer Rizvi's unbeaten fifty sealing the chase."
     },
@@ -369,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/lsg-vs-dc-mayank-yadav-auqib-nabi-not-playing-xi-ipl-2026-2890272-2026-04-01",
-      "headline": "IPL 2026: LSG hold back Mayank Yadav return, no Delhi debut for Auqib Nabi Mayank Yadav and Auqib Nabi have been made to wait for their chance in the IPL 2026 as LSG and DC decided to hold back their pacers for the clash at the Ekana stadium on Wednesday, April 1. "
+      "headline": "IPL 2026: LSG hold back Mayank Yadav return, no Delhi debut for Auqib NabiMayank Yadav and Auqib Nabi have been made to wait for their chance in the IPL 2026 as LSG and DC decided to hold back their pacers for the clash at the Ekana stadium on Wednesday, April 1. "
     },
     {
       "sentiment": "positive",
@@ -465,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pbks-vs-gt-ipl-2026-prasidh-krishna-skiddy-spell-mullanpur-2889839-2026-04-01",
       "headline": "IPL 2026 Play of the Day: Prasidh Krishna's skiddy burst jolts PBKS in MullanpurPBKS vs GT, IPL 2026 Play of The Day: Prasidh Krishna's skiddy spell turned a comfortable Punjab Kings chase into a tense contest, using bounce and variation after rain to trigger a collapse and briefly hand Gujarat Titans control."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/delhi-capitals-ipl-2026-squad-preview-analysis-strengths-weaknesses-2889664-2026-04-01",
-      "headline": "IPL: Do Delhi Capitals have what it takes to end their title drought?IPL 2026, Delhi Capitals preview: Among the three teams still chasing a first IPL title, Delhi Capitals appear better equipped than ever, with a well-rounded squad that blends international experience and domestic depth. Yet, their familiar struggles with inconsistency and injuries could once again define how far they go."
     }
   ],
   "education": [
