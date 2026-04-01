@@ -201,13 +201,13 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/irans-president-pezeshkian-releases-letter-addressed-to-the-us-says-no-enmity-towards-ordinary-americans-2890416-2026-04-02",
-      "headline": "No enmity towards Americans: Iran's Pezeshkian in letter to US public amid warIran's President Pezeshkian says Tehran holds no hostility towards ordinary Americans in an open letter, questioning US military actions and urging a rethink amid escalating tensions."
+      "url": "https://www.indiatoday.in/science/story/artemis-ii-moon-mission-launched-nasa-reid-wiseman-victor-glover-christina-koch-apollo-2890423-2026-04-02",
+      "headline": "Nasa successfully launches four astronauts on a 10-day trip to the MoonNasa successfully launches four astronauts on a 10-day trip to the Moon"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/artemis-missions/story/artemis-ii-moon-mission-launch-live-updates-nasa-donald-trump-reid-wiseman-2890113-2026-04-01",
-      "headline": "LIVE: Nasa in final phase of Artemis-II Moon launch pre, weather clearArtemis-II, the first crewed journey toward the Moon in over five decades since Apollo, is set to launch on Thursday at 3:54 am IST. It will carry four astronauts on a 10-day mission around the Moon and back to Earth without landing."
+      "url": "https://www.indiatoday.in/world/story/irans-president-pezeshkian-releases-letter-addressed-to-the-us-says-no-enmity-towards-ordinary-americans-2890416-2026-04-02",
+      "headline": "No enmity towards Americans: Iran's Pezeshkian in letter to US public amid warIran's President Pezeshkian says Tehran holds no hostility towards ordinary Americans in an open letter, questioning US military actions and urging a rethink amid escalating tensions."
     },
     {
       "sentiment": "positive",
@@ -216,13 +216,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/interactive/story/time-tide-and-tamil-part-39-mercury-rises-in-poes-delhi-heatwave-teacup-storms-and-tectonic-shifts-2890260-2026-04-01",
+      "headline": "Mercury Rises in Poes: Delhi Heatwave Teacup Storms & Tectonic Shifts | Part 39"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/going-to-be-out-of-iran-pretty-quickly-could-return-only-for-spot-hits-trump-on-plan-ahead-2890270-2026-04-01",
       "headline": "Trump says US will exit Iran pretty quickly, but could return for spot hitsPresident Donald Trump said that the US would be \"out of Iran pretty quickly\" and could carry out \"spot hits\" if needed ahead of his scheduled address to the nation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/interactive/story/time-tide-and-tamil-part-39-mercury-rises-in-poes-delhi-heatwave-teacup-storms-and-tectonic-shifts-2890260-2026-04-01",
-      "headline": "Mercury Rises in Poes: Delhi Heatwave Teacup Storms & Tectonic Shifts | Part 39"
+      "url": "https://www.indiatoday.in/science/artemis-missions/story/artemis-ii-moon-mission-launch-live-updates-nasa-donald-trump-reid-wiseman-2890113-2026-04-01",
+      "headline": "LIVE: Artemis-II launched to the Moon, Orion spacecraft to separate shortlyArtemis-II, the first crewed journey toward the Moon in over five decades since Apollo, launched on Thursday. It is carrying four astronauts on a 10-day mission around the Moon and back to Earth without landing."
     },
     {
       "sentiment": "positive",
@@ -231,8 +236,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/us-iran-economic-war-disrupts-global-oil-trade-challenges-us-israel-trump-joker-2890140-2026-04-01",
+      "headline": "Iran has the Trump card, Trump has the JokerIran is waging an economic war as it fights the military might of the US and Israel. Because causing damage to the US economy is where it will hurt Washington the most."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/jobs/story/after-4000-layoffs-at-block-jack-dorsey-says-all-companies-should-replace-middle-managers-with-ai-tchc-2890095-2026-04-01",
       "headline": "Jack Dorsey says all companies should replace middle managers with AIAfter cutting around 4,000 jobs, Block founder Jack Dorsey says that in the future, companies may no longer need middle managers. He believes AI can take over coordination work, helping organisations run faster and more efficiently with fewer layers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/donald-trump-end-us-israel-iran-war-world-awaits-us-president-address-oil-crisis-hormuz-2890103-2026-04-01",
+      "headline": "What will Trump do next? World awaits US President's address with bated breathTrump is set to address the nation tonight, outlining US's next course of action in the Iran conflict. Amid a deepening global oil crisis, world leaders and markets alike are watching closely. With the Strait of Hormuz remaining disrupted, Trump's next move could have far-reaching consequences for energy markets and global stability. As uncertainty lingers, the stakes extend far beyond the battlefield."
     },
     {
       "sentiment": "positive",
@@ -241,13 +256,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/us-iran-economic-war-disrupts-global-oil-trade-challenges-us-israel-trump-joker-2890140-2026-04-01",
-      "headline": "Iran has the Trump card, Trump has the JokerIran is waging an economic war as it fights the military might of the US and Israel. Because causing damage to the US economy is where it will hurt Washington the most."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-end-us-israel-iran-war-world-awaits-us-president-address-oil-crisis-hormuz-2890103-2026-04-01",
-      "headline": "What will Trump do next? World awaits US President's address with bated breathTrump is set to address the nation tonight, outlining US's next course of action in the Iran conflict. Amid a deepening global oil crisis, world leaders and markets alike are watching closely. With the Strait of Hormuz remaining disrupted, Trump's next move could have far-reaching consequences for energy markets and global stability. As uncertainty lingers, the stakes extend far beyond the battlefield."
+      "url": "https://www.indiatoday.in/business/story/iran-war-india-condom-manufacturing-petrochemical-shortage-west-asia-conflict-2890283-2026-04-01",
+      "headline": "Iran war hits Indian bedrooms: How the conflict triggered a condom shortageAs the geopolitical tremors of the Iran war ripple through global supply chains, an intimate but essential public health commodity has become the latest casualty. "
     },
     {
       "sentiment": "positive",
@@ -261,13 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/iran-war-india-condom-manufacturing-petrochemical-shortage-west-asia-conflict-2890283-2026-04-01",
-      "headline": "Iran war hits Indian bedrooms: How the conflict triggered a condom shortageAs the geopolitical tremors of the Iran war ripple through global supply chains, an intimate but essential public health commodity has become the latest casualty. "
+      "url": "https://www.indiatoday.in/india/story/andhra-pradesh-assembly-election-2024-results-nda-voting-pattern-midnight-2890198-2026-04-01",
+      "headline": "Votes in 6 seconds, 4% cast after midnight: Major allegations over Andhra pollsSeveral 'unusual' voting patterns in the 2024 Andhra Pradesh Assembly elections were flagged at a press conference in Delhi. Economist Parakala Prabhakar claimed that around 4.16% of the total votes were cast between 11:45 pm and 2 am, and that these votes were won by the NDA."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/andhra-pradesh-assembly-election-2024-results-nda-voting-pattern-midnight-2890198-2026-04-01",
-      "headline": "Votes in 6 seconds, 4% cast after midnight: Major allegations over Andhra pollsSeveral 'unusual' voting patterns in the 2024 Andhra Pradesh Assembly elections were flagged at a press conference in Delhi. Economist Parakala Prabhakar claimed that around 4.16% of the total votes were cast between 11:45 pm and 2 am, and that these votes were won by the NDA."
+      "url": "https://www.indiatoday.in/auto/cars/story/2026-world-car-awards-bmw-ix3-is-the-world-car-of-the-year-and-world-electric-vehicle-winner-2890387-2026-04-01",
+      "headline": "BMW iX3 is the World Car of the Year and World Electric Vehicle winnerAt the World Car Awards 2026, the BMW iX3 secured top honours, winning both World Car of the Year and World Electric Vehicle at the New York International Auto Show."
     },
     {
       "sentiment": "positive",
@@ -278,21 +288,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/kerala-christian-church-catholic-backlash-bjp-fcra-amendment-bill-assembly-election-explained-2890201-2026-04-01",
       "headline": "Did Kerala church backlash make BJP blink on FCRA Bill?The BJP-led Centre might have blamed Opposition parties for getting the FCRA Bill shelved, but many see political calculations behind the move. The BJP's move might have to do with the Christians in Kerala, which goes to polls on April 9."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/2026-world-car-awards-bmw-ix3-is-the-world-car-of-the-year-and-world-electric-vehicle-winner-2890387-2026-04-01",
-      "headline": "BMW iX3 is the World Car of the Year and World Electric Vehicle winnerAt the World Car Awards 2026, the BMW iX3 secured top honours, winning both World Car of the Year and World Electric Vehicle at the New York International Auto Show."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/oracle-lays-off-12000-in-india-here-is-the-severance-package-employees-say-they-got-tchc-2890049-2026-04-01",
-      "headline": "Oracle lays off 12,000 in India, here is the severance employees say they gotOracle layoffs have reportedly impacted as many as 30,000 employees across regions. In India, about 12,000 Oracle employees, maybe in line for the dreaded pink slip. Here is how much these laid off employees are likely to get as part of their severance package from Oracle."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-lsg-vs-dc-sameer-rizvi-rishabh-pant-ekana-lucknow-2890389-2026-04-01",
-      "headline": "Sameer Rizvi guides Delhi to winning start as bowlers bend IPL script in LucknowIPL 2026, LSG vs DC: Sameer Rizvi's composed 70 anchors Delhi Capitals' tense chase as bowlers dominate a rare low-scoring IPL contest, exposing Lucknow Super Giants' tactical missteps in a game where patience and control proved decisive."
     },
     {
       "sentiment": "negative",
@@ -306,21 +301,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/ridiculous-offers-iran-refuses-trump-terms-strait-of-hormuz-says-wont-open-to-enemies-2890276-2026-04-01",
-      "headline": "Ridiculous displays of US President: Iran firm on Strait of Hormuz blockadeIran's IRGC said the Strait of Hormuz is under its \"full and decisive control\" and rejected US pressure to reopen it, after Donald Trump claimed Tehran had sought a ceasefire tied to access to the strategic waterway."
+      "url": "https://www.indiatoday.in/jobs/story/oracle-lays-off-12000-in-india-here-is-the-severance-package-employees-say-they-got-tchc-2890049-2026-04-01",
+      "headline": "Oracle lays off 12,000 in India, here is the severance employees say they gotOracle layoffs have reportedly impacted as many as 30,000 employees across regions. In India, about 12,000 Oracle employees, maybe in line for the dreaded pink slip. Here is how much these laid off employees are likely to get as part of their severance package from Oracle."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/kitkat-launches-tracker-to-find-stolen-bars-its-not-an-april-fools-prank-2890180-2026-04-01",
-      "headline": "KitKat launches tracker to find stolen bars. It's not an April Fool's prankThe 'Stolen KitKat Tracker' has been launched where every customer can become a detective and help the company to nab the chocolate heist mastermind."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-lsg-vs-dc-sameer-rizvi-rishabh-pant-ekana-lucknow-2890389-2026-04-01",
+      "headline": "Sameer Rizvi guides Delhi to winning start as bowlers bend IPL script in LucknowIPL 2026, LSG vs DC: Sameer Rizvi's composed 70 anchors Delhi Capitals' tense chase as bowlers dominate a rare low-scoring IPL contest, exposing Lucknow Super Giants' tactical missteps in a game where patience and control proved decisive."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/explosion-outside-punjab-bjp-office-sector-37-chandigarh-police-investigation-punjab-news-2890211-2026-04-01",
-      "headline": "Grenade attack at BJP Chandigarh office, Khalistani terrorist claims responsibilityThe blast occurred in the vicinity of the BJP office, with investigation agencies now trying to ascertain the cause of the explosion and assess the extent of damage."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/ridiculous-offers-iran-refuses-trump-terms-strait-of-hormuz-says-wont-open-to-enemies-2890276-2026-04-01",
+      "headline": "Ridiculous displays of US President: Iran firm on Strait of Hormuz blockadeIran's IRGC said the Strait of Hormuz is under its \"full and decisive control\" and rejected US pressure to reopen it, after Donald Trump claimed Tehran had sought a ceasefire tied to access to the strategic waterway."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-lsg-vs-dc-rishabh-pant-top-order-role-lucknow-super-giants-2890418-2026-04-02",
+      "headline": "Rishabh Pant drops big hint on batting position after unlucky start as opener IPL 2026: Rishabh Pant hinted at a top-order role despite an unlucky run-out as opener, as LSG fell short against DC in IPL 2026, with Sameer Rizvi's unbeaten fifty sealing the chase."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-recovery-early-return-ipl-2026-csk-vs-pbks-training-session-video-viral-2890415-2026-04-02",
@@ -374,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-arjun-tendulkar-no-dreams-playing-for-india-2890212-2026-04-01",
-      "headline": "Arjun Tendulkar doesn't dream of playing for India IPL 2026: Arjun Tendulkar focuses on personal growth and a fresh start with Lucknow Super Giants, while voicing his opposition to the IPL's Impact Player rule."
+      "headline": "Arjun Tendulkar doesn't dream of playing for IndiaIPL 2026: Arjun Tendulkar focuses on personal growth and a fresh start with Lucknow Super Giants, while voicing his opposition to the IPL's Impact Player rule."
     },
     {
       "sentiment": "positive",
@@ -470,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/delhi-capitals-ipl-2026-squad-preview-analysis-strengths-weaknesses-2889664-2026-04-01",
       "headline": "IPL: Do Delhi Capitals have what it takes to end their title drought?IPL 2026, Delhi Capitals preview: Among the three teams still chasing a first IPL title, Delhi Capitals appear better equipped than ever, with a well-rounded squad that blends international experience and domestic depth. Yet, their familiar struggles with inconsistency and injuries could once again define how far they go."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/italy-miss-fifa-world-cup-2026-penalty-shootout-loss-bosnia-herzegovina-2889855-2026-04-01",
-      "headline": "Azzurri Apocalypse 3.0: Italy miss FIFA World Cup months after cricket joyIn a surreal sporting paradox, Italy's recent ICC T20 World Cup heroics have been eclipsed by a footballing apocalypse: for the third consecutive time, the four-time world champions have failed to qualify for the FIFA World Cup, falling to a crushing penalty shootout defeat against Bosnia and Herzegovina in Zenica."
     }
   ],
   "education": [
