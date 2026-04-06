@@ -2,6 +2,26 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-jumps-why-stock-market-rose-today-april-6-nifty-oil-prices-iran-ceasefire-impact-2892174-2026-04-06",
+      "headline": "Sensex jumps 787 points: 3 reasons why stock market took a U-turn and rose todayStock market rally: The biggest trigger for the recovery was news of a possible Iran-US ceasefire framework. This comes after a weak start to the day, where markets were under pressure due to global tensions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/rbi-mpc-april-2026-policy-iran-war-impact-india-economy-inflation-repo-rate-outlook-2892144-2026-04-06",
+      "headline": "RBI MPC begins under shadow of global conflict: What it means for your moneyThe RBI MPC meeting comes at a difficult moment, as global tensions and rising oil prices have made the central bank's job more complex. The repo rate currently stands at 5.25%."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/should-indian-investors-change-their-strategy-amid-global-conflicts-2892148-2026-04-06",
+      "headline": "Should Indian investors change their strategy amid global conflicts?Effective financial planning begins with clearly identifying long-term financial goals and aligning investments accordingly. Asset allocation should be determined based on the required rate of return and an individual's risk profile."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/commodities/story/crude-oil-prices-surge-geopolitical-tensions-strait-of-hormuz-2892145-2026-04-06",
+      "headline": "Explained: What's really behind the latest surge in crude oil pricesCrude oil is trading on uncertainty rather than fundamentals, and until clarity emerges on supply disruptions, prices are likely to remain volatile and highly sensitive to every geopolitical development."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/should-married-couples-file-taxes-together-in-india-heres-what-experts-think-2892136-2026-04-06",
       "headline": "Should married couples file taxes together in India? Here's what experts thinkIn many homes, income may vary between partners, but financial goals are common. With joint filing now being discussed, one question stands out, i.e., should married couples continue to be taxed separately? Let's have a look."
     },
@@ -74,38 +94,38 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/iran-war-market-signals-ship-insurance-premiums-oil-prices-supply-timelines-investors-2891085-2026-04-03",
       "headline": "Iran war hit your portfolio? Track these 4 signals to stay ahead on Dalal StreetFor investors, the bigger challenge is not just falling markets, but the confusion around what to track. Headlines are changing rapidly, with mixed signals on escalation, oil prices and supply disruptions. This makes it difficult to take clear investment decisions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/getting-82-on-small-savings-dont-invest-before-these-5-key-checks-2891063-2026-04-03",
-      "headline": "Getting 8.2% on small savings? Don't invest before these 5 key checksGetting returns of up to 8.2% on small savings schemes may sound like an easy win. But before you lock your money in, it's worth pausing to check a few basics that could impact your finances later."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/income-tax-filing-2026-which-5-key-links-should-every-taxpayer-check-now-2891038-2026-04-03",
-      "headline": "Income tax filing 2026: Which 5 key links should every taxpayer check now?Filing your income tax return in 2026 may feel a bit different this time. With the portal revamped and new rules in place, knowing where to click can save both time and effort. Here are five key links you should not miss."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/zero-layoff-policy-amid-tech-job-cut-india-oracle-layoffs-bnw-developments-uae-dubai-busc-2890999-2026-04-03",
-      "headline": "Layoffs everywhere, but this company says no job cutsThe company has said it will not cut jobs despite ongoing global uncertainty. It has committed to retaining its workforce and continuing salary payments without delay."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/good-friday-2026-stock-market-holiday-is-nse-bse-open-or-closed-today-2890988-2026-04-03",
-      "headline": "Good Friday 2026: Is stock market open or closed today?Both stock exchanges, the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE), are closed on April 3 on account of Good Friday."
     }
   ],
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/robert-downey-jr-shares-avengers-doomsday-easter-eggs-fans-spot-spider-man-2892166-2026-04-06",
+      "headline": "Robert Downey Jr shares Avengers: Doomsday Easter eggs; fans spot Spider-Man Robert Downey Jr surprised fans with Easter eggs, revealing key Marvel characters from Avengers: Doomsday. Eagle-eyed fans spotted Spider-Man and other superheroes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/bhooth-bangla-trailer-akshay-kumar-priyadarshan-comedy-2026-2892182-2026-04-06",
+      "headline": "Bhooth Bangla trailer: Fans say Akshay Kumar spookfest gives Bhool Bhulaiyaa vibes Bhooth Bangla trailer sparks comparisons to Bhool Bhulaiyaa as fans hail Akshay Kumar's return to comedy, recalling classics like Phir Hera Pheri, Bhagam Bhaag and Chup Chup Ke."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-the-revenge-rs-1000-crore-run-box-office-story-behind-bollywood-9-year-wait-after-baahubali-2-2892159-2026-04-06",
+      "headline": "Dhurandhar 2's Rs 1,000-crore India run and Bollywood's catching up with Baahubali 2 Dhurandhar: The Revenge has made one clear achievement in 18 days -- setting a new legacy for Bollywood at the box office by emerging as the first Hindi film to cross the Rs 1,000-crore mark in India. It is not just about numbers anymore, it's about changing Bollywood's game."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vignesh-shivan-happy-known-nayanthara-husband-family-love-2892121-2026-04-06",
+      "headline": "Vignesh Shivan reacts to claims of being overshadowed by Nayanthara Vignesh Shivan opened up about being recognised as Nayanthara's husband, dismissed claims of being 'overshadowed,' and shared a heartfelt anecdote reflecting love over ego in their relationship."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/screen-awards-2026-full-winners-list-ranveer-singh-dhurandhar-dominates-show-2892137-2026-04-06",
-      "headline": "Screen Awards 2026 full winners list: Ranveer Singh's Dhurandhar dominates show At the Screen Awards 2026, Aditya Dhar's spy thriller Dhurandhar dominated with 14 wins, including Best Director, while Ranveer Singh received the Best Actor trophy for his role as an Indian spy. Neeraj Ghaywan's Homebound was honored with Best Film."
+      "headline": "Screen Awards 2026 full winners list: Dhurandhar dominates, Homebound is Best Film At the Screen Awards 2026, the spy thriller Dhurandhar dominated with 14 wins, including Best Director for Aditya Dhar and Best Actor for Ranveer Singh. Neeraj Ghaywan's Homebound was adjudged Best Film."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/chand-mera-dil-ananya-panday-lakshyas-new-posters-talk-first-love-second-chances-2892109-2026-04-06",
-      "headline": "Chand Mera Dil: Ananya Panday-Lakshya's new posters talk first love, second chances Karan Johar's Dharma Productions announced the release date of Chand Mera Dil with new posters featuring Ananya Panday and Lakshya. The film explores themes of first love and second chances."
+      "headline": "Chand Mera Dil: Ananya Panday-Lakshya's new posters talk first love, second chances Karan Johar announced the release date of Chand Mera Dil with new posters featuring Ananya Panday and Lakshya. The film explores themes of first love and second chances."
     },
     {
       "sentiment": "negative",
@@ -171,29 +191,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/project-hail-mary-rocky-joins-iconic-friendly-aliens-jaadu-pk-tattoo-indian-cinema-2890428-2026-04-06",
       "headline": "Jadoo, PK, Tattoo: Why Rocky from Project Hail Mary reminds of cute desi aliens Ryan Gosling's Project Hail Mary is currently creating buzz at the Indian box office, not just for its visual spectacle but also for the friendly alien Rocky. However, Indian cinema, while limited in number, has had its fair share of encounters with such friendly aliens."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/amid-rumours-with-vijay-thalapathy-trisha-krishnan-shares-cryptic-posts-on-love-and-peace-2892035-2026-04-06",
-      "headline": "Amid rumours with Vijay, Trisha shares cryptic posts on love and peace Amid ongoing rumours around actors Vijay Thalapathy and Trisha Krishnan, the latter shared cryptic posts on peace, self-worth, and love, grabbing attention online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sara-arjun-celebrates-dhurandhar-2-success-shares-thank-you-note-for-unsung-heroes-2892032-2026-04-06",
-      "headline": "Sara Arjun celebrates Dhurandhar 2 success, shares thank-you note for unsung heroes Sara Arjun wrote a heartfelt note thanking the 'unsung heroes' of Dhurandhar 2, shining a light on the crew behind the film. The actor highlighted the tireless efforts of the team, calling them the backbone of the film's success."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-rahul-banerjees-death-all-film-tv-shoots-in-bengal-suspended-from-tuesday-2892008-2026-04-05",
-      "headline": "Actor Rahul Banerjee's death: All film, TV shoots in Bengal suspended from Tuesday Tollywood has come to a standstill after the death of actor Rahul Arunoday Banerjee. The incident, which occurred in Odisha, prompted a suspension of all shoots from April 7, 2026, across industry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-day-18-film-earns-rs-1000-crore-in-india-sets-bollywood-record-2891985-2026-04-05",
-      "headline": "Dhurandhar 2 Day 18: Film nets Rs 1,000 crore in India, sets Bollywood record Dhurandhar 2: The Revenge has become the first Hindi film to cross Rs 1,000 crore net in India. Led by Ranveer Singh, the film continues its strong run at the box office even on Day 18."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/security-breach-at-delhi-assembly-as-unidentified-car-breaks-gate-enters-and-escapes-probe-on-2892178-2026-04-06",
+      "headline": "Major security breach at Delhi Assembly as car rams gate, drives in, escapesA shocking breach at the Delhi Assembly left security exposed as an unidentified vehicle rammed through the gate, entered the premises, and later escaped. Authorities are investigating using CCTV footage and forensics."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/iran-us-reviewing-2-step-plan-for-immediate-ceasefire-tehran-unwilling-to-reopen-hormuz-for-temporary-truce-2892127-2026-04-06",
@@ -201,8 +206,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-strait-of-hormuz-donald-trump-netanyahu-middle-east-conflict-2892018-2026-04-06",
+      "headline": "Live: 16 Indian-flagged vessels stranded in Strait of Hormuz, says ReutersUS-Israel-Iran War Live Updates: US President Donald Trump has escalated tensions with Iran, warning that \"power plants and bridges\" could be targeted if the Strait of Hormuz is not reopened by Tuesday evening, saying \"Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one.\" Trump's abusive threat drew a sharp from Iranian parliament speaker Mohammad Bagher Ghalibaf, who warned that Trump's \"reckless moves\" risk dragging the country into living hell and insisting \"you won't gain anything through war crimes.\" Behind the scenes, Oman has held urgent talks with Iran to ensure smooth flow of transit through war-hit Hormuz, while Pakistan and Egypt have kept diplomatic channels open between Washington and Tehran. At the same time, violence has intensified elsewhere, with Israeli strikes in Beirut killing at least four people and Hezbollah launching retaliatory attacks, escalating the conflict further. Follow IndiaToday.in for the latest updates."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/madhya-pradesh-high-court-upholds-adult-womans-right-to-choose-partner-in-habeas-corpus-case-could-not-make-marriage-work-with-husband-21-years-older-2892073-2026-04-06",
       "headline": "My husband is 40, I am 19: Woman wins right to live with lover in Madhya PradeshA 19-year-old woman stood firm in court, choosing her partner over her husband. Despite counselling and family pressure, the High Court upheld her decision, reinforcing an adult's right to choose."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-rescue-mission-iran-risks-for-donsld-trump-ground-invasion-plan-2892119-2026-04-06",
+      "headline": "Danger at every step: Airman's rescue mission is red flag for Trump's Iran plansThe US might have succeeded in rescuing a wounded F-15E airman from within Iran, but the risk and cost involved in the mission might be the biggest red flag for President Trump's plan to launch a ground operation. This is why."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/arvind-kejriwal-high-court-hearing-live-updates-delhi-excise-liquor-policy-case-aap-2892065-2026-04-06",
+      "headline": "Highlights: Arvind Kejriwal seeks court's nod to argue, matter to be heard next weekArvind Kejriwal HC Hearing Highlights: Former Delhi Chief Minister Arvind Kejriwal argued his case before the Delhi High Court on Monday in connection with the alleged excise policy scam. Kejriwal, along with other accused, has filed a plea seeking the recusal of Justice Swarana Kanta Sharma from hearing the matter. The application has been filed in response to the Enforcement Directorate's petition challenging a trial court order that had acquitted Kejriwal and others in a case linked to alleged non-compliance with summons during the liquor policy probe. In its January 22 ruling, the Rouse Avenue Court had cleared Kejriwal of all the charges, noting that the central probe agency failed to prove any deliberate disobedience of its summons. Stay tuned with indiatoday.in for all live updates."
     },
     {
       "sentiment": "positive",
@@ -211,18 +231,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-strait-of-hormuz-donald-trump-netanyahu-middle-east-conflict-2892018-2026-04-06",
-      "headline": "Live: IRGC intelligence chief Majid Khademi killed as US-Israeli raids target TehranUS-Israel-Iran War Live Updates: US President Donald Trump has escalated tensions with Iran, warning that \"power plants and bridges\" could be targeted if the Strait of Hormuz is not reopened by Tuesday evening, saying \"Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one.\" Trump's abusive threat drew a sharp from Iranian parliament speaker Mohammad Bagher Ghalibaf, who warned that Trump's \"reckless moves\" risk dragging the country into living hell and insisting \"you won't gain anything through war crimes.\" Behind the scenes, Oman has held urgent talks with Iran to ensure smooth flow of transit through war-hit Hormuz, while Pakistan and Egypt have kept diplomatic channels open between Washington and Tehran. At the same time, violence has intensified elsewhere, with Israeli strikes in Beirut killing at least four people and Hezbollah launching retaliatory attacks, escalating the conflict further. Follow IndiaToday.in for the latest updates."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-rescue-operation-us-president-donald-trump-f-15e-pilot-2892096-2026-04-06",
-      "headline": "Iran rescue operation saved Trump more than the F\u201115E pilotIn a high-risk overnight operation, US forces rescued an F-15E pilot, who went missing after Iran reportedly shot down his aircraft on April 3. As per media reports, the rescue operation involved heavy firefighting with Iran's troops to block them from reaching the pilot before he could be rescued."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/god-is-good-radio-call-triggered-us-suspicion-of-iran-trap-in-f-15-officer-rescue-israel-donald-trump-2892031-2026-04-06",
       "headline": "Pilot sent 3-word SOS after Iran shot down F-15E. It almost went unansweredAccording to Trump, the officer hid in a mountain crevice while \"thousands\" of Iranian troops and local civilians searched for him, with Tehran offering rewards for his capture. US surveillance technology eventually tracked his location."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-the-revenge-rs-1000-crore-run-box-office-story-behind-bollywood-9-year-wait-after-baahubali-2-2892159-2026-04-06",
+      "headline": "Dhurandhar 2's Rs 1,000-crore India run and Bollywood's catching up with Baahubali 2Dhurandhar: The Revenge has made one clear achievement in 18 days -- setting a new legacy for Bollywood at the box office by emerging as the first Hindi film to cross the Rs 1,000-crore mark in India. It is not just about numbers anymore, it's about changing Bollywood's game."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/canada-news/story/canada-news-khalistani-activists-sikhs-for-justice-protest-outside-hindu-temples-canda-brampton-surrey-bill-c-9-2892130-2026-04-06",
+      "headline": "Khalistanis target Hindu temples as Canada clears anti-hate billSikhs for Justice, a Khalistani group banned in India, organised protests outside two Hindu temples in Canada's Brampton and Surrey. The protests follow the passing of Bill C-9 by Canada's House of Commons, which, when it becomes law, would ban hate crimes like obstructing access to places of worship."
     },
     {
       "sentiment": "positive",
@@ -231,8 +251,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/western-disturbance-april-north-india-cold-wave-hail-rajasthan-arabian-sea-moisture-2892150-2026-04-06",
+      "headline": "Why April will feel like February in North India from tomorrowA powerful Western Disturbance, fed by Arabian Sea moisture and a circulation forming over Rajasthan, is set to bring unseasonal cold, hailstorms, and heavy rain to Delhi and North India between April 7 and 10."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/odisha-techie-laid-off-from-oracle-moves-back-home-his-savings-plan-goes-viral-trnc-2892111-2026-04-06",
+      "headline": "Odisha techie laid off from Oracle moves back home. His savings plan goes viralA disciplined financial approach helped a former Oracle employee face sudden unemployment with confidence. His plan has gone viral."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-special-forces-rescue-stranded-airman-iran-f15-downing-deception-operation-2891955-2026-04-05",
       "headline": "How CIA threw Iranians off airman's scent to help extract him after 36 hoursThe CIA launched a deception operation within Iran, disseminating false information that the airman had been found and was being moved overland for extraction. This misdirection aimed to divert Iranian search efforts away from the officer's actual location."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-rescue-operation-us-president-donald-trump-f-15e-pilot-2892096-2026-04-06",
+      "headline": "Iran rescue operation saved Trump more than the F\u201115E pilotIn a high-risk overnight operation, US forces rescued an F-15E pilot, who went missing after Iran reportedly shot down his aircraft on April 3. As per media reports, the rescue operation involved heavy firefighting with Iran's troops to block them from reaching the pilot before he could be rescued."
     },
     {
       "sentiment": "positive",
@@ -241,13 +276,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/west-bengal-assembly-elections-2024-voter-list-controversy-supreme-court-sir-process-2892014-2026-04-06",
-      "headline": "With April 23 nearing, is Bengal racing against time to hold Assembly polls?Uncertainty clouds Bengal's poll timeline as massive voter deletions, ongoing adjudication, and a not-yet-fully functional appellate system collide with tightening deadlines. With rolls set to freeze today and legal processes unfinished, the Supreme Court's next move will be crucial in deciding whether elections proceed as scheduled or face disruption."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-war-us-israel-triggers-nuclear-weapons-race-south-africa-ukraine-belarus-gave-up-nukes-2889465-2026-04-06",
-      "headline": "Iran war triggers N-race. But these countries gave up their nukesIran's war with the US and Israel and Washington's inability to shield its Gulf allies are among factors making countries join the nuclear weapons race. However, at least four countries gave up their nukes. Here's how and why."
+      "url": "https://www.indiatoday.in/science/story/artemis-2-deep-space-farthest-humans-earth-distance-speed-record-2026-2890037-2026-04-06",
+      "headline": "Artemis-II will break the record for farthest human spaceflight. Here's howNo human has travelled beyond low Earth orbit since 1972. Nasa's Artemis-II mission, launched on April 2, 2026, is taking four astronauts farther from Earth than anyone in history. Here is what makes this journey extraordinary."
     },
     {
       "sentiment": "positive",
@@ -256,43 +286,13 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/west-bengal-assembly-elections-2024-voter-list-controversy-supreme-court-sir-process-2892014-2026-04-06",
+      "headline": "With April 23 nearing, is Bengal racing against time to hold Assembly polls?Uncertainty clouds Bengal's poll timeline as massive voter deletions, ongoing adjudication, and a not-yet-fully functional appellate system collide with tightening deadlines. With rolls set to freeze today and legal processes unfinished, the Supreme Court's next move will be crucial in deciding whether elections proceed as scheduled or face disruption."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/seal-team-6-that-killed-osama-bin-laden-in-pakistan-saves-wounded-us-airman-in-iran-in-a-rescue-mission-after-f-15e-strike-eagle-crash-2892041-2026-04-06",
       "headline": "SEAL Team 6: Special forces unit that took out Osama now brings pilot homeHunted in Iran's mountains, a lone US airman desperately waited to be saved. What followed was a rescue far larger than the raid to eliminate Osama bin Laden, carried out by the elite Navy SEAL Team 6 under heavy fire."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/arvind-kejriwal-high-court-hearing-live-updates-delhi-excise-liquor-policy-case-aap-2892065-2026-04-06",
-      "headline": "Live: Arvind Kejriwal arrives at High Court, to seek Justice Sharma's recusalArvind Kejriwal HC Hearing Live Updates: Former Delhi Chief Minister Arvind Kejriwal is set to personally argue his case before the Delhi High Court on Monday in connection with the alleged excise policy scam, the Aam Aadmi Party said. The party added that Kejriwal, along with other accused, has filed a plea seeking the recusal of Justice Swarana Kanta Sharma from hearing the matter. The application comes in response to the Enforcement Directorate's petition challenging a trial court order that had acquitted Kejriwal and others in a case linked to alleged non-compliance with summons during the liquor policy probe. In its January 22 ruling, the Rouse Avenue Court had cleared Kejriwal of all the charges, noting that the central probe agency failed to prove any deliberate disobedience of its summons. Stay tuned with indiatoday.in for all live updates."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/pune/story/pune-engineering-student-vipul-verma-dies-after-basketball-hoop-collapses-at-pune-college-campus-sparking-safety-concerns-2892087-2026-04-06",
-      "headline": "Pune engineering student crushed to death in freak basketball hoop collapseA routine moment on a college campus turns fatal as a basketball hoop collapses on a student. Questions over safety and alleged delay in medical help have sparked outrage among students."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/law-news/story/arunachal-cm-prema-khandu-supreme-court-cbi-probe-public-works-contracts-family-members-firms-2892085-2026-04-06",
-      "headline": "SC orders CBI to probe Arunachal CM's family over Rs 1,270-crore govt contractsThe Supreme Court bench ordered CBI to initiate a preliminary inquiry into Arunachal Pradesh public works contracts, including those linked to Chief Minister Pema Khandu's wife, mother and nephew."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/artemis-2-deep-space-farthest-humans-earth-distance-speed-record-2026-2890037-2026-04-06",
-      "headline": "Artemis-II will break the record for farthest human spaceflight. Here's howNo human has travelled beyond low Earth orbit since 1972. Nasa's Artemis-II mission, launched on April 2, 2026, is taking four astronauts farther from Earth than anyone in history. Here is what makes this journey extraordinary."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bijnor-police-clean-chit-man-posing-plastic-grenade-ak-47-isi-terror-probe-uttar-pradesh-2892084-2026-04-06",
-      "headline": "UP cops give clean chit to man posing with toy grenade. It turned out to be realBijnor Police gave a clean chit to a man seen posing with a plastic grenade and AK-47 in a viral video, which later turned out to be real."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/gurugram-two-friends-ram-mahindra-scorpio-suvs-into-each-other-after-argument-video-viral-2892101-2026-04-06",
-      "headline": "Two friends ram SUVs into each other after argument in Gurugram, video goes viralA video of the incident, which has gone viral on social media, shows two Mahindra Scorpio vehicles colliding multiple times, hitting each other head-on and from the sides in the middle of a dusty village road in Gurugram."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/periods-after-pregnancy-what-changes-what-stays-and-what-no-one-tells-you-2891025-2026-04-06",
-      "headline": "Periods after pregnancy: What changes, what stays, and what no one tells youGetting your period back after childbirth can feel completely different from what you were used to before pregnancy, and it can also be very different from what other women experience."
     },
     {
       "sentiment": "positive",
@@ -301,18 +301,18 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/kerala-assembly-election-political-row-mallikarjun-kharge-gujarat-remarks-2892033-2026-04-06",
-      "headline": "Mallikarjun Kharge's illiterate Gujaratis remark in Kerala invites BJP furyCongress chief Mallikarjun Kharge sparked a political storm ahead of Kerala polls after saying Kerala's educated voters cannot be fooled unlike \"illiterate\" people in Gujarat and elsewhere. The BJP sharply slammed the remark as insulting Gujaratis, with Harsh Sanghavi and Sudhanshu Trivedi accusing Congress of divide-and-rule politics before the polls."
+      "url": "https://www.indiatoday.in/cities/pune/story/pune-engineering-student-vipul-verma-dies-after-basketball-hoop-collapses-at-pune-college-campus-sparking-safety-concerns-2892087-2026-04-06",
+      "headline": "Pune engineering student crushed to death in freak basketball hoop collapseA routine moment on a college campus turns fatal as a basketball hoop collapses on a student. Questions over safety and alleged delay in medical help have sparked outrage among students."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/nikhil-kamaths-90-million-question-is-an-mba-degree-really-about-access-2892050-2026-04-06",
-      "headline": "Is an MBA now just buying access? Nikhil Kamath's $90 million room sparks debateNikhil Kamath's Columbia Business School remark reignites the MBA debate, shifting focus from return on investment to 'return on access,' as experts say elite programmes increasingly deliver networks, credibility, and long-term opportunity."
+      "url": "https://www.indiatoday.in/business/personal-finance/story/should-married-couples-file-taxes-together-in-india-heres-what-experts-think-2892136-2026-04-06",
+      "headline": "Should married couples file taxes together in India? Here's what experts thinkIn many homes, income may vary between partners, but financial goals are common. With joint filing now being discussed, one question stands out, i.e., should married couples continue to be taxed separately? Let's have a look."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/delhi-ncr-rain-hail-thunderstorm-evening-5-april-2026-western-disturbance-forecast-2891817-2026-04-05",
-      "headline": "Rain, hail likely across parts of India, multiple regions on alert this weekIsolated thunderstorms, along with spells of rain and even hail, are likely in several parts of India over the coming days, with a moderate to high chance of activity in some areas."
+      "url": "https://www.indiatoday.in/india/story/bijnor-police-clean-chit-man-posing-plastic-grenade-ak-47-isi-terror-probe-uttar-pradesh-2892084-2026-04-06",
+      "headline": "UP cops give clean chit to man posing with toy grenade. It turned out to be realBijnor Police gave a clean chit to a man seen posing with a plastic grenade and AK-47 in a viral video, which later turned out to be real."
     }
   ],
   "sports": [
