@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/market-closing-bell-sensex-ends-1264-points-higher-nifty-above-24200-it-stocks-jump-us-iran-talk-hopes-2896568-2026-04-15",
+      "headline": "Sensex ends 1,264 points higher, Nifty above 24,200; IT stocks jumpSensex ends 1,264 points higher, Nifty above 24,200; IT stocks jump"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-gold-loan-boom-rising-default-risk-bigger-loans-multiple-borrowing-trans-union-cibil-report-2896545-2026-04-15",
+      "headline": "Is India's gold loan boom quietly building a default risk?Gold loans have grown nearly 3.8 times since March 2022. Their share in the retail credit market has also increased sharply, rising from 5.9% to 11.1% by December 2025. This makes gold loans the second-largest retail loan category after home loans."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/da-hike-update-central-government-staff-to-protest-on-april-16-2896526-2026-04-15",
+      "headline": "DA hike update: Central government staff to protest on April 16Weeks after it was expected, the DA hike for January 2026 is still pending. With no update from the government, central government employee body is preparing to protest on April 16."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/zero-tax-to-pay-3-big-reasons-why-you-should-still-file-your-itr-2896489-2026-04-15",
       "headline": "Zero tax to pay? 3 big reasons why you should still file your ITRIf your income is low and your taxes come to zero, you might think filing an ITR is not needed. But skipping it could mean missing out on some useful benefits that go beyond just paying tax."
     },
@@ -84,24 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/adani-power-shares-hit-all-time-high-strong-electricity-demand-stable-coal-supply-2895770-2026-04-14",
       "headline": "Markets fall, Adani Power hits all-time high: What's driving the surge?Adani Power's rally highlights how strong demand outlook and defensive positioning can drive select stocks higher, even as broader markets struggle with uncertainty and lack of sustained momentum."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/from-april-to-march-here-are-all-the-key-fy27-tax-deadlines-you-must-track-2895621-2026-04-13",
-      "headline": "From April to March: Here are all the key FY27 tax deadlines you must trackThe tax calendar may seem long, but staying aware of these dates can make things much simpler. Instead of rushing at the last minute, spreading out your compliance and investments across the year can help you avoid stress and penalties."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/commodities/story/gold-down-over-rs-1200-silver-slips-rs-6000-is-this-a-dip-worth-buying-2895587-2026-04-13",
-      "headline": "Gold down over Rs 1,200, silver slips Rs 6,000: Is this a dip worth buying?Precious metals have slipped noticeably, with gold and silver both under pressure. For investors, this raises a familiar dilemma, i.e., is this the right moment to step in or stay on the sidelines?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/motherson-clarifies-on-noida-workers-protest-says-driven-by-misinformation-2895523-2026-04-13",
-      "headline": "Motherson clarifies on Noida workers' protest, says driven by misinformationIn a filing to stock exchanges, the company said recent developments reported in the media relate to labour protests in Noida and some other cities, and are not specific to any one company."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/game-of-thrones-aegons-conquest-film-to-be-written-by-andor-fame-beau-willimon-2896544-2026-04-15",
+      "headline": "Game of Thrones: Aegon's Conquest film to be written by Andor fame Beau Willimon The new film from George RR Martin's Game of Thrones universe has been officially titled Aegon's Conquest. It is written by Andor fame Beau Willimon."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/toaster-review-rajkummar-rao-serves-dark-comedy-right-crisp-and-twisted-2896525-2026-04-15",
@@ -191,14 +196,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/tribute-to-asha-bhosle-lata-mangeshkar-family-plans-1000-bed-mega-hospital-2896331-2026-04-15",
       "headline": "Tribute to Asha Bhosle, Lata Mangeshkar: Family plans 1000-bed mega hospital Late singers Asha Bhosle and Lata Mangeshkar's brother Hridaynath Mangeshkar announced plans to build Asia's largest hospital. The state-of-the-art facility will be a lasting tribute to the legendary sisters' legacy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/explained-why-vijays-jana-nayagan-couldnt-have-been-leaked-from-editing-table-2896051-2026-04-15",
-      "headline": "Explained: Why Vijay's Jana Nayagan couldn't have been leaked from editing table Soon after Vijay's Jana Nayagan was leaked, the needle of suspicion pointed at the film's editor. While the edit table is often blamed in such cases, the technical reality is far more complex, say senior film editors."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-war-satellite-images-us-pilot-rescue-operation-aircraft-debris-isfahan-2896550-2026-04-15",
+      "headline": "New satellite images reveal chaos of US rescue op, aircraft debris in IranFresh satellite images have shed new light on the chaotic US rescue mission of two crew members who went missing after Tehran downed an F-15E fighter jet earlier this month amid the conflict."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/raghav-chadha-z-plus-security-by-punjab-police-withdrawn-amid-rift-with-aap-2896419-2026-04-15",
+      "headline": "Punjab withdraws Raghav Chadha's Z+ cover amid AAP rift, Centre gives Z securityThe Union Home Ministry's decision follows a threat assessment report prepared by the Intelligence Bureau, which recommended enhanced protection."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/nashik-sexual-harassment-abuse-forced-religious-conversion-case-nine-firs-case-reveal-shocking-details-harassment-2896430-2026-04-15",
@@ -206,18 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ed-raids-at-punjab-university-owned-by-aap-mp-who-replaced-raghav-chadha-as-rajya-sabha-party-deputy-chief-2896421-2026-04-15",
-      "headline": "ED raids Punjab university owned by AAP MP who replaced Raghav Chadha in Rajya SabhaAshok Mittal, a 61-year-old businessman and educationist who heads the Lovely Group, including the Lovely Professional University (LPU), was recently appointed the Aam Aadmi Party's deputy leader in the Rajya Sabha, replacing Raghav Chadha."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/supreme-court-pauses-telangana-high-courts-interim-bail-for-pawan-khera-in-case-filed-by-himanta-sarmas-wife-2896453-2026-04-15",
-      "headline": "Supreme Court pauses interim bail for Pawan Khera in case by Assam CM's wifeLast week, the Telangana High Court granted a one-week anticipatory bail to Khera, with a bench of Justice K Sujana allowing him time to approach the appropriate forum for anticipatory bail, noting that he could move within a week."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/arvind-kejriwal-justice-swarana-kanta-sharma-recusal-in-delhi-excise-policy-case-2896488-2026-04-15",
-      "headline": "Her children work for Centre: Arvind Kejriwal's fresh plea seeking judge's recusalArvind Kejriwal alleged that since Justice Swarana Kanta Sharma's children are working under the Solicitor General, who is appearing before her, there was an appearance of conflict of interest."
+      "url": "https://www.indiatoday.in/science/story/india-heatwave-2026-delhi-40-degree-imd-alert-maharashtra-mp-odisha-temperature-rise-2896448-2026-04-15",
+      "headline": "Heatwave in 48 hours: These cities will experience extreme heatThe India Meteorological Department (IMD) has issued official heatwave warnings for isolated pockets in central and eastern India starting mid-April 2026."
     },
     {
       "sentiment": "negative",
@@ -226,13 +226,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-war-news-tehran-rebuilding-critical-infrastructure-railway-lines-bridges-us-israel-strikes-fragile-ceasefire-2896462-2026-04-15",
-      "headline": "Iran's new challenge to US, Israel: Will rebuild faster than you can destroyThe US and Israel have hit bridges and railway tracks to cripple Iran's transport infrastructure. Tehran, however, has claimed it restored key rail links within days, signalling a resilience and highlighting the devotion of its engineers. The rebuilding might outpace the destruction itself."
+      "url": "https://www.indiatoday.in/india/story/supreme-court-pauses-telangana-high-courts-interim-bail-for-pawan-khera-in-case-filed-by-himanta-sarmas-wife-2896453-2026-04-15",
+      "headline": "Supreme Court pauses interim bail for Pawan Khera in case by Assam CM's wifeLast week, the Telangana High Court granted a one-week anticipatory bail to Khera, with a bench of Justice K Sujana allowing him time to approach the appropriate forum for anticipatory bail, noting that he could move within a week."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/raghav-chadha-z-plus-security-by-punjab-police-withdrawn-amid-rift-with-aap-2896419-2026-04-15",
-      "headline": "Centre gives Z security to Raghav Chadha after Punjab removes his Z+ coverThe Union Home Ministry's decision follows a threat assessment report prepared by the Intelligence Bureau, which recommended enhanced protection."
+      "url": "https://www.indiatoday.in/india/story/ed-raids-at-punjab-university-owned-by-aap-mp-who-replaced-raghav-chadha-as-rajya-sabha-party-deputy-chief-2896421-2026-04-15",
+      "headline": "ED raids Punjab university owned by AAP MP who replaced Raghav Chadha in Rajya SabhaAshok Mittal, a 61-year-old businessman and educationist who heads the Lovely Group, including the Lovely Professional University (LPU), was recently appointed the Aam Aadmi Party's deputy leader in the Rajya Sabha, replacing Raghav Chadha."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/will-samrat-choudharys-bihar-remove-liquor-ban-buzz-intensifies-oath-nitish-kumar-2896483-2026-04-15",
+      "headline": "Will Bihar remove liquor ban? Buzz intensifies as Samrat Choudhary is sworn inAs Samrat Choudhary takes charge as Bihar's first BJP Chief Minister, there is a debate over the state's prohibition policy, brought in by Nitish Kumar. The buzz has intensified that Bihar might review its policy banning the sale of alcohol amid Choudhary's swearing-in."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/middle-east-war-giorgia-meloni-ties-donald-trump-cool-pope-leo-iran-post-cheeky-job-application-italy-2896542-2026-04-15",
+      "headline": "As Meloni's ties with Trump cool, Iran posts cheeky job application to ItalyThe post came after Giorgia Meloni called Donald Trump's remarks on Pope Leo \"unacceptable,\" marking a rare public criticism that reflected broader outrage across Italy."
     },
     {
       "sentiment": "positive",
@@ -241,8 +251,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/tamil-nadu-election-eps-palaniswami-nda-chemistry-strongman-aiadmk-dmk-mk-stalin-vijay-tvk-2896427-2026-04-15",
-      "headline": "EPS bets on NDA chemistry, strongman persona in his toughest Tamil Nadu battleIn a high-stakes three-cornered Tamil Nadu battle, Edappadi Palaniswami bets on grit and ground game to outlast both Stalin's incumbency and Vijay's surge."
+      "url": "https://www.indiatoday.in/india/law-news/story/arvind-kejriwal-justice-swarana-kanta-sharma-recusal-in-delhi-excise-policy-case-2896488-2026-04-15",
+      "headline": "Her children work for Centre: Arvind Kejriwal's fresh plea seeking judge's recusalArvind Kejriwal alleged that since Justice Swarana Kanta Sharma's children are working under the Solicitor General, who is appearing before her, there was an appearance of conflict of interest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/raghav-chadha-to-join-bjp-centre-z-security-aap-punjab-rift-2896555-2026-04-15",
+      "headline": "Why BJP-led Centre provided Z security to AAP's Raghav ChadhaDays after AAP's rift with Raghav Chadha came out in the open, the Punjab government has withdrawn his Z+ security. Hours later, Centre provided him Z security cover and an AAP spokesperson claimed that he had a meeting with top BJP bosses."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/interviews/story/led-by-the-himalayas-he-reached-the-presidential-table-and-asias-50-best-2895832-2026-04-15",
+      "headline": "Led by the Himalayas, he reached the presidential table and Asia's 50 BestLeaving behind the rush of Mumbai, chef Prateek Sadhu moved to Himachal to create something far more meaningful than just a dining experience with Naar."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/explained-why-vijays-jana-nayagan-couldnt-have-been-leaked-from-editing-table-2896051-2026-04-15",
+      "headline": "Explained: Why Vijay's Jana Nayagan couldn't have been leaked from editing tableSoon after Vijay's Jana Nayagan was leaked, the needle of suspicion pointed at the film's editor. While the edit table is often blamed in such cases, the technical reality is far more complex, say senior film editors."
     },
     {
       "sentiment": "negative",
@@ -251,58 +276,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjps-samrat-choudhary-takes-oath-as-new-bihar-cm-ends-nitish-kumars-reign-2896431-2026-04-15",
-      "headline": "BJP's Samrat Choudhary takes oath as new Bihar CMSamrat Choudhary's elevation as Bihar's Chief Minister, replacing Nitish Kumar, marks a major political shift with the BJP taking direct control of the state government."
+      "url": "https://www.indiatoday.in/world/story/us-israel-war-news-tehran-rebuilding-critical-infrastructure-railway-lines-bridges-us-israel-strikes-fragile-ceasefire-2896462-2026-04-15",
+      "headline": "Iran's new challenge to US, Israel: Will rebuild faster than you can destroyThe US and Israel have hit bridges and railway tracks to cripple Iran's transport infrastructure. Tehran, however, has claimed it restored key rail links within days, signalling a resilience and highlighting the devotion of its engineers. The rebuilding might outpace the destruction itself."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-heatwave-2026-delhi-40-degree-imd-alert-maharashtra-mp-odisha-temperature-rise-2896448-2026-04-15",
-      "headline": "Heatwave in 48 hours: These cities will experience extreme heatThe India Meteorological Department (IMD) has issued official heatwave warnings for isolated pockets in central and eastern India starting mid-April 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/explained-why-vijays-jana-nayagan-couldnt-have-been-leaked-from-editing-table-2896051-2026-04-15",
-      "headline": "Explained: Why Vijay's Jana Nayagan couldn't have been leaked from editing tableSoon after Vijay's Jana Nayagan was leaked, the needle of suspicion pointed at the film's editor. While the edit table is often blamed in such cases, the technical reality is far more complex, say senior film editors."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/mumbai-woman-swiftie-auto-drivers-musical-black-space-duet-is-too-wholesome-to-miss-2896383-2026-04-15",
-      "headline": "Mumbai woman, Swiftie auto-driver's musical Blank Space duet is too wholesome to missA Mumbai auto ride turned into a full-blown concert when a woman and her driver sang Blank Space together, creating a viral moment that's equal parts wholesome and unforgettable."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/claude-opus-47-is-coming-sooner-than-expected-already-crashing-adobe-and-figma-stocks-2896357-2026-04-15",
-      "headline": "Claude Opus 4.7 is coming sooner than expected, already crashing Adobe and Figma stocksAnthropic is reportedly working on the next version of its AI model, Claude Opus. It is believed that this version, likely to be called Opus 4.7, will focus heavily on automated web design. This has seemingly impacted the stocks of companies like Adobe and Figma by over 2 per cent."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/controversy-unpaid-hotel-bills-us-iran-talks-pakistan-us-2896317-2026-04-15",
-      "headline": "Did Pakistan fail to pay? Confusion swirls over US-Iran talks hotel bill rowConflicting reports over unpaid hotel bills during US-Iran talks in Islamabad have sparked confusion and scrutiny, overshadowing Pakistan's diplomatic efforts, though officials and hotel management dispute the claims."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/asha-bhosle-cpr-highlights-indias-end-of-life-care-debate-2896088-2026-04-15",
-      "headline": "Asha Bhosle's CPR sparks debate on end-of-life careAsha Bhosle's CPR raises questions about dignity in death"
+      "url": "https://www.indiatoday.in/entertainment/ott/story/toaster-review-rajkummar-rao-serves-dark-comedy-right-crisp-and-twisted-2896525-2026-04-15",
+      "headline": "Toaster review: Rajkummar Rao serves dark comedy right, crisp and twistedRelease Date:Wed Apr 15, 2026Toaster review: A Rs 5,000 toaster sets off a chain of chaos in this sharp, tightly controlled dark comedy led by Rajkummar Rao's quietly brilliant performance. Smart, strange and consistently engaging, the film balances humour with menace."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/story/cbse-10th-board-results-2026-live-direct-link-to-check-cbse-class-10-marksheets-toppers-and-pass-percentage-at-resultscbsenicin-2896274-2026-04-15",
-      "headline": "Live: CBSE Class 10 result today? Where and how to check resultCBSE Board Class 10 Result 2026 Live Updates: The Central Board of Secondary Education is likely to announce the Class 10 results shortly, keeping over 25 lakh students on edge. Once released, students will be able to check their scores on official websites such as results.cbse.nic.in and cbse.gov.in. Recent signals from digital platforms suggest that the wait may soon be over. DigiLocker, the government's platform for storing and accessing official documents, has indicated that the results are expected soon. Similarly, the UMANG App has also hinted at an imminent release, further building anticipation among students and parents."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sheru-shaitan-out-aarav-atharva-in-rajasthan-govt-push-change-odd-student-names-curb-stigma-better-self-esteem-2896464-2026-04-15",
-      "headline": "Sheru, Shaitan out; Aarav, Atharva in: Rajasthan's push to change odd student namesThe education department has prepared a list of nearly 3,000 names, each with meanings, and will implement the changes in government schools from Classes 1 to 9 with parental consent."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/i-lost-rs-10000-in-a-week-as-west-asia-war-hit-stock-markets-did-not-stop-sips-2896387-2026-04-15",
-      "headline": "I lost Rs 10,000 in a week as war hit stock markets. Why I didn't stop my SIPsAs the West Asia war sent markets into free fall, I lost Rs 10,000 in a week but didn't stop my SIPs, even when everything on screen told me to. Here's what happened next."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/will-indias-gaganyaan-launch-in-2027-isro-says-yes-reality-suggests-no-shubhanshu-shukla-v-narayanan-2896094-2026-04-15",
-      "headline": "Will India's Gaganyaan launch in 2027? Isro says YES, reality suggests NOAt the heart of the concern lies a fundamental gap: India is yet to complete the two critical uncrewed test missions that must precede any human spaceflight. We look at the announced timeline and the ground reality."
+      "headline": "Live: Huge suspense over CBSE Class 10 results; here's how to check when outCBSE Board Class 10 Result 2026 Live Updates: The Central Board of Secondary Education is likely to announce the Class 10 results shortly, keeping over 25 lakh students on edge. Once released, students will be able to check their scores on official websites such as results.cbse.nic.in and cbse.gov.in. Recent signals from digital platforms suggest that the wait may soon be over. DigiLocker, the government's platform for storing and accessing official documents, has indicated that the results are expected soon. Similarly, the UMANG App has also hinted at an imminent release, further building anticipation among students and parents."
     },
     {
       "sentiment": "negative",
@@ -311,16 +296,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tcs-nashik-case-sexual-harassament-religious-conversion-allegations-investigation-maharashtra-islam-2896084-2026-04-15",
-      "headline": "TCS Nashik case: All about sex harassment, conversion claims and Malaysia linkAllegations of sexual harassment and coercion to convert have snowballed into a major controversy at TCS's Nashik office. With several arrests made and a high-level probe underway, the case has drawn sharp reactions. Here's a breakdown of the allegations, the investigation, and the fallout."
+      "url": "https://www.indiatoday.in/technology/news/story/claude-opus-47-is-coming-sooner-than-expected-already-crashing-adobe-and-figma-stocks-2896357-2026-04-15",
+      "headline": "Claude Opus 4.7 is coming sooner than expected, already crashing Adobe and Figma stocksAnthropic is reportedly working on the next version of its AI model, Claude Opus. It is believed that this version, likely to be called Opus 4.7, will focus heavily on automated web design. This has seemingly impacted the stocks of companies like Adobe and Figma by over 2 per cent."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/asha-bhosle-cpr-highlights-indias-end-of-life-care-debate-2896088-2026-04-15",
+      "headline": "Asha Bhosle's CPR sparks debate on end-of-life careAsha Bhosle's CPR raises questions about dignity in death"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-israel-war-live-updates-ceasefire-talks-strait-of-hormuz-blockade-donald-trump-middle-east-tension-lebanon-conflict-2895708-2026-04-14",
+      "headline": "Live: Russia backs Iran's uranium enrichment right for civilian useUS-Israel-Iran War Live Updates: The crisis around the Strait of Hormuz is deepening, with the US launching a sweeping naval blockade targeting ships linked to Iran. According to the US Central Command, over 10,000 American Marines, sailors and airmen, backed by warships and aircraft, are enforcing restrictions on vessels entering and leaving Iranian ports, with operations extending into the Gulf of Oman. US President Donald Trump has said the war is \"very close to over\" and claimed Tehran is keen to strike a deal, even as he warned of decisive action against any threats to the blockade. Iran has rejected the move as illegal and signalled it will not yield under pressure, placing its armed forces on high alert. The ripple effects are already visible, with oil prices surging past USD 100 per barrel and global powers including France, the United Kingdom and the European Union calling for de-escalation and the restoration of freedom of navigation. Meanwhile, ongoing hostilities involving Israel and Hezbollah in Lebanon continue to complicate diplomatic efforts, though US officials indicate backchannel talks are not entirely closed. Follow indiatoday.in for live updates."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/rich-starry-us-sanctioned-ship-reverses-course-day-after-trying-to-exit-gulf-hormuz-blockade-middle-east-conflict-2896376-2026-04-15",
-      "headline": "Sanctioned Chinese ship fails to break US blockade, reverses course to HormuzThe Chinese-owned tanker was among at least eight ships crossing the waterway on Tuesday, the first day of the US blockade. A US destroyer stopped two oil tankers attempting to leave the Iranian port of Chabahar on the Gulf of Oman on Tuesday, a US official said."
+      "url": "https://www.indiatoday.in/india/story/delhi-court-summons-robert-vadra-in-money-laundering-case-takes-congnisance-of-ed-chargesheet-2896548-2026-04-15",
+      "headline": "Delhi court summons Robert Vadra in money laundering caseThe summons was issued as the court took cognisance of a prosecution complaint (equivalent of a chargesheet) filed by the Enforcement Directorate (ED). Vadra and eight other individuals and entities have been ordered to appear before the court on May 16."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/tamil-nadu-election-eps-palaniswami-nda-chemistry-strongman-aiadmk-dmk-mk-stalin-vijay-tvk-2896427-2026-04-15",
+      "headline": "EPS bets on NDA chemistry, strongman persona in his toughest Tamil Nadu battleIn a high-stakes three-cornered Tamil Nadu battle, Edappadi Palaniswami bets on grit and ground game to outlast both Stalin's incumbency and Vijay's surge."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/psl-vs-ipl-ahmed-shehzad-questions-bans-muzarabani-controversy-2896528-2026-04-15",
+      "headline": "Only retired IPL stars come to PSL: Ahmed Shahzad gives Pakistan reality-check Ahmed Shehzad criticised PSL's approach to banning players joining IPL, urging focus on growth as PCB penalised Muzarabani and others for withdrawing from PSL contracts."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-ayush-mhatre-and-dewald-brevis-lead-csks-resurgence-2896490-2026-04-15",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-play-of-the-day-noor-ahmad-csk-vs-kkr-ruturaj-2896321-2026-04-15",
-      "headline": "Play of the Day: Ruturaj Gaikwad's Noor ploy scripts historic low for KKR Kolkata Knight Riders lost their fourth game of the IPL 2026 season after falling to Chennai Super Kings in Chepauk. While Noor won the Player of the Match award for his sensational spell, Ruturaj Gaikwad's captaincy perhaps did not get the accolades it deserved."
+      "headline": "Play of the Day: Ruturaj Gaikwad's Noor ploy scripts historic low for KKRKolkata Knight Riders lost their fourth game of the IPL 2026 season after falling to Chennai Super Kings in Chepauk. While Noor won the Player of the Match award for his sensational spell, Ruturaj Gaikwad's captaincy perhaps did not get the accolades it deserved."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-virat-kohli-injury-update-rcb-vs-lsg-bengaluru-2896133-2026-04-14",
       "headline": "Virat Kohli injury update: RCB star trains in Bengaluru. Will he play vs LSG?IPL 2026: Virat Kohli trained on Tuesday, batting fluently in the nets as concerns over his ankle injury eased. The star batter is likely to feature in RCB's home game against Lucknow Super Giants on Wednesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/will-jacks-mumbai-indians-return-ipl-2026-after-absence-2896128-2026-04-14",
-      "headline": "IPL 2026: Will Jacks set to join Mumbai Indians after missing first four gamesEngland all-rounder Will Jacks is set to arrive in India later this week to link up with Mumbai Indians, having missed the franchise's first four matches of the IPL 2026 season following a busy international schedule."
     }
   ],
   "education": [
