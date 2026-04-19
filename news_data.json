@@ -206,6 +206,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-claims-us-forces-have-custody-of-iranian-flagged-vessel-that-tried-to-get-through-us-blockade-in-hormuz-2898689-2026-04-20",
+      "headline": "US Navy seizes Iranian-flagged cargo ship defying Hormuz blockade, says TrumpDonald Trump said the Iranian-flagged vessel, identified as Touska, was intercepted in the Gulf of Oman by the US Navy destroyer USS Spruance."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/tcs-nashik-employee-sexual-harassment-accused-complaint-police-maharashtra-2898511-2026-04-19",
       "headline": "If you have physical needs...: Woman details months of harassment at TCS NashikIn her police complaint accessed by India Today TV, a woman employee has alleged months of harassment, stalking and religious slurs by five colleagues at Tata Consultancy Services' (TCS) Nashik BPO unit."
     },
@@ -218,6 +223,26 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/story/modi-jhalmuri-stop-jhargram-tmc-jharkhand-cm-denied-landing-bengal-elections-2898643-2026-04-19",
       "headline": "PM had to eat jhalmuri: Trinamool claims Jharkhand CM's chopper denied landingAfter addressing an election rally in West Bengal's Jhargram, PM Modi paused to savour a cone of jhalmuri at a roadside stall."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rashid-khan-declines-indian-australian-citizenship-remain-afghan-cricketer-2898623-2026-04-19",
+      "headline": "Rashid Khan turned down citizenship offer from India: I will play for AfghanistanAfghanistan talisman Rashid Khan has revealed that he turned down offers of citizenship from India and Australia, choosing instead to remain committed to representing his country."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-israel-war-live-upadates-ceasefire-talks-strait-of-hormuz-donald-trump-pakistan-middle-east-shehbaz-sharif-2898685-2026-04-20",
+      "headline": "Live: US breaches commitments, says Iran after ceasefire 2.0 talks falterUs-Iran-Israel War Live Updates: Iran refused to hold the second round of the ceasefire talks with the United States, citing Washington's \"excessive demands, unrealistic expectations, constant shifts in stance, repeated contradictions, and the naval blockade of the maritime chokepoint, Strait of Hormuz. Meanwhile, Donald Trump said that the US delegation team, led by Vice President JD Vance, will arrive in Islamabad today. However, after Iran's refusal, further ceasefire talks regarding the prevailing West Asia conflict look bleak. Amid the developments, Pakistan's Prime Minister, Shehbaz Sharif, held a phone call with Iran's President, Masoud Pezeshkian, and discussed the regional situation. He also briefed Pezeshkian on the conversation the South Asian country had with Saudi Arabia, Qatar, and Turkey. Catch all the live updates at Indiatoday.in."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/iranian-entrepreneur-arrested-los-angeles-for-selling-drones-bombs-for-the-regime-2898686-2026-04-20",
+      "headline": "Iranian woman, 44, selling drones, bombs for the regime, arrested in USProsecutors also accused Shamim Mafi of facilitating deals involving Iranian-made weapons, including drones, bomb fuses and millions of rounds of ammunition destined for Sudan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/nasa-astronaut-mike-fincke-bihu-dance-gamusa-space-iss-2004-himanta-biswa-sarma-assam-2898642-2026-04-19",
+      "headline": "Astronaut does Bihu in space. Assam CM credits PM Modi, gets fact-checkedA Nasa astronaut wore the traditional Assamese gamusa and performed a Bihu dance aboard the International Space Station, in a quiet and beautiful tribute to his wife, who hails from Assam."
     },
     {
       "sentiment": "negative",
@@ -236,8 +261,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/nasa-astronaut-mike-fincke-bihu-dance-gamusa-space-iss-2004-himanta-biswa-sarma-assam-2898642-2026-04-19",
-      "headline": "Astronaut does Bihu in space. Assam CM credits PM Modi, gets fact-checkedA Nasa astronaut wore the traditional Assamese gamusa and performed a Bihu dance aboard the International Space Station, in a quiet and beautiful tribute to his wife, who hails from Assam."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/deepika-padukone-ranveer-singh-confirm-second-pregnancy-with-a-cute-pic-2898421-2026-04-19",
+      "headline": "Deepika Padukone, Ranveer Singh confirm second pregnancy with a cute picDeepika Padukone and Ranveer Singh have announced that they are expecting their second child with a heartfelt Instagram post featuring their daughter Dua."
     },
     {
       "sentiment": "positive",
@@ -245,24 +270,24 @@
       "headline": "No more Mr Nice guy: Trump's fresh threats to Iran as ceasefire faltersDonald Trump accused Iran of breaching a ceasefire agreement by opening fire in the Strait of Hormuz, claiming international vessels were targeted."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rashid-khan-declines-indian-australian-citizenship-remain-afghan-cricketer-2898623-2026-04-19",
-      "headline": "Rashid Khan turned down citizenship offer from India: I will play for AfghanistanAfghanistan talisman Rashid Khan has revealed that he turned down offers of citizenship from India and Australia, choosing instead to remain committed to representing his country."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/science/story/scorching-heat-heavy-rain-india-monday-april-20-imd-forecast-states-warning-2898614-2026-04-19",
       "headline": "Scorching heat, heavy rain: What's in store for India on MondayThe IMD has issued heatwave warnings for Jharkhand, West Uttar Pradesh, West Rajasthan, Vidarbha, and several other states for Monday, April 20, with temperatures expected to touch 45 degrees Celsius in isolated pockets."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/deepika-padukone-ranveer-singh-confirm-second-pregnancy-with-a-cute-pic-2898421-2026-04-19",
-      "headline": "Deepika Padukone, Ranveer Singh confirm second pregnancy with a cute picDeepika Padukone and Ranveer Singh have announced that they are expecting their second child with a heartfelt Instagram post featuring their daughter Dua."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/madhya-pradesh-cop-laughs-video-review-meet-suspended-for-indiscipline-2898645-2026-04-19",
       "headline": "Cop laughs out loud during virtual review meet, suspended for indisciplineWhen asked to explain his conduct, Rahangdale failed to give a satisfactory response, following which he was suspended on grounds of indiscipline."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/flying-dutchman-flying-ship-ghost-physics-myth-legend-fata-morgana-mirage-floating-ships-optical-illusion-science-explained-2898496-2026-04-19",
+      "headline": "Is that ship flying? The ghost, the myth and the physics of the Flying DutchmanVideos of ships appearing to hover above the sea have gone viral, but the explanation is pure science, a rare phenomenon called Fata Morgana. Here is how physics playing tricks with light is the answer to the Flying Dutchman legend."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-593-17-04-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "positive",
@@ -276,13 +301,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/flying-dutchman-flying-ship-ghost-physics-myth-legend-fata-morgana-mirage-floating-ships-optical-illusion-science-explained-2898496-2026-04-19",
-      "headline": "Is that ship flying? The ghost, the myth and the physics of the Flying DutchmanVideos of ships appearing to hover above the sea have gone viral, but the explanation is pure science, a rare phenomenon called Fata Morgana. Here is how physics playing tricks with light is the answer to the Flying Dutchman legend."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-593-17-04-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+      "url": "https://www.indiatoday.in/sunday-special/story/iran-war-lpg-shortage-hormuz-west-bengal-election-khurja-up-ceramic-pottery-industry-labour-crunch-2898182-2026-04-19",
+      "headline": "Distress in India's Ceramic City: Cold kilns in factories, cold stoves at homesThe war in the Middle East has brought manufacturing in India's ceramic hub Khurja to a standstill, with 90% of the 300 units shutting shops temporarily. The election in West Bengal has added to the crisis. With workers scrambling to survive, Khurja is a microcosm of the distress in India's manufacturing hubs."
     },
     {
       "sentiment": "negative",
@@ -295,27 +315,17 @@
       "headline": "Illegal Mounjaro injections worth Rs 70 lakh seized in Gurugram, 2 arrestedTwo accused were arrested after officials seized suspected spurious Mounjaro injections worth Rs 70 lakh from a Sector 69 flat in Gurugram. Probe is underway to trace the supply network."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/iran-war-lpg-shortage-hormuz-west-bengal-election-khurja-up-ceramic-pottery-industry-labour-crunch-2898182-2026-04-19",
-      "headline": "Distress in India's Ceramic City: Cold kilns in factories, cold stoves at homesThe war in the Middle East has brought manufacturing in India's ceramic hub Khurja to a standstill, with 90% of the 300 units shutting shops temporarily. The election in West Bengal has added to the crisis. With workers scrambling to survive, Khurja is a microcosm of the distress in India's manufacturing hubs."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/kanpur-man-kills-twin-daughters-by-slitting-their-throats-uttar-pradesh-crime-news-2898412-2026-04-19",
       "headline": "UP man kills twin daughters by slitting their throats, then calls police himselfThe police received information about the killings during the early hours of Sunday. Following the double-murder, the wife of the accused levelled serious allegations of torture against him, saying that he was an alcoholic and would regularly beat her."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/iran-gunboats-fire-on-indian-tankers-in-strait-of-hormuz-call-clearance-2898450-2026-04-19",
-      "headline": "You gave me clearance to go, now firing: Indian tanker's frantic call in HormuzA frantic audio of an Indian-flagged tanker's radio message with Iran after being cleared to transit and then allegedly fired upon by Iranian forces in the Strait of Hormuz has emerged, forcing ships to turn back."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azams-fastest-psl-century-record-in-zalmis-win-against-quetta-2898665-2026-04-19",
-      "headline": "Babar Azam upskilling in T20s? Pakistan batter plays only 1 dot ball in PSL centuryPSL 2026: Babar Azam smashed a 52-ball century against Quetta Gladiators, playing just one dot ball in the entire innings. He brought up his hundred with six fours and four sixes, powering Peshawar Zalmi to a commanding 255 for three."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-ricky-ponting-frustration-shashank-singh-punjab-kings-vs-lsg-2898687-2026-04-20",
+      "headline": "Happy ending: Ricky Ponting hugs Shashank Singh, moves past anger over fielding lapses IPL 2026, PBKS vs LSG Ricky Ponting shared a warm hug with Shashank Singh after the match, putting aside his earlier frustration over the batter's costly fielding lapses. On Sunday, Punjab Kings beat the Lucknow Super Giants by 54 runs."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-shreyas-iyer-pbks-six-hitting-challenge-bat-prize-lsg-win-2898684-2026-04-20",
@@ -369,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kkr-beat-rr-rinku-singh-fifty-chase-156-ipl-2026-eden-gardesn-2898607-2026-04-19",
-      "headline": "Rinku the difference as KKR squeeze through for first win in Eden tug-of-war IPL 2026, KKR vs RR: Rinku Singh held his nerve in a tense finish to guide Kolkata Knight Riders to a much-needed first win of IPL 2026, edging past Rajasthan Royals in a low-scoring thriller at Eden Gardens."
+      "headline": "Rinku the difference as KKR squeeze through for first win in Eden tug-of-warIPL 2026, KKR vs RR: Rinku Singh held his nerve in a tense finish to guide Kolkata Knight Riders to a much-needed first win of IPL 2026, edging past Rajasthan Royals in a low-scoring thriller at Eden Gardens."
     },
     {
       "sentiment": "negative",
@@ -460,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-srh-vs-cskheinrich-klaasen-unfazed-by-strike-rate-critics-2898401-2026-04-19",
       "headline": "Heinrich Klaasen unbothered by strike-rate critics after crucial win vs CSKIPL 2026: Heinrich Klaasen hit a fifty as Sunrisers Hyderabad beat Chennai Super Kings by 10 runs. He said he's unfazed by strike-rate criticism, with 283 runs in six games, Klaasen emphasised his role in anchoring innings for SRH."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/tractor-rampage-halts-jalgaon-cricket-match-pitch-destroyed-over-dispute-2898403-2026-04-19",
-      "headline": "Bizarre: Tractor rampage halts cricket match, pitch destroyed in shocking scenesA cricket tournament final in Jalgaon was abandoned after a man drove a tractor onto the field and destroyed the pitch mid-match, reportedly over a dispute linked to a local figure not being invited."
     }
   ],
   "education": [
