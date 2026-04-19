@@ -200,11 +200,6 @@
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-skips-second-round-of-us-talks-in-pak-blames-excessive-demands-blockade-of-hormuz-2898664-2026-04-19",
-      "headline": "Iran to skip talks 2.0 in Pak, blames excessive US demands, Hormuz blockadeHopes of a breakthrough faded after Iran confirmed its absence from the second round of talks in Islamabad, which it said stemmed from Washington's \"excessive demands, unrealistic expectations, constant shifts in stance, repeated contradictions\", and the naval blockade of its ports."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/trump-claims-us-forces-have-custody-of-iranian-flagged-vessel-that-tried-to-get-through-us-blockade-in-hormuz-2898689-2026-04-20",
       "headline": "US Navy seizes Iranian-flagged cargo ship defying Hormuz blockade, says TrumpDonald Trump said the Iranian-flagged vessel, identified as Touska, was intercepted in the Gulf of Oman by the US Navy destroyer USS Spruance."
@@ -215,9 +210,14 @@
       "headline": "If you have physical needs...: Woman details months of harassment at TCS NashikIn her police complaint accessed by India Today TV, a woman employee has alleged months of harassment, stalking and religious slurs by five colleagues at Tata Consultancy Services' (TCS) Nashik BPO unit."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iran-skips-second-round-of-us-talks-in-pak-blames-excessive-demands-blockade-of-hormuz-2898664-2026-04-19",
+      "headline": "Iran to skip talks 2.0 in Pak, blames excessive US demands, Hormuz blockadeHopes of a breakthrough faded after Iran confirmed its absence from the second round of talks in Islamabad, which it said stemmed from Washington's \"excessive demands, unrealistic expectations, constant shifts in stance, repeated contradictions\", and the naval blockade of its ports."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/middle-east-war-iran-us-cargo-ship-donald-trump-strait-of-hormuz-2898691-2026-04-20",
-      "headline": "Iran accuses US of breaching truce after seizure of ship, vows retaliationCalling it 'armed piracy', Iran's top joint military command, Khatam al-Anbiya, said that Tehran would respond soon to the seizure."
+      "headline": "Iran accuses US of breaching truce after vessel seized, vows retaliation shortlyCalling it 'armed piracy', Iran's top joint military command, Khatam al-Anbiya, said that Tehran would respond soon to the seizure."
     },
     {
       "sentiment": "positive",
@@ -236,8 +236,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-iran-israel-war-live-upadates-ceasefire-talks-strait-of-hormuz-donald-trump-pakistan-middle-east-shehbaz-sharif-2898685-2026-04-20",
-      "headline": "Live: Israel kills 1 in southern Lebanon for crossing yellow lineUs-Iran-Israel War Live Updates: Iran refused to hold the second round of the ceasefire talks with the United States, citing Washington's \"excessive demands, unrealistic expectations, constant shifts in stance, repeated contradictions, and the naval blockade of the maritime chokepoint, Strait of Hormuz. Meanwhile, Donald Trump said that the US delegation team, led by Vice President JD Vance, will arrive in Islamabad today. However, after Iran's refusal, further ceasefire talks regarding the prevailing West Asia conflict look bleak. Amid the developments, Pakistan's Prime Minister, Shehbaz Sharif, held a phone call with Iran's President, Masoud Pezeshkian, and discussed the regional situation. He also briefed Pezeshkian on the conversation the South Asian country had with Saudi Arabia, Qatar, and Turkey. Catch all the live updates at Indiatoday.in."
+      "url": "https://www.indiatoday.in/world/us-news/story/louisiana-shooting-children-killed-shooter-gunman-domestic-disturbance-2898651-2026-04-19",
+      "headline": "8 children, aged one to 14, shot dead in Louisiana; suspect also killed: CopsThe victims ranged in age from one to about 14 years old. Authorities said some of the children were related to the suspected gunman. Officials are still working to establish the sequence of events across what they described as a large and complex crime scene."
     },
     {
       "sentiment": "positive",
@@ -250,14 +250,14 @@
       "headline": "Iranian woman, 44, selling drones, bombs for the regime, arrested in USProsecutors also accused Shamim Mafi of facilitating deals involving Iranian-made weapons, including drones, bomb fuses and millions of rounds of ammunition destined for Sudan."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/louisiana-shooting-children-killed-shooter-gunman-domestic-disturbance-2898651-2026-04-19",
-      "headline": "8 children, aged one to 14, shot dead in Louisiana; suspect also killed: CopsThe victims ranged in age from one to about 14 years old. Authorities said some of the children were related to the suspected gunman. Officials are still working to establish the sequence of events across what they described as a large and complex crime scene."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indian-tanker-desh-garima-crosses-strait-of-hormuz-on-the-day-iran-fired-on-two-other-vessels-2898627-2026-04-19",
       "headline": "Indian-flagged tanker crossed Hormuz on the day Iran fired on two other vesselsThe tanker Desh Garima, carrying 31 Indian crew members, successfully crossed the Strait and is expected to reach Mumbai on April 22, according to the Ministry of Petroleum and Natural Gas."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bjp-dinesh-trivedi-india-next-high-commissioner-bangladesh-2898673-2026-04-19",
+      "headline": "BJP's Dinesh Trivedi likely to be India's next High Commissioner to BangladeshSources said Dinesh Trivedi is likely to be appointed as the High Commissioner in Dhaka, a key position, in view of his extensive experience. However, there was no formal announcement yet."
     },
     {
       "sentiment": "positive",
@@ -266,8 +266,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-dinesh-trivedi-india-next-high-commissioner-bangladesh-2898673-2026-04-19",
-      "headline": "BJP's Dinesh Trivedi likely to be India's next High Commissioner to BangladeshSources said Dinesh Trivedi is likely to be appointed as the High Commissioner in Dhaka, a key position, in view of his extensive experience. However, there was no formal announcement yet."
+      "url": "https://www.indiatoday.in/world/story/us-iran-israel-war-live-upadates-ceasefire-talks-strait-of-hormuz-donald-trump-pakistan-middle-east-shehbaz-sharif-2898685-2026-04-20",
+      "headline": "Live: Israel kills 1 in southern Lebanon for crossing yellow lineUs-Iran-Israel War Live Updates: Iran refused to hold the second round of the ceasefire talks with the United States, citing Washington's \"excessive demands, unrealistic expectations, constant shifts in stance, repeated contradictions, and the naval blockade of the maritime chokepoint, Strait of Hormuz. Meanwhile, Donald Trump said that the US delegation team, led by Vice President JD Vance, will arrive in Islamabad today. However, after Iran's refusal, further ceasefire talks regarding the prevailing West Asia conflict look bleak. Amid the developments, Pakistan's Prime Minister, Shehbaz Sharif, held a phone call with Iran's President, Masoud Pezeshkian, and discussed the regional situation. He also briefed Pezeshkian on the conversation the South Asian country had with Saudi Arabia, Qatar, and Turkey. Catch all the live updates at Indiatoday.in."
     },
     {
       "sentiment": "positive",
