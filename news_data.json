@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-end-flat-after-wild-swings-amid-global-uncertainties-2898922-2026-04-20",
+      "headline": "Sensex, Nifty end flat after wild swings as market waits for clearer signalsThe BSE Sensex closed at 78,520.30, up 26.76 points or 0.03%, while the NSE Nifty50 settled at 24,364.85, higher by 11.30 points or 0.05%."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/commodities/story/should-you-buy-gold-now-heres-what-this-akshaya-tritiya-revealed-2898881-2026-04-20",
       "headline": "Should you buy gold now? Here's what this Akshaya Tritiya revealedGold prices are high and markets are uncertain. Yet, this Akshaya Tritiya saw steady buying. So, should you invest now or wait? Here's what buyer trends and market signals are telling us."
     },
@@ -94,14 +99,29 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/commodities/story/digital-gold-etfs-or-sgbs-where-should-you-invest-this-akshaya-tritiya-2897871-2026-04-17",
       "headline": "Digital gold, ETFs or SGBs: Where should you invest this Akshaya Tritiya?Akshaya Tritiya is here, and gold buying is once again in focus. But instead of just buying jewellery, many are now exploring smarter ways to invest. So, which option, digital gold, ETFs or SGBs, makes the most sense?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/oil-prices-slide-over-11-as-iran-opens-hormuz-2897876-2026-04-17",
-      "headline": "Oil prices slide over 10% as Iran opens HormuzIran's foreign minister said all commercial ships can pass through the Strait of Hormuz during the remaining ceasefire period."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/beef-season-2-review-tone-pacing-plays-it-safe-loses-bite-oscar-isaac-carey-mulligan-2898887-2026-04-20",
+      "headline": "Beef Season 2 review: Plays it safe, loses the bite that made Season 1 addictiveRelease Date:Thu Apr 16, 2026 Beef Season 2 series review: Beef Season 2 presents a quieter, more introspective follow-up to the intense and chaotic first season, focusing on simmering resentments and complex relationships rather than explosive drama."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/drishyam-3-director-jeethu-joseph-reacts-to-tv-serial-like-execution-jibe-defends-his-choices-2898935-2026-04-20",
+      "headline": "Drishyam 3 director reacts to TV serial-like execution jibe, defends his choices Mollywood director Jeethu Joseph responded to criticism over his films' technical quality and lighting style. He revealed that Drishyam 3 will have a fresh narrative and release on May 21."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-sparks-global-blockbuster-talk-at-cinemacon-exhibitor-weighs-in-2898918-2026-04-20",
+      "headline": "Ramayana sparks global blockbuster talk at CinemaCon: Exhibitor weighs in Global exhibitor John Fithian expressed that Ranbir Kapoor's Ramayana could become India's first global blockbuster. Early footage screened at CinemaCon 2026 has sparked strong worldwide buzz."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-blesses-newlyweds-with-gift-during-political-rally-watch-the-video-2898874-2026-04-20",
+      "headline": "Vijay blesses newlyweds with gift during political rally. Watch the Video Vijay blessed newlyweds with a gift during an election rally. The actor was campaigning for his party, Tamilaga Vettri Kazhagam (TVK), ahead of the Tamil Nadu Assembly elections."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-shares-toxic-story-details-says-it-captures-darkest-emotions-dilemmas-2898893-2026-04-20",
@@ -120,7 +140,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/anushka-virat-seek-blessings-from-premanand-maharaj-on-akshaya-tritiya-video-2898835-2026-04-20",
-      "headline": "Anushka-Virat seek blessings from Premanand Maharaj on Akshaya Tritiya. Video Anushka Sharma and Virat Kohli were spotted at a Vrindavan ashram on a special occasion, and videos from their visit are now going viral. The couple's spiritual side and recent public moments have once again caught attention."
+      "headline": "Anushka-Virat seek blessings from Premanand Maharaj on Akshaya Tritiya. Video Anushka Sharma and Virat Kohli were spotted at a Vrindavan ashram, and videos from their visit are now going viral. The couple's spiritual side and recent public moments have once again caught attention."
     },
     {
       "sentiment": "positive",
@@ -176,38 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/bhooth-bangla-box-office-collection-day-3-report-rs-100-crore-a-cakewalk-for-akshay-kumar-film-worldwide-2898734-2026-04-20",
       "headline": "Bhooth Bangla box office Day 3: Rs 100 crore a cakewalk for Akshay's film worldwide Akshay Kumar's Bhooth Bangla is off to a strong start at the box office, racing towards the Rs 100 crore mark within its opening weekend. Here's how the horror-comedy performed day-wise and worldwide."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/gaurav-gera-on-dhurandhar-co-star-ranveer-singh-hes-a-superstar-for-a-reason-2898722-2026-04-20",
-      "headline": "Gaurav Gera on Dhurandhar co-star Ranveer Singh: He's a superstar for a reason Gaurav Gera shared insights on working with Ranveer Singh in Dhurandhar, praising his professionalism and deep involvement. The two shared a relatable and emotional bond in Aditya Dhar's Dhurandhar films."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/daredevil-punisher-jessica-jones-mcu-street-vigilantes-deserve-film-franchises-2898602-2026-04-20",
-      "headline": "Daredevil, Punisher, Jessica Jones: MCU street vigilantes deserve film franchises As Marvel navigates post-Phase 4 fatigue and leans heavily on nostalgia with Spider-Man: Brand New Day and Avengers crossovers, is it time to bring the raw, grounded vigilantes like Daredevil, Punisher and Jessica Jones in standalone theatrical releases? Can street heroes outshine MCU's cosmic warriors on the big-screen?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ajith-kumar-secures-podium-finish-at-belgium-race-with-indian-team-2898704-2026-04-20",
-      "headline": "Ajith Kumar holds Indian flag high after podium finish at Belgium race. Watch Actor Ajith Kumar and his racing team proudly secured second place at the prestigious 24H Series in Belgium. Photos and videos from the event and the celebrations are doing the rounds on social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/dhurandhar-singer-jasmine-sandlas-recalls-alcoholism-on-ranveer-allahabadia-podcast-2898696-2026-04-20",
-      "headline": "Dhurandhar singer Jasmine Sandlas on battling alcoholism: I do regret some things Jasmine Sandlas opened up about her past struggles with alcoholism and emotional challenges despite her musical success. Speaking on Ranveer Allahabadia podcast, she shared insights into her early years and struggle she faced."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indian-navy-tightens-security-near-strait-of-hormuz-after-irgc-incident-2898862-2026-04-20",
-      "headline": "India shares fresh advisory for tankers in Hormuz after firing on 2 Indian ships Live UpdatesIndia has issued a fresh advisory to Indian-flagged vessels in the Persian Gulf, asking them to stay clear of Larak Island and transit only when directed by it to ensure safety. Sources told India Today that the Indian Navy is prioritising security for all Indian vessels waiting to cross the Strait of Hormuz."
+      "url": "https://www.indiatoday.in/world/story/powerful-75-magnitude-earthquake-strikes-japan-authorities-issue-tsunami-warning-2898886-2026-04-20",
+      "headline": "Don't turn back: Japan braces for 3-metre tsunami waves after powerful quakeFootage aired on NHK showed ships sailing out of Hachinohe port in Hokkaido in anticipation of the waves as a 'Tsunami! Evacuate!' alert flashed across the screen. A 3-metre tsunami could cause damage to low-lying areas, flooding buildings, and anybody exposed would be caught in its currents, according to JMA."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/drop-the-matter-arrested-tcs-nashik-executive-ashwini-chainani-allegedly-told-complainant-in-sex-abuse-case-2898818-2026-04-20",
-      "headline": "Drop the matter, arrested TCS Nashik manager told complainant in sex abuse caseRecalling her ordeal, the survivor alleged that, despite multiple verbal complaints against accused Raza Memon, no concrete action was taken. Instead, she claimed, senior officials, including an attempt to silence her concerns."
+      "url": "https://www.indiatoday.in/world/story/us-iran-talks-round-2-asim-munir-calls-trump-iran-port-blockade-hormuz-issue-middle-east-2898939-2026-04-20",
+      "headline": "US blockade of Iran ports hurdle to talks: Asim Munir to Trump on phone callDuring a telephonic conversation with President Trump, Pakistan's Asim Munir flagged the US blockade of Iranian ports as an obstacle to talks with Iran. Trump said he would look into the advice."
     },
     {
       "sentiment": "negative",
@@ -215,9 +215,9 @@
       "headline": "The miracle at India's petrol pumpsWith oil on fire due to the war in the Middle East, all big economies have raised petrol and diesel prices. However, pump prices of normal petrol and diesel in India have stayed unchanged since May 2022. This is what's behind this miracle."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-russia-defence-cooperation-relos-pact-mutual-troop-deploument-logistical-support-new-delhi-moscow-relations-2898825-2026-04-20",
-      "headline": "Amid US's Pak tilt, India-Russia pact on troop, warship deployment comes into forceThe India-Russia RELOS agreement, which allows deployment of troops, warships and aircraft in each other's territory even in conflict scenarios, has come into force. The operationalisation of the pact comes at a time the Trump White House is increasingly leaning towards Pakistan and its army chief, Asim Munir."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/did-a-chinese-satellite-surveil-us-bases-before-iran-strike-indian-analysts-verify-2898966-2026-04-20",
+      "headline": "How a Chinese satellite may have tracked US bases before Iran strikesDocuments reviewed by the Financial Times indicated that the satellite acquired by Iran was developed and launched by Earth Eye Co, a Chinese company that provides \"in-orbit delivery\" services, where satellites are transferred to international clients after being placed in orbit."
     },
     {
       "sentiment": "negative",
@@ -226,58 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pakistan-hosts-us-iran-peace-talks-amid-economic-challenges-new-delhi-failure-pm-modi-congress-asim-munir-2898873-2026-04-20",
-      "headline": "Congress blames PM for Pak's new branding: 'Dalal' country hosting Iran talks 2.0The Congress accused the BJP government of a diplomatic failure over Pakistan hosting US-Iran talks and Asim Munir's growing proximity to Donald Trump."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/noida/story/video-noida-woman-confronts-drunk-man-for-harassing-muslim-couple-accused-arrested-2898855-2026-04-20",
-      "headline": "Video: Noida woman confronts drunk man harassing Muslim couple, accused arrestedAccording to police, the situation escalated when the man questioned the couple's identity and got into a verbal altercation with them. The couple had reportedly asked him to stop drinking in the open, which led to the confrontation."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/nida-khan-suspension-tcs-nashik-conversion-case-bail-plea-2898790-2026-04-20",
-      "headline": "Serious matter against you, says suspension letter of TCS Nashik accused Nida KhanA suspension letter issued to Nida Khan, an absconding accused in the Nashik TCS-linked sexual harassment and alleged conversion case, has surfaced, confirming she was suspended on April 9 after the company cited a \"serious matter\" and her inability to work."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/namita-thapar-hits-back-after-being-trolled-for-reel-on-health-benefits-of-namaz-2898876-2026-04-20",
-      "headline": "Namita Thapar hits back after being trolled for reel on health benefits of namazNamita Thapar has hit back with a strongly worded video after facing online trolling and abuse over her Instagram reel on the health benefits of namaz."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-iran-israel-war-live-upadates-ceasefire-talks-strait-of-hormuz-donald-trump-pakistan-middle-east-shehbaz-sharif-2898685-2026-04-20",
-      "headline": "Live: Amid global tensions, India, South Korea stand for peace, stability, says PMUS-Iran-Israel War Live Updates: Iran refused to hold the second round of the ceasefire talks with the United States, citing Washington's \"excessive demands, unrealistic expectations, constant shifts in stance, repeated contradictions, and the naval blockade of the maritime chokepoint, Strait of Hormuz. Meanwhile, Donald Trump said that the US delegation team, led by Vice President JD Vance, will arrive in Islamabad today. However, after Iran's refusal, further ceasefire talks regarding the prevailing West Asia conflict look bleak. Amid the developments, Pakistan's Prime Minister, Shehbaz Sharif, held a phone call with Iran's President, Masoud Pezeshkian, and discussed the regional situation. He also briefed Pezeshkian on the conversation the South Asian country had with Saudi Arabia, Qatar, and Turkey. Catch all the live updates at Indiatoday.in."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/10-killed-as-bus-overturns-in-jks-udhampur-rescue-ops-underway-2898779-2026-04-20",
-      "headline": "22 killed as bus overturns in J&K's Udhampur, rescue ops underwayA bus from Ramnagar to Udhampur in J&K skidded off a blind curve and plunged into a gorge, killing at least 22."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/h1b-visa-indian-origin-telugu-men-fraud-in-us-university-of-california-us-justice-department-2898815-2026-04-20",
-      "headline": "Telugu duo in US face 5-year jail for H-1B fraud; hired people for ghost jobsTwo Indian-origin Telugu men in California admitted to committing H1-B visa fraud. The duo hired people for jobs at the University of California that never existed. They now face 5 years in jail in the US."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/white-towels-indian-government-office-chair-colonial-symbol-history-hierarchy-2898796-2026-04-20",
-      "headline": "The legend of the white towel on sarkari kursiThe white towel on government office chairs may look like an everyday thing, but it carries a long history of colonial habits, heat, hygiene and hierarchy. Here is how a simple cloth became one of India's most recognisable symbols of official power."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-us-ceasefire-hormuz-war-islamabad-talks-pakistan-economic-challenges-geopolitical-position-2898708-2026-04-20",
-      "headline": "Unlike 9/11, Cold War, no windfall now: Pak bleeds as Iran-US crisis deepensHistorically, Pakistan's strategic location brought economic gains, with wars and global alignments yielding grants, debt relief, and reimbursements. But that equation is now reversing, as Gulf tensions trigger capital flight, reserve depletion, and rising repayment pressures."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/fly91-hyderabad-hubballi-flight-diverted-to-bengaluru-due-to-bad-weather-airline-denies-technical-snag-2898799-2026-04-20",
-      "headline": "Oh my god: Passengers cry, panic as Fly91 flight faces mid-air scareThe incident caused anxiety among passengers as the aircraft remained airborne for nearly three hours. Some passengers were visibly distressed, with a few reportedly in tears and praying during the prolonged delay."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-marines-seize-iranian-flagged-vessel-in-arabian-sea-operation-video-2898763-2026-04-20",
-      "headline": "Video: Moment US Marines rappelled onto Iran ship and seized itUS Marines rappelled from helicopters onto the Iranian-flagged vessel Touska in the Arabian Sea after it ignored warnings for six hours, with support from USS Tripoli and USS Spruance, which disabled the ship's propulsion."
+      "url": "https://www.indiatoday.in/world/story/iris-dena-attack-by-us-survivors-return-first-account-us-iran-war-news-indian-ocean-2898903-2026-04-20",
+      "headline": "US wanted to kill all of us: IRIS Dena sailor on torpedo attack in Indian OceanAn Iranian sailor who survived the US attack on the IRIS Dena warship in the Indian Ocean has recounted the ordeal and accused the US of planning to kill the crew. The IRIS Dena was returning to Iran after a naval exercise in India when it was torpedoed by the US near Sri Lanka."
     },
     {
       "sentiment": "positive",
@@ -286,18 +236,48 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/vercel-hacked-hacker-using-shinyhunters-name-to-sell-data-for-2-million-2898719-2026-04-20",
-      "headline": "Vercel hacked, hacker using ShinyHunters name to sell data for $2 millionVercel, a cloud platform that hosts and deploys web apps, was recently compromised in a cyberattack stemming from an AI tool. The company says that no sensitive data was accessed after hackers claimed to be selling Vercel customer data online. Vercel has clients such as OpenAI, Cursor, Bose, and Pinterest."
+      "url": "https://www.indiatoday.in/india/story/plane-crash-chhattisgarh-jashpur-ara-hills-casualties-2898938-2026-04-20",
+      "headline": "Private jet crashes into hillside in Chhattisgarh, smoke and flames seen at spotA private aircraft crashed into a hillside in Chhattisgarh's Jashpur district. The jet went down after hitting a tree in a forested area, locals said. Casualties are feared as authorities probe the incident."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-north-india-heatwave-delhi-ncr-imd-alert-april-2026-temperature-rise-heatwave-summer-weather-forecast-2898841-2026-04-20",
-      "headline": "Feeling hot? Here's when the first heatwave of 2026 will hit DelhiNorth India braces for an intense heatwave as temperatures soar to 42\u201345 degrees Celsius across Delhi-NCR and neighbouring states, with the IMD warning of early extreme summer conditions and rising health risks."
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/white-towels-indian-government-office-chair-colonial-symbol-history-hierarchy-2898796-2026-04-20",
+      "headline": "The legend of the white towel on sarkari kursiThe white towel on government office chairs may look like an everyday thing, but it carries a long history of colonial habits, heat, hygiene and hierarchy. Here is how a simple cloth became one of India's most recognisable symbols of official power."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-iran-israel-war-live-upadates-ceasefire-talks-strait-of-hormuz-donald-trump-pakistan-middle-east-shehbaz-sharif-2898685-2026-04-20",
+      "headline": "Live: 10 Indian ships crossed Strait of Hormuz amid blockade, says govt officialUS-Iran-Israel War Live Updates: Iran refused to hold the second round of the ceasefire talks with the United States, citing Washington's \"excessive demands, unrealistic expectations, constant shifts in stance, repeated contradictions, and the naval blockade of the maritime chokepoint, Strait of Hormuz. Meanwhile, Donald Trump said that the US delegation team, led by Vice President JD Vance, will arrive in Islamabad today. However, after Iran's refusal, further ceasefire talks regarding the prevailing West Asia conflict look bleak. Amid the developments, Pakistan's Prime Minister, Shehbaz Sharif, held a phone call with Iran's President, Masoud Pezeshkian, and discussed the regional situation. He also briefed Pezeshkian on the conversation the South Asian country had with Saudi Arabia, Qatar, and Turkey. Catch all the live updates at Indiatoday.in."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/pakistans-irans-nuclear-talks-west-asia-war-donald-trump-aq-khan-islamabad-2898793-2026-04-20",
-      "headline": "Arsonist as firefighter: Islamabad's role in Tehran's nuclear programPakistan, a known trafficker of nuclear weapons, is now sitting down to broker the denuclearisation of Iran."
+      "url": "https://www.indiatoday.in/trending-news/story/namita-thapar-hits-back-after-being-trolled-for-reel-on-health-benefits-of-namaz-2898876-2026-04-20",
+      "headline": "Namita Thapar hits back after being trolled for reel on health benefits of namazNamita Thapar has hit back with a strongly worded video after facing online trolling and abuse over her Instagram reel on the health benefits of namaz."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indian-navy-tightens-security-near-strait-of-hormuz-after-irgc-incident-2898862-2026-04-20",
+      "headline": "India shares fresh advisory for tankers in Hormuz after firing on 2 Indian ships Live UpdatesIndia has issued a fresh advisory to Indian-flagged vessels in the Persian Gulf, asking them to stay clear of Larak Island and transit only when directed by it to ensure safety. Sources told India Today that the Indian Navy is prioritising security for all Indian vessels waiting to cross the Strait of Hormuz."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/noida/story/video-noida-woman-confronts-drunk-man-for-harassing-muslim-couple-accused-arrested-2898855-2026-04-20",
+      "headline": "Video: Noida woman confronts drunk man harassing Muslim couple, accused arrestedAccording to police, the situation escalated when the man questioned the couple's identity and got into a verbal altercation with them. The couple had reportedly asked him to stop drinking in the open, which led to the confrontation."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/h1b-visa-indian-origin-telugu-men-fraud-in-us-university-of-california-us-justice-department-2898815-2026-04-20",
+      "headline": "Telugu duo in US face 5-year jail for H-1B fraud; hired people for ghost jobsTwo Indian-origin Telugu men in California admitted to committing H1-B visa fraud. The duo hired people for jobs at the University of California that never existed. They now face 5 years in jail in the US."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-russia-defence-cooperation-relos-pact-mutual-troop-deploument-logistical-support-new-delhi-moscow-relations-2898825-2026-04-20",
+      "headline": "Amid US's Pak tilt, India-Russia pact on troop, warship deployment comes into forceThe India-Russia RELOS agreement, which allows deployment of troops, warships and aircraft in each other's territory even in conflict scenarios, has come into force. The operationalisation of the pact comes at a time the Trump White House is increasingly leaning towards Pakistan and its army chief, Asim Munir."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/japan-earthquake-tsunami-warning-iwate-miyako-megaquake-risk-april-2026-2898910-2026-04-20",
+      "headline": "7.5-magnitude earthquake hits Japan. What's happening beneath the surface?Japan is one of the most earthquake-prone places on Earth, accounting for 10% of all tremors worldwide despite making up just 0.3% of the planet's total land mass."
     },
     {
       "sentiment": "positive",
@@ -305,22 +285,62 @@
       "headline": "Ghaziabad woman shares Rapido driver's inappropriate messages, company reactsA woman from Ghaziabad has shared screenshots of a WhatsApp conversation allegedly initiated by the Rapido bike driver who had dropped her."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israeli-soldier-vandalises-jesus-christ-statue-in-lebanon-outrage-2898716-2026-04-20",
-      "headline": "Israeli soldier vandalises Jesus Christ statue in Lebanon, military vows actionAn Israeli soldier was seen vandalising a statue of Jesus Christ in southern Lebanon, with the IDF later confirming the image's authenticity and launching an investigation. The military said the act violates its values, promised action against those involved."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/fly91-hyderabad-hubballi-flight-diverted-to-bengaluru-due-to-bad-weather-airline-denies-technical-snag-2898799-2026-04-20",
+      "headline": "Oh my god: Passengers cry, panic as Fly91 flight faces mid-air scareThe incident caused anxiety among passengers as the aircraft remained airborne for nearly three hours. Some passengers were visibly distressed, with a few reportedly in tears and praying during the prolonged delay."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/health/story/counterfeit-mounjaro-drugs-seized-gurugram-rising-demand-glp-1-therapies-2898870-2026-04-20",
-      "headline": "Fake Mounjaro injections seized in Gurugram amid high demandSeizure of counterfeit diabetes drug in Gurugram raises alarms over India's booming GLP-1 market and patient safety risks"
+      "url": "https://www.indiatoday.in/world/story/iran-skips-second-round-of-us-talks-in-pak-blames-excessive-demands-blockade-of-hormuz-2898664-2026-04-19",
+      "headline": "Iran to skip talks 2.0 in Pak, blames excessive US demands, Hormuz blockadeHopes of a breakthrough faded after Iran confirmed its absence from the second round of talks in Islamabad, which it said stemmed from Washington's \"excessive demands, unrealistic expectations, constant shifts in stance, repeated contradictions\", and the naval blockade of its ports."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/delhi-electricity-bills-increase-rs-30000-crore-dues-2898784-2026-04-20",
-      "headline": "Delhi power bills may rise after tribunal rejects plea on Rs 30,000 crore duesThe dues are linked to pending recoveries payable to Delhi's power distribution companies (discoms) under a larger liquidation plan aimed at clearing long-standing liabilities in the power sector."
+      "url": "https://www.indiatoday.in/india/story/pakistan-hosts-us-iran-peace-talks-amid-economic-challenges-new-delhi-failure-pm-modi-congress-asim-munir-2898873-2026-04-20",
+      "headline": "Congress blames PM for Pak's new branding: 'Dalal' country hosting Iran talks 2.0The Congress accused the BJP government of a diplomatic failure over Pakistan hosting US-Iran talks and Asim Munir's growing proximity to Donald Trump."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/vercel-hacked-hacker-using-shinyhunters-name-to-sell-data-for-2-million-2898719-2026-04-20",
+      "headline": "Vercel hacked, hacker using ShinyHunters name to sell data for $2 millionVercel, a cloud platform that hosts and deploys web apps, was recently compromised in a cyberattack stemming from an AI tool. The company says that no sensitive data was accessed after hackers claimed to be selling Vercel customer data online. Vercel has clients such as OpenAI, Cursor, Bose, and Pinterest."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/drop-the-matter-arrested-tcs-nashik-executive-ashwini-chainani-allegedly-told-complainant-in-sex-abuse-case-2898818-2026-04-20",
+      "headline": "Drop the matter, arrested TCS Nashik manager told complainant in sex abuse caseRecalling her ordeal, the survivor alleged that, despite multiple verbal complaints against accused Raza Memon, no concrete action was taken. Instead, she claimed, senior officials, including an attempt to silence her concerns."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/india-north-india-heatwave-delhi-ncr-imd-alert-april-2026-temperature-rise-heatwave-summer-weather-forecast-2898841-2026-04-20",
+      "headline": "Feeling hot? Here's when the first heatwave of 2026 will hit DelhiNorth India braces for an intense heatwave as temperatures soar to 42\u201345 degrees Celsius across Delhi-NCR and neighbouring states, with the IMD warning of early extreme summer conditions and rising health risks."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iran-us-ceasefire-hormuz-war-islamabad-talks-pakistan-economic-challenges-geopolitical-position-2898708-2026-04-20",
+      "headline": "Unlike 9/11, Cold War, no windfall now: Pak bleeds as Iran-US crisis deepensHistorically, Pakistan's strategic location brought economic gains, with wars and global alignments yielding grants, debt relief, and reimbursements. But that equation is now reversing, as Gulf tensions trigger capital flight, reserve depletion, and rising repayment pressures."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-praises-vaibhav-sooryavanshi-spectacular-rr-star-ipl-2026-2898940-2026-04-20",
+      "headline": "Vaibhav Sooryavanshi is one for the future: Shreyas praises 'spectacular' RR star Punjab Kings captain Shreyas Iyer has heaped praise on Rajasthan Royals' young star Vaibhav Sooryavanshi, describing him as a \"spectacular talent\" and predicting a bright future after his impressive run in IPL 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/india-world-athletics-anti-doping-category-a-high-risk-2898925-2026-04-20",
+      "headline": "Red flag for Indian athletics: India placed in highest-risk doping bracket India has been moved to the highest-risk 'Category A' bracket for doping after consistently recording the most violations globally, forcing the World Athletics body's Athletics Integrity Unit to impose stringent new testing protocols."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-gt-rohit-sharma-returns-to-nets-sparks-hope-injury-2898914-2026-04-20",
+      "headline": "IPL 2026: Rohit Sharma switches to Hitman mode in MI nets ahead of GT clash IPL 2026: Rohit Sharma returned to nets ahead of MI's clash with Gujarat Titans, raising hopes of a comeback. With Mumbai Indians struggling, his return could be the spark needed to revive their IPL 2026 campaign."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-gt-vs-mi-hardik-pandya-step-up-no-match-winning-knock-aakash-chopra-2898896-2026-04-20",
+      "headline": "Hardik, when was your last match-winning knock? MI skipper urged to step up IPL 2026: Hardik Pandya faces mounting pressure as Mumbai Indians struggle to find winning momentum this season. Aakash Chopra questioned the skipper's lack of a recent match-winning knock, urging him to step up."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-kkr-vs-rr-rinku-singh-aakash-chopra-trolls-better-poor-2898883-2026-04-20",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mumbai-indians-vs-gujarat-titans-preview-predicted-xi-pitch-report-ahmedabad-2898738-2026-04-20",
-      "headline": "Pressure mounts on Hardik Pandya as MI's ship faces stormy Ahmedabad test vs GT IPL 2026, GT vs MI: Mumbai Indians have lost four games on the trot and will be eager to return to winning ways against Gujarat Titans at a venue where they are yet to register a victory over them."
+      "headline": "Pressure mounts on Hardik Pandya as MI's ship faces stormy Ahmedabad test vs GTIPL 2026, GT vs MI: Mumbai Indians have lost four games on the trot and will be eager to return to winning ways against Gujarat Titans at a venue where they are yet to register a victory over them."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-kkr-vs-rr-varun-chakravarthy-tears-dressing-room-criticism-abhishek-nayar-2898739-2026-04-20",
-      "headline": "Saw KKR dressing room in tears, many made baseless judgements about us: Chakravarthy IPL 2026, KKR vs RR: Varun Chakravarthy revealed emotional scenes in KKR's dressing room after their first IPL 2026 win, crediting team resilience amid criticism. Varun's match-winning spell and Rinku Singh's heroics sealed a dramatic chase against Rajasthan Royals in Kolkata on Sunday."
+      "headline": "Saw KKR dressing room in tears, many made baseless judgements about us: ChakravarthyIPL 2026, KKR vs RR: Varun Chakravarthy revealed emotional scenes in KKR's dressing room after their first IPL 2026 win, crediting team resilience amid criticism. Varun's match-winning spell and Rinku Singh's heroics sealed a dramatic chase against Rajasthan Royals in Kolkata on Sunday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/roman-reigns-wins-world-heavyweight-title-at-wrestlemania-42-night-2-2898726-2026-04-20",
-      "headline": "Roman Reigns beats CM Punk as WrestleMania 42 Night 2 delivers chaos Roman Reigns defeated CM Punk in a clean main event to win the World Heavyweight title. WrestleMania 42 Night 2 also saw multiple title changes and a potential farewell moment for Brock Lesnar."
+      "headline": "Roman Reigns beats CM Punk as WrestleMania 42 Night 2 delivers chaosRoman Reigns defeated CM Punk in a clean main event to win the World Heavyweight title. WrestleMania 42 Night 2 also saw multiple title changes and a potential farewell moment for Brock Lesnar."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-black-magic-scandal-srh-vs-csk-fake-letter-lalit-modi-2898715-2026-04-20",
-      "headline": "Lalit Modi claims IPL team owner did black magic after bizarre SRH vs CSK episode IPL 2026: A viral 'black magic' controversy involving Chennai Super Kings and Sunrisers Hyderabad was dismissed as fake by Lalit Modi. However, his remarks hinted that such bizarre claims may not be entirely new in IPL history."
+      "headline": "Lalit Modi claims IPL team owner did black magic after bizarre SRH vs CSK episodeIPL 2026: A viral 'black magic' controversy involving Chennai Super Kings and Sunrisers Hyderabad was dismissed as fake by Lalit Modi. However, his remarks hinted that such bizarre claims may not be entirely new in IPL history."
     },
     {
       "sentiment": "positive",
@@ -450,26 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kkr-vs-rr-varun-chakravarthy-fastest-indian-spinner-200-t20-wickets-2898589-2026-04-19",
       "headline": "Varun Chakravarthy back in form, becomes fastest Indian spinner to 200 T20 wicketsVarun Chakravarthy returned to form with a decisive spell as Kolkata Knight Riders' spin attack restricted Rajasthan Royals to 155/9 in Match 28 of the Indian Premier League at Eden Gardens on Sunday, becoming the fastest Indian spinner to reach 200 T20 wickets in the process."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shafali-verma-south-africa-vs-india-youngest-womens-t20i-durban-2898584-2026-04-19",
-      "headline": "Shafali Verma, once 15-year-old debutant, now India's youngest to 100 T20IsSAW vs INDW, 2nd T20I: At 22 years and 81 days, Shafali Verma became the youngest Indian to play 100 T20Is, breaking the record of Jemimah Rodrigues."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-tottenham-hotspur-legal-action-kevin-danso-racism-brighton-draw-2898573-2026-04-19",
-      "headline": "Tottenham Hotspur call for police action over racism against DansoTottenham Hotspur slammed the racist abuse aimed at Kevin Danso after their 2-2 draw against Brighton. Spurs called the messages vile and dehumanising as Danso responded strongly."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-india-2nd-womens-t20i-durban-smriti-mandhana-laura-wolvaardt-2898559-2026-04-19",
-      "headline": "South Africa Women vs India Women, 2nd T20I: Highlights from DurbanSAW vs INDW, 2nd T20I Highlights: India slumped to an eight-wicket defeat in Durban and went 0-2 down in the five-match series."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/story/mohammad-rizwan-shocking-admission-psl-slump-pakistan-place-2898545-2026-04-19",
-      "headline": "After PSL slump, Mohammad Rizwan admits he doesn't deserve Pakistan selectionAfter a poor run in the Pakistan Super League, Mohammad Rizwan offered a frank assessment of his form, admitting that he does not currently deserve a place in Pakistan's T20I side."
     }
   ],
   "education": [
