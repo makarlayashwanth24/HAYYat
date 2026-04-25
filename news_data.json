@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/ai-cyber-risk-banks-nirmala-sitharaman-warns-lenders-fraud-threat-2901381-2026-04-25",
+      "headline": "Decoding the AI threat to banks that Nirmala Sitharaman warned aboutFinance Minister Nirmala Sitharaman met bank chiefs to discuss rising AI-linked risks in the financial system. To understand how serious the threat could become, we dug deeper into the risks banks face from AI and spoke to experts across the cybersecurity and technology sectors."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/paytm-payments-bank-licence-cancelled-by-rbi-what-it-means-for-users-2901350-2026-04-25",
       "headline": "RBI cancels Paytm Payments Bank licence: What it means for Paytm usersThe RBI has cancelled Paytm Payments Bank's licence after years of restrictions and scrutiny. The big question now is how this move could affect everyday Paytm users."
     },
@@ -94,14 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/hcltech-tcs-infosys-shares-fall-global-growth-worries-it-stocks-2900784-2026-04-24",
       "headline": "HCLTech, TCS, Infosys: Why are IT stocks falling again?HCLTech led losses as frontline IT stocks fell up nearly 5% amid renewed worries over global demand, weak guidance and continued foreign investor selling pressure."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-falls-800-points-nifty-down-brent-crude-fpi-selling-it-stocks-explained-2900779-2026-04-24",
-      "headline": "Sensex closes 982 points lower: 3 reasons why stock market fell todayStock market crash: The BSE Sensex was down 1,069.89 points, or 1.38%, at 76,594.11 at around 1:08 pm, while the Nifty 50 fell 293.55 points, or 1.21%, to 23,879.50."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rashmika-vijay-cheer-for-fans-viral-vachindamma-reel-timing-is-epic-2901375-2026-04-25",
+      "headline": "Rashmika, Vijay cheer for fan's viral Vachindamma reel: Timing is epic Rashmika Mandanna and Vijay Deverakonda reacted to an influencer's recreation of the song, Vachindamma from Geetha Govindam. The duo praised the talent and timing of the young fan."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/unchosen-review-atmospheric-cult-drama-led-by-strong-performances-and-slow-pacing-2900911-2026-04-25",
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/priyanka-chopra-global-vanguard-honour-gold-gala-2026-2900997-2026-04-24",
       "headline": "Priyanka Chopra makes history, to receive Global Vanguard Honor for 25-year legacy Priyanka Chopra will receive the inaugural Global Vanguard Honor for her unprecedented 25-year career across industries and continents. The ceremony will take place on May 9."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/sapne-vs-everyone-season-2-khushalii-kumar-makes-her-ott-debut-with-tvf-show-2900980-2026-04-24",
-      "headline": "Sapne Vs Everyone Season 2: Khushalii Kumar makes her OTT debut with TVF show Khushalii Kumar announced her OTT debut with Sapne Vs Everyone Season 2, teaming up with The Viral Fever. She opened up about the collaboration, calling it a dream project as the next chapter of the series gears up for release."
     }
   ],
   "general news": [
@@ -211,28 +211,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/aap-rajya-sabha-merger-bjp-sandeep-pathak-switch-kejriwal-2901290-2026-04-25",
-      "headline": "Why Sandeep Pathak's shocking exit is bigger setback for AAPTwo-thirds of AAP's Rajya Sabha MPs merged with the BJP, but Sandeep Pathak's defection shocked the party given his role as Arvind Kejriwal's key strategist and staunch BJP critic."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iranian-foreign-minister-abbas-araghchi-arrives-in-islamabad-for-second-round-of-talks-with-us-2901253-2026-04-25",
-      "headline": "No Iran-US talks planned: Tehran says engagement via Pak as delegation arrivesIran's foreign minister Abbas Araghchi arrived in Islamabad with a delegation as Pakistan mediates renewed US-Iran talks, with US envoys also heading there to restart stalled negotiations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pokemon-cards-thefts-robberies-rise-us-uk-hong-kong-canada-2901364-2026-04-25",
-      "headline": "US to Canada: Why Pokemon cards are catching attention of criminalsPokemon cards, once collected and traded in schools, are drawing the attention of criminals. Smash-and-grab robberies have been reported across several countries. It comes amid a resurgence in craze for rare Pokemon cards."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/gurugram/story/gurugram-man-death-suspected-sex-enhancing-drug-overdose-2901320-2026-04-25",
-      "headline": "Gurugram man takes sex-enhancing drugs before meeting fianc\u00e9e, dies of overdoseA 29-year-old man in Gurugram was found dead in his PG room, with police suspecting a fatal overdose of a sex-enhancing drug before meeting his fianc\u00e9e."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ex-muslim-youtuber-saleem-wastik-arrested-in-murder-case-after-stabbing-attack-2901361-2026-04-25",
-      "headline": "Ex-Muslim YouTuber Saleem Wastik arrested in murder case after stabbing attackThe case involves the abduction and murder of 13-year-old Sandeep Bansal, the son of a Delhi-based businessman. On January 20, 1995, the boy was kidnapped while on his way to school."
+      "url": "https://www.indiatoday.in/india/story/raghav-chadha-loses-instagram-followers-joins-bjp-genz-2901396-2026-04-25",
+      "headline": "Gen Z effect? Raghav Chadha loses 1 million followers after BJP switchThe shock exit of Raghav Chadha from the AAP to join the BJP doesn't seem to have impressed Gen Z. The suave Rajya Sabha MP, who enjoyed considerable popularity among the youth, lost one million followers in under 24 hours."
     },
     {
       "sentiment": "negative",
@@ -241,8 +221,38 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pokemon-cards-thefts-robberies-rise-us-uk-hong-kong-canada-2901364-2026-04-25",
+      "headline": "US to Canada: Why Pokemon cards are catching attention of criminalsPokemon cards, once collected and traded in schools, are drawing the attention of criminals. Smash-and-grab robberies have been reported across several countries. It comes amid a resurgence in craze for rare Pokemon cards."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-resumes-commercial-flights-from-tehrans-international-airport-for-first-time-since-the-war-2901406-2026-04-25",
+      "headline": "Iran resumes commercial flights from Tehran airport for first time since war Live UpdatesIran resumed flights from Tehran after a two-month halt under a fragile US-backed ceasefire, while diplomatic efforts intensify in Pakistan to sustain talks."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/bjp-is-bharatiya-jootha-party-aaps-sanjay-singh-hits-out-at-parvesh-verma-calls-sheesh-mahal-2-pics-fake-2901397-2026-04-25",
+      "headline": "Bharatiya Jhootha Party: AAP hits back at BJP over 'Sheesh Mahal 2' claimsThe BJP had earlier alleged that Arvind Kejriwal was living in luxury, displaying visuals claiming to be from his new Delhi residence in Lodhi Estate, a charge AAP leaders have strongly denied."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/aap-rajya-sabha-merger-bjp-sandeep-pathak-switch-kejriwal-2901290-2026-04-25",
+      "headline": "Why Sandeep Pathak's shocking exit is bigger setback for AAPTwo-thirds of AAP's Rajya Sabha MPs merged with the BJP, but Sandeep Pathak's defection shocked the party given his role as Arvind Kejriwal's key strategist and staunch BJP critic."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/health/story/thin-doesnt-mean-healthy-riddhima-kapoor-busts-a-common-myth-2900339-2026-04-25",
       "headline": "Thin doesn't mean healthy: Riddhima Kapoor busts a common mythRiddhima Kapoor Sahni highlights persistent fatigue as a key symptom you should never ignore, stressing that it may signal deeper health issues. She also shares her approach to sleep, stress, fitness, and building sustainable wellness habits."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/5-viral-clips-of-childrens-behaviour-that-spotlighted-poor-parenting-2901071-2026-04-25",
+      "headline": "5 viral clips of children's behaviour that spotlighted poor parentingViral videos showing children in emotionally charged or unsafe situations have led to growing criticism of parenting choices, and raised questions about supervision and social media content culture."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ex-muslim-youtuber-saleem-wastik-arrested-in-murder-case-after-stabbing-attack-2901361-2026-04-25",
+      "headline": "Ex-Muslim YouTuber Saleem Wastik arrested in murder case after stabbing attackThe case involves the abduction and murder of 13-year-old Sandeep Bansal, the son of a Delhi-based businessman. On January 20, 1995, the boy was kidnapped while on his way to school."
     },
     {
       "sentiment": "positive",
@@ -251,13 +261,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/sitar-physics-jawari-sympathetic-strings-persian-origin-setar-hindustani-music-ravi-shankar-2898314-2026-04-19",
-      "headline": "India's sitar gets its soul from Iran, but its tune comes from physicsThe sitar's distinctive sound is produced by a gently curved surface that makes each note bloom before it settles, an effect Indian craftspeople perfected by ear centuries before scientists could explain it."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-captaincy-rankings-shreyas-iyer-top-hardik-pandya-bottom-2901324-2026-04-25",
+      "headline": "Captains from best to worst: An IPL 2026 mid-season reportShreyas Iyer has emerged as the standout captain so far, while Hardik Pandya sits at the bottom of the rankings. The mid-season assessment also tracks strong starts from Rajat Patidar and Ishan Kishan, and growing pressure on several others."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iranian-foreign-minister-abbas-araghchi-arrives-in-islamabad-for-second-round-of-talks-with-us-2901253-2026-04-25",
+      "headline": "No Iran-US talks planned: Tehran says engagement via Pak as delegation arrivesIran's foreign minister Abbas Araghchi arrived in Islamabad with a delegation as Pakistan mediates renewed US-Iran talks, with US envoys also heading there to restart stalled negotiations."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/beyond-the-spotlight-pm-modis-recurring-moments-behind-the-camera-2901353-2026-04-25",
-      "headline": "Beyond the spotlight: PM Modi's recurring moments behind the cameraA closer look at Prime Minister Narendra Modi's lesser-seen moments behind the camera, capturing wildlife, cityscapes, and candid scenes during official visits."
+      "url": "https://www.indiatoday.in/cities/gurugram/story/gurugram-man-death-suspected-sex-enhancing-drug-overdose-2901320-2026-04-25",
+      "headline": "Gurugram man takes sex-enhancing drugs before meeting fianc\u00e9e, dies of overdoseA 29-year-old man in Gurugram was found dead in his PG room, with police suspecting a fatal overdose of a sex-enhancing drug before meeting his fianc\u00e9e."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/sitar-physics-jawari-sympathetic-strings-persian-origin-setar-hindustani-music-ravi-shankar-2898314-2026-04-19",
+      "headline": "India's sitar gets its soul from Iran, but its tune comes from physicsThe sitar's distinctive sound is produced by a gently curved surface that makes each note bloom before it settles, an effect Indian craftspeople perfected by ear centuries before scientists could explain it."
     },
     {
       "sentiment": "positive",
@@ -266,38 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/jobs-crisis-missing-women-workforce-no-unemployment-data-educ-2898255-2026-04-25",
-      "headline": "India's missing women workforce: Why millions are absent from jobs and dataHandcrafted ByOur Editors India's employment numbers look stronger, but millions of women remain outside the workforce or trapped in low-paying jobs. New data shows many are not counted as unemployed at all, exposing a hidden labour crisis shaped by care burdens, weak job quality, and limited opportunities for educated women nationwide."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-captaincy-rankings-shreyas-iyer-top-hardik-pandya-bottom-2901324-2026-04-25",
-      "headline": "Captains from best to worst: An IPL 2026 mid-season reportShreyas Iyer has emerged as the standout captain so far, while Hardik Pandya sits at the bottom of the rankings. The mid-season assessment also tracks strong starts from Rajat Patidar and Ishan Kishan, and growing pressure on several others."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-israel-war-live-upadates-ceasefire-talks-strait-of-hormuz-blockade-donald-trump-pakistan-jd-vance-middle-east-hezbollah-lebanon-2900723-2026-04-24",
-      "headline": "Live: Iran hangs man accused of working for Mossad, says state mediaUS-Iran War Live Updates: The situation in the Middle East remains tense as military activity and diplomatic efforts continue at the same time. The USS George HW Bush has arrived in the region, increasing the number of US aircraft carriers in operation there to three. Donald Trump has stated that any deal with Iran will be made only when it is \"appropriate and good\" for the United States. Iranian leaders, including President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and judiciary chief Gholamhossein Mohseni Ejei, have rejected claims that there are divisions within the country's leadership. The US has taken further military steps. The US President has ordered the Navy to \"shoot and kill\" Iranian boats suspected of placing mines in the Strait of Hormuz. The US military has also intensified mine-clearing operations in the waterway. In addition, the Pentagon said US forces boarded the tanker Majestic X in the Indian Ocean. These developments come after the US extended a ceasefire with Iran, although there is no formal extension or confirmed timeline for further talks. Diplomatic efforts are continuing alongside military developments. The United States is hosting a second round of talks between Israel and Lebanon in Washington. The discussions are focused on extending a ceasefire between Israel and Hezbollah. Both sides have carried out strikes during the truce period. So far, there is no clear deadline for ending the conflict or for reaching a new agreement. Catch all the live updates at indiatoday.in."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/reviews/story/mg-majestor-review-first-drive-taking-on-the-toyota-fortuner-head-on-2901354-2026-04-25",
-      "headline": "MG Majestor review, first drive: Taking on the Toyota Fortuner head onMG is all set to take on the Toyota Fortuner with the Majestor SUV. We tried it out on and off the road to see how it does and whether it can become a segment dominator."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-595-24-04-2026",
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/telangana/story/k-kavitha-launches-her-own-political-party-in-telangana-months-after-being-suspended-from-brs-2901334-2026-04-25",
-      "headline": "K Kavitha launches her own party in Telangana months after being suspended from BRSThe announcement about the formation of the new political outfit was made last month. During a press conference in March, Kavitha had said that her party would stand for universal upliftment and welfare, with inclusive development and self-sufficiency as its core principles."
+      "url": "https://www.indiatoday.in/science/story/skyroot-aerospace-vikram-1-clears-key-tests-heads-to-satish-dhawan-space-centre-2901395-2026-04-25",
+      "headline": "Skyroot inches closer to India's first private Vikram-I rocket launchTelangana Chief Minister A. Revanth Reddy visited Skyroot's Max-Q Campus in Hyderabad to ceremonially flag off the Vikram-1 launch vehicle as it begins its journey to the Satish Dhawan Space Centre."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-secretary-of-defense-pete-hegseth-strait-of-hormuz-blockade-continue-iran-give-up-nuke-dreams-2901314-2026-04-25",
-      "headline": "Ironclad Hormuz blockade to continue until Iran gives up nuke dreams, says HegsethThe US-Iran stand-off over the key waterway has deepened uncertainty over talks in Islamabad as Tehran insists the blockade must be lifted."
+      "url": "https://www.indiatoday.in/jobs/story/jobs-crisis-missing-women-workforce-no-unemployment-data-educ-2898255-2026-04-25",
+      "headline": "India's missing women workforce: Why millions are absent from jobs and dataHandcrafted ByOur Editors India's employment numbers look stronger, but millions of women remain outside the workforce or trapped in low-paying jobs. New data shows many are not counted as unemployed at all, exposing a hidden labour crisis shaped by care burdens, weak job quality, and limited opportunities for educated women nationwide."
     },
     {
       "sentiment": "positive",
@@ -306,8 +306,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/paytm-payments-bank-licence-cancelled-by-rbi-what-it-means-for-users-2901350-2026-04-25",
-      "headline": "RBI cancels Paytm Payments Bank licence: What it means for Paytm usersThe RBI has cancelled Paytm Payments Bank's licence after years of restrictions and scrutiny. The big question now is how this move could affect everyday Paytm users."
+      "url": "https://www.indiatoday.in/trending-news/story/beyond-the-spotlight-pm-modis-recurring-moments-behind-the-camera-2901353-2026-04-25",
+      "headline": "Beyond the spotlight: PM Modi's recurring moments behind the cameraA closer look at Prime Minister Narendra Modi's lesser-seen moments behind the camera, capturing wildlife, cityscapes, and candid scenes during official visits."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,11 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-vs-gt-devdutt-padikkal-new-version-intent-technical-tweaks-2901355-2026-04-25",
+      "headline": "This is the new Devdutt Padikkal: RCB star embraces his new fiery version IPL 2026: Devdutt Padikkal has redefined his T20 game in IPL 2026, trading caution for controlled aggression. The new approach is not just eye-catching, it is delivering real impact for RCB."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-vs-gt-virat-kohli-mohammed-siraj-hug-viral-video-2901391-2026-04-25",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rcb-vs-gt-ipl-2026-krunal-pandya-evolution-variations-bengaluru-chinnaswamy-2901257-2026-04-25",
-      "headline": "Why should pacers have all the fun? Krunal Pandya on his wily variations Krunal Pandya has redefined his role in IPL 2026, using innovation and mindset to counter modern batting and emerge as a key bowling force for RCB in a format dominated by hitters."
+      "headline": "Why should pacers have all the fun? Krunal Pandya on his wily variationsKrunal Pandya has redefined his role in IPL 2026, using innovation and mindset to counter modern batting and emerge as a key bowling force for RCB in a format dominated by hitters."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-akash-ambani-walks-out-wankhede-mi-vs-csk-loss-2900888-2026-04-24",
       "headline": "Video: Akash Ambani walks out of Wankhede Stadium midway through MI's lossMumbai Indians owner Akash Ambani walked out of the Wankhede Stadium midway through MI's heavy defeat to Chennai Super Kings, a moment that reflected the growing frustration within the camp during IPL 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sachin-tendulkar-53rd-birthday-fans-mumbai-home-celebration-2900881-2026-04-24",
-      "headline": "Cake, fans, family and trouble maker: How Tendulkar celebrated his 53rd birthdaySachin Tendulkar celebrated his 53rd birthday with fans outside his Mumbai residence, where he cut cakes, interacted warmly with supporters, and thanked them for their wishes. The batting great shared a heartwarming family photo, featuring his mother, wife Anjali and a 'troublemaker'."
     }
   ],
   "education": [
