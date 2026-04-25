@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/paytm-payments-bank-licence-cancelled-by-rbi-what-it-means-for-users-2901350-2026-04-25",
+      "headline": "RBI cancels Paytm Payments Bank licence: What it means for Paytm usersThe RBI has cancelled Paytm Payments Bank's licence after years of restrictions and scrutiny. The big question now is how this move could affect everyday Paytm users."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/motor-vehicle-insurance-mis-selling-claim-denied-add-on-no-claim-bonus-bike-car-accident-repair-2901321-2026-04-25",
       "headline": "The many ways motor insurance is mis-sold in IndiaMotor insurance mis-selling in India is not an exception, it is part of how the system works. What customers don't know at the time of purchase often costs them the most at the time of claim."
     },
@@ -94,14 +99,14 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/sensex-falls-800-points-nifty-down-brent-crude-fpi-selling-it-stocks-explained-2900779-2026-04-24",
       "headline": "Sensex closes 982 points lower: 3 reasons why stock market fell todayStock market crash: The BSE Sensex was down 1,069.89 points, or 1.38%, at 76,594.11 at around 1:08 pm, while the Nifty 50 fell 293.55 points, or 1.21%, to 23,879.50."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/opening-bell-stock-market-sensex-nifty-brent-crude-fpi-selling-large-caps-hormuz-clarity-2900771-2026-04-24",
-      "headline": "Sensex, Nifty open lower as oil surge, FPI selling weigh on marketsThe BSE Sensex fell 409.66 points, or 0.53%, to 77,254.34 as of 9:30 am. The NSE Nifty 50 also slipped 104.35 points, or 0.43%, to 24,068.70."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/unchosen-review-atmospheric-cult-drama-led-by-strong-performances-and-slow-pacing-2900911-2026-04-25",
+      "headline": "Unchosen review: Atmospheric cult drama led by strong performances and slow pacingRelease Date:Tue Apr 21, 2026 Director Jim Loach and creator Julie Gearey deliver Unchosen, a haunting look at faith and control. Despite a slow pace, Molly Windsor's quiet rebellion makes this psychological thriller series deeply immersive."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/rihanna-asks-how-to-say-thank-you-in-hindi-wins-hearts-with-shukriya-in-mumbai-2901330-2026-04-25",
@@ -191,18 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/sapne-vs-everyone-season-2-khushalii-kumar-makes-her-ott-debut-with-tvf-show-2900980-2026-04-24",
       "headline": "Sapne Vs Everyone Season 2: Khushalii Kumar makes her OTT debut with TVF show Khushalii Kumar announced her OTT debut with Sapne Vs Everyone Season 2, teaming up with The Viral Fever. She opened up about the collaboration, calling it a dream project as the next chapter of the series gears up for release."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/stranger-things-tales-from-85-review-the-vibe-is-back-the-magic-isnt-2900946-2026-04-24",
-      "headline": "Stranger Things: Tales From '85 review: The vibe is back, the magic isn'tRelease Date:Thu Apr 23, 2026 Stranger Things - Tales From '85 series review: Eleven and the gang are back. This time, in animated avatars, to take on more monsters. The spin-off captures the energy of Stranger Things, but the aura feels missing."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/kejriwal-is-rehman-dacoit-of-delhi-delhi-deputy-cm-reveals-aap-chiefs-sheesh-mahal-2-in-lodhi-estate-2901349-2026-04-25",
-      "headline": "Kejriwal is Rehman Dacoit of Delhi: BJP leader reveals AAP chief's 'Sheesh Mahal 2'Kejriwal is Rehman Dacoit of Delhi: Delhi deputy CM reveals AAP chief's 'Sheesh Mahal 2' in Lodhi Estate"
+      "headline": "Kejriwal is Rehman Dacoit of Delhi: BJP outs 'Sheesh Mahal 2' pics; AAP says fakeBJP leader Parvesh Verma accused AAP chief Arvind Kejriwal of living in luxury and alleged he had built a second 'Sheesh Mahal' at his new residence in Lodhi Estate. AAP MP Sanjay Singh dismissed the images as \"fake\" and warned of defamation action."
     },
     {
       "sentiment": "negative",
@@ -221,8 +221,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/raaka-pushpa-aa23-why-allu-arjun-is-tollywoods-superstar-shape-shifter-2900817-2026-04-25",
-      "headline": "Raaka, Pushpa, AA23: Why Allu Arjun is Tollywood's superstar shape-shifterAfter the Pushpa films, Allu Arjun continues ditching the playbook with Atlee's Raaka. He steps into a bold, unrecognisable avatar again. In this week's Cinematic Saturday, we decode how it's a sharp pivot \u2013 less comfort, more risk \u2013 and a clear sign he's rewriting his superstardom."
+      "url": "https://www.indiatoday.in/world/story/pokemon-cards-thefts-robberies-rise-us-uk-hong-kong-canada-2901364-2026-04-25",
+      "headline": "US to Canada: Why Pokemon cards are catching attention of criminalsPokemon cards, once collected and traded in schools, are drawing the attention of criminals. Smash-and-grab robberies have been reported across several countries. It comes amid a resurgence in craze for rare Pokemon cards."
     },
     {
       "sentiment": "positive",
@@ -231,33 +231,43 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ex-muslim-youtuber-saleem-wastik-arrested-in-murder-case-after-stabbing-attack-2901361-2026-04-25",
+      "headline": "Ex-Muslim YouTuber Saleem Wastik arrested in murder case after stabbing attackThe case involves the abduction and murder of 13-year-old Sandeep Bansal, the son of a Delhi-based businessman. On January 20, 1995, the boy was kidnapped while on his way to school."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/maine-kaand-kar-diya-killer-called-cousin-after-murdering-delhi-irs-officer-daughter-2901318-2026-04-25",
       "headline": "Maine kaand kar diya: Killer called cousin after murdering IRS officer's daughterInvestigators say the accused called his cousin after the Delhi killing and said he had committed a crime. The call, along with betting debt leads, movement tracking and recoveries, has widened the probe's focus."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/telangana/story/k-kavitha-launches-her-own-political-party-in-telangana-months-after-being-suspended-from-brs-2901334-2026-04-25",
-      "headline": "K Kavitha launches her own party in Telangana months after being suspended from BRSThe announcement about the formation of the new political outfit was made last month. During a press conference in March, Kavitha had said that her party would stand for universal upliftment and welfare, with inclusive development and self-sufficiency as its core principles."
+      "url": "https://www.indiatoday.in/health/story/thin-doesnt-mean-healthy-riddhima-kapoor-busts-a-common-myth-2900339-2026-04-25",
+      "headline": "Thin doesn't mean healthy: Riddhima Kapoor busts a common mythRiddhima Kapoor Sahni highlights persistent fatigue as a key symptom you should never ignore, stressing that it may signal deeper health issues. She also shares her approach to sleep, stress, fitness, and building sustainable wellness habits."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/raghav-chadha-quit-aap-joined-bjp-flipped-script-ashok-mittal-2901182-2026-04-24",
-      "headline": "AAP demoted Raghav Chadha. How he flipped the scriptAfter Raghav Chadha was demoted by AAP in the Rajya Sabha, he stayed mostly quiet and carried on as usual. The silence broke 22 days later when he walked out and merged with the BJP along with six others. Raghav Chadha didn't just respond to his demotion. He outmanoeuvred it. He flipped the script. Completely."
+      "url": "https://www.indiatoday.in/entertainment/music/story/rihannas-viral-mumbai-moment-singer-invites-pap-for-a-photo-op-in-fun-video-2901299-2026-04-25",
+      "headline": "Rihanna's viral Mumbai moment: Singer invites pap for a photo-op in fun videoBarbadian singer and businesswoman Rihanna invited a photographer to join her on the red carpet at a Mumbai event. The moment went viral, with fans praising her warm exchange with the paparazzi."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-secretary-of-defense-pete-hegseth-strait-of-hormuz-blockade-continue-iran-give-up-nuke-dreams-2901314-2026-04-25",
-      "headline": "Ironclad Hormuz blockade to continue until Iran gives up nuke dreams, says HegsethThe US-Iran stand-off over the key waterway has deepened uncertainty over talks in Islamabad as Tehran insists the blockade must be lifted."
+      "url": "https://www.indiatoday.in/science/story/sitar-physics-jawari-sympathetic-strings-persian-origin-setar-hindustani-music-ravi-shankar-2898314-2026-04-19",
+      "headline": "India's sitar gets its soul from Iran, but its tune comes from physicsThe sitar's distinctive sound is produced by a gently curved surface that makes each note bloom before it settles, an effect Indian craftspeople perfected by ear centuries before scientists could explain it."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/raghav-chadha-quits-aap-joins-bjp-sandeep-pathak-ashok-mittal-kejriwal-swati-maliwal-rift-2901200-2026-04-24",
-      "headline": "BJP's laddu for 3 ex-AAP MPs. What about other 4 leaders named by Raghav Chadha?Rajya Sabha MP Raghav Chadha announced his resignation from AAP and joined the BJP along with Sandeep Pathak and Ashok Mittal. He stressed that four more AAP MPs will also switch, even though they were not seen publicly today. Read to know more about it."
+      "url": "https://www.indiatoday.in/trending-news/story/beyond-the-spotlight-pm-modis-recurring-moments-behind-the-camera-2901353-2026-04-25",
+      "headline": "Beyond the spotlight: PM Modi's recurring moments behind the cameraA closer look at Prime Minister Narendra Modi's lesser-seen moments behind the camera, capturing wildlife, cityscapes, and candid scenes during official visits."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/white-house-press-secretary-karoline-leavitt-quip-president-donald-trump-maternity-leave-second-child-nicholas-riccio-2901294-2026-04-25",
-      "headline": "You've his number: Leavitt makes joke at Trump's expense before her maternity leaveThe remark was seen as a playful nod to Donald Trump's habit of communicating directly and frequently, often bypassing traditional channels and keeping the media constantly engaged."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/raaka-pushpa-aa23-why-allu-arjun-is-tollywoods-superstar-shape-shifter-2900817-2026-04-25",
+      "headline": "Raaka, Pushpa, AA23: Why Allu Arjun is Tollywood's superstar shape-shifterAfter the Pushpa films, Allu Arjun continues ditching the playbook with Atlee's Raaka. He steps into a bold, unrecognisable avatar again. In this week's Cinematic Saturday, we decode how it's a sharp pivot \u2013 less comfort, more risk \u2013 and a clear sign he's rewriting his superstardom."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/jobs-crisis-missing-women-workforce-no-unemployment-data-educ-2898255-2026-04-25",
+      "headline": "India's missing women workforce: Why millions are absent from jobs and dataHandcrafted ByOur Editors India's employment numbers look stronger, but millions of women remain outside the workforce or trapped in low-paying jobs. New data shows many are not counted as unemployed at all, exposing a hidden labour crisis shaped by care burdens, weak job quality, and limited opportunities for educated women nationwide."
     },
     {
       "sentiment": "positive",
@@ -266,23 +276,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/six-volunteers-locked-in-100-day-isolation-to-prepare-humans-for-deep-space-missions-2900876-2026-04-24",
-      "headline": "Six volunteers locked in 100-day isolation to prepare humans for deep spaceThe participants entered a sealed habitat at the Envihab facility, where they will live and work in conditions designed to simulate the confinement, autonomy and psychological pressures of missions beyond low Earth orbit."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-russian-oil-waivers-us-will-not-renew-sanctions-exemptions-scott-bessent-hormuz-2901297-2026-04-25",
-      "headline": "Scott Bessent says US holds Hormuz blockade, rejects Iranian or Russian oil waiversThe US will not renew sanctions waivers for Iranian and Russian oil, ending temporary relief that allowed limited shipments and tightening its sanctions regime."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-iran-israel-war-live-upadates-ceasefire-talks-strait-of-hormuz-blockade-donald-trump-pakistan-jd-vance-middle-east-hezbollah-lebanon-2900723-2026-04-24",
-      "headline": "Live: Iran says significant portion of missile capability still unusedUS-Iran War Live Updates: The situation in the Middle East remains tense as military activity and diplomatic efforts continue at the same time. The USS George HW Bush has arrived in the region, increasing the number of US aircraft carriers in operation there to three. Donald Trump has stated that any deal with Iran will be made only when it is \"appropriate and good\" for the United States. Iranian leaders, including President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and judiciary chief Gholamhossein Mohseni Ejei, have rejected claims that there are divisions within the country's leadership. The US has taken further military steps. The US President has ordered the Navy to \"shoot and kill\" Iranian boats suspected of placing mines in the Strait of Hormuz. The US military has also intensified mine-clearing operations in the waterway. In addition, the Pentagon said US forces boarded the tanker Majestic X in the Indian Ocean. These developments come after the US extended a ceasefire with Iran, although there is no formal extension or confirmed timeline for further talks. Diplomatic efforts are continuing alongside military developments. The United States is hosting a second round of talks between Israel and Lebanon in Washington. The discussions are focused on extending a ceasefire between Israel and Hezbollah. Both sides have carried out strikes during the truce period. So far, there is no clear deadline for ending the conflict or for reaching a new agreement. Catch all the live updates at indiatoday.in."
+      "headline": "Live: Iran hangs man accused of working for Mossad, says state mediaUS-Iran War Live Updates: The situation in the Middle East remains tense as military activity and diplomatic efforts continue at the same time. The USS George HW Bush has arrived in the region, increasing the number of US aircraft carriers in operation there to three. Donald Trump has stated that any deal with Iran will be made only when it is \"appropriate and good\" for the United States. Iranian leaders, including President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and judiciary chief Gholamhossein Mohseni Ejei, have rejected claims that there are divisions within the country's leadership. The US has taken further military steps. The US President has ordered the Navy to \"shoot and kill\" Iranian boats suspected of placing mines in the Strait of Hormuz. The US military has also intensified mine-clearing operations in the waterway. In addition, the Pentagon said US forces boarded the tanker Majestic X in the Indian Ocean. These developments come after the US extended a ceasefire with Iran, although there is no formal extension or confirmed timeline for further talks. Diplomatic efforts are continuing alongside military developments. The United States is hosting a second round of talks between Israel and Lebanon in Washington. The discussions are focused on extending a ceasefire between Israel and Hezbollah. Both sides have carried out strikes during the truce period. So far, there is no clear deadline for ending the conflict or for reaching a new agreement. Catch all the live updates at indiatoday.in."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/study-abroad/story/south-korea-study-abroad-indian-students-new-portal-lower-costs-2901087-2026-04-25",
-      "headline": "South Korea becomes hot new study abroad pick as Indian students rethink US, UKSouth Korea is fast emerging as a new study abroad destination for Indian students, offering lower fees, strong STEM courses, job-linked education and a new one-stop government portal for admissions, scholarships and visas. As costs rise in traditional countries, more students are taking notice of the comparatively lower costs of studying in South Korea."
+      "url": "https://www.indiatoday.in/auto/reviews/story/mg-majestor-review-first-drive-taking-on-the-toyota-fortuner-head-on-2901354-2026-04-25",
+      "headline": "MG Majestor review, first drive: Taking on the Toyota Fortuner head onMG is all set to take on the Toyota Fortuner with the Majestor SUV. We tried it out on and off the road to see how it does and whether it can become a segment dominator."
     },
     {
       "sentiment": "positive",
@@ -291,36 +291,51 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/us-president-donald-trump-news-why-america-is-almost-a-failed-state-india-china-hellholes-2900953-2026-04-24",
-      "headline": "US right now is a failed state, well, almostEconomic might and robust internal security aside, Trump's America ticks enough boxes to qualify as a failed state in the political theatre of the absurd."
+      "url": "https://www.indiatoday.in/india/telangana/story/k-kavitha-launches-her-own-political-party-in-telangana-months-after-being-suspended-from-brs-2901334-2026-04-25",
+      "headline": "K Kavitha launches her own party in Telangana months after being suspended from BRSThe announcement about the formation of the new political outfit was made last month. During a press conference in March, Kavitha had said that her party would stand for universal upliftment and welfare, with inclusive development and self-sufficiency as its core principles."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-slapgate-sreesanth-harbhajan-singh-fresh-controversy-rs-1-crore-2901291-2026-04-25",
-      "headline": "Sreesanth says Harbhajan made Rs 1 crore from IPL slapgate ad, blocks him on InstaSreesanth says Harbhajan Singh revived the 2008 slapgate by profiting from a television advertisement. The charge has reopened an old IPL wound and hardened Sreesanth's claim that reconciliation was merely performative."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-secretary-of-defense-pete-hegseth-strait-of-hormuz-blockade-continue-iran-give-up-nuke-dreams-2901314-2026-04-25",
+      "headline": "Ironclad Hormuz blockade to continue until Iran gives up nuke dreams, says HegsethThe US-Iran stand-off over the key waterway has deepened uncertainty over talks in Islamabad as Tehran insists the blockade must be lifted."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/ivf-stress-anxiety-study-data-lower-distress-better-treatment-outcomes-2900966-2026-04-25",
-      "headline": "Study finds stress linked with IVF success ratesHandcrafted ByOur Editors New research from India suggests anxiety and stress may influence IVF success, but experts also warn against oversimplifying the science behind fertility."
+      "url": "https://www.indiatoday.in/education-today/study-abroad/story/south-korea-study-abroad-indian-students-new-portal-lower-costs-2901087-2026-04-25",
+      "headline": "South Korea becomes hot new study abroad pick as Indian students rethink US, UKSouth Korea is fast emerging as a new study abroad destination for Indian students, offering lower fees, strong STEM courses, job-linked education and a new one-stop government portal for admissions, scholarships and visas. As costs rise in traditional countries, more students are taking notice of the comparatively lower costs of studying in South Korea."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/paytm-payments-bank-licence-cancelled-by-rbi-what-it-means-for-users-2901350-2026-04-25",
+      "headline": "RBI cancels Paytm Payments Bank licence: What it means for Paytm usersThe RBI has cancelled Paytm Payments Bank's licence after years of restrictions and scrutiny. The big question now is how this move could affect everyday Paytm users."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/six-volunteers-locked-in-100-day-isolation-to-prepare-humans-for-deep-space-missions-2900876-2026-04-24",
+      "headline": "Six volunteers locked in 100-day isolation to prepare humans for deep spaceThe participants entered a sealed habitat at the Envihab facility, where they will live and work in conditions designed to simulate the confinement, autonomy and psychological pressures of missions beyond low Earth orbit."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/irs-daughter-rape-rahul-meena-alwar-case-husband-recounts-wedding-trip-return-to-house-and-alleged-deception-2900933-2026-04-24",
       "headline": "How killer of IRS officer's daughter used deceit to rape friend's wife in AlwarFocus has shifted to Alwar, where Rahul Meena allegedly used deception and familiarity to target a neighbour's wife hours before the Delhi crime. The survivor's husband said he learnt of the incident after his wife called him, saying Rahul had come and \"did something wrong,\" breaking down during the call."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-man-arrested-for-sexually-harassing-woman-ex-colleague-maharashtra-news-2901293-2026-04-25",
-      "headline": "Man arrested for stalking, sexually harassing ex-colleague, sharing obscene picsAccording to the woman, the accused got her phone number from an office WhatsApp group. She also alleged that the man would try to convince her to embrace an interfaith relationship with him."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/early-monsoon-2026-india-kerala-arrival-heatwave-imd-ecmwf-el-nino-india-ocean-la-nina-heat-rain-2900792-2026-04-24",
-      "headline": "Early monsoon alert: Weather systems signal ahead-of-time arrival likely in IndiaFresh forecasts from the European Centre for Medium-Range Weather Forecasts (ECMWF) suggest the southwest monsoon could make an early start, bringing much-needed relief from rising heat."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-vs-gt-virat-kohli-mohammed-siraj-hug-viral-video-2901391-2026-04-25",
+      "headline": "Kohli, Siraj reunited: Fans loving heartwarming moment after RCB vs GT IPL 2026: A brief reunion between Virat Kohli and Mohammed Siraj became the standout moment after RCB's win over GT. The viral hug captured the bond between former teammates, striking a chord with fans in Bengaluru."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/football/story/real-madrid-kylian-mbappe-france-world-cup-hamstring-injury-2901390-2026-04-25",
+      "headline": "Kylian Mbappe faces World Cup scare after injury blow in Real Madrid's draw vs Betis Kylian Mbappe went off with left hamstring discomfort during Real Madrid's 1-1 draw with Real Betis. The setback adds to Madrid's injury problems and raises fresh concern before France's World Cup opener."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-virat-kohli-joe-root-vaughan-picks-rcb-vs-gt-2901348-2026-04-25",
+      "headline": "Root better to watch than Virat Kohli? Ex-England captain sparks social media war IPL 2026: Michael Vaughan said Joe Root is better to watch than Virat Kohli after Sam Billings praised Kohli's latest RCB knock. The remark set off a social media debate as Kohli's franchise form and Root's red-ball class were weighed against each other."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rr-vs-srh-preview-predicted-xi-team-news-pitch-report-jaipur-2901298-2026-04-25",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-devdutt-padikkal-rcb-vs-gujarat-titans-ipl-2026-2901256-2026-04-25",
-      "headline": "Selfless Virat Kohli praises Devdutt Padikkal as real hero of RCB's win over GT IPL 2026, RCB vs GT: Virat Kohli praised Devdutt Padikkal for his 20-ball half-century, saying it was the left-hander who made the difference in RCB's five-wicket win over GT on Friday in Bengaluru."
+      "headline": "Selfless Virat Kohli praises Devdutt Padikkal as real hero of RCB's win over GTIPL 2026, RCB vs GT: Virat Kohli praised Devdutt Padikkal for his 20-ball half-century, saying it was the left-hander who made the difference in RCB's five-wicket win over GT on Friday in Bengaluru."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/badminton-pv-sindhu-india-vs-denmark-uber-cup-defeat-2901258-2026-04-25",
-      "headline": "PV Sindhu triumphs, but India suffer 2-3 defeat against Denmark PV Sindhu gave India a strong start with a win over Denmark, but the team eventually slipped to a 2-3 defeat in their Uber Cup Group A opener. India will look to bounce back when they face Ukraine on April 25."
+      "headline": "PV Sindhu triumphs, but India suffer 2-3 defeat against DenmarkPV Sindhu gave India a strong start with a win over Denmark, but the team eventually slipped to a 2-3 defeat in their Uber Cup Group A opener. India will look to bounce back when they face Ukraine on April 25."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-virat-kohli-rcb-beat-gt-sai-sudharsan-chinnaswamy-2901236-2026-04-24",
-      "headline": "Virat Kohli rides luck to make GT pay as RCB sign off from Chinnaswamy in style IPL 2026, RCB vs GT: Virat Kohli was dropped on a duck, and he went on to make Gujarat Titans pay with an 81-run knock as the Royal Challengers Bengaluru won by five wickets on Sunday to end their Chinnaswamy leg on a high."
+      "headline": "Virat Kohli rides luck to make GT pay as RCB sign off from Chinnaswamy in styleIPL 2026, RCB vs GT: Virat Kohli was dropped on a duck, and he went on to make Gujarat Titans pay with an 81-run knock as the Royal Challengers Bengaluru won by five wickets on Sunday to end their Chinnaswamy leg on a high."
     },
     {
       "sentiment": "positive",
@@ -455,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sachin-tendulkar-53rd-birthday-fans-mumbai-home-celebration-2900881-2026-04-24",
       "headline": "Cake, fans, family and trouble maker: How Tendulkar celebrated his 53rd birthdaySachin Tendulkar celebrated his 53rd birthday with fans outside his Mumbai residence, where he cut cakes, interacted warmly with supporters, and thanked them for their wishes. The batting great shared a heartwarming family photo, featuring his mother, wife Anjali and a 'troublemaker'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-mumbai-indians-captaincy-ipl-2026-2900874-2026-04-24",
-      "headline": "Project Hardik in crisis: Is Mumbai Indians' big captaincy bet backfiring?IPL 2026: Hardik Pandya's return to Mumbai was meant to be a fairytale, but his poor form and questionable leadership have left MI at the bottom. Is it time for the management to make a change?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-vs-gt-rajat-patidar-aggressive-cricket-mo-bobat-2900816-2026-04-24",
-      "headline": "Patidar has stuck to team's line of thinking: Mo Bobat on RCB's aggressive cricketIPL 2026: RCB are doubling down on their ultra-aggressive identity ahead of a key clash with Gujarat Titans, with Mo Bobat backing Rajat Patidar's calm leadership at the heart of it. As questions linger over Chinnaswamy's shifting pitches, Bobat makes it clear the franchise is focused on control within chaos, not conditions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-csk-akeal-hosein-jadeja-like-performance-old-tweet-2900774-2026-04-24",
-      "headline": "Called it? Akeal Hosein's Jadeja-like performance resurfaces old tweetIPL 2026: Akeal Hosein's four-wicket haul for CSK against MI at the Wankhede brought back an old tweet where he had expressed admiration for Ravindra Jadeja, drawing striking comparisons. His powerplay impact and all-round consistency once again underlined his abilities as a match-winner."
     }
   ],
   "education": [
