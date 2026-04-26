@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/digital-fraud-are-banks-ready-to-keep-your-money-safe-ai-complex-scams-banking-2901735-2026-04-26",
+      "headline": "Are banks doing enough to keep your money safe?Digital fraud is getting smarter as AI fuels more complex scams, but are banks ready to keep your money safe in the age of instant payments?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/mythos-ai-indian-banks-cyber-security-risk-artificial-intelligence-decoded-2901683-2026-04-26",
       "headline": "When risk itself begins to drift: Reading the Mythos moment for Indian financeWhy Finance Minister Nirmala Sitharaman raised concerns about the security of our financial systems in the wake of the emergence of Mythos, should India worry, and what must it do to secure one of the world's largest digital financial stacks?"
     },
@@ -94,11 +99,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/infosys-share-price-tumbles-5-percent-it-stocks-down-q4-results-explained-2900814-2026-04-24",
       "headline": "Infosys shares down 5%, hit 52-week low: Why IT stock tumbled after Q4 resultsAt around 11:01 am, Infosys shares were trading at Rs 1,178.20 on the NSE, down 5.03% or Rs 62.40 for the day. The fall made it one of the worst performers on benchmark indices as the IT pack remained under pressure."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/petrol-diesel-price-hike-after-elections-government-denies-proposal-2900790-2026-04-24",
-      "headline": "Will petrol, diesel prices rise after elections? Here's what we knowThe government has dismissed rumours of a petrol and diesel price hike, but elevated crude prices and pressure on oil retailers have kept the debate firmly alive."
     }
   ],
   "entertainment": [
@@ -207,12 +207,12 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/us-news/story/white-house-dinner-shooting-cole-tomas-allen-donald-trump-jd-vance-2901673-2026-04-26",
-      "headline": "Caltech grad, tutor: Who is Cole Tomas Allen, White House event shooterThe attacker intended to target Donald Trump officials who were present at the dinner event in the White House, a report by CBS News said."
+      "headline": "Teacher of the Month to White House event shooter: Who is Cole Tomas AllenThe attacker intended to target Donald Trump officials who were present at the dinner event in the White House, a report by CBS News said."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/renowned-photojournalist-raghu-rai-dies-at-83-2901628-2026-04-26",
-      "headline": "Renowned photojournalist Raghu Rai dies at 83Raghu Rai was one of India's best known photographers whose lens captured India in its many shades. His last rites will be conducted at the Lodhi Cremation Ground in New Delhi at 4 pm on Sunday."
+      "url": "https://www.indiatoday.in/india/story/raghu-rai-photography-legacy-raj-chengappa-recalls-magic-instinct-and-presence-2901746-2026-04-26",
+      "headline": "Photojournalist Raghu Rai dies at 83: The eye that found a soul in every frameA tribute to Raghu Rai's meditative approach to photography, tracing his India Today years and how presence, instinct, and a keen eye turned ordinary moments into enduring images, as recalled by a colleague who worked closely with him."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/white-house-shooting-trump-attack-karoline-leavitt-statement-viral-us-news-2901687-2026-04-26",
-      "headline": "Shots will be fired: Karoline Leavitt's remark before White House shooting goes viralAfter White House Press Secretary Karoline Leavitt said there would be \"shots fired\" to indicate sharp political jabs, an armed man stormed the White House Press Dinner venue and opened fire. Amid the coincidence, Leavitt's clip of the unwitting \"prediction\" has gone viral."
+      "url": "https://www.indiatoday.in/science/story/rain-coming-multiple-western-disturbances-to-hit-india-break-intense-heat-cycle-2901712-2026-04-26",
+      "headline": "Rain alert: Multiple western disturbances to hit India. Here's whenBack-to-back western disturbances are expected to bring dust storms, thunderstorms and rain across north India over the next few days. The change could push temperatures below 42\u00b0C in some areas, while also causing localised disruption."
     },
     {
       "sentiment": "positive",
@@ -236,8 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/rain-coming-multiple-western-disturbances-to-hit-india-break-intense-heat-cycle-2901712-2026-04-26",
-      "headline": "Rain alert: Multiple western disturbances to hit India. Here's whenBack-to-back western disturbances are expected to bring dust storms, thunderstorms and rain across north India over the next few days. The change could push temperatures below 42\u00b0C in some areas, while also causing localised disruption."
+      "url": "https://www.indiatoday.in/lifestyle/society/story/on-demand-house-help-services-india-can-they-replace-maids-2901692-2026-04-26",
+      "headline": "Can instant house help services really replace your 'didi'?Can hiring an app-based house help become the new normal? We spoke to several families as well as domestic workers in and around Delhi-NCR and beyond. What we found out was very interesting."
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-robin-singh-bhojpuri-commentator-bihar-cricket-vaibhav-sooryavanshi-sakib-2901702-2026-04-26",
-      "headline": "Meet Robin Singh, the Bhojpuri commentator who is giving Bihar cricket its voiceFrom dusty fields to floodlit stadiums, Bihar's cricketing voice is finally being heard. Robin Singh, a coach-turned Bhojpuri commentator, who first built cricketers in silence and now tells their stories to millions."
+      "url": "https://www.indiatoday.in/sports/badminton/story/badminton-rule-change-new-point-system-bwf-thomas-cup-2901582-2026-04-25",
+      "headline": "Biggest rule change in badminton history: BWF approves new scoring systemThe Badminton World Federation has approved a major rule change, replacing the 3x21 format with a 3x15 system from January 2027. While BWF says it will boost player welfare and excitement, Saina Nehwal has cautioned against altering the sport's core character."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/white-house-shooting-trump-attack-karoline-leavitt-statement-viral-us-news-2901687-2026-04-26",
+      "headline": "Shots will be fired: Karoline Leavitt's remark before White House shooting goes viralAfter White House Press Secretary Karoline Leavitt said there would be \"shots fired\" to indicate sharp political jabs, an armed man stormed the White House Press Dinner venue and opened fire. Amid the coincidence, Leavitt's clip of the unwitting \"prediction\" has gone viral."
     },
     {
       "sentiment": "positive",
@@ -255,14 +260,14 @@
       "headline": "How Kerala cops are using AI to nab paedophiles on dark webIn a first for India, Kerala Police is using AI to crack down on child sexual abuse material online. The tool, Katalyst, helps sift through vast digital evidence, identify victims faster, and track perpetrators across social media platforms."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/first-photo-of-shooter-emerges-after-white-house-correspondents-dinner-incident-2901618-2026-04-26",
-      "headline": "Shirtless, tied, pinned to ground: Trump shares photo of White House event shooterThe suspect can be seen shirtless, with a sheet covering the bottom half of his body. The picture was shared by Russian state-backed news broadcaster RT on X. The event disrupted by the major scare was taking place at the Hilton hotel in Washington."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/photo/raghu-rai-photojournalist-death-iconic-photos-that-captured-india-2901714-2026-04-26",
       "headline": "In pictures: Renowned photojournalist Raghu Rai's timeless portraits of IndiaRenowned photojournalist Raghu Rai, who died at 83, leaves behind a body of work that documented India's social, political and cultural landscape across decades. From moments of conflict and tragedy to everyday life and public figures, his photographs offer a lasting visual record of the nation he chronicled."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-robin-singh-bhojpuri-commentator-bihar-cricket-vaibhav-sooryavanshi-sakib-2901702-2026-04-26",
+      "headline": "Meet Robin Singh, the Bhojpuri commentator who is giving Bihar cricket its voiceFrom dusty fields to floodlit stadiums, Bihar's cricketing voice is finally being heard. Robin Singh, a coach-turned Bhojpuri commentator, who first built cricketers in silence and now tells their stories to millions."
     },
     {
       "sentiment": "positive",
@@ -275,14 +280,9 @@
       "headline": "Angry Mamata Banerjee walks off stage over noise from BJP rally 100 metres awayFollowing her departure, angry TMC workers marched toward Adhikari's rally to protest, leading to a heated exchange of slogans between supporters of both sides. The situation quickly escalated, prompting security forces to intervene and restore order."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/lungisani-ngidi-injury-delhi-police-green-corridor-gets-ipl-pacer-to-hospital-in-11-minutes-2901550-2026-04-25",
-      "headline": "How cops created green corridor, rushed Ngidi to hospital in 11 mins after injuryLungisani Ngidi was taken to hospital after a heavy fall while attempting a catch during the Delhi-Punjab IPL match. Delhi Traffic Police created a green corridor, and early updates said he was stable."
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/on-demand-house-help-services-india-can-they-replace-maids-2901692-2026-04-26",
-      "headline": "Can instant house help services really replace your 'didi'?Can hiring an app-based house help become the new normal? We spoke to several families as well as domestic workers in and around Delhi-NCR and beyond. What we found out was very interesting."
+      "url": "https://www.indiatoday.in/business/story/digital-fraud-are-banks-ready-to-keep-your-money-safe-ai-complex-scams-banking-2901735-2026-04-26",
+      "headline": "Are banks doing enough to keep your money safe?Digital fraud is getting smarter as AI fuels more complex scams, but are banks ready to keep your money safe in the age of instant payments?"
     },
     {
       "sentiment": "positive",
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumars-fun-run-is-on-hera-pheri-to-bhooth-bangla-golmaal-5-and-beyond-2901560-2026-04-26",
-      "headline": "Akshay Kumar's fun run is on: Hera Pheri to Bhooth Bangla, Golmaal 5 and beyondBhooth Bangla reiterates that Akshay Kumar is the only superstar in Bollywood who knows how to tap mass-market comedy for box office numbers. It's simple: Promise them a jolly good laugh, they'll come."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-mgr-tamil-nadu-politics-can-tvk-turn-screen-symbolism-into-votes-2901132-2026-04-26",
       "headline": "Can Vijay turn borrowed MGR symbolism into real political power?Vijay invoked MGR at a TVK conference as his party entered its first Assembly election. The comparison highlights how closely Tamil cinema, symbolism and political credibility remain tied in the state."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/lungisani-ngidi-injury-delhi-police-green-corridor-gets-ipl-pacer-to-hospital-in-11-minutes-2901550-2026-04-25",
+      "headline": "How cops created green corridor, rushed Ngidi to hospital in 11 mins after injuryLungisani Ngidi was taken to hospital after a heavy fall while attempting a catch during the Delhi-Punjab IPL match. Delhi Traffic Police created a green corridor, and early updates said he was stable."
     },
     {
       "sentiment": "positive",
@@ -311,16 +311,21 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/no-more-18-hour-flights-for-iran-talks-trump-scraps-envoys-pak-trip-says-us-holds-all-the-cards-2901561-2026-04-25",
-      "headline": "Too much time wasted: Trump scraps envoys' Pak trip, says no more 18-hour flightsUS President Donald Trump said that they hold all the cards in the war against Iran, hence his delegation is not going to make the 18-hour-long journey to Islamabad for the second round of discussions."
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-press-conference-live-updates-address-media-after-gunshots-fired-white-house-correspondents-dinner-event-2901616-2026-04-26",
+      "headline": "Live: FBI secures White House event shooter's California homeTrump Press Conference Live: US President Donald Trump has announced that he will hold a press conference at the White House briefing room shortly after panic and chaos gripped the White House Correspondents' dinner as gunshot-like sounds triggered a massive security scare, forcing Donald Trump and the First Lady to be rushed out by Secret Service, with hundreds taking cover before authorities confirmed a suspect was in custody."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-press-conference-live-updates-address-media-after-gunshots-fired-white-house-correspondents-dinner-event-2901616-2026-04-26",
-      "headline": "Live: Trump officials on hit list, attacker tells US authorities after gunfireTrump Press Conference Live: US President Donald Trump has announced that he will hold a press conference at the White House briefing room shortly after panic and chaos gripped the White House Correspondents' dinner as gunshot-like sounds triggered a massive security scare, forcing Donald Trump and the First Lady to be rushed out by Secret Service, with hundreds taking cover before authorities confirmed a suspect was in custody."
+      "url": "https://www.indiatoday.in/science/story/india-heatwave-today-45-degrees-temperature-delhi-uttar-pradesh-relief-date-rain-2901718-2026-04-26",
+      "headline": "India will bake at 45 degrees today. Which states will sizzle?India is witnessing a record heatwave with temperatures primed to jump to 45 degrees Celsius today. Find out when the Western Disturbance will finally bring rain and relief to the northern plains."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-dropped-catches-fielding-errors-dc-vs-pbks-fatigue-karun-nair-2901756-2026-04-26",
+      "headline": "A dangerous virus that doesn't catch, spreads in IPL 2026 IPL 2026: The catching efficiency in the Indian Premier League has consistently gone down since 2020. It seems to have hit rock bottom in IPL 2026 where, every single day, several important chances are going down every single game. The question is, in the age of hyper-athleticism, why are so many catches being dropped in this high-profile tournament?"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-dc-vs-pbks-shreyas-iyer-ricky-ponting-trust-record-chase-2901739-2026-04-26",
@@ -369,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rr-vs-srh-vaibhav-sooryavanshi-injury-update-hamstring-2901654-2026-04-26",
-      "headline": "Vaibhav Sooryavanshi injured? RR coach provides positive update after SRH scare IPL 2026: Vaibhav Sooryavanshi walked off with a hamstring problem during Rajasthan Royals' match against Sunrisers Hyderabad. Vikram Rathour later said the issue did not appear serious, easing immediate concern for Rajasthan."
+      "headline": "Vaibhav Sooryavanshi injured? RR coach provides positive update after SRH scareIPL 2026: Vaibhav Sooryavanshi walked off with a hamstring problem during Rajasthan Royals' match against Sunrisers Hyderabad. Vikram Rathour later said the issue did not appear serious, easing immediate concern for Rajasthan."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-csk-vs-gt-kkr-vs-lsg-ms-dhoni-return-rishabh-pant-preview-2901597-2026-04-26",
-      "headline": "Chennai keep waiting on MS Dhoni as Gujarat mount comeback bid IPL 2026: Chennai Super Kings and Gujarat Titans will face off at Chepauk in the first match of Sunday's doubleheader, followed by the clash between Kolkata Knight Riders and Lucknow Super Giants in Lucknow."
+      "headline": "Chennai keep waiting on MS Dhoni as Gujarat mount comeback bidIPL 2026: Chennai Super Kings and Gujarat Titans will face off at Chepauk in the first match of Sunday's doubleheader, followed by the clash between Kolkata Knight Riders and Lucknow Super Giants in Lucknow."
     },
     {
       "sentiment": "positive",
@@ -414,7 +419,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/badminton-rule-change-new-point-system-bwf-thomas-cup-2901582-2026-04-25",
-      "headline": "Biggest rule change in badminton history: BWF approves new scoring systemThe Badminton World Federation has approved the biggest rule change in modern badminton, replacing the long-standing 3x21 scoring format with a new 3x15 system from January 2027. While BWF says the move will improve player welfare and make matches more exciting, former world No. 1 Saina Nehwal had warned against changes that could affect the spirit of the sport."
+      "headline": "Biggest rule change in badminton history: BWF approves new scoring systemThe Badminton World Federation has approved a major rule change, replacing the 3x21 format with a 3x15 system from January 2027. While BWF says it will boost player welfare and excitement, Saina Nehwal has cautioned against altering the sport's core character."
     },
     {
       "sentiment": "positive",
@@ -465,16 +470,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-dc-vs-pbks-lungi-ngidi-head-injury-ambulance-play-halted-2901526-2026-04-25",
       "headline": "Lungi Ngidi suffers nasty head injury, rushed to hospital on ambulanceIPL, DC vs PBKS: Lungi Ngidi suffered a nasty injury while fielding. He was stretchered off the field in an ambulance and later rushed to the hospital. The match between Punjab and Delhi was halted for 15 minutes as stunned players watched on in concern."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-dc-vs-pbks-historic-150-delhi-heat-ipl-2026-reaction-2901522-2026-04-25",
-      "headline": "KL Rahul battered by Delhi heat, struggles to enjoy his finest IPL centuryDC vs PBKS: KL Rahul battled Delhi's brutal heat to produce a historic 150, but the physical toll was clear as the exhausted DC batter needed physio attention while keeping during Punjab Kings' chase."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/dc-vs-pbks-ipl-2026-punjab-kings-kl-rahul-fastest-century-delhi-capitals-2901505-2026-04-25",
-      "headline": "152 off 67: KL Rahul sets new IPL record after hitting fastest century for DelhiIPL 2026, DC vs PBKS: KL Rahul, dropped on 12, went on to smash a 47-ball hundred for Delhi Capitals on Saturday. He was in complete control of proceedings, punishing the Punjab Kings spinners and pacers in the V at Arun Jaitley Stadium."
     }
   ],
   "education": [
