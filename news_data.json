@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/the-devil-wears-prada-2-review-perfectly-polished-thats-all-2903749-2026-04-30",
+      "headline": "The Devil Wears Prada 2 review: Perfectly polished. That's allRelease Date:Fri May 01, 2026 The Devil Wears Prada 2 review: Nearly two decades later, Miranda Priestly returns as Runway fights for relevance in a digital-first media world. The sequel uses that struggle to examine how fashion, journalism and influence now bend before metrics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/priyanka-katrina-or-nayanthara-are-tumbbad-2-makers-eyeing-an-a-list-name-2903976-2026-04-30",
+      "headline": "Priyanka, Katrina or Nayanthara: Are Tumbbad 2 makers eyeing an A-list name? Tumbbad 2 is exploring a leading female star for a pivotal role as work on the sequel moves ahead. The talks add fresh intrigue to the film, which is set for December 2027 theatrical release."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/office-romance-trailer-jennifer-lopez-leads-a-risky-love-story-with-brett-goldstein-2903952-2026-04-30",
       "headline": "Office Romance trailer: Jennifer Lopez leads a risky love story with Brett Goldstein The trailer for Office Romance introduces Jennifer Lopez and Brett Goldstein as colleagues drawn to each other at work. It sets up a choice between following their feelings and protecting the company Jackie has built."
     },
@@ -186,33 +196,43 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/no-one-uses-their-sattar-minute-on-the-global-stage-better-than-diljit-dosanjh-2903667-2026-04-30",
       "headline": "No one uses their sattar minute on the global stage better than Diljit Dosanjh Diljit Dosanjh drops history on The Tonight Show Starring Jimmy Fallon while Bollywood sticks to thank-you speeches. This is how you use a global mic right!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/kd-the-devil-review-dhruva-sarja-prem-scale-but-excess-hurts-2903663-2026-04-30",
-      "headline": "KD The Devil review: Dhruva Sarja's film is a brain-rot commercial entertainerRelease Date:Thu Apr 30, 2026 KD The Devil movie review: This Dhruva Sarja-Sanjay Dutt-starrer period action drama is entertaining in bits but is mostly loud, messy and violent."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-ranveer-allahbadia-reunite-the-great-indian-kapil-show-world-laughter-day-special-still-alive-special-india-got-latent-2903669-2026-04-30",
-      "headline": "Still friends? Samay Raina, Ranveer Allahabadia reunite for Kapil Sharma show Comedian Samay Raina and influencer Ranveer Allahbadia are set to have a face-off on The Great Indian Kapil Show that promises to be comic but could get awkward, too. The episode comes after Samay's Still Alive set, where he revisited the India's Got Latent controversy involving Ranveer."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/todays-chanakya-forecasts-192-seats-for-bjp-in-bengal-100-seats-for-tmc-2903903-2026-04-30",
-      "headline": "BJP to wrest Bengal from Trinamool with 192+ seats, predicts Today's ChanakyaThe BJP will wrest control of West Bengal from the ruling TMC after 15 years in a major political shift, predicts Today's Chanakya. According to the survey, the BJP is likely to get 192+ seats, while the TMC may secure 100+ seats."
+      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-exit-poll-result-2026-live-updates-poll-of-polls-when-where-to-watch-full-coverage-2903754-2026-04-30",
+      "headline": "Live: Mamata at Kolkata strongroom; Bengal poll chief denies TMC allegationsWest Bengal Polls Live Updates: A controversy has erupted over strongrooms after TMC alleged ballot tampering, citing a viral video, while the Election Commission denied wrongdoing, saying all EVMs and ballots are securely sealed and monitored."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cruise-boat-sinks-bargi-dam-madhya-pradesh-jabalpur-deaths-2903944-2026-04-30",
-      "headline": "4 drown after cruise boat with 30 onboard sinks in Madhya Pradesh dam; rescue onEmergency response teams rushed to the site and managed to rescue 15 people from the water, while four bodies have been recovered so far."
+      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-election-irregularities-tmc-alleges-ballot-box-tampering-bjp-ec-collusion-2903971-2026-04-30",
+      "headline": "Electoral fraud: TMC alleges BJP opened ballot boxes in strongroom, posts videoThe party further alleged that attempts to influence the election had escalated from name deletion and voter intimidation to alleged tampering with electronic voting machines (EVMs), calling it an act of desperation."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/jpmorgan-executive-lorna-hajdini-sued-sexual-abuse-drugged-indian-origin-employee-2903819-2026-04-30",
       "headline": "Little brown boy: JPMorgan exec accused of drugging, sexually abusing stafferA former JPMorgan employee, who is an Asian, has sued executive director Lorna Hajdini, alleging sexual abuse, racial harassment and intimidation. The bank has denied the claims, saying no evidence against Hajdini was found after an internal probe."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-techie-suicide-note-police-probe-wifes-alleged-affairs-investigation-2903959-2026-04-30",
+      "headline": "Hyderabad techie dies by suicide, blames wife's 'multiple affairs' in noteA 36-year-old software engineer reportedly drowned after jumping into a lake after accusing his wife of multiple affairs. He left a 19-page note, claiming his wife had affairs with three men."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-secret-weapon-us-heart-attack-hoot-super-torpedo-2903748-2026-04-30",
+      "headline": "The secret weapon that Iran says can give US a 'heart attack'Iran has hinted at unveiling a new weapon, which it said might give its enemies a 'heart attack', as talks with the US have hit a dead end. Experts have hinted that it might be the Hoot super torpedo that can slice through warships in no time."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/story/all-strongrooms-evms-secured-sealed-ec-dismisses-tmc-ballot-boxes-opened-claim-2903986-2026-04-30",
+      "headline": "EVMs in all strongrooms secured, sealed: EC rebuts Trinamool's tampering claimThe Election Commission dismissed allegations made by the TMC over a video purportedly showing ballot boxes being opened before the May 4 counting, asserting that all strongrooms remained sealed and under secure protection."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/todays-chanakya-forecasts-192-seats-for-bjp-in-bengal-100-seats-for-tmc-2903903-2026-04-30",
+      "headline": "BJP to wrest Bengal from TMC with 192+ seats, predicts Today's ChanakyaThe BJP will wrest control of West Bengal from the ruling TMC after 15 years in a major political shift, predicts Today's Chanakya. According to the survey, the BJP is likely to get 192+ seats, while the TMC may secure 100+ seats."
     },
     {
       "sentiment": "positive",
@@ -221,28 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-secret-weapon-us-heart-attack-hoot-super-torpedo-2903748-2026-04-30",
-      "headline": "The secret weapon that Iran says can give US a 'heart attack'Iran has hinted at unveiling a new weapon, which it said might give its enemies a 'heart attack', as talks with the US have hit a dead end. Experts have hinted that it might be the Hoot super torpedo that can slice through warships in no time."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/digital-arrest-scam-bijnor-woman-suicide-note-blackmail-2903933-2026-04-30",
-      "headline": "Sorry, mumma has to die: UP woman ends life amid digital arrest ordealIn her suicide note, the 28-year-old victim wrote that she was blackmailed by one person, after which the family members checked her phone and found several calls that kept her under digital arrest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brics-mena-meeting-april-24-new-delhi-joint-statement-faliure-us-israel-iran-war-uae-india-soften-criticism-of-israel-gaza-lebanon-2903445-2026-04-30",
-      "headline": "BRICS at risk of imploding, reveals Delhi meetThere is a wide rift in the BRICS, of which India is a founding member, due to the war in the Middle East. There was no joint statement after the recent meeting in New Delhi that was described as \"very tense\". India as the BRICS president will have to do a tight rope walk ahead of the crucial summit in September."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-press-meet-american-journalist-deceived-asim-munir-2903630-2026-04-30",
-      "headline": "Deceived, used: US journalist as Pak event turns into govt-bashing showAn informal media gathering in Pakistan involving foreign reporters, who were stationed for the US-Iran talks, turned into a full-blown controversy. What was supposed to be a meet-and-greet event turned into a political spectacle after two Pakistani journalists used the platform to criticise the government and the military."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/cbse-parenting-calendar-2026-27-debate-on-schools-guiding-parents-2903650-2026-04-30",
-      "headline": "Superparent CBSE: Education Board takes on new role, wants to parent India's parentsCBSE may call it a partnership, but for many parents, this feels like something new; a system that doesn't just teach children, but quietly begins to teach parents how to raise them."
+      "url": "https://www.indiatoday.in/movies/reviews/story/the-devil-wears-prada-2-review-perfectly-polished-thats-all-2903749-2026-04-30",
+      "headline": "The Devil Wears Prada 2 review: Perfectly polished. That's allRelease Date:Fri May 01, 2026The Devil Wears Prada 2 review: Nearly two decades later, Miranda Priestly returns as Runway fights for relevance in a digital-first media world. The sequel uses that struggle to examine how fashion, journalism and influence now bend before metrics."
     },
     {
       "sentiment": "positive",
@@ -251,13 +251,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/mamata-banerjee-tmc-workers-stand-guard-cross-226-bengal-vote-count-bjp-2903823-2026-04-30",
-      "headline": "TMC will cross 226-mark: Mamata Banerjee rejects exit polls that gave BJP edgeWest Bengal Chief Minister Mamata Banerjee rejected exit poll predictions that predicted an edge to the BJP, asserting that her party will comfortably win by crossing the 226-seat mark."
+      "url": "https://www.indiatoday.in/india/story/brics-mena-meeting-april-24-new-delhi-joint-statement-faliure-us-israel-iran-war-uae-india-soften-criticism-of-israel-gaza-lebanon-2903445-2026-04-30",
+      "headline": "BRICS at risk of imploding, reveals Delhi meetThere is a wide rift in the BRICS, of which India is a founding member, due to the war in the Middle East. There was no joint statement after the recent meeting in New Delhi that was described as \"very tense\". India as the BRICS president will have to do a tight rope walk ahead of the crucial summit in September."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/human-ai-trainers-saw-meta-ai-glass-users-having-sex-now-there-is-scandal-over-their-firing-2903943-2026-04-30",
-      "headline": "Human AI trainers saw Meta AI Glass users having sex, now there is scandal over their firingMeta is facing scrutiny over its smart glasses after reports linked their use to privacy concerns, labour conditions, and job losses. The controversy centres on how data collected through the device was reviewed by outsourced workers in Kenya."
+      "url": "https://www.indiatoday.in/world/story/donald-trump-nobel-peace-prize-nomination-2026-287-nominees-2903956-2026-04-30",
+      "headline": "Trump to finally get Nobel Peace Prize? US President may be among 287 nomineesDonald Trump is expected to be among the nominees for the Nobel Peace Prize. Leaders of Cambodia, Israel, and Pakistan have stated that they nominated him, citing his efforts to resolve conflicts."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/priyanka-katrina-or-nayanthara-are-tumbbad-2-makers-eyeing-an-a-list-name-2903976-2026-04-30",
+      "headline": "Priyanka, Katrina or Nayanthara: Are Tumbbad 2 makers eyeing an A-list name?Tumbbad 2 is exploring a leading female star for a pivotal role as work on the sequel moves ahead. The talks add fresh intrigue to the film, which is set for December 2027 theatrical release."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-press-meet-american-journalist-deceived-asim-munir-2903630-2026-04-30",
+      "headline": "Deceived, used: US journalist as Pak event turns into govt-bashing showAn informal media gathering in Pakistan involving foreign reporters, who were stationed for the US-Iran talks, turned into a full-blown controversy. What was supposed to be a meet-and-greet event turned into a political spectacle after two Pakistani journalists used the platform to criticise the government and the military."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/digital-arrest-scam-bijnor-woman-suicide-note-blackmail-2903933-2026-04-30",
+      "headline": "Sorry, mumma has to die: UP woman ends life amid digital arrest ordealIn her suicide note, the 28-year-old victim wrote that she was blackmailed by one person, after which the family members checked her phone and found several calls that kept her under digital arrest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cruise-boat-sinks-bargi-dam-madhya-pradesh-jabalpur-deaths-2903944-2026-04-30",
+      "headline": "6 drown after cruise boat with 30 onboard sinks in Madhya Pradesh dam; rescue onEmergency response teams rushed to the site and managed to rescue 15 people from the water, while four bodies have been recovered so far."
     },
     {
       "sentiment": "positive",
@@ -265,14 +285,9 @@
       "headline": "Explained: Controversy over Pete Hegseth's wife's Rs 4k White House dressA dress worn by Pete Hegseth's wife, Jennifer Rauchet, at the White House Dinner has sparked an online debate."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-exit-poll-result-2026-live-updates-poll-of-polls-when-where-to-watch-full-coverage-2903754-2026-04-30",
-      "headline": "Live: Today's Chanakya forecasts BJP sweep in Bengal with 48% vote shareWest Bengal Exit Poll Live Update: Uncertainty looms over the outcome of the West Bengal assembly elections 2026 as pollsters could not predict a one-way result, benefiting either the ruling Trinamool Congress or the opposition Bharatiya Janata Party. While the majority of the pollsters provided an edge to the BJP, two of them, People's Pulse and the Janmat Polls, said that the incumbent Trinamool Congress is returning with a thumping majority. In this context, suspense remains over the results. Several pollsters are expected to deliver their projections today. Catch all the live update at indiatoday.in."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/vis-raghavan-citi-hiring-jpmorgan-exit-52-million-weekend-move-2903572-2026-04-30",
-      "headline": "JPMorgan asked Vis Raghavan to go, Citi snapped him up for $52 million in 2 daysVis Raghavan moved from JPMorgan Chase to Citigroup's top investment banking role over a single weekend in February 2024. The rapid switch, later detailed by the Financial Times, sharpened attention on his exit and his rising clout at Citi."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/rain-thunder-dust-storm-may-1-2026-states-forecast-warning-science-news-weather-news-2903955-2026-04-30",
+      "headline": "Rain, thunder and dust storms: Which states get hit hardest on May Day?May Day will bring heavy rain and lightning to east India, a hot dry spell to Delhi and continued pre-monsoon showers across the south. Here is a state-by-state breakdown of what to expect."
     },
     {
       "sentiment": "positive",
@@ -281,23 +296,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bengaluru-hailstorm-venkatesh-prasad-childlike-viral-video-2903666-2026-04-30",
-      "headline": "Watch: Venkatesh Prasad's child-like joy in Bengaluru hailstorm, tastes it tooFormer India cricketer Venkatesh Prasad stopped his car during Bengaluru's sudden hailstorm and shared a playful video online. The clip struck a chord as the rare spell cooled the city and briefly turned parts of it white."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-solar-news-peak-demand-electricity-april-heatwave-solar-energy-thermal-energy-2903439-2026-04-30",
-      "headline": "India pulls off a power miracle. A big thanks to the SunIndia touched an all-time peak power demand without any shortage, and it was solar that stepped up at the most critical hour, supplying nearly 21% of the electricity. This moment underscores a quiet but decisive shift that the sun is no longer just a supplement but a key driver of India's energy resilience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/raining-delhi-ncr-noida-relief-heat-summer-2026-weather-change-wester-distrubance-temperatures-drop-2903727-2026-04-30",
-      "headline": "Rain, hail hits Delhi-NCR: Orange alert issued, weather system to worsenThe dual impact of cooling rains and gusty winds is expected to bring daytime temperatures down noticeably in affected areas, offering a temporary break before conditions potentially stabilise again."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/big-epfo-update-minimum-pension-may-rise-75-times-atm-withdrawals-soon-2903329-2026-04-30",
-      "headline": "Big EPFO update: Minimum pension may rise 7.5 times, ATM withdrawals soonThe government is mulling a sharp increase in the minimum pension under the Employees' Pension Scheme (EPS-95), say sources."
+      "url": "https://www.indiatoday.in/jobs/story/vis-raghavan-citi-hiring-jpmorgan-exit-52-million-weekend-move-2903572-2026-04-30",
+      "headline": "JPMorgan asked Vis Raghavan to go, Citi snapped him up for $52 million in 2 daysVis Raghavan moved from JPMorgan Chase to Citigroup's top investment banking role over a single weekend in February 2024. The rapid switch, later detailed by the Financial Times, sharpened attention on his exit and his rising clout at Citi."
     },
     {
       "sentiment": "positive",
@@ -316,11 +316,16 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/constitutional-cowboy-pawan-kheras-lawyer-fires-at-himanta-sarma-in-defemation-case-filed-by-assam-cms-wife-2903651-2026-04-30",
-      "headline": "No need to humiliate me with arrest, Pawan Khera tells SC at bail hearingThe Supreme Court heard Pawan Khera's anticipatory bail plea in a defamation case, with his lawyer Abhishek Manu Singhvi accusing Assam CM Himanta Biswa Sarma of bias and calling his remarks \"constitutional cowboy.\""
+      "url": "https://www.indiatoday.in/technology/news/story/human-ai-trainers-saw-meta-ai-glass-users-having-sex-now-there-is-scandal-over-their-firing-2903943-2026-04-30",
+      "headline": "Human AI trainers saw Meta AI Glass users having sex, now there is scandal over their firingMeta is facing scrutiny over its smart glasses after reports linked their use to privacy concerns, labour conditions, and job losses. The controversy centres on how data collected through the device was reviewed by outsourced workers in Kenya."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-rcb-ipl-2026-virat-kohli-celebration-fiery-shubman-gill-ahmedabad-video-2903994-2026-04-30",
+      "headline": "Virat Kohli gives Shubman Gill death stare, fiery send-off in Ahmedabad: Watch GT vs RCB, IPL 2026: Virat Kohli brought the intensity with an animated send-off to Shubman Gill, but Gujarat Titans stayed on top after Kagiso Rabada and Jason Holder dented RCB in Ahmedabad."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-rcb-ipl-2026-virat-kohli-angry-jason-holder-catch-rajat-patidar-ahmedabad-2903962-2026-04-30",
@@ -354,7 +359,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-rcb-live-score-ipl-2026-gujarat-titans-royal-challengers-bengaluru-match-today-2903848-2026-04-30",
-      "headline": "GT vs RCB Live: Arshad Khan dismisses Krunal Pandya as RCB keep struggling Gujarat (GT) vs Bengaluru (RCB) Live Score, IPL 2026: RCB (96/6 in 10.5 ovs). Royal Challengers Bengaluru have lost wickets at regular intervals with Krunal Pandya being the latest batter to depart. Gujarat Titans haven't let the RCB batters dictate terms."
+      "headline": "GT vs RCB Live: Shepherd double strike puts pressure on Gujarat in 156 chase Gujarat (GT) vs Bengaluru (RCB) Live Score, IPL 2026: GT 111/5 in 10.3 ovs), chasing 156. Romario Shepherd has taken the wicket of Washington Sundar as Gujarat Titans are losing quick wickets."
     },
     {
       "sentiment": "positive",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-riyan-parag-vape-visuals-womens-group-seeks-probe-bcci-2903722-2026-04-30",
-      "headline": "Fresh trouble for Riyan Parag? RR captain escapes ban, but women's group seeks probe A women's group has sought an inquiry into visuals purportedly showing Riyan Parag with a vape-like device during an IPL match. It says the incident could normalise a banned product among young viewers and wants accountability."
+      "headline": "Fresh trouble for Riyan Parag? RR captain escapes ban, but women's group seeks probeA women's group has sought an inquiry into visuals purportedly showing Riyan Parag with a vape-like device during an IPL match. It says the incident could normalise a banned product among young viewers and wants accountability."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rohit-sharma-miss-mi-vs-srh-injury-update-return-unsure-2903404-2026-04-29",
       "headline": "Rohit Sharma misses 4th straight IPL 2026 match: What's gone wrong hitman?IPL 2026: Rohit Sharma missed his fourth straight IPL 2026 match as Mumbai Indians faced Sunrisers Hyderabad. Hardik Pandya said the opener needs a couple more games, extending uncertainty around MI's batting."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-riyan-parag-vaping-controversy-bcci-explanation-2903298-2026-04-29",
-      "headline": "IPL vaping controversy: BCCI ask Riyan Parag to explain his actionIPL 2026: Riyan Parag and Rajasthan Royals will be asked to explain a vaping incident in the dressing room during their IPL clash against Punjab Kings, following a viral video and public backlash. The controversy has overshadowed RR's thrilling win, with the BCCI reviewing the matter amid growing scrutiny over the franchise's conduct this season."
     }
   ],
   "education": [
