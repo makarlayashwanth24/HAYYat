@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/8th-pay-commission-demands-rs-69000-minimum-pay-pension-changes-2903698-2026-04-30",
+      "headline": "8th Pay Commission: What worker bodies have demanded ahead of salary reviewWorker representatives laid out pay, pension and service demands in the first 8th Pay Commission meeting in Delhi. The staff side said the talks ended positively but pressed for wider consultation and more meetings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/onemi-technology-ipo-is-it-a-good-long-term-bet-or-should-you-wait-2903696-2026-04-30",
+      "headline": "OnEMI Technology IPO: Is it a good long-term bet or should you wait?Founded in 2016, OnEMI operates in the fast-growing digital lending space. It offers personal loans and loans against property with quick approvals and minimal paperwork\u2014something that has clearly clicked with young borrowers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/where-should-a-25-year-old-invest-to-build-wealth-sips-stocks-or-crypto-2903672-2026-04-30",
+      "headline": "Where should a 25-year-old invest to build wealth: SIPs, stocks or crypto?At 25, with time on your side, what's the smartest way to invest, i.e., SIPs (Systematic Investment Plans), stocks or crypto? Let's have a look."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/big-epfo-update-minimum-pension-may-rise-75-times-atm-withdrawals-soon-2903329-2026-04-30",
       "headline": "Big EPFO update: Minimum pension may rise 7.5 times, ATM withdrawals soonThe government is mulling a sharp increase in the minimum pension under the Employees' Pension Scheme (EPS-95), say sources."
     },
@@ -18,10 +33,10 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/sensex-down-nifty-tanks-stock-market-fall-reason-crude-oil-rupee-fii-selling-iran-us-war-hormuz-block-2903586-2026-04-30",
-      "headline": "Sensex down 1,200 points: Why is the stock market falling today?The BSE Sensex was down 1,215.91 points, or 1.54%, at 76,280.45 around 10:58 am, while the Nifty 50 fell 366.70 points, or 1.51%, to 23,811.25."
+      "headline": "Sensex down 400 points: Why is the stock market falling today?The BSE Sensex was down 1,215.91 points, or 1.54%, at 76,280.45 around 10:58 am, while the Nifty 50 fell 366.70 points, or 1.51%, to 23,811.25."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/opening-bell-sensex-opens-700-points-lower-nifty-below-24000-indigo-down-crude-oil-price-surge-2903575-2026-04-30",
       "headline": "Sensex opens 700 points lower, Nifty below 24,000; IndiGo down 2%The &P BSE Sensex was down 947.08 points to 76,549.28, while the NSE Nifty50 lost 317.60 points to 23,860.05 as of 10:01 am."
     },
@@ -84,24 +99,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/health-claim-denied-for-late-filing-heres-what-you-need-to-know-2903165-2026-04-29",
       "headline": "Health claim denied for late filing? Here's what you need to knowMany policyholders have seen their claims rejected just for missing deadlines, even when the expenses were genuine. However, a recent court ruling brings much-needed relief. Here are the details."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-jumps-1000-points-maruti-leads-broad-based-rally-after-q4-2903152-2026-04-29",
-      "headline": "Sensex jumps 1,000 points: What's driving the rally on Dalal Street today?Domestic markets surged on Wednesday, with the Sensex rising over 1,000 points and the Nifty climbing to around 24,318. Gains across auto, banking, IT, energy and consumption stocks pointed to a broad-based recovery in sentiment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/this-new-form-replaces-15g-15h-as-pf-rules-get-simpler-what-it-means-for-you-2903130-2026-04-29",
-      "headline": "This new form replaces 15G, 15H as PF rules get simpler. What it means for youFor years, EPF subscribers have been used to filing Forms 15G and 15H. That process has now changed. A single new form has replaced both, making PF rules simpler, but what does it mean for you?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/labour-law-evasion-india-missing-workers-lpg-delivery-esi-epf-2903066-2026-04-29",
-      "headline": "The case of the missing workers: How labour law evasion persists in plain sightIn the fifth episode in this series on labour laws and Inspector Raj, this article examines how a 1990 inspection and a 2026 exchange highlight gaps in records, compliance and enforcement."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/no-one-uses-their-sattar-minute-on-the-global-stage-better-than-diljit-dosanjh-2903667-2026-04-30",
+      "headline": "No one uses their sattar minute on the global stage better than Diljit Dosanjh Diljit Dosanjh drops history on The Tonight Show Starring Jimmy Fallon while Bollywood sticks to thank-you speeches. This is how you use a global mic right!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/kd-the-devil-review-dhruva-sarja-prem-scale-but-excess-hurts-2903663-2026-04-30",
+      "headline": "KD The Devil review: Dhruva Sarja's film is a brain-rot commercial entertainerRelease Date:Thu Apr 30, 2026 KD The Devil movie review: This Dhruva Sarja-Sanjay Dutt-starrer period action drama is entertaining in bits but is mostly loud, messy and violent."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-ranveer-allahbadia-reunite-the-great-indian-kapil-show-world-laughter-day-special-still-alive-special-india-got-latent-2903669-2026-04-30",
+      "headline": "Still friends? Samay Raina, Ranveer Allahabadia reunite for Kapil Sharma show Comedian Samay Raina and influencer Ranveer Allahbadia are set to have a face-off on The Great Indian Kapil Show that promises to be comic but could get awkward, too. The episode comes after Samay's Still Alive set, where he revisited the India's Got Latent controversy involving Ranveer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/queen-camilla-shares-a-sex-and-the-city-moment-with-sarah-jessica-parker-in-nyc-2903613-2026-04-30",
+      "headline": "Queen Camilla meets Carrie Bradshaw: A royal Sex and the City moment in NYC From Sex and the City drama to a royal literary moment, the New York Public Library had a real-life crossover. Carrie Bradshaw's iconic backdrop just got its most unexpected guest yet\u2014Queen Camilla."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/khatron-ke-khiladi-15-avinash-mishra-avika-gor-rithvik-dhanjani-confirmed-2903662-2026-04-30",
+      "headline": "Khatron Ke Khiladi 15: Avinash Mishra, Avika Gor and Rithvik Dhanjani confirmed Avinash Mishra, Avika Gor and Rithvik Dhanjani have been confirmed for Khatron Ke Khiladi 15. The new season, returning after a year-long gap, will begin filming next month."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/rishi-kapoor-death-anniversary-neetu-riddhima-and-others-share-heartfelt-tributes-2903641-2026-04-30",
@@ -171,38 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-sfx-supervisor-says-no-cgi-used-for-climax-blast-read-how-they-did-it-2903481-2026-04-29",
       "headline": "Dhurandhar 2 SFX supervisor says no CGI used for climax blast. Read how they did it SFX supervisor Vishal Tyagi revealed that the climax explosion sequence in Dhurandhar: The Revenge was filmed without the use of CGI, unlike most new films. Read on to know how the challenging sequence was executed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/ankita-lokhande-shares-old-clip-featuring-sushant-singh-rajput-and-pet-dog-scotch-2903446-2026-04-29",
-      "headline": "Ankita Lokhande shares old clip featuring Sushant Singh Rajput and pet dog Scotch Ankita Lokhande shared a throwback video from the sets of Pavitra Rishta, featuring late actor Sushant Singh Rajput along with her pet dog, Scotch."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/lukkhe-trailer-raashii-khanna-palak-tiwari-lead-musical-action-drama-set-in-punjab-2903429-2026-04-29",
-      "headline": "Lukkhe trailer: Raashii Khanna, King, Palak Tiwari lead musical action drama The trailer of Lukkhe has been released, offering a look at the upcoming musical action drama set in Punjab. Starring Raashii Khanna, King, Palak Tiwari and Lakshvir Singh Saran, the series will stream on Prime Video from May 8."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shefali-shah-dance-day-video-on-sapne-mein-milti-hai-is-pure-90s-nostalgia-2903394-2026-04-29",
-      "headline": "Shefali Shah's Dance Day video on Sapne Mein Milti Hai is pure 90s nostalgia Shefali Shah shared a candid video of herself dancing to the song Sapne Mein Milti Hai on International Dance Day. The playful post revived memories of the 1998 film Satya and the iconic song."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/lara-dutta-recalls-deepika-padukone-filming-housefull-with-malaria-she-was-totally-drained-2903388-2026-04-29",
-      "headline": "Lara Dutta recalls Deepika filming Housefull with malaria: She was totally drained Lara Dutta shared that Deepika Padukone was diagnosed with malaria during the shoot of Housefull but continued filming despite battling high fever and exhaustion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-birthday-celebration-with-fans-maa-inti-bangaaram-video-2903302-2026-04-29",
-      "headline": "Samantha's birthday with fans goes viral: Themed cake, special photo frame, gifts Samantha celebrated her 39th birthday with fans at a special meet-and-greet. A viral video from the celebration gave a glimpse of the fun, warmth, and heartfelt moments she shared with her admirers."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/constitutional-cowboy-pawan-kheras-lawyer-fires-at-himanta-sarma-in-defemation-case-filed-by-assam-cms-wife-2903651-2026-04-30",
-      "headline": "Constitutional cowboy: Pawan Khera fires at Himanta Biswa Sarma in defamation rowThe Supreme Court heard Pawan Khera's anticipatory bail plea in a defamation case, with his lawyer Abhishek Manu Singhvi accusing Assam CM Himanta Biswa Sarma of bias and calling his remarks \"constitutional cowboy.\""
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/delhi-high-court-freezes-sunjay-kapurs-bank-accounts-in-big-relief-for-karisma-kapoors-children-2903715-2026-04-30",
+      "headline": "Court freezes Sunjay Kapur's accounts in big relief for Karisma Kapoor's childrenThe Delhi High Court, in its order, said that Sunjay Kapur's bank accounts and cryptocurrency holdings will remain non-operational for the time being."
     },
     {
       "sentiment": "positive",
@@ -211,13 +211,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/aadhaar-fraud-ahmedabad-police-arrest-four-ai-deepfake-video-biometric-bypass-loan-2903506-2026-04-29",
-      "headline": "No OTP, no problem: Ahmedabad gang uses AI deepfakes to bypass Aadhaar checksThe case came to light after an Ahmedabad businessman noticed he had stopped receiving OTPs from his bank for two days. He approached the police after noticing something was amiss."
+      "url": "https://www.indiatoday.in/india/law-news/story/constitutional-cowboy-pawan-kheras-lawyer-fires-at-himanta-sarma-in-defemation-case-filed-by-assam-cms-wife-2903651-2026-04-30",
+      "headline": "No need to humiliate me with arrest, Pawan Khera tells SC at bail hearingThe Supreme Court heard Pawan Khera's anticipatory bail plea in a defamation case, with his lawyer Abhishek Manu Singhvi accusing Assam CM Himanta Biswa Sarma of bias and calling his remarks \"constitutional cowboy.\""
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-press-meet-american-journalist-deceived-asim-munir-2903630-2026-04-30",
-      "headline": "US journalist says 'deceived, used' at controversial Pakistan press meetAn informal media gathering in Pakistan involving foreign reporters, who were stationed for the US-Iran talks, turned into a full-blown controversy. What was supposed to be a meet-and-greet event turned into a political spectacle after two Pakistani journalists used the platform to criticise the government and the military."
+      "url": "https://www.indiatoday.in/technology/features/story/whatsapp-reading-your-messages-us-govt-agent-found-some-evidence-then-probe-was-shut-down-2903695-2026-04-30",
+      "headline": "WhatsApp reading messages? US agent found evidence, then probe was shut downThis is a question that refuses to die: is WhatsApp reading private messages despite its end-to-end encryption? To find an answer, a US government team started an investigation. That investigation, however, was killed suddenly when one agent reportedly found something."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/brics-mena-meeting-april-24-new-delhi-joint-statement-faliure-us-israel-iran-war-uae-india-soften-criticism-of-israel-gaza-lebanon-2903445-2026-04-30",
+      "headline": "Delhi meet exposes deep cracks in BRICS wall, and a slippery slope for IndiaThere is a wide rift in the BRICS, of which India is a founding member, due to the war in the Middle East. There was no joint statement after the recent meeting in New Delhi that was described as \"very tense\". India as the BRICS president will have to do a tight rope walk ahead of the crucial summit in September."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/raining-delhi-ncr-noida-relief-heat-summer-2026-weather-change-wester-distrubance-temperatures-drop-2903727-2026-04-30",
+      "headline": "Rain, hail hits Delhi-NCR: New weather system delivers relief from heatThe dual impact of cooling rains and gusty winds is expected to bring daytime temperatures down noticeably in affected areas, offering a temporary break before conditions potentially stabilise again."
     },
     {
       "sentiment": "positive",
@@ -225,24 +235,14 @@
       "headline": "Poll of polls: DMK in TN, Congress return in Kerala, NDA in Assam, Bengal suspenseA poll of exit polls have predicted a big win for the BJP in Assam and gave the party an edge ahead of the ruling TMC in West Bengal. The polls also suggested that the DMK is likely to return to power in Tamil Nadu, while the Congress-led UDF may make a comeback in Kerala after 10 years."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-new-weapon-us-iran-talks-stall-trump-rejects-tehran-proposal-2903571-2026-04-30",
-      "headline": "Hope they don't have a heart attack: Iran teases US with new weapon as talks stallAs deadlocked talks between the United States and Iran intensify tensions, Tehran has warned it will soon unveil a weapon its enemies may 'get a heart attack' over."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-press-meet-american-journalist-deceived-asim-munir-2903630-2026-04-30",
+      "headline": "Deceived, used: US journalist as Pak event turns into govt-bashing showAn informal media gathering in Pakistan involving foreign reporters, who were stationed for the US-Iran talks, turned into a full-blown controversy. What was supposed to be a meet-and-greet event turned into a political spectacle after two Pakistani journalists used the platform to criticise the government and the military."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/vis-raghavan-citi-hiring-jpmorgan-exit-52-million-weekend-move-2903572-2026-04-30",
-      "headline": "JPMorgan asked Vis Raghavan to go, Citi snapped him up for $52 million in 2 daysVis Raghavan moved from JPMorgan Chase to Citigroup's top investment banking role over a single weekend in February 2024. The rapid switch, later detailed by the Financial Times, sharpened attention on his exit and his rising clout at Citi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-election-re-poll-eci-to-decide-falta-magrahat-diamond-harbour-budge-budge-trinamool-bjp-2903626-2026-04-30",
-      "headline": "EC gets 77 EVM tampering complaints from Bengal, decision on re-polling todayThe Election Commission will decide on Thursday whether to order re-polling in parts of West Bengal after 77 complaints of alleged EVM tampering."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/katrina-kaif-gives-a-dad-twist-to-vicky-kaushal-promoting-her-makeup-brand-2903637-2026-04-30",
-      "headline": "Katrina Kaif gives a 'dad' twist to Vicky Kaushal promoting her makeup brandVicky Kaushal playfully promoted a beauty product from wife Katrina Kaif's makeup brand on Instagram, prompting a witty reply from her. Their exchange blended humour, new-parent life and the easy warmth fans rarely see online."
+      "url": "https://www.indiatoday.in/sports/cricket/story/bengaluru-hailstorm-venkatesh-prasad-childlike-viral-video-2903666-2026-04-30",
+      "headline": "Watch: Venkatesh Prasad gets out of car to enjoy Bengaluru hailstorm, tastes hailstoneFormer India cricketer Venkatesh Prasad stopped his car during Bengaluru's sudden hailstorm and shared a playful video online. The clip struck a chord as the rare spell cooled the city and briefly turned parts of it white."
     },
     {
       "sentiment": "positive",
@@ -251,23 +251,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-result-2026-date-results-expected-in-3rd-week-of-may-osm-on-track-2903600-2026-04-30",
-      "headline": "CBSE Class 12 results likely by May 23, on-screen marking on track: OfficialCBSE said Class 12 results are likely in the third week of May. It also expressed confidence with on-screen marking. The board said evaluation is running on schedule, offering clarity to students awaiting their scores."
+      "url": "https://www.indiatoday.in/world/story/iran-new-weapon-us-iran-talks-stall-trump-rejects-tehran-proposal-2903571-2026-04-30",
+      "headline": "Hope they don't have a heart attack: Iran teases US with new weapon as talks stallAs deadlocked talks between the United States and Iran intensify tensions, Tehran has warned it will soon unveil a weapon its enemies may 'get a heart attack' over."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/i-pac-co-founder-vinesh-chandel-bail-delhi-patiala-house-court-ed-enforcement-money-laundering-trinamool-2903604-2026-04-30",
-      "headline": "I-PAC director gets bail day after Bengal polls as ED does not oppose pleaA day after the conclusion of the West Bengal polls, the director of Trinamool's political strategist consultancy was granted bail after the ED said it would not oppose his plea."
+      "url": "https://www.indiatoday.in/india/story/aadhaar-fraud-ahmedabad-police-arrest-four-ai-deepfake-video-biometric-bypass-loan-2903506-2026-04-29",
+      "headline": "No OTP, no problem: Ahmedabad gang uses AI deepfakes to bypass Aadhaar checksThe case came to light after an Ahmedabad businessman noticed he had stopped receiving OTPs from his bank for two days. He approached the police after noticing something was amiss."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/elon-musk-to-lawyer-will-you-stop-beating-your-wife-as-openai-charity-trial-enters-day-3-2903578-2026-04-30",
-      "headline": "Elon Musk to lawyer, 'Will you stop beating your wife' as OpenAI trial enters Day 3Day 2 of Elon Musk's testimony in the OpenAI lawsuit saw tense exchanges, funding disputes, and questions over the company's shift to a for-profit model."
+      "url": "https://www.indiatoday.in/jobs/story/vis-raghavan-citi-hiring-jpmorgan-exit-52-million-weekend-move-2903572-2026-04-30",
+      "headline": "JPMorgan asked Vis Raghavan to go, Citi snapped him up for $52 million in 2 daysVis Raghavan moved from JPMorgan Chase to Citigroup's top investment banking role over a single weekend in February 2024. The rapid switch, later detailed by the Financial Times, sharpened attention on his exit and his rising clout at Citi."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-down-nifty-tanks-stock-market-fall-reason-crude-oil-rupee-fii-selling-iran-us-war-hormuz-block-2903586-2026-04-30",
-      "headline": "Sensex down 1,200 points: Why is the stock market falling today?The BSE Sensex was down 1,215.91 points, or 1.54%, at 76,280.45 around 10:58 am, while the Nifty 50 fell 366.70 points, or 1.51%, to 23,811.25."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/aiadmk-explores-talks-with-vijay-tvk-after-tamil-nadu-assembly-elections-exit-poll-2903658-2026-04-30",
+      "headline": "AIADMK eyes talks with Vijay's TVK after exit poll hints strong debut in Tamil NaduAIADMK is exploring alliance talks with Vijay's Tamilaga Vettri Kazhagam following exit polls projecting TVK's strong debut in Tamil Nadu elections. Vijay also leads as the most preferred Chief Minister candidate, with notable support from young and diverse voter groups."
     },
     {
       "sentiment": "positive",
@@ -276,33 +276,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/zohran-mamdani-kohinoor-diamond-british-king-charles-should-return-to-india-us-visit-2903534-2026-04-30",
-      "headline": "Return the Kohinoor: Mamdani says he'd urge King Charles to hand diamond to IndiaNew York City Mayor Zohran Mamdani said he would encourage King Charles to return the Kohinoor Diamond during the monarch's US visit."
+      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-election-re-poll-eci-to-decide-falta-magrahat-diamond-harbour-budge-budge-trinamool-bjp-2903626-2026-04-30",
+      "headline": "EC gets 77 EVM tampering complaints from Bengal, decision on re-polling todayThe Election Commission will decide on Thursday whether to order re-polling in parts of West Bengal after 77 complaints of alleged EVM tampering."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/what-it-takes-for-this-kerala-company-to-weave-the-met-gala-carpet-year-after-year-2903393-2026-04-30",
-      "headline": "Kerala company returns to craft the Met Gala carpet againFrom Kerala to the Met steps, this team of weavers is crafting the gala's iconic carpet for the fourth time. The founder, breaks down what's different this year."
+      "url": "https://www.indiatoday.in/movies/reviews/story/kd-the-devil-review-dhruva-sarja-prem-scale-but-excess-hurts-2903663-2026-04-30",
+      "headline": "KD The Devil review: Dhruva Sarja's film is a brain-rot commercial entertainerRelease Date:Thu Apr 30, 2026KD The Devil movie review: This Dhruva Sarja-Sanjay Dutt-starrer period action drama is entertaining in bits but is mostly loud, messy and violent."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-election-exit-polls-mamata-banerjee-bengali-identity-bjp-surge-2903517-2026-04-29",
-      "headline": "Exit polls favour BJP, but Mamata's appeal and Bengali identity may tighten raceEven as several exit polls have given the BJP an edge in West Bengal, ground sentiment suggests that Chief Minister Mamata Banerjee's personal appeal and Bengali identity factor could keep the contest much tighter than projections indicate."
+      "url": "https://www.indiatoday.in/india/law-news/story/i-pac-co-founder-vinesh-chandel-bail-delhi-patiala-house-court-ed-enforcement-money-laundering-trinamool-2903604-2026-04-30",
+      "headline": "I-PAC director gets bail day after Bengal polls as ED does not oppose pleaA day after the conclusion of the West Bengal polls, the director of Trinamool's political strategist consultancy was granted bail after the ED said it would not oppose his plea."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/african-student-3-idiots-chatur-style-hindi-speech-steals-the-show-at-aligarh-muslim-university-event-2903605-2026-04-30",
-      "headline": "African student's 3 Idiots' Chatur-style Hindi speech steals the show at AMU eventThe African student's performance, inspired by a popular scene from 3 Idiots - in which Omi Vaidya's character Chatur Ramalingam delivers a memorably distorted Hindi speech at a college event - saw Ayyubi adopt a similar tone and style as he imagined himself as a student union secretary."
+      "url": "https://www.indiatoday.in/sports/cricket/story/riyan-parag-vaping-incident-ipl-fine-rajasthan-royals-punjab-kings-match-2903670-2026-04-30",
+      "headline": "Riyan Parag escapes ban for vaping during IPL match, fined by BCCIIPL 2026: The Board of Control for Cricket in India has fined Riyan Parag 25% of his match fee for vaping during an IPL match in Mullanpur, with the Rajasthan Royals captain escaping a stricter punishment."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/speeding-car-falls-into-gorge-in-una-2-killed-as-vehicle-catches-fire-2903533-2026-04-30",
-      "headline": "Video: Car flies off hilly road in Himachal after tyre burst, falls into gorgeA speeding car plunged into a deep gorge on the Una highway in Himachal, killing two people. CCTV footage and the preliminary police enquiry suggest a tyre burst may have triggered the fire and crash."
+      "url": "https://www.indiatoday.in/technology/news/story/elon-musk-to-lawyer-will-you-stop-beating-your-wife-as-openai-charity-trial-enters-day-3-2903578-2026-04-30",
+      "headline": "Elon Musk to lawyer, 'Will you stop beating your wife' as OpenAI trial enters Day 3Day 2 of Elon Musk's testimony in the OpenAI lawsuit saw tense exchanges, funding disputes, and questions over the company's shift to a for-profit model."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/michael-jackson-biopic-beats-poor-reviews-with-record-box-office-opening-2903172-2026-04-30",
-      "headline": "5 reasons why Michael is turning into a global crowd-pullerAntoine Fuqua's Michael opened huge despite poor reviews and after production troubles. Nostalgia, hit songs and Michael Jackson's loyal fan base has turned the film into an early box-office force."
+      "url": "https://www.indiatoday.in/world/story/bali-landfill-ban-organic-waste-curbs-leave-trash-piling-up-2903699-2026-04-30",
+      "headline": "Bali streets piled with trash after island's largest landfill declared off-limitsBali is facing a mounting waste crisis after authorities restricted organic waste at its largest landfill without ready alternatives, leaving garbage piling up in streets, attracting pests and forcing residents to burn it."
     },
     {
       "sentiment": "positive",
@@ -310,17 +310,42 @@
       "headline": "1 litre of ethanol needs 10,000 litres water: Hidden cost of India's fuel pushIndia's total ethanol production capacity stands at 1,822 crore litres, with a disproportionate share concentrated in already water-stressed states like Delhi and Maharashtra."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-rain-wall-collapse-near-bowring-hospital-kills-seven-injures-seven-streets-flooded-2903549-2026-04-30",
-      "headline": "Heavy rain pounds Bengaluru; 8 dead in 24 hours, streets turn to riversHeavy rains in Bengaluru triggered a hospital wall collapse, killing seven people and injuring several others. Large parts of the city were flooded, with streets submerged in waist-deep water, disrupting normal life."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/bengaluru-rain-record-april-30-111mm-hailstorm-flooding-pre-monsoon-thunderstorm-imd-2903591-2026-04-30",
+      "headline": "Bengaluru rain: What fuelled the intense hailstorm? Will it happen again?Such pre-monsoon showers are normal for April but serve as a reminder of how quickly weather can change in the city."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nepal-airlines-jammu-kashmir-pakistan-map-controversy-apology-2903583-2026-04-30",
-      "headline": "Nepal Airlines shows J&K as part of Pakistan in map, apologises after backlashNepal Airlines apologised after a network map in a recent post showed all of Jammu and Kashmir as part of Pakistan. The image triggered global backlash."
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/what-it-takes-for-this-kerala-company-to-weave-the-met-gala-carpet-year-after-year-2903393-2026-04-30",
+      "headline": "Kerala company returns to craft the Met Gala carpet againFrom Kerala to the Met steps, this team of weavers is crafting the gala's iconic carpet for the fourth time. The founder, breaks down what's different this year."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-five-ucl-gesture-al-nassr-vs-al-ahli-viral-2903730-2026-04-30",
+      "headline": "Cristiano Ronaldo five UCL gesture goes viral after Al Ahli fans' title jibe Cristiano Ronaldo answered Al Ahli fans by holding up five fingers after Al Nassr's 2-0 win. The exchange went viral and sharpened the bad blood around a match already clouded by refereeing complaints and on-pitch tension."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-hardik-pandya-mumbai-indians-simon-doull-says-mi-should-release-captain-2903725-2026-04-30",
+      "headline": "Release Hardik Pandya: Mumbai Indians told to reset after 3 mellow years in IPL Simon Doull has urged Mumbai Indians to consider releasing Hardik Pandya if they don't think he will be able to lead the team into the next cycle. Mumbai Indians have had a tough time in IPL 2026. They are rooted to the 9th spot with just two wins in eight games."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-riyan-parag-vape-visuals-womens-group-seeks-probe-bcci-2903722-2026-04-30",
+      "headline": "Fresh trouble for Riyan Parag? RR captain escapes ban, but women's group seeks probe A women's group has sought an inquiry into visuals purportedly showing Riyan Parag with a vape-like device during an IPL match. It says the incident could normalise a banned product among young viewers and wants accountability."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/riyan-parag-vaping-incident-ipl-fine-rajasthan-royals-punjab-kings-match-2903670-2026-04-30",
+      "headline": "Riyan Parag escapes ban for vaping during IPL match, fined by BCCI IPL 2026: The Board of Control for Cricket in India has fined Riyan Parag 25% of his match fee for vaping during an IPL match in Mullanpur, with the Rajasthan Royals captain escaping a stricter punishment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bengaluru-hailstorm-venkatesh-prasad-childlike-viral-video-2903666-2026-04-30",
+      "headline": "Watch: Venkatesh Prasad gets out of car to enjoy Bengaluru hailstorm, tastes hailstone Former India cricketer Venkatesh Prasad stopped his car during Bengaluru's sudden hailstorm and shared a playful video online. The clip struck a chord as the rare spell cooled the city and briefly turned parts of it white."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-srh-muttiah-muralitharan-bowlers-200-plus-scores-cricket-business-2903628-2026-04-30",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vinod-kambli-wankhede-return-health-rumours-mi-vs-srh-2903554-2026-04-30",
-      "headline": "Video: Vinod Kambli's Wankhede appearance during IPL match warms hearts IPL 2026: Vinod Kambli made a rare appearance at Wankhede Stadium during Mumbai Indians' match against Sunrisers Hyderabad on Wednesday, acknowledging fans who wished him well. The outing eased fresh health concerns and highlighted the support around the former India batter."
+      "headline": "Video: Vinod Kambli's Wankhede appearance during IPL match warms heartsIPL 2026: Vinod Kambli made a rare appearance at Wankhede Stadium during Mumbai Indians' match against Sunrisers Hyderabad on Wednesday, acknowledging fans who wished him well. The outing eased fresh health concerns and highlighted the support around the former India batter."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-srh-play-of-the-day-death-overs-bowling-wankhede-stadium-2903548-2026-04-30",
-      "headline": "IPL Play of the Day: SRH prove T20 is a bowlers' game too with Wankhede masterclass MI vs SRH, IPL 2026: Sunrisers turned the game at the death, restricting Mumbai Indians to 243 when the home side looked set to cross 260. Ehsan Malinga shone in the final overs, while Travis Head and Abhishek Sharma later laid the foundation for a record chase at Wankhede Stadium on Wednesday."
+      "headline": "IPL Play of the Day: SRH prove T20 is a bowlers' game too with Wankhede masterclassMI vs SRH, IPL 2026: Sunrisers turned the game at the death, restricting Mumbai Indians to 243 when the home side looked set to cross 260. Ehsan Malinga shone in the final overs, while Travis Head and Abhishek Sharma later laid the foundation for a record chase at Wankhede Stadium on Wednesday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-srh-hardik-pandya-fans-rival-chants-srh-loss-wankhede-2903522-2026-04-30",
-      "headline": "After teammates, Hardik Pandya snaps at MI fans for supporting opponents IPL 2026: Hardik Pandya has now turned his focus from teammates to the stands, calling out Mumbai Indians fans for backing opposition teams during this season. The MI captain admitted it \"hurts\" hearing rival chants at Wankhede after another disappointing home defeat."
+      "headline": "After teammates, Hardik Pandya snaps at MI fans for supporting opponentsIPL 2026: Hardik Pandya has now turned his focus from teammates to the stands, calling out Mumbai Indians fans for backing opposition teams during this season. The MI captain admitted it \"hurts\" hearing rival chants at Wankhede after another disappointing home defeat."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-srh-match-report-wankhede-heinrich-klaasen-abhishek-travis-2903520-2026-04-29",
-      "headline": "No respite for MI as 243 not enough against rampant SRH at Wankhede IPL 2026: SunRisers Hyderabad extended their winning run in the Indian Premier League by recording the 4th highest chase in the history of the tournament. Chasing 244, Heinrich Klaasen anchored the SRH innings and took the team over the line in just 18.4 overs on Wednesday."
+      "headline": "No respite for MI as 243 not enough against rampant SRH at WankhedeIPL 2026: SunRisers Hyderabad extended their winning run in the Indian Premier League by recording the 4th highest chase in the history of the tournament. Chasing 244, Heinrich Klaasen anchored the SRH innings and took the team over the line in just 18.4 overs on Wednesday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-srh-suryakumar-yadav-poor-form-concern-fans-fuming-2903486-2026-04-29",
-      "headline": "Is this the end for Suryakumar Yadav? Fans fume over MI star's IPL 2026 slump IPL 2026: Suryakumar Yadav fell for 5 off 5 balls against Sunrisers Hyderabad at Wankhede. His lean run this season has raised concerns over Mumbai Indians' middle order and triggered mixed fan reaction."
+      "headline": "Is this the end for Suryakumar Yadav? Fans fume over MI star's IPL 2026 slumpIPL 2026: Suryakumar Yadav fell for 5 off 5 balls against Sunrisers Hyderabad at Wankhede. His lean run this season has raised concerns over Mumbai Indians' middle order and triggered mixed fan reaction."
     },
     {
       "sentiment": "positive",
@@ -445,31 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-pbks-vs-rr-shreyas-iyer-james-hopes-bowling-concerns-2903060-2026-04-29",
       "headline": "Punjab Kings' bowling woes? Shreyas, coach split on pace attack concernsIPL 2026: Punjab Kings' unbeaten run ended despite posting 222, exposing concerns about their struggling bowling attack. While Shreyas Iyer blamed poor execution, the fast-bowling coach argued conditions were largely responsible and urged patience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/riyan-parag-vaping-video-bcci-action-rajasthan-royals-dressing-room-row-2903048-2026-04-29",
-      "headline": "BCCI urged to act after video of Riyan Parag vaping during IPL match sparks backlashIPL 2026, PBKS vs RR: A viral video appears to show Riyan Parag vaping in the Rajasthan Royals dressing room after the Punjab Kings match, triggering calls for BCCI action and renewed scrutiny over team discipline."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/psl-2026-babar-azam-pakistan-super-league-century-bold-claim-peshawar-zalmi-2903031-2026-04-29",
-      "headline": "Old Babar Azam back? Pakistan star makes bold claim after record PSL centuryBabar Azam hit 103 off 59 balls as Peshawar Zalmi beat Islamabad United by 70 runs in the Qualifier on Tuesday to reach the PSL 2026 final. Babar made a bold claim after winning the Player of the Match award for his second hundred of the season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-srh-preview-team-news-playing-xi-predcition-wankhede-stadium-2903020-2026-04-29",
-      "headline": "Desperate Mumbai hope to break shackles vs resurgent SRH at WankhedeIPL 2026, MI vs SRH: A struggling Mumbai Indians host third-placed Sunrisers Hyderabad on Wednesday, April 29. Mumbai are sweating on Rohit Sharma's fitness as they hope to return to winning ways in the Indian Premier League."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-pbks-vs-rr-play-of-the-day-donnovan-ferreira-2903006-2026-04-29",
-      "headline": "Play of the Day: How the Don arrived and fixed Rajasthan's biggest crisisIPL 2016: Donovan Ferreira stepped up when Rajasthan Royals needed it most against Punjab Kings. The middle order finally delivered, helping them chase 223 and hand Shreyas Iyer's men their first defeat of the season on Tuesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-pbks-vs-rr-vaibhav-sooryavanshi-age-yashasvi-jaiswal-question-2902995-2026-04-29",
-      "headline": "I am not old: Yashasvi Jaiswal's hilarious response to Vaibhav Sooryavanshi questionIPL 2026, PBKS vs RR: Yashasvi Jaiswal laughed off being called the senior partner after Rajasthan Royals' successful chase in Punjab on Tuesdady. He praised 15-year-old Vaibhav Sooryavanshi, saying he enjoys batting with the record-breaking teenager."
     }
   ],
   "education": [
