@@ -333,6 +333,16 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-dc-vs-kkr-varun-chakravarthy-form-t20-world-cup-fatigue-bravo-2908391-2026-05-08",
+      "headline": "Is Varun Chakravarthy's IPL blip a case of T20 World Cup fatigue? KKR bowling coach Dwayne Bravo feels Varun Chakravarthy may still be feeling the effects of India's hectic T20 World Cup-winning campaign. Bravo said the mystery spinner probably needed a proper mental and physical break before IPL 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-prince-yadav-virat-kohli-advice-dismiss-duck-lsg-vs-rcb-2908433-2026-05-08",
+      "headline": "How Prince Yadav used Virat Kohli's advice against him to stun RCB legend IPL 2026, LSG vs RCB: Prince Yadav revealed he used advice from Virat Kohli himself to dismiss the batting star for a two-ball duck in Lucknow Super Giants' 9-run (DLS) win over the Royal Challengers Bengaluru at the Ekana Stadium."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-lsg-vs-rcb-match-report-mitchell-marsh-century-prince-yadav-spell-2908428-2026-05-08",
       "headline": "Mitchell Marsh and Prince Yadav finally wake Ekana up as LSG end home nightmare IPL 2026: Mitchell Marsh's hundred and Prince Yadav's timely spell carried Lucknow Super Giants to a nine-run DLS win over Royal Challengers Bengaluru at Ekana Stadium. The result ended LSG's long home slide and kept their playoff hopes alive."
     },
@@ -379,12 +389,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-baby-daughter-birth-devisha-shetty-mi-vs-rcb-ipl-2026-2908173-2026-05-07",
-      "headline": "Suryakumar Yadav and wife Devisha Shetty welcome baby girl IPL 2026: Suryakumar Yadav and Devisha Shetty have welcomed a baby girl during the IPL season. The news has drawn wishes from across cricket and left Mumbai Indians awaiting clarity on his next-game availability."
+      "headline": "Suryakumar Yadav and wife Devisha Shetty welcome baby girlIPL 2026: Suryakumar Yadav and Devisha Shetty have welcomed a baby girl during the IPL season. The news has drawn wishes from across cricket and left Mumbai Indians awaiting clarity on his next-game availability."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-vs-pakistan-test-series-2026-squads-schedule-live-streaming-2908303-2026-05-07",
-      "headline": "Bangladesh vs Pakistan Test series: Squads, schedule and all you need to know BAN vs PAK, 1st Test: Najmul Hossain Shanto's Bangladesh and Shan Masood's Pakistan are all set to lock horns in a two-match Test series, starting Friday, May 8 at the Sher-e-Bangla National Stadium in Mirpur."
+      "headline": "Bangladesh vs Pakistan Test series: Squads, schedule and all you need to knowBAN vs PAK, 1st Test: Najmul Hossain Shanto's Bangladesh and Shan Masood's Pakistan are all set to lock horns in a two-match Test series, starting Friday, May 8 at the Sher-e-Bangla National Stadium in Mirpur."
     },
     {
       "sentiment": "positive",
@@ -475,16 +485,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/srh-vs-pbks-how-hyderabad-planned-priyansh-arya-dismissal-2907956-2026-05-07",
       "headline": "SRH vs PBKS: How did Hyderabad plot to stop Punjab's dangerman Priyansh Arya?SRH vs PBKS: Pat Cummins dismissed Arya with a well-directed short ball as SRH assistant coach James Franklin revealed Hyderabad had specifically planned around the PBKS opener's preferred scoring areas."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/punjab-kings-fielding-collapse-shreyas-iyer-ipl-2026-playoff-race-2907922-2026-05-07",
-      "headline": "Punjab Kings had a fairytale start. Reality is now catching upIPL 2026, SRH vs PBKS: The Punjab Kings juggernaut has been halted in the Indian Premier League's 2026 season. 3 games. 3 losses right before playoffs stage. What's gone wrong with Shreyas Iyer's side?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/david-warner-drink-driving-charge-sydney-court-case-bbl-australia-2907913-2026-05-07",
-      "headline": "Warner charged with drunk-driving, admits he made reckless, foolish decisionAustralian cricket great David Warner is facing a drink-driving charge after allegedly recording a blood alcohol reading more than double the legal limit in Sydney."
     }
   ],
   "education": [
