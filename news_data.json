@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/off-the-books-labour-contract-workers-two-inspections-exposed-factory-gaps-2909083-2026-05-09",
+      "headline": "Two inspections, one pattern: Labour off the booksIn the sixth part of this series on labour laws and Inspector Raj, multiple factory inspections conducted in 1988 expose recurring patterns of undocumented labour, hidden wage records and statutory evasion."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/petrol-diesel-prices-to-be-increased-before-may-15-sources-2908923-2026-05-08",
       "headline": "Petrol and diesel prices likely to be hiked before May 15Petrol and diesel prices in India are likely to be hiked before May 15 as state-run oil marketing companies face rising financial stress amid a sharp surge in global crude oil prices, sources told India Today TV."
@@ -94,14 +99,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/da-hike-why-did-bank-employees-get-only-070-while-govt-staff-received-2-2907642-2026-05-07",
       "headline": "DA hike explained: Why bank employees just got 0.70% while govt staff received 2%?A small DA hike for bank staff and a bigger one for government employees, has raised eyebrows. But is the difference unfair, or is there more to the calculation behind the scenes? Let us know here."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/paytm-share-price-jumps-6-after-q4-profit-first-annual-profit-despite-regulatory-concerns-2907908-2026-05-07",
-      "headline": "Explained: Why Paytm share price surged over 6% todayPaytm shares rose over 6% after One 97 Communications reported a Q4 profit and its first annual profit. The results signalled improving payments growth and margins even as regulatory concerns remained in focus."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-devil-wears-prada-part-3-director-david-frankel-reacts-meryl-streep-anne-hathaway-2909116-2026-05-09",
+      "headline": "Will The Devil Wears Prada get part 3? Director David Frankel reacts to buzz Director David Frankel said he would be open to returning for a third The Devil Wears Prada film. The cast, including Meryl Streep and Anne Hathaway, earlier shared what would be needed for part three to happen."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/karan-kundrra-tejasswi-prakash-fight-it-out-in-flashy-outfits-in-desi-bling-promo-2909079-2026-05-09",
+      "headline": "This is not us: Karan-Tejasswi fight it out in flashy outfits in Desi Bling promo The new promo of Desi Bling shows a tense moment between actors Karan Kundrra and Tejasswi Prakash after she tells him he gets influenced by people around him. The clip ends with emotional scenes, tears and a conversation about their relationship."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ameesha-patel-questions-actors-buying-superstar-status-stop-pr-machinery-2909056-2026-05-09",
+      "headline": "Stop PR games: Ameesha Patel questions actors 'buying' superstar status Actor Ameesha Patel slammed Bollywood's PR games and said actors should call themselves a superstar only after creating history and havoc at the box office. She also said her PR machinery is weak, unlike others, while talking about her blockbuster films."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-genelia-dsouza-calls-thalapathy-vijays-election-victory-a-win-for-tamil-nadu-2909039-2026-05-09",
@@ -181,28 +196,53 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/remarkably-bright-creatures-review-sally-field-shines-as-marcellus-is-sidelined-2908727-2026-05-08",
       "headline": "Remarkably Bright Creatures review: Warm, wistful and quietly movingRelease Date:Fri May 08, 2026 Netflix's Remarkably Bright Creatures adapts Shelby Van Pelt's novel into a gentler family drama led by Sally Field. The film keeps the grief and warmth intact but pushes its octopus protagonist to the margins."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/29-review-rathna-kumar-love-ambition-identity-crisis-2908703-2026-05-08",
-      "headline": "29 review: Rathna Kumar's film has novel idea that loses its way before finding itRelease Date:Fri May 08, 2026 29 \u2013 The Film movie review: Director Rathna Kumar's 29, starring Vidhu and Preethi Asrani, is a romantic drama. The film is about a man who'll soon turn 30, and his tryst with love while battling an identity crisis. While the film's intentions are right, it takes unwanted detours before getting on the right path."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/mortal-kombat-ii-review-karl-urbans-arcade-bloodbath-is-dumb-fun-done-right-2908700-2026-05-08",
-      "headline": "Mortal Kombat II review: Karl Urban's arcade bloodbath is dumb fun done rightRelease Date:Fri May 08, 2026 Mortal Kombat II The film brings Earthrealm into the long-delayed tournament against Shao Kahn's forces. Leaning fully into camp and carnage, Karl Urban's arcade bloodbath is dumb fun done right. Here is our review."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/citadel-2-review-priyanka-chopra-jonas-show-is-smarter-slicker-slightly-less-exhausting-2908713-2026-05-08",
-      "headline": "Citadel 2 review: Priyanka's show is smarter, slicker, slightly less exhaustingRelease Date:Wed May 06, 2026 Citadel Season 2 returns with cleaner momentum, sharper self-awareness and a more controlled spy spectacle. It remains excessive and emotionally thin, but the series is finally entertaining on its own terms."
     }
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/suvendu-adhikari-takes-oath-as-bengals-first-bjp-cm-pm-nda-cms-present-2909103-2026-05-09",
+      "headline": "Suvendu Adhikari is BJP's 1st Bengal CM, takes oath in BanglaSuvendu Adhikari took oath as the BJP's first Chief Minister of Bengal on Saturday in a massive show of strength that saw Prime Minister Narendra Modi, Amit Shah and most of the Union Cabinet in attendance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-cm-suvendu-adhikari-oath-live-updates-swearing-in-ceremony-new-government-formation-bjp-tmc-2909015-2026-05-09",
+      "headline": "Live: Dilip Ghosh, Agnimitra Paul, others sworn in as West Bengal ministersSuvendu Adhikari Oath Ceremony Live Updates: BJP leader Suvendu Adhikari took oath as the first BJP chief minister of West Bengal at a grand ceremony at Kolkata's Brigade Parade Grounds on Saturday in the presence of Prime Minister Narendra Modi, Union Home Minister Amit Shah, several Union ministers and chief ministers from NDA-ruled states. Senior BJP leaders including Dilip Ghosh, Agnimitra Paul, Nisith Pramanik and Kshudiram Tudu also took oath as ministers in the new government."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/vijay-came-with-117-signatures-no-mail-received-from-vck-lok-bhavan-sources-2909057-2026-05-09",
+      "headline": "Vijay has support of 116, 117 or 118 MLAs? Lok Bhavan sources clarify  Live UpdatesIt was believed that Vijay's TVK had finally reached the 118 magic number, with support from the Congress, the Left, and the expected backing of the VCK. But the Tamil Nadu drama took another turn late in the night."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-touches-feet-hugs-bjps-oldest-bengal-worker-makhan-lal-sarkar-during-suvendu-adhikaris-oath-ceremony-2909099-2026-05-09",
+      "headline": "Who is the 98-year-old BJP veteran whose feet PM Modi touched?Before the oath-taking ceremony in Kolkata, Prime Minister Narendra Modi touched the feet of 98-year-old Makhan Lal Sarkar, who was arrested in Kashmir in 1953 while accompanying Syama Prasad Mukherjee during the movement to hoist the Indian tricolour there."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/bjp-bengal-suvendu-adhikari-border-bangladesh-gains-jamaat-e-islami-rise-bangladesh-parliament-2908918-2026-05-09",
+      "headline": "How Bengal erected BJP fence after Jamaat's rise along Bangladesh borderThe Jamaat-e-Islami saw a surge in Bangladesh in the February election, particularly along the border with West Bengal. The rise of the Islamist party seems to have resulted in voter consolidation for the BJP across the border. The West Bengal Assembly election results show that the BJP won several seats in pockets directly adjacent to the seats won by the Jamaat."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-govenrment-formation-live-updates-new-cm-vijay-tvk-dmk-aiadmk-congress-bjp-governor-2908441-2026-05-08",
+      "headline": "Live: Vijay fuelling confusion, TVK shared AI video of MLA, alleges TTV DhinakaranTamil Nadu Government Formation News Live Updates: Political uncertainty gripped Tamil Nadu as shifting alliance equations kept actor-politician Vijay on the edge of securing power. Initial optimism for the TVK grew after support signals from Congress and Left parties, but momentum weakened when the Indian Union Muslim League reaffirmed loyalty to the DMK-led alliance and the VCK delayed announcing its stand. Reports of intense negotiations exposed deep bargaining over cabinet representation, with VCK allegedly pressing for the Deputy Chief Minister's post for Thol Thirumavalavan, while TVK was unwilling to concede beyond a ministerial berth. Amid rumours of missing legislators and backchannel talks involving the AIADMK camp, Vijay met Governor Rajendra Vishwanath Arlekar to stake claim despite unresolved numbers. The crisis escalated further after Amma Makkal Munnetra Kazhagam filed a complaint accusing TVK of circulating a forged support letter linked to its lone MLA, intensifying mistrust and complicating coalition arithmetic. Stay tuned to IndiaToday.in for the latest updates."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/elections/story/ttv-dhinakaran-files-police-complaint-against-tvk-over-forged-support-letter-allegation-2909005-2026-05-09",
       "headline": "TTV Dhinakaran files police complaint against Vijay's TVK over 'forged' MLA letterThe latest move followed TVK releasing a video of lone AMMK MLA S Kamaraj allegedly writing a support letter backing the Vijay-led party, directly countering Dhinakaran's earlier claim that a forged letter had been circulated."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-shafali-verma-national-anti-doping-agency-whereabouts-failure-sources-2909093-2026-05-09",
+      "headline": "Yashasvi Jaiswal, Shafali Verma served notice for missing dope tests: SourcesYashasvi Jaiswal and Shafali Verma have received first missed test notices from NADA after they were unavailable for scheduled dope tests. The cases fall under the whereabouts failure rule, where three lapses in 12 months can lead to a ban of up to two years."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/west-bengal/story/who-is-suvendu-adhikari-bjp-west-bengal-chief-minister-profile-2908771-2026-05-08",
+      "headline": "Suvendu Adhikari's rise: From Nandigram giant killer to Bengal Chief MinisterOnce Mamata Banerjee's trusted lieutenant, Suvendu Adhikari is now the West Bengal Chief Minister after he took oath on Saturday after scripting the BJP's biggest breakthrough and defeating his former mentor once again."
     },
     {
       "sentiment": "positive",
@@ -211,28 +251,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-govenrment-formation-live-updates-new-cm-vijay-tvk-dmk-aiadmk-congress-bjp-governor-2908441-2026-05-08",
-      "headline": "Live: Vijay unlikely to take oath today, VCK briefing at 10 amTamil Nadu Government Formation News Live Updates: Political uncertainty gripped Tamil Nadu as shifting alliance equations kept actor-politician Vijay on the edge of securing power. Initial optimism for the TVK grew after support signals from Congress and Left parties, but momentum weakened when the Indian Union Muslim League reaffirmed loyalty to the DMK-led alliance and the VCK delayed announcing its stand. Reports of intense negotiations exposed deep bargaining over cabinet representation, with VCK allegedly pressing for the Deputy Chief Minister's post for Thol Thirumavalavan, while TVK was unwilling to concede beyond a ministerial berth. Amid rumours of missing legislators and backchannel talks involving the AIADMK camp, Vijay met Governor Rajendra Vishwanath Arlekar to stake claim despite unresolved numbers. The crisis escalated further after Amma Makkal Munnetra Kazhagam filed a complaint accusing TVK of circulating a forged support letter linked to its lone MLA, intensifying mistrust and complicating coalition arithmetic. Stay tuned to IndiaToday.in for the latest updates."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/bjp-bengal-suvendu-adhikari-border-bangladesh-gains-jamaat-e-islami-rise-bangladesh-parliament-2908918-2026-05-09",
-      "headline": "How Bengalis erected BJP fence after Jamaat's rise along Bangladesh borderThe Jamaat-e-Islami saw a surge in Bangladesh in the February election, particularly along the border with West Bengal. The rise of the Islamist party seems to have resulted in voter consolidation for the BJP across the border. The West Bengal Assembly election results show that the BJP won several seats in pockets directly adjacent to the seats won by the Jamaat."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/vijay-is-cm-or-is-he-tamil-nadus-game-of-thrones-sees-missing-mlas-aiadmk-twist-2908987-2026-05-09",
-      "headline": "Vijay is CM, or is he? Tamil Nadu's Game of ThronesTamil Nadu's post-poll drama swung wildly through Friday, leaving Vijay tantalisingly close to the CM post \u2014 yet still just short of certainty. At one point, he appeared set for a smooth swearing-in, only for last-minute gaps in support to pull the brakes."
+      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-government-formation-congress-targets-dmk-over-rumoured-alliance-with-aiadmk-2909094-2026-05-09",
+      "headline": "Who is betraying whom? Congress targets DMK over rumoured alliance with AIADMKCongress leader Praveen Chakravarty used a satirical post to question the DMK over reports of contacts with the AIADMK in Tamil Nadu. The swipe also accused the party of trying to block Vijay-led TVK from aligning with secular parties at the BJP's behest."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-cm-suvendu-adhikari-oath-live-updates-swearing-in-ceremony-new-government-formation-bjp-tmc-2909015-2026-05-09",
-      "headline": "Live: Suvendu Adhikari to take oath as Bengal's first BJP CM at 11 am, PM to attendSuvendu Adhikari Oath Ceremony Live Updates: West Bengal chief minister-elect Suvendu Adhikari on Friday met Governor RN Ravi and staked claim to form the state's first BJP-led government, hours after being elected leader of the legislature party in the presence of Union Home Minister Amit Shah. The BJP, which won 207 seats in the 294-member Assembly, will see Adhikari sworn in at Brigade Parade Grounds on Saturday in the presence of Prime Minister Narendra Modi, top Union ministers and chief ministers of BJP-ruled states."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/vanni-arasu-x-post-vck-support-vijay-tvk-government-tamil-nadu-2909043-2026-05-09",
-      "headline": "We are the centre: VCK's cryptic post amid tussle with TVK over MLA's supportVCK leader Vanni Arasu posted a cryptic message on X as questions persisted over the party's support to Vijay and TVK. The post intensified speculation over VCK's role while Vijay sought numbers to form the government in Tamil Nadu."
+      "url": "https://www.indiatoday.in/cities/delhi/story/3-year-old-girl-raped-at-school-in-delhi-janakpuri-accused-gets-bail-ncr-news-2909053-2026-05-09",
+      "headline": "3-year-old girl raped by 57-year-old staff on 2nd day of her school in DelhiThe girl's mother has also claimed that no proper action was taken by the police immediately after the case was reported. She further accused officials of having made the young girl and her family wait for hours at the police station."
     },
     {
       "sentiment": "positive",
@@ -241,38 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/openai-anthropic-are-starting-service-companies-it-is-good-news-for-indian-it-sector-2908716-2026-05-09",
-      "headline": "OpenAI, Anthropic starting service companies is good news for Indian IT sectorAnthropic and OpenAI are entering the world of SaaS \u2013 software as a service \u2013 but with AI. This may come across as bad news for Indian IT giants like TCS and Infosys. But look closer, it is actually very good news for them and for Indian IT employees."
+      "url": "https://www.indiatoday.in/sports/cricket/story/rr-vs-gt-rajasthan-royals-owner-lakshmi-mittal-visits-team-before-gujarat-titans-clash-2909033-2026-05-09",
+      "headline": "New RR owner Laxmi Mittal meets team ahead of GT tie, chats with Riyan, JaiswalNew Rajasthan Royals owner Lakshmi Mittal visited the squad in Jaipur and spoke at length with Riyan Parag and Yashasvi Jaiswal. The appearance came as the franchise chases a play-off place while a multibillion-dollar ownership change moves towards completion."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/vanni-arasu-x-post-vck-support-vijay-tvk-government-tamil-nadu-2909043-2026-05-09",
+      "headline": "We are the centre: VCK's cryptic post amid tussle with TVK over MLA's supportVCK leader Vanni Arasu posted a cryptic message on X as questions persisted over the party's support to Vijay and TVK. The post intensified speculation over VCK's role while Vijay sought numbers to form the government in Tamil Nadu."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-election-results-split-muslim-vote-bjp-gains-tmc-setback-congress-humayun-kabir-ajup-2909029-2026-05-09",
       "headline": "TMC lost Bengal and the Muslim vote. But who gained from it?Two things happened in the 2026 West Bengal polls: the BJP's consolidation of Hindu votes and the end of the Trinamool Congress's absolute dominance over Muslim voters."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/dc-vs-kkr-ipl-2026-narine-varun-anukul-roy-spin-dominance-arun-jaitley-stadium-2909016-2026-05-09",
-      "headline": "IPL Play of the Day: KKR's spin barrage turns Delhi's route away from playoffsIPL 2026, DC vs KKR: Kolkata Knight Riders' spinners choked Delhi Capitals through the middle overs after the home team got off to a brisk start at Arun Jaitley Stadium. On a retro night in Delhi, Sunil Narine, Anukul Roy and Varun Chakravarthy brought in the disco twist to keep KKR alive in the play-off race."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/sos-from-western-ghats-indias-living-spine-is-cracking-it-cant-be-ignored-2908751-2026-05-09",
-      "headline": "SoS from Western Ghats: India's living spine is crackingA two-year survey in the Western Ghats recorded only 143 dragonfly and damselfly species, with nearly 35 per cent of historically recorded species missing. Scientists say the decline points to mounting stress in freshwater habitats and wider ecological disruption across the region."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/china-first-time-confirms-support-j10ce-pakistan-during-war-india-operation-sindoor-2908929-2026-05-08",
-      "headline": "Big disclosure: Chinese personnel gave on-site support to Pak during Op SindoorTwo Chinese engineers have revealed that they provided on-site technical support to Pakistan during Operation Sindoor. The disclosure from the engineers, who were present in Pakistan during the May 2025 Operation Sindoor, is the first official acceptance that Chinese personnel were involved in the four-day mini-war with India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/operation-sindoor-anniversary-indian-army-press-conference-pakistan-dg-ispr-why-officers-speak-english-trolled-2908629-2026-05-08",
-      "headline": "Why Indian Army officers used English, asks Pak Army spox, gets trolled by PakistanisLt Gen Ahmed Sharif Chaudhry, the head of the Pakistani military's media wing, has questioned why Indian military officers were speaking in English while briefing on Operation Sindoor on its first anniversary. Pakistanis trolled Chaudhry, questioning English usage in Pakistani military documents instead of Urdu."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-says-expecting-iran-response-to-us-war-deal-proposal-tonight-fresh-strait-of-hormuz-tensions-2909052-2026-05-09",
-      "headline": "Trump says expecting Iran's response to latest US proposal tonightDonald Trump said he expected to hear from Iran by Friday night on Washington's latest proposal to end the war, even as Tehran indicated it had not yet finalised its response and was still reviewing messages sent by the Americans through Pakistani mediators."
     },
     {
       "sentiment": "positive",
@@ -286,28 +291,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/west-bengal/story/who-is-suvendu-adhikari-bjp-west-bengal-chief-minister-profile-2908771-2026-05-08",
-      "headline": "Suvendu Adhikari's rise: From Nandigram giant killer to Bengal Chief MinisterOnce Mamata Banerjee's trusted lieutenant, Suvendu Adhikari is now set to take oath as West Bengal Chief Minister today after scripting BJP's biggest breakthrough and defeating his former mentor once again."
+      "url": "https://www.indiatoday.in/science/story/sos-from-western-ghats-indias-living-spine-is-cracking-it-cant-be-ignored-2908751-2026-05-09",
+      "headline": "SoS from Western Ghats: India's living spine is crackingA two-year survey in the Western Ghats recorded only 143 dragonfly and damselfly species, with nearly 35 per cent of historically recorded species missing. Scientists say the decline points to mounting stress in freshwater habitats and wider ecological disruption across the region."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/vijay-is-cm-or-is-he-tamil-nadus-game-of-thrones-sees-missing-mlas-aiadmk-twist-2908987-2026-05-09",
+      "headline": "Vijay is CM, or is he? Tamil Nadu's Game of ThronesTamil Nadu's post-poll drama swung wildly through Friday, leaving Vijay tantalisingly close to the CM post \u2014 yet still just short of certainty. At one point, he appeared set for a smooth swearing-in, only for last-minute gaps in support to pull the brakes."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-cool-may-2026-weather-relief-heatwave-climate-change-delay-imd-2908534-2026-05-08",
-      "headline": "Where did summer go? Unusual cool May surprises India, heat dipsOn May 7, a region in Uttar Pradesh recorded a maximum temperature of just 26\u00b0C, making it the coolest May day ever measured there. What's happening?"
+      "url": "https://www.indiatoday.in/entertainment/ott/story/karan-kundrra-tejasswi-prakash-fight-it-out-in-flashy-outfits-in-desi-bling-promo-2909079-2026-05-09",
+      "headline": "This is not us: Karan-Tejasswi fight it out in flashy outfits in Desi Bling promoThe new promo of Desi Bling shows a tense moment between actors Karan Kundrra and Tejasswi Prakash after she tells him he gets influenced by people around him. The clip ends with emotional scenes, tears and a conversation about their relationship."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-genelia-dsouza-calls-thalapathy-vijays-election-victory-a-win-for-tamil-nadu-2909039-2026-05-09",
-      "headline": "Win for Tamil Nadu: Genelia D'Souza calls Vijay's election victory proud momentActor Genelia D'Souza said Thalapathy Vijay's election victory is a proud moment for Tamil Nadu. She said the result reflected public trust in him and faith that he would meet expectations."
+      "url": "https://www.indiatoday.in/elections/assembly/story/vd-satheesan-ramesh-chennithala-reachdelhi-kerala-cm-race-heats-up-congress-weighs-call-after-udf-win-2909065-2026-05-09",
+      "headline": "VD Satheesan, Ramesh Chennithala in Delhi as Kerala CM race heats upV D Satheesan and Ramesh Chennithala reached Delhi as Congress stepped up consultations on Kerala's next Chief Minister. The move has sharpened focus on the high command's decision after the UDF's Assembly election victory."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-dmk-aiadmk-ma-baby-cpm-rejected-outside-support-backed-vijay-tvk-big-claim-2908945-2026-05-08",
-      "headline": "DMK backed outside support to AIADMK govt, asked us to follow: CPM's big claimIn a major revelation, CPI(M) leader MA Baby said the DMK had floated the idea of extending outside support to an AIADMK government and urged the Left to follow suit. He said his party rejected the proposal and instead backed Vijay's TVK to \"defend the people's verdict\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/chidambaram-admits-congress-underestimated-vijay-tvk-after-tamil-nadu-shocker-2909020-2026-05-09",
-      "headline": "Chidambaram admits Congress underestimated Vijay after Tamil Nadu's TVK shockerP Chidambaram said Congress and the wider political establishment had underestimated Vijay and TVK before the Tamil Nadu verdict. He said Congress backed TVK after the results to avoid another election and President's Rule."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/petrol-diesel-prices-to-be-increased-before-may-15-sources-2908923-2026-05-08",
+      "headline": "Petrol and diesel prices likely to be hiked before May 15Petrol and diesel prices in India are likely to be hiked before May 15 as state-run oil marketing companies face rising financial stress amid a sharp surge in global crude oil prices, sources told India Today TV."
     },
     {
       "sentiment": "negative",
@@ -316,16 +321,51 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-genelia-dsouza-calls-thalapathy-vijays-election-victory-a-win-for-tamil-nadu-2909039-2026-05-09",
-      "headline": "Win for Tamil Nadu: Genelia D'Souza calls Vijay's election victory proud momentActor Genelia D'Souza said Thalapathy Vijay's election victory is a proud moment for Tamil Nadu. She said the result reflected public trust in him and faith that he would meet expectations."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-devil-wears-prada-part-3-director-david-frankel-reacts-meryl-streep-anne-hathaway-2909116-2026-05-09",
+      "headline": "Will The Devil Wears Prada get part 3? Director David Frankel reacts to buzzDirector David Frankel said he would be open to returning for a third The Devil Wears Prada film. The cast, including Meryl Streep and Anne Hathaway, earlier shared what would be needed for part three to happen."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-toxic-delay-four-year-gap-kannada-cinema-comeback-2908583-2026-05-09",
-      "headline": "Is Yash's global dream proving toxic to his pan-India superstardom?What began as anticipation has turned into a test of patience for fans. Yash's upcoming mega project Toxic promises to shape the actor's global ambition. But, given the multiple delays, is he getting too obsessed about delivering the perfect global product with Toxic?"
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ameesha-patel-questions-actors-buying-superstar-status-stop-pr-machinery-2909056-2026-05-09",
+      "headline": "Stop PR games: Ameesha Patel questions actors 'buying' superstar statusActor Ameesha Patel slammed Bollywood's PR games and said actors should call themselves a superstar only after creating history and havoc at the box office. She also said her PR machinery is weak, unlike others, while talking about her blockbuster films."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rr-vs-gt-preview-predicted-xi-pitch-report-jaipur-playoff-race-2909118-2026-05-09",
+      "headline": "Stuttering Rajasthan Royals take on resurgent Gujarat Titans in Jaipur encounter RR vs GT: Rajasthan and Gujarat meet in Jaipur with play-off places up for grabs. Two contrasting teams, one critical match. Who blinks first in the top-four race?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/india-basketball-league-not-next-ipl-jeremy-loeliger-exclusive-2909084-2026-05-09",
+      "headline": "Not the next IPL: India Basketball League wants its own court, own culture India's first professional basketball league is not trying to become the next IPL, and that may be its smartest move. The IBL wants to build a sustainable ecosystem, giving young players a genuine career pathway instead of chasing cricket's blueprint."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/yuzvendra-chahal-vaping-row-laxman-sivaramakrishnan-pbks-bcci-ipl-2909100-2026-05-09",
+      "headline": "Chahal should be behind bars: Ex-spinner on PBKS star after alleged vaping row Laxman Sivaramakrishnan has demanded action after a viral clip allegedly showed Yuzvendra Chahal vaping on a Punjab Kings flight. The former spinner said that Chahal should be behind bars for his actions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kkr-resurgence-sunil-narine-varun-chakravarthy-spin-department-2909106-2026-05-09",
+      "headline": "Spinning a web: How KKR spinners have bounced back to reignite team's fading hopes IPL 2026, DC vs KKR: Kolkata Knight Riders beat the Delhi Capitals by eight wickets after their spin trio of Sunil Narine, Varun Chakravarthy and Anukul Roy put their best foot forward at the Arun Jaitley Stadium."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-shafali-verma-national-anti-doping-agency-whereabouts-failure-sources-2909093-2026-05-09",
+      "headline": "Yashasvi Jaiswal, Shafali Verma served notice for missing dope tests: Sources Yashasvi Jaiswal and Shafali Verma have received first missed test notices from NADA after they were unavailable for scheduled dope tests. The cases fall under the whereabouts failure rule, where three lapses in 12 months can lead to a ban of up to two years."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/formula-1-2027-engine-regulations-fia-max-verstappen-criticism-2909069-2026-05-09",
+      "headline": "F1 bows to Verstappen, drivers criticism, agrees to massive 2027 engine shake-up Formula 1 and the teams have agreed in principle to alter the 2027 engine rules after drivers objected to excessive battery dependence. The move comes after the governing body decided to heed the demands from the drivers after criticism early on."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-new-reality-injury-italian-open-exit-french-open-concerns-2909070-2026-05-09",
+      "headline": "Djokovic reveals worrying fitness truth after shock first-round exit in Rome Novak Djokovic has admitted recurring physical issues are now part of his reality after a shock Italian Open exit, raising fresh concerns over his fitness ahead of the French Open."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/finn-allen-hundred-cameron-green-maths-dc-vs-kkr-ipl-2026-2909044-2026-05-09",
@@ -344,37 +384,37 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kkr-ipl-2026-playoff-chances-after-delhi-capitals-win-2908990-2026-05-09",
-      "headline": "How KKR can qualify for playoffs after incredible comeback: Qualification Scenario IPL 2026, DC vs KKR: Ajinkya Rahane's Kolkata Knight Riders have more than a realistic chance to qualify for the playoffs after they beat the Delhi Capitals by 8 wickets on Friday in New Delhi."
+      "headline": "How KKR can qualify for playoffs after incredible comeback: Qualification ScenarioIPL 2026, DC vs KKR: Ajinkya Rahane's Kolkata Knight Riders have more than a realistic chance to qualify for the playoffs after they beat the Delhi Capitals by 8 wickets on Friday in New Delhi."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rr-vs-gt-jason-holder-all-rounder-for-middle-order-fix-parthiv-patel-2908853-2026-05-09",
-      "headline": "The Jason Holder effect: Gujarat Titans enjoying all-rounder's IPL 2026 surge IPL 2026: Parthiv Patel said Jason Holder's inclusion has changed Gujarat Titans' balance ahead of the Rajasthan Royals match. His all-round returns have stabilised the middle order and strengthened the bowling options."
+      "headline": "The Jason Holder effect: Gujarat Titans enjoying all-rounder's IPL 2026 surgeIPL 2026: Parthiv Patel said Jason Holder's inclusion has changed Gujarat Titans' balance ahead of the Rajasthan Royals match. His all-round returns have stabilised the middle order and strengthened the bowling options."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/lanka-premier-league-social-media-follower-rule-2909002-2026-05-09",
-      "headline": "No Instagram following, no LPL: Sri Lanka League sets odd criteria for players Lanka Premier League has set odd criteria for categorising its players. If a player wants to be in the league as a top tier Icon category, they need to either play 75 T20Is or have, wait for it, 250,000 social media followers."
+      "headline": "No Instagram following, no LPL: Sri Lanka League sets odd criteria for playersLanka Premier League has set odd criteria for categorising its players. If a player wants to be in the league as a top tier Icon category, they need to either play 75 T20Is or have, wait for it, 250,000 social media followers."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-vs-dino-prizmic-italian-open-2026-upset-french-open-concerns-2908997-2026-05-09",
-      "headline": "Novak Djokovic knocked out of Italian Open by his mirror image Novak Djokovic suffered a shock early exit at the Italian Open after Croatian youngster Dino Prizmic fought back from a set down to beat the Serbian 2-6, 6-2, 6-4 in Rome. The defeat has raised fresh concerns over his fitness and form ahead of the French Open later this month."
+      "headline": "Novak Djokovic knocked out of Italian Open by his mirror imageNovak Djokovic suffered a shock early exit at the Italian Open after Croatian youngster Dino Prizmic fought back from a set down to beat the Serbian 2-6, 6-2, 6-4 in Rome. The defeat has raised fresh concerns over his fitness and form ahead of the French Open later this month."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/india-russia-athletics-deal-adille-sumariwalla-2908968-2026-05-09",
-      "headline": "No deal between India and Russia in athletics: AFI snubs rumours The Athletics Federation of India has denied reports claiming that it signed a cooperation agreement with Russian Athletics to allow Russian athletes to compete in India. AFI spokesperson Adille Sumariwalla said India would continue to follow World Athletics sanctions imposed on Russia."
+      "headline": "No deal between India and Russia in athletics: AFI snubs rumoursThe Athletics Federation of India has denied reports claiming that it signed a cooperation agreement with Russian Athletics to allow Russian athletes to compete in India. AFI spokesperson Adille Sumariwalla said India would continue to follow World Athletics sanctions imposed on Russia."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-dc-vs-kkr-match-report-finn-allen-century-playoff-hopes-2908967-2026-05-08",
-      "headline": "Finn-ishing blow: KKR back in playoffs race as DC's home misery continues IPL 2026, DC vs KKR: A Finn Allen century and a spin-bowling masterclass saw Kolkata Knight Riders crush Delhi Capitals at the Kotla. The clinical win revives KKR's playoff hopes while leaving Delhi's campaign in tatters."
+      "headline": "Finn-ishing blow: KKR back in playoffs race as DC's home misery continuesIPL 2026, DC vs KKR: A Finn Allen century and a spin-bowling masterclass saw Kolkata Knight Riders crush Delhi Capitals at the Kotla. The clinical win revives KKR's playoff hopes while leaving Delhi's campaign in tatters."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/delhi-capitals-ipl-2026-qualification-scenario-playoffs-axar-patel-2908966-2026-05-08",
-      "headline": "Season finished: Delhi Capitals to start planning for next year, says Axar Patel Delhi Capitals captain Axar Patel admitted that his side has effectively fallen out of the IPL 2026 playoffs race after their defeat to Kolkata Knight Riders. Axar said Delhi will now start planning for next season and test their bench strength."
+      "headline": "Season finished: Delhi Capitals to start planning for next year, says Axar PatelDelhi Capitals captain Axar Patel admitted that his side has effectively fallen out of the IPL 2026 playoffs race after their defeat to Kolkata Knight Riders. Axar said Delhi will now start planning for next season and test their bench strength."
     },
     {
       "sentiment": "positive",
@@ -435,41 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/prince-yadav-virat-kohli-wicket-ipl-2026-india-debut-calls-2908738-2026-05-08",
       "headline": "Hey Gambhir, are you watching? Prince's push for India debut can't be ignoredPrince Yadav shines in IPL 2026 with a stunning spell vs RCB. With a sensational skill set and brilliant mentality, Prince continues his push for getting a call-up into the Indian team."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/india-u17-women-vs-lebanon-afc-u17-womens-asian-cup-quarterfinal-2908731-2026-05-08",
-      "headline": "India U17 women keep historic Asian Cup quarterfinal and World Cup dream aliveIndia's U17 women beat Lebanon 4-0 in Suzhou to stay in the AFC U17 Women's Asian Cup quarterfinal race. The result lifted their goal difference to -1 and kept their FIFA U17 Women's World Cup hopes alive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/d-gukesh-beats-fabiano-caruana-ties-fourth-super-rapid-blitz-rapid-2908724-2026-05-08",
-      "headline": "Super Rapid and Blitz: Gukesh beats Caruana in final round of Rapid eventWorld champion D Gukesh defeated American Grandmaster Fabiano Caruana in the final round of the rapid section to secure a tied-fourth finish at the Super Rapid and Blitz Tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-highest-individual-taxpayer-bihar-jharkhand-fy-2025-26-2908675-2026-05-08",
-      "headline": "MS Dhoni named as highest individual taxpayer in Bihar-Jharkhand regionMS Dhoni has again been named the highest individual taxpayer in the Bihar-Jharkhand region for 2025-26. The announcement underlines his enduring commercial pull even as questions over his IPL future continue."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sunil-gavaskar-sourav-ganguly-icc-wide-bouncer-rule-change-pacers-2908672-2026-05-08",
-      "headline": "Gavaskar calls for major cricket rule tweak, urges Ganguly to help pacersFormer India captain Sunil Gavaskar urged former India skipper Sourav Ganguly, who currently chairs the ICC Men's Cricket Committee, to consider changes to the wide bouncer rule to give fast bowlers more leeway in modern-day cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/real-madrid-valverde-tchouameni-training-bust-up-disciplinary-probe-2908662-2026-05-08",
-      "headline": "Real Madrid chaos: What we know so far as Tchouameni sends Valverde to hospitalReal Madrid open disciplinary action after Tchouameni-Valverde clash. Here's how the dressing-room bust-up unfolded and what happens next."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-prince-yadav-special-moment-lsg-vs-rcb-ipl-2026-2908650-2026-05-08",
-      "headline": "Watch: After dismissing Kohli for duck, Prince shares special moment with RCB iconLSG vs RCB: Virat Kohli was seen chatting with Lucknow Super Giants pacer Prince Yadav and bowling coach Bharat Arun following LSG's win over Royal Challengers Bengaluru in IPL 2026 at the Ekana Stadium."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-lose-t20i-captaincy-shreyas-iyer-frontrunner-take-over-2908628-2026-05-08",
-      "headline": "Surya likely to lose India T20I captaincy, Shreyas frontrunner to take overBCCI are likely to discuss India's T20I captaincy in the upcoming selection meeting, with Suryakumar Yadav's place under threat and Shreyas Iyer emerging as the frontrunner to take over."
     }
   ],
   "education": [
