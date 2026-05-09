@@ -3,7 +3,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/motor-mess-vehicle-insurance-claim-reporting-delay-will-it-be-rejected-or-approved-2909141-2026-05-09",
-      "headline": "Can motor insurers reject claims over delayed accident reporting?Handcrafted ByOur Editors In the fifth story in our series Motor Mess, we spoke to experts to understand why delayed accident reporting often leads to insurance claim rejections, the mistakes policyholders should avoid and what options remain if such claims are rejected."
+      "headline": "Can motor insurers reject claims for reporting accidents late?Handcrafted ByOur Editors In the fifth story in our series Motor Mess, we spoke to experts to understand why delayed accident reporting often leads to insurance claim rejections, the mistakes policyholders should avoid and what options remain if such claims are rejected."
     },
     {
       "sentiment": "positive",
@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nora-fatehi-to-perform-at-fifa-world-cup-2026-opening-ceremony-in-canada-2909183-2026-05-09",
+      "headline": "Nora Fatehi to perform at FIFA World Cup 2026 opening ceremony in Canada Nora Fatehi is set to perform at the FIFA World Cup 2026 opening ceremony in Canada on June 12. The announcement marks her return to the FIFA stage as the tournament opens across three host countries."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-waves-at-fans-greets-them-with-rashmika-mandanna-on-37th-birthday-2909173-2026-05-09",
+      "headline": "Vijay Deverakonda waves at fans, greets them with Rashmika on 37th birthday Fans gathered outside actor Vijay Deverakonda's home for his birthday celebrations on Saturday. The actor waved at the crowd, cut a cake and was joined by his wife, actor Rashmika Mandanna."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/main-vaapas-aaunga-sharvari-imtiaz-ali-bond-on-set-2909157-2026-05-09",
       "headline": "Main Vaapas Aaunga: Sharvari's note for Imtiaz Ali hints at their bond on set Actor Sharvari shared behind-the-scenes moments of the song Maskara from her upcoming film Main Ghar Aaunga. She also posted an emotional note for director Imtiaz Ali, thanking him for helping her discover new shades in her performance."
@@ -186,16 +196,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/fir-against-actor-celina-jaitlys-husband-over-domestic-violence-allegations-2908857-2026-05-08",
       "headline": "FIR against actor Celina Jaitly's husband over domestic violence allegations Celina Jaitly's legal battle with husband Peter Haag intensified after Mumbai Police initiated criminal proceedings against him based on her complaint. The actor had previously accused Haag of domestic violence, alleging she was denied access to her children in Austria."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/elderly-man-wins-over-internet-with-kind-gesture-towards-shahid-kapoor-watch-2908796-2026-05-08",
-      "headline": "Elderly man wins over internet with kind gesture towards Shahid Kapoor. Watch Shahid Kapoor's brief exchange with an elderly man at an airport queue has gone viral online. Social media users reacted to the man's gesture and the actor's courteous response."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/standpoint/story/the-devil-wears-prada-returns-after-20-years-heres-why-it-shouldnt-have-2908830-2026-05-08",
-      "headline": "The Devil Wears Prada returns after 20 years. Here's why it shouldn't have The Devil Wears Prada 2 banks on nostalgia but, unlike the first film, is no cultural landmark. The sequel touches upon several contemporary topics, though only superficially."
     }
   ],
   "general news": [
@@ -206,18 +206,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ed-raids-punjab-minister-sanjeev-arora-second-time-within-a-month-aap-bhagwant-mann-arvind-kejriwal-hit-out-bjp-2909142-2026-05-09",
+      "headline": "Punjab minister Sanjeev Arora arrested by ED, Kejriwal says BJP won't last in stateThe ED conducted fresh searches at Punjab minister Sanjeev Arora's residence and linked premises in a new money laundering case. The action sharpened the AAP government's political clash with the BJP-led Centre ahead of the 2027 Assembly polls."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/mamata-banerjee-x-twitter-bio-suvendu-adhikari-bengal-chief-minister-2909148-2026-05-09",
       "headline": "Not 'former CM', Mamata's new X bio sends political messageMamata Banerjee changed her X bio as Suvendu Adhikari took oath as West Bengal Chief Minister. The update carefully avoided calling her a former chief minister."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/vijay-came-with-117-signatures-no-mail-received-from-vck-lok-bhavan-sources-2909057-2026-05-09",
-      "headline": "Vijay has support of 116, 117 or 118 MLAs? Lok Bhavan sources clarify  Live UpdatesIt was believed that Vijay's TVK had finally reached the 118 magic number, with support from the Congress, the Left, and the expected backing of the VCK. But the Tamil Nadu drama took another turn late in the night."
+      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-govenrment-formation-live-updates-new-cm-vijay-tvk-dmk-aiadmk-congress-bjp-governor-2908441-2026-05-08",
+      "headline": "Live: VCK rejects power-sharing rumours, some AIADMK MLAs meet CV ShanmughamTamil Nadu Government Formation News Live Updates: Political tensions in Tamil Nadu intensified amid uncertainty over government formation. AMMK leader TTV Dhinakaran challenged TVK's claim of securing his party's support, demanding the original letter allegedly submitted to the Governor. He said AMMK MLA S Kamraj denied authorising such support and accused TVK of relying on a photocopied document, with a police complaint already filed. Kamraj further dismissed a video released by Vijay-led TVK as AI-generated. Meanwhile, VCK MP D Ravikumar rejected speculation that his party was bargaining for cabinet positions, accusing sections of the media of spreading misinformation. The volatile atmosphere deepened after a TVK supporter allegedly attempted self-immolation demanding Vijay become Chief Minister, prompting BJP leader Tamilisai Soundararajan to urge Vijay to calm supporters. Simultaneously, AIADMK MLAs met Edappadi K Palaniswami in Chennai, while Congress legislators remained camped in Hyderabad amid continuing political uncertainty. Stay tuned to IndiaToday.in for the latest updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/suvendu-adhikari-takes-oath-as-bengals-first-bjp-cm-pm-nda-cms-present-2909103-2026-05-09",
-      "headline": "Suvendu Adhikari is BJP's 1st Bengal CM, takes oath in BanglaSuvendu Adhikari took oath as the BJP's first Chief Minister of Bengal on Saturday in a massive show of strength that saw Prime Minister Narendra Modi, Amit Shah and most of the Union Cabinet in attendance."
+      "url": "https://www.indiatoday.in/health/story/hantavirus-explained-early-symptoms-are-mild-organ-failure-lung-kidney-follow-fast-mv-hondius-2908492-2026-05-09",
+      "headline": "Hantavirus explained: Early symptoms are mild, but organ failure follows fastAs global concern grows over the suspected hantavirus outbreak aboard the MV Hondius cruise ship, doctors are stressing that the infection behaves very differently from highly contagious respiratory viruses like Covid-19. Experts explain how the rodent-borne disease attacks the body, why the lungs and kidneys are most at risk, and why early medical care can be lifesaving."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/vijay-came-with-117-signatures-no-mail-received-from-vck-lok-bhavan-sources-2909057-2026-05-09",
+      "headline": "Vijay has support of 116, 117 or 118 MLAs? Lok Bhavan sources clarifyIt was believed that Vijay's TVK had finally reached the 118 magic number, with support from the Congress, the Left, and the expected backing of the VCK. But the Tamil Nadu drama took another turn late in the night."
     },
     {
       "sentiment": "positive",
@@ -226,23 +236,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-govenrment-formation-live-updates-new-cm-vijay-tvk-dmk-aiadmk-congress-bjp-governor-2908441-2026-05-08",
-      "headline": "Live: VCK rejects rumours of power-sharing demands with TVK, party to clear stand at 4 pmTamil Nadu Government Formation News Live Updates: Political tensions in Tamil Nadu intensified amid uncertainty over government formation. AMMK leader TTV Dhinakaran challenged TVK's claim of securing his party's support, demanding the original letter allegedly submitted to the Governor. He said AMMK MLA S Kamraj denied authorising such support and accused TVK of relying on a photocopied document, with a police complaint already filed. Kamraj further dismissed a video released by Vijay-led TVK as AI-generated. Meanwhile, VCK MP D Ravikumar rejected speculation that his party was bargaining for cabinet positions, accusing sections of the media of spreading misinformation. The volatile atmosphere deepened after a TVK supporter allegedly attempted self-immolation demanding Vijay become Chief Minister, prompting BJP leader Tamilisai Soundararajan to urge Vijay to calm supporters. Simultaneously, AIADMK MLAs met Edappadi K Palaniswami in Chennai, while Congress legislators remained camped in Hyderabad amid continuing political uncertainty. Stay tuned to IndiaToday.in for the latest updates."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-touches-feet-hugs-bjps-oldest-bengal-worker-makhan-lal-sarkar-during-suvendu-adhikaris-oath-ceremony-2909099-2026-05-09",
       "headline": "Who is the 98-year-old BJP veteran whose feet PM Modi touched?Before the oath-taking ceremony in Kolkata, Prime Minister Narendra Modi touched the feet of 98-year-old Makhan Lal Sarkar, who was arrested in Kashmir in 1953 while accompanying Syama Prasad Mookerjee during the movement to hoist the Indian tricolour there."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rain-rain-go-away-up-minister-yogendra-upadhyaya-school-textbooks-indian-values-johny-johny-2909151-2026-05-09",
-      "headline": "After 'Johny Johny', why UP minister wants 'rain, rain' to go away?Uttar Pradesh minister Yogendra Upadhyaya said 'Rain, Rain Go Away' should not be taught in school textbooks. He argued that the rhyme clashes with Indian cultural values and the emphasis on moral lessons."
+      "url": "https://www.indiatoday.in/health/story/gujarat-parents-hired-four-bouncers-for-their-teen-daughter-heres-why-2908089-2026-05-09",
+      "headline": "Gujarat parents hired four bouncers for their teen daughter. Here's whyHandcrafted ByOur Editors Families in Ahmedabad and Surat reportedly brought in bouncers to monitor teenagers with severe phone and gaming dependence. Psychiatrists say the cases reflect deeper emotional distress and a wider digital dependency crisis among children."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-punjab-politics-reaction-sets-record-straight-2909137-2026-05-09",
-      "headline": "Will Diljit Dosanjh become Punjab's political face? Singer sets record straightActor-singer Diljit Dosanjh reacted to calls asking him to enter Punjab politics. In an X post, he made it clear that he wants to stay focused on entertainment."
+      "url": "https://www.indiatoday.in/elections/assembly/story/kerela-government-formation-live-updates-new-chief-minister-announcement-udf-congress-2909181-2026-05-09",
+      "headline": "Live: Key Congress meeting today to decide next Kerala CMKerala New CM Announcement Live Updates: The Congress high command is likely to take a call today on who will become the next Chief Minister of Kerala, where the UDF, led by the grand old party, stormed to a sweeping victory with 99 seats in the recently held Assembly polls. Congress leaders VD Satheesan, KC Venugopal and Ramesh Chennithala are being considered contenders for the top job in Kerala. Lobbying has intensified by the respective supporters of the three leaders. Satheesan and Chennithala arrived in Delhi on Friday amid the mounting anticipation over the key job. Follow IndiaToday.in for the latest updates on the Kerala CM suspense."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/lieutenant-general-ns-raja-subramani-named-new-chief-of-defence-staff-2909014-2026-05-09",
+      "headline": "Lieutenant General NS Raja Subramani named new Chief of Defence StaffLieutenant General NS Raja Subramani will replace General Anil Chauhan, who will be completing his tenure as CDS on May 30 this year. In another major military appointment, Vice Admiral Krishna Swaminathan has been appointed as the next Chief of the Indian Navy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-bjp-government-suvendu-adhikari-cabinet-diverse-ministers-oath-social-caste-balancing-2909129-2026-05-09",
+      "headline": "Matua to Rajbanshi: BJP's Bengal Cabinet reflects social balancing actThe BJP's first government in West Bengal reflected a carefully balanced social and regional mix, with leaders from OBC, Kayastha, Matua, tribal and Rajbanshi communities finding representation in Suvendu Adhikari's cabinet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/odisha-missile-launch-mystery-sky-trail-seen-from-bangladesh-after-chandipur-test-2909161-2026-05-09",
+      "headline": "Mysterious rocket launch over Odisha: Is it India's new hypersonic missile?A glowing streak of light lit up the sky over Odisha on May 8, 2026, spotted as far away as Cox's Bazar in Bangladesh, after India launched a missile from Chandipur."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-genelia-dsouza-calls-thalapathy-vijays-election-victory-a-win-for-tamil-nadu-2909039-2026-05-09",
+      "headline": "Win for Tamil Nadu: Genelia D'Souza calls Vijay's election victory proud momentActor Genelia D'Souza said Thalapathy Vijay's election victory is a proud moment for Tamil Nadu. She said the result reflected public trust in him and faith that he would meet expectations."
     },
     {
       "sentiment": "negative",
@@ -251,33 +276,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tvk-worker-isakkiyappan-tries-to-set-self-on-fire-over-delay-in-vijay-becoming-tamil-nadu-cm-2909154-2026-05-09",
-      "headline": "TVK worker attempts self-immolation over delay in Vijay becoming CM, suffers burnsA TVK worker attempted self-immolation over the delay in Vijay becoming chief minister and suffered burns. The incident highlights the intensity of support around Vijay amid expectations over his political rise."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-bjp-government-suvendu-adhikari-cabinet-diverse-ministers-oath-social-caste-balancing-2909129-2026-05-09",
-      "headline": "Matua to Rajbanshi: BJP's Bengal Cabinet reflects social balancing act Live UpdatesThe BJP's first government in West Bengal reflected a carefully balanced social and regional mix, with leaders from OBC, Kayastha, Matua, tribal and Rajbanshi communities finding representation in Suvendu Adhikari's cabinet."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/motor-mess-vehicle-insurance-claim-reporting-delay-will-it-be-rejected-or-approved-2909141-2026-05-09",
-      "headline": "Can motor insurers reject claims over delayed accident reporting?Handcrafted ByOur Editors In the fifth story in our series Motor Mess, we spoke to experts to understand why delayed accident reporting often leads to insurance claim rejections, the mistakes policyholders should avoid and what options remain if such claims are rejected."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/ttv-dhinakaran-tvk-vijay-forged-letter-ai-video-ammk-mla-support-tamil-nadu-election-2909168-2026-05-09",
-      "headline": "TVK has hatred: Dhinakaran claims Vijay's party shared AI video to claim supportTTV Dhinakaran has accused Vijay's TVK of using a forged letter and an AI-generated video to show support from AMMK MLA Kamaraj S. The charge has sparked a fresh political row in Tamil Nadu, with Dhinakaran questioning the party's conduct and the authenticity of its claims."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/asian-beach-games-sanya-india-kabaddi-grit-sand-2909134-2026-05-09",
-      "headline": "Asian Beach Games | Shifting sands of Sanya: Where grit is all you haveAt the Asian Beach Games in Sanya, the sand turned every event into a contest of endurance, skill and nerve. The medals mattered, but the deeper story was how athletes from India and across Asia met hardship head-on."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/gujarat-parents-hired-four-bouncers-for-their-teen-daughter-heres-why-2908089-2026-05-09",
-      "headline": "Gujarat parents hired four bouncers for their teen daughter. Here's whyHandcrafted ByOur Editors Families in Ahmedabad and Surat reportedly brought in bouncers to monitor teenagers with severe phone and gaming dependence. Psychiatrists say the cases reflect deeper emotional distress and a wider digital dependency crisis among children."
+      "url": "https://www.indiatoday.in/india/west-bengal/story/who-is-suvendu-adhikari-bjp-west-bengal-chief-minister-profile-2908771-2026-05-08",
+      "headline": "Suvendu Adhikari's rise: From Nandigram giant killer to Bengal Chief MinisterOnce Mamata Banerjee's trusted lieutenant, Suvendu Adhikari is now the West Bengal Chief Minister after he took oath on Saturday after scripting the BJP's biggest breakthrough and defeating his former mentor once again."
     },
     {
       "sentiment": "positive",
@@ -290,14 +290,14 @@
       "headline": "Question Time: Weekly News QuizQuestion Time invites readers to test how closely they followed the week's news. The quiz turns the biggest developments into a quick check of current affairs awareness."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/story/ttv-dhinakaran-files-police-complaint-against-tvk-over-forged-support-letter-allegation-2909005-2026-05-09",
-      "headline": "TTV Dhinakaran files police complaint against Vijay's TVK over 'forged' MLA letterThe latest move followed TVK releasing a video of lone AMMK MLA S Kamaraj allegedly writing a support letter backing the Vijay-led party, directly countering Dhinakaran's earlier claim that a forged letter had been circulated."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-shafali-verma-national-anti-doping-agency-whereabouts-failure-sources-2909093-2026-05-09",
+      "headline": "Yashasvi Jaiswal, Shafali Verma served notice for missing dope tests: SourcesYashasvi Jaiswal and Shafali Verma have received their first missed test notices from NADA after they were unavailable for scheduled dope tests. The cases fall under the whereabouts failure rule, where three lapses in 12 months can lead to a ban of up to two years."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/odisha-missile-launch-mystery-sky-trail-seen-from-bangladesh-after-chandipur-test-2909161-2026-05-09",
-      "headline": "Mysterious rocket launch over Odisha: Is it India's new hypersonic missile?A glowing streak of light lit up the sky over Odisha on May 8, 2026, spotted as far away as Cox's Bazar in Bangladesh, after India launched a missile from Chandipur."
+      "url": "https://www.indiatoday.in/technology/features/story/openai-anthropic-are-starting-service-companies-it-is-good-news-for-indian-it-sector-2908716-2026-05-09",
+      "headline": "OpenAI, Anthropic starting service companies is good news for Indian IT sectorAnthropic and OpenAI are entering the world of SaaS \u2013 software as a service \u2013 but with AI. This may come across as bad news for Indian IT giants like TCS and Infosys. But look closer, it is actually very good news for them and for Indian IT employees."
     },
     {
       "sentiment": "positive",
@@ -306,31 +306,46 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/india-basketball-league-not-next-ipl-jeremy-loeliger-exclusive-2909084-2026-05-09",
-      "headline": "Not the next IPL: India Basketball League wants its own court, own cultureIndia's first professional basketball league is not trying to become the next IPL, and that may be its smartest move. The IBL wants to build a sustainable ecosystem, giving young players a genuine career pathway instead of chasing cricket's blueprint."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/vaccines-you-may-have-missed-after-18-and-why-they-still-matter-2909143-2026-05-09",
-      "headline": "Vaccines you may have missed after 18 and why they still matterMost people think vaccinations end after childhood, but immunity can weaken with age. From flu shots to HPV vaccines, adults may still need protection against several serious diseases."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/kerala-government-formation-kc-venugopal-vd-satheesan-ramesh-chennithala-congress-decision-cm-face-24-hours-2909139-2026-05-09",
-      "headline": "Venugopal, Satheesan, or Chennithala? Congress decision on Kerala CM in 24 hoursK Muraleedharan said the Congress high command may decide Kerala's next chief minister within 24 hours. The remark came as lobbying sharpened among the three leading contenders for the post."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/main-vaapas-aaunga-sharvari-imtiaz-ali-bond-on-set-2909157-2026-05-09",
-      "headline": "Main Vaapas Aaunga: Sharvari's note for Imtiaz Ali hints at their bond on setActor Sharvari shared behind-the-scenes moments of the song Maskara from her upcoming film Main Ghar Aaunga. She also posted an emotional note for director Imtiaz Ali, thanking him for helping her discover new shades in her performance."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-punjab-politics-reaction-sets-record-straight-2909137-2026-05-09",
       "headline": "Will Diljit Dosanjh become Punjab's political face? Singer sets record straightActor-singer Diljit Dosanjh reacted to calls asking him to enter Punjab politics. In an X post, he made it clear that he wants to stay focused on entertainment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/motor-mess-vehicle-insurance-claim-reporting-delay-will-it-be-rejected-or-approved-2909141-2026-05-09",
+      "headline": "Can motor insurers reject claims for reporting accidents late?Handcrafted ByOur Editors In the fifth story in our series Motor Mess, we spoke to experts to understand why delayed accident reporting often leads to insurance claim rejections, the mistakes policyholders should avoid and what options remain if such claims are rejected."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/suvendu-adhikari-takes-oath-as-bengals-first-bjp-cm-pm-nda-cms-present-2909103-2026-05-09",
+      "headline": "Suvendu Adhikari is BJP's 1st Bengal CM, takes oath in BanglaSuvendu Adhikari took oath as the BJP's first Chief Minister of Bengal on Saturday in a massive show of strength that saw Prime Minister Narendra Modi, Amit Shah and most of the Union Cabinet in attendance."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nora-fatehi-to-perform-at-fifa-world-cup-2026-opening-ceremony-in-canada-2909183-2026-05-09",
+      "headline": "Nora Fatehi to perform at FIFA World Cup 2026 opening ceremony in CanadaNora Fatehi is set to perform at the FIFA World Cup 2026 opening ceremony in Canada on June 12. The announcement marks her return to the FIFA stage as the tournament opens across three host countries."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-waves-at-fans-greets-them-with-rashmika-mandanna-on-37th-birthday-2909173-2026-05-09",
+      "headline": "Vijay Deverakonda waves at fans, greets them with Rashmika on 37th birthdayFans gathered outside actor Vijay Deverakonda's home for his birthday celebrations on Saturday. The actor waved at the crowd, cut a cake and was joined by his wife, actor Rashmika Mandanna."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/tristan-stubbs-overrated-kris-srikkanth-dc-vs-kkr-ipl-2026-2909176-2026-05-09",
+      "headline": "Stubbs is overrated: Ex-IND selector tears into DC star as poor run continues Kris Srikkanth tore into the Delhi Capitals after their batting crumbled against KKR, singling out Tristan Stubbs. Srikkanth said that the Delhi middle-order is finished after they slipped to a loss to KKR."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/abhijeet-gupta-odisha-open-prize-money-row-sports-ministry-aicf-responds-2909186-2026-05-09",
+      "headline": "Chess GM Abhijeet Gupta exposes Odisha chess tournament for unpaid prize money Abhijeet Gupta has accused the Odisha Open organisers of withholding his prize money despite repeated assurances. Abhijeet approached the sports ministry to get involved in the matter to resolve the issue."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-ipl-2026-awkward-reaction-fan-selfie-viral-mumbai-indians-video-viral-2909169-2026-05-09",
+      "headline": "Fan's phone turns off after Rohit Sharma agrees to selfie, what's next is hilarious Rohit Sharma found himself in an awkward fan interaction before Mumbai Indians' match, but the veteran batter's focus will remain on carrying his strong comeback form into the crucial stage of the season."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-barred-wfi-show-cause-notice-national-open-ranking-2909162-2026-05-09",
@@ -364,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-shafali-verma-national-anti-doping-agency-whereabouts-failure-sources-2909093-2026-05-09",
-      "headline": "Yashasvi Jaiswal, Shafali Verma served notice for missing dope tests: Sources Yashasvi Jaiswal and Shafali Verma have received first missed test notices from NADA after they were unavailable for scheduled dope tests. The cases fall under the whereabouts failure rule, where three lapses in 12 months can lead to a ban of up to two years."
+      "headline": "Yashasvi Jaiswal, Shafali Verma served notice for missing dope tests: Sources Yashasvi Jaiswal and Shafali Verma have received their first missed test notices from NADA after they were unavailable for scheduled dope tests. The cases fall under the whereabouts failure rule, where three lapses in 12 months can lead to a ban of up to two years."
     },
     {
       "sentiment": "positive",
@@ -374,12 +389,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-new-reality-injury-italian-open-exit-french-open-concerns-2909070-2026-05-09",
-      "headline": "Djokovic reveals worrying fitness truth after shock first-round exit in Rome Novak Djokovic has admitted recurring physical issues are now part of his reality after a shock Italian Open exit, raising fresh concerns over his fitness ahead of the French Open."
+      "headline": "Djokovic reveals worrying fitness truth after shock first-round exit in RomeNovak Djokovic has admitted recurring physical issues are now part of his reality after a shock Italian Open exit, raising fresh concerns over his fitness ahead of the French Open."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/finn-allen-hundred-cameron-green-maths-dc-vs-kkr-ipl-2026-2909044-2026-05-09",
-      "headline": "DC vs KKR: How Green avoided Kolkata's most hated man tag for Finn Allen hundred Finn Allen blasted a 47-ball hundred against Delhi Capitals as Cameron Green carefully played second fiddle to allow his partner to get to the landmark. Green said he did the maths to avoid denying Allen his maiden ton, a stand that sealed KKR's fourth straight win."
+      "headline": "DC vs KKR: How Green avoided Kolkata's most hated man tag for Finn Allen hundredFinn Allen blasted a 47-ball hundred against Delhi Capitals as Cameron Green carefully played second fiddle to allow his partner to get to the landmark. Green said he did the maths to avoid denying Allen his maiden ton, a stand that sealed KKR's fourth straight win."
     },
     {
       "sentiment": "positive",
@@ -465,21 +480,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/iga-swiatek-vs-caty-mcnally-italian-open-rome-third-round-2908861-2026-05-08",
       "headline": "Iga Swiatek escapes major Italian Open upset, but French Open worries persistIga Swiatek survived a stern challenge from Caty McNally at the Italian Open, recovering from a second-set wobble to seal a hard-fought three-set win and advance to the next round in Rome."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/sean-brady-blue-collar-roots-joaquin-buckley-ufc-welterweight-bout-2908678-2026-05-08",
-      "headline": "Built on blue-collar roots, Sean Brady eyeing run for UFC Welterweight goldBlue-collar roots, fatherhood and trust in his process keeps Sean Brady steady in his UFC career. Speaking ahead of his bout with Joaquin Buckley, Brady talks about his title aspirations, how he loves keeping away from social media for hype and more."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-england-test-boost-durham-return-wicket-2908843-2026-05-08",
-      "headline": "England receive huge Test boost as Stokes makes instant bowling impact on returnEngland received a timely boost ahead of the home Test summer after captain Ben Stokes made an immediate impact with the ball on his competitive return for Durham in the County Championship."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/najmul-hossain-shanto-century-bangladesh-vs-pakistan-mirpur-test-day-1-2908839-2026-05-08",
-      "headline": "Najmul Shanto grinds Pakistan down as Bangladesh seize edge in Mirpur TestBAN vs PAK: Najmul Hossain Shanto struck a superb century while Mominul Haque narrowly missed out on a hundred as Bangladesh recovered from an early wobble to finish Day 1 of the Mirpur Test strongly at 301 for four against Pakistan."
     }
   ],
   "education": [
