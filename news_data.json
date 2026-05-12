@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/video/rising-oil-prices-will-impact-inflation-and-interest-rates-nilesh-shah-2910770-2026-05-12",
+      "headline": "Rising oil prices will impact inflation and interest rates: Nilesh ShahIn an exclusive interview with India Today, Nilesh Shah, Managing Director at Kotak Mahindra Asset Management Company and a member of the Prime Minister's Economic Advisory Council, addressed the recent market downturn and the Prime Minister's call for austerity."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/dubai-court-acquits-man-in-dh1-6-million-investment-dispute-not-criminal-fraud-2910732-2026-05-12",
       "headline": "Dubai court acquits man in Dh1.6 million dispute, says failed deal isn't fraudDubai's criminal court acquitted a man accused in an investment-related dispute. The ruling said the case pointed to a civil business fallout, not proven criminal fraud."
@@ -94,14 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/rs-173-lakh-schooling-rs-54-lpa-salary-is-education-becoming-a-financial-trap-2909907-2026-05-11",
       "headline": "Rs 17.3 lakh schooling, Rs 5.4 lpa salary: Is education becoming a financial trap?Education has long been treated as a non-negotiable expense in Indian households. But today, as costs rise year after year, more families are quietly asking a difficult question: is quality schooling becoming harder to afford?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/petrol-diesel-prices-india-gradual-increase-steep-hike-may-15-key-details-2909917-2026-05-11",
-      "headline": "Petrol, diesel prices may soon go up. How much more could you pay?Petrol and diesel prices could be hiked soon amid surging crude oil prices and escalating tensions in West Asia. IndiaToday.in spoke to experts to understand whether the likely fuel price hikes would be sharp or gradual over a period of time."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/karuppu-9-am-shows-cm-vijay-permission-suriya-may-14-release-2910785-2026-05-12",
+      "headline": "Suriya's Karuppu team thanks Vijay for permission to screen 9 am shows Ahead of Karuppu's May 14 release, the makers said its first-day-first-show would start at 9 am and thanked Chief Minister Vijay for the permission."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/the-paradise-release-date-nani-film-makers-deny-reshoots-august-21-release-2910744-2026-05-12",
+      "headline": "Nani's The Paradise makers deny reshoots, confirm August 21 release is on track The makers of Nani's The Paradise have denied rumours of reshoots and fresh delay. They said the film has completed over 100 shooting days and is set for an August 21 release."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/sofia-vergara-dating-interview-sharon-stone-supports-money-remarks-2910702-2026-05-12",
@@ -186,23 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/the-rivals-of-amziah-king-trailer-matthew-mcconaughey-fights-to-save-his-family-2910447-2026-05-12",
       "headline": "The Rivals of Amziah King trailer: Matthew McConaughey fights to save his family The first trailer for The Rivals of Amziah King shows Matthew McConaughey as a honey-maker and bluegrass musician facing rivals after reconnecting with his estranged foster daughter."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/satrangi-trailer-anshumaan-pushkars-launda-naach-act-drives-revenge-drama-2910465-2026-05-12",
-      "headline": "Satrangi trailer: Anshumaan Pushkar's Launda Naach act drives revenge drama The trailer of Satrangi - Badle Ka Khel promises an intense revenge drama set in rural Uttar Pradesh, starring Anshumaan Pushkar in a double role as Bablu and Lalli. The series also explores the traditional folk art of Launda Naach amid caste politics and family rivalry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-emotional-over-malti-marie-mothers-day-note-2910450-2026-05-12",
-      "headline": "Priyanka Chopra shares adorable note given by daughter Malti Marie Priyanka Chopra Jonas shared a handmade Mother's Day note from daughter Malti Marie on social media. The note about her favourite things left the actor emotional as she wrote that her daughter knows her so well."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/neet-ug-paper-leak-nashik-student-arrested-paid-rs-10-lakh-telegram-haryana-buyer-2910712-2026-05-12",
-      "headline": "Nashik student arrested in NEET-UG case, paid Rs 10 lakh for leaked paperAs many as four teams of the Central Bureau of Investigation, which has been tasked with investigating the paper leak, have arrived in Nashik to take custody of the accused, Shubham Khairnar, who has been arrested by the Nashik Crime Branch."
+      "headline": "Nashik student arrested in NEET-UG case, paid Rs 10 lakh for leaked paperAs many as four teams of the CBI reportedly arrived in Maharashtra's Nashik to take custody of the accused, a 30-year-old BAMS student named Shubham Khairnar."
     },
     {
       "sentiment": "positive",
@@ -212,7 +212,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/neet-ug-2026-cancellation-khan-sir-attacks-nta-seeks-pm-and-supreme-court-intervention-says-even-rs-10-diaper-doesnt-leak-2910736-2026-05-12",
-      "headline": "Even Rs 10 diaper doesn't leak: Khan Sir bashes NTA after NEET-UG cancelledKhan Sir attacked the NTA after NEET-UG 2026 was cancelled over irregularity allegations. His remarks highlighted rising anger over student distress, paper leak claims and the wait for a re-exam."
+      "headline": "After leaks, NTA gets into revenge mode to set tough question paper: Khan SirKhan Sir attacked the NTA after NEET-UG 2026 was cancelled over irregularity allegations. His remarks highlighted rising anger over student distress, paper leak claims and the wait for a re-exam."
     },
     {
       "sentiment": "negative",
@@ -226,8 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/neet-ug-2026-exam-how-paper-got-leaked-sikar-rajasthan-nashik-press-2910510-2026-05-12",
-      "headline": "The NEET-UG paper 'leak' trail: Gurugram doctor, Kerala MBBS student, Sikar PGSikar has emerged as the main focus of the CBI's NEET paper 'leak' investigation. The alleged leak prompted the National Testing Agency (NTA) to cancel the NEET-UG exam held on May 3, affecting over 22 lakh candidates."
+      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-cancelled-super-thirty-anand-kumar-seeks-crackdown-coaching-centres-cbi-probe-china-like-measures-2910426-2026-05-12",
+      "headline": "NEET-UG cancelled: Super 30's Anand Kumar wants China-like crackdown after leakAnand Kumar called for strict action against coaching centres after NEET-UG 2026 was cancelled over alleged irregularities. The decision has triggered a re-test and a CBI probe into the examination process."
     },
     {
       "sentiment": "positive",
@@ -236,8 +236,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-cancelled-super-thirty-anand-kumar-seeks-crackdown-coaching-centres-cbi-probe-china-like-measures-2910426-2026-05-12",
-      "headline": "NEET-UG cancelled: Super 30's Anand Kumar wants China-like crackdown after leakAnand Kumar called for strict action against coaching centres after NEET-UG 2026 was cancelled over alleged irregularities. The decision has triggered a re-test and a CBI probe into the examination process."
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-lizlaz-controversy-influencer-offered-money-say-bad-things-ipl-rcb-2910742-2026-05-12",
+      "headline": "Was offered money to target Virat Kohli: German influencer makes explosive claimIPL 2026: Virat Kohli's viral Instagram controversy has taken another twist after German influencer LizLaz claimed she was allegedly offered money to publicly target the RCB star. The influencer said she refused to make false allegations against Kohli despite being approached."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/alia-bhatt-peach-gown-dupatta-cannes-film-festival-2026-opening-ceremony-red-carpet-2910794-2026-05-12",
+      "headline": "Did Alia Bhatt just walk the Cannes red carpet in a peach gown with a dupatta?Alia Bhatt brought in a hearty dose of glamour to the opening ceremony of the 79th Cannes Film Festival. She did so with a desi touch - by adding a matching scarf... errr... a dupatta."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/delhi-ncr-dust-storm-thunderstorms-rain-imd-yellow-alert-2910774-2026-05-12",
+      "headline": "Strong winds followed by rains bring relief from heat in Delhi-NCRA dust storm followed by thunderstorms and rain swept across Delhi and nearby NCR areas on Tuesday night. The weather change followed an IMD yellow alert, brought strong winds and gave parts of the region brief relief from the heat."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/west-bengal-election-results-bjp-wins-mamata-banerjee-tmc-non-resident-bengali-2909957-2026-05-11",
+      "headline": "Bengali Shaadi Mein Abdulla DeewanaThe despondency of the Non-Resident Bengalis or NRBs doesn't get reflected in the celebrations in West Bengal. The state no longer sticks out like a special sore thumb."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/neet-ug-2026-exam-how-paper-got-leaked-sikar-rajasthan-nashik-press-2910510-2026-05-12",
+      "headline": "The NEET-UG paper 'leak' trail: Gurugram doctor, Kerala MBBS student, Sikar PGSikar has emerged as the main focus of the CBI's NEET paper 'leak' investigation. The alleged leak prompted the National Testing Agency (NTA) to cancel the NEET-UG exam held on May 3, affecting over 22 lakh candidates."
     },
     {
       "sentiment": "positive",
@@ -251,8 +271,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/west-bengal-election-results-bjp-wins-mamata-banerjee-tmc-non-resident-bengali-2909957-2026-05-11",
-      "headline": "Bengali Shaadi Mein Abdulla DeewanaThe despondency of the Non-Resident Bengalis or NRBs doesn't get reflected in the celebrations in West Bengal. The state no longer sticks out like a special sore thumb."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/mouni-roy-suraj-nambiar-split-rumours-instagram-unfollow-missing-wedding-photos-2910675-2026-05-12",
+      "headline": "Mouni Roy archives wedding pics, husband Suraj deletes Insta account amid rift buzzAmid separation rumours, actor Mouni Roy has reportedly archived or removed several pictures with husband Suraj Nambiar, including their wedding photos. Suraj's Instagram account appears to have been deleted, too."
     },
     {
       "sentiment": "negative",
@@ -261,38 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mouni-roy-suraj-nambiar-split-rumours-instagram-unfollow-missing-wedding-photos-2910675-2026-05-12",
-      "headline": "Mouni Roy archives wedding pics, husband Suraj deletes Insta account amid rift buzzAmid separation rumours, actor Mouni Roy has reportedly archived or removed several pictures with husband Suraj Nambiar, including their wedding photos. Suraj's Instagram account appears to have been deleted, too."
+      "url": "https://www.indiatoday.in/world/story/vladimir-putin-drives-former-teacher-vera-gurevich-to-kremlin-dinner-video-2910737-2026-05-12",
+      "headline": "Watch: Putin drives Aurus, picks up his school teacher for dinner at KremlinThe video, released through Russian state media channels, shows Putin, dressed casually in jeans and a light jacket, greeting the 88-year-old retired teacher with a bouquet before embracing her warmly inside a Moscow hotel."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/as-aiadmk-stares-at-split-tamil-nadu-cm-vijay-meets-cv-shanmugam-sp-velumani-2910548-2026-05-12",
       "headline": "Vijay meets 'rebel' AIADMK leaders backing TVK ahead of crucial floor testThe rebel leaders, CV Shanmugam and SP Velumani, who enjoy the support of 30 MLAs, on Tuesday extended their support to the TVK for tomorrow's floor test."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/us-china-summit-trump-xi-beijing-talks-india-allies-concerns-2910655-2026-05-12",
-      "headline": "He's weak, Xi's not: Why Trump's China summit has allies on edgeTrump may offer China concessions at the expense of US allies \u2014 and to the detriment of his own country's interests."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/neet-ug-2026-cancellation-can-22-lakh-aspirants-sue-nta-over-paper-leak-legal-expert-2910589-2026-05-12",
-      "headline": "Can 22 lakh NEET aspirants sue NTA over NEET-UG 2026 paper leak?The National Testing Agency (NTA) has cancelled the NEET-UG 2026 exam over a paper leak. Around 22 lakh aspirants who took the exam will have to sit for the MBBS entrance exam again. Can these 22 lakh students sue the NTA? Here's what legal experts say."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/alia-bhatt-looks-like-a-summer-dream-in-first-look-from-cannes-2026-pics-2910490-2026-05-12",
-      "headline": "Alia Bhatt looks like a summer dream in first look from Cannes 2026Alia Bhatt is back in Cannes, and her first appearance this year is already serving major summer holiday fashion inspiration. She wore a rather special hand-painted dress as an ode to the French Riviera."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/thailand-indian-tourist-dies-after-4-indians-faint-at-phuket-cafe-2910576-2026-05-12",
-      "headline": "Four Indian tourists 'mysteriously' faint at Thailand cafe, one dies hours laterSecurity staff at the cafe in Phuket said that five Indians arrived there together around 11 pm on Friday. About 1.54 am, four of them reportedly lost consciousness one by one. They were rushed to the hospital, a Thai newspaper reported."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-enrich-uranium-weapons-grade-if-attacked-us-israel-again-2910636-2026-05-12",
-      "headline": "Iran threatens to enrich uranium to weapons grade if attacked by US, Israel againIran said it could enrich uranium to 90 per cent if the US, Israel strike again. Iran's nuclear programme is at the core of the dispute, particularly the fate of roughly 400 kilograms of uranium already enriched to 60 per cent purity, just below weapons-grade levels."
     },
     {
       "sentiment": "negative",
@@ -301,13 +296,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/us-china-summit-trump-xi-beijing-talks-india-allies-concerns-2910655-2026-05-12",
+      "headline": "He's weak, Xi's not: Why Trump's China summit has allies on edgeTrump may offer China concessions at the expense of US allies \u2014 and to the detriment of his own country's interests."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/food/story/is-poha-an-unhealthy-breakfast-option-sanjeev-kapoor-says-yes-2910049-2026-05-12",
       "headline": "Is poha an unhealthy breakfast option? Sanjeev Kapoor says yesChef Sanjeev Kapoor recently spoke about why poha - despite being one of India's most popular comfort breakfasts - may come with certain nutritional concerns."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/kerala-cm-congress-rahul-gandhi-kc-venugopal-ramesh-chennithala-vd-satheesan-2910540-2026-05-12",
-      "headline": "Kerala CM suspense: Ball in Rahul Gandhi's court, decision in next 24 hoursSources said the party is likely to take a final call on the next Kerala CM within the next 24 hours, with Congress president Mallikarjun Kharge expected in Delhi by evening to participate in the final discussions."
+      "url": "https://www.indiatoday.in/india/story/neet-ug-2026-cancellation-can-22-lakh-aspirants-sue-nta-over-paper-leak-legal-expert-2910589-2026-05-12",
+      "headline": "Can 22 lakh NEET aspirants sue NTA over NEET-UG 2026 paper leak?The National Testing Agency (NTA) has cancelled the NEET-UG 2026 exam over a paper leak. Around 22 lakh aspirants who took the exam will have to sit for the MBBS entrance exam again. Can these 22 lakh students sue the NTA? Here's what legal experts say."
     },
     {
       "sentiment": "positive",
@@ -315,12 +315,32 @@
       "headline": "Vijay's big CM move: 717 liquor shops near religious places, schools shutVijay ordered the closure of 717 Tasmac liquor shops located within 500 metres of religious places, educational institutions and bus stands across Tamil Nadu within two weeks."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/orry-sara-ali-khan-feud-rohit-shetty-hit-remark-khatron-ke-khiladi-15-2910508-2026-05-12",
-      "headline": "Orry mocks Sara Ali Khan again, jokes about Rohit Shetty giving her a 'hit'Orry took a fresh swipe at Sara Ali Khan while speaking about Khatron Ke Khiladi 15 and Rohit Shetty. The remark has intensified chatter around their reported fallout and online bullying."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/thailand-indian-tourist-dies-after-4-indians-faint-at-phuket-cafe-2910576-2026-05-12",
+      "headline": "Four Indian tourists 'mysteriously' faint at Thailand cafe, one dies hours laterSecurity staff at the cafe in Phuket said that five Indians arrived there together around 11 pm on Friday. About 1.54 am, four of them reportedly lost consciousness one by one. They were rushed to the hospital, a Thai newspaper reported."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/florentino-perez-real-madrid-announcement-early-elections-press-conference-2910784-2026-05-12",
+      "headline": "Florentino Perez alleges campaign against him at Real Madrid, calls elections Florentino Perez called early Real Madrid elections and ruled out resigning during a heated press conference. His attack on media criticism and silence on the manager's future deepened uncertainty around the club."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/andy-murray-joins-jack-draper-coach-djokovic-grass-court-season-2910756-2026-05-12",
+      "headline": "Andy Murray to return to coaching after failed Djokovic stint Andy Murray will join Jack Draper's team for the grass-court season after his split with Novak Djokovic. The move gives Draper experienced support for his return from injury ahead of Queen's and Wimbledon."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/elina-svitolina-ioc-belarus-athletes-ukraine-war-criticism-2910750-2026-05-12",
+      "headline": "Ukraine's Elina Svitolina slams IOC over relaxation stance on Belarus athletes Elina Svitolina slammed the IOC for relaxing restrictions on Belarusian athletes, calling the move \"sad and painful\" while the war in Ukraine continues. The decision could allow Belarus athletes to compete under their national flag again."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-lizlaz-controversy-influencer-offered-money-say-bad-things-ipl-rcb-2910742-2026-05-12",
+      "headline": "Was offered money to target Virat Kohli: German influencer makes explosive claim IPL 2026: Virat Kohli's viral Instagram controversy has taken another twist after German influencer LizLaz claimed she was allegedly offered money to publicly target the RCB star. The influencer said she refused to make false allegations against Kohli despite being approached."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-vs-pakistan-litton-das-trolls-mohammad-rizwan-nahid-rana-dismissal-2910703-2026-05-12",
@@ -344,7 +364,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-srh-live-score-ipl-2026-gujarat-titans-sunrisers-hyderabad-match-2910654-2026-05-12",
-      "headline": "GT vs SRH Live Score: Washington Sundar key as Gujarat look for blazing finish GT (Gujarat) vs SRH (Hyderabad) Live Score, IPL 2026: (SRH 140/4 in 18 ov) SRH keep chipping away wickets at crucial junctures as Sakib Hussain gets Sai Sudharsan. Washington Sundar and Holder on crease now."
+      "headline": "GT vs SRH Highlights: Gujarat hammer Hyderabad by 82 runs to strengthen play-off grip GT (Gujarat) vs SRH (Hyderabad) Highlights, IPL 2026: Gujarat Titans hammered Sunrisers Hyderabad by 82 runs at the Narendra Modi Stadium in Ahmedabad to take a step closer to the playoffs."
     },
     {
       "sentiment": "positive",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-broadcast-india-delhi-high-court-prasar-bharati-doordarshan-2910626-2026-05-12",
-      "headline": "FIFA World Cup 2026 telecast in doubt, Delhi HC seeks Doordarshan response The Delhi High Court has asked the Centre and Prasar Bharati to respond to a plea on broadcasting the FIFA World Cup 2026 in India. The case brings renewed focus on public access as the tournament nears without a confirmed Indian broadcaster."
+      "headline": "FIFA World Cup 2026 telecast in doubt, Delhi HC seeks Doordarshan responseThe Delhi High Court has asked the Centre and Prasar Bharati to respond to a plea on broadcasting the FIFA World Cup 2026 in India. The case brings renewed focus on public access as the tournament nears without a confirmed Indian broadcaster."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-vs-pakistan-test-salman-agha-challenge-mirpur-2910612-2026-05-12",
-      "headline": "The perfect trigger: How Salman Agha fuelled Bangladesh's historic Test win vs Pakistan BAN vs PAK, 1st Test: On Monday, Salman Agha had challenged Bangladesh to set Pakistan a target of 260 in 70 overs. On Tuesday, Pakistan slumped to a 104-run defeat as the Tigers roared to a 1-0 series lead in Mirpur."
+      "headline": "The perfect trigger: How Salman Agha fuelled Bangladesh's historic Test win vs PakistanBAN vs PAK, 1st Test: On Monday, Salman Agha had challenged Bangladesh to set Pakistan a target of 260 in 70 overs. On Tuesday, Pakistan slumped to a 104-run defeat as the Tigers roared to a 1-0 series lead in Mirpur."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/al-nassr-vs-al-hilal-cristiano-ronaldo-karim-benzema-saudi-pro-league-title-2910541-2026-05-12",
-      "headline": "Cristiano Ronaldo's Al Nassr takes on Benzema's Al Hilal for Saudi league title Cristiano Ronaldo's Al Nassr host Karim Benzema's Al Hilal in Riyadh with the Saudi Pro League title on the line. Victory would end Al Nassr's seven-year wait and deliver Ronaldo his first league crown there."
+      "headline": "Cristiano Ronaldo's Al Nassr takes on Benzema's Al Hilal for Saudi league titleCristiano Ronaldo's Al Nassr host Karim Benzema's Al Hilal in Riyadh with the Saudi Pro League title on the line. Victory would end Al Nassr's seven-year wait and deliver Ronaldo his first league crown there."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-first-test-loss-in-bangladesh-shan-masood-crisis-2910528-2026-05-12",
-      "headline": "Pakistan suffer humiliating first-ever Test defeat in Bangladesh Bangladesh created history in Dhaka on Tuesday, beating Pakistan at home for the first time with a 104-run win in the opening Test at the Shere Bangla National Stadium. The victory was also Bangladesh's third straight Test win over Pakistan."
+      "headline": "Pakistan suffer humiliating first-ever Test defeat in BangladeshBangladesh created history in Dhaka on Tuesday, beating Pakistan at home for the first time with a 104-run win in the opening Test at the Shere Bangla National Stadium. The victory was also Bangladesh's third straight Test win over Pakistan."
     },
     {
       "sentiment": "positive",
@@ -450,26 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-srh-ipl-2026-gujarat-titans-sunrisers-hyderabad-playoff-race-ahmedabad-2910285-2026-05-12",
       "headline": "IPL, GT vs SRH: Gujarat Titans host SRH as playoff race enters decisive phaseIPL, GT vs SRH: Third-placed Gujarat Titans host second-placed Sunrisers Hyderabad in a high-stakes IPL 2026 clash in Ahmedabad on Tuesday, with the playoff race heating up and the battle for a top-two finish gathering pace."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/punjab-kings-ipl-playoff-scenario-explained-pbks-vs-dc-2910233-2026-05-12",
-      "headline": "IPL playoff scenario: Punjab Kings enter danger zone, Delhi Capitals cling onDC vs PBKS: The race for the playoffs is heating up with every passing match. On Monday, Delhi Capitals somehow kept their qualification hopes alive with a thrilling three-wicket win over Shreyas Iyer's Punjab Kings in Dharamsala."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-wrestling-federation-of-india-row-explained-2910242-2026-05-12",
-      "headline": "No mat, no mercy: Vinesh Phogat vs wrestling federation latest episode explainedThe dispute between Vinesh Phogat and the Wrestling Federation of India has evolved into a major governance battle. As both sides continue to defend their positions, the standoff has raised larger questions about how international clearances and domestic federation regulations intersect in Indian sport."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pbks-vs-dc-ipl-2026-punjab-kings-bowling-woes-dharamshala-play-of-the-day-2910230-2026-05-12",
-      "headline": "PBKS bowling sways in Dharamshala's winds, hurts playoff hopesPBKS vs DC: Punjab Kings' bowling collapse, marked by poor execution, costly extras and missed chances, allowed Delhi Capitals to recover from 33/3 and pull off a record chase in Dharamshala."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-pbks-vs-dc-math-report-axar-patel-david-miller-record-chase-dharamshala-2910198-2026-05-12",
-      "headline": "Axar Patel, David Miller redemption party keeps DC afloat in Dharamshala thrillerIPL 2026: Axar Patel and David Miller finally delivered when Delhi Capitals needed them the most. Their fearless counterattack helped DC pull off a record chase in Dharamshala and keep their fading IPL 2026 playoff hopes alive."
     }
   ],
   "education": [
