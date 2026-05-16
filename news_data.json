@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/esi-act-compliance-gaps-left-workers-without-benefits-despite-contributions-2912765-2026-05-16",
+      "headline": "Selective compliance, systemic exclusion: How workers are left outIn the seventh part of this series on labour laws and Inspector Raj, a factory inspection from 1988 reveals how workers, though recorded for contributions, remained excluded from statutory benefits through selective and incomplete compliance."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/delhi-atf-vat-cut-airlines-fuel-costs-global-price-surge-2912745-2026-05-16",
+      "headline": "After Maharashtra, Delhi plans to cut VAT on aviation fuelThe Delhi government is likely to cut VAT on aviation turbine fuel after talks reached an advanced stage. The move aims at easing the cost pressures of airlines and help limit fare increases amid rising global fuel prices."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/no-claim-bonus-motor-insurance-how-ncb-works-why-drivers-lose-it-explained-2912668-2026-05-16",
       "headline": "No Claim Bonus: The motor insurance reward many drivers lose unknowinglyHidden inside every motor insurance policy is something called No Claim Bonus, or NCB, a reward insurers give customers for not making claims. Over time, it can reduce premiums significantly. Yet despite being one of the most valuable benefits in motor insurance, it is also one of the least understood."
     },
@@ -83,25 +93,30 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/petrol-diesel-prices-increased-by-rs-3-delhi-rates-near-rs-100-mark-news-agency-pti-2912008-2026-05-15",
-      "headline": "Petrol, diesel prices hiked by Rs 3 nationwide; CNG also up in Delhi by Rs 2  Live UpdatesIndia had so far avoided a major increase in retail fuel prices despite surging global crude oil prices as a result of the West Asian conflict. However, speculation over another round of hikes had been building for days as global crude continued to climb."
+      "headline": "Petrol, diesel prices hiked by Rs 3 nationwide; CNG also up in Delhi by Rs 2 Live UpdatesIndia had so far avoided a major increase in retail fuel prices despite surging global crude oil prices as a result of the West Asian conflict. However, speculation over another round of hikes had been building for days as global crude continued to climb."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/govt-caps-duty-free-gold-imports-at-100-kg-under-advance-authorisation-scheme-2911933-2026-05-14",
       "headline": "Govt caps duty-free gold imports at 100 kg under Advance Authorisation schemeGold imports in India, the world's second-biggest gold consumer after China, are driven by the jewellery industry demand. Such imports involve a substantial outflow of foreign exchange."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/us-to-drop-charges-against-gautam-adani-in-alleged-265-million-fraud-case-2911903-2026-05-14",
-      "headline": "US moving to end $265 million fraud cases against Gautam Adani: ReportThe US Justice Department is reportedly set to drop criminal fraud and bribery charges against Gautam Adani linked to an alleged $265 million corruption scheme tied to India's largest solar power project, according to a Bloomberg report."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/digital-fraud-india-top-banks-silent-on-safeguards-and-customer-losses-2911668-2026-05-14",
-      "headline": "We asked top banks how they fight digital fraud. None respondedIn the third and final part of the series, Banking Risks in Digital India, IndiaToday.in reached out to major banks to understand how they are preparing for the next generation of digital fraud \u2014 from deepfakes and mule accounts to coercion-driven scams and AI-enabled deception. None of the banks responded."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ravi-mohan-says-he-wont-act-till-divorce-breaks-silence-on-keneeshaa-francis-2912761-2026-05-16",
+      "headline": "Teary-eyed Ravi Mohan says he will take acting break until divorce is finalised Tamil actor Ravi Mohan turned emotional during a press meet in Chennai as he spoke about his divorce battle, cyberbullying allegations and Keneeshaa Francis for the first time."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-congratulates-suriya-after-karuppu-opens-to-overwhelming-response-2912752-2026-05-16",
+      "headline": "Vijay Deverakonda congratulates Suriya after Karuppu opens to overwhelming response Vijay Deverakonda reacted to the strong response for Suriya's Karuppu and its Telugu version Veerabhadrudu. Here's what the actor said as the fantasy thriller gains momentum at the box office."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/berlin-and-the-lady-with-an-ermine-review-pedro-alonso-returns-with-flair-2912743-2026-05-16",
+      "headline": "Berlin and the Lady with an Ermine review: Pedro Alonso returns with flairRelease Date:Fri May 15, 2026 Returning to the Money Heist universe, Netflix's Berlin and the Lady with an Ermine delivers a lighter, more playful caper that relies heavily on Pedro Alonso's undeniable charm and flair."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/ranveer-singhs-dhurandhar-2-trends-at-no-1-in-pakistan-after-netflix-release-2912699-2026-05-16",
@@ -176,26 +191,11 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/matt-reeves-confirms-scarlett-johansson-sebastian-stan-in-the-batman-part-ii-2912273-2026-05-15",
       "headline": "Matt Reeves confirms Scarlett Johansson, Sebastian Stan in The Batman: Part II Matt Reeves has unveiled a new cast for The Batman Part II. Along with Robert Pattinson in the title role, the film will star Scarlett Johansson, Sebastian Stan and Charles Dance. The new adventure set in Gotham City promises to be colder, as it tells a story of corruption and family scars."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/how-cannes-film-festival-became-india-favourite-fashion-runway-2911699-2026-05-15",
-      "headline": "Fashion first, cinema later: How Cannes became India's favourite runway From couture chaos to celebrity frenzy, Cannes 2026 has reignited an old debate in India. Is the world's most prestigious film festival still about cinema, or has the red carpet stolen the spotlight completely?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/jiostar-vs-zee-alleged-unauthorised-bollywood-film-broadcast-rights-dispute-2912278-2026-05-15",
-      "headline": "JioStar takes legal action against Zee over unauthorised telecast of Bollywood films In a 120-page plea, JioStar alleged that Zee Entertainment Enterprises broadcast 12 distinct films nearly 20 times, including several blockbusters starring Shah Rukh Khan and Aamir Khan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/zakir-khan-meets-openai-ceo-sam-altman-the-crossover-leaves-internet-amused-2912270-2026-05-15",
-      "headline": "Zakir Khan meets OpenAI CEO Sam Altman, calls it 'desi pull in Silicon Valley' Zakir Khan met OpenAI chief Sam Altman at his San Francisco home and shared photos from the visit. The unexpected crossover quickly drew online attention, even as Khan remains away from regular touring."
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/neet-ug-paper-leak-case-cbi-arrests-mastermind-pune-biology-teacher-2912744-2026-05-16",
       "headline": "CBI arrests 'mastermind' Pune biology teacher in NEET-UG paper leak caseThe arrest was made on the basis of questioning of alleged kingpin PV Kulkarni, a retired Chemistry professor, and other accused in the paper leak case, officials said."
     },
@@ -206,13 +206,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-wants-to-host-olympics-become-global-manufacturing-hub-green-energy-hub-worlds-growth-engine-2912719-2026-05-16",
-      "headline": "Host Olympics, become world's growth engine: PM Modi's 4 ambitions for IndiaPM Modi said that India wants to host the Olympics, become a global manufacturing and green energy hub, and drive the world's economic growth. During his visit to the Netherlands, Modi is scheduled to hold talks with Dutch Prime Minister Rob Jetten and meet King Willem-Alexander and Queen Maxima."
+      "url": "https://www.indiatoday.in/india/story/tamil-nadu-govt-allocates-portfolios-cm-vijay-keeps-home-ministry-sengottaiyan-gets-finance-2912760-2026-05-16",
+      "headline": "Tamil Nadu govt allocates portfolios: CM Vijay keeps Home, Sengottaiyan gets FinanceThe Tamil Nadu government on Saturday allocated portfolios in Chief Minister C Joseph Vijay's Cabinet, with Vijay retaining key departments including Home, Police and Women and Child Welfare, while senior leader KA Sengottaiyan got Finance and youngest minister Selvi S Keerthana was given the Industries portfolio."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-china-visit-us-delegation-dumps-chinese-gifts-phones-2912676-2026-05-16",
-      "headline": "Why Trump team dumped Chinese gifts, badges before leaving BeijingThe US delegation discarded every item handed out by Chinese officials before boarding Air Force One in Beijing. The directive was absolute - no item of Chinese origin was permitted in the aircraft."
+      "url": "https://www.indiatoday.in/india/story/india-wants-to-host-olympics-become-global-manufacturing-hub-green-energy-hub-worlds-growth-engine-2912719-2026-05-16",
+      "headline": "Host Olympics, become world's growth engine: PM Modi's 4 ambitions for IndiaPM Modi said that India wants to host the Olympics, become a global manufacturing and green energy hub, and drive the world's economic growth. During his visit to the Netherlands, Modi is scheduled to hold talks with Dutch Prime Minister Rob Jetten and meet King Willem-Alexander and Queen Maxima."
     },
     {
       "sentiment": "positive",
@@ -221,18 +221,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/army-chief-pakistan-geography-warning-terrorists-operation-sindoor-2912733-2026-05-16",
-      "headline": "Army chief's 'geography or history' warning to Pakistan over terrorismArmy Chief General Upendra Dwivedi warned Pakistan against sheltering terrorists and targeting India. His remarks signalled a hard line if any fresh provocation comes after last year's Operation Sindoor."
+      "url": "https://www.indiatoday.in/education-today/news/story/neet-2026-leak-case-cbi-arrests-second-mastermind-manisha-mandhar-over-biology-paper-leak-2912756-2026-05-16",
+      "headline": "Who is Manisha Mandhare, second 'mastermind' arrested by CBI in NEET 2026 leak case?The CBI has arrested the second mastermind, Pune-based botany teacher Manisha Gurunath Mandhare in the NEET UG 2026 paper leak case. Investigators allege her access as an NTA expert helped leak Biology questions before the exam."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-israel-strikes-strait-of-hormuz-donald-trump-china-operation-epic-fury-2912652-2026-05-16",
-      "headline": "Operation Epic Fury 2.0 soon? US planning big strikes on Iran after China visitHowever, Donald Trump faces a difficult political calculation ahead of the mid-term polls in November. The war is increasingly unpopular, and its financial cost is being felt by ordinary Americans. Allies have been pressing Trump to reach a compromise that would prompt Iran to reopen the Strait of Hormuz and allow him to declare victory."
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-classes-9-10-language-policy-two-indian-languages-compulsory-from-july-1-2912770-2026-05-16",
+      "headline": "CBSE makes 3 languages compulsory in Classes 9 and 10, big change from July 1CBSE has made three languages compulsory for Classes 9 and 10 from July 1, 2026, under a new NEP-aligned policy. Students must study at least two Indian languages. The board has also introduced a transition plan, textbook support, and flexible teaching arrangements for schools implementing the change."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/lucknow/story/lucknow-university-paramjeet-singh-held-viral-audio-paper-leak-allegation-2912579-2026-05-16",
-      "headline": "Darling, leaked papers for you: Professor sends obscene texts to student, arrestedThe student reportedly suffered severe mental distress and informed the Lucknow University administration about the matter, following which Lucknow University lodged a formal complaint with the police."
+      "url": "https://www.indiatoday.in/world/story/trump-china-visit-us-delegation-dumps-chinese-gifts-phones-2912676-2026-05-16",
+      "headline": "Why Trump team dumped Chinese gifts, badges before leaving BeijingThe US delegation discarded every item handed out by Chinese officials before boarding Air Force One in Beijing. The directive was absolute - no item of Chinese origin was permitted in the aircraft."
     },
     {
       "sentiment": "positive",
@@ -246,13 +246,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/maldives-cave-diving-accident-five-italian-divers-dead-vaavu-atoll-2912612-2026-05-16",
-      "headline": "5 scuba divers went 164 feet deep into a Maldives cave and never resurfacedThe five divers began their expedition to explore underwater caves in the Vaavu Atoll, located at a depth of 50 metres, but never resurfaced. The cause of their deaths is under investigation. Recovery operations are expected to resume on Saturday."
+      "url": "https://www.indiatoday.in/india/story/army-chief-pakistan-geography-warning-terrorists-operation-sindoor-2912733-2026-05-16",
+      "headline": "Choose geography or history: Army chief's stern warning to PakistanArmy Chief General Upendra Dwivedi warned Pakistan against sheltering terrorists and targeting India. His remarks signalled a hard line if any fresh provocation comes after last year's Operation Sindoor."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prime-minister-narendra-modi-bengal-jhalmuri-quip-the-hague-address-indian-community-the-netherlands-visit-five-nation-tour-2912732-2026-05-16",
-      "headline": "Has jhalmuri reached here too: PM Modi's Bengal election quip in NetherlandsWhile the PM praised voter participation in recent Assembly polls, cheering supporters interrupted him, prompting a smiling quip: \"Jhalmuri yahan bhi pahoch gayi?\", drawing laughter at the event in The Hague."
+      "url": "https://www.indiatoday.in/world/story/us-iran-israel-strikes-strait-of-hormuz-donald-trump-china-operation-epic-fury-2912652-2026-05-16",
+      "headline": "Operation Epic Fury 2.0 soon? US planning big strikes on Iran after China visitHowever, Donald Trump faces a difficult political calculation ahead of the mid-term polls in November. The war is increasingly unpopular, and its financial cost is being felt by ordinary Americans. Allies have been pressing Trump to reach a compromise that would prompt Iran to reopen the Strait of Hormuz and allow him to declare victory."
     },
     {
       "sentiment": "positive",
@@ -261,18 +261,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/great-nicobar-project-transshipment-port-row-india-malacca-strategy-2912538-2026-05-16",
-      "headline": "The dual-use Great Nicobar Island ProjectIndia's most significant port project is a geopolitical project of enormous ramifications."
+      "url": "https://www.indiatoday.in/india/south/story/aiadmk-rift-eps-cv-shanmugam-factions-clash-villupuram-cuddalore-offices-2912750-2026-05-16",
+      "headline": "AIADMK faction war intensifies as EPS, Shanmugam camps clash over party officesAIADMK factions loyal to EPS and CV Shanmugam clashed outside party offices in Villupuram and Cuddalore on Saturday. The confrontations, police intervention and forced entry underscored the party's intensifying internal power struggle."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-forces-eliminate-isis-second-in-command-abu-bilal-al-minuki-in-nigeria-op-says-trump-2912617-2026-05-16",
-      "headline": "Will no longer terrorise us: Trump says Islamic State's No. 2 killed in daring opWith the death of Abu-Bilal al-Minuki, the second-in-command of the Islamic State, the global operations of the terror outfit are now greatly diminished, US President Donald Trump said."
+      "url": "https://www.indiatoday.in/cities/lucknow/story/lucknow-university-paramjeet-singh-held-viral-audio-paper-leak-allegation-2912579-2026-05-16",
+      "headline": "Darling, leaked papers for you: Professor sends obscene texts to student, arrestedThe student reportedly suffered severe mental distress and informed the Lucknow University administration about the matter, following which Lucknow University lodged a formal complaint with the police."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-board-meeting-ahmedabad-mohsin-naqvi-india-visit-ipl-final-2912700-2026-05-16",
-      "headline": "ICC meeting in Ahmedabad during IPL final. Will Pak chief Mohsin Naqvi attend?Following the relocation of the ICC meetings to Ahmedabad, PCB Chairman Mohsin Naqvi's travel to India remains highly uncertain despite reports claiming he has been invited to the IPL 2026 final."
+      "url": "https://www.indiatoday.in/world/story/maldives-cave-diving-accident-five-italian-divers-dead-vaavu-atoll-2912612-2026-05-16",
+      "headline": "5 scuba divers went 164 feet deep into a Maldives cave and never resurfacedThe five divers began their expedition to explore underwater caves in the Vaavu Atoll, located at a depth of 50 metres, but never resurfaced. The cause of their deaths is under investigation. Recovery operations are expected to resume on Saturday."
     },
     {
       "sentiment": "positive",
@@ -286,13 +286,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/airbus-c295-aircraft-india-tata-vadodara-rollout-hal-monopoly-strategic-aircraft-iaf-2911632-2026-05-16",
-      "headline": "Made-in-India C295 aircraft to fly out soon; used by US to rescue pilots from IranThe first India-made C295 is expected to be rolled out from Tata's Vadodara facility soon. The production of the aircraft marks a major shift in India's defence manufacturing ecosystem, breaking HAL's decades-long monopoly and signalling the rise of private-sector military aircraft production."
+      "url": "https://www.indiatoday.in/india/story/prime-minister-narendra-modi-bengal-jhalmuri-quip-the-hague-address-indian-community-the-netherlands-visit-five-nation-tour-2912732-2026-05-16",
+      "headline": "Has jhalmuri reached here too: PM Modi's Bengal election quip in NetherlandsWhile the PM praised voter participation in recent Assembly polls, cheering supporters interrupted him, prompting a smiling quip: \"Jhalmuri yahan bhi pahoch gayi?\", drawing laughter at the event in The Hague."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tvk-victory-vijay-viral-reels-father-son-political-divide-tamil-nadu-2912692-2026-05-16",
-      "headline": "The viral father-son duo reflecting Tamil Nadu's political shiftKartik belongs to the generation that has rallied behind actor-turned-politician Vijay and his party, Tamilaga Vettri Kazhagam (TVK). His father, meanwhile, remains deeply loyal to the Dravida Munnetra Kazhagam (DMK) and the Dravidian movement."
+      "url": "https://www.indiatoday.in/india/story/great-nicobar-project-transshipment-port-row-india-malacca-strategy-2912538-2026-05-16",
+      "headline": "The dual-use Great Nicobar Island ProjectIndia's most significant port project is a geopolitical project of enormous ramifications."
     },
     {
       "sentiment": "positive",
@@ -301,13 +301,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/nebraska-iowa-storm-lightning-2026-squall-line-shelf-cloud-supercell-2912726-2026-05-16",
-      "headline": "Watch: Unending lighting streak seen in the US. What was behind it?On the night of May 15, 2026, a massive storm system produced near-continuous lightning across Nebraska and Iowa, sending the internet into shock. Scientists explain the extraordinary physics behind one of the most electrically charged nights the Central Plains has seen."
+      "url": "https://www.indiatoday.in/world/story/us-forces-eliminate-isis-second-in-command-abu-bilal-al-minuki-in-nigeria-op-says-trump-2912617-2026-05-16",
+      "headline": "Will no longer terrorise us: Trump says Islamic State's No. 2 killed in daring opWith the death of Abu-Bilal al-Minuki, the second-in-command of the Islamic State, the global operations of the terror outfit are now greatly diminished, US President Donald Trump said."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/books/story/intergalactic-feast-book-explores-food-identity-and-power-in-indian-sci-fi-2911864-2026-05-16",
-      "headline": "This Indian sci-fi turns food into power, memory and intergalactic identityAn Indian sci-fi series is turning food into a language of power, identity, and belonging across galaxies. In this immersive conversation, Lavanya Lakshminarayan reveals how Intergalactic Feast expands her bold universe, where memory, migration, and taste collide in ways readers may have never experienced before."
+      "url": "https://www.indiatoday.in/sports/cricket/story/icc-board-meeting-ahmedabad-mohsin-naqvi-india-visit-ipl-final-2912700-2026-05-16",
+      "headline": "ICC meeting in Ahmedabad during IPL final. Will Pak chief Mohsin Naqvi attend?Following the relocation of the ICC meetings to Ahmedabad, PCB Chairman Mohsin Naqvi's travel to India remains highly uncertain despite reports claiming he has been invited to the IPL 2026 final."
     },
     {
       "sentiment": "positive",
@@ -316,6 +316,11 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/indian-womens-hockey-sjoerd-marijne-chak-de-salima-tete-2912754-2026-05-16",
+      "headline": "Chasing next Chak De moment: Marijne eyes big changes in Indian women's hockey Sjoerd Marijne has returned to rebuild India's women's hockey side ahead of a defining run of tournaments. He believes a younger squad, bigger support staff and tougher habits can revive belief that another Chak De moment is possible for the women's team."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rahul-dravid-gautam-gambhir-superstar-culture-virat-kohli-rohit-sharma-2912730-2026-05-16",
@@ -369,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/fatima-sana-fastest-womens-t20i-fifty-breaks-richa-ghosh-record-vs-zimbabwe-2912618-2026-05-16",
-      "headline": "Pakistan's Fatima Sana scores fastest Women's T20I fifty, smashes Richa's record Fatima Sana smashed a 15-ball fifty as Pakistan piled up 223 for 4 against Zimbabwe in Karachi. The innings broke the Women's T20I record previously held by Richa Ghosh, Sophie Devine and Phoebe Litchfield."
+      "headline": "Pakistan's Fatima Sana scores fastest Women's T20I fifty, smashes Richa's recordFatima Sana smashed a 15-ball fifty as Pakistan piled up 223 for 4 against Zimbabwe in Karachi. The innings broke the Women's T20I record previously held by Richa Ghosh, Sophie Devine and Phoebe Litchfield."
     },
     {
       "sentiment": "positive",
@@ -455,11 +460,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/arshdeep-singh-snapchat-rant-fan-backlash-punjab-kings-ipl-controversy-2912247-2026-05-15",
       "headline": "What've you done for Punjab? Arshdeep lands in hot water again after Snapchat rantPunjab Kings pacer Arshdeep Singh came under fresh scrutiny after a Snapchat reply to a fan went viral amid an ongoing controversy surrounding his remarks in IPL-related videos."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-kuldip-yadav-richard-gleeson-named-injury-replacements-khaleel-ahmed-nuwan-thushara-2912243-2026-05-15",
-      "headline": "CSK, RCB sign replacements for Khaleel Ahmed and Nuwan ThusharaCSK signed domestic pacer Kuldip Yadav for Rs 30 lakh after Khaleel Ahmed suffered a quadriceps tear. Meanwhile, RCB signed Richard Gleeson for Rs 1.6 crore following Nuwan Thushara's withdrawal."
     }
   ],
   "education": [
