@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/ranveer-singhs-dhurandhar-2-trends-at-no-1-in-pakistan-after-netflix-release-2912699-2026-05-16",
+      "headline": "Ranveer Singh's Dhurandhar 2 trends at No 1 in Pakistan after Netflix release A content creator has claimed Ranveer Singh's Dhurandhar: The Revenge reached number one on Netflix in Pakistan after its international release on May 14."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-rajinikanth-mgr-shah-rukh-khan-rajesh-khann-india-dangerous-love-affair-with-celebrity-worship-2912674-2026-05-16",
       "headline": "Vijay, Rajinikanth, MGR: India's dangerous love affair with celebrity worship Why does India turn its film stars into gods? From women writing letters in blood for Rajesh Khanna to temples built for Rajinikanth and Vijay, this is the story of how celebrity worship in India blurred the line between fandom, faith and political power."
     },
@@ -186,23 +191,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/zakir-khan-meets-openai-ceo-sam-altman-the-crossover-leaves-internet-amused-2912270-2026-05-15",
       "headline": "Zakir Khan meets OpenAI CEO Sam Altman, calls it 'desi pull in Silicon Valley' Zakir Khan met OpenAI chief Sam Altman at his San Francisco home and shared photos from the visit. The unexpected crossover quickly drew online attention, even as Khan remains away from regular touring."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/karuppu-review-suriya-rj-balaji-nostalgic-amman-films-2912258-2026-05-15",
-      "headline": "Karuppu review: A nostalgic but uneven ride with Suriya at his bestRelease Date:Fri May 15, 2026 Karuppu movie review: Director RJ Balaji's Karuppu, starring Suriya, Trisha and himself, is a fantasy courtroom drama that exposes how corruption is deeply ingrained in the system. While the film taps into a familiar idea, it doesn't capitalise and use it to its full potential."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/india-wants-to-host-olympics-become-global-manufacturing-hub-green-energy-hub-worlds-growth-engine-2912719-2026-05-16",
-      "headline": "Host Olympics, become world's growth engine: PM Modi's 4 aspirations for IndiaIndia wants to host Olympics, become global manufacturing hub, green energy hub, world's growth engine"
+      "url": "https://www.indiatoday.in/india/story/neet-ug-paper-leak-case-cbi-arrests-mastermind-pune-biology-teacher-2912744-2026-05-16",
+      "headline": "CBI arrests 'mastermind' Pune biology teacher in NEET-UG paper leak caseThe arrest was made on the basis of questioning of alleged kingpin PV Kulkarni, a retired Chemistry professor, and other accused in the paper leak case, officials said."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-five-nation-tour-live-updates-netherlands-rob-jetten-sweden-ulf-kristersson-italy-norway-defence-semiconductors-2912577-2026-05-16",
-      "headline": "Live: Passport, time zone, address can change but not love for country, says PMPM Modi Five-Nation Tour Live Updates: After arriving in the Netherlands on Friday, Prime Minister Narendra Modi is set to meet Dutch PM Rob Jetten, King Willem-Alexander, and Queen Maxima on Saturday. Key discussions with the Dutch leaders are expected to focus on technology, semiconductors, defence, renewable energy, and trade. In addition, the PM will also interact with members of the Indian community and key Dutch business executives. To catch all the live updates, follow Indiatoday.in"
+      "url": "https://www.indiatoday.in/india/law-news/story/totally-baseless-did-not-criticise-youth-cji-issues-clarification-over-jobless-cockroaches-remark-2912742-2026-05-16",
+      "headline": "Totally baseless, did not criticise youth: CJI on 'jobless cockroaches' remarkChief Justice of India Surya Kant clarified that his \"cockroaches\" remark was wrongly projected as criticism of the youth, saying he had actually targeted people using fake degrees to enter professions like law and media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-wants-to-host-olympics-become-global-manufacturing-hub-green-energy-hub-worlds-growth-engine-2912719-2026-05-16",
+      "headline": "Host Olympics, become world's growth engine: PM Modi's 4 ambitions for IndiaPM Modi said that India wants to host the Olympics, become a global manufacturing and green energy hub, and drive the world's economic growth. During his visit to the Netherlands, Modi is scheduled to hold talks with Dutch Prime Minister Rob Jetten and meet King Willem-Alexander and Queen Maxima."
     },
     {
       "sentiment": "positive",
@@ -211,13 +216,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-israel-strikes-strait-of-hormuz-donald-trump-china-operation-epic-fury-2912652-2026-05-16",
-      "headline": "Operation Epic Fury 2.0 soon? US planning big strikes on Iran after China visitHowever, Donald Trump faces a difficult political calculation ahead of the mid-term polls in November. The war is increasingly unpopular, and its financial cost is being felt by ordinary Americans. Allies have been pressing Trump to reach a compromise that would prompt Iran to reopen the Strait of Hormuz and allow him to declare victory."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/neet-scam-middle-class-india-doctor-dream-exam-leaks-2912436-2026-05-16",
+      "headline": "The real NEET crisis? Parents who believe any price is worth an MBBS seatHandcrafted ByOur Editors The NEET scandal has exposed more than just leaked papers and broken exam systems. It has revealed the terrifying desperation inside India's middle-class homes, where becoming a doctor is no longer a dream, but a family survival project."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/neet-scam-middle-class-india-doctor-dream-exam-leaks-2912436-2026-05-16",
-      "headline": "The real NEET crisis? Parents who believe any price is worth an MBBS seatHandcrafted ByOur Editors The NEET scandal has exposed more than just leaked papers and broken exam systems. It has revealed the terrifying desperation inside India's middle-class homes, where becoming a doctor is no longer a dream, but a family survival project."
+      "url": "https://www.indiatoday.in/india/story/army-chief-pakistan-geography-warning-terrorists-operation-sindoor-2912733-2026-05-16",
+      "headline": "Army chief's 'geography or history' warning to Pakistan over terrorismArmy Chief General Upendra Dwivedi warned Pakistan against sheltering terrorists and targeting India. His remarks signalled a hard line if any fresh provocation comes after last year's Operation Sindoor."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-israel-strikes-strait-of-hormuz-donald-trump-china-operation-epic-fury-2912652-2026-05-16",
+      "headline": "Operation Epic Fury 2.0 soon? US planning big strikes on Iran after China visitHowever, Donald Trump faces a difficult political calculation ahead of the mid-term polls in November. The war is increasingly unpopular, and its financial cost is being felt by ordinary Americans. Allies have been pressing Trump to reach a compromise that would prompt Iran to reopen the Strait of Hormuz and allow him to declare victory."
     },
     {
       "sentiment": "positive",
@@ -226,8 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/maldives-cave-diving-accident-five-italian-divers-dead-vaavu-atoll-2912612-2026-05-16",
-      "headline": "5 scuba divers went 164 feet deep into a Maldives cave and never resurfacedThe five divers began their expedition to explore underwater caves in the Vaavu Atoll, located at a depth of 50 metres, but never resurfaced. The cause of their deaths is under investigation. Recovery operations are expected to resume on Saturday."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-rajinikanth-mgr-shah-rukh-khan-rajesh-khann-india-dangerous-love-affair-with-celebrity-worship-2912674-2026-05-16",
+      "headline": "Vijay, Rajinikanth, MGR: India's dangerous love affair with celebrity worshipWhy does India turn its film stars into gods? From women writing letters in blood for Rajesh Khanna to temples built for Rajinikanth and Vijay, this is the story of how celebrity worship in India blurred the line between fandom, faith and political power."
     },
     {
       "sentiment": "positive",
@@ -236,8 +246,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-rajinikanth-mgr-shah-rukh-khan-rajesh-khann-india-dangerous-love-affair-with-celebrity-worship-2912674-2026-05-16",
-      "headline": "Vijay, Rajinikanth, MGR: India's dangerous love affair with celebrity worshipWhy does India turn its film stars into gods? From women writing letters in blood for Rajesh Khanna to temples built for Rajinikanth and Vijay, this is the story of how celebrity worship in India blurred the line between fandom, faith and political power."
+      "url": "https://www.indiatoday.in/world/story/maldives-cave-diving-accident-five-italian-divers-dead-vaavu-atoll-2912612-2026-05-16",
+      "headline": "5 scuba divers went 164 feet deep into a Maldives cave and never resurfacedThe five divers began their expedition to explore underwater caves in the Vaavu Atoll, located at a depth of 50 metres, but never resurfaced. The cause of their deaths is under investigation. Recovery operations are expected to resume on Saturday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/prime-minister-narendra-modi-bengal-jhalmuri-quip-the-hague-address-indian-community-the-netherlands-visit-five-nation-tour-2912732-2026-05-16",
+      "headline": "Has jhalmuri reached here too: PM Modi's Bengal election quip in NetherlandsWhile the PM praised voter participation in recent Assembly polls, cheering supporters interrupted him, prompting a smiling quip: \"Jhalmuri yahan bhi pahoch gayi?\", drawing laughter at the event in The Hague."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/trisha-krishnan-blushes-as-fan-asks-about-cm-vijay-at-karuppu-screening-video-2912654-2026-05-16",
+      "headline": "Trisha Krishnan blushes as fan asks about CM Vijay at Karuppu screening. VideoAt the Karuppu screening, actor Trisha Krishnan was left blushing as a fan asked her about Tamil Nadu Chief Minister Vijay."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/great-nicobar-project-transshipment-port-row-india-malacca-strategy-2912538-2026-05-16",
+      "headline": "The dual-use Great Nicobar Island ProjectIndia's most significant port project is a geopolitical project of enormous ramifications."
     },
     {
       "sentiment": "positive",
@@ -251,33 +276,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/airbus-c295-aircraft-india-tata-vadodara-rollout-hal-monopoly-strategic-aircraft-iaf-2911632-2026-05-16",
-      "headline": "Made-in-India C295 aircraft to fly out soon; used by US to rescue pilots from IranThe first India-made C295 is expected to be rolled out from Tata's Vadodara facility soon. The production of the aircraft marks a major shift in India's defence manufacturing ecosystem, breaking HAL's decades-long monopoly and signalling the rise of private-sector military aircraft production."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/trisha-krishnan-blushes-as-fan-asks-about-cm-vijay-at-karuppu-screening-video-2912654-2026-05-16",
-      "headline": "Trisha Krishnan blushes as fan asks about CM Vijay at Karuppu screening. VideoAt the Karuppu screening, actor Trisha Krishnan was left blushing as a fan asked her about Tamil Nadu Chief Minister Vijay."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/thailand-open-satwik-chirag-enter-final-bangkok-goh-sze-fei-nur-izzudin-2912685-2026-05-16",
-      "headline": "Thailand Open: Satwik-Chirag complete comeback win to enter 1st final of seasonThailand Open: Satwiksairaj Rankireddy and Chirag Shetty completed a sensational comeback win over Malaysia's Goh Sze Fei and Nur Izzudin to make it to their first final of the season. The Indian star duo won a three-game thriller to make it to the summit clash of the Thailand Open on Sunday, May 16"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/great-nicobar-project-transshipment-port-row-india-malacca-strategy-2912538-2026-05-16",
-      "headline": "The dual-use Great Nicobar Island ProjectIndia's most significant port project is a geopolitical project of enormous ramifications."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/books/story/intergalactic-feast-book-explores-food-identity-and-power-in-indian-sci-fi-2911864-2026-05-16",
-      "headline": "This Indian sci-fi turns food into power, memory and intergalactic identityAn Indian sci-fi series is turning food into a language of power, identity, and belonging across galaxies. In this immersive conversation, Lavanya Lakshminarayan reveals how Intergalactic Feast expands her bold universe, where memory, migration, and taste collide in ways readers may have never experienced before."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/cost-of-living-abroad-vs-india-delivery-apps-swiggy-blinkit-urban-company-2912675-2026-05-16",
-      "headline": "You don't appreciate India until you can't get onions in 10 minutesHandcrafted ByOur Editors While India may be falling short on several fronts, one thing it gets undeniably right is convenience. From instant house help to late-night food delivery, the ease and affordability of these services are hard to match abroad where they exist, but come at a steep price."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/ranveer-singhs-dhurandhar-2-trends-at-no-1-in-pakistan-after-netflix-release-2912699-2026-05-16",
+      "headline": "Ranveer Singh's Dhurandhar 2 trends at No 1 in Pakistan after Netflix releaseA content creator has claimed Ranveer Singh's Dhurandhar: The Revenge reached number one on Netflix in Pakistan after its international release on May 14."
     },
     {
       "sentiment": "positive",
@@ -286,28 +286,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-politics-congress-mp-karti-chidambaram-advice-vijay-tvk-government-not-include-aiadmk-cv-shanmugam-e-palaniswami-2912644-2026-05-16",
-      "headline": "Don't include AIADMK in govt, it will hurt Vijay's image: Karti Chidambaram to TVKThe Congress Sivaganga MP opposed including AIADMK in Vijay's government, despite rebel MLAs backing the trust vote, saying the current alliance already ensures stability."
+      "url": "https://www.indiatoday.in/india/story/airbus-c295-aircraft-india-tata-vadodara-rollout-hal-monopoly-strategic-aircraft-iaf-2911632-2026-05-16",
+      "headline": "Made-in-India C295 aircraft to fly out soon; used by US to rescue pilots from IranThe first India-made C295 is expected to be rolled out from Tata's Vadodara facility soon. The production of the aircraft marks a major shift in India's defence manufacturing ecosystem, breaking HAL's decades-long monopoly and signalling the rise of private-sector military aircraft production."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/netherlands-returns-chola-era-copper-plates-to-india-amid-pm-modis-visit-2912662-2026-05-16",
-      "headline": "Netherlands returns Chola-era copper plates to India amid PM's visitThe Netherlands has returned the 11th-century Anaimangalam Copper Plates to India after years of diplomatic engagement. The repatriation restores a major Chola-era record and underscores a wider reckoning with colonial-era collections."
+      "url": "https://www.indiatoday.in/elections/assembly/story/tvk-victory-vijay-viral-reels-father-son-political-divide-tamil-nadu-2912692-2026-05-16",
+      "headline": "The viral father-son duo reflecting Tamil Nadu's political shiftKartik belongs to the generation that has rallied behind actor-turned-politician Vijay and his party, Tamilaga Vettri Kazhagam (TVK). His father, meanwhile, remains deeply loyal to the Dravida Munnetra Kazhagam (DMK) and the Dravidian movement."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/no-claim-bonus-motor-insurance-how-ncb-works-why-drivers-lose-it-explained-2912668-2026-05-16",
-      "headline": "No Claim Bonus: The motor insurance reward many drivers lose unknowinglyHidden inside every motor insurance policy is something called No Claim Bonus, or NCB, a reward insurers give customers for not making claims. Over time, it can reduce premiums significantly. Yet despite being one of the most valuable benefits in motor insurance, it is also one of the least understood."
+      "url": "https://www.indiatoday.in/lifestyle/society/story/cost-of-living-abroad-vs-india-delivery-apps-swiggy-blinkit-urban-company-2912675-2026-05-16",
+      "headline": "You don't appreciate India until you can't get onions in 10 minutesHandcrafted ByOur Editors While India may be falling short on several fronts, one thing it gets undeniably right is convenience. From instant house help to late-night food delivery, the ease and affordability of these services are hard to match abroad where they exist, but come at a steep price."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/amur-falcon-arabian-sea-crossing-india-manipur-satellite-tag-migration-2026-2912691-2026-05-16",
-      "headline": "How tiny Amur falcon Alang is flying 6,000 km non-stop over Arabian SeaA satellite-tagged Amur Falcon named Alang is currently crossing the Arabian Sea non-stop from Somalia to India's west coast. Scientists are tracking her 3,000-kilometre journey in real time as part of a decade-long conservation effort in Manipur."
+      "url": "https://www.indiatoday.in/science/story/nebraska-iowa-storm-lightning-2026-squall-line-shelf-cloud-supercell-2912726-2026-05-16",
+      "headline": "Watch: Unending lighting streak seen in the US. What was behind it?On the night of May 15, 2026, a massive storm system produced near-continuous lightning across Nebraska and Iowa, sending the internet into shock. Scientists explain the extraordinary physics behind one of the most electrically charged nights the Central Plains has seen."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/petrol-diesel-price-hike-india-inflation-crude-oil-transport-costs-2912634-2026-05-16",
-      "headline": "Inflation finds new fuelHandcrafted ByOur Editors India's latest fuel price hike could trigger a wider inflation ripple across the economy, raising concerns over costlier food, deliveries, transport and growing pressure on household budgets."
+      "url": "https://www.indiatoday.in/books/story/intergalactic-feast-book-explores-food-identity-and-power-in-indian-sci-fi-2911864-2026-05-16",
+      "headline": "This Indian sci-fi turns food into power, memory and intergalactic identityAn Indian sci-fi series is turning food into a language of power, identity, and belonging across galaxies. In this immersive conversation, Lavanya Lakshminarayan reveals how Intergalactic Feast expands her bold universe, where memory, migration, and taste collide in ways readers may have never experienced before."
     },
     {
       "sentiment": "positive",
@@ -316,6 +316,16 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rahul-dravid-gautam-gambhir-superstar-culture-virat-kohli-rohit-sharma-2912730-2026-05-16",
+      "headline": "Rahul Dravid disagrees with Gambhir's anti-superstar stance: We need heroes Rahul Dravid has pushed back against Gautam Gambhir's call to end superstar culture in Indian cricket, arguing that every sport needs heroes."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/football/story/john-beaton-celtic-penalty-row-teen-charged-details-shared-online-2912682-2026-05-16",
+      "headline": "Man charged after Scottish referee put under police watch for Celtic penalty row Police charged a 19-year-old after referee John Beaton's personal details were shared online. The Scottish FA said the case reflects a wider climate of abuse and intimidation around match officials."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/icc-board-meeting-ahmedabad-mohsin-naqvi-india-visit-ipl-final-2912700-2026-05-16",
@@ -364,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-ms-dhoni-comeback-csk-vs-srh-r-ashwin-2912609-2026-05-16",
-      "headline": "MS Dhoni set for CSK return vs SunRisers in Chennai? Ex-teammate drops big hint IPL 2026: Ravichandran Ashwin has hinted that MS Dhoni could return for Chennai Super Kings against SunRisers Hyderabad in Chennai. The Super Kings need to win their last two games to retain their hopes of moving into the playoffs."
+      "headline": "MS Dhoni set for CSK return vs SunRisers in Chennai? Ex-teammate drops big hintIPL 2026: Ravichandran Ashwin has hinted that MS Dhoni could return for Chennai Super Kings against SunRisers Hyderabad in Chennai. The Super Kings need to win their last two games to retain their hopes of moving into the playoffs."
     },
     {
       "sentiment": "positive",
@@ -450,16 +460,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-kuldip-yadav-richard-gleeson-named-injury-replacements-khaleel-ahmed-nuwan-thushara-2912243-2026-05-15",
       "headline": "CSK, RCB sign replacements for Khaleel Ahmed and Nuwan ThusharaCSK signed domestic pacer Kuldip Yadav for Rs 30 lakh after Khaleel Ahmed suffered a quadriceps tear. Meanwhile, RCB signed Richard Gleeson for Rs 1.6 crore following Nuwan Thushara's withdrawal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-pbks-vs-mi-punjab-kings-controversy-brad-haddin-dharamsala-2912239-2026-05-15",
-      "headline": "Are PBKS being affected by the off-field drama? Haddin reacts after MI lossBrad Haddin has dismissed suggestions that the Punjab Kings are being rattled by off-field controversy after their defeat to Mumbai Indians. He said the real issue is Punjab's failure under pressure, with two must-win matches left in the playoff race."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-breaks-silence-2027-world-cup-chatter-india-odi-future-2912228-2026-05-15",
-      "headline": "If I have to prove my worth\u2026: Virat Kohli breaks silence on retirement talksFormer India captain Virat Kohli has addressed the growing chatter around his future and the 2027 ODI World Cup, saying he has no interest in being in an environment where he constantly has to prove his worth despite his commitment and preparation for the game."
     }
   ],
   "education": [
