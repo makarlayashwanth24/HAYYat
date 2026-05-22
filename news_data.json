@@ -2,6 +2,36 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/haryana-is-a-home-away-from-home-for-japanese-firms-cm-nayab-singh-saini-2915539-2026-05-22",
+      "headline": "Haryana is a home away from home for Japanese firms: CM Nayab Singh SainiSpeaking at the third India-Japan Conclave in New Delhi, organised by India Today, Saini said Haryana has become a \"home away from home\" for Japanese companies and stressed that the relationship between the two sides is built not only on investment, but also on trust."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-can-india-bring-back-old-pension-scheme-ops-vs-nps-union-leader-explains-2915403-2026-05-22",
+      "headline": "8th Pay Commission: Why a full return to old pension scheme may be difficult nowAs the 8th Pay Commission widens consultations, employee unions are renewing their push for the Old Pension Scheme. But with Rs 16.5 lakh crore already inside NPS, the debate is shifting towards guaranteed pension safeguards within the existing system."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-232-points-higher-nifty-above-23700-trent-gains-3-2915532-2026-05-22",
+      "headline": "Sensex, Nifty end week higher as banking shares drive gainsThe BSE Sensex ended 231.99 points, or 0.31%, higher at 75,415.35. The Nifty 50 gained 64.60 points, or 0.27%, to close at 23,719.30."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/condom-prices-hike-costly-india-crude-oil-surge-mankind-pharma-2915526-2026-05-22",
+      "headline": "Why your next pack of condoms may cost more amid global oil shockThe company, which sells Manforce condoms and holds around 30% market share in the country, said it may eventually pass on higher costs to customers if the situation in the Middle East worsens."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/japan-india-68-billion-investment-tech-semiconductors-indo-pacific-strategy-2915517-2026-05-22",
+      "headline": "Japan bets big on India with $68 billion investment target, tech pushAt the third India-Japan Conclave organised by the India Today Group, Japan unveiled an updated Indo-Pacific strategy that places India at the heart of its push on technology, investment and regional security."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-rally-why-reasons-bank-stocks-rise-rupee-recovers-crude-oil-eases-markets-up-2915481-2026-05-22",
+      "headline": "Sensex up 500 points: Why is stock market rising today?At 1:45 PM, the BSE Sensex was up 514.96 points, or 0.68%, at 75,698.32. The index touched an intraday high of 75,810.97 and a low of 75,230.75."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/are-indians-financially-ready-for-retirement-or-just-hoping-for-the-best-2915465-2026-05-22",
       "headline": "Is India sleepwalking into a retirement crisis?Many Indians dream of a peaceful retirement, but dreams alone do not pay medical bills or monthly expenses. So, are Indians financially ready for retirement, or just hoping for the best?"
     },
@@ -69,39 +99,59 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/ai-saves-75-of-my-time-vedanta-chairman-anil-agarwal-on-why-indians-should-embrace-it-2915089-2026-05-21",
       "headline": "AI saves 75% of my time: Anil Agarwal on why Indians should not fear new techWhat if one tool could save hours of your working day? According to Vedanta Chairman Anil Agarwal, technology is already doing exactly that. Sharing his own experience, he said it saves 75% of his time and urged Indians, especially youngsters, to embrace it rather than fear it."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/samsung-chip-workers-could-get-bonuses-worth-nearly-400000-amid-ai-boom-report-2914984-2026-05-21",
-      "headline": "Samsung chip workers could get bonuses worth nearly $400,000 amid AI boom: ReportUnder the proposed plan, bonuses will be closely linked to how well each business unit performs. Since Samsung's memory-chip business is currently benefiting from booming demand for AI memory products, employees in that segment stand to gain the most."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-closing-bell-sensex-nifty-close-lower-after-erasing-early-gains-rbi-rate-hike-fears-2914988-2026-05-21",
-      "headline": "Sensex, Nifty erase early gains as RBI rate hike fears weigh on marketsThe BSE Sensex closed 135.03 points lower at 75,183.36, while the NSE Nifty50 slipped 4.30 points to end at 23,789.00."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/why-rupee-fall-could-make-home-loans-and-owning-homes-costlier-rbi-repo-rate-hike-2914976-2026-05-21",
-      "headline": "Why the rupee's fall could make owning a home more expensive for youThe rupee's sharp slide is raising concerns that the RBI may need to raise rates. That could lift home loan EMIs and make buying a house harder for borrowers."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/commodities/story/rupee-vs-asian-currencies-indian-rupee-falling-faster-against-usd-asian-peers-2914959-2026-05-21",
-      "headline": "Rupee's fall sparks concern. But is the whole of Asia under pressure too?The rupee has extended its losing streak as a stronger dollar, costly crude and foreign outflows weigh on it. The sharper slide against several Asian peers has turned the move into a wider inflation and trade concern."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/diesel-price-hike-impact-grocery-prices-logistics-costs-india-truckers-fuel-surcharge-aiwta-2914879-2026-05-21",
-      "headline": "Goods transport costs rise from today, daily essentials may soon get costlierTransporters have introduced a fuel-linked surcharge as diesel prices climb. The move could push up logistics costs for groceries, medicines and online deliveries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-announces-5-billion-swap-auction-amid-rupee-weakness-2914925-2026-05-21",
-      "headline": "RBI announces $5 billion swap auction amid rupee weaknessIn a circular, the RBI said it had decided to conduct a USD 5 billion USD/INR buy-sell swap auction after reviewing current and changing liquidity conditions."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kamal-haasan-shares-4-minute-video-backing-pm-modis-energy-saving-appeal-2915564-2026-05-22",
+      "headline": "Kamal Haasan shares 4-minute video backing PM Modi's energy-saving appeal Actor-politician Kamal Haasan backed Prime Minister Narendra Modi's call to save energy amid rising global tensions. He shared a four-minute video online to emphasise that said the impact of the conflict involving the US, Israel and Iran would be felt in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/arya-babbar-reacts-to-old-rumours-about-raj-babbar-and-rekha-2915585-2026-05-22",
+      "headline": "Arya Babbar reacts to old affair rumours about father Raj Babbar and Rekha Arya Babbar responded with humour when asked about old rumours linking Raj Babbar and Rekha. He said any attraction would be human and cautioned against overreading celebrity gossip."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/rs-450-crore-for-ramayana-makers-aim-for-bollywoods-biggest-theatrical-deal-yet-2915582-2026-05-22",
+      "headline": "Rs 450 crore for Ramayana? Makers aim for Bollywood's biggest theatrical deal yet Nitesh Tiwari's Ramayana is in talks for a record Rs 450 crore Hindi theatrical deal. The negotiations have sharpened industry focus on the film's scale, valuation and wider rights strategy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-secret-wedding-rumours-viral-married-look-role-2915590-2026-05-22",
+      "headline": "Won't marry secretly: Kangana sets record straight on married look in viral video Kangana Ranaut said the viral images of her in a married look were from a shoot. She denied secret wedding rumours and said she would not marry in secret."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/tom-hiddleston-sam-thompson-viral-hug-video-soccer-aid-unicef-gala-2915559-2026-05-22",
+      "headline": "Sam Thompson screams, jumps on Tom Hiddleston in viral fanboy moment. Watch Sam Thompson screamed with excitement and jumped into a bear hug with Tom Hiddleston at a London event. The clip quickly went viral, with fans saying his reaction matched their own."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/dont-expect-fairy-tales-ridhi-dogras-brutal-note-amid-twisha-deepika-deaths-2915527-2026-05-22",
+      "headline": "Don't expect fairy tales: Ridhi Dogra's brutal note amid Twisha, Deepika deaths Ridhi Dogra shared a note on marriage, relationships and feminism as debate around the deaths of Twisha Sharma and Deepika Nagar continued. Her remarks called out outdated expectations, family interference and unequal emotional burdens inside modern marriages."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aishwarya-rai-bachchan-aaradhya-hotel-martinez-cannes-film-festival-2026-snub-buzz-2915531-2026-05-22",
+      "headline": "Aishwarya Rai arrives at Hotel Martinez, the same Cannes hotel behind snub chatter Ending the speculation around her Cannes appearance, Aishwarya Rai Bachchan arrived at Hotel Martinez in Cannes with her daughter Aaradhya. It is the same hotel that was behind her alleged snub by L'Or\u00e9al at the film festival."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/overwhelmed-mohanlal-tears-up-as-fans-erupt-for-georgekutty-at-drishyam-3-screening-2915494-2026-05-22",
+      "headline": "Overwhelmed Mohanlal tears up as fans erupt for Georgekutty at Drishyam 3 screening Mohanlal turned emotional during a screening of Drishyam 3 with fans, and the viral video is now grabbing attention online."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/anusha-dandekar-clarifies-instagram-post-after-karan-kundrra-tejasswi-prakash-proposal-2915483-2026-05-22",
+      "headline": "Anusha Dandekar clarifies cryptic post after Karan-Tejasswi's on-screen proposal Anusha Dandekar said her cryptic Instagram post was unrelated to Karan Kundrra's proposal to Tejasswi Prakash on Desi Bling. The clarification came after online users linked her cryptic post to the couple."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-mandalorian-and-grogu-review-pedro-pascal-returns-but-grogu-remains-the-soul-2915456-2026-05-22",
+      "headline": "The Mandalorian and Grogu review: Pedro Pascal returns, but Grogu remains the soulRelease Date:Fri May 22, 2026 The Mandalorian and Grogu review: Pedro Pascal and Grogu bring heart and emotional depth to a visually rich Star Wars adventure that values companionship over spectacle."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/pooja-bhatt-takes-a-trip-down-memory-lane-with-aamir-khan-teases-untold-story-2915466-2026-05-22",
@@ -146,88 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/drishyam-indonesian-remake-august-20-release-vino-bastian-marsha-timothy-2915330-2026-05-22",
       "headline": "After China and Sri Lanka, Drishyam's Georgekutty will now take over Indonesia As Drishyam 3 opened in cinemas on May 21, its Indonesian remake is set for an August 20 release. The film stars Vino G Bastian and Marsha Timothy as rivals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/kamala-harris-jimmy-kimmel-fans-react-to-stephen-colberts-final-late-show-gig-2915336-2026-05-22",
-      "headline": "Kamala Harris, Jimmy Kimmel, fans react to Stephen Colbert's final Late Show gig Stephen Colbert hosted the final episode of The Late Show with Stephen Colbert, ending his 11-year run on CBS and drawing emotional reactions online. Celebrities including Kamala Harris, Conan O'Brien and Jimmy Kimmel paid tribute to the late-night host following the farewell broadcast."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/konkona-sen-sharma-unfollows-cockroach-janata-party-non-verified-instagram-account-2915326-2026-05-22",
-      "headline": "Konkona unfollows Cockroach Janta Party? Anurag, Dia still follow Konkona Sen Sharma has unfollowed the Cockroach Janata Party account after initially following the viral satire page. However, celebrities like director Anurag Kashyap and actor Dia Mirza are still following the account."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/jake-johnson-jessy-hodges-bollywood-pitch-maximum-pleasure-guaranteed-interview-2915135-2026-05-22",
-      "headline": "Jake Johnson wants to be Bollywood's hero: I want the dance number, everything Maximum Pleasure Guaranteed actors Jake Johnson and Jessy Hodges discussed playing morally complicated characters in an interview. The chat then veered into a playful but earnest pitch for an India-set project and a Bollywood dance number."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/karuppu-box-office-collection-day-7-suriya-film-nears-rs-200-crore-worldwide-2915307-2026-05-22",
-      "headline": "Karuppu box office Day 7: Suriya film smashes Rs 200 crore globally in 1st week Suriya and Trisha Krishnan's Karuppu has grossed Rs 207 crore worldwide in seven days. The film stayed steady on its first Thursday, with the Tamil version leading the run."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/pati-patni-aur-woh-do-box-office-day-7-india-nett-rs-29-crore-worldwide-rs-40-28-crore-2915284-2026-05-22",
-      "headline": "Pati Patni...box office Day 7: Film fails to beat predecessor's 1st week collection Pati Patni Aur Woh Do ended its first week in theatres with a gradual decline in collections across weekdays. The drop leaves the film trailing its predecessor and facing fresh pressure from new releases this Friday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/system-review-sonakshi-sinha-jyotika-sensitive-courtroom-drama-2915273-2026-05-22",
-      "headline": "System review: Sonakshi Sinha, Jyotika's legal drama is sensitive but lacks impactRelease Date:Fri May 22, 2026 System movie review: Prime Video's System follows young lawyer Neha and court stenographer Sarika as they navigate a key case. Their bond gives the film a sharp lens on class, patriarchy and unequal access to justice."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/ronit-roy-warns-fans-of-cyber-scam-using-his-identity-shares-details-2915283-2026-05-22",
-      "headline": "Ronit Roy warns fans of cyber scam using his identity, shares details Ronit Roy has warned fans about scammers allegedly using his identity to contact people, especially women, and demand money for bookings and meetings with the actor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mohanlal-georgekutty-drishyam-3-the-man-who-survived-the-odds-but-lost-himself-2915069-2026-05-22",
-      "headline": "Mohanlal's Georgekutty, the man who survived odds but lost himself by Drishyam 3 Across the Drishyam films, Mohanlal's Georgekutty outsmarts the police while trying to protect his family. By the third film, that survival has left him broken by fear, lies and grief."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/drishyam-3-box-office-day-1-mohanlal-film-becomes-2nd-biggest-opener-in-mollywood-mints-43-crore-2915252-2026-05-22",
-      "headline": "Drishyam 3 box office Day 1: Mohanlal's film is Mollywood's 2nd biggest opener Mohanlal's Drishyam 3 opened strongly in theatres on May 21 with Rs 43.37 crore worldwide. The Jeethu Joseph-directed thriller is now the second-biggest opener in Malayalam cinema after L2: Empuraan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/r-madhavans-gdn-gets-release-date-makers-reveal-cast-and-new-poster-2915253-2026-05-22",
-      "headline": "R Madhavan's GDN gets release date, makers reveal cast and new poster R. Madhavan's upcoming film, G.D.N., has locked its worldwide release date as the makers unveiled a new poster along with cast details. The biographical drama traces the life and legacy of inventor Gopalswamy Doraiswamy Naidu, known as the Edison of India."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bengal-ed-raids-kolkata-cop-sona-pappu-criminal-syndicate-tmc-link-2915363-2026-05-22",
-      "headline": "How Trinamool's 'golden boy' dragged a senior Kolkata cop into ED's netAfter the BJP's election win, the ED has launched an aggressive crackdown on criminal syndicates that the party claims are in cahoots with the TMC. At the heart of the probe lies a startling nexus between a senior Kolkata cop and a notorious criminal believed to be close to TMC."
+      "url": "https://www.indiatoday.in/india/story/twisha-sharmas-husband-on-the-run-for-10-days-after-her-death-to-surrender-says-lawyer-2915500-2026-05-22",
+      "headline": "Twisha Sharma's husband surrenders in court after being on run for 10 daysTwisha Sharma, a 33-year-old from Noida, was found dead at her marital home in Bhopal on May 12. Her family accused her in-laws of dowry harassment and abetment to suicide, while the Singh family claimed she was addicted to drugs."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/madhya-pradesh-government-recommends-cbi-probe-in-twisha-sharma-dowry-death-case-2915414-2026-05-22",
-      "headline": "Twisha Sharma death: Madhya Pradesh government recommends CBI probeAccording to an official notification issued by the Home Department, the state government has accorded its consent to transfer the investigation to the premier central agency."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/commodities/story/india-oil-imports-venezuela-third-biggest-supplier-overtakes-saudi-us-west-asia-war-hormuz-closure-reliance-refiners-2915295-2026-05-22",
-      "headline": "Not Saudi, not US: India's newest major oil supplier may surprise youVenezuela became India's third-largest crude supplier in May, overtaking Saudi Arabia and the United States. The shift shows how lower prices and regional supply disruptions are reshaping India's crude sourcing."
+      "url": "https://www.indiatoday.in/india/story/supreme-court-to-reconsider-order-denying-bail-to-umar-khalid-in-delhi-riots-case-larger-bench-to-hear-matter-2915541-2026-05-22",
+      "headline": "Umar Khalid case: Larger bench to reconsider Supreme Court order denying bailThe Supreme Court referred the issue of bail standards under the UAPA to a larger bench while reconsidering its earlier judgment denying relief to Umar Khalid and Sharjeel Imam in the 2020 Delhi riots case."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mohanlal-georgekutty-drishyam-3-the-man-who-survived-the-odds-but-lost-himself-2915069-2026-05-22",
-      "headline": "Mohanlal's Georgekutty, the man who survived odds but lost himself by Drishyam 3Across the Drishyam films, Mohanlal's Georgekutty outsmarts the police while trying to protect his family. By the third film, that survival has left him broken by fear, lies and grief."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/rajiv-gandhi-assassination-plot-fbi-foiled-khalistani-terrorist-conspiracy-us-1985-ltte-2915220-2026-05-22",
-      "headline": "A techie trained to kill Rajiv Gandhi in US, but then Haryana CM distracted himIn 1985, Khalistani terrorists in the US wanted to assassinate Rajiv Gandhi during his first visit to the country. Software engineer-turned-terrorist Gurpratap Singh Birk and his aides attended a terror camp in the US. But the terrorists got distracted by then Haryana CM Bhajan Lal. The LTTE assassinated Rajiv six years later."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/fintech-company-ceo-fires-all-hrs-says-they-were-creating-problems-that-never-existed-tchc-2915431-2026-05-22",
-      "headline": "Fintech CEO fires all HRs, says they were creating problems that never existedUS-based fintech company Bolt recently eliminated its entire HR department as part of a wider round of layoffs. Now, co-founder and CEO Ryan Breslow has defended the decision, saying the move was necessary for the company's turnaround and claiming the HR team was creating problems that did not exist."
+      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-abhijeet-dipke-pakistan-isi-asset-instagram-followers-2915509-2026-05-22",
+      "headline": "Now, a Pakistan and ISI-asset claim against Cockroach party, its founderCockroach Janta Party has exploded across social media in India ever since it was launched a week ago. With virality, has come a raft of allegations. Several BJP leaders have alleged that the party had 50% followers from Pakistan and its founder was an 'ISI asset'. What's the truth?"
     },
     {
       "sentiment": "positive",
@@ -236,8 +221,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bengal-jhalmuri-seller-bikram-sau-alleges-death-threats-pakistan-bangladesh-after-modi-visit-2915448-2026-05-22",
-      "headline": "Bengal man who sold jhalmuri to PM gets bomb, death threats from Pak, BangladeshBikram Sau, the Bengal jhalmuri seller who shot to fame after Prime Minister Narendra Modi visited his stall during the election campaign, has alleged receiving bomb and death threats from Pakistani and Bangladeshi numbers. Local police have launched an investigation into the matter."
+      "url": "https://www.indiatoday.in/india/story/gul-panag-dhruv-rathee-statement-on-pm-norway-journalist-press-conference-helle-lyang-2915540-2026-05-22",
+      "headline": "Diminishes us: Gul Panag shreds Dhruv Rathee over 'humiliate PM everywhere' remarkActor Gul Panag, a long-time critic of the Narendra Modi government and a former AAP leader, slammed YouTuber Dhruv Rathee, who urged foreign journalists to \"humiliate\" the Indian Prime Minister everywhere abroad. She said Rathee's comments diminished \"the institution and, ultimately, the Indians\"."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-abhijeet-dipke-arvind-kejriwal-aap-connection-manish-sisodia-truth-2915410-2026-05-22",
+      "headline": "Cockroach Janta Party linked to AAP? Ex-civil servant quits after questioning linkAs the Cockroach Janta Party (CJP) rapidly gains traction online, questions are mounting whether is linked to the Aam Aadmi Party. A former civil servant who joined the CJP quit after putting a question on its independence and getting no reply from its founder, Abhijeet Dipke, even after 24 hours."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/commodities/story/india-oil-imports-venezuela-third-biggest-supplier-overtakes-saudi-us-west-asia-war-hormuz-closure-reliance-refiners-2915295-2026-05-22",
+      "headline": "Not Saudi, not US: India's newest major oil supplier may surprise youVenezuela became India's third-largest crude supplier in May, overtaking Saudi Arabia and the United States. The shift shows how lower prices and regional supply disruptions are reshaping India's crude sourcing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/fintech-company-ceo-fires-all-hrs-says-they-were-creating-problems-that-never-existed-tchc-2915431-2026-05-22",
+      "headline": "Fintech CEO fires all HRs, says they were creating problems that never existedUS-based fintech company Bolt recently eliminated its entire HR department as part of a wider round of layoffs. Now, co-founder and CEO Ryan Breslow has defended the decision, saying the move was necessary for the company's turnaround and claiming the HR team was creating problems that did not exist."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/history-of-it/story/rajiv-gandhi-assassination-plot-fbi-foiled-khalistani-terrorist-conspiracy-us-1985-ltte-2915220-2026-05-22",
+      "headline": "A techie trained to kill Rajiv Gandhi in US, but then Haryana CM distracted himIn 1985, Khalistani terrorists in the US wanted to assassinate Rajiv Gandhi during his first visit to the country. Software engineer-turned-terrorist Gurpratap Singh Birk and his aides attended a terror camp in the US. But the terrorists got distracted by then Haryana CM Bhajan Lal. The LTTE assassinated Rajiv six years later."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/twisha-sharma-death-cctv-beauty-parlour-visit-bhopal-suicide-2915613-2026-05-22",
+      "headline": "CCTV shows Twisha at beauty parlour hours before death, adds fresh twistFresh CCTV footage shows Twisha Sharma visiting a beauty parlour hours before she died by suicide. It will help investigators reconstruct her final movements in Bhopal."
     },
     {
       "sentiment": "positive",
@@ -246,28 +256,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bengal-ed-raids-kolkata-cop-sona-pappu-criminal-syndicate-tmc-link-2915363-2026-05-22",
+      "headline": "How Trinamool's 'golden boy' dragged a senior Kolkata cop into ED's netAfter the BJP's election win, the ED has launched an aggressive crackdown on criminal syndicates that the party claims are in cahoots with the TMC. At the heart of the probe lies a startling nexus between a senior Kolkata cop and a notorious criminal believed to be close to TMC."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aishwarya-rai-bachchan-aaradhya-hotel-martinez-cannes-film-festival-2026-snub-buzz-2915531-2026-05-22",
+      "headline": "Aishwarya Rai arrives at Hotel Martinez, the same Cannes hotel behind snub chatterEnding the speculation around her Cannes appearance, Aishwarya Rai Bachchan arrived at Hotel Martinez in Cannes with her daughter Aaradhya. It is the same hotel that was behind her alleged snub by L'Or\u00e9al at the film festival."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mohanlal-georgekutty-drishyam-3-the-man-who-survived-the-odds-but-lost-himself-2915069-2026-05-22",
+      "headline": "Mohanlal's Georgekutty, the man who survived odds but lost himself by Drishyam 3Across the Drishyam films, Mohanlal's Georgekutty outsmarts the police while trying to protect his family. By the third film, that survival has left him broken by fear, lies and grief."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/cockroach-janta-part-fever-cross-india-pakistan-border-abhijeet-dipke-inspired-accounts-pakistan-cockroach-awami-league-2915397-2026-05-22",
       "headline": "Cockroach fever spreads to Pakistan, spawns Cockroach Awami PartyThe cockroach is known for being difficult to eliminate. Following the massive online traction for India's Cockroach Janta Party (CJP), several similar satirical accounts have now emerged in Pakistan. One of them, the Cockroach Awami Party, is presenting itself as an alternative to mainstream Pakistani political parties."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-asian-games-trials-delhi-high-court-wfi-wrestling-2915447-2026-05-22",
-      "headline": "Ensure Vinesh Phogat's participation in Asian Games trials: Delhi HC raps WFIDelhi High Court has slammed the Wrestling Federation of India for blocking Vinesh Phogat's path to Asian Games 2026. The court has told the board to ensure Vinesh's presence in the Asian Games selection trials, one that WFI had deemed her inelligible for."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/parambrata-chatterjee-swastika-mukherjee-face-complaint-over-2021-bengal-violence-post-2915258-2026-05-22",
-      "headline": "2021 post-poll violence tweet returns to haunt Bengal actorsThe complaint cited a May 2, 2021 social media exchange between actors Parambrata Chatterjee and Swastika Mukherjee, alleging their remarks encouraged violence at a time when attacks on BJP workers were being reported across Bengal following the Assembly election results."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/honda-launches-2026-city-facelift-in-india-with-updated-styling-and-new-features-2915445-2026-05-22",
-      "headline": "Honda City facelift launched at Rs 11.99 lakh with updated styling and new featuresHonda Cars India has launched the 2026 Honda City facelift with updated styling, new features and hybrid technology, while also debuting the global ZR-V e:HEV SUV in the Indian market."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/cockroach-prakash-raj-mixes-mangoes-and-politics-in-viral-cockroach-janta-party-trend-2915416-2026-05-22",
-      "headline": "'Cockroach' Prakash Raj mixes mangoes and politics in viral CJP trend. WatchWhat began as a satirical response to a courtroom comment has snowballed into one of social media's loudest political trends. Prakash Raj's latest 'cockroach eating mangoes' video has only added more flavour to the viral moment."
     },
     {
       "sentiment": "positive",
@@ -276,28 +281,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/bundibugyo-ebola-vaccine-serum-institute-oxford-cepi-drc-uganda-outbreak-2915446-2026-05-22",
-      "headline": "Serum Institute eyes fast rollout in Bundibugyo Ebola vaccine raceSerum Institute of India has joined Oxford and CEPI to speed up an experimental Bundibugyo Ebola vaccine as cases rise in the DRC and Uganda. The effort highlights the lack of any approved shot for this strain and the pressure to balance speed with limited testing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/information/story/thai-mangur-banned-catfish-indian-markets-2915355-2026-05-22",
-      "headline": "What is Thai Mangur, the banned catfish still reaching Indian markets?Thai Mangur fish is a banned invasive catfish that grows quickly and survives in harsh conditions. While profitable for fish farmers, it has raised environmental and health concerns across India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/system-review-sonakshi-sinha-jyotika-sensitive-courtroom-drama-2915273-2026-05-22",
-      "headline": "System review: Sonakshi Sinha, Jyotika's legal drama is sensitive but lacks impactRelease Date:Fri May 22, 2026System movie review: Prime Video's System follows young lawyer Neha and court stenographer Sarika as they navigate a key case. Their bond gives the film a sharp lens on class, patriarchy and unequal access to justice."
+      "url": "https://www.indiatoday.in/auto/cars/story/honda-launches-2026-city-facelift-in-india-with-updated-styling-and-new-features-2915445-2026-05-22",
+      "headline": "Honda City facelift launched at Rs 11.99 lakh with updated styling and new featuresHonda Cars India has launched the 2026 Honda City facelift with updated styling, new features and hybrid technology, while also debuting the global ZR-V e:HEV SUV in the Indian market."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-paper-leak-government-admits-breach-nta-denies-system-leak-2915304-2026-05-22",
-      "headline": "Education Minister admits to NEET breach, NTA chief says no leak. What's going on?One arm of the government says there was a \"breach in the chain of command\". Another says the paper was not leaked \"through the system\". Between those two explanations lies the trust crisis surrounding India's biggest entrance exam."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-indrapuri-veena-woman-save-me-didi-sos-distress-call-before-dowry-death-2915521-2026-05-22",
+      "headline": "Save me, didi: Delhi woman dies in alleged dowry case minutes after SOS to sisterVeena, 28, called her sister seeking help and pleading to speak to her father merely seven minutes before she allegedly died after falling from the fourth floor of her marital home in Delhi's Inderpuri. Her family has alleged prolonged dowry harassment and murder."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/condom-prices-hike-costly-india-crude-oil-surge-mankind-pharma-2915526-2026-05-22",
+      "headline": "Why your next pack of condoms may cost more amid global oil shockThe company, which sells Manforce condoms and holds around 30% market share in the country, said it may eventually pass on higher costs to customers if the situation in the Middle East worsens."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/commodities/story/rupee-at-100-not-a-disaster-for-india-experts-economists-2915341-2026-05-22",
-      "headline": "Rupee at 100 against US dollar? Why experts say India shouldn't panicAs crude oil prices stay elevated and the rupee weakens further, a growing number of experts now argue India's real risk is not crossing 100 against the dollar, but rising inflation and slowing growth."
+      "url": "https://www.indiatoday.in/india/story/madhya-pradesh-high-court-directs-second-post-mortem-examination-in-twisha-sharma-death-case-2915506-2026-05-22",
+      "headline": "High Court clears second autopsy on Twisha Sharma, accepts family's pleaThe development came a few days after a Bhopal court dismissed a plea seeking a second post-mortem examination at AIIMS Delhi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/tom-hiddleston-sam-thompson-viral-hug-video-soccer-aid-unicef-gala-2915559-2026-05-22",
+      "headline": "Sam Thompson screams, jumps on Tom Hiddleston in viral fanboy moment. WatchSam Thompson screamed with excitement and jumped into a bear hug with Tom Hiddleston at a London event. The clip quickly went viral, with fans saying his reaction matched their own."
     },
     {
       "sentiment": "negative",
@@ -305,22 +310,67 @@
       "headline": "Found in Mumbai drain: Items for a fully furnished house, autorickshaw, police barricadeMumbai's pre-monsoon drain cleaning has pulled out household furniture, an autorickshaw and even a police barricade from eastern suburban nullahs this year. The recoveries show how Mumbaikars have turned the drains into landfills."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-high-court-grants-three-day-bail-to-2020-delhi-riots-accused-umar-khalid-to-visit-ailing-mother-2915422-2026-05-22",
-      "headline": "High Court grants three-day bail to Delhi riots accused Umar KhalidThe Delhi High Court, which has allowed Umar Khalid to be released from June 1-3 in view of his mother's surgery, has imposed strict conditions on his movements."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education-today/news/story/placeholder-headline-main-story-input-missing-2915546-2026-05-22",
+      "headline": "Who is Shashikant Suthar, Chemistry teacher who exposed NEET paper leak?Rajasthan chemistry teacher Shashikant Suthar is being hailed online as one of the earliest whistleblowers in the alleged NEET-UG 2026 paper leak scandal. From matching viral \"guess papers\" with the real exam to alerting authorities, his actions helped trigger a nationwide investigation that eventually led to NEET's cancellation."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/maldives-cave-dive-deaths-italian-divers-dead-end-chamber-oxygen-supply-2915254-2026-05-22",
-      "headline": "Wrong turn, panic, no escape: How 5 Italian divers died inside Maldives caveFive Italian divers died during a deep-sea cave expedition in the Maldives after taking a wrong turn into a dead-end underwater chamber."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/twisha-sharma-wedding-video-surfaces-as-bhopal-dowry-death-probe-deepens-2915311-2026-05-22",
-      "headline": "From love to tragedy: Twisha Sharma's wedding video surfaces as mystery deepensA wedding teaser featuring Twisha Sharma and Samarth Singh has surfaced as police investigate her death at her Bhopal matrimonial home. The video has added a poignant layer to a case that has sparked a massive controversy and a bitter fallout between the two families."
+      "url": "https://www.indiatoday.in/india/story/parambrata-chatterjee-swastika-mukherjee-face-complaint-over-2021-bengal-violence-post-2915258-2026-05-22",
+      "headline": "2021 post-poll violence tweet returns to haunt Bengal actorsThe complaint cited a May 2, 2021 social media exchange between actors Parambrata Chatterjee and Swastika Mukherjee, alleging their remarks encouraged violence at a time when attacks on BJP workers were being reported across Bengal following the Assembly election results."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/mohamed-salah-social-media-post-arne-slot-response-liverpool-2915608-2026-05-22",
+      "headline": "Liverpool boss Arne Slot breaks silence on Mohamed Salah's social media rant Liverpool manager Arne Slot has responded for the first time to Mohamed Salah's controversial social media post, saying Liverpool's focus remains on securing Champions League qualification despite tensions between the two."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-virat-kohli-signed-mrf-bat-cm-vijay-tamil-nadu-plant-talks-2915591-2026-05-22",
+      "headline": "Tamil Nadu CM Vijay gifted Virat Kohli signed MRF bat Tamil Nadu Chief Minister Vijay was pictured with a Virat Kohli-signed MRF bat after meeting company representatives. The viral image fused cricket fandom with industrial lobbying around MRF's proposed \u20b95,300-crore tyre plant."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sunil-gavaskar-jemimah-rodrigues-musical-reel-womens-t20-world-cup-2915562-2026-05-22",
+      "headline": "Jam with Jemimah 2.0: Gavaskar joins India star for duet before T20 World Cup Sunil Gavaskar and Jemimah Rodrigues have reunited in a new Instagram reel, as they engaged in a new jamming session ahead of the T20 World Cup 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/real-madrid-coach-alvaro-arbeloa-jose-mourinho-2915571-2026-05-22",
+      "headline": "Alvaro Arbeloa leaves Real Madrid: Will not work with Jose Mourinho Real Madrid head coach Alvaro Arbeloa is leaving the club at the end of the season. The outgoing manager has also confirmed that he has no interest in working with Mourinho if he returns to coach the club this year."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/pep-guardiola-leaves-manchester-city-trophy-laden-spell-reaction-2915555-2026-05-22",
+      "headline": "Don't ask me why I am leaving: Guardiola confirms his Manchester City departure Manchester City manager Pep Guardiola will leave the club at the end of the season, ending a remarkable 10-year spell that changed the course of the club's history and redefined standards in English football."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-appoint-michael-carrick-head-coach-champions-league-return-2915533-2026-05-22",
+      "headline": "Manchester United confirm Michael Carrick as new full-time head coach Manchester United have confirmed Michael Carrick as their new full-time head coach after his strong spell as caretaker. The decision follows a late-season surge that restored Champions League football and some order to a chaotic campaign."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/england-world-cup-squad-foden-palmer-alexander-arnold-miss-out-2915505-2026-05-22",
+      "headline": "England's FIFA World Cup squad shocker: Foden, Palmer and Trent axed by Tuchel Thomas Tuchel has announced his England squad for this summer's FIFA World Cup, with several big-name exclusions including Phil Foden, Cole Palmer and Morgan Gibbs-White."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/srh-vs-rcb-ipl-points-table-playoff-position-2915499-2026-05-22",
+      "headline": "SRH playoff scenario: Can Pat Cummins' team finish in top 2? 3rd-placed SunRisers Hyderabad will play their final league stage game of IPL 2026 on Friday. CSK's heavy defeat to Gujarat Titans on Thursday has made a top-two finish highly unlikely for SRH, though a mathematical possibility still remains."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/arshdeep-singh-priyansh-arya-video-punjab-kings-social-media-row-2915484-2026-05-22",
+      "headline": "Arshdeep Singh under fire again: Latest reel mocking Priyansh Arya outrages fans Punjab Kings pacer Arshdeep Singh is facing criticism on social media again after a viral video involving young teammate Priyansh Arya went viral during the ongoing Indian Premier League season."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-csk-fans-injury-management-kris-srikkanth-claims-2915480-2026-05-22",
+      "headline": "MS Dhoni scam? Kris Srikkanth accuses CSK of misleading fans Kris Srikkanth accused CSK of misleading supporters with repeated hints over MS Dhoni's fitness. He said clearer communication would have prepared fans for Dhoni missing the entire IPL 2026 season."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-neymars-fresh-injury-concern-in-brazil-camp-2915461-2026-05-22",
@@ -329,52 +379,52 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-asian-games-trials-delhi-high-court-wfi-wrestling-2915447-2026-05-22",
-      "headline": "Ensure Vinesh Phogat's participation in Asian Games trials: Delhi HC raps WFI Delhi High Court has slammed the Wrestling Federation of India for blocking Vinesh Phogat's path to Asian Games 2026. The court has told the board to ensure Vinesh's presence in the Asian Games selection trials, one that WFI had deemed her inelligible for."
+      "headline": "Ensure Vinesh Phogat's participation in Asian Games trials: Delhi HC raps WFIDelhi High Court has slammed the Wrestling Federation of India for blocking Vinesh Phogat's path to Asian Games 2026. The court has told the board to ensure Vinesh's presence in the Asian Games selection trials, one that WFI had deemed her inelligible for."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-dinesh-karthik-sachin-tendulkar-comparison-2915415-2026-05-22",
-      "headline": "Vaibhav is just 15: Dinesh Karthik warns against Sachin Tendulkar comparisons Former India wicketkeeper Dinesh Karthik has cautioned against burdening teenage batting prodigy Vaibhav Sooryavanshi with comparisons to batting legend Sachin Tendulkar, stressing that the youngster's challenges will be very different in the modern era."
+      "headline": "Vaibhav is just 15: Dinesh Karthik warns against Sachin Tendulkar comparisonsFormer India wicketkeeper Dinesh Karthik has cautioned against burdening teenage batting prodigy Vaibhav Sooryavanshi with comparisons to batting legend Sachin Tendulkar, stressing that the youngster's challenges will be very different in the modern era."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-injury-srh-vs-rcb-ipl-2026-match-2915364-2026-05-22",
-      "headline": "Not IPL, Test cricket for Australia is my priority: SRH captain Pat Cummins Ahead of SRH's final league stage game against RCB, captain Pat Cummins says that is No.1 priority remains Australian cricket, in particular the Test format. Cummins says that it is unlikely that his priorities change."
+      "headline": "Not IPL, Test cricket for Australia is my priority: SRH captain Pat CumminsAhead of SRH's final league stage game against RCB, captain Pat Cummins says that is No.1 priority remains Australian cricket, in particular the Test format. Cummins says that it is unlikely that his priorities change."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-australia-odis-babar-azam-returns-rizwan-dropped-squad-2915348-2026-05-22",
-      "headline": "Pakistan continue selection circus: Babar in, Rizwan out in squad for Australia ODIs Pakistan have recalled Babar Azam and left out Mohammad Rizwan for the three-match home ODI series against Australia. Shaheen Afridi will continue to lead the side while pacer Naseem Shah returns."
+      "headline": "Pakistan continue selection circus: Babar in, Rizwan out in squad for Australia ODIsPakistan have recalled Babar Azam and left out Mohammad Rizwan for the three-match home ODI series against Australia. Shaheen Afridi will continue to lead the side while pacer Naseem Shah returns."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/srh-vs-rcb-preview-top-2-playoff-qualification-race-ipl-points-table-2915313-2026-05-22",
-      "headline": "Top 2 out of grasp, SRH hope to dent RCB's confidence in Hyderabad RCB vs SRH Preview: Defending champions RCB and SRH will play their final league-stage game in the IPL 2026. RCB are firmly placed at No.1 and SRH are unlikely to make it to the top 2 places due to their NRR deficit. So what's there to play for?"
+      "headline": "Top 2 out of grasp, SRH hope to dent RCB's confidence in HyderabadRCB vs SRH Preview: Defending champions RCB and SRH will play their final league-stage game in the IPL 2026. RCB are firmly placed at No.1 and SRH are unlikely to make it to the top 2 places due to their NRR deficit. So what's there to play for?"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/east-bengal-end-22-year-wait-with-2-1-win-over-inter-kashi-2915308-2026-05-22",
-      "headline": "Illish finally beats Chingri again as East Bengal end 22 years of Bangal pain After 22 years of inherited heartbreak, corporate chaos, and near-misses, East Bengal's dramatic ISL title triumph has revived a sleeping giant. The moshal burns bright again; Kolkata's red-and-gold half has finally reclaimed its soul."
+      "headline": "Illish finally beats Chingri again as East Bengal end 22 years of Bangal painAfter 22 years of inherited heartbreak, corporate chaos, and near-misses, East Bengal's dramatic ISL title triumph has revived a sleeping giant. The moshal burns bright again; Kolkata's red-and-gold half has finally reclaimed its soul."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-csk-ms-dhoni-ipl-future-final-word-batting-injury-2915286-2026-05-22",
-      "headline": "Season ends, enigma endures: CSK deliver final word on MS Dhoni's IPL future IPL 2026: After CSK's exit on Thursday, bowling coach Eric Simons said MS Dhoni alone will decide his IPL future despite missing the season with injuries. Suresh Raina's account of Dhoni saying 'let me see' keeps the retirement question alive."
+      "headline": "Season ends, enigma endures: CSK deliver final word on MS Dhoni's IPL futureIPL 2026: After CSK's exit on Thursday, bowling coach Eric Simons said MS Dhoni alone will decide his IPL future despite missing the season with injuries. Suresh Raina's account of Dhoni saying 'let me see' keeps the retirement question alive."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-csk-ipl-2026-mohammed-siraj-powerplay-suii-celebration-ahmedabad-2915266-2026-05-22",
-      "headline": "IPL Play of the Day: Ahmedabad rings with Suii-raj as the Powerplay King rules IPL 2026, GT vs CSK: Mohammed Siraj produced a fiery new-ball spell in Ahmedabad that flipped the match on its head on Thursday. His burst of wickets and trademark celebrations set the tone for Gujarat Titans' dominant performance against the Super Kings."
+      "headline": "IPL Play of the Day: Ahmedabad rings with Suii-raj as the Powerplay King rulesIPL 2026, GT vs CSK: Mohammed Siraj produced a fiery new-ball spell in Ahmedabad that flipped the match on its head on Thursday. His burst of wickets and trademark celebrations set the tone for Gujarat Titans' dominant performance against the Super Kings."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-al-nassr-saudi-pro-league-title-tears-drums-viral-x-post-2915255-2026-05-22",
-      "headline": "Drums and tears: Ronaldo celebrates Saudi league title, his X post goes viral Cristiano Ronaldo scored twice as Al-Nassr won the Saudi Pro League title on Thursday in Riyadh. The 41-year-old teared up before celebrating his maiden triumph in Saudi with fans at Al-Awwal Park on Thursday."
+      "headline": "Drums and tears: Ronaldo celebrates Saudi league title, his X post goes viralCristiano Ronaldo scored twice as Al-Nassr won the Saudi Pro League title on Thursday in Riyadh. The 41-year-old teared up before celebrating his maiden triumph in Saudi with fans at Al-Awwal Park on Thursday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-gt-vs-csk-shubman-gill-best-captain-mohammed-kaif-2915224-2026-05-22",
-      "headline": "Shubman Gill is IPL 2026's best captain: Ex-India star after GT crush CSK IPL 2026: Shubman Gill's captaincy credentials received massive backing after Gujarat Titans crushed CSK to seal a top-two finish push this season. Former India batter Mohammed Kaif called Gill the best captain of the season after another dominant GT display."
+      "headline": "Shubman Gill is IPL 2026's best captain: Ex-India star after GT crush CSKIPL 2026: Shubman Gill's captaincy credentials received massive backing after Gujarat Titans crushed CSK to seal a top-two finish push this season. Former India batter Mohammed Kaif called Gill the best captain of the season after another dominant GT display."
     },
     {
       "sentiment": "positive",
@@ -425,51 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-srh-vs-rcb-rajat-patidar-returns-ipl-2026-play-offs-2915177-2026-05-21",
       "headline": "Rajat Patidar back in time for RCB's top-two push vs SRH, confirms Mo BobatIPL 2026: Mo Bobat confirmed Rajat Patidar is fit again and training before RCB's match against Sunrisers Hyderabad. His return sharpens Bengaluru's push for a top-two finish as Bobat also highlighted Bhuvneshwar Kumar's value across the dressing room."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/national-anti-doping-act-amendment-jail-terms-suppliers-doctors-2915170-2026-05-21",
-      "headline": "National anti-doping act to be amended, jail term proposed for drug suppliersThe Centre has proposed amending the National Anti-Doping Act to criminalise the supply and trafficking of banned substances to athletes. The move hardens India's anti-doping stance as its poor WADA record collides with major hosting ambitions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-2027-odi-world-cup-ricky-ponting-trying-hard-ind-vs-afg-2915173-2026-05-21",
-      "headline": "Rohit Sharma, Virat Kohli doing everything to last till 2027 World Cup: Ricky PontingRicky Ponting believes Virat Kohli and Rohit Sharma are still pushing hard towards one final ODI World Cup run in 2027. While Kohli continues dominating with the bat, Rohit's biggest challenge may now be whether his body can keep up with another two-year cycle."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/arsenal-premier-league-title-arteta-son-reaction-manchester-city-bournemouth-draw-2915166-2026-05-21",
-      "headline": "We are Champions daddy: How Arteta learnt Arsenal ended 22-year EPL waitArsenal sealed the Premier League title after Manchester City drew with Bournemouth. The moment ended a 22-year wait and allowed Arsenal to shift attention towards the Champions League final."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-refugee-womens-team-england-tour-ecb-june-22-2915160-2026-05-21",
-      "headline": "Afghanistan women's refugee team to tour England under ECB initiativeThe (ECB) will host an Afghanistan Refugee Women's Team for a tour beginning on June 22 under a special initiative aimed at supporting displaced Afghan cricketers and promoting inclusivity in the sport."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-csk-akeal-hosein-dropped-for-matt-short-fans-react-2915147-2026-05-21",
-      "headline": "Why drop Hosein? CSK fans left fuming as spinner dropped for Short vs GTChennai Super Kings left out Akeal Hosein and brought in Matt Short for a must-win game against Gujarat Titans. The call jarred with supporters because Hosein had been one of CSK's more effective bowlers while the playoff equation remained unforgiving."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/manuel-neuer-germany-world-cup-squad-nagelsmann-first-choice-keeper-2915134-2026-05-21",
-      "headline": "World Cup: Germany recall Manuel Neuer, 40, as first-choice goalkeeperGermany coach Julian Nagelsmann has brought veteran goalkeeper Manuel Neuer out of international retirement and reinstated him as the country's first-choice goalkeeper for the upcoming World Cup. The decision marks a major shift in Germany's plans after Oliver Baumann had been backed as the No. 1 following Euro 2024."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-2026-full-draw-jannik-sinner-novak-djokovic-aryna-sabalenka-coco-gauff-2915117-2026-05-21",
-      "headline": "French Open 2026 draw: Jannik Sinner, Novak Djokovic learn about path to titleJannik Sinner and Novak Djokovic have landed on opposite sides of the French Open 2026 draw. That keeps open the prospect of a final between the top seed chasing a Career Grand Slam and Djokovic hunting a 25th major."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/anukul-roy-india-a-squad-sri-lanka-tri-series-harsh-dubey-replacement-kkr-ipl-2026-2914969-2026-05-21",
-      "headline": "KKR star added to India A squad for Sri Lanka tri-series, replaces Harsh DubeyKKR star Anukul Roy has been drafted into the India A squad for the Sri Lanka tri-series in place of Harsh Dubey. The move rewards his strong KKR season as Anukul has been starter for Kolkata this season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/auqib-nabi-india-test-squad-afghanistan-ipl-gurnoor-brar-2914923-2026-05-21",
-      "headline": "Nabi vs Brar: Why was one of India's best pacers not given Test debut?Jammu and Kashmir pacer Auqib Nabi guided his team to a historic Ranji Trophy victory this season. The incredible red-ball performance got him a white-ball IPL contract, but was not deemed good enough for the Indian Test team."
     }
   ],
   "education": [
