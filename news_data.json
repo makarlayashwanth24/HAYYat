@@ -1,9 +1,24 @@
 {
   "business": [
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/why-are-71-of-indians-planning-fewer-outings-whats-causing-this-shift-2916881-2026-05-25",
+      "headline": "Why are 71% of Indians planning fewer outings? What's causing this shiftFor many Indians, a quick drive, weekend outing or casual trip may no longer feel as easy on the pocket as before. As fuel costs continue to rise, households across the country appear to be rethinking how often they step out, but what exactly is driving this change?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/tata-sons-board-meeting-3-key-things-to-watch-tomorrow-2916710-2026-05-25",
+      "headline": "Tata Sons board meeting: 3 key things to watch tomorrowThe Tata Sons board is set to meet tomorrow, May 26, at a time when several important questions surround the group's future. Although no formal details have been shared, the outcome of the meeting could be closely watched for hints about the group's next phase of growth."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-demands-fitment-factor-ops-family-unit-government-middle-path-2916714-2026-05-25",
+      "headline": "8th Pay Commission: Why govt may not accept all demands by employee unionsEmployee unions have pressed the 8th Pay Commission for a higher fitment factor, pension changes and a five-family formula. A senior representative said fiscal pressure and long-term liabilities could push the government towards a middle path."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/closing-bell-markets-rally-over-1-on-iran-us-talks-as-crude-oil-falls-below-usd-100-2916708-2026-05-25",
-      "headline": "Markets rally over 1% on Iran-US talks as crude oil falls below $100Markets rally over 1% on Iran-US talks as crude oil falls below $100"
+      "headline": "Markets rally over 1% on Iran-US talks as crude oil falls below $100The S&P BSE Sensex surged 1,073.61 points, or 1.42%, to settle at 76,488.96, while the NSE Nifty50 jumped 250.30 points, or 1.06%, to close at 23,969.60."
     },
     {
       "sentiment": "positive",
@@ -23,7 +38,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/sitharaman-backs-pm-modi-forex-conservation-call-amid-west-asia-crisis-weak-rupee-gold-import-2916621-2026-05-25",
-      "headline": "Very important: FM Nirmala Sitharaman backs PM Modi's call to cut forex outflowNirmala Sitharaman said PM Narendra Modi's call to conserve foreign exchange is very important as the Iran crisis strains India's import bill and supply chains."
+      "headline": "Explained: FM Sitharaman's '3Fs' strategy amid West Asia crisisNirmala Sitharaman said PM Narendra Modi's call to conserve foreign exchange is very important as the Iran crisis strains India's import bill and supply chains."
     },
     {
       "sentiment": "positive",
@@ -84,24 +99,54 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/petrol-diesel-price-hike-centre-defends-middle-east-iran-war-hormuz-2915927-2026-05-23",
       "headline": "Fuel prices up Rs 5 in 10 days, govt defends limited hike amid West Asia crisisPetrol and diesel prices were raised for the third time this month as the Centre said a 76-day freeze had cushioned consumers despite soaring crude."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/petrol-price-raised-by-87-paise-diesel-by-91-paise-third-hike-in-10-days-2915795-2026-05-23",
-      "headline": "Petrol, diesel, CNG prices hiked again. Check rates in your cityIndia relies on imports for nearly 85 per cent of its crude oil requirements, making domestic fuel prices vulnerable to fluctuations in global markets. The fresh hike is likely to put additional pressure on commuters, transporters and businesses across multiple sectors."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-better-positioned-on-inflation-rbi-should-keep-rates-unchanged-assocham-2915679-2026-05-22",
-      "headline": "India better positioned on inflation, RBI should keep rates unchanged: ASSOCHAMASSOCHAM's analysis showed that India's retail inflation increased only slightly from 3.2% in February 2026 to 3.5% in April 2026 \u2014 a rise of just 0.3 percentage points. In comparison, inflation in the United States jumped sharply from 2.4% to 3.8% during the same period."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-to-transfer-record-rs-287-lakh-crore-dividend-to-govt-for-fy26-2915635-2026-05-22",
-      "headline": "RBI to transfer record Rs 2.87 lakh crore dividend to govt for FY26This move is expected to give the government additional financial room at a time of geopolitical uncertainty and global economic challenges."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-ban-farhan-akhtar-don-3-complaint-explained-2916861-2026-05-25",
+      "headline": "Ranveer Singh ban after Farhan Akhtar's Don 3 complaint: Tracing all that happened Film body FWICE has banned Ranveer Singh after Farhan Akhtar complained about the actor's reported exit from Don 3. How did it all start, and what happened down the years?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/viva-streaming-comeback-indias-first-girl-pop-band-on-kaanphod-and-audio-ott-platforms-2916807-2026-05-25",
+      "headline": "Girl band VIVA returns after 20 years, bringing back Y2K pop nostalgia VIVA's iconic music catalogue is finally back on streaming platforms after two decades, bringing renewed attention to India's first all-girl pop band and the era that shaped millennial pop culture."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aishwarya-rai-to-ella-bright-why-women-cannot-escape-body-shaming-2916863-2026-05-25",
+      "headline": "Aishwarya Rai to Ella Bright, why women cannot escape body shaming From Aishwarya Rai Bachchan's Cannes scrutiny to the backlash against Off-Campus actor Ella Bright, here's why the internet's obsession with ageing, thinness and women's bodies reveals impossible beauty standards."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/big-boost-for-kollywood-cm-vijay-allows-5-daily-shows-in-tamil-nadu-theatres-2916857-2026-05-25",
+      "headline": "Big boost for Kollywood: CM Vijay allows 5 daily shows in Tamil Nadu theatres Tamil Nadu Chief Minister C Joseph Vijay has allowed theatres to run five daily shows for seven days from a new Tamil film's release. The order is expected to lift opening-week business and has excited theatre owners."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/daughter-ahana-breaks-down-as-hema-malini-accepts-late-dharmendras-padma-vibhushan-2916821-2026-05-25",
+      "headline": "Ahana Deol breaks down as Hema Malini accepts late Dharmendra's Padma Vibhushan Daughter Ahana Deol broke down as Hema Malini accepted the posthumous Padma Vibhushan for the late actor Dharmendra. The ceremony was held in New Delhi on May 25."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-ranveer-singh-banned-by-film-workers-federation-amid-row-over-abrupt-exit-from-farhan-akhtars-don-3-2916794-2026-05-25",
+      "headline": "Ranveer Singh faces industry-wide ban as Don 3 fallout escalates Actor Ranveer Singh has been banned by the Federation of Western India Cine Employees in India following Farhan Akhtar's complaint in the Don 3 row."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/3-brownies-2-pizzas-a-day-sara-ali-khans-diet-before-dramatic-45-kg-weight-loss-2916717-2026-05-25",
+      "headline": "3 brownies, 2 pizzas a day: Sara Ali Khan's diet before dramatic 45 kg weight loss Actor Sara Ali Khan revealed details about her eating habits before losing nearly 45 kg ahead of Kedarnath. From pizzas to brownies, the actor recalled her \"mindless eating\" phase during her student days in New York."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/deepika-padukone-imtiaz-ali-veronica-cocktail-tamasha-corsica-scene-2916721-2026-05-25",
+      "headline": "The 'wild' Deepika Padukone behind the 'good girl' image, ft. Imtiaz Ali Imtiaz Ali said he asked Deepika Padukone to read for Veronica in Cocktail instead of Meera. He also recalled how an unplanned silent Tamasha scene in Corsica came together on instinct."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-peddi-song-faces-heat-over-vulgar-dance-feat-shruti-haasan-janhvi-kapoor-2916732-2026-05-25",
+      "headline": "Ram Charan's Peddi song faces heat over vulgar dance feat. Shruti Haasan, Janhvi Ram Charan, Janhvi Kapoor and the Peddi team launched Hallallallo song at a Bhopal event a couple of days ago. The song's dance visuals, featuring Shruti Haasan and Janhvi Kapoor, later drew online criticism over vulgarity and relevance."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/padma-awards-2026-dharmendra-mammootty-madhavan-honourees-delhi-2916694-2026-05-25",
@@ -115,7 +160,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/malaika-arora-steps-out-with-rumoured-boyfriend-harsh-mehta-son-arhaan-joins-video-2916676-2026-05-25",
-      "headline": "Malaika Arora steps out with rumoured boyfriend Harsh Mehta; son Arhaan joins. Video Malaika Arora was seen stepping out with Harsh Mehta and son Arhaan Khan during an outing. Harsh picked up Malaika from her mother's residence."
+      "headline": "Malaika Arora steps out with rumoured boyfriend Harsh Mehta; son Arhaan joins. Video Malaika Arora was seen stepping out with Harsh Mehta and son Arhaan Khan. Harsh picked up Malaika from her mother's residence."
     },
     {
       "sentiment": "positive",
@@ -151,63 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-deactivates-instagram-days-after-paparazzi-hospital-row-2916628-2026-05-25",
       "headline": "Salman Khan back on Instagram after brief account deactivation Salman Khan's Instagram account was briefly deactivated on Monday. However, it was restored within minutes, leaving the superstar's fans breathing a sigh of relief."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rekha-mumbai-airport-video-fan-selfie-personal-space-debate-2916606-2026-05-25",
-      "headline": "Rekha shoves past fan at airport in old viral video. Internet divided over reaction An old viral video shows Rekha moving aside a fan who appeared to seek a picture at Mumbai airport. The incident has divided internet, with some criticising her for ignoring the fan and others defending her right to privacy and personal boundaries. while others defended her right to privacy and personal boundaries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/katrina-kaif-and-vicky-kaushal-introduce-baby-vihaan-to-paparazzi-at-airport-2916616-2026-05-25",
-      "headline": "Katrina Kaif and Vicky Kaushal introduce baby Vihaan to paparazzi at airport Katrina Kaif and Vicky Kaushal introduced their newborn son, Vihaan Kaushal, to photographers at Mumbai airport. The brief exchange stood out as a rare public moment for the couple during their trip out of the city."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jagapathi-babu-prabhas-helped-him-through-depression-rajamouli-peddi-2916598-2026-05-25",
-      "headline": "Prabhas gave me courage during depression: Telugu actor Jagapathi Babu Jagapathi Babu has recalled how Prabhas reassured and supported him during depression. He also praised SS Rajamouli and his family for being humble and fair."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/boman-irani-praises-ram-charan-humility-peddi-set-makes-everyone-feel-comfortable-2916591-2026-05-25",
-      "headline": "Boman Irani praises Ram Charan's humility: He makes everyone feel comfortable Actor Boman Irani said his Peddi co-star Ram Charan makes people feel comfortable on the sets. He also shared the film is larger and more layered than the trailer suggests."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/bharatanatyam-held-hostage-outrage-over-ananya-panday-chand-mera-dil-scene-explained-2916585-2026-05-25",
-      "headline": "Bharatanatyam held hostage! Outrage over Ananya's Chand Mera Dil scene explained A Bharatanatyam-inspired fusion act from Chand Mera Dil has triggered massive online backlash, with classical dancers accusing Ananya Panday's performance of reducing an ancient art form to aesthetic chaos. But the internet may also be missing one key detail: the scene was never meant to be pure Bharatanatyam in the first place."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/does-jr-ntr-die-before-interval-in-dragon-wild-fan-theories-spark-fresh-buzz-2916571-2026-05-25",
-      "headline": "Does Jr NTR die before interval in Dragon? Wild fan theories spark fresh buzz Fans are abuzz with theories about Jr NTR's upcoming film Dragon, speculating that his character might die before the interval and return in another form. Despite the excitement, the makers have not confirmed any such plot twist, leaving the speculation purely in the realm of fan imagination."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/desi-bling-tabinda-sanpal-satish-sanpal-remarks-backlash-normalising-infidelity-2916547-2026-05-25",
-      "headline": "Desi Bling couple Satish, Tabinda Sanpal face backlash for normalising infidelity Satish and Tabinda Sanpal drew backlash after her comments on Desi Bling about his partying with different women went viral. The remarks prompted criticism from social media users and public figures who said they normalised infidelity."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/tiny-tom-controversy-ma-nishad-mocks-actor-amid-ansiba-hassan-complaint-2916530-2026-05-25",
-      "headline": "Declare Tiny Tom public nuisance: Malayalam director slams actor's communal remarks Filmmaker MA Nishad mocked actor Tiny Tom in a social media post as allegations against the actor continued to stir debate in the Malayalam film industry. The exchange has kept the dispute involving actors Ansiba Hassan, Nina Kurup and Lakshmipriya in public view."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/desi-bling-krystle-dsouza-ap-dating-rumours-viral-party-cheek-kiss-video-2916544-2026-05-25",
-      "headline": "Desi Bling or Bollywood bling? Krystle D'Souza, AP set off dating rumours A party clip shows Desi Bling's AP appearing to kiss actor Krystle D'Souza on the cheek. The brief moment has triggered dating rumours as the show continues to climb up the popularity charts."
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/three-aiadmk-mlas-resign-switch-loyalties-to-vijays-tvk-2916718-2026-05-25",
-      "headline": "Three AIADMK MLAs resign, switch loyalties to Vijay's TVKThree AIADMK MLAs resign, switch loyalties to Vijay's TVK"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/west-asia-crisis-india-says-supplies-can-normalise-in-4-5-days-2916858-2026-05-25",
+      "headline": "Normalcy in 4-5 days if Iran war ends: Govt says no immediate energy crisisThe Centre told a parliamentary panel that India is prepared for disruptions from the West Asia crisis. Officials said reserves, alternate sourcing and port planning are in place to protect supplies."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/commodities/story/petrol-prices-india-rise-despite-crude-oil-below-100-why-reasons-omc-loss-recovery-weak-rupee-2916579-2026-05-25",
-      "headline": "Cheaper crude won't reduce your petrol, diesel expenses anytime soonGlobal crude oil prices have slipped below $100 a barrel, but petrol and diesel prices in India continue to rise. The gap reflects earlier oil company losses, a weaker rupee, heavy taxes and lingering geopolitical risks."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-ranveer-singh-banned-by-film-workers-federation-amid-row-over-abrupt-exit-from-farhan-akhtars-don-3-2916794-2026-05-25",
+      "headline": "Ranveer Singh faces industry-wide ban as Don 3 fallout escalatesActor Ranveer Singh has been banned by the Federation of Western India Cine Employees in India following Farhan Akhtar's complaint in the Don 3 row."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/three-aiadmk-mlas-resign-switch-loyalties-to-vijays-tvk-2916718-2026-05-25",
+      "headline": "3 AIADMK MLAs resign, switch to Vijay's TVK in fresh setback for EPSAIADMK MLAs Maragatham Kumaravel, Jayakumar and Sathyabama resigned from the Tamil Nadu Assembly and joined Chief Minister Vijay-led TVK."
     },
     {
       "sentiment": "positive",
@@ -215,74 +220,34 @@
       "headline": "Trump's Abraham Accords push puts Pakistan in existential bindUS President Donald Trump has reportedly urged Pakistan and several Muslim-majority nations to join the Abraham Accords after the Iran war ends, placing Shehbaz Sharif in a difficult spot as he balances growing US pressure with Pakistan's deeply sensitive public stance on Palestine."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/coimbatore-child-murder-bjp-slams-tamil-nadu-minister-s-keerthana-response-2916667-2026-05-25",
-      "headline": "Video of cop laughing at press meet over Coimbatore girl's murder sparks outrageVideos of senior Tamil Nadu police officers smiling during a press conference on the murder of a 10-year-old girl in Coimbatore have sparked massive outrage online, with critics accusing the administration of insensitivity and demanding accountability."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education-today/story/upsc-prelims-2026-gs-paper-1-why-aspirants-called-it-the-toughest-in-years-questions-list-2916658-2026-05-25",
-      "headline": "UPSC Prelims paper absurd? Solve these 5 questions in 6 minutes to find outUPSC aspirants and mentors say this year's General Studies Paper 1 was unusually tough, long and packed with questions that should have been part of the Mains or the analytical CSAT. Before judging the outrage, give yourself six minutes and try answering these five questions from the paper."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/delhi-gymkhana-eviction-lutyens-club-land-row-elitism-prime-minister-residence-7-lok-kalyan-marg-2916677-2026-05-25",
-      "headline": "Delhi Gymkhana elites fear losing speakeasy hub, critics slam hereditary cultureAs Delhi Gymkhana fights eviction from prime Lutyens' land, the row has reignited a larger debate on whether public land should continue subsidising hereditary privilege and elite exclusivity in modern India."
+      "headline": "Even babus can't save Delhi Gymkhana from its old boys' club imageAs Delhi Gymkhana fights eviction from prime Lutyens' land, the row has reignited a larger debate on whether public land should continue subsidising hereditary privilege and elite exclusivity in modern India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/twisha-sharma-death-case-supreme-court-backs-cbi-probe-dowry-death-samarth-singh-2916594-2026-05-25",
-      "headline": "Divorced daughter better than a dead one: MP government on Twisha Sharma caseThe Supreme Court said an independent agency should investigate Twisha Sharma's death and backed the Madhya Pradesh government's move for a CBI probe."
+      "url": "https://www.indiatoday.in/movies/story/padma-awards-2026-live-updates-president-droupadi-murmu-rashtrapati-bhavan-padma-vibhushan-padma-bhushan-2916704-2026-05-25",
+      "headline": "Padma Awards 2026: Hema Malini receives Padma Vibhushan on behalf of late DharmendraPadma Awards 2026 Live Updates: President of India Droupadi Murmu felicitated several distinguished achievers, including the late Dharmendra, Prosenjit Chatterjee and Arvind Vaidya, at the ceremony held at Rashtrapati Bhavan."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/punjab-assembly-election-2027-nayab-singh-saini-state-visit-bjp-outreach-aap-bhagwant-mann-non-jat-votes-2916181-2026-05-25",
-      "headline": "Why BJP picked Haryana CM Saini to spearhead Mission PunjabFrom wearing a saffron turban at every Punjab event to attacking the AAP on governance and law and order, Haryana CM Nayab Singh Saini has become the BJP's most visible face in Punjab. Saini is at the forefront as the BJP attempts to build a non-Jat social coalition for the 2027 Assembly polls in its biggest Punjab push in decades."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/nita-ambani-bursts-into-laughter-after-dhirubhai-ambani-international-school-students-witty-mumbai-indians-dig-in-speech-2916489-2026-05-25",
-      "headline": "Student ribs Mumbai Indians in graduation speech, Nita Ambani is in splits. WatchA student of Dhirubhai Ambani International School sprinkled his graduation speech with a Mumbai Indians joke, drawing laughter from Nita Ambani and the audience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/nalin-vandana-kohli-rock-performance-bjp-spokesperson-sourdough-band-pianoman-delhi-2916617-2026-05-25",
-      "headline": "BJP spokesperson by day, rockstar by night: Nalin Kohli leaves crowd groovingBJP spokesperson Nalin Kohli swapped TV debates for rock 'n' roll at Delhi's The Piano Man, performing alongside sister Vandana. Rooted in their Kolkata upbringing and Rabindra Sangeet training, the duo's high-energy act surprised audiences and sparked buzz online, with one viral reaction on X calling him \"pravakta (spokesperson) by day, rockstar by night.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-ethanol-capacity-surplus-e20-demand-oversupply-risk-2916651-2026-05-25",
-      "headline": "India's ethanol boom may soon face an oversupply crisisIndia's ethanol boom helped the country hit E20 early. Now distilleries, oil companies and policymakers are confronting a new question. Has India already built more ethanol capacity than it needs?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-2026-nishesh-basavareddy-indian-origin-charms-paris-crowd-french-win-taylor-fritz-2916641-2026-05-25",
-      "headline": "'Nishesh, Nishesh' echoes at Roland Garros after Indian-origin star's 1st round winFrench Open 2026: Indian-origin Nishesh Basavareddy stunned No. 7 seed Taylor Fritz at Roland Garros, then won over the Paris crowd with a French speech after sealing the biggest win of his young career."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/marco-rubio-taj-mahal-agra-first-india-visit-quad-talks-2916632-2026-05-25",
-      "headline": "Marco Rubio tours Taj Mahal in scorching heat. Jaipur nextMarco Rubio visited the Taj Mahal in Agra with his wife, Jeanette, during his first trip to India. The unusual halt added a cultural note to his four-city tour ahead of the quad talks in New Delhi."
+      "url": "https://www.indiatoday.in/opinion/story/babur-timurids-samarkand-why-hindustan-never-became-mughal-homeland-2916722-2026-05-25",
+      "headline": "The Samarkand Syndrome: Why Babur and family never became 'us'For the Timurids, or the Mughals of Hindustan, Samarkand remained their home, which they lost and could never get back. Bharat became the stage upon which their grandeur unfolded, while their imagination repeatedly drifted beyond the Hindu Kush toward the orchards, graves and memories of their homeland in Central Asia."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/india-finalises-lor-for-114-rafale-jets-with-major-local-production-push-2916531-2026-05-25",
-      "headline": "India moves closer to mega Rafale fighter jet deal, finalises request letterIndia has finalised a Letter of Request to France for 114 Rafale fighter aircraft. The proposed deal pairs a major local manufacturing push with a wider India-France defence partnership."
+      "url": "https://www.indiatoday.in/world/story/us-iran-news-middle-east-war-pakistani-shias-uae-workers-mass-deportation-islamabad-peacemaker-2916665-2026-05-25",
+      "headline": "Only crime we are Shia: Pakistanis deported from the UAE amid Iran warBetween the US-Iran war and the fracturing of ties between the UAE and Pakistan, the Pakistani Shia diaspora in the Emirate has become the grass trampled underfoot. Thousands of Shia Pakistanis face deportation, even as a Sunni-majority UAE faces unprovoked attacks from a Shia Iran and Islamabad's mediation bid."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/cockroach-janta-party-plea-supreme-court-declines-urgent-cbi-probe-hearing-2916664-2026-05-25",
-      "headline": "Don't take it sentimentally: SC rejects CBI probe plea against Cockroach partyAfter controversy over Chief Justice of India (CJI) Surya Kant's courtroom remarks spawned the satirical Cockroach Janta Party, the Supreme Court refused urgent hearing on a plea seeking a CBI probe into the online campaign."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-ban-farhan-akhtar-don-3-complaint-explained-2916861-2026-05-25",
+      "headline": "Ranveer Singh ban after Farhan Akhtar's Don 3 complaint: Tracing all that happenedFilm body FWICE has banned Ranveer Singh after Farhan Akhtar complained about the actor's reported exit from Don 3. How did it all start, and what happened down the years?"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pained-by-narrative-that-judiciary-delaying-trial-sc-says-handing-over-twisha-death-case-to-cbi-is-fair-2916566-2026-05-25",
-      "headline": "Pained by narrative that judiciary delaying trial: SC on Twisha Sharma death caseThe court stressed the need for a fair and impartial investigation, asked both sides to avoid public statements, and urged the media not to amplify comments made by family members during the ongoing probe."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/bharatanatyam-held-hostage-outrage-over-ananya-panday-chand-mera-dil-scene-explained-2916585-2026-05-25",
-      "headline": "Bharatanatyam held hostage! Outrage over Ananya's Chand Mera Dil scene explainedA Bharatanatyam-inspired fusion act from Chand Mera Dil has triggered massive online backlash, with classical dancers accusing Ananya Panday's performance of reducing an ancient art form to aesthetic chaos. But the internet may also be missing one key detail: the scene was never meant to be pure Bharatanatyam in the first place."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/coimbatore-child-murder-bjp-slams-tamil-nadu-minister-s-keerthana-response-2916667-2026-05-25",
+      "headline": "Video of cop laughing at press meet over Coimbatore girl's murder sparks outrageA video showing senior Tamil Nadu police officers smiling during a press conference on the murder of a 10-year-old girl in Coimbatore has sparked massive outrage online, with critics accusing the administration of insensitivity and demanding accountability."
     },
     {
       "sentiment": "positive",
@@ -291,28 +256,63 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/plane-rips-through-womans-parachute-over-austrian-alps-in-terrifying-viral-video-2916538-2026-05-25",
-      "headline": "Plane rips through woman's parachute over Alps. Video captures terrifying momentA sightseeing plane flew through Sabrina's paraglider canopy near Schmittenh\u00f6he in northern Austria. The first-person footage of her emergency parachute deployment and survival has gone viral online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/dev-kumar-meena-kuldeep-kumar-pole-vault-record-e-rickshaw-ranchi-2916525-2026-05-25",
-      "headline": "How India treats its champions: Record-breakers left hauling poles on e-rickshawHours after shattering the national record with identical 5.45m leaps at the 2026 Federation Cup, a viral video exposed India's top pole vaulters Dev Meena and Kuldeep Kumar hauling their 5m poles on a cramped e-rickshaw."
+      "url": "https://www.indiatoday.in/business/commodities/story/petrol-prices-india-rise-despite-crude-oil-below-100-why-reasons-omc-loss-recovery-weak-rupee-2916579-2026-05-25",
+      "headline": "Cheaper crude won't reduce your petrol, diesel expenses anytime soonGlobal crude oil prices have slipped below $100 a barrel, but petrol and diesel prices in India continue to rise. The gap reflects earlier oil company losses, a weaker rupee, heavy taxes and lingering geopolitical risks."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/desi-bling-tabinda-sanpal-satish-sanpal-remarks-backlash-normalising-infidelity-2916547-2026-05-25",
-      "headline": "Desi Bling couple Satish, Tabinda Sanpal face backlash for normalising infidelitySatish and Tabinda Sanpal drew backlash after her comments on Desi Bling about his partying with different women went viral. The remarks prompted criticism from social media users and public figures who said they normalised infidelity."
+      "headline": "Desi Bling couple Tabinda, Satish Sanpal face backlash for normalising infidelityTabinda and Satish Sanpal drew backlash after her comments on Desi Bling about his partying with different women went viral. The remarks prompted criticism from social media users and public figures who said they normalised infidelity."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-high-court-admits-plea-against-governments-move-to-take-over-capitals-iconic-gymkhana-club-2916561-2026-05-25",
-      "headline": "Delhi Gymkhana goes to HC against government's eviction order, hearing tomorrowThe government had mentioned in their notice earlier that the land is needed for strengthening defence infrastructure, governance-related facilities and other critical public security requirements."
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-re-test-re-evaluation-portal-chaos-fairness-under-strain-2916609-2026-05-25",
+      "headline": "CBSE Class 12 re-test? Why it's the nuclear option nobody wantsAs falling pass percentages, portal crashes and re-evaluation chaos spark outrage, a larger question now hangs over India's education system. Should we press that button?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/organic-cucumber-farming-mau-iti-graduate-earns-rs-1-5-lakh-in-23-days-2916293-2026-05-24",
-      "headline": "Rs 1.5 lakh in 23 days: ITI pass-out says no to job, earns through organic farmingAkhilesh Maurya, an ITI-trained graduate from Mau, Uttar Pradesh, turned to organic cucumber farming after returning home. His reported earnings and low cultivation costs have brought focus to crop diversification and village-based livelihoods in present time."
+      "url": "https://www.indiatoday.in/india/law-news/story/twisha-sharma-death-case-supreme-court-backs-cbi-probe-dowry-death-samarth-singh-2916594-2026-05-25",
+      "headline": "Divorced daughter better than a dead one: MP government on Twisha Sharma caseThe Supreme Court said an independent agency should investigate Twisha Sharma's death and backed the Madhya Pradesh government's move for a CBI probe."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-demands-fitment-factor-ops-family-unit-government-middle-path-2916714-2026-05-25",
+      "headline": "8th Pay Commission: Why govt may not accept all demands by employee unionsEmployee unions have pressed the 8th Pay Commission for a higher fitment factor, pension changes and a five-family formula. A senior representative said fiscal pressure and long-term liabilities could push the government towards a middle path."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/bharatanatyam-held-hostage-outrage-over-ananya-panday-chand-mera-dil-scene-explained-2916585-2026-05-25",
+      "headline": "Bharatanatyam held hostage! Outrage over Ananya's Chand Mera Dil scene explainedA Bharatanatyam-inspired fusion act from Chand Mera Dil has triggered massive online backlash, with classical dancers accusing Ananya Panday's performance of reducing an ancient art form to aesthetic chaos. But the internet may also be missing one key detail: the scene was never meant to be pure Bharatanatyam in the first place."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-padma-shri-ceremony-absence-rashtrapati-bhavan-award-reason-2916856-2026-05-25",
+      "headline": "Why Rohit Sharma missed the Padma Shri ceremony in DelhiRohit Sharma's absence from the Padma Shri ceremony in New Delhi surprised many fans, but the former India captain has not missed out on the honour itself. The Mumbai Indians star is expected to receive India's fourth-highest civilian award during a later investiture ceremony at Rashtrapati Bhavan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/punjab-assembly-election-2027-nayab-singh-saini-state-visit-bjp-outreach-aap-bhagwant-mann-non-jat-votes-2916181-2026-05-25",
+      "headline": "Why BJP picked Haryana CM Saini to spearhead Mission PunjabFrom wearing a saffron turban at every Punjab event to attacking the AAP on governance and law and order, Haryana CM Nayab Singh Saini has become the BJP's most visible face in Punjab. Saini is at the forefront as the BJP attempts to build a non-Jat social coalition for the 2027 Assembly polls in its biggest Punjab push in decades."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/harmanpreet-kaur-padma-shri-president-droupadi-murmu-rashtrapati-bhavan-2916828-2026-05-25",
+      "headline": "World Cup hero Harmanpreet Kaur receives Padma Shri, stuns in ethnic look: VideoPresident Droupadi Murmu presented the Padma Shri to Harmanpreet Kaur at Rashtrapati Bhavan on Monday. The honour recognises her contribution to Indian cricket ahead of the Women's T20 World Cup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/society/story/clean-air-over-10-min-convenience-3-nri-families-share-why-they-dont-miss-india-2915660-2026-05-25",
+      "headline": "Clean air over 10-min convenience: 3 NRI families share why they don't miss IndiaIf given an option, would you choose the convenience that India has to offer, or a life abroad with cleaner air, better food quality, higher pay, work-life balance and a better standard of living? Three NRI families weigh in on just that."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/maadhaar-app-discontinued-uidai-new-aadhaar-app-qr-face-authentication-2916797-2026-05-25",
+      "headline": "mAadhaar to be discontinued, govt announces new Aadhaar app: Check details hereThe government has confirmed that the mAadhaar app will soon be discontinued as UIDAI rolls out a new Aadhaar app with upgraded security and QR-based verification features. The new platform focuses on selective data sharing, biometric controls, and multi-layer authentication for safer digital identity access."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/debashish-samantaray-quits-bjd-amid-turmoil-bjp-speculation-2916645-2026-05-25",
+      "headline": "Another BJD MP quits party amid turmoil, buzz grows over BJP switchBJD Rajya Sabha MP Debashish Samantaray resigned from the party, saying he felt belittled over time. His exit adds to the party's post-election turmoil as speculation grows over a possible move to the BJP."
     },
     {
       "sentiment": "positive",
@@ -323,58 +323,108 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/iga-swiatek-french-open-win-emerson-jones-first-round-2916900-2026-05-25",
+      "headline": "Need to stay humble: Iga Swiatek after cruising through French Open first-round French Open 2026: Iga Swiatek brushed aside debutant Emerson Jones 6-1, 6-2 in just one hour at Roland Garros. The efficient start, despite a brief finger blister concern, came amid her coaching change and a titleless clay season."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mohammed-siraj-kagiso-rabada-rcb-vs-gt-qualifier-1-2916904-2026-05-25",
+      "headline": "Siraj x Rabada: GT pace duo carry huge hopes into Qualifier 1 vs RCB Vijay Dahiya said Mohammed Siraj and Kagiso Rabada have formed a strong bowling partnership for Gujarat Titans ahead of Qualifier 1 against Royal Challengers Bengaluru. Their powerplay impact has shaped GT's campaign and sets up a key pace battle in Dharamsala."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-padma-shri-ceremony-absence-rashtrapati-bhavan-award-reason-2916856-2026-05-25",
+      "headline": "Why Rohit Sharma missed the Padma Shri ceremony in Delhi Rohit Sharma's absence from the Padma Shri ceremony in New Delhi surprised many fans, but the former India captain has not missed out on the honour itself. The Mumbai Indians star is expected to receive India's fourth-highest civilian award during a later investiture ceremony at Rashtrapati Bhavan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-vs-gt-tim-david-odi-return-andrew-mcdonald-australia-2916835-2026-05-25",
+      "headline": "RCB power-hitter Tim David to make comeback for Australia in 2027 ODI World Cup? Andrew McDonald has reopened the ODI door for Tim David after two retirements. Australia need middle-order finishing power, but David must commit to bilateral cricket before any World Cup push."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/harmanpreet-kaur-padma-shri-president-droupadi-murmu-rashtrapati-bhavan-2916828-2026-05-25",
+      "headline": "World Cup hero Harmanpreet Kaur receives Padma Shri, stuns in ethnic look: Video President Droupadi Murmu presented the Padma Shri to Harmanpreet Kaur at Rashtrapati Bhavan on Monday. The honour recognises her contribution to Indian cricket ahead of the Women's T20 World Cup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-sai-sudharsan-best-ever-ipl-batting-pair-suresh-raina-2916803-2026-05-25",
+      "headline": "Shubman Gill, Sai Sudharsan best ever IPL batting pair: Suresh Raina Spain finally announced their FIFA World Cup 2026 squad, but the biggest talking point quickly became the complete absence of Real Madrid players. Euro 2024 champions Spain head into the tournament as one of the favourites, with Barcelona stars dominating Luis de la Fuente's squad."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-maja-chwalinska-stuns-zheng-qinwen-first-round-2916795-2026-05-25",
+      "headline": "Olympic champion Zheng Qinwen stunned by Poland youngster in major upset French Open 2026: Maja Chwalinska produced a major Roland Garros upset by defeating Olympic champion Zheng Qinwen 6-4, 6-0 in the first round, storming into the second round on her main-draw debut in the tournament."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-spain-squad-announcement-no-real-madrid-players-2916781-2026-05-25",
+      "headline": "Spain pick World Cup squad with no Real Madrid players Spain have named a 26-man World Cup squad without a single Real Madrid player, despite expectations around Dean Huijsen, Alvaro Carreras and Fran Garcia. The Barcelona-heavy selection has triggered strong reaction among supporters as Luis de la Fuente backs continuity before the Group H campaign."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/magnus-carlsen-classical-chess-shift-rapid-blitz-norway-chess-world-no-1-2916750-2026-05-25",
+      "headline": "Magnus Carlsen says others can chase World No. 1 as his chess priorities shift At Norway Chess, Magnus Carlsen said he now prefers a steadier mix weighted towards rapid and blitz over the grind of classical chess. The top-ranked Norwegian also argued the sport needs faster, tougher formats that create mistakes instead of preserving stale orthodoxy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/gurindervir-singh-100m-national-record-anand-mahindra-ranchi-2916733-2026-05-25",
+      "headline": "Flying Sikh 2.0 Gurindervir Singh leaves Anand Mahindra stunned with record run Anand Mahindra hailed Gurindervir Singh as a new hero of Indian sprinting after the Punjab athlete broke the men's 100m national record twice in two days in Ranchi, finally clocking 10.09 seconds to become India's fastest man."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/formula-one/story/canadian-gp-lewis-hamilton-ferrari-breakthrough-kimi-antonelli-f1-history-2916701-2026-05-25",
       "headline": "Canadian GP: Hamilton claims Ferrari breakthrough, Antonelli creates F1 history Kimi Antonelli won the Canadian Grand Prix after George Russell retired, while Lewis Hamilton finished second for Ferrari. Antonelli's run extended his early-season dominance as Hamilton said Ferrari's changes finally made him comfortable."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-first-man-200-t20-chris-gayle-record-kevin-pietersen-2916690-2026-05-25",
-      "headline": "Vaibhav wants first 200 in T20s, dreams of surpassing Chris Gayle's feat Vaibhav Sooryavanshi wants to become the first batter to score 200 in T20s. The target also reflects his wish to go past Chris Gayle's feat."
+      "headline": "Vaibhav wants first 200 in T20s, dreams of surpassing Chris Gayle's featVaibhav Sooryavanshi wants to become the first batter to score 200 in T20s. The target also reflects his wish to go past Chris Gayle's feat."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-kkr-captaincy-ipl-2026-playoff-exit-pressure-2916683-2026-05-25",
-      "headline": "Ajinkya Rahane stays firm on captaincy after Kolkata's exit: I never back down Ajinkya Rahane defended his captaincy despite Kolkata Knight Riders crashing out of the tournament. KKR stayed alive until the last day before Rajasthan's win over Mumbai at the Wankhede knocked them out."
+      "headline": "Ajinkya Rahane stays firm on captaincy after Kolkata's exit: I never back downAjinkya Rahane defended his captaincy despite Kolkata Knight Riders crashing out of the tournament. KKR stayed alive until the last day before Rajasthan's win over Mumbai at the Wankhede knocked them out."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/french-open-day-2-live-updates-iga-swiatek-elena-rybakina-gael-monfils-2916682-2026-05-25",
-      "headline": "Day 2 Live Updates: Swiatek vs Jones underway, Paolini dominates Yastremska French Open Day 2 Live Updates: Jasmine Paolini has kicked off the day with her match against Ukraine's Dayana Yastremska. Iga Swiatek is also in action against wildcard Emerson Jones on Centre Court. Later in the day, Elena Rybakina, Ben Shelton, and power couple Gael Monfils and Elina Svitolina will play."
+      "headline": "Day 2 Live Updates: Rybakina wins against Erjavec, Swiatek hammers JonesFrench Open Day 2 Live Updates: Elena Rybakina wins against Veronika Erjavec 6-2, 6-2. Jasmine Paolini has beaten Ukraine's Dayana Yastremska to reach the second round. Iga Swiatek also got the better of wildcard Emerson Jones. Later in the day, Ben Shelton, and power couple Gael Monfils and Elina Svitolina will play."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/french-open-2026-nishesh-basavareddy-indian-origin-charms-paris-crowd-french-win-taylor-fritz-2916641-2026-05-25",
-      "headline": "'Nishesh, Nishesh' echoes at Roland Garros after Indian-origin star's 1st round win French Open 2026: Indian-origin Nishesh Basavareddy stunned No. 7 seed Taylor Fritz at Roland Garros, then won over the Paris crowd with a French speech after sealing the biggest win of his young career."
+      "headline": "'Nishesh, Nishesh' echoes at Roland Garros after Indian-origin star's 1st round winFrench Open 2026: Indian-origin Nishesh Basavareddy stunned No. 7 seed Taylor Fritz at Roland Garros, then won over the Paris crowd with a French speech after sealing the biggest win of his young career."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/enhanced-games-results-doping-world-record-clean-athletes-win-2916605-2026-05-25",
-      "headline": "Doping Olympics' sprinters miss Bolt's record, clean athletes win despite odds The inaugural Enhanced Games in Las Vegas promised a superhuman, drug-fuelled show. Instead, clean athletes gatecrashed the party, leaving doping advocates with an awkward reality check."
+      "headline": "Doping Olympics' sprinters miss Bolt's record, clean athletes win despite oddsThe inaugural Enhanced Games in Las Vegas promised a superhuman, drug-fuelled show. Instead, clean athletes gatecrashed the party, leaving doping advocates with an awkward reality check."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/megan-schutt-final-icc-tournament-womens-t20-world-cup-australia-2916602-2026-05-25",
-      "headline": "Australia pace legend set to retire from ICC events after Women's T20 World Cup Australian fast bowler Megan Schutt has confirmed that the 2026 Women's T20 World Cup in England and Wales will be her final ICC tournament, bringing the curtain down on a decorated global career."
+      "headline": "Australia pace legend set to retire from ICC events after Women's T20 World CupAustralian fast bowler Megan Schutt has confirmed that the 2026 Women's T20 World Cup in England and Wales will be her final ICC tournament, bringing the curtain down on a decorated global career."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vidit-gujrathi-chess-india-final-benjamin-bok-esports-world-cup-spot-2916582-2026-05-25",
-      "headline": "Vidit Gujrathi storms into Esports Chess World Cup Qualifier final Vidit Gujrathi reached the grand final of the India Rising: Road to EWC qualifiers and is now one win away from securing a spot at the 2026 Esports World Cup chess event."
+      "headline": "Vidit Gujrathi storms into Esports Chess World Cup Qualifier finalVidit Gujrathi reached the grand final of the India Rising: Road to EWC qualifiers and is now one win away from securing a spot at the 2026 Esports World Cup chess event."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-aryna-sabalenka-viral-dance-french-open-2026-2916564-2026-05-25",
-      "headline": "Novak Djokovic challenges Aryna Sabalenka with special dance move French Open 2026: Novak Djokovic revived his viral battle dance celebration and playfully challenged Aryna Sabalenka after his victory over Giovanni Mpetshi Perricard on Sunday, May 24."
+      "headline": "Novak Djokovic challenges Aryna Sabalenka with special dance moveFrench Open 2026: Novak Djokovic revived his viral battle dance celebration and playfully challenged Aryna Sabalenka after his victory over Giovanni Mpetshi Perricard on Sunday, May 24."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/axar-patel-backs-sunrisers-hyderabad-ipl-2026-title-kkr-vs-dc-2916536-2026-05-25",
-      "headline": "Axar Patel backs SRH to win IPL 2026 title: That top 3 is formidable Delhi Capitals captain Axar Patel backs SunRisers Hyderabad to win the IPL this season. Axar said that if the top 3 click for SRH it might be difficult to stop the team from a title charge."
+      "headline": "Axar Patel backs SRH to win IPL 2026 title: That top 3 is formidableDelhi Capitals captain Axar Patel backs SunRisers Hyderabad to win the IPL this season. Axar said that if the top 3 click for SRH it might be difficult to stop the team from a title charge."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/travis-head-virat-kohli-ipl-2026-jessica-head-online-abuse-2916528-2026-05-25",
-      "headline": "After Virat Kohli spat, Travis Head's wife reveals facing hate, brutal online abuse Jessica Head revealed she faced fresh online abuse and trolling after Travis Head's on-field spat with Virat Kohli during the IPL 2026 clash between Sunrisers Hyderabad and Royal Challengers Bengaluru."
+      "headline": "After Virat Kohli spat, Travis Head's wife reveals facing hate, brutal online abuseJessica Head revealed she faced fresh online abuse and trolling after Travis Head's on-field spat with Virat Kohli during the IPL 2026 clash between Sunrisers Hyderabad and Royal Challengers Bengaluru."
     },
     {
       "sentiment": "positive",
@@ -425,56 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/pep-guardiola-tears-manchester-city-farewell-guard-of-honour-2916449-2026-05-25",
       "headline": "Emotional Pep Guardiola breaks down in tears in Manchester City farewellPep Guardiola could not hold back his emotions as Manchester City players formed a guard of honour for Bernardo Silva during an emotional farewell at the Etihad Stadium on Sunday."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-tottenham-survive-west-ham-relegated-final-day-2916441-2026-05-24",
-      "headline": "Premier League: Tottenham survive as West Ham suffer relegation on final dayTottenham Hotspur narrowly avoided relegation from the Premier League on a dramatic final day of the season, surviving with a tense 1-0 win over Everton while West Ham United were condemned to the Championship despite beating Leeds United 3-0 on Sunday."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rajasthan-royals-troll-punjab-kings-ipl-playoffs-2916419-2026-05-24",
-      "headline": "Punjab's toxic social media game backfires after Rajasthan reach IPL playoffsPunjab Kings were brutally roasted by Rajasthan Royals on social media after they beat Punjab to seal the final playoffs spot on Sunday, May 24. Punjab have been caught in several off-field controversies this season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/bruno-fernandes-premier-league-assist-record-manchester-united-brighton-2916418-2026-05-24",
-      "headline": "Bruno Fernandes breaks Premier League's assist record to cap stellar seasonBruno Fernandes supplied his 21st assist of the Premier League season as Patrick Dorgu headed Manchester United ahead at Brighton. This completed a stellar season for Fernandes and United."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/kuldeep-kumar-dev-meena-pole-vault-national-record-federation-cup-2026-2916402-2026-05-24",
-      "headline": "National record falls twice as Kuldeep and Dev Meena light up men's pole vaultKuldeep Kumar and Dev Meena lit up the Federation Cup 2026 in Ranchi with a gripping pole vault contest on Sunday, as the duo broke the men's National Record twice before finishing as joint record holders."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-playoffs-schedule-rcb-vs-gt-qualifier-1-srh-vs-rr-eliminator-2916386-2026-05-24",
-      "headline": "IPL 2026 playoffs: RCB vs GT in Qualifier 1, SRH vs RR in EliminatorThe playoffs for IPL 2026 have been set after Rajasthan Royals defeated Mumbai Indians by 30 runs in the first match of Sunday's double-header at the Wankhede Stadium. Royal Challengers Bengaluru will now face Gujarat Titans in Qualifier 1, while Rajasthan Royals will take on Sunrisers Hyderabad in the Eliminator."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mi-vs-rr-report-jofra-archer-suryakumar-yadav-hardik-pandya-wankhede-2916384-2026-05-24",
-      "headline": "MI vs RR: Archer storm pushes Rajasthan into playoffs, dumps PBKS and KKR outJofra Archer starred with 32 off 15 and 3 for 17 as Rajasthan Royals beat Mumbai Indians and reached the playoffs. The win for the Royals mean that KKR and PBKS have been knocked out of the tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-dismisses-wrist-injury-rumours-amid-india-t20-captaincy-doubt-2916367-2026-05-24",
-      "headline": "Suryakumar Yadav slams wrist injury rumours: People don't understand cricketIndia's T20 captain Suryakumar Yadav has firmly dismissed rumours surrounding an alleged wrist injury, saying those questioning his fitness \"don't understand cricket\" and insisting his shot-making itself is proof that he is fully fit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kkr-vs-dc-live-score-ipl-2026-kolkata-vs-delhi-match-rahane-kl-rahul-2916356-2026-05-24",
-      "headline": "KKR vs DC highlights: Kuldeep Yadav rattles Kolkata, KKR finish 7th in IPL tableKKR vs DC highlights, IPL 2026: Kuldeep Yadav marked his return in a stunning three-wicket haul to complement KL Rahul's blazing half-century at the top as Delhi Capitals outclassed an out-of-sorts Kolkata Knight Riders by 40 runs, in an inconsequential final league match of the IPL on Sunday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ravindra-jadeja-shardul-thakur-no-ball-banter-boundaries-wankhede-mi-vs-rr-ipl-2026-2916350-2026-05-24",
-      "headline": "MI vs RR: Jadeja makes Shardul pay for costly no-ball with banter, boundariesShardul Thakur thought he had Ravindra Jadeja, only for a no-ball to drag him back. Jadeja answered with banter, two boundaries and laughter on both sides."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/david-warner-srh-ipl-2026-kavya-maran-hyderabad-2916289-2026-05-24",
-      "headline": "Warner says SRH still have him blocked on social media: Never getting unblockedDavid Warner said Sunrisers Hyderabad still appears to have him blocked on Instagram. The exchange reopened an old rupture between player and team, despite one of the IPL's most successful partnerships."
     }
   ],
   "education": [
