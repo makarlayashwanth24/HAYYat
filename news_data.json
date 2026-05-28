@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-us-trade-deal-rubio-500-billion-goods-claim-raises-scrutiny-new-delhi-2918800-2026-05-29",
+      "headline": "Why India may be taking risky bet with $500 billion US dealMarco Rubio said in New Delhi that India had committed to buying $500 billion of American goods over five years. The remark has intensified scrutiny of whether the proposed arrangement offers India enough return."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/gen-z-salary-leak-small-app-subscriptions-netflix-spotify-draining-monthly-income-2918488-2026-05-28",
       "headline": "The hidden salary leak Gen Z didn't notice until bank balances started shrinkingYoung salaried Indians are discovering that small app subscriptions are quietly eating into their monthly income. The online debate has sharpened focus on how auto-debits and convenience spending can distort budgeting."
     },
@@ -94,14 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/companies/story/byju-raveendran-jailed-by-singapore-court-in-byjus-collapse-case-edtech-collapese-messi-bcci-deal-2917752-2026-05-27",
       "headline": "From Messi to mounting lawsuits: Inside the collapse of Byju's empireA Singapore court sentenced Byju Raveendran to six months in jail for contempt over asset-related orders. The ruling sharpens focus on Byju's steep fall from a $22 billion edtech darling to a company facing debt, lawsuits and insolvency proceedings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tata-sons-board-meeting-air-india-bigbasket-losses-tata-electronics-focus-ipo-2917730-2026-05-27",
-      "headline": "Air India, BigBasket, Tata Electronics: Inside Tata's key boardroom discussionsTata Sons' latest board meeting stayed calm as operating chiefs answered questions on Air India, BigBasket and other businesses. The discussions showed tighter scrutiny of profits, capital allocation and the group's long-term strategic bets."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/bruce-willis-daughter-rumer-accuses-ex-derek-thomas-of-abuse-amid-custody-fight-2918785-2026-05-28",
+      "headline": "Bruce Willis' daughter Rumer accuses ex Derek Thomas of abuse amid custody fight Actor Bruce Willis' daughter Rumer Willis has made serious allegations against former partner Derek Richard Thomas during an ongoing custody battle over their daughter. Court filings reveal competing claims from both sides."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-shares-update-on-indias-got-latent-season-2-shooting-underway-2918705-2026-05-28",
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/reviews/story/kattalan-review-antony-varghese-film-pan-indian-style-weakens-promising-thriller-2918500-2026-05-28",
       "headline": "Kattalan review: Antony Varghese's film is all style, little substanceRelease Date:Thu May 28, 2026 Kattalan movie review: Set in the world of Marco, Kattalan presents a stylised tale of elephant tusk smugglers caught in a power struggle over the cartel and the forest that fuels their illegal trade."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-congratulates-karuppu-director-rj-balaji-over-films-success-youve-achieved-2918494-2026-05-28",
-      "headline": "You've achieved: Rajinikanth congratulates Karuppu director over film's success Rajinikanth called RJ Balaji after watching Karuppu and praised the film's success. The appreciation came as Suriya's fantasy drama crossed Rs 200 crore globally and revived box-office momentum for Tamil cinema."
     }
   ],
   "general news": [
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/tehrans-days-of-terrorising-world-over-us-warns-iran-against-hormuz-tolls-threatens-sanctions-on-oman-2918702-2026-05-28",
-      "headline": "US threatens sanctions on Oman for siding with Iran on Hormuz toll systemUS Treasury Secretary Scott Bessent warned that the US Treasury would aggressively pursue sanctions against any individual, entity or country involved in facilitating such a system."
+      "url": "https://www.indiatoday.in/business/story/india-us-trade-deal-rubio-500-billion-goods-claim-raises-scrutiny-new-delhi-2918800-2026-05-29",
+      "headline": "Why India may be taking risky bet with $500 billion US dealMarco Rubio said in New Delhi that India had committed to buying $500 billion of American goods over five years. The remark has intensified scrutiny of whether the proposed arrangement offers India enough return."
     },
     {
       "sentiment": "positive",
@@ -226,23 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/karnataka-leadership-change-live-updates-siddaramaiah-resignation-governor-meet-dk-shivakumar-cm-race-2918269-2026-05-28",
-      "headline": "Live: Siddaramaiah-Rahul Gandhi meet postponed to tomorrow after flight diversionKarnataka CM News Live Updates: Siddaramaiah has resigned as the Chief Minister of Karnataka after informing his Cabinet colleagues of his decision during a breakfast meeting hosted at his official residence earlier in the day. He later held a joint press conference with Deputy Chief Minister DK Shivakumar amid dramatic political developments in the state. Karnataka witnessed a major political transition on Thursday as Siddaramaiah stepped down from the Chief Minister's post, paving the way for Deputy Chief Minister DK Shivakumar to take over the top job. Stay tuned to indiatoday.in for the latest live updates from Karnataka."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/story/wont-spare-anyone-responsible-dharmendra-pradhan-to-india-today-on-neet-ug-paper-leak-cbse-fiasco-2918755-2026-05-28",
       "headline": "No one will be spared: Dharmendra Pradhan vows crackdown over NEET, CBSE fiascoUnion Education Minister Dharmendra Pradhan said no one involved in exam irregularities or paper leaks would be spared, calling the NEET controversy \"unfortunate\" and promising strict action after a thorough investigation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/rajasthan-woman-22-pregnant-with-sixth-child-for-another-son-doctor-raises-alarm-video-2918371-2026-05-28",
-      "headline": "Rajasthan woman, 22, pregnant with sixth child for another son; doctor raises alarmThe video was shared by Dr Pragya Tomar, a gynaecologist at Spandan Hospital in Baraut, who questioned the toll that repeated pregnancies can take on a woman's health when driven by a preference for male children."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-sunil-gavaskar-viral-feet-touching-moment-ipl-2026-rr-vs-gt-2918762-2026-05-28",
-      "headline": "What did Gavaskar tell Vaibhav Sooryavanshi during viral feet-touching moment?Vaibhav Sooryavanshi touched Sunil Gavaskar's feet before the Rajasthan Royals' Eliminator against Sunrisers Hyderabad, and the Indian legend has now revealed what he actually told the young prodigy."
+      "url": "https://www.indiatoday.in/world/story/crazy-love-for-israel-benjamin-netanyahu-says-india-backs-him-more-than-any-country-2918801-2026-05-29",
+      "headline": "Crazy love for Israel: Netanyahu says India backs him more than any countryBenjamin Netanyahu said India has a unique place in Israel's global outreach and praised strong public support. His remarks came months after Narendra Modi's visit raised bilateral ties to a special strategic partnership."
     },
     {
       "sentiment": "positive",
@@ -251,8 +241,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-loses-juan-manual-cerundolo-french-open-2918669-2026-05-28",
-      "headline": "Too hot to handle? Sinner cramps and crashes out in major French Open upset Live UpdatesJannik Sinner crashed out of the French Open after losing a 5-set encounter against unseeded Juan Manuel Cerundolo in Paris. The World No.1 struggled with dizziness, dehydration and movement issues in the intense heat after leading comfortably early in the match."
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-sunil-gavaskar-viral-feet-touching-moment-ipl-2026-rr-vs-gt-2918762-2026-05-28",
+      "headline": "What did Gavaskar tell Vaibhav Sooryavanshi during viral feet-touching moment?Vaibhav Sooryavanshi touched Sunil Gavaskar's feet before the Rajasthan Royals' Eliminator against Sunrisers Hyderabad, and the Indian legend has now revealed what he actually told the young prodigy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/rajasthan-woman-22-pregnant-with-sixth-child-for-another-son-doctor-raises-alarm-video-2918371-2026-05-28",
+      "headline": "Rajasthan woman, 22, pregnant with sixth child for another son; doctor raises alarmThe video was shared by Dr Pragya Tomar, a gynaecologist at Spandan Hospital in Baraut, who questioned the toll that repeated pregnancies can take on a woman's health when driven by a preference for male children."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/siddaramaiah-dk-shivakumar-karnataka-cm-change-rahul-gandhi-talks-2918788-2026-05-29",
+      "headline": "Siddaramaiah to meet Rahul Gandhi today over breakfast following resignationSiddaramaiah was originally scheduled to meet Congress leader Rahul Gandhi on Thursday, just hours after stepping down as the state's longest-serving CM. However, bad weather forced his chartered flight to divert to Jaipur."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/tehrans-days-of-terrorising-world-over-us-warns-iran-against-hormuz-tolls-threatens-sanctions-on-oman-2918702-2026-05-28",
+      "headline": "US threatens sanctions on Oman for siding with Iran on Hormuz toll systemUS Treasury Secretary Scott Bessent warned that the US Treasury would aggressively pursue sanctions against any individual, entity or country involved in facilitating such a system."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/after-firing-8000-employees-mark-zuckerberg-hints-meta-may-enter-cloud-computing-space-take-on-aws-2918293-2026-05-28",
+      "headline": "After firing 8,000 employees, Meta may enter cloud computing spaceMeta may soon take on Amazon Web Services (AWS). Meta CEO Mark Zuckerberg has claimed that it could join the cloud computing market as it continues to get requests for selling compute."
     },
     {
       "sentiment": "positive",
@@ -261,8 +271,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/after-firing-8000-employees-mark-zuckerberg-hints-meta-may-enter-cloud-computing-space-take-on-aws-2918293-2026-05-28",
-      "headline": "After firing 8,000 employees, Meta may enter cloud computing spaceMeta may soon take on Amazon Web Services (AWS). Meta CEO Mark Zuckerberg has claimed that it could join the cloud computing market as it continues to get requests for selling compute."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-eliminator-vaibhav-sooryavanshi-srh-vs-rr-respect-sixes-2918337-2026-05-28",
+      "headline": "The two worlds of Vaibhav Sooryavanshi: When respect stops at the boundary ropeIPL 2026 Eliminator: Off the field, Vaibhav Sooryavanshi is all grace and humility, seeking blessings from legends before battle. On it, he is something else entirely: a fifteen-year-old phenomenon for whom respect ends precisely where the boundary rope begins."
     },
     {
       "sentiment": "negative",
@@ -270,19 +280,14 @@
       "headline": "Burnt body gets man, son arrested for daughter's murder. She then turns up aliveA headless burnt body, a murder charge, two men sent to jail and a woman believed dead \u2014 until she suddenly returned alive. The bizarre case has now triggered fresh questions over the police investigation across two states."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/diu/story/karnataka-cm-change-siddaramaiah-resigns-after-record-tenure-dk-shivakumar-next-2918670-2026-05-28",
-      "headline": "Siddaramaiah set to hand over baton after record tenure in KarnatakaSiddaramaiah resigned as Karnataka Chief Minister, clearing the way for DK Shivakumar. The handover follows a long power struggle and leaves the Congress managing caste and factional pressures."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-eliminator-vaibhav-sooryavanshi-srh-vs-rr-respect-sixes-2918337-2026-05-28",
-      "headline": "The two worlds of Vaibhav Sooryavanshi: When respect stops at the boundary ropeIPL 2026 Eliminator: Off the field, Vaibhav Sooryavanshi is all grace and humility, seeking blessings from legends before battle. On it, he is something else entirely: a fifteen-year-old phenomenon for whom respect ends precisely where the boundary rope begins."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-unfollows-srk-ananya-panday-and-manish-malhotra-on-instagram-2918753-2026-05-28",
       "headline": "It's digital detox: Karan Johar clarifies unfollowing Shah Rukh Khan and othersKaran Johar has finally reacted after fans noticed he unfollowed Shah Rukh Khan, Ananya Panday and several Bollywood celebrities on Instagram. Here's what the filmmaker said."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/cbi-arrests-twisha-sharmas-mother-in-law-giribala-singh-hours-after-court-cancels-anticipatory-bail-2918592-2026-05-28",
+      "headline": "CBI arrests Twisha Sharma's mother-in-law after court cancels anticipatory bailThe arrest came just hours after the Madhya Pradesh High Court cancelled the anticipatory bail granted to Twisha Sharma's mother-in-law Giribala Singh."
     },
     {
       "sentiment": "positive",
@@ -291,13 +296,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/south/story/bengaluru-techie-quit-job-turned-farmer-killed-lightning-strike-near-mysuru-karnataka-kodagu-2918628-2026-05-28",
-      "headline": "Bengaluru techie leaves corporate job for farming, killed by lightning in fieldA Bengaluru techie who had left his corporate job for farming was killed after lightning struck him near Yelwala, Mysuru. He had recently moved from the IT sector into agriculture and modern farming equipment marketing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/aiims-darbhanga-project-delayed-rti-reveals-why-work-remains-stuck-2918496-2026-05-28",
-      "headline": "RTI reveals truth behind AIIMS Darbhanga, the medical college with only a gateEven after 11 years since the announcement of AIIMS Darbhanga and a year and a half since the foundation stone was laid, construction of the main hospital and academic block has not yet begun. The project budget has increased by 59 per cent to Rs 2,006 crore, but not even 1 per cent of this amount has been spent."
+      "url": "https://www.indiatoday.in/diu/story/karnataka-cm-change-siddaramaiah-resigns-after-record-tenure-dk-shivakumar-next-2918670-2026-05-28",
+      "headline": "Siddaramaiah set to hand over baton after record tenure in KarnatakaSiddaramaiah resigned as Karnataka Chief Minister, clearing the way for DK Shivakumar. The handover follows a long power struggle and leaves the Congress managing caste and factional pressures."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,26 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/gwalior-venkat-sharma-poison-attempt-wife-harassment-video-probe-2918706-2026-05-28",
-      "headline": "Man critical after suicide bid, accuses wife of harassment on videoA Gwalior man consumed poison after posting a video accusing his wife of harassment. Police are verifying his allegations as he remains in critical condition."
+      "url": "https://www.indiatoday.in/trending-news/story/punjab-woman-drags-mother-in-law-by-hair-during-argument-violent-clash-caught-on-cctv-2918621-2026-05-28",
+      "headline": "Punjab woman drags mother-in-law by hair during argument, clash caught on CCTVA CCTV video has surfaced online after a scuffle between a mother-in-law and daughter-in-law over her granddaughter in Punjabi. Police are reviewing the complaint and footage as claims over the fight and threats are investigated."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cbi-arrests-twisha-sharmas-mother-in-law-giribala-singh-hours-after-court-cancels-anticipatory-bail-2918592-2026-05-28",
-      "headline": "CBI arrests Twisha Sharma's mother-in-law after court cancels anticipatory bailThe arrest came just hours after the Madhya Pradesh High Court cancelled the anticipatory bail granted to Twisha Sharma's mother-in-law Giribala Singh."
+      "url": "https://www.indiatoday.in/india/south/story/bengaluru-techie-quit-job-turned-farmer-killed-lightning-strike-near-mysuru-karnataka-kodagu-2918628-2026-05-28",
+      "headline": "Bengaluru techie leaves corporate job for farming, killed by lightning in fieldA Bengaluru techie who had left his corporate job for farming was killed after lightning struck him near Yelwala, Mysuru. He had recently moved from the IT sector into agriculture and modern farming equipment marketing."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/up-ats-shahzad-bhatti-terror-module-four-held-over-delhi-up-punjab-attack-plot-2918624-2026-05-28",
-      "headline": "Police bust Pak-linked terror module planning attacks in UP, Delhi, PunjabAccording to investigators, the module had identified crowded hospitals, a political party office and a school operator as targets after conducting detailed reconnaissance."
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-loses-juan-manual-cerundolo-french-open-2918669-2026-05-28",
+      "headline": "Too hot to handle? Sinner cramps and crashes out in major French Open upset Live UpdatesJannik Sinner crashed out of the French Open after losing a 5-set encounter against unseeded Juan Manuel Cerundolo in Paris. The World No.1 struggled with dizziness, dehydration and movement issues in the intense heat after leading comfortably early in the match."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-aryna-sabalenka-coco-gauff-third-round-roland-garros-2918789-2026-05-28",
+      "headline": "French Open: Aryna Sabalenka, Coco Gauff made to work hard to reach round 3 Aryna Sabalenka and Coco Gauff were pushed harder than expected before sealing straight-set wins in Paris to reach the third round of the French Open on Thursday, May 28."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/neymar-brazil-world-cup-2026-opener-calf-injury-carlo-ancelotti-2918778-2026-05-28",
@@ -369,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-wrestling-federation-of-india-supreme-court-2918618-2026-05-28",
-      "headline": "WFI challenges Delhi HC order allowing Vinesh Phogat into Asian Games trials The Wrestling Federation of India has moved the Supreme Court against the Delhi High Court's order permitting Vinesh Phogat to participate in the Asian Games 2026 selection trials, intensifying the federation's legal battle with the star wrestler over its revised eligibility policy."
+      "headline": "WFI challenges Delhi HC order allowing Vinesh Phogat into Asian Games trialsThe Wrestling Federation of India has moved the Supreme Court against the Delhi High Court's order permitting Vinesh Phogat to participate in the Asian Games 2026 selection trials, intensifying the federation's legal battle with the star wrestler over its revised eligibility policy."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-fastest-ipl-hundred-miss-rajasthan-royals-ipl-title-focus-2918249-2026-05-28",
       "headline": "Fastest hundred missed, Vaibhav Sooryavanshi manifests IPL glory for RRVaibhav Sooryavanshi missed out on the fastest hundred in IPL history by the narrowest of margins, but the Rajasthan Royals teenager made it clear that personal milestones are secondary as he remains focused on helping the franchise win its second IPL title."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rr-vs-srh-jofra-archer-punjab-kings-dig-rajasthan-royals-qualifier-2-vaibhav-sooryavanshi-2918248-2026-05-28",
-      "headline": "Archer takes dig at PBKS after RR reach Qualifier 2: Don't want Punjab's fateJofra Archer took a dig at Punjab Kings, saying that Rajasthan Royals don't want to get ahead of themselves and suffer the same fate as Shreyas Iyer and Co. PBKS crashed out of the play-offs race after a poor run of form in the second half of the campaign."
     }
   ],
   "education": [
