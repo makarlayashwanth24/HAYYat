@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/ghooskhor-pandat-row-manoj-bajpayee-says-trolls-abused-him-targeted-his-family-2919726-2026-05-30",
+      "headline": "Ghooskhor Pandat row: Manoj Bajpayee says trolls abused him, targeted his family Actor Manoj Bajpayee said the backlash over Ghooskhor Pandat brought threats, abuse and attacks on his family. He said the team apologised quickly, agreed to change the title, but felt people reacted without knowing the film's subject."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/brown-trailer-karisma-kapoor-fights-inner-turmoil-while-solving-a-murder-2919715-2026-05-30",
+      "headline": "Brown trailer: Karisma Kapoor fights inner turmoil while solving a murder The trailer of Brown introduces Karisma Kapoor as a troubled police officer investigating a teenager's murder in Kolkata. The Zee5 series also stars Jisshu Sengupta and Soni Razdan, among others."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/from-tejasswi-prakash-shut-up-to-karan-kundrra-proposal-inside-the-making-of-desi-bling-2919689-2026-05-30",
       "headline": "From Tejasswi's 'shut up' to Karan's proposal: Inside the making of Desi Bling Desi Bling producer Mazen Laham reveals how the Netflix reality show was cast and whether the drama was scripted. He also shared behind-the-scenes details of Tejasswi's viral 'shut uppp' moment and Karan Kundrra's proposal."
     },
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/house-of-the-dragon-season-3-final-trailer-promises-bloodshed-and-betrayal-2919273-2026-05-29",
       "headline": "House of the Dragon Season 3 final trailer promises bloodshed and betrayal The final trailer for House of the Dragon season 3 hints at devastating battles, shifting loyalties and major consequences for Westeros as the war for the Iron Throne intensifies."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nothing-is-hidden-actor-shahana-goswami-opens-up-about-having-multiple-partners-2919231-2026-05-29",
-      "headline": "Shahana Goswami admits to open relationship, multiple partners: Nothing is hidden Actor Shahana Goswami discussed being in an open relationship and why \"nothing is hidden\" from her partners. The 40-year-old also spoke about love, freedom and her past relationship with actor-model Milind Soman."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/film-body-calls-for-industry-wide-guidelines-amid-ranveer-singh-don-3-ban-row-2919209-2026-05-29",
-      "headline": "Film body calls for industry-wide guidelines amid Ranveer Singh\u2013Don 3 'ban' row FWICE has approached major producer bodies over Ranveer Singh's reported exit from Don 3, proposing an industry-wide SOP to address last-minute actor withdrawals and financial disputes."
     }
   ],
   "general news": [
@@ -212,12 +212,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/delhi/story/several-feared-trapped-as-five-storey-building-collapses-in-south-delhis-mehrauli-2919705-2026-05-30",
-      "headline": "5-storey building crashes down in South Delhi's Mehrauli, several feared buriedA routine evening in South Delhi turned chaotic after a multi-storey building suddenly collapsed. Rescue teams raced to the site as fears mounted that several people may still be trapped beneath the debris."
+      "headline": "Five-storey building crashes down in South Delhi, several feared buriedA routine Saturday evening turned into a race against time after a multi-storey building suddenly collapsed near Saket Metro station. With survivors already pulled from the debris, rescuers fear more people could still be trapped."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/dk-shivakumar-elected-karnataka-congress-clp-leader-next-chief-minister-2919637-2026-05-30",
-      "headline": "DK Shivakumar unanimously elected CLP leader, set to take over as Karnataka CM  Live UpdatesWith the formalities over, the focus now shifts to who gets what in the incoming Cabinet. Maintaining caste, regional and factional balance will be key to DK Shivakumar's 23-month tenure as Chief Minister of Karnataka."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-wrestling-comneback-wfi-asian-games-2919730-2026-05-30",
+      "headline": "Vinesh Phogat's return to wrestling: What a messVinesh Phogat returned to the wrestling mat for the first time since the Paris Olympics, hoping to secure her place at the 2026 Asian Games. Instead, her comeback became a day-long confrontation with the Wrestling Federation of India."
     },
     {
       "sentiment": "positive",
@@ -226,13 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-asian-games-trials-comeback-ends-stands-proud-semifinal-loss-wfi-controversy-2919660-2026-05-30",
-      "headline": "Vinesh Phogat stands proud after Asian Games trials: Fighting the whole systemDefiant despite missing an Asian Games berth, Vinesh Phogat declared she won her true victory by overcoming administrative hurdles and returning to the mat as a mother. The former world medalist slammed the wrestling system while confirming her target remains the 2028 Olympics."
+      "url": "https://www.indiatoday.in/sports/football/story/psg-vs-arsenal-live-score-updates-uefa-champions-league-final-declan-rice-dembele-2919701-2026-05-30",
+      "headline": "UCL Final Live: Arsenal 1-1 PSG at Full TimePSG vs Arsenal Live Score and Updates, UEFA Champions League Final: Ousmane Dembele has equalised for PSG in the final. Dembele converted the penalty conceded by Mosquera in the 61st minute of the game. Earlier, Kai Havertz scored in the first half to give Arsenal the lead in the summit clash."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/psg-vs-arsenal-live-score-updates-uefa-champions-league-final-declan-rice-dembele-2919701-2026-05-30",
-      "headline": "PSG vs Arsenal, UCL Final Live: We are away. Arsenal hunt maiden UCLPSG vs Arsenal Live Score and Updates, UEFA Champions League Final: Arsenal, unbeaten in the UCL this season, hunt their maiden Champions League title. In front of them are the immovably creative PSG, who are defending their title this season."
+      "url": "https://www.indiatoday.in/india/karnataka/story/dk-shivakumar-elected-karnataka-congress-clp-leader-next-chief-minister-2919637-2026-05-30",
+      "headline": "DK Shivakumar unanimously elected CLP leader, set to take over as Karnataka CM Live UpdatesWith the formalities over, the focus now shifts to who gets what in the incoming Cabinet. Maintaining caste, regional and factional balance will be key to DK Shivakumar's 23-month tenure as Chief Minister of Karnataka."
     },
     {
       "sentiment": "positive",
@@ -256,13 +256,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/rick-roll-orry-and-now-osm-cbses-technical-nightmares-in-april-may-2919527-2026-05-30",
-      "headline": "Rick roll, Orry, and now OSM: CBSE's technical nightmares in April-MayFrom a Rick Astley 'surprise link' in a Maths paper to an Orry QR code in the history paper and now glitches in the OSM system, CBSE's exam process has repeatedly run into digital trouble. While the board has issued clarifications on each, the incidents have left students confused and questioning the system's reliability."
+      "url": "https://www.indiatoday.in/india/story/cooch-behar-cut-money-refund-villagers-use-loudspeakers-to-remind-tmc-leader-2919717-2026-05-30",
+      "headline": "TMC leader promises to return cut money, villagers blare reminders on loudspeakersVillagers in West Bengal's Cooch Behar district are using loudspeakers to remind a TMC leader of a promised \"cut money\" refund by June 4. They have threatened fresh protests if the money was not returned as promised by the deadline."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-on-how-peddi-changed-him-as-an-actor-and-person-2919631-2026-05-30",
       "headline": "Ram Charan on how Peddi changed him as an actor and personIn an exclusive interview with India Today, Ram Charan said Peddi allowed him to represent people who need voice and recognition. He called it his toughest role and revealed he pushed through a worsening injury during the wrestling shoot."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/rick-roll-orry-and-now-osm-cbses-technical-nightmares-in-april-may-2919527-2026-05-30",
+      "headline": "Rick roll, Orry, and now OSM: CBSE's technical nightmares in April-MayFrom a Rick Astley 'surprise link' in a Maths paper to an Orry QR code in the history paper and now glitches in the OSM system, CBSE's exam process has repeatedly run into digital trouble. While the board has issued clarifications on each, the incidents have left students confused and questioning the system's reliability."
     },
     {
       "sentiment": "positive",
@@ -273,11 +278,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/indian-ocean-dipole-2026-neutral-el-nino-india-monsoon-1997-kharif-crops-rainfall-2919576-2026-05-30",
       "headline": "In 1997, India's ocean saved the monsoon from El Nino. This year, it won'tIn 1997, one of the strongest El Ninos ever recorded could not break India's monsoon because the Indian Ocean pushed back. The IOD is flat this year. El Nino is still building. And the September peak is heading straight for India's standing crops."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-iran-strikes-pete-hegseth-says-military-option-stays-as-peace-talks-stall-2919677-2026-05-30",
-      "headline": "US keeps Iran strike option open as peace breakthrough remains elusiveUS Defence Secretary Pete Hegseth reiterated his country is prepared to launch fresh strikes on Iran if talks fail, as efforts to secure a peace agreement remain deadlocked despite months of diplomatic pressure on Tehran."
     },
     {
       "sentiment": "negative",
@@ -291,23 +291,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-electricity-bills-uppcl-fuel-surcharge-power-costs-june-2919475-2026-05-30",
-      "headline": "UP hikes electricity prices, bills to go up by 10% from JuneUPPCL has imposed an additional fuel surcharge that will raise electricity bills in Uttar Pradesh from June. The move adds to consumer costs even as complaints over power cuts and supply shortages persist."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/satwik-chirag-stun-world-no-1-seo-kim-to-enter-singapore-open-final-2919606-2026-05-30",
-      "headline": "Singapore Open: Satwik-Chirag stun world no. 1 Seo-Kim to enter finalSatwiksairaj Rankireddy and Chirag Shetty produced a superb display to beat World No. 1 pair Seo Seungjae and Kim Wonho in straight games and reach the men's doubles final of the Singapore Open on Saturday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/audrey-truschke-harappan-seal-row-mohenjo-daro-pashupati-shiva-debate-indian-history-explained-2919036-2026-05-29",
-      "headline": "Not Shiva-Pashupati on Harappan seal? US historian Audrey Truschke sparks outrageAmerican historian Audrey Truschke challenged the Ministry of Culture's description of the Harappan Pashupati seal as \"Shiva-Pashupati\". She triggered a row by saying that the figure on the seal was \"not Shiva\", but the image was \"more likely adapted from proto-Elamite iconography\". Truschke's remark triggered a wider debate on archaeology, civilisational continuity and who gets to interpret India's ancient past."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/the-curtain-falls-david-dhawans-iconic-no-1-bollywood-comedy-era-ends-2919060-2026-05-30",
-      "headline": "The curtain falls: David Dhawan's iconic No 1 Bollywood comedy era endsAs David Dhawan calls it a day with Hai Jawani Toh Ishq Hona Hai, we revisit the maestro who turned madcap chaos into pure 90s entertainment \u2014 unapologetic, unforgettable, and now, a complex nostalgia."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-iran-strikes-pete-hegseth-says-military-option-stays-as-peace-talks-stall-2919677-2026-05-30",
+      "headline": "US keeps Iran strike option open as peace breakthrough remains elusiveUS Defence Secretary Pete Hegseth reiterated his country is prepared to launch fresh strikes on Iran if talks fail, as efforts to secure a peace agreement remain deadlocked despite months of diplomatic pressure on Tehran."
     },
     {
       "sentiment": "positive",
@@ -316,11 +301,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/green-card-applicants-can-stay-in-us-during-processing-dhs-clarifies-2919502-2026-05-30",
-      "headline": "U-turn on Green Cards? US says 'return home' rule not for all applicantsThe US Department of Homeland Security said most Green Card applicants can stay in the country while their cases are reviewed. The clarification eased fears after an earlier statement suggested many would have to leave the country."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/satwik-chirag-stun-world-no-1-seo-kim-to-enter-singapore-open-final-2919606-2026-05-30",
+      "headline": "Singapore Open: Satwik-Chirag stun world no. 1 Seo-Kim to enter finalSatwiksairaj Rankireddy and Chirag Shetty produced a superb display to beat World No. 1 pair Seo Seungjae and Kim Wonho in straight games and reach the men's doubles final of the Singapore Open on Saturday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/the-curtain-falls-david-dhawans-iconic-no-1-bollywood-comedy-era-ends-2919060-2026-05-30",
+      "headline": "The curtain falls: David Dhawan's iconic No 1 Bollywood comedy era endsAs David Dhawan calls it a day with Hai Jawani Toh Ishq Hona Hai, we revisit the maestro who turned madcap chaos into pure 90s entertainment \u2014 unapologetic, unforgettable, and now, a complex nostalgia."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-shikohabad-toddler-killed-cctv-firozabad-police-hunt-accused-2919693-2026-05-30",
+      "headline": "Man repeatedly slams toddler to ground, kills him to marry child's motherThe accused killed the one-and-a-half-year-old boy by repeatedly smashing him onto the ground, as he considered the toddler an obstacle to his relationship with the child's mother."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-history-sheeter-arbaaz-syed-arrested-for-assaulting-wife-2919719-2026-05-30",
+      "headline": "Man holds wife captive, beats her, forces 'murga' punishment for 4 hours; arrestedA Mumbai man with 19 criminal cases was arrested for assaulting his wife for hours, forcing her into a 'murga' position and confining her at home."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-wrestling-comneback-wfi-asian-games-2919730-2026-05-30",
+      "headline": "Vinesh Phogat's return to wrestling: What a mess Vinesh Phogat returned to the wrestling mat for the first time since the Paris Olympics, hoping to secure her place at the 2026 Asian Games. Instead, her comeback became a day-long confrontation with the Wrestling Federation of India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/freya-kemp-england-beat-india-level-womens-t20i-series-2919729-2026-05-30",
+      "headline": "Freya Kemp powers England past India to level women's T20I series Freya Kemp starred with bat and ball as England beat India by 26 runs in the second Women's T20I in Bristol on Saturday to level the three-match series 1-1. The series-deciding third T20I will be played in Taunton on Tuesday."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-final-gujarat-titans-arrival-delayed-storm-ahmedabad-rcb-2919707-2026-05-30",
@@ -334,7 +344,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/psg-vs-arsenal-live-score-updates-uefa-champions-league-final-declan-rice-dembele-2919701-2026-05-30",
-      "headline": "PSG vs Arsenal, UCL Final Live: We are away. Arsenal hunt maiden UCL PSG vs Arsenal Live Score and Updates, UEFA Champions League Final: Europe's biggest showdown is set to unfold at the Puskas Arena in Budapest, where Premier League champions Arsenal take on reigning European champions Paris Saint-Germain in the UEFA Champions League final."
+      "headline": "PSG vs Arsenal, UCL Final Live: Ousmane Dembele scores penalty to level final PSG vs Arsenal Live Score and Updates, UEFA Champions League Final: Ousmane Dembele has equalised for PSG in the final. Dembele converted the penalty conceded by Mosquera in the 61st minute of the game. Earlier, Kai Havertz scored in the first half to give Arsenal the lead in the summit clash."
     },
     {
       "sentiment": "positive",
@@ -364,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/satwik-chirag-stun-world-no-1-seo-kim-to-enter-singapore-open-final-2919606-2026-05-30",
-      "headline": "Singapore Open: Satwik-Chirag stun world no. 1 Seo-Kim to enter final Satwiksairaj Rankireddy and Chirag Shetty produced a superb display to beat World No. 1 pair Seo Seungjae and Kim Wonho in straight games and reach the men's doubles final of the Singapore Open on Saturday."
+      "headline": "Singapore Open: Satwik-Chirag stun world no. 1 Seo-Kim to enter finalSatwiksairaj Rankireddy and Chirag Shetty produced a superb display to beat World No. 1 pair Seo Seungjae and Kim Wonho in straight games and reach the men's doubles final of the Singapore Open on Saturday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/liverpool-sack-head-coach-arne-slot-dismal-premier-league-title-defence-2919596-2026-05-30",
-      "headline": "Liverpool sack head coach Arne Slot after dismal Premier League title defence Liverpool have sacked Arne Slot after a disappointing 2025-26 season that saw the club finish fifth in the Premier League. The Dutchman departs just a year after leading the Reds to the league title in his debut campaign at Anfield."
+      "headline": "Liverpool sack head coach Arne Slot after dismal Premier League title defenceLiverpool have sacked Arne Slot after a disappointing 2025-26 season that saw the club finish fifth in the Premier League. The Dutchman departs just a year after leading the Reds to the league title in his debut campaign at Anfield."
     },
     {
       "sentiment": "positive",
@@ -455,16 +465,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/sam-curran-ipl-2026-absence-questioned-kumar-sangakkara-surrey-return-rr-2919385-2026-05-30",
       "headline": "IPL 2026: Kumar Sangakkara drops Sam Curran injury truth bomb after RR bow outRajasthan Royals head coach Kumar Sangakkara has raised questions over Sam Curran's IPL 2026 withdrawal after the England all-rounder resumed playing for Surrey, saying the franchise had been informed he was sidelined with a season-ending injury."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-2026-joao-fonseca-beats-novak-djokovic-mothers-birthday-roland-garros-2919386-2026-05-30",
-      "headline": "Joao Fonseca delivers Novak Djokovic win as perfect birthday gift for momJoao Fonseca came from two sets down to beat Novak Djokovic at the French Open on his mother's birthday. The win sent the 19-year-old into the fourth round of a Grand Slam for the first time."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/who-is-joao-fonseca-stuns-novak-djokovic-french-open-paris-2919383-2026-05-30",
-      "headline": "Who is Joao Fonseca? Teen prodigy from Brazil topples Novak Djokovic in ParisBrazilian teenager Joao Fonseca announced himself on one of tennis's grandest stages on Friday, producing one of the biggest upsets in recent French Open history by knocking out Novak Djokovic in a five-set thriller."
     }
   ],
   "education": [
