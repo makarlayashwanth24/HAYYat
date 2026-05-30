@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/from-tejasswi-prakash-shut-up-to-karan-kundrra-proposal-inside-the-making-of-desi-bling-2919689-2026-05-30",
+      "headline": "From Tejasswi's 'shut up' to Karan's proposal: Inside the making of Desi Bling Desi Bling producer Mazen Laham reveals how the Netflix reality show was cast and whether the drama was scripted. He also shared behind-the-scenes details of Tejasswi's viral 'shut uppp' moment and Karan Kundrra's proposal."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/why-arun-govil-believes-ranbir-kapoors-ramayana-faces-an-uphill-battle-2919676-2026-05-30",
       "headline": "Why Arun Govil believes Ranbir Kapoor's Ramayana faces an uphill battle Actor Arun Govil said his long association with Lord Rama shaped reactions to Ranbir Kapoor's first Ramayana glimpse. He also explained why he hesitated before joining the film as Lord Dasharath."
     },
@@ -191,18 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/film-body-calls-for-industry-wide-guidelines-amid-ranveer-singh-don-3-ban-row-2919209-2026-05-29",
       "headline": "Film body calls for industry-wide guidelines amid Ranveer Singh\u2013Don 3 'ban' row FWICE has approached major producer bodies over Ranveer Singh's reported exit from Don 3, proposing an industry-wide SOP to address last-minute actor withdrawals and financial disputes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/vashu-bhagnani-vs-david-dhawan-hai-jawani-toh-ishq-hona-hai-rs-400-crore-row-explained-2919123-2026-05-29",
-      "headline": "Hai Jawani Toh: Why David Dhawan, Vashu Bhagnani are fighting in Rs 400 crore case? Producer Vashu Bhagnani has moved court against filmmaker David Dhawan, Tips Industries Limited and the Tauranis over the alleged unauthorised use of songs from Biwi No. 1 in Hai Jawani Toh Ishq Hona Hai. He has also filed a Rs 400 crore claim against Tips."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/west-bengal/story/abhishek-banerjee-sonarpur-attack-tmc-leader-alleges-bjp-wanted-to-kill-him-shirt-torn-specs-broken-stones-eggs-and-chor-chor-chants-2919690-2026-05-30",
-      "headline": "BJP wanted to kill me: Abhishek Banerjee's shirt torn, specs broken in mob attackAbhishek Banerjee's visit to Sanju Karmakar's family in Sonarpur turned violent amid stone-pelting and protests. The clash has sparked a fresh political confrontation, with the TMC blaming the BJP and questions being raised over security."
+      "headline": "BJP wanted to kill me: Abhishek Banerjee's shirt torn, specs broken in mob attack Live updatesAbhishek Banerjee's visit to Sanju Karmakar's family in Sonarpur turned violent amid stone-pelting and protests. The clash has sparked a fresh political confrontation, with the TMC blaming the BJP and questions being raised over security."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-controversy-student-probe-altered-tender-criteria-coempt-security-concerns-2919549-2026-05-30",
+      "headline": "GenZ whistleblower claims CBSE cooked tender to pick tainted OSM partnerControversy over CBSE's On-Screen Marking system deepened after a 17-year-old's investigation alleged that tender norms were diluted and security safeguards scaled back, raising questions about how Coempt Eduteck secured the contract"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/several-feared-trapped-as-five-storey-building-collapses-in-south-delhis-mehrauli-2919705-2026-05-30",
+      "headline": "5-storey building crashes down in South Delhi's Mehrauli, several feared buriedA routine evening in South Delhi turned chaotic after a multi-storey building suddenly collapsed. Rescue teams raced to the site as fears mounted that several people may still be trapped beneath the debris."
     },
     {
       "sentiment": "positive",
@@ -211,8 +221,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/obsession-takeover-a-rs-7-crore-horror-film-just-exposed-bollywood-biggest-issue-2919470-2026-05-30",
+      "headline": "Obsession takeover: A Rs 7 crore horror film just exposed Bollywood's biggest issueCurry Barker's low-budget horror film Obsession has become Hollywood's biggest ROI story of 2026. Its breakout run has renewed attention on Bollywood's shrinking space for mid-budget theatrical films."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-asian-games-trials-comeback-ends-stands-proud-semifinal-loss-wfi-controversy-2919660-2026-05-30",
       "headline": "Vinesh Phogat stands proud after Asian Games trials: Fighting the whole systemDefiant despite missing an Asian Games berth, Vinesh Phogat declared she won her true victory by overcoming administrative hurdles and returning to the mat as a mother. The former world medalist slammed the wrestling system while confirming her target remains the 2028 Olympics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/psg-vs-arsenal-live-score-updates-uefa-champions-league-final-declan-rice-dembele-2919701-2026-05-30",
+      "headline": "PSG vs Arsenal, UCL Final Live: We are away. Arsenal hunt maiden UCLPSG vs Arsenal Live Score and Updates, UEFA Champions League Final: Arsenal, unbeaten in the UCL this season, hunt their maiden Champions League title. In front of them are the immovably creative PSG, who are defending their title this season."
     },
     {
       "sentiment": "positive",
@@ -221,18 +241,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/obsession-takeover-a-rs-7-crore-horror-film-just-exposed-bollywood-biggest-issue-2919470-2026-05-30",
-      "headline": "Obsession takeover: A Rs 7 crore horror film just exposed Bollywood's biggest issueCurry Barker's low-budget horror film Obsession has become Hollywood's biggest ROI story of 2026. Its breakout run has renewed attention on Bollywood's shrinking space for mid-budget theatrical films."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-cm-news-siddaramaiah-resignation-rahul-gandhi-meeting-dk-shivakumar-oath-2918931-2026-05-30",
-      "headline": "Why Siddaramaiah's dethroning might hit Rahul Gandhi the worstThe Congress high command might have resolved the Karnataka deadlock by asking Siddaramaiah to step down, but the move could backfire for it in the 2028 Assembly polls. The unseating of the veteran OBC leader could also blunt Rahul Gandhi's choicest of political weapons."
+      "url": "https://www.indiatoday.in/opinion/story/indian-citizenship-proof-why-passport-aadhaar-voter-id-not-enough-sir-citizen-india-2919168-2026-05-30",
+      "headline": "Can you prove your Indian citizenship? I'm not sure I canCitizenship of India is a nice thought, a happy notion and a grand legal nuance. You think you have it, but do you, really?"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/west-bengal/story/bengal-news-parambrata-chatterjee-rograni-dibosh-2021-tweet-post-poll-violence-kolkata-high-court-2919214-2026-05-30",
       "headline": "TMC-allied Tollywood actor gets arrest shield as Rograni post bites backWest Bengal's BJP government is reopening cases linked to the post-poll violence that followed the 2021 Assembly elections. Amid this, a five-year-old \"Rograni Dibosh\" post by actor Parambrata Chatterjee, made on the day the results were declared and violence erupted across parts of the state, has come back to haunt him. Though the Calcutta High Court has granted him anticipatory bail, the post has become a thorn in Chatterjee's side."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/eggs-stones-thrown-at-tmc-leader-abhishek-banerjee-in-bengals-sonarpur-locals-raise-chor-chor-slogan-2919590-2026-05-30",
+      "headline": "Eggs, stones thrown at Abhishek Banerjee, TMC MP hospitalised after attackTMC MP Abhishek Banerjee was allegedly attacked during a visit to Sonarpur in West Bengal on Saturday, with eggs and stones thrown at his convoy as BJP workers raised \"chor chor\" slogans. Banerjee was visiting families affected by post-poll violence."
     },
     {
       "sentiment": "positive",
@@ -241,13 +261,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/indian-citizenship-proof-why-passport-aadhaar-voter-id-not-enough-sir-citizen-india-2919168-2026-05-30",
-      "headline": "Can you prove your Indian citizenship? I'm not sure I canCitizenship of India is a nice thought, a happy notion and a grand legal nuance. You think you have it, but do you, really?"
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-on-how-peddi-changed-him-as-an-actor-and-person-2919631-2026-05-30",
+      "headline": "Ram Charan on how Peddi changed him as an actor and personIn an exclusive interview with India Today, Ram Charan said Peddi allowed him to represent people who need voice and recognition. He called it his toughest role and revealed he pushed through a worsening injury during the wrestling shoot."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-cm-news-siddaramaiah-resignation-rahul-gandhi-meeting-dk-shivakumar-oath-2918931-2026-05-30",
+      "headline": "Why Siddaramaiah's dethroning might hit Rahul Gandhi the worstThe Congress high command might have resolved the Karnataka deadlock by asking Siddaramaiah to step down, but the move could backfire for it in the 2028 Assembly polls. The unseating of the veteran OBC leader could also blunt Rahul Gandhi's choicest of political weapons."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/indian-ocean-dipole-2026-neutral-el-nino-india-monsoon-1997-kharif-crops-rainfall-2919576-2026-05-30",
+      "headline": "In 1997, India's ocean saved the monsoon from El Nino. This year, it won'tIn 1997, one of the strongest El Ninos ever recorded could not break India's monsoon because the Indian Ocean pushed back. The IOD is flat this year. El Nino is still building. And the September peak is heading straight for India's standing crops."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-iran-strikes-pete-hegseth-says-military-option-stays-as-peace-talks-stall-2919677-2026-05-30",
+      "headline": "US keeps Iran strike option open as peace breakthrough remains elusiveUS Defence Secretary Pete Hegseth reiterated his country is prepared to launch fresh strikes on Iran if talks fail, as efforts to secure a peace agreement remain deadlocked despite months of diplomatic pressure on Tehran."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/eggs-stones-thrown-at-tmc-leader-abhishek-banerjee-in-bengals-sonarpur-locals-raise-chor-chor-slogan-2919590-2026-05-30",
-      "headline": "Eggs, stones thrown at Abhishek Banerjee, TMC MP hospitalised after attackTMC MP Abhishek Banerjee was allegedly attacked during a visit to Sonarpur in West Bengal on Saturday, with eggs and stones thrown at his convoy as BJP workers raised \"chor chor\" slogans. Banerjee was visiting families affected by post-poll violence."
+      "url": "https://www.indiatoday.in/india/video/video-giant-dust-storm-gobbles-up-houses-in-rajasthans-churu-2919570-2026-05-30",
+      "headline": "Video: Giant dust storm gobbles up houses in Rajasthan's ChuruA giant dust storm swept across Rajasthan's Churu district, plunging parts of the region into darkness and bringing daily life to a standstill. Dramatic visuals showed towering walls of dust engulfing houses and covering the sky, making daytime resemble night."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-607-29-05-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "positive",
@@ -260,49 +300,9 @@
       "headline": "Singapore Open: Satwik-Chirag stun world no. 1 Seo-Kim to enter finalSatwiksairaj Rankireddy and Chirag Shetty produced a superb display to beat World No. 1 pair Seo Seungjae and Kim Wonho in straight games and reach the men's doubles final of the Singapore Open on Saturday."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/video/video-giant-dust-storm-gobbles-up-houses-in-rajasthans-churu-2919570-2026-05-30",
-      "headline": "Video: Giant dust storm gobbles up houses in Rajasthan's ChuruA giant dust storm swept across Rajasthan's Churu district, plunging parts of the region into darkness and bringing daily life to a standstill. Dramatic visuals showed towering walls of dust engulfing houses and covering the sky, making daytime resemble night."
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/indian-ocean-dipole-2026-neutral-el-nino-india-monsoon-1997-kharif-crops-rainfall-2919576-2026-05-30",
-      "headline": "In 1997, India's ocean saved the monsoon from El Nino. This year, it won'tIn 1997, one of the strongest El Ninos ever recorded could not break India's monsoon because the Indian Ocean pushed back. The IOD is flat this year. El Nino is still building. And the September peak is heading straight for India's standing crops."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cuet-ug-2026-nta-fresh-exam-dates-technical-glitches-may-30-2919613-2026-05-30",
-      "headline": "NTA to announce fresh dates for CUET UG 2026 candidates who faced glitchesNTA said it will announce fresh CUET UG 2026 dates for candidates affected by technical glitches on May 30. The disruption hit several centres, mainly during the second shift, leaving students waiting beyond scheduled times."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/laos-cave-rescue-villagers-pulled-out-two-still-missing-xaisomboun-2919573-2026-05-30",
-      "headline": "Looking for gold, 5 men trapped in Laos cave; rescued after daring 10-day opTrapped beneath tonnes of floodwater and mud inside a remote Laos cave, five villagers fought hunger, darkness and fear before a dramatic rescue."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brahmos-missile-deal-vietnam-already-signed-with-india-indonesia-pact-in-final-stages-2919650-2026-05-30",
-      "headline": "India says BrahMos deal signed with Vietnam, Indonesia next in lineDefence Secretary Rajesh Kumar Singh said Vietnam has already signed a deal with India for the BrahMos supersonic cruise missile system, though it is yet to be publicly announced, while Indonesia is in the final stages of concluding a similar agreement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-607-29-05-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-police-special-cell-arrests-nine-suspects-in-isi-linked-terror-plot-2919510-2026-05-30",
-      "headline": "9 with links to Pak's ISI arrested, had planned terror attacks in Delhi, MumbaiDelhi Police Special Cell arrested nine suspected terrorists allegedly linked to an ISI-backed network and the Mumbai underworld. Investigators say the arrests have opened a wider probe into cross-border handlers, funding and possible targets."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jacqueline-fernandez-sukesh-chandrasekhar-to-face-charges-in-rs-200-crore-extortion-money-laundering-case-2919575-2026-05-30",
-      "headline": "Jacqueline Fernandez, Sukesh to face charges in Rs 200-crore extortion caseA Delhi court ordered the framing of charges against actor Jacqueline Fernandez, alleged conman Sukesh Chandrashekar, his wife Leena Maria Paul and 14 others in the Rs 200-crore extortion case. The charges will be formally signed on June 3."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/durga-puja-bengal-kumartuli-ganga-clay-tmc-corruption-bjp-2919124-2026-05-30",
-      "headline": "Why Durga Puja in Bengal faces a crisis this yearThe lanes of Kumartuli in Kolkata, the hub of potters who make Durga idols, are at a standstill due to an acute shortage of a specific type of clay used for idol-making. The crisis, along with soaring jute costs, has raised fears over livelihoods and Durga Puja preparations."
+      "url": "https://www.indiatoday.in/india/story/audrey-truschke-harappan-seal-row-mohenjo-daro-pashupati-shiva-debate-indian-history-explained-2919036-2026-05-29",
+      "headline": "Not Shiva-Pashupati on Harappan seal? US historian Audrey Truschke sparks outrageAmerican historian Audrey Truschke challenged the Ministry of Culture's description of the Harappan Pashupati seal as \"Shiva-Pashupati\". She triggered a row by saying that the figure on the seal was \"not Shiva\", but the image was \"more likely adapted from proto-Elamite iconography\". Truschke's remark triggered a wider debate on archaeology, civilisational continuity and who gets to interpret India's ancient past."
     },
     {
       "sentiment": "positive",
@@ -311,16 +311,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/audrey-truschke-harappan-seal-row-mohenjo-daro-pashupati-shiva-debate-indian-history-explained-2919036-2026-05-29",
-      "headline": "Not Shiva-Pashupati on Harappan seal? US historian Audrey Truschke sparks outrageAmerican historian Audrey Truschke challenged the Ministry of Culture's description of the Harappan Pashupati seal as \"Shiva-Pashupati\". She triggered a row by saying that the figure on the seal was \"not Shiva\", but the image was \"more likely adapted from proto-Elamite iconography\". Truschke's remark triggered a wider debate on archaeology, civilisational continuity and who gets to interpret India's ancient past."
+      "url": "https://www.indiatoday.in/india/story/brahmos-missile-deal-vietnam-already-signed-with-india-indonesia-pact-in-final-stages-2919650-2026-05-30",
+      "headline": "India says BrahMos deal signed with Vietnam, Indonesia next in lineDefence Secretary Rajesh Kumar Singh said Vietnam has already signed a deal with India for the BrahMos supersonic cruise missile system, though it is yet to be publicly announced, while Indonesia is in the final stages of concluding a similar agreement."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/punjab-civic-polls-results-aap-sweeps-wards-bjp-congress-win-key-corporations-2919372-2026-05-29",
-      "headline": "AAP sweeps Punjab civic polls, BJP, Congress take key municipal corporationsThe ruling AAP dominated Punjab's civic body polls, winning 958 of 1,977 municipal wards across the state, while the BJP and Congress wrested control of Abohar and Kapurthala from AAP."
+      "url": "https://www.indiatoday.in/world/story/green-card-applicants-can-stay-in-us-during-processing-dhs-clarifies-2919502-2026-05-30",
+      "headline": "U-turn on Green Cards? US says 'return home' rule not for all applicantsThe US Department of Homeland Security said most Green Card applicants can stay in the country while their cases are reviewed. The clarification eased fears after an earlier statement suggested many would have to leave the country."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-final-gujarat-titans-arrival-delayed-storm-ahmedabad-rcb-2919707-2026-05-30",
+      "headline": "IPL 2026 final: Gujarat's Ahmedabad arrival delayed until Sat eve due to storm A day before the IPL 2026 final, Gujarat Titans were forced to alter their travel plans after stormy weather delayed their departure from Chandigarh, leaving them with little time to settle in Ahmedabad ahead of Sunday's clash against Royal Challengers Bengaluru."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2026-final-rcb-vs-gt-gujarat-titans-captain-shubman-gill-pre-match-press-conference-2919702-2026-05-30",
+      "headline": "RCB vs GT: Gujarat Titans' Shubman Gill looks to exploit home advantage in IPL final IPL 2026 Final, RCB vs GT: Standing on the verge of winning his first IPL title as captain, Gujarat Titans skipper Shubman Gill said he is not weighed down by expectations and believes his side can benefit from playing the final at home against Royal Challengers Bengaluru on Sunday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/psg-vs-arsenal-live-score-updates-uefa-champions-league-final-declan-rice-dembele-2919701-2026-05-30",
+      "headline": "PSG vs Arsenal, UCL Final Live: We are away. Arsenal hunt maiden UCL PSG vs Arsenal Live Score and Updates, UEFA Champions League Final: Europe's biggest showdown is set to unfold at the Puskas Arena in Budapest, where Premier League champions Arsenal take on reigning European champions Paris Saint-Germain in the UEFA Champions League final."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-final-rcb-vs-gt-rajat-patidar-pre-match-full-press-conference-2919697-2026-05-30",
+      "headline": "Rajat Patidar reveals secret behind RCB's push for consecutive IPL titles Rajat Patidar has revealed the captaincy mantra behind Royal Challengers Bengaluru's success as they stand just one win away from retaining their IPL title. While victory over Gujarat Titans in Sunday's final would see him join MS Dhoni and Rohit Sharma as the only captains to successfully defend an IPL crown, Patidar said he has always preferred to lead in his own way rather than follow the path set by others."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/french-open-aryna-sabalenka-beats-daria-kasatkina-sets-up-naomi-osaka-clash-2919684-2026-05-30",
@@ -354,17 +374,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-crashes-out-asian-games-trials-semi-final-2919580-2026-05-30",
-      "headline": "Main wapas aaungi: Vinesh exits Asian Games trials after semi-final defeat Vinesh Phogat was knocked out of the Asian Games selection trials here on Saturday after losing to Meenakshi Goyat 4-6 in a tense semifinal bout of the women's 53kg event."
+      "headline": "Main wapas aaungi: Vinesh exits Asian Games trials after semi-final defeatVinesh Phogat was knocked out of the Asian Games selection trials here on Saturday after losing to Meenakshi Goyat 4-6 in a tense semifinal bout of the women's 53kg event."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/other-sports/story/asian-games-vinesh-phogat-vs-nishu-refereeing-row-53kg-trial-2919567-2026-05-30",
-      "headline": "Asian games trials: Mega feud breaks out between Vinesh Phogat's camp and WFI Vinesh Phogat beat Nishu 7-6 in a 53kg qualification trial that lurched from contest to confrontation over scoring calls. The stoppages, broken review screen and sideline clashes exposed the administrative disorder still hanging over Indian wrestling."
+      "headline": "Asian games trials: Mega feud breaks out between Vinesh Phogat's camp and WFIVinesh Phogat beat Nishu 7-6 in a 53kg qualification trial that lurched from contest to confrontation over scoring calls. The stoppages, broken review screen and sideline clashes exposed the administrative disorder still hanging over Indian wrestling."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/asian-games-2026-india-cricket-probables-vaibhav-sooryavanshi-in-gill-surya-out-2919553-2026-05-30",
-      "headline": "No SKY, no Gill: Vaibhav Sooryavanshi headlines India's Asian Games probables The BCCI has submitted a 30-member men's probables list for the Asian Games in Aichi-Nagoya, with teenage sensation Vaibhav Sooryavanshi earning a spot while India captains Shubman Gill and Suryakumar Yadav have been left out."
+      "headline": "No SKY, no Gill: Vaibhav Sooryavanshi headlines India's Asian Games probablesThe BCCI has submitted a 30-member men's probables list for the Asian Games in Aichi-Nagoya, with teenage sensation Vaibhav Sooryavanshi earning a spot while India captains Shubman Gill and Suryakumar Yadav have been left out."
     },
     {
       "sentiment": "positive",
@@ -379,7 +399,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/french-open-2026-day-7-live-updates-naomi-osaka-coco-gauff-aryna-sabalenka-2919495-2026-05-30",
-      "headline": "Day 7 Live: Sabalenka beats Kasatkina in straight sets, Osaka throughFrench Open Day 7 Live Updates: World No. 1 Aryna Sabalenka moved into the fourth round of Roland Garros with a 6-0, 7-5 win over Daria Kasatkina on Saturday. The Belarusian dominated the opening set before overcoming a tougher challenge in the second to book her place in the last 16. Sabalenka will now face Naomi Osaka, who reached the fourth round of Roland Garros for the first time in her career after defeating Iva Jovic. The four-time Grand Slam champion continued her impressive run on clay and will take on the top seed for a place in the quarterfinals."
+      "headline": "Day 7 Live: Sabalenka through to fourth round, Anisimova crashes outFrench Open Day 7 Live Updates: World No. 1 Aryna Sabalenka moved into the fourth round of Roland Garros with a 6-0, 7-5 win over Daria Kasatkina on Saturday. The Belarusian dominated the opening set before overcoming a tougher challenge in the second to book her place in the last 16. Sabalenka will now face Naomi Osaka, who reached the fourth round of Roland Garros for the first time in her career after defeating Iva Jovic. The four-time Grand Slam champion continued her impressive run on clay and will take on the top seed for a place in the quarterfinals."
     },
     {
       "sentiment": "positive",
@@ -445,26 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/who-is-joao-fonseca-stuns-novak-djokovic-french-open-paris-2919383-2026-05-30",
       "headline": "Who is Joao Fonseca? Teen prodigy from Brazil topples Novak Djokovic in ParisBrazilian teenager Joao Fonseca announced himself on one of tennis's grandest stages on Friday, producing one of the biggest upsets in recent French Open history by knocking out Novak Djokovic in a five-set thriller."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-2026-joao-fonseca-stuns-novak-djokovic-five-set-roland-garros-2919382-2026-05-30",
-      "headline": "No. 25 still elusive as Fonseca knocks out Novak Djokovic in epic five-setterJoao Fonseca came back from two sets down to beat Novak Djokovic in five sets at the French Open. The result sent the former world No. 1 out and kept his wait for a 25th Grand Slam title alive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-776-runs-rr-heartbreak-gujarat-titans-qualifier-2-2919378-2026-05-30",
-      "headline": "776 not enough? Sooryavanshi in tears after RR's IPL 2026 ends in heartbreakVaibhav Sooryavanshi was left in tears after Rajasthan Royals crashed out of IPL 2026 after losing to Gujarat Titans in Qualifier 2 despite his 96 off 47. The defeat ended a remarkable IPL 2026 campaign in which the 15-year-old finished with 776 runs and the Orange Cap."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-104-ends-vaibhav-sooryavanshi-ipl-run-gt-vs-rcb-final-2919368-2026-05-29",
-      "headline": "Shubman Gill 104 ends Sooryavanshi's IPL 2026 party, sets up Gujarat vs RCB finalIPL 2026 Qualifier 2: Shubman Gill's perfectly-timed century and a record-breaking 167-run opening stand with Sai Sudharsan powered Gujarat Titans into the IPL 2026 final, ending Vaibhav Sooryavanshi's magical season in a thrilling New Chandigarh encounter that had everything."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-riyan-parag-dugout-chat-missed-century-gt-vs-rr-goes-viral-ipl-2919354-2026-05-29",
-      "headline": "Riyan Parag's chat with Vaibhav Sooryavanshi after 96 vs GT goes viralIPL 2026: Vaibhav Sooryavanshi and Riyan Parag were seen in an animated dugout chat after the youngster fell for 96 against Gujarat Titans in Qualifier 2. The viral moment highlighted Sooryavanshi's frustration at another near-miss and Parag's backing during Rajasthan Royals' playoff run."
     }
   ],
   "education": [
