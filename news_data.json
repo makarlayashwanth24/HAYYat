@@ -104,8 +104,18 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/krystle-dsouza-shares-pic-with-man-amid-dating-rumours-with-desi-bling-ap-2919889-2026-05-31",
+      "headline": "Krystle D'Souza shares pic with man amid dating rumours with Desi Bling's AP Actor Krystle D'Souza sparked fresh dating rumours after sharing a photo holding a mystery man's hand. The post comes days after her viral party clip with Desi Bling's AP set social media buzzing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-real-horror-in-barkers-obsession-isnt-supernatural-its-male-entitlement-2919868-2026-05-31",
+      "headline": "The real horror in Barker's Obsession isn't supernatural but male entitlement Curry Barker's Obsession follows Bear's wish to make Nikki love him above all else. The film uses that supernatural premise to probe consent, agency and self-serving desire."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kartik-aaryan-absolutely-obsessed-with-curry-barkers-obsession-dont-miss-this-2919854-2026-05-31",
-      "headline": "Kartik Aaryan 'absolutely obsessed' with Curry Barker's Obsession: Don't miss this Kartik Aaryan praised Curry Barker's supernatural horror Obsession on social media and urged fans not to miss the film."
+      "headline": "Kartik Aaryan 'absolutely obsessed' with Curry Barker's Obsession: Don't miss this Actor Kartik Aaryan praised Curry Barker's supernatural horror film Obsession on social media and urged fans not to miss it."
     },
     {
       "sentiment": "positive",
@@ -186,28 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/jackie-shroff-confirms-role-in-khalnayak-returns-there-will-be-a-commissioner-2919572-2026-05-30",
       "headline": "Jackie Shroff joins Sanjay Dutt in Khalnayak Returns, confirms role Jackie Shroff has confirmed that he will return for Khalnayak Returns, reuniting with Sanjay Dutt in the sequel to the 1993 cult hit. The veteran actor said he has already spoken to Subhash Ghai, the producer and Dutt about the project."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ban-fwice-not-ranveer-singh-ram-gopal-varma-backs-actor-joins-don-3-controversy-2919509-2026-05-30",
-      "headline": "Ban FWICE, not Ranveer Singh: Ram Gopal Varma backs actor, joins Don 3 controversy Ram Gopal Varma has attacked FWICE over its non-cooperation directive against Ranveer Singh in the Don 3 dispute. The clash has widened the controversy, with the federation defending its step and the actor's team choosing silence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ajith-kumar-mother-dies-at-85-cm-vijay-kamal-haasan-celebs-pay-tribute-2919490-2026-05-30",
-      "headline": "Actor Ajith Kumar's mother dies at 85. CM Vijay, Kamal Haasan, celebs pay tribute Tamil actor Ajith Kumar's mother, Mohini Mani, died at the age of 85 after battling age-related health issues. The film fraternity, political leaders and fans across India have expressed their condolences, honouring her memory."
     }
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-attack-four-arrested-after-sonarpur-violence-during-visit-2919873-2026-05-31",
+      "headline": "Who attacked Abhishek Banerjee? TMC, BJP pin blame on each otherThe attack on Abhishek Banerjee has triggered a political confrontation between TMC and BJP, with both parties trading allegations over responsibility. While TMC claims BJP-backed mob involvement and cites the presence of a local BJP functionary, the BJP counters that internal rivalries within the TMC may have driven the incident."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/story/cbse-acknowledges-security-gaps-after-teen-hacker-compromises-online-marking-portal-twice-2919867-2026-05-31",
       "headline": "CBSE's U-turn, admits security gaps after online marking portal hacked twiceAmid the ongoing controversy surrounding its OSM system, CBSE has issued its first public response. In a post on X, the board said it is closely monitoring vulnerabilities identified in the portal operated by its service provider after concerns were raised in the public domain."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/kalyan-banerjee-injured-in-chanditala-police-station-clash-tmc-bjp-face-off-2919838-2026-05-31",
-      "headline": "After Abhishek, Trinamool MP Kalyan Banerjee mobbed, injured near KolkataKalyan Banerjee was injured during a clash outside Chanditala police station as TMC supporters were carrying out a protest march. The confrontation drew police and central forces, and Banerjee called it a targeted attack on a democratic protest."
     },
     {
       "sentiment": "negative",
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cbse-class-12-physics-marks-row-rahul-gandhi-backs-students-over-evaluation-2919865-2026-05-31",
-      "headline": "17-year-old Soros agents: Rahul Gandhi jabs BJP during chat with Class 12 studentsRahul Gandhi shared a video of his interaction with CBSE Class 12 students questioning their Physics marks and re-evaluation. The exchange added to the wider row over answer sheet discrepancies, online abuse and scrutiny of the board's marking system."
+      "url": "https://www.indiatoday.in/sports/badminton/story/singapore-open-final-satwik-chirag-indonesian-duo-first-title-two-years-2919842-2026-05-31",
+      "headline": "Singapore Open Final Live: SatChi take the second game 21-17Singapore Open Final Live Updates: (Sat/Chi 1-1 Alfain/Fikri, Game 3) Satwiksairaj Rankireddy and Chirag Shetty go into the decider after losing the first game and winning the second against Indonesia's Fajar Alfian and Muhammad Fikri in the Singapore Open men's doubles final. The Indian pair booked their spot in the summit clash after a strong win over world champions from Republic of Korea, Kim Won-ho and Seo Seung-jae in straight sets."
     },
     {
       "sentiment": "positive",
@@ -226,13 +226,33 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cbse-class-12-physics-marks-row-rahul-gandhi-backs-students-over-evaluation-2919865-2026-05-31",
+      "headline": "17-year-old Soros agents: Rahul Gandhi jabs BJP during chat with Class 12 studentsRahul Gandhi shared a video of his interaction with CBSE Class 12 students questioning their Physics marks and re-evaluation. The exchange added to the wider row over answer sheet discrepancies, online abuse and scrutiny of the board's marking system."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/how-much-home-loan-tenure-india-housing-affordability-crisis-emi-retirement-real-estate-prices-2919823-2026-05-31",
+      "headline": "Indians are buying homes with money they haven't earned yetAs home prices race ahead of incomes, more Indians are stretching EMIs into retirement, cutting savings and relying on decades of future earnings to keep the dream of homeownership alive. This is the story of how India's housing dream is increasingly being financed by tomorrow's income."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/himachal-pradesh/story/kasol-firing-tourist-shoots-local-youth-after-parking-dispute-four-arrested-2919735-2026-05-30",
+      "headline": "Parking dispute turns violent in Himachal's Kasol as tourist shoots localA parking dispute in Kasol market allegedly led a tourist to fire at a local youth. The incident triggered panic, led to four arrests, and renewed concerns over tourist behaviour."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/natya-shastra-india-sound-instrument-classification-hornbostel-sachs-science-of-sound-india-today-radifah-kabir-music-2919763-2026-05-31",
+      "headline": "How an Indian figured out a way to classify sound 17 centuries before the WestScience of Sound: Seventeen centuries before the German Hornbostel-Sachs system, India's Natya Shastra had already sorted every musical instrument by what vibrates inside it, and a Bengali scholar carried that science to Europe, which took the credit."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-iran-deal-in-limbo-as-donald-trump-leaves-key-white-house-meeting-without-making-decision-2919758-2026-05-31",
       "headline": "US-Iran deal in limbo as Trump walks out of key White House meetingAhead of the meeting, which was held on Friday, Trump had insisted in a social media post that a deal extending the cease-fire would involve the reopening of the conflict-hit Strait of Hormuz by Iran."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-viral-audio-yelling-at-belle-vue-ceo-following-attack-on-abhishek-banerjee-2919770-2026-05-31",
-      "headline": "Video: Mamata Banerjee berates hospital CEO after 'bhaipo' attackedTMC leader Abhishek Banerjee was attacked during his visit to Sonarpur near Kolkata, where he had gone to meet the families of alleged victims of post-poll violence. Scores of people hurled stones, eggs and abuses at the TMC national general secretary."
+      "url": "https://www.indiatoday.in/india/story/kalyan-banerjee-injured-in-chanditala-police-station-clash-tmc-bjp-face-off-2919838-2026-05-31",
+      "headline": "After Abhishek, Trinamool MP Kalyan Banerjee mobbed, injured near KolkataKalyan Banerjee was injured during a clash outside Chanditala police station as TMC supporters were carrying out a protest march. The confrontation drew police and central forces, and Banerjee called it a targeted attack on a democratic protest."
     },
     {
       "sentiment": "positive",
@@ -241,18 +261,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/natya-shastra-india-sound-instrument-classification-hornbostel-sachs-science-of-sound-india-today-radifah-kabir-music-2919763-2026-05-31",
-      "headline": "How an Indian figured out the science of sound 17 centuries before the West didScience of Sound: Seventeen centuries before the German Hornbostel-Sachs system, India's Natya Shastra had already sorted every musical instrument by what vibrates inside it, and a Bengali scholar carried that science to Europe, which took the credit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/indian-citizenship-passport-aadhaar-why-papers-cannot-define-belonging-2919711-2026-05-31",
-      "headline": "Saheb, I have a passport, why don't I still feel sufficiently Indian?Perhaps that is the paradox of citizenship in current India: the more documents one gathers to prove belonging, the farther one drifts from the feeling of truly belonging."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/half-nude-photos-democrat-graham-platner-maine-senate-race-sexting-claims-amy-gertner-2919857-2026-05-31",
-      "headline": "Sexting, half-naked photos on hookup app shake US Democrat's Senate campaignworGraham Platner appeared in a towel-clad selfie linked to his Kik account, an app often associated with hook-up messaging. The image shows his upper body and several tattoos, though his face is not visible. The photograph appears to have been taken in a bathroom mirror."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-real-horror-in-barkers-obsession-isnt-supernatural-its-male-entitlement-2919868-2026-05-31",
+      "headline": "The real horror in Barker's Obsession isn't supernatural but male entitlementCurry Barker's Obsession follows Bear's wish to make Nikki love him above all else. The film uses that supernatural premise to probe consent, agency and self-serving desire."
     },
     {
       "sentiment": "positive",
@@ -261,23 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-india-broadcast-rights-delay-leaves-fans-waiting-2919774-2026-05-31",
-      "headline": "The FIFA World Cup is coming. India still doesn't know where to watch itEvery four years, the FIFA World Cup turns India into a football-crazy nation, regardless of whether the national team is playing. Yet with kickoff around the corner, millions of fans found themselves waiting not for fixtures, but for a broadcaster."
+      "url": "https://www.indiatoday.in/world/us-news/story/half-nude-photos-democrat-graham-platner-maine-senate-race-sexting-claims-amy-gertner-2919857-2026-05-31",
+      "headline": "Sexting, half-naked photos on hookup app shake US Democrat's Senate campaignworGraham Platner appeared in a towel-clad selfie linked to his Kik account, an app often associated with hook-up messaging. The image shows his upper body and several tattoos, though his face is not visible. The photograph appears to have been taken in a bathroom mirror."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vjay-jana-nayagan-director-h-vinoth-on-film-delay-i-dont-have-the-courage-to-reveal-the-truth-2919825-2026-05-31",
-      "headline": "Jana Nayagan director on film delay: I don't have the courage to reveal the truthDirector H Vinoth gave a cryptic answer when asked about Jana Nayagan's release during a promotional interview. Touted to be Thalapathy Vijay's final film, Jana Nayagan is rumoured to hit theatres on the actor-politician's 52nd birthday in June."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-egg-hurt-injured-hospitalised-attack-mamata-banerjee-india-bloc-tmc-poll-rout-2919776-2026-05-31",
-      "headline": "Can attack on Abhishek Banerjee become Mamata's next political turning point?The attack on Abhishek Banerjee has triggered an unexpected show of support for Mamata Banerjee from across the Opposition. The response has revived questions over whether a battered Trinamool Congress can still help pull together the fractured INDIA bloc."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-attack-kunal-ghosh-questions-tmc-leaders-silence-2919827-2026-05-31",
-      "headline": "Why TMC MLA lashed out at own party leaders over assault on Abhishek BanerjeeTMC MLA Kunal Ghosh has questioned the silence of several Trinamool Congress leaders after the alleged attack on Abhishek Banerjee in Sonarpur. His remarks have sharpened the political clash over the incident and the response of the police and hospitals."
+      "url": "https://www.indiatoday.in/opinion/story/indian-citizenship-passport-aadhaar-why-papers-cannot-define-belonging-2919711-2026-05-31",
+      "headline": "Saheb, I have a passport, why don't I still feel sufficiently Indian?Perhaps that is the paradox of citizenship in current India: the more documents one gathers to prove belonging, the farther one drifts from the feeling of truly belonging."
     },
     {
       "sentiment": "positive",
@@ -290,9 +290,24 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-viral-audio-yelling-at-belle-vue-ceo-following-attack-on-abhishek-banerjee-2919770-2026-05-31",
+      "headline": "Video: Mamata Banerjee berates hospital CEO after 'bhaipo' attackedTMC leader Abhishek Banerjee was attacked during his visit to Sonarpur near Kolkata, where he had gone to meet the families of alleged victims of post-poll violence. Scores of people hurled stones, eggs and abuses at the TMC national general secretary."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/cm-vijay-trisha-visit-grieving-ajith-kumar-after-mother-mohini-manis-death-2919775-2026-05-31",
-      "headline": "CM Vijay, Trisha visit grieving Ajith Kumar after mother Mohini Mani's deathCM Vijay and actor Trisha Krishnan visited actor Ajith Kumar's Chennai home after the death of his mother, Mohini Mani. The family matriarch died on Saturday at 85."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vjay-jana-nayagan-director-h-vinoth-on-film-delay-i-dont-have-the-courage-to-reveal-the-truth-2919825-2026-05-31",
+      "headline": "Jana Nayagan director on film delay: I don't have the courage to reveal the truthDirector H Vinoth gave a cryptic answer when asked about Jana Nayagan's release during a promotional interview. Touted to be Thalapathy Vijay's final film, Jana Nayagan is rumoured to hit theatres on the actor-politician's 52nd birthday in June."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-india-broadcast-rights-delay-leaves-fans-waiting-2919774-2026-05-31",
+      "headline": "The FIFA World Cup is coming. India still doesn't know where to watch itEvery four years, the FIFA World Cup turns India into a football-crazy nation, regardless of whether the national team is playing. Yet with kickoff around the corner, millions of fans found themselves waiting not for fixtures, but for a broadcaster."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-egg-hurt-injured-hospitalised-attack-mamata-banerjee-india-bloc-tmc-poll-rout-2919776-2026-05-31",
+      "headline": "Can attack on Abhishek Banerjee become Mamata's next political turning point?The attack on Abhishek Banerjee has triggered an unexpected show of support for Mamata Banerjee from across the Opposition. The response has revived questions over whether a battered Trinamool Congress can still help pull together the fractured INDIA bloc."
     },
     {
       "sentiment": "positive",
@@ -300,27 +315,32 @@
       "headline": "In 1997, India's ocean saved the monsoon from El Nino. This year, it won'tIn 1997, one of the strongest El Ninos ever recorded could not break India's monsoon because the Indian Ocean pushed back. The IOD is flat this year. El Nino is still building. And the September peak is heading straight for India's standing crops."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/how-much-home-loan-tenure-india-housing-affordability-crisis-emi-retirement-real-estate-prices-2919823-2026-05-31",
-      "headline": "Indians are buying homes with money they haven't earned yetAs home prices race ahead of incomes, more Indians are stretching EMIs into retirement, cutting savings and relying on decades of future earnings to keep the dream of homeownership alive. This is the story of how India's housing dream is increasingly being financed by tomorrow's income."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/uttar-pradesh-shikohabad-toddler-killed-cctv-firozabad-police-hunt-accused-2919693-2026-05-30",
       "headline": "Man repeatedly slams toddler to ground, kills him to marry child's motherThe accused killed the one-and-a-half-year-old boy by repeatedly smashing him onto the ground, as he considered the toddler an obstacle to his relationship with the child's mother."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/several-feared-trapped-as-five-storey-building-collapses-in-south-delhis-mehrauli-2919705-2026-05-30",
-      "headline": "Delhi building collapse: 4 dead, rescuers look for survivors with hi-tech devicesA routine Saturday evening turned into a race against time after a multi-storey building suddenly collapsed near Saket Metro station. With survivors already pulled from the debris, rescuers fear more people could still be trapped."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/punjab-civic-polls-results-aap-sweeps-wards-bjp-congress-win-key-corporations-2919372-2026-05-29",
-      "headline": "AAP sweeps Punjab civic polls, BJP, Congress take key municipal corporationsThe ruling AAP dominated Punjab's civic body polls, winning 958 of 1,977 municipal wards across the state, while the BJP and Congress wrested control of Abohar and Kapurthala from AAP."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-final-live-score-rcb-vs-gt-match-ahmedabad-virat-kohli-shubman-gill-rajat-patidar-2919885-2026-05-31",
+      "headline": "IPL final live: RCB chase dynasty status, GT eye perfect revenge at home IPL Final 2026, Bengaluru (RCB) vs Gujarat (GT) Live Score: Two years ago, RCB were cricket's favourite punchline. Tonight, they can take another giant step towards becoming an IPL powerhouse. Standing in their way: a wounded, dangerous Gujarat Titans."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-sachin-tendulkar-impact-player-scrapped-powerplay-rules-wishlist-2919872-2026-05-31",
+      "headline": "Sachin Tendulkar shares the ultimate wishlist to reshape modern IPL cricket Sachin Tendulkar has called for the IPL's Impact Player rule to be scrapped, saying it unfairly favours batters. He also proposed a bowling powerplay and a five-over quota for one bowler."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/singapore-open-final-satwik-chirag-indonesian-duo-first-title-two-years-2919842-2026-05-31",
+      "headline": "Singapore Open Final Live: SatChi take the second game 21-17 Singapore Open Final Live Updates: (Sat/Chi 1-1 Alfain/Fikri, Game 3) Satwiksairaj Rankireddy and Chirag Shetty go into the decider after losing the first game and winning the second against Indonesia's Fajar Alfian and Muhammad Fikri in the Singapore Open men's doubles final. The Indian pair booked their spot in the summit clash after a strong win over world champions from Republic of Korea, Kim Won-ho and Seo Seung-jae in straight sets."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-final-shubman-gill-rajat-patidar-india-t20i-selection-debate-2919866-2026-05-31",
+      "headline": "An IPL trophy could be Shubman GIll's T20I ticket. Could be IPL 2026: Three IPL seasons, nearly 2,000 runs, and two World Cup snubs. He might win an IPL title as captain on Sunday. Shubman Gill has made the loudest possible case for a T20I recall. Whether India's selectors are listening is an entirely different question."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/pm-narendra-modi-mann-ki-baat-gurindervir-singh-animesj-kujur-sprint-rivalrly-2919864-2026-05-31",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-india-broadcast-rights-delay-leaves-fans-waiting-2919774-2026-05-31",
-      "headline": "The FIFA World Cup is coming. India still doesn't know where to watch it Every four years, the FIFA World Cup turns India into a football-crazy nation, regardless of whether the national team is playing. Yet with kickoff around the corner, millions of fans found themselves waiting not for fixtures, but for a broadcaster."
+      "headline": "The FIFA World Cup is coming. India still doesn't know where to watch itEvery four years, the FIFA World Cup turns India into a football-crazy nation, regardless of whether the national team is playing. Yet with kickoff around the corner, millions of fans found themselves waiting not for fixtures, but for a broadcaster."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-final-prediction-team-news-ahmedadab-pitch-conditions-talking-points-2919778-2026-05-31",
-      "headline": "IPL final preview: Red-hot RCB chase era-defining sequel in Ahmedabad IPL 2026, RCB vs GT Preview: A perfectly calibrated RCB and a battle-hardened Gujarat Titans clash in Ahmedabad. With historical legacy on the line, the IPL 2026 grand finale promises an era-defining sequel to crown cricket's new aristocracy."
+      "headline": "IPL final preview: Red-hot RCB chase era-defining sequel in AhmedabadIPL 2026, RCB vs GT Preview: A perfectly calibrated RCB and a battle-hardened Gujarat Titans clash in Ahmedabad. With historical legacy on the line, the IPL 2026 grand finale promises an era-defining sequel to crown cricket's new aristocracy."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/ucl-final-psg-fans-fire-police-scuffle-title-win-video-viral-2919762-2026-05-31",
-      "headline": "PSG fans set fires, scuffle with police after Champions League title win: Watch PSG retained their Champions League title after beating Arsenal on penalties in Budapest, while celebrations in Paris were marred by clashes with police, fires and more than 130 arrests."
+      "headline": "PSG fans set fires, scuffle with police after Champions League title win: WatchPSG retained their Champions League title after beating Arsenal on penalties in Budapest, while celebrations in Paris were marred by clashes with police, fires and more than 130 arrests."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-final-rcb-vs-gt-virat-kohli-soul-royal-challengers-bengaluru-title-defence-soul-2919756-2026-05-31",
-      "headline": "An IPL champion already, Virat Kohli remains the soul of RCB's title defence IPL Final, RCB vs GT: Virat Kohli no longer needs an IPL trophy to complete his story. He already has one. Yet as Royal Challengers Bengaluru prepare for another title-defining night, Virat Kohli remains the emotional pulse of a franchise that has grown with him."
+      "headline": "An IPL champion already, Virat Kohli remains the soul of RCB's title defenceIPL Final, RCB vs GT: Virat Kohli no longer needs an IPL trophy to complete his story. He already has one. Yet as Royal Challengers Bengaluru prepare for another title-defining night, Virat Kohli remains the emotional pulse of a franchise that has grown with him."
     },
     {
       "sentiment": "positive",
@@ -450,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-crashes-out-asian-games-trials-semi-final-2919580-2026-05-30",
       "headline": "Main wapas aaungi: Vinesh exits Asian Games trials after semi-final defeatVinesh Phogat was knocked out of the Asian Games selection trials here on Saturday after losing to Meenakshi Goyat 4-6 in a tense semifinal bout of the women's 53kg event."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/asian-games-vinesh-phogat-vs-nishu-refereeing-row-53kg-trial-2919567-2026-05-30",
-      "headline": "Asian games trials: Mega feud breaks out between Vinesh Phogat's camp and WFIVinesh Phogat beat Nishu 7-6 in a 53kg qualification trial that lurched from contest to confrontation over scoring calls. The stoppages, broken review screen and sideline clashes exposed the administrative disorder still hanging over Indian wrestling."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asian-games-2026-india-cricket-probables-vaibhav-sooryavanshi-in-gill-surya-out-2919553-2026-05-30",
-      "headline": "No SKY, no Gill: Vaibhav Sooryavanshi headlines India's Asian Games probablesThe BCCI has submitted a 30-member men's probables list for the Asian Games in Aichi-Nagoya, with teenage sensation Vaibhav Sooryavanshi earning a spot while India captains Shubman Gill and Suryakumar Yadav have been left out."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-cristiano-ronaldo-2030-roberto-martinez-portugal-2919530-2026-05-30",
-      "headline": "Cristiano Ronaldo to play 2030 home World Cup? Portugal head coach believes soFIFA World Cup: Roberto Martinez has refused to rule out Cristiano Ronaldo playing at the 2030 World Cup. The remark underlines his extraordinary longevity and Portugal's continuing reliance on his experience, authority and leadership."
     }
   ],
   "education": [
