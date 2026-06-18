@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/akshay-kumar-seeks-blessings-at-vaishno-devi-ahead-of-welcome-to-the-jungle-2929486-2026-06-19",
+      "headline": "Akshay Kumar seeks blessings at Vaishno Devi ahead of Welcome to the Jungle Actor Akshay Kumar offered prayers at the Shri Mata Vaishno Devi Shrine under heavy security. He will be seen next in Welcome to the Jungle, releasing in theatres end of June."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/sara-ali-khan-meets-henry-cavill-brings-enola-holmes-vibe-in-vintage-look-pics-2929393-2026-06-18",
+      "headline": "Sara Ali Khan meets Henry Cavill, brings Enola Holmes vibe in vintage look. Pics Sara Ali Khan shared photographs with Henry Cavill from a Longines campaign styled in a vintage mood. The pairing has drawn attention as a new East-meets-West crossover with an Enola Holmes-like feel."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/director-k-raghavendra-rao-pulls-actors-keerthy-suresh-krithi-shetty-closer-slammed-2929404-2026-06-18",
       "headline": "Director Raghavendra Rao pulls actors Keerthy Suresh, Krithi Shetty closer; slammed A video from director Anil Ravipudi's Hyderabad film launch shows veteran filmmaker K Raghavendra Rao pulling actors Keerthy Suresh and Krithi Shetty closer by holding their arms. The clip triggered criticism online, with users slamming him for his inappropriate behaviour."
     },
@@ -186,23 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kala-hiran-actor-sonu-mmishra-who-quit-film-says-he-was-cast-for-salman-khan-link-rajasthan-roots-2929033-2026-06-18",
       "headline": "Kala Hiran actor who quit film says he was cast for Salman link, Rajasthan roots Actor Sonu Mmishra has challenged Kala Hiran director Bharat S Shrinate's claim that he was never part of the film. He has proved their association and also claimed he was cast because of his link with Salman Khan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/daayra-release-date-announced-kareena-kapoor-prithviraj-tease-intense-cop-drama-2928972-2026-06-18",
-      "headline": "Daayra release date announced: Kareena Kapoor, Prithviraj tease intense cop drama Meghna Gulzar's Daayra release date has been announced with behind-the-scenes reveal of Kareena Kapoor Khan and Prithviraj Sukumaran's looks. The true-event thriller examines crime, justice and punishment as the line between law and justice blurs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mohanlal-joins-operation-toofan-as-kerala-police-anti-drug-warrior-2929080-2026-06-18",
-      "headline": "Mohanlal meets Kerala Home Minister, joins anti-drug initiative Operation Toofan Malayalam superstar Mohanlal met Kerala Home Minister Ramesh Chennithala and joined Operation Toofan as a Toofan Warrior. He said the anti-drug drive must continue as it can protect families and students."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/approved-mou-with-us-despite-reservations-after-assurances-on-irans-rights-irans-supreme-leader-2929484-2026-06-18",
-      "headline": "Approved US deal, despite reservations, after assurances on Iran's rights: MojtabaIn a written message released, Mojtaba Khamenei said he authorised the agreement after officials pledged to safeguard \"the rights of the Iranian nation and the resistance front.\""
+      "headline": "Mojtaba Khamenei says 'desperate' Trump used all kinds of leverage for Iran dealIn a first public response since the US-Iran draft agreement was signed virtually, Khamenei said he authorised the agreement after officials pledged to safeguard \"the rights of the Iranian nation and the resistance front\"."
     },
     {
       "sentiment": "positive",
@@ -217,7 +217,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-czechia-vs-south-africa-live-score-updates-switzerland-vs-bosnia-and-herzegovina-2929390-2026-06-18",
-      "headline": "SWI vs BIH Live: A battle for first win of Group BSwitzerland (SWI) vs Bosnia and Herzegovina (BIH) Live, FIFA World Cup: Group B is finely poised, and neither Switzerland nor Bosnia and Herzegovina can afford another slip-up. With both sides still searching for their first win of the tournament, SoFi Stadium hosts a contest that could prove pivotal in shaping the race for the knockout rounds."
+      "headline": "SWI 4-1 BIH Live: Manzambi at the double as Swiss thrash BosniaSwitzerland (SWI) vs Bosnia and Herzegovina (BIH) Live, FIFA World Cup: Manzambi's brace gives Switzerland all three points against 10-man Bosnia and Herzegovina to get their first win of the campaign. Ruben Vargas and Granit Xhaka rounded off a sensational second half performance that blew away Bosnia."
     },
     {
       "sentiment": "positive",
@@ -226,13 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-agreement-netanyahu-seeks-to-influence-trump-iran-peace-deal-and-lebanon-terms-2929448-2026-06-18",
-      "headline": "Can Netanyahu derail Trump's Iran deal? Inside Israel's push to influence USBenjamin Netanyahu is trying to shape the final terms of the US-Iran memorandum after its signing. The push centres on nuclear restrictions, Lebanon and widening differences with Donald Trump."
+      "url": "https://www.indiatoday.in/world/story/us-military-ends-blockade-of-all-maritime-traffic-entering-and-exiting-iranian-ports-after-trumps-directive-2929494-2026-06-19",
+      "headline": "US lifts naval blockade on all maritime traffic entering and leaving Iranian portsThe move is expected to ease concerns over shipping disruptions in and around Iranian waters and could provide relief to commercial operators navigating key maritime routes in the region."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nda-backed-candidate-parimal-nathwani-wins-jharkhand-rajya-sabha-polls-after-cross-voting-2929254-2026-06-18",
-      "headline": "NDA-backed candidate wins Jharkhand Rajya Sabha polls after cross-votingNDA-backed Independent Parimal Nathwani won a Rajya Sabha seat from Jharkhand amid cross-voting, while JMM's Baidyanath Ram took the second berth. Nathwani's victory came despite the NDA being short of the required numbers in the Assembly."
+      "url": "https://www.indiatoday.in/world/story/us-iran-agreement-netanyahu-seeks-to-influence-trump-iran-peace-deal-and-lebanon-terms-2929448-2026-06-18",
+      "headline": "Can Netanyahu derail Trump's Iran deal? Inside Israel's push to influence USBenjamin Netanyahu is trying to shape the final terms of the US-Iran memorandum after its signing. The push centres on nuclear restrictions, Lebanon and widening differences with Donald Trump."
     },
     {
       "sentiment": "positive",
@@ -246,13 +246,33 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/samajwadi-party-split-rumours-bjp-allies-claim-mps-may-break-away-before-2027-2929482-2026-06-18",
+      "headline": "SP split real or BJP's mind game? Decoding UP defection buzz ahead of 2027 pollsWhile the BJP claims that up to 30 Samajwadi Party MPs could defect, the Akhilesh Yadav-led SP has dismissed it as a mere political mind game."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/nda-backed-candidate-parimal-nathwani-wins-jharkhand-rajya-sabha-polls-after-cross-voting-2929254-2026-06-18",
+      "headline": "NDA-backed candidate wins Jharkhand Rajya Sabha polls after cross-votingNDA-backed Independent Parimal Nathwani won a Rajya Sabha seat from Jharkhand amid cross-voting, while JMM's Baidyanath Ram took the second berth. Nathwani's victory came despite the NDA being short of the required numbers in the Assembly."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/pune/story/pune-spiritual-guru-radhamohan-mishra-sexual-exploitation-arrest-wagholi-ashram-2929208-2026-06-18",
       "headline": "Self-styled godman tortures, rapes woman for years, forces her to drink his urinePune Police have arrested self-styled spiritual guru Radhamohan Mishra and seven associates after a woman alleged years of sexual exploitation and harassment. Investigators say seized devices, CCTV material and an underground tunnel under construction are now central to the probe."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/russia-ukraine-war-capital-city-moscow-oil-refinery-drone-strikes-largest-attack-two-years-video-2928995-2026-06-18",
+      "headline": "Refinery up in flames as 200 drones swarm Moscow in biggest strike by UkraineUkrainian drones unleashed chaos in Moscow, with at least seven striking a key oil refinery just 15 km from the Kremlin, triggering massive fires and plumes of black smoke. The attack involved nearly 200 drones and was the largest on Moscow in two years."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/india-weather-tomorrow-imd-western-disturbance-rain-northeast-monsoon-heatwave-delhi-2929305-2026-06-18",
-      "headline": "Western Disturbance to drench North India as heat grips the centre FridayThe IMD says a western disturbance will bring rain and thunderstorms to north India on Friday, June 19, while central India swelters under heatwave conditions. The northeast braces for heavy to very heavy rain as the monsoon advances."
+      "headline": "Western Disturbance to drench the north even as heat grips central India todayThe IMD says a western disturbance will bring rain and thunderstorms to north India on Friday, June 19, while central India swelters under heatwave conditions. The northeast braces for heavy to very heavy rain as the monsoon advances."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-father-jorge-messi-recovering-family-slams-false-reports-2929488-2026-06-18",
+      "headline": "Lionel Messi's father recovering from health issue, family slams false reportsLionel Messi's family said his father Jorge, is recovering under medical supervision. The statement also condemned rumours and urged privacy after intense speculation."
     },
     {
       "sentiment": "positive",
@@ -261,8 +281,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/russia-ukraine-war-capital-city-moscow-oil-refinery-drone-strikes-largest-attack-two-years-video-2928995-2026-06-18",
-      "headline": "Refinery up in flames as 200 drones swarm Moscow in biggest strike by UkraineUkrainian drones unleashed chaos in Moscow, with at least seven striking a key oil refinery just 15 km from the Kremlin, triggering massive fires and plumes of black smoke. The attack involved nearly 200 drones and was the largest on Moscow in two years."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dhanush-d55-with-rajkumar-periasamy-titled-om-teaser-hints-at-social-unrest-2929313-2026-06-18",
+      "headline": "Dhanush's D55 with Rajkumar Periasamy titled Om, teaser hints at social unrestActor Dhanush and director Rajkumar Periasamy's film has been titled Om. The makers announced the title along with a gritty first-look teaser on Thursday."
     },
     {
       "sentiment": "negative",
@@ -281,33 +301,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dhanush-d55-with-rajkumar-periasamy-titled-om-teaser-hints-at-social-unrest-2929313-2026-06-18",
-      "headline": "Dhanush's D55 with Rajkumar Periasamy titled Om, teaser hints at social unrestActor Dhanush and director Rajkumar Periasamy's film has been titled Om. The makers announced the title along with a gritty first-look teaser on Thursday."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-gorakhpur-axe-murder-son-golu-kanaujia-held-for-killing-father-brahmdev-2929389-2026-06-18",
-      "headline": "I killed him: Man shouts from rooftop after murdering father over marriage demandAfter the murder, the accused son climbed onto the roof of the house and shouted that he had killed his father, following which villagers rushed to the spot."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/new-shipping-crisis-el-nino-puts-panama-canal-under-threat-as-hormuz-tensions-ease-2928893-2026-06-18",
-      "headline": "El Nino puts Panama Canal under threat as Hormuz tensions easeNoaa has warned that a strengthening El Nino could again hit Panama Canal operations. The alert adds climate risk to global shipping even as Hormuz tensions show signs of easing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-re-test-iaf-helicopter-delivers-question-papers-to-chhindwara-2929086-2026-06-18",
-      "headline": "Watch: IAF helicopter delivers NEET re-test papers to Madhya PradeshAhead of the June 21 NEET UG 2026 re-test, the Indian Air Force has joined the examination security operation by airlifting question papers across the country. A helicopter delivered papers to Chhindwara, Madhya Pradesh, as authorities tightened transport, storage and distribution protocols following the paper leak controversy."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/cocktail-2-box-office-prediction-pre-sales-lower-than-tere-ishk-mein-thamma-2929281-2026-06-18",
       "headline": "Cocktail 2 box office prediction: Pre-sales lower than Tere Ishk Mein, ThammaShahid Kapoor's Cocktail 2 has earned over Rs 3 crore ahead of its June 19 release. Box office trade estimates suggest a moderate start, with advance bookings trailing Kriti Sanon and Rashmika Mandanna's Tere Ishk Mein and Thamma respectively."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-gurudwara-shooting-elderly-sikh-couple-killed-bjp-islamabad-2928833-2026-06-18",
-      "headline": "Cold-blooded: Sikh elderly couple shot dead in Pak gurudwara, assailants on the runAn elderly Sikh couple was gunned down in a gurudwara in Pakistan's Khyber Pakhtunkhwa. Reacting to it, the Akal Takht and the BJP condemned the killing. The BJP said that the killing is a \"grim reminder of the insecurity, fear, and persecution faced by religious minorities in Pakistan\"."
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-gorakhpur-axe-murder-son-golu-kanaujia-held-for-killing-father-brahmdev-2929389-2026-06-18",
+      "headline": "I killed him: Man shouts from rooftop after murdering father over marriage demandAfter the murder, the accused son climbed onto the roof of the house and shouted that he had killed his father, following which villagers rushed to the spot."
     },
     {
       "sentiment": "positive",
@@ -323,8 +323,33 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-nz-glenn-phillips-century-matt-henry-england-new-zealand-second-test-oval-2929507-2026-06-19",
+      "headline": "ENG vs NZ: Glenn Phillips, Matt Henry turn the screws on England at the Oval ENG vs NZ, 2nd Test Day 2: Glenn Phillips scored his maiden Test century and Matt Henry struck twice as New Zealand moved ahead on day two at The Oval. England closed on 222 for six, still 169 behind and under pressure in the second Test."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-anthem-protocol-changed-after-thomas-tuchel-photographer-complaint-2929508-2026-06-19",
+      "headline": "Thomas Tuchel crashout forces FIFA to change World Cup anthem protocol Thomas Tuchel's complaint about blocked views during the national anthem prompted FIFA to reposition photographers at World Cup 2026 venues. The change followed England's win over Croatia in Dallas and addressed a pre-match issue caused by the stadium layout."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-tribute-south-africa-mokoena-czechia-fifa-world-cup-draw-2929502-2026-06-19",
+      "headline": "South Africa's Cristiano Ronaldo tribute goes viral after Mokoena's late penalty FIFA World Cup 2026: South Africa's Teboho Mokoena marked his late equaliser against Czechia with Cristiano Ronaldo's trademark celebrations. The moment highlighted Ronaldo's enduring pull even as Portugal opened their World Cup with a frustrating draw."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/south-africa-vs-czechia-mokoena-late-penalty-earns-fifa-world-cup-draw-2929500-2026-06-19",
+      "headline": "Czechia let victory slip as South Africa strike late to earn a draw in Atlanta FIFA World Cup 2026: Teboho Mokoena's late penalty rescued a 1-1 draw for South Africa against Czechia after Michal Sadilek's early strike, keeping both teams alive but under pressure in Group A."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-father-jorge-messi-recovering-family-slams-false-reports-2929488-2026-06-18",
+      "headline": "Lionel Messi's father recovering from health issue, family slams false reports Lionel Messi's family said his father Jorge, is recovering under medical supervision. The statement also condemned rumours and urged privacy after intense speculation."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-czechia-vs-south-africa-live-score-updates-switzerland-vs-bosnia-and-herzegovina-2929390-2026-06-18",
-      "headline": "(CZE 1-1 RSA) Live score, World Cup: Bafana Bafana battle to keep hopes alive Czechia vs South Africa Live score and updates, FIFA World Cup: Czechia and South Africa meet in a crucial Group A clash in Atlanta after opening-round defeats. With both teams still searching for their first points, qualification hopes are already on the line."
+      "headline": "SWI 4-1 BIH Live: Manzambi at the double as Swiss thrash Bosnia Switzerland (SWI) vs Bosnia and Herzegovina (BIH) Live, FIFA World Cup: Manzambi's brace gives Switzerland all three points against 10-man Bosnia and Herzegovina to get their first win of the campaign. Ruben Vargas and Granit Xhaka rounded off a sensational second half performance that blew away Bosnia."
     },
     {
       "sentiment": "positive",
@@ -349,22 +374,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/elye-wahi-canada-entry-denied-ivory-coast-vs-germany-spot-fixing-probe-2929228-2026-06-18",
-      "headline": "Ivory Coast's Elye Wahi denied entry to Canada amid spot-fixing probe Ivory Coast striker Elye Wahi cannot enter Canada for Saturday's World Cup match against Germany. The setback follows a French spot-fixing investigation and forces coach Emerse Fae to alter plans."
+      "headline": "Ivory Coast's Elye Wahi denied entry to Canada amid spot-fixing probeIvory Coast striker Elye Wahi cannot enter Canada for Saturday's World Cup match against Germany. The setback follows a French spot-fixing investigation and forces coach Emerse Fae to alter plans."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/manika-batra-dropped-from-asian-games-squad-for-not-meeting-ttfi-selection-criteria-2929153-2026-06-18",
-      "headline": "Table tennis star Manika Batra dropped from Asian Games squad Manika Batra has been left out of India's Asian Games table tennis squad after missing the selection criteria of the sport's governing body in India. She has been named a reserve, while a rankings-based squad will be led by Sreeja Akula."
+      "headline": "Table tennis star Manika Batra dropped from Asian Games squadManika Batra has been left out of India's Asian Games table tennis squad after missing the selection criteria of the sport's governing body in India. She has been named a reserve, while a rankings-based squad will be led by Sreeja Akula."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-doha-return-natural-technique-cwg-asian-games-2929100-2026-06-18",
-      "headline": "Neeraj Chopra returns to Doha with old style, sets sights on Asian Games, CWG Eight months on from an injury-hit eighth at Tokyo's World Championships, Neeraj Chopra opens his season in Doha, training now under his first coach and chasing the throw that always felt most like him."
+      "headline": "Neeraj Chopra returns to Doha with old style, sets sights on Asian Games, CWGEight months on from an injury-hit eighth at Tokyo's World Championships, Neeraj Chopra opens his season in Doha, training now under his first coach and chasing the throw that always felt most like him."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vaibhav-sooryavanshi-parents-bcci-ireland-england-tour-2929041-2026-06-18",
-      "headline": "Why BCCI allowed Vaibhav Sooryavanshi's parents to travel with him for India tours? BCCI has allowed 15-year-old Vaibhav Sooryavanshi's parents to accompany him on India's white-ball tour of Ireland and England. The board says the move will ease his entry into a senior dressing room and that any on-field disciplinary matters belong with match officials."
+      "headline": "Why BCCI allowed Vaibhav Sooryavanshi's parents to travel with him for India tours?BCCI has allowed 15-year-old Vaibhav Sooryavanshi's parents to accompany him on India's white-ball tour of Ireland and England. The board says the move will ease his entry into a senior dressing room and that any on-field disciplinary matters belong with match officials."
     },
     {
       "sentiment": "positive",
@@ -440,31 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/world-cup-ghana-beat-panama-caleb-yirenkyi-stoppage-time-winner-2928723-2026-06-18",
       "headline": "Ghana snatch dramatic stoppage-time win over PanamaCaleb Yirenkyi's stoppage-time strike earned Ghana a dramatic 1-0 win over Panama in a lively World Cup 2026 Group L clash in Toronto on Wednesday. Ghana secured all three points despite losing goalkeeper Lawrence Ati Zigi to injury at half-time."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-harry-kane-thomas-tuchel-half-time-pep-talk-england-croatia-win-2928719-2026-06-18",
-      "headline": "Kane credits Tuchel's half-time pep talk for England's 4-2 victory over CroatiaEngland captain Harry Kane credited Thomas Tuchel's half-time intervention for transforming his side's performance as the Three Lions overcame Croatia 4-2 in a thrilling FIFA World Cup opener."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/vozinha-mother-us-visa-cape-verde-goalkeeper-fifa-world-cup-reunion-2928714-2026-06-18",
-      "headline": "After Vozinha's heroics, his mother secures US visa to watch Cape VerdeU.S. officials have moved to secure a visa for Cape Verde goalkeeper Vozinha's mother before Sunday's Uruguay match. The breakthrough follows his standout World Cup display against Spain and sets up an emotional reunion in Miami."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-messi-chants-fifa-world-cup-portugal-draw-vs-dr-congo-2928713-2026-06-18",
-      "headline": "'Messi, Messi' chants rain down on Ronaldo as Portugal held by DR CongoFIFA World Cup 2026: Portugal opened their World Cup campaign with a 1-1 draw against DR Congo as Cristiano Ronaldo again failed to score. The result and the Messi chants around him sharpened the early contrast between football's two long-time rivals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/thomas-tuchel-england-vs-croatia-fifa-world-cup-report-4-2-win-rashford-bellingham-kane-2928711-2026-06-18",
-      "headline": "Thomas Tuchel gets it right as England overturn Croatia to win World Cup openerFIFA World Cup 2026: Thomas Tuchel's halftime changes proved decisive as England recovered from a sluggish first half to beat Croatia 4-2 in their World Cup opener, with Jude Bellingham leading the fightback."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/england-vs-croatia-live-score-fifa-world-cup-kane-modric-ghana-vs-panama-uzbekistan-vs-colombia-2928706-2026-06-18",
-      "headline": "UZB 1 - 3 COL Highlights: Luis Diaz inspires Colombia to overcome wasteful Uzbekistan in Group KUzbekistan (UZB) vs Colombia (COL) Highlights, FIFA World Cup 2026: Luis Diaz inspired Colombia to a commanding win over Uzbekistan, as they put three past the debutants from Asia. After assisting Daniel Munoz for the first goal, Diaz scored the second to put Colombia back in front. Jaminton Campaz scored the third in the last second of the injury time to seal the deal in New Mexico City."
     }
   ],
   "education": [
