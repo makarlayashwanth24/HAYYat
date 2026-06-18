@@ -200,14 +200,14 @@
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/trump-and-iranian-president-pezeshkian-signed-the-us-iran-mou-on-wednesday-a-us-official-said-2928712-2026-06-18",
+      "headline": "Trump and Pezeshkian digitally sign US-Iran MoU to end conflict, reopen HormuzUS President Donald Trump and Iranian President Masoud Pezeshkian digitally signed a memorandum of understanding to end the conflict and reopen the Strait of Hormuz. The deal includes sanctions relief, resumed Iranian oil exports, talks on implementation, and a 60-day framework for negotiating a broader agreement."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/indian-seafarers-safety-pm-modi-raises-welfare-concerns-with-donald-trump-2928588-2026-06-17",
       "headline": "Safety of lakhs of Indian seafarers of high importance to us, says PM Modi to TrumpDays after three Indian sailors were killed in a US strike in the Gulf, PM Modi urged Donald Trump to ensure freedom of navigation and the safety of seafarers."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/trump-and-iranian-president-pezeshkian-signed-the-us-iran-mou-on-wednesday-a-us-official-said-2928712-2026-06-18",
-      "headline": "Trump and Iranian President Pezeshkian signed the US-Iran MoU: US officialTrump and Iranian President Pezeshkian signed the US-Iran MoU on Wednesday, a US official said"
     },
     {
       "sentiment": "positive",
@@ -217,7 +217,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/england-vs-croatia-live-score-fifa-world-cup-kane-modric-ghana-vs-panama-uzbekistan-vs-colombia-2928706-2026-06-18",
-      "headline": "ENG 4-2 CRO Live: Kane, Bellingham and Rashford give England big winEngland (ENG) vs Croatia (CRO) Live score, FIFA World Cup 2026: (ENG 4-2 CRO). Thomas Tuchel's World Cup mission is off to a flying start. England were tested by a spirited Croatia side, but goals from Harry Kane, Jude Bellingham and Marcus Rashford ensured the Three Lions emerged from a six-goal thriller with all three points."
+      "headline": "GHA 0-0 PAN Live: All blunt and stale at half-timeGhana (GHA) vs Panama (PAN) Live, FIFA World Cup 2026: (GHA 0-0 PAN) The rain has had more impact than either attack so far. Ghana and Panama head into the break level after a forgettable first half, with Antoine Semenyo's switch into a central role one of the few signs that a breakthrough may still be coming."
     },
     {
       "sentiment": "positive",
@@ -247,7 +247,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-iran-deal-live-updates-donald-trump-mojtaba-ceasefire-israel-tehran-strait-of-hormuz-lebanon-2928705-2026-06-18",
-      "headline": "Live: Trump says US-Iran deal will be signed within next 48 hoursUS-Israel-Iran Live Updates: A proposed US-Iran agreement moved closer to reality after Tehran indicated that Presidents Donald Trump and Masoud Pezeshkian could personally sign the accord expected to be formalised in Switzerland on Friday. The development came as senior US officials disclosed details of the 14-point memorandum of understanding after days of secrecy surrounding the negotiations. In Tehran, Foreign Ministry spokesperson Esmail Baghaei said a presidential signing ceremony remained \"on the table\", while officials in Washington stressed that the agreement was still preliminary and that either side could walk away before a final deal is reached. Speaking at the close of the G7 summit in France, Trump defended the accord, saying it had helped avert a wider economic crisis triggered by the conflict that erupted after US and Israeli strikes on Iran in February. He pointed to increased maritime traffic through the Strait of Hormuz and easing oil prices as signs of stabilisation, but warned that military action could resume if Tehran failed to honour its commitments. Under the framework, a 60-day negotiation period would begin after signing. The proposal includes limited sanctions relief, toll-free passage through the Strait of Hormuz and a commitment by Iran to dilute part of its highly enriched uranium stockpile. Follow indiatoday.in for the latest updates on US-Iran deal."
+      "headline": "Live: US to remove obstacles to Iran's asset access, Tehran saysUS-Israel-Iran Live Updates: A proposed US-Iran agreement moved closer to reality after Tehran indicated that Presidents Donald Trump and Masoud Pezeshkian could personally sign the accord expected to be formalised in Switzerland on Friday. The development came as senior US officials disclosed details of the 14-point memorandum of understanding after days of secrecy surrounding the negotiations. In Tehran, Foreign Ministry spokesperson Esmail Baghaei said a presidential signing ceremony remained \"on the table\", while officials in Washington stressed that the agreement was still preliminary and that either side could walk away before a final deal is reached. Speaking at the close of the G7 summit in France, Trump defended the accord, saying it had helped avert a wider economic crisis triggered by the conflict that erupted after US and Israeli strikes on Iran in February. He pointed to increased maritime traffic through the Strait of Hormuz and easing oil prices as signs of stabilisation, but warned that military action could resume if Tehran failed to honour its commitments. Under the framework, a 60-day negotiation period would begin after signing. The proposal includes limited sanctions relief, toll-free passage through the Strait of Hormuz and a commitment by Iran to dilute part of its highly enriched uranium stockpile. Follow indiatoday.in for the latest updates on US-Iran deal."
     },
     {
       "sentiment": "positive",
@@ -323,13 +323,23 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/vozinha-mother-us-visa-cape-verde-goalkeeper-fifa-world-cup-reunion-2928714-2026-06-18",
+      "headline": "After Vozinha's heroics, his mother secures US visa to watch Cape Verde U.S. officials have moved to secure a visa for Cape Verde goalkeeper Vozinha's mother before Sunday's Uruguay match. The breakthrough follows his standout World Cup display against Spain and sets up an emotional reunion in Miami."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-messi-chants-fifa-world-cup-portugal-draw-vs-dr-congo-2928713-2026-06-18",
+      "headline": "'Messi, Messi' chants rain down on Ronaldo as Portugal held by DR Congo FIFA World Cup 2026: Portugal opened their World Cup campaign with a 1-1 draw against DR Congo as Cristiano Ronaldo again failed to score. The result and the Messi chants around him sharpened the early contrast between football's two long-time rivals."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/thomas-tuchel-england-vs-croatia-fifa-world-cup-report-4-2-win-rashford-bellingham-kane-2928711-2026-06-18",
       "headline": "Thomas Tuchel gets it right as England overturn Croatia to win World Cup opener FIFA World Cup 2026: Thomas Tuchel's halftime changes proved decisive as England recovered from a sluggish first half to beat Croatia 4-2 in their World Cup opener, with Jude Bellingham leading the fightback."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/england-vs-croatia-live-score-fifa-world-cup-kane-modric-ghana-vs-panama-uzbekistan-vs-colombia-2928706-2026-06-18",
-      "headline": "ENG 4-2 CRO Live: Kane, Bellingham and Rashford give England big win England (ENG) vs Croatia (CRO) Live score, FIFA World Cup 2026: (ENG 4-2 CRO). Thomas Tuchel's World Cup mission is off to a flying start. England were tested by a spirited Croatia side, but goals from Harry Kane, Jude Bellingham and Marcus Rashford ensured the Three Lions emerged from a six-goal thriller with all three points."
+      "headline": "GHA 0-0 PAN Live: All blunt and stale at half-time Ghana (GHA) vs Panama (PAN) Live, FIFA World Cup 2026: (GHA 0-0 PAN) The rain has had more impact than either attack so far. Ghana and Panama head into the break level after a forgettable first half, with Antoine Semenyo's switch into a central role one of the few signs that a breakthrough may still be coming."
     },
     {
       "sentiment": "positive",
@@ -364,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-catch-india-a-vs-afghanistan-a-video-2928592-2026-06-17",
-      "headline": "Vaibhav Sooryavanshi pulls off stunning acrobatic catch vs Afghanistan A: Watch IND A vs AFG A: Vaibhav Sooryavanshi produced a stunning acrobatic catch and followed it up with a brisk 38-run knock as India A thrashed Afghanistan A by 101 runs in the Tri-Nation Series in Dambulla."
+      "headline": "Vaibhav Sooryavanshi pulls off stunning acrobatic catch vs Afghanistan A: WatchIND A vs AFG A: Vaibhav Sooryavanshi produced a stunning acrobatic catch and followed it up with a brisk 38-run knock as India A thrashed Afghanistan A by 101 runs in the Tri-Nation Series in Dambulla."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/cape-verde-goalkeeper-name-vozinha-instagram-2928580-2026-06-17",
-      "headline": "Vozinha now has Instagram followers 22 times his country's population The FIFA World Cup has the ability to change the life of any footballer in the world. Cape Verde goalkeeper Vozinha got to know that first hand after his Instagram following became 22 times of his country's population."
+      "headline": "Vozinha now has Instagram followers 22 times his country's populationThe FIFA World Cup has the ability to change the life of any footballer in the world. Cape Verde goalkeeper Vozinha got to know that first hand after his Instagram following became 22 times of his country's population."
     },
     {
       "sentiment": "positive",
@@ -440,16 +450,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-lucknow-odi-india-opener-eyes-big-statement-after-dharamsala-run-out-2928191-2026-06-17",
       "headline": "Hungry like a debutant, Rohit Sharma targets big statement in Lucknow ODIIndia lead Afghanistan 1-0. The 2nd ODI at Lucknow's Ekana Stadium today is a chance to seal the series, but one subplot will shadow everything else from the first ball."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-aymen-hussein-goal-iraq-captain-overcomes-war-loss-and-detention-2928173-2026-06-17",
-      "headline": "From Al Qaeda killing his father to scoring at World Cup, meet Iraq's captain fantasticFIFA World Cup 2026: Aymen Hussein scored Iraq's lone goal in a 4-1 World Cup defeat to Norway after a journey marked by war and personal loss. His equaliser, days after a seven-hour detention in Chicago, underlined why he stands as a national symbol of resilience in Iraq."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-six-world-cups-200th-argentina-appearance-goal-vs-algeria-2928165-2026-06-17",
-      "headline": "Lionel Messi scores hat-trick, equals Miroslav Klose's all-time World Cup goals recordLionel Messi scored a hat-trick to take his World Cup tally to 16 goals, drawing level with German legend Miroslav Klose at the top of the tournament's all-time scoring charts."
     }
   ],
   "education": [
