@@ -104,6 +104,21 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/director-k-raghavendra-rao-pulls-actors-keerthy-suresh-krithi-shetty-closer-slammed-2929404-2026-06-18",
+      "headline": "Director Raghavendra Rao pulls actors Keerthy Suresh, Krithi Shetty closer; slammed A video from director Anil Ravipudi's Hyderabad film launch shows veteran filmmaker K Raghavendra Rao pulling actors Keerthy Suresh and Krithi Shetty closer by holding their arms. The clip triggered criticism online, with users slamming him for his inappropriate behaviour."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/cocktail-2-box-office-prediction-pre-sales-lower-than-tere-ishk-mein-thamma-2929281-2026-06-18",
+      "headline": "Cocktail 2 box office prediction: Pre-sales lower than Tere Ishk Mein, Thamma Shahid Kapoor's Cocktail 2 has earned over Rs 3 crore ahead of its June 19 release. Box office trade estimates suggest a moderate start, with advance bookings trailing Kriti Sanon and Rashmika Mandanna's Tere Ishk Mein and Thamma respectively."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-peddi-gets-6-minutes-of-new-footage-whats-been-added-and-edited-2929304-2026-06-18",
+      "headline": "Ram Charan's Peddi gets 6 minutes of new footage: What's been added and edited Nearly two weeks after its release, Peddi's theatrical version is updated with close to six minutes of additional footage. Fans say the new version restores some important scenes while removing a few controversial moments."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/dhanush-d55-with-rajkumar-periasamy-titled-om-teaser-hints-at-social-unrest-2929313-2026-06-18",
       "headline": "Dhanush's D55 with Rajkumar Periasamy titled Om, teaser hints at social unrest Actor Dhanush and director Rajkumar Periasamy's film has been titled Om. The makers announced the title along with a gritty first-look teaser on Thursday."
     },
@@ -181,33 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/mohanlal-joins-operation-toofan-as-kerala-police-anti-drug-warrior-2929080-2026-06-18",
       "headline": "Mohanlal meets Kerala Home Minister, joins anti-drug initiative Operation Toofan Malayalam superstar Mohanlal met Kerala Home Minister Ramesh Chennithala and joined Operation Toofan as a Toofan Warrior. He said the anti-drug drive must continue as it can protect families and students."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/suhasini-mulay-lagaan-actor-married-at-60-after-a-facebook-friendship-turned-into-love-2929028-2026-06-18",
-      "headline": "Why Lagaan actor Suhasini Mulay waited till 60 to marry scientist Atul Gurtu Actor Suhasini Mulay opened up about finding love at 60 after meeting scientist Atul Gurtu on Facebook. She also revealed why she never married earlier and how they got married within weeks of meeting in person."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/5-new-ott-releases-on-netflix-and-sony-liv-you-shouldnt-miss-2929040-2026-06-18",
-      "headline": "5 new OTT releases on Netflix and Sony LIV you shouldn't miss From Harlan Coben's mystery thriller I Will Find You to the Korean suspense drama Oasis and Malayalam entertainer Athiradi, this week's OTT lineup spans multiple genres and languages. Here's a look at five fresh releases streaming on Netflix and Sony LIV."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/fahadh-faasil-panorama-studios-two-film-malayalam-deal-2928934-2026-06-18",
-      "headline": "Fahadh Faasil lands major two-film deal with Bollywood banner. Details inside Panorama Studios has signed Fahadh Faasil for two Malayalam films to be produced with Jacob K Babu. The deal adds to the studio's expanding Malayalam slate after the success of Drishyam 3."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nda-backed-candidate-parimal-nathwani-wins-jharkhand-rajya-sabha-polls-after-cross-voting-2929254-2026-06-18",
-      "headline": "NDA-backed candidate wins Jharkhand Rajya Sabha polls after cross-votingNDA-backed Independent Parimal Nathwani won a Rajya Sabha seat from Jharkhand amid cross-voting, while JMM's Baidyanath Ram took the second berth. Nathwani's victory came despite the NDA being short of the required numbers in the Assembly."
+      "url": "https://www.indiatoday.in/world/story/approved-mou-with-us-despite-reservations-after-assurances-on-irans-rights-irans-supreme-leader-2929484-2026-06-18",
+      "headline": "Approved US deal, despite reservations, after assurances on Iran's rights: MojtabaIn a written message released, Mojtaba Khamenei said he authorised the agreement after officials pledged to safeguard \"the rights of the Iranian nation and the resistance front.\""
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shiv-sena-ubt-crisis-mps-rebellion-delhi-meet-eknath-shinde-speaker-letter-2928901-2026-06-18",
-      "headline": "Midnight flights to Delhi, fear of Congress merger: Inside Sena UBT MPs' revoltSix Sena UBT MPs quietly reached Delhi from various destinations shortly after midnight on June 16, met Eknath Shinde and submitted a letter to the Lok Sabha Speaker. A second split in Uddhav Thackeray's Sena faction is almost inevitable."
+      "url": "https://www.indiatoday.in/india/story/shiv-sena-mp-rebel-eknath-shinde-gains-as-six-ubt-lok-sabha-mps-exit-reshaping-maharashtra-politics-mahayuti-2929414-2026-06-18",
+      "headline": "How Sena UBT rebellion cements Shinde's dominance in Maharashtra politicsThe rebellion in the Uddhav Sena significantly bolsters Eknath Shinde's clout within the NDA, strengthening his position in Maharashtra politics and enhancing his bargaining power in New Delhi."
     },
     {
       "sentiment": "positive",
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/neymar-brazil-vs-haiti-injury-fifa-world-cup-2026-2929361-2026-06-18",
-      "headline": "Neymar not travelling with Brazil for Haiti clash as injury rehab continuesFIFA World Cup: Brazil will be without Neymar for their second World Cup group match against Haiti as the forward continues his recovery from a calf injury, remaining in New Jersey to complete the final stage of rehabilitation."
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-czechia-vs-south-africa-live-score-updates-switzerland-vs-bosnia-and-herzegovina-2929390-2026-06-18",
+      "headline": "SWI vs BIH Live: A battle for first win of Group BSwitzerland (SWI) vs Bosnia and Herzegovina (BIH) Live, FIFA World Cup: Group B is finely poised, and neither Switzerland nor Bosnia and Herzegovina can afford another slip-up. With both sides still searching for their first win of the tournament, SoFi Stadium hosts a contest that could prove pivotal in shaping the race for the knockout rounds."
     },
     {
       "sentiment": "positive",
@@ -226,33 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-hangor-class-submarine-bay-of-bengal-plans-bangladesh-india-ties-indian-ocean-region-2928572-2026-06-18",
-      "headline": "Will Pak Navy prowl Bay of Bengal silently on a front India felt unchallenged?Even as Pakistan's China-built Hangor-class submarine arrived in Karachi, senior naval officers spoke of using it to maintain a presence in the Bay of Bengal. The ambition is significant because Pakistan has had little meaningful naval presence in the Bay of Bengal since its defeat in the 1971 war and the creation of Bangladesh."
+      "url": "https://www.indiatoday.in/world/story/us-iran-agreement-netanyahu-seeks-to-influence-trump-iran-peace-deal-and-lebanon-terms-2929448-2026-06-18",
+      "headline": "Can Netanyahu derail Trump's Iran deal? Inside Israel's push to influence USBenjamin Netanyahu is trying to shape the final terms of the US-Iran memorandum after its signing. The push centres on nuclear restrictions, Lebanon and widening differences with Donald Trump."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israels-interests-compromised-envoy-to-india-today-as-peace-deal-leaves-out-irans-ballistic-missiles-2929109-2026-06-18",
-      "headline": "Israel's interests compromised: Envoy on deal leaving out Iran ballistic missilesIsrael's envoy to India, Reuven Azar, in an exclusive interview with India Today, picked holes in the US's interim peace deal with Iran. Azar said Israel's security concerns had not been adequately addressed, especially concerning Lebanon and Iran's ballistic missiles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pm-narendra-modi-lands-in-paris-warm-welcome-from-indian-diaspora-meeting-with-macron-2928999-2026-06-18",
-      "headline": "Live: PM Modi focuses on India's innovation push, calls for deeper partnershipsIndia and France share a long-standing strategic partnership that spans key sectors such as defence, security, space cooperation, civil nuclear energy, climate action and emerging technologies. In recent years, the two countries have further deepened collaboration on Indo-Pacific affairs, innovation, and global governance, reflecting their growing convergence on regional and international issues."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/timothy-initiative-ed-probe-rs-92-crore-foreign-debit-cards-uapa-conversion-christianity-lwe-2928616-2026-06-18",
-      "headline": "Conversion, terror funding? Why India is probing US missionary Timothy InitiativeThe Timothy Initiative (TTI), a US-based evangelical organisation, has been charged with funnelling over Rs 92 crore into India through 1,000 foreign debit cards, bypassing FCRA rules. With funds traced to Maoist-affected regions, UAPA has been invoked. There are allegations that TTI was involved in religious conversions."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/chhattisgarh-koriya-sand-mining-violence-locals-killed-fortuner-car-set-on-fire-during-violent-clash-linked-to-rivalry-2928956-2026-06-18",
-      "headline": "BJP leader, 2 others burnt alive after SUV torched in Chhattisgarh sand mining rowA sand mining dispute in Chhattisgarh's Koriya district turned violent when a Fortuner SUV was allegedly set on fire in Naugai village on Tuesday night."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/pune/story/pune-spiritual-guru-radhamohan-mishra-sexual-exploitation-arrest-wagholi-ashram-2929208-2026-06-18",
-      "headline": "Self-styled godman tortures, rapes woman for years, forces her to drink his urinePune Police have arrested self-styled spiritual guru Radhamohan Mishra and seven associates after a woman alleged years of sexual exploitation and harassment. Investigators say seized devices, CCTV material and an underground tunnel under construction are now central to the probe."
+      "url": "https://www.indiatoday.in/india/story/nda-backed-candidate-parimal-nathwani-wins-jharkhand-rajya-sabha-polls-after-cross-voting-2929254-2026-06-18",
+      "headline": "NDA-backed candidate wins Jharkhand Rajya Sabha polls after cross-votingNDA-backed Independent Parimal Nathwani won a Rajya Sabha seat from Jharkhand amid cross-voting, while JMM's Baidyanath Ram took the second berth. Nathwani's victory came despite the NDA being short of the required numbers in the Assembly."
     },
     {
       "sentiment": "positive",
@@ -261,28 +241,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-man-spots-40-people-waiting-for-uber-while-ola-cabs-sit-idle-shares-reason-2928920-2026-06-18",
-      "headline": "Bengaluru man spots 40 people waiting for Uber while Ola cabs sit idle, shares reasonA LinkedIn post on passengers waiting for Uber over readily available Ola cabs at Bengaluru airport sparked debate online. The discussion centred on whether familiarity and trust matter more to consumers than price or convenience."
+      "url": "https://www.indiatoday.in/world/story/emmanuel-macron-hindi-farewell-pm-modi-france-india-2929436-2026-06-18",
+      "headline": "Priy mitra Narendra: Macron surprises with Hindi farewell to PM ModiFrench President Emmanuel Macron surprised Prime Minister Narendra Modi with a farewell message in Hindi, calling him a \"dear friend\" and celebrating the enduring India-France partnership, while praising the success of his France visit."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bihar-begusarai-gang-rape-case-probe-after-doctors-recover-objects-from-survivor-bihar-2929095-2026-06-18",
-      "headline": "Woman gang-raped in Bihar; violated with cartridge, stones and woodA woman in Begusarai has alleged that five men gang-raped and assaulted her, and doctors later recovered objects from her body during treatment. The case has triggered a high-level police investigation, with forensic reports still awaited."
+      "url": "https://www.indiatoday.in/cities/pune/story/pune-spiritual-guru-radhamohan-mishra-sexual-exploitation-arrest-wagholi-ashram-2929208-2026-06-18",
+      "headline": "Self-styled godman tortures, rapes woman for years, forces her to drink his urinePune Police have arrested self-styled spiritual guru Radhamohan Mishra and seven associates after a woman alleged years of sexual exploitation and harassment. Investigators say seized devices, CCTV material and an underground tunnel under construction are now central to the probe."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pixxel-satellite-factory-land-bengaluru-karnataka-andhra-pradesh-anantapur-2929144-2026-06-18",
-      "headline": "Trying to get land for factory: Founder's post prompts 3 states to swing into actionA social media post by Pixxel co-founder Kshitij Khandelwal lamenting the difficulty of acquiring land for a satellite unit near Bengaluru triggered a competing response from Karnataka, Andhra Pradesh and Tamil Nadu."
+      "url": "https://www.indiatoday.in/science/story/india-weather-tomorrow-imd-western-disturbance-rain-northeast-monsoon-heatwave-delhi-2929305-2026-06-18",
+      "headline": "Western Disturbance to drench North India as heat grips the centre FridayThe IMD says a western disturbance will bring rain and thunderstorms to north India on Friday, June 19, while central India swelters under heatwave conditions. The northeast braces for heavy to very heavy rain as the monsoon advances."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/women-reservation-and-delimitation-bill-congress-mp-shashi-tharoor-chandrababu-naidu-not-supporting-legislation-2928764-2026-06-18",
-      "headline": "Shashi Tharoor's driver salary analogy to counter Andhra CM's delimitation pitchThe Congress MP hit back at N Chandrababu Naidu over his criticism of the opposition after the Constitution amendment bill was defeated in Parliament. He said southern chief ministers were worried about losing political weight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/zerodha-ceo-nithin-kamath-loses-rs-25-lakh-on-fitness-bet-with-employee-shares-pic-2929142-2026-06-18",
-      "headline": "Zerodha CEO Nithin Kamath loses Rs 2.5 lakh on fitness bet with employee, shares picZerodha CEO Nithin Kamath said he lost a Rs 2.5 lakh fitness bet after an employee lost nearly 30 kilograms. The exchange drew attention for linking workplace accountability with personal health, while also highlighting body image struggles."
+      "url": "https://www.indiatoday.in/world/story/israels-interests-compromised-envoy-to-india-today-as-peace-deal-leaves-out-irans-ballistic-missiles-2929109-2026-06-18",
+      "headline": "Israel's interests compromised: Envoy on deal leaving out Iran ballistic missilesIsrael's envoy to India, Reuven Azar, in an exclusive interview with India Today, picked holes in the US's interim peace deal with Iran. Azar said Israel's security concerns had not been adequately addressed, especially concerning Lebanon and Iran's ballistic missiles."
     },
     {
       "sentiment": "positive",
@@ -290,37 +265,67 @@
       "headline": "Refinery up in flames as 200 drones swarm Moscow in biggest strike by UkraineUkrainian drones unleashed chaos in Moscow, with at least seven striking a key oil refinery just 15 km from the Kremlin, triggering massive fires and plumes of black smoke. The attack involved nearly 200 drones and was the largest on Moscow in two years."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/qs-world-university-rankings-2027-iit-delhi-tops-india-at-118th-globally-2928838-2026-06-18",
-      "headline": "Only 3 Indian institutes make the top 200 in QS World University Rankings 2027The QS World University Rankings 2027 place IIT Delhi as India's top-ranked university at 118th globally, up five places from last year. Only three Indian institutions, IIT Delhi, IIT Bombay, and IIT Madras, secured spots among the world's top 200 universities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/gaganyaan-mission-food-container-ananth-technologies-builds-sensor-fitted-steel-tiffin-2928958-2026-06-18",
-      "headline": "Indian company is reinventing a tiffin box for astronauts to carry lunch in spaceWhen India's astronauts fly on Gaganyaan, their meals may travel in a smart steel tiffin box fitted with sensors, built by a private Indian firm, Ananth Technologies, with the DRDO food laboratory in Mysuru. Here is how India plans to feed its first crew in space."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/standpoint/story/revisiting-cocktail-2026-film-that-punished-deepika-padukone-veronica-for-being-herself-2928806-2026-06-18",
-      "headline": "Revisiting Cocktail in 2026, film that punished Deepika's Veronica for being herselfHomi Adjania's Cocktail, while celebrated for its music and performances, subtly declared Veronica the imperfect woman in the love story. As Cocktail 2 arrives, here's revisiting the 2012 film starring Deepika Padukone, Diana Penty and Saif Ali Khan."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/us-news/story/us-news-indian-man-jaswinder-singh-aka-balwinder-singh-immigration-fraud-uscis-lawsuit-us-citizenship-2928829-2026-06-18",
       "headline": "India-born Balwinder became Jaswinder for US citizenship. This happened nextAn India-born man, Balwinder Singh, who changed his name to Jaswinder Singh to obtain immigration benefits and eventually US citizenship, is facing a civil lawsuit. The federal complaint seeks to revoke Singh's naturalisation, claiming he obtained US citizenship through deception and misrepresentation."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ram-mandir-donation-case-sit-finds-cctv-tampering-clues-security-staff-under-scanner-2928795-2026-06-18",
-      "headline": "Ram Temple donation case: SIT finds CCTV tampering clues, security staff under probeThe SIT has found clues of possible CCTV tampering in the Ram Mandir donation theft probe. According to documents examined by the SIT, nearly Rs 10 crore was spent on security arrangements at the temple complex over the past 11 months."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/timothy-initiative-ed-probe-rs-92-crore-foreign-debit-cards-uapa-conversion-christianity-lwe-2928616-2026-06-18",
+      "headline": "Conversion, terror funding? Why India is probing US missionary Timothy InitiativeThe Timothy Initiative (TTI), a US-based evangelical organisation, has been charged with funnelling over Rs 92 crore into India through 1,000 foreign debit cards, bypassing FCRA rules. With funds traced to Maoist-affected regions, UAPA has been invoked. There are allegations that TTI was involved in religious conversions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-us-trump-peace-deal-did-netanyahu-emerge-biggest-loser-2928852-2026-06-18",
-      "headline": "Netanyahu stares at his darkest hour as Trump makes peace with IranDonald Trump and Iran's President signed an initial deal to end the war. However, the agreement has left Benjamin Netanyahu politically exposed as the deal failed to meet a single objective for which Israel pursued the Iran war."
+      "url": "https://www.indiatoday.in/world/story/us-iran-deal-live-updates-donald-trump-mojtaba-ceasefire-israel-tehran-strait-of-hormuz-lebanon-2928705-2026-06-18",
+      "headline": "Live: Trump calls for complete ceasefire involving Lebanon, Hezbollah, and IsraelUS-Israel-Iran Live Updates: The proposed US-Iran agreement took effect after Washington and Tehran signed the Islamabad Memorandum of Understanding, with both sides announcing that Iran would immediately reopen the Strait of Hormuz and the United States would lift its naval blockade. A formal signing ceremony remains scheduled in Switzerland on Friday, where technical-level talks are expected to begin. The development came as Iran hailed the deal as a victory for key wartime objectives, including safeguarding its interests in the Strait of Hormuz and preserving Hezbollah, while US-based analysts warned that Washington and Tehran may be interpreting parts of the agreement differently. The accord provides for a 60-day negotiation period, limited sanctions relief and steps related to Iran's nuclear programme, even as the US continues to press Iraq to curb Iran-backed militias. Meanwhile, Saudi Arabia signalled caution over any broader regional economic rapprochement with Tehran, saying trust damaged by past Iranian actions must be rebuilt before discussions on investment or cooperation can move forward. Follow indiatoday.in for the latest updates on the US-Iran deal."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dhanush-d55-with-rajkumar-periasamy-titled-om-teaser-hints-at-social-unrest-2929313-2026-06-18",
+      "headline": "Dhanush's D55 with Rajkumar Periasamy titled Om, teaser hints at social unrestActor Dhanush and director Rajkumar Periasamy's film has been titled Om. The makers announced the title along with a gritty first-look teaser on Thursday."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-gorakhpur-axe-murder-son-golu-kanaujia-held-for-killing-father-brahmdev-2929389-2026-06-18",
+      "headline": "I killed him: Man shouts from rooftop after murdering father over marriage demandAfter the murder, the accused son climbed onto the roof of the house and shouted that he had killed his father, following which villagers rushed to the spot."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/new-shipping-crisis-el-nino-puts-panama-canal-under-threat-as-hormuz-tensions-ease-2928893-2026-06-18",
+      "headline": "El Nino puts Panama Canal under threat as Hormuz tensions easeNoaa has warned that a strengthening El Nino could again hit Panama Canal operations. The alert adds climate risk to global shipping even as Hormuz tensions show signs of easing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-re-test-iaf-helicopter-delivers-question-papers-to-chhindwara-2929086-2026-06-18",
+      "headline": "Watch: IAF helicopter delivers NEET re-test papers to Madhya PradeshAhead of the June 21 NEET UG 2026 re-test, the Indian Air Force has joined the examination security operation by airlifting question papers across the country. A helicopter delivered papers to Chhindwara, Madhya Pradesh, as authorities tightened transport, storage and distribution protocols following the paper leak controversy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/cocktail-2-box-office-prediction-pre-sales-lower-than-tere-ishk-mein-thamma-2929281-2026-06-18",
+      "headline": "Cocktail 2 box office prediction: Pre-sales lower than Tere Ishk Mein, ThammaShahid Kapoor's Cocktail 2 has earned over Rs 3 crore ahead of its June 19 release. Box office trade estimates suggest a moderate start, with advance bookings trailing Kriti Sanon and Rashmika Mandanna's Tere Ishk Mein and Thamma respectively."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-gurudwara-shooting-elderly-sikh-couple-killed-bjp-islamabad-2928833-2026-06-18",
+      "headline": "Cold-blooded: Sikh elderly couple shot dead in Pak gurudwara, assailants on the runAn elderly Sikh couple was gunned down in a gurudwara in Pakistan's Khyber Pakhtunkhwa. Reacting to it, the Akal Takht and the BJP condemned the killing. The BJP said that the killing is a \"grim reminder of the insecurity, fear, and persecution faced by religious minorities in Pakistan\"."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/study-abroad/story/uk-student-visa-changes-2026-what-they-mean-for-indian-students-now-2928843-2026-06-18",
+      "headline": "UK's latest visa changes have Indian students taking a closer look at the UK dreamThe UK government's tougher student visa measures have raised fresh questions among Indian students planning to study abroad. While the crackdown targets universities rather than applicants, experts say it is accelerating a shift towards smarter decision-making, with students focusing on employability, career outcomes and value for money."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/monsoon-has-hit-a-wall-what-is-required-to-break-it-for-rain-to-move-across-india-2928539-2026-06-18",
+      "headline": "Monsoon has hit a wall: Here's what needs to change for rain to returnIndia's monsoon advance has stalled for nearly two weeks after an early onset. Forecasts suggest weakening dry air and stronger winds could restart its spread in the coming days."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-czechia-vs-south-africa-live-score-updates-switzerland-vs-bosnia-and-herzegovina-2929390-2026-06-18",
+      "headline": "(CZE 1-1 RSA) Live score, World Cup: Bafana Bafana battle to keep hopes alive Czechia vs South Africa Live score and updates, FIFA World Cup: Czechia and South Africa meet in a crucial Group A clash in Atlanta after opening-round defeats. With both teams still searching for their first points, qualification hopes are already on the line."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/neymar-brazil-vs-haiti-injury-fifa-world-cup-2026-2929361-2026-06-18",
@@ -364,12 +369,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-tilak-varma-captaincy-dambulla-tri-series-sri-lanka-2928965-2026-06-18",
-      "headline": "Raaj Tilak: India A captain rights his wrong in Sri Lanka There is a new leader in the making in India's cricketing ecosystem. Tilak Varma, a product of Mumbai Indians, has shown immense maturity and the rare ability to right the wrongs in a space of a few hours. Could he become India's long-time captain in the future?"
+      "headline": "Raaj Tilak: India A captain rights his wrong in Sri LankaThere is a new leader in the making in India's cricketing ecosystem. Tilak Varma, a product of Mumbai Indians, has shown immense maturity and the rare ability to right the wrongs in a space of a few hours. Could he become India's long-time captain in the future?"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-cristiano-ronaldo-portugal-draw-bruno-fernandes-dr-congo-opener-2928942-2026-06-18",
-      "headline": "Hiding behind Cristiano Ronaldo? Bruno Fernandes' DR Congo no-show raises questions Portugal's 1-1 draw with DR Congo reopened the debate over Cristiano Ronaldo after another scoreless night. But the backlash also exposed wider attacking failures, with Bruno Fernandes and Portugal's creators unable to supply the final pass."
+      "headline": "Hiding behind Cristiano Ronaldo? Bruno Fernandes' DR Congo no-show raises questionsPortugal's 1-1 draw with DR Congo reopened the debate over Cristiano Ronaldo after another scoreless night. But the backlash also exposed wider attacking failures, with Bruno Fernandes and Portugal's creators unable to supply the final pass."
     },
     {
       "sentiment": "positive",
@@ -460,16 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/england-vs-croatia-live-score-fifa-world-cup-kane-modric-ghana-vs-panama-uzbekistan-vs-colombia-2928706-2026-06-18",
       "headline": "UZB 1 - 3 COL Highlights: Luis Diaz inspires Colombia to overcome wasteful Uzbekistan in Group KUzbekistan (UZB) vs Colombia (COL) Highlights, FIFA World Cup 2026: Luis Diaz inspired Colombia to a commanding win over Uzbekistan, as they put three past the debutants from Asia. After assisting Daniel Munoz for the first goal, Diaz scored the second to put Colombia back in front. Jaminton Campaz scored the third in the last second of the injury time to seal the deal in New Mexico City."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-cristiano-ronaldo-portugal-vs-dr-congo-draw-match-report-2928704-2026-06-18",
-      "headline": "Age catches up? Cristiano Ronaldo blanks as Portugal held 1-1 by DR CongoFIFA World Cup 2026: Cristiano Ronaldo's record-breaking World Cup dream remains on hold after a frustrating night in Houston. Portugal may have escaped with a point against DR Congo, but questions over their creativity and dependence on a 41-year-old icon are only growing louder."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-afg-shubman-gill-154-vs-odi-series-lucknow-weather-cramps-2928683-2026-06-17",
-      "headline": "How Shubman Gill battled cramps, Lucknow heat for heroic Afghanistan centuryIND vs AFG, 2nd ODI: Shubman Gill overcame cramps and the intense Lucknow heat to smash a brilliant 154 off 110 balls, leading India to a 170-run win over Afghanistan and an unassailable 2-0 series lead."
     }
   ],
   "education": [
