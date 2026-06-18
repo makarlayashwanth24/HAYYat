@@ -2,6 +2,41 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/us-federal-reserve-rates-donald-trump-whatever-kevin-warsh-hawkish-stance-no-rate-cut-2928809-2026-06-18",
+      "headline": "Why Trump said 'whatever' after new US Fed chief did not cut ratesUS President Donald Trump got a new Federal Reserve chief, but not the lower-rate signal he had been hoping for. What changed was his reaction."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/nifty-it-index-falls-as-hawkish-us-fed-hits-infosys-tcs-tech-mahindra-2928800-2026-06-18",
+      "headline": "Infosys, TCS, HCLTech down: Why are IT stocks falling after the recent rally?IT stocks fell at the opening bell. Among the biggest losers were Infosys, which fell 2.31%, Tech Mahindra was down 1.42%, HCLTech slid 1.17%, TCS lost 1.20%, while Persistent Systems and Wipro also lost 1.68% and 0.68% respectively in early trade."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-today-nifty-today-open-flat-it-stocks-fall-fed-rate-hike-concerns-2928793-2026-06-18",
+      "headline": "Markets open flat after 4-day rally; IT stocks fall on US rate hike concernsThe S&P BSE Sensex was down 47.00 points, or 0.06%, at 77,108.62 in early trade, while the NSE Nifty50 managed to stay above the key 24,000 mark, rising 2.05 points to 24,087.75 as of 9:35 am."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/china-oil-imports-iran-conflict-global-oil-shock-2928782-2026-06-18",
+      "headline": "Did China quietly save the world from an oil shock?As US-Iran tensions stirred oil fears, China cut imports and leaned on reserves and alternative energy. The move may have eased pressure on global supplies and limited a wider price surge."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/nse-ipo-papers-filed-india-biggest-exchange-listing-long-wait-decade-market-debut-2928766-2026-06-18",
+      "headline": "NSE's long wait ends: Exchange files IPO papers, joins Jio in mega listing raceThe National Stock Exchange (NSE) has filed draft IPO papers after a delay stretching back to 2016. The move brings one of India's biggest listings closer as the primary market regains momentum."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/uk-cars-import-duty-cut-india-allow-378-lakh-imports-lower-tariffs-bilateral-trade-pact-business-news-2928745-2026-06-18",
+      "headline": "India to allow 3.78 lakh UK car imports at lower duties under bilateral trade pactIndia will allow imports of 3.78 lakh conventional-engine passenger cars from the UK at concessional customs duty. The provision will apply for the first 15 years after the trade pact comes into force."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/reliance-jio-telegram-bgp-hijack-row-jio-rejects-pavel-durov-allegation-2928728-2026-06-18",
+      "headline": "Reliance Jio denies Telegram founder's cyberattack allegationsReliance Jio has dismissed Telegram founder Pavel Durov's claim that it disrupted the messaging app's access outside India through Border Gateway Protocol (BGP) hijacking. The row comes as Telegram faces a temporary block in India over alleged links to the NEET paper leak case."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-eu-fta-to-be-signed-by-end-of-2026-says-von-der-leyen-after-talks-with-pm-modi-on-g7-sidelines-2928618-2026-06-17",
       "headline": "India-EU trade deal to be signed by end-2026, says Von der LeyenIn a bilateral meeting between Indian and EU delegations on the sidelines of the ongoing G7 Summit in France, the two sides also resolved to step up security and defence cooperation."
     },
@@ -64,44 +99,59 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/pizza-hut-sale-yum-brands-2-7-billion-yum-china-longrange-capital-low-profit-competition-2928198-2026-06-17",
       "headline": "Pizza Hut sold for $2.7 billion: Pizza chain many grew up with gets a new ownerYum Brands has agreed to sell Pizza Hut for $2.7 billion, splitting China from the rest of the business. The deal gives Yum China greater control in a key market and offers LongRange Capital a chance to revive the global chain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/gold-rallies-oil-prices-retreat-on-optimism-over-us-iran-peace-deal-2928023-2026-06-16",
-      "headline": "Gold rallies, oil prices retreat on optimism over US-Iran peace dealGold rose on Tuesday after an interim US-Iran deal eased pressure on oil prices. Lower inflation fears also reduced expectations of a Federal Reserve rate hike later this year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/second-residency-abroad-india-wealthy-ultra-rich-plan-b-second-home-abroad-tax-benefit-geopolitical-tension-2927898-2026-06-16",
-      "headline": "Why India's wealthy are quietly buying second residencies abroadThey are not leaving India. But they want the option to, just in case. From Dubai to Portugal to Greece, promoters and business families are spending crores on second residencies abroad. It is not about emigration. It is about insurance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-govt-employee-salary-da-pension-hike-demands-union-after-proposal-deadline-2927731-2026-06-16",
-      "headline": "8th Pay Commission: Memorandum deadline ends. What have unions asked forThe deadline for 8th Pay Commission proposals has ended, bringing employee and pensioner demands before the panel. The next phase will test which calls on salary, DA, fitment and pensions shape the final recommendations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-544-points-higher-nifty-close-to-24000-hul-it-stocks-up-crude-oil-falls-2927743-2026-06-16",
-      "headline": "Sensex ends 544 points higher, Nifty nears 24,000; HUL up 2%The S&P BSE Sensex climbed 544.15 points, or 0.71%, to settle at 76,808.48, while the NSE Nifty50 gained 135.25 points, or 0.57%, to close at 23,989.15, just shy of the crucial 24,000 mark."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/rbi-dark-patterns-rules-11-bank-app-website-tricks-banned-january-2027-2927666-2026-06-16",
-      "headline": "11 digital tricks your bank can no longer play on youThe RBI has named and banned 11 specific digital manipulation tactics that banks use on their apps and websites to push products you never asked for. Here is what each one means and how it was being used against you."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/us-iran-peace-deal-strait-of-hormuz-reopening-india-petrol-diesel-prices-will-not-fall-2927613-2026-06-16",
-      "headline": "US-Iran deal eases oil, but India's petrol relief may take longerThe US-Iran deal has reopened the Strait of Hormuz and cooled crude prices. But India may not see immediate fuel relief as supply chains and inventories recover."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/elon-musk-quadrillionaire-claim-moon-mars-factories-dollar-future-2927525-2026-06-16",
-      "headline": "World's 1st trillionaire says a quadrillion-dollar fortune 'not impossible'Elon Musk said becoming the world's first quadrillionaire is \"not impossible\" and linked it to factories on the Moon and Mars. He also said dollars may no longer matter in a future shaped by AI, robots and interplanetary industry."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/suriya-karrupuswamy-deity-transformationkaruppu-climax-scene-jiohotstar-debut-2928364-2026-06-18",
+      "headline": "Why aren't we talking enough about Suriya's deity transformation in Karuppu climax? Suriya's climactic transformation into Karuppaswamy in Karuppu delivered goosebumps, sent fans into a frenzy and proved to be far more than just another mass moment. As the film arrives on JioHotstar, it's worth revisiting the electrifying God-mode sequence that showcased the actor at his most intense, commanding and unforgettable."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/dhurandhars-script-was-given-by-pmo-rakesh-bedi-reacts-to-viral-theory-2928818-2026-06-18",
+      "headline": "Dhurandhar's script was given by PMO? Rakesh Bedi reacts to viral theory Was Dhurandhar's script really written in the PMO? Rakesh Bedi has finally reacted to the viral theory surrounding the blockbuster franchise. The actor also made an interesting revelation about the film's comic moments and his discussions with director Aditya Dhar."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-admits-bouncing-off-ideas-with-raj-nidimoru-99-per-cent-i-listen-to-him-2928781-2026-06-18",
+      "headline": "Samantha admits bouncing off ideas with Raj Nidimoru: 99 per cent, I listen to him Actor-producer Samantha said she discusses nearly every decision with husband-storyteller Raj Nidimoru and sought his input throughout Maa Inti Bangaram. She said his influence runs from the script to post-production, underlining his central role at home and work."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-has-a-fix-for-travis-kelces-picky-eating-in-funny-podcast-cameo-2928761-2026-06-18",
+      "headline": "Taylor Swift has a fix for Travis Kelce's picky eating in funny podcast cameo Singer Taylor Swift surprised fans at live New Heights taping with a playful cameo involving Travis Kelce. Find out why the crowd couldn't stop laughing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ravi-kishans-yoga-video-becomes-meme-gold-internet-invents-gutkhasan-2928762-2026-06-18",
+      "headline": "Ravi Kishan's yoga video becomes meme gold, internet invents 'Gutkhasan' Ravi Kishan's yoga session at Gorakhpur grabbed attention for an unexpected reason after social media users claimed he was chewing something while performing asanas. The viral video sparked a flood of jokes and witty reactions across social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/yami-gautam-aditya-dhar-visit-mahakaleshwar-temple-with-son-vedavid-in-ujjain-2928749-2026-06-18",
+      "headline": "Yami Gautam, Aditya Dhar visit Ujjain's Mahakaleshwar temple with son and family Actor Yami Gautam and director Aditya Dhar visited Ujjain's Mahakaleshwar temple with their son, Vedavid, and relatives. Yami said the family felt blessed after darshan and praised the shrine's arrangements for devotees."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/khushbus-daughter-laughs-off-ozempic-claims-over-weight-loss-hate-will-not-stop-2928740-2026-06-18",
+      "headline": "Khushbu's daughter laughs off Ozempic claims over weight loss: Hate will not stop Khushbu Sundar's daughter Anandita has responded to fresh speculation about her dramatic weight loss, explaining why she believes criticism of her appearance has never really stopped."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/karuppu-peddi-box-office-suriya-ram-charan-films-revive-south-cinema-theatres-2928452-2026-06-18",
+      "headline": "Peddi and Karuppu's Rs 600 crore run: How Ram Charan, Suriya saved South box office Suriya's Karuppu and Ram Charan's Peddi have crossed Rs 600 crore together at the box office. Their sustained theatrical run has offered distributors and exhibitors relief after months of weak footfall."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/blake-lively-seeks-extension-in-justin-baldoni-legal-fees-dispute-2928717-2026-06-18",
+      "headline": "Blake Lively seeks more time in legal fees dispute with Justin Baldoni Blake Lively has requested more time in her ongoing legal fees dispute with Justin Baldoni. As the court weighs her latest filing, questions remain over what comes next in the long-running It Ends With Us legal saga."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/duffer-brothers-the-boroughs-cancelled-months-after-its-release-2928715-2026-06-18",
+      "headline": "Duffer Brothers' The Boroughs cancelled months after its release Netflix has cancelled The Boroughs after its first season, despite early plans for a longer run. The decision ends a planned three-season arc even after the sci-fi drama drew strong initial viewership."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/grammys-best-asian-pop-category-debate-recognition-belonging-2928700-2026-06-18",
@@ -146,68 +196,83 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-meets-cm-vijay-says-he-was-meant-for-something-bigger-in-a-glowing-note-2928565-2026-06-17",
       "headline": "Samantha meets CM Vijay, says he was meant for something bigger in a glowing note Samantha met Tamil Nadu Chief Minister Vijay in Chennai and congratulated him on his election victory. In an Instagram note, she praised his move into public life and said his journey could inspire young people."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/pawan-kalyan-meets-fan-batting-rare-genetic-disorder-extends-treatment-support-2928461-2026-06-17",
-      "headline": "Pawan Kalyan meets fan batting rare genetic disorder, extends treatment support Pawan Kalyan met 17-year-old Niranjan at his Hanumakonda home after learning of his wish. He offered aid, prayers and support while saying the teenager inspired him."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/meet-the-full-cast-of-aamir-khans-batwara-1947-led-by-sunny-deol-preity-zinta-2928438-2026-06-17",
-      "headline": "Meet the full cast of Aamir Khan's Batwara 1947, led by Sunny Deol-Preity Zinta The character posters of Batwara 1947 featuring the principal cast have been unveiled. The reveal underlines the film's focus on courage and survival, set in the backdrop of the India-Pakistan partition."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/indias-got-latent-netflix-samay-raina-exclusive-special-episode-2928490-2026-06-17",
-      "headline": "India's Got Latent heads to Netflix, Samay Raina to shoot exclusive special episode Samay Raina's India's Got Latent is set to return next month on Netflix and YouTube. The move expands the show's reach and includes a separate Netflix-only special instalment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/balan-the-boy-june-19-release-cannes-buzz-ram-gopal-varma-chidambaram-2928099-2026-06-17",
-      "headline": "Why Chidambaram's Balan: The Boy could be Malayalam cinema's surprise package Cannes acclaim, Ram Gopal Varma's bold prediction and the creative pairing of Manjummel Boys director Chidambaram and Jithu Madhavan have turned Balan: The Boy into one of Malayalam cinema's most intriguing underdogs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/house-of-the-dragon-season-3-release-date-cast-jiohotstar-reviews-2928447-2026-06-17",
-      "headline": "House of the Dragon Season 3: Alliances, betrayals, wars and all you need to know House of the Dragon Season 3 streams in India on JioHotstar from June 22 as the Targaryen civil war erupts. Early reviews say it delivers the scale, betrayals and emotional pay-off fans were waiting for."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/tv-news-sanchita-ugale-death-smita-bansal-sarwam-kulkarni-mental-health-support-2928417-2026-06-17",
-      "headline": "Sanchita Ugale death: Smita Bansal, Sarwam Kulkarni call for mental health support Television actor Sanchita Ugale's death has prompted emotional reactions from the industry. Actors Smita Bansal and Sarwam Kulkarni have spoken about the importance of mental health while urging people not to speculate as the investigation continues."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/alpha-trailer-review-alia-bhatt-spy-film-story-revealed-sita-lanka-ablaze-2928412-2026-06-17",
-      "headline": "Alpha trailer review: Sita sets Lanka ablaze, makers spill full plot. What's left? The Alpha trailer lays out Alia Bhatt's assassin-origin story and a Hrithik Roshan crossover. It gives the YRF Spy Universe film a clearer identity, even as it leaves little mystery intact."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/alpha-trailer-x-reviews-hrithik-roshans-cameo-hypes-alia-sharvari-spy-film-2928385-2026-06-17",
-      "headline": "Alpha trailer X reviews: Hrithik Roshan's cameo hypes Alia-Sharvari spy film Hrithik Roshan's brief appearance in the Alpha trailer has sparked intense reactions on social media. The cameo has fuelled curiosity around the film even as reactions to the trailer remain divided."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/meet-the-ott-stars-who-quit-promising-careers-to-follow-their-acting-passion-2928381-2026-06-17",
-      "headline": "Meet the OTT stars who quit promising careers to follow their acting passion Several popular OTT stars gave up stable careers, prestigious degrees and high-paying jobs to pursue acting. Read on to find out who left behind secure professions to become some of the biggest names on streaming platforms."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/why-main-vaapas-aaunga-earned-more-on-tuesday-than-friday-at-box-office-2928335-2026-06-17",
-      "headline": "Why Main Vaapas Aaunga earned more on Tuesday than Friday at box office Main Vaapas Aaunga recorded a weekday box office jump, collecting Rs 1.90 crore on Tuesday. The rise has been linked to word of mouth, social media chatter and Imtiaz Ali's loyal audience."
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/trump-and-iranian-president-pezeshkian-signed-the-us-iran-mou-on-wednesday-a-us-official-said-2928712-2026-06-18",
-      "headline": "Trump and Pezeshkian digitally sign US-Iran MoU to end conflict, reopen HormuzUS President Donald Trump and Iranian President Masoud Pezeshkian digitally signed a memorandum of understanding to end the conflict and reopen the Strait of Hormuz. The deal includes sanctions relief, resumed Iranian oil exports, talks on implementation, and a 60-day framework for negotiating a broader agreement."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/maharashtra-politics-live-updates-ubt-mps-rebellion-crisis-shiv-sena-uddhav-thackeray-sanjay-raut-eknath-shinde-om-birla-2928721-2026-06-18",
+      "headline": "Live: 3 MPs marked present at Sena UBT meet; 6 still awaited amid poaching claimsShiv Sena UBT Crisis Live Updates: Amid speculation of a split in Shiv Sena (UBT), the party led by Uddhav Thackeray will hold a crucial meeting today to demonstrate unity after reports claimed six of its nine Lok Sabha MPs may defect to the faction led by Eknath Shinde. The party has issued a whip and promised action against MPs who don't attend. Rajya Sabha MP Sanjay Raut said the meeting would reveal who stands with the party. Senior leader Arvind Sawant dismissed defection reports and challenged claims, demanding proof of meetings with Lok Sabha Speaker Om Birla. However, sources alleged rebel MPs informally met Birla and may seek recognition and merger with Shinde's Sena. Meanwhile, a local UBT leader threatened MP Sanjay Deshmukh over alleged defection plans. Sources also claimed \"Operation Tiger\" succeeded, though induction of MPs has been delayed. Follow IndiaToday.in for the latest updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/indian-seafarers-safety-pm-modi-raises-welfare-concerns-with-donald-trump-2928588-2026-06-17",
-      "headline": "Safety of lakhs of Indian seafarers of high importance to us, says PM Modi to TrumpDays after three Indian sailors were killed in a US strike in the Gulf, PM Modi urged Donald Trump to ensure freedom of navigation and the safety of seafarers."
+      "url": "https://www.indiatoday.in/india/law-news/story/high-court-refuses-to-pause-bengal-speakers-decision-to-recognise-rebel-tmc-mla-ritabrata-banerjee-as-lop-2928830-2026-06-18",
+      "headline": "Court setback for Mamata Banerjee, Ritabrata Banerjee to stay on as LoP for nowFor now, Ritabrata Banerjee will continue as the Leader of the Opposition, and Speaker Rathin Basu's decision remains in force. The court did not interfere with the Speaker's decision."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-and-iranian-president-pezeshkian-signed-the-us-iran-mou-on-wednesday-a-us-official-said-2928712-2026-06-18",
+      "headline": "Trump, Pezeshkian digitally sign US-Iran MoU to end conflict, reopen Hormuz  Live UpdatesUS President Donald Trump and Iranian President Masoud Pezeshkian digitally signed a memorandum of understanding to end the conflict and reopen the Strait of Hormuz. The deal includes sanctions relief, resumed Iranian oil exports, talks on implementation, and a 60-day framework for negotiating a broader agreement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/women-reservation-and-delimitation-bill-congress-mp-shashi-tharoor-chandrababu-naidu-not-supporting-legislation-2928764-2026-06-18",
+      "headline": "Shashi Tharoor's driver salary analogy to counter Andhra CM's delimitation pitchThe Congress MP hit back at N Chandrababu Naidu over his criticism of the opposition after the Constitution amendment bill was defeated in Parliament. He said southern chief ministers were worried about losing political weight."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-thierry-henry-fifa-world-cup-portugal-vs-dr-congo-draw-selfishness-2928724-2026-06-18",
+      "headline": "Cristiano Ronaldo's selfishness hurt Portugal: Henry's verdict on DR Congo drawFIFA World Cup 2026: Thierry Henry criticised Cristiano Ronaldo after Portugal's 1-1 draw with DR Congo in Houston. His remarks sharpened the debate over Ronaldo's individual pursuit and Portugal's team balance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-hangor-class-submarine-bay-of-bengal-plans-bangladesh-india-ties-indian-ocean-region-2928572-2026-06-18",
+      "headline": "Pak plans to deploy submarines in Bay of Bengal, a first since 1971 bloody noseEven as Pakistan's China-built Hangor-class submarine arrived in Karachi, senior naval officers spoke of using it to maintain a presence in the Bay of Bengal. The ambition is significant because Pakistan has had little meaningful naval presence in the Bay of Bengal since its defeat in the 1971 war and the creation of Bangladesh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-14-point-iran-peace-accord-treaty-of-versailles-wilson-end-of-world-war-2928767-2026-06-18",
+      "headline": "A Versailles deal in 2026 and US's total surrenderMore than a century after US President Woodrow Wilson helped shape the Treaty of Versailles, Donald Trump signed a 14-point accord with Iran at the same palace. While Wilson projected American dominance, critics argue the new deal marks a reversal, with Washington making greater concessions than Tehran."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/monsoon-has-hit-a-wall-what-is-required-to-break-it-for-rain-to-move-across-india-2928539-2026-06-18",
+      "headline": "Monsoon has hit a wall: Here's what needs to change for rain to returnIndia's monsoon advance has stalled for nearly two weeks after an early onset. Forecasts suggest weakening dry air and stronger winds could restart its spread in the coming days."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/china-oil-imports-iran-conflict-global-oil-shock-2928782-2026-06-18",
+      "headline": "Did China quietly save the world from an oil shock?As US-Iran tensions stirred oil fears, China cut imports and leaned on reserves and alternative energy. The move may have eased pressure on global supplies and limited a wider price surge."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/odisha-textbook-errors-1678-mistakes-found-cm-mohan-charan-majh-orders-high-level-probe-2928778-2026-06-18",
+      "headline": "Newton is the greatest pilot: Over 1,600 errors found in Odisha school textbooksThe Odisha government has ordered a high-level probe after 1,678 errors were found in new school textbooks for Classes 1 to 8. The lapses ranged from factual inaccuracies and wrong illustrations to scientific mistakes, with Class 8 textbooks accounting for 705 of the identified errors."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-lionel-messi-world-cup-hat-trick-cristiano-ronaldo-blanks-2928741-2026-06-18",
+      "headline": "Messi 3-0 Ronaldo after World Cup Round 1: Did we not see it coming?FIFA World Cup 2026: Lionel Messi arrived at the World Cup carrying a legacy and somehow made it bigger. Cristiano Ronaldo arrived chasing history, but after Round 1, the tournament feels less like a race between rivals and more like a tale of two timelines."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-assembly-tamil-thaai-vaazhthu-first-national-anthem-last-after-vijay-oath-row-2928823-2026-06-18",
+      "headline": "Tamil anthem sung 1st in Assembly, reversing order that sparked Vijay oath rowAt Thursday's Assembly session, the Tamil anthem was rendered first before proceedings commenced, while the National Anthem was played later in accordance with the convention followed in the state for decades."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/gurugram-ceo-conversation-with-cab-driver-earning-rs-1-lakh-monthly-goes-viral-2928327-2026-06-17",
+      "headline": "Gurugram CEO's conversation with cab driver earning Rs 1 lakh monthly goes viralDuring the conversation, the driver said he was earning around Rs 25,000 a month at his salaried job. Akash Gupta then asked whether he now earned around Rs 1 lakh. The driver smiled and indicated that the prospect of higher earnings was one of the reasons he had left his job."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/indian-teenager-romanch-mahajan-killed-runaway-horse-carriage-crash-new-york-central-park-video-2928757-2026-06-18",
+      "headline": "Indian teen killed after startled horse bolts, overturns carriage in New YorkAn 18-year-old Indian tourist died after being thrown from a runaway horse-drawn carriage in Central Park. The crash has revived scrutiny of the carriage trade after another horse died in the park days earlier."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-jamaat-e-islami-shafiqur-rahman-threat-street-protests-july-charter-tarique-rahman-bnp-2928293-2026-06-18",
+      "headline": "Will Bangladesh see bloody street protests? Jamaat warns govt over July CharterAs the implementation of Muhammad Yunus's ambitious July Charter remains deadlocked, Bangladesh's Opposition party, the Jamaat-e-Islami, is stepping up pressure on the BNP government. Jamaat chief Shafiqur Rahman has threatened massive street protests if the reforms were not implemented by the Tarique Rahman government."
     },
     {
       "sentiment": "positive",
@@ -216,111 +281,96 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/england-vs-croatia-live-score-fifa-world-cup-kane-modric-ghana-vs-panama-uzbekistan-vs-colombia-2928706-2026-06-18",
-      "headline": "GHA 0-0 PAN Live: All blunt and stale at half-timeGhana (GHA) vs Panama (PAN) Live, FIFA World Cup 2026: (GHA 0-0 PAN) The rain has had more impact than either attack so far. Ghana and Panama head into the break level after a forgettable first half, with Antoine Semenyo's switch into a central role one of the few signs that a breakthrough may still be coming."
+      "url": "https://www.indiatoday.in/trending-news/story/giorgia-melonis-daughter-hides-behind-her-steals-attention-at-g7-summit-welcome-2928736-2026-06-18",
+      "headline": "Watch: Meloni's daughter steals spotlight by avoiding it, hides behind momGiorgia Meloni's daughter Ginevra Giambruno stayed close to her mother and tried to avoid cameras during the G7 summit welcome ceremony."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-cristiano-ronaldo-portugal-vs-dr-congo-draw-match-report-2928704-2026-06-18",
-      "headline": "Age catches up? Cristiano Ronaldo blanks as Portugal held 1-1 by DR CongoFIFA World Cup 2026: Cristiano Ronaldo's record-breaking World Cup dream remains on hold after a frustrating night in Houston. Portugal may have escaped with a point against DR Congo, but questions over their creativity and dependence on a 41-year-old icon are only growing louder."
+      "url": "https://www.indiatoday.in/health/story/diabetes-diet-roti-vs-rice-why-roti-is-better-for-blood-sugar-2928407-2026-06-18",
+      "headline": "Roti or rice for diabetes? Expert explains the better choiceFor years, Indians have debated whether rice or roti is the healthier choice for people with diabetes. According to leading diabetologist Dr. Anoop Mishra, the answer is more nuanced than simply choosing one over the other."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/el-nino-will-not-slow-down-till-2027-new-forecast-paint-grim-picture-for-india-2928416-2026-06-17",
-      "headline": "El Nino has arrived: Forecasts indicate it's not slowing till 2027Early climate forecasts show a powerful El Ni\u00f1o taking shape over the tropical Pacific. The projected warming could unsettle India's monsoon and intensify global weather extremes through 2027."
+      "url": "https://www.indiatoday.in/business/story/us-federal-reserve-rates-donald-trump-whatever-kevin-warsh-hawkish-stance-no-rate-cut-2928809-2026-06-18",
+      "headline": "Why Trump said 'whatever' after new US Fed chief did not cut ratesUS President Donald Trump got a new Federal Reserve chief, but not the lower-rate signal he had been hoping for. What changed was his reaction."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/hes-as-tough-as-they-come-but-he-looks-so-good-trump-calls-pm-modi-an-angel-2928586-2026-06-17",
-      "headline": "He gets you by surprise: Trump reveals what makes PM Modi 'tough'Donald Trump praised Narendra Modi as a 'tough trader' and a 'killer' as they held their first bilateral meeting in over a year on the sidelines of the G7 Summit in France."
+      "url": "https://www.indiatoday.in/education-today/study-abroad/story/mumbai-student-shares-how-studying-in-ireland-transformed-her-career-and-life-2928547-2026-06-17",
+      "headline": "I never planned to study abroad. Then a Mumbai career fair took me to IrelandA chance career fair in Mumbai led one student to Ireland, where veterinary science became a journey of self-discovery. Between classrooms, leadership roles, homesickness, and growth, she learned that studying abroad is not just about earning a degree; it is about becoming someone new. She came for a degree, stayed for the growth"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/karuppu-peddi-box-office-suriya-ram-charan-films-revive-south-cinema-theatres-2928452-2026-06-18",
+      "headline": "Peddi and Karuppu's Rs 600 crore run: How Ram Charan, Suriya saved South box officeSuriya's Karuppu and Ram Charan's Peddi have crossed Rs 600 crore together at the box office. Their sustained theatrical run has offered distributors and exhibitors relief after months of weak footfall."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/aman-with-indian-roots-asif-from-pakistan-to-get-27-billion-each-after-musk-buys-cursor-for-60-billion-2928428-2026-06-17",
+      "headline": "Aman and Asif to get $2.7 billion each after Elon Musk buys Cursor for $60 billionAman Sanger, a techie with Indian roots, and Pakistan-born Sualeh Asif, just became billionaires. The two are reportedly set to earn as much as $2.7 billion each after Elon Musk's SpaceX acquired Cursor for $60 billion."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/shiv-anand-chaurasia-us-military-strike-family-seeks-aid-martyr-status-deoria-2928708-2026-06-18",
-      "headline": "Indian seafarer's mortal remains reach home eight days after US strikeShiv Anand Chaurasia's body reached his Deoria village eight days after he was killed in a US military strike. His family held up the funeral rites while seeking compensation, a job, schooling support and martyr status."
+      "url": "https://www.indiatoday.in/india/story/7-killed-after-car-plunges-into-a-gorge-in-himachal-pradeshs-chamba-2928801-2026-06-18",
+      "headline": "7 killed after car plunges into a gorge in Himachal Pradesh's ChambaAccording to information, all seven occupants of the vehicle died on the spot. The victims include six passengers \u2014 three women and three men \u2014 along with the driver."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-india-narendra-modi-white-house-great-friend-president-2928624-2026-06-17",
-      "headline": "India has great friend in White House till I'm President: Trump to India TodayDonald Trump told India Today at the G7 Summit in France that India would have a great friend in the White House while he remained President. He paired that assurance with warm praise for PM Narendra Modi and support for India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-deal-live-updates-donald-trump-mojtaba-ceasefire-israel-tehran-strait-of-hormuz-lebanon-2928705-2026-06-18",
-      "headline": "Live: US to remove obstacles to Iran's asset access, Tehran saysUS-Israel-Iran Live Updates: A proposed US-Iran agreement moved closer to reality after Tehran indicated that Presidents Donald Trump and Masoud Pezeshkian could personally sign the accord expected to be formalised in Switzerland on Friday. The development came as senior US officials disclosed details of the 14-point memorandum of understanding after days of secrecy surrounding the negotiations. In Tehran, Foreign Ministry spokesperson Esmail Baghaei said a presidential signing ceremony remained \"on the table\", while officials in Washington stressed that the agreement was still preliminary and that either side could walk away before a final deal is reached. Speaking at the close of the G7 summit in France, Trump defended the accord, saying it had helped avert a wider economic crisis triggered by the conflict that erupted after US and Israeli strikes on Iran in February. He pointed to increased maritime traffic through the Strait of Hormuz and easing oil prices as signs of stabilisation, but warned that military action could resume if Tehran failed to honour its commitments. Under the framework, a 60-day negotiation period would begin after signing. The proposal includes limited sanctions relief, toll-free passage through the Strait of Hormuz and a commitment by Iran to dilute part of its highly enriched uranium stockpile. Follow indiatoday.in for the latest updates on US-Iran deal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-pacific-command-rename-why-trump-dropping-indo-matters-india-uspacom-south-china-sea-2928377-2026-06-17",
-      "headline": "US drops 'Indo' from US military command name. What it means for IndiaThe Trump administration has restored the US Pacific Command name, reversing the 2018 move to call it US Indo-Pacific Command. Does the renaming reveal a change in strategy for the US in the Indian Ocean Region (IOR)? Is the US giving up its IOR plans after ditching its allies in the Middle East?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-girls-school-strike-trump-says-attack-was-not-deliberate-us-probe-under-way-2928701-2026-06-18",
-      "headline": "Trump says no one deliberately targeted Iran girls' school, probe continuesTrump said the February strike on a girls' school in Minab was not intentional and remains under investigation. The remarks came as Reuters reported US forces were likely responsible and officials examined outdated intelligence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/eastern-frontier-rifles-revival-suvendu-adhikari-1000-gorkha-jobs-2928337-2026-06-17",
-      "headline": "Bengal CM to revive colonial-era Gorkha force that 'Mamata tried to kill'. Here's whyWest Bengal CM Suvendu Adhikari announced the recruitment of more than 1,000 Gorkha youths into the Eastern Frontier Rifles, which Darjeeling MP Raju Bista said, was \"Mamata Banerjee was trying to kill\". So, what is the Eastern Frontier Rifles? Why does it have a special place in the Gorkha community?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-lord-ram-statue-construction-stopped-islamists-threats-2928413-2026-06-17",
-      "headline": "Why Bangladesh is tense over construction of tallest Lord Ram statueConstruction of an 81-foot Lord Ram statue in Bangladesh has been paused after threats from radical Islamist groups. The move has triggered protests and renewed debate over religious freedom and minority rights under Tarique Rahman."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-news-anti-india-congresswoman-ilhan-omar-somalia-democrat-eighth-stage-of-genocide-minorities-in-india-2928380-2026-06-17",
-      "headline": "In 8th stage of genocide: Anti-India Ilhan Omar spews venom at Muslim-American eventUS Congresswoman and Democratic Party member Ilhan Omar, known for her anti-India stance, has accused the country of being in the eighth stage of genocide at an event organised by the Indian American Muslim Council. Her allegations stand in stark contrast to India's track record and the growth of minorities in the country."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-afg-shubman-gill-154-vs-odi-series-lucknow-weather-cramps-2928683-2026-06-17",
-      "headline": "How Shubman Gill battled cramps, Lucknow heat for heroic Afghanistan centuryIND vs AFG, 2nd ODI: Shubman Gill overcame cramps and the intense Lucknow heat to smash a brilliant 154 off 110 balls, leading India to a 170-run win over Afghanistan and an unassailable 2-0 series lead."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/indias-got-latent-netflix-samay-raina-exclusive-special-episode-2928490-2026-06-17",
-      "headline": "India's Got Latent heads to Netflix, Samay Raina to shoot exclusive special episodeSamay Raina's India's Got Latent is set to return next month on Netflix and YouTube. The move expands the show's reach and includes a separate Netflix-only special instalment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/when-india-removed-barricades-from-the-us-embassy-and-why-that-moment-haunts-new-delhi-in-2026-2927604-2026-06-16",
-      "headline": "When India removed barricades from US Embassy and why the 2013 memory is back in 2026In 2013, the arrest and strip-search of an Indian diplomat in New York prompted a fierce and coordinated diplomatic retaliation from New Delhi. More than a decade later, three Indian sailors are dead, killed by the US Navy, and India's response has been markedly more restrained."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-pm-modi-g7-meeting-trump-jokes-foreign-reporters-are-nicer-than-us-media-2928655-2026-06-17",
-      "headline": "Your reporters are much nicer than mine: Trump quips beside PM Modi at G7For nearly a decade, Donald Trump has frequently clashed with journalists, particularly during press conferences and television interviews. He has often accused mainstream media organisations of bias and has repeatedly labelled unfavourable coverage as fake news."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-kota-neet-ug-paper-leak-cbse-concerns-exam-irregularities-2928627-2026-06-17",
-      "headline": "Students being butchered, suppressed: Rahul Gandhi's criticism of education systemAccording to the Congress, the 'Chhatron Ki Goonj' initiative aims to highlight challenges faced by students due to alleged paper leaks, rising examination costs, and what the party describes as the government's failure to ensure a fair and transparent education and recruitment system."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/neet-re-exam-kota-ground-report-telegram-ban-paper-leak-claims-anxiety-2927884-2026-06-17",
-      "headline": "The reality of NEET re-exam leak claims: What we found in Kota is revealingHandcrafted ByOur Editors Students in Kota preparing for the June 21 NEET reexamination say they continue to encounter claims of paper leaks through Telegram, WhatsApp and phone calls. While the government has moved to restrict Telegram ahead of the exam, conversations on the ground suggest many students and teachers view the platform as only one part of a much larger ecosystem fuelled by rumours, anxiety and misinformation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-netherlands-womens-t20-world-cup-smriti-mandhana-shafali-verma-shreyanka-patil-2928664-2026-06-17",
-      "headline": "India Women hammer Netherlands, leapfrog Australia to go top of tableWomen's T20 World Cup, IND vs NED: India hammered the Netherlands by 95 runs in Leeds on Wednesday to climb to the top of Group A, overtaking Australia on net run rate."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/full-text-of-14-point-draft-agreement-between-us-and-iran-2928553-2026-06-17",
-      "headline": "Full text of 14-point draft agreement between US and IranA draft US-Iran memorandum sets out a ceasefire, Strait of Hormuz reopening and limited relief for Tehran. If approved, it would launch 60 days of negotiations towards a binding deal while uncertainty remains over the final text."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/durex-pakistan-obsession-ad-backlash-consent-instagram-2928656-2026-06-17",
-      "headline": "Internet 'disgusted' by Durex Pakistan's Obsession-inspired ad over consent concernsDurex Pakistan has drawn online criticism for an Instagram post themed around the horror film Obsession. Users said the ad ignored the film's disturbing consent context and made light of non-consensual sex."
+      "url": "https://www.indiatoday.in/technology/news/story/telegram-edit-feature-led-to-its-ban-in-india-nta-says-students-losing-money-to-it-2928361-2026-06-17",
+      "headline": "Telegram edit feature led to its ban in India, NTA says students losing money to itAhead of NEET re-test on June 21, India has temporarily banned Telegram. Now, the Indian government has clarified the reasons behind the ban. One of the biggest reasons is the way the edit feature works on the app. Here is all you need to know."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/glenn-phillips-sunglasses-jofra-archer-eng-vs-nz-2nd-test-oval-2928831-2026-06-18",
+      "headline": "Watch: Stylish Phillips dons sunglasses to survive Archer barrage at The Oval Glenn Phillips produced one of the most memorable moments of the opening day of the second Test at The Oval when he called for a pair of sunglasses to deal with the glare from the sightscreen before facing a fierce spell from Jofra Archer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-odi-gurnoor-brar-debut-six-wickets-india-a-pathway-2928816-2026-06-18",
+      "headline": "Brar credits domestic cricket and India A stint for strong international start Gurnoor Brar has announced himself in the Afghanistan ODI series with pace, bounce and six wickets in two matches. His seamless jump from Ranji and India A underlines how India's system keeps producing fast bowlers ready for international cricket."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/world-cup-2026-luis-diaz-stars-colombia-beat-uzbekistan-3-1-2928794-2026-06-18",
+      "headline": "Luis Diaz sparks Colombia to commanding 3-1 win over debutants Uzbekistan Luis Diaz starred with a goal and an assist as Colombia kicked off their FIFA World Cup 2026 campaign with a commanding 3-1 win over tournament debutants Uzbekistan in Group K at a packed Azteca Stadium on Wednesday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-lionel-messi-world-cup-hat-trick-cristiano-ronaldo-blanks-2928741-2026-06-18",
+      "headline": "Messi 3-0 Ronaldo after World Cup Round 1: Did we not see it coming? FIFA World Cup 2026: Lionel Messi arrived at the World Cup carrying a legacy and somehow made it bigger. Cristiano Ronaldo arrived chasing history, but after Round 1, the tournament feels less like a race between rivals and more like a tale of two timelines."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-mexican-military-downs-drone-near-south-korea-camp-in-guadalajara-2928777-2026-06-18",
+      "headline": "Mexican military shoots down drone near South Korea's training camp Mexican military personnel neutralised an unauthorised drone near South Korea's training base in Guadalajara ahead of the team's Group A clash against hosts Mexico at the FIFA World Cup 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-womens-t20-world-cup-south-africa-test-shreyanka-patil-injury-scare-2928703-2026-06-18",
+      "headline": "India's Women's honeymoon ends, the real test begins right now India have made a strong start to their Women's T20 World Cup campaign with wins over Pakistan and the Netherlands, going top of Group A on net run rate, but tougher challenges now await against South Africa and Australia."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/lewis-hamilton-ferrari-win-mercedes-woes-f1-2026-title-race-2928739-2026-06-18",
+      "headline": "Hamilton reborn, Mercedes exposed: 5 key takeaways from Monaco and Spain Just a few races ago, Mercedes looked untouchable. Monaco and Barcelona have changed everything. From Lewis Hamilton's resurgence to Mercedes' growing troubles, here are five key takeaways from a dramatic double-header."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-thierry-henry-fifa-world-cup-portugal-vs-dr-congo-draw-selfishness-2928724-2026-06-18",
+      "headline": "Cristiano Ronaldo's selfishness hurt Portugal: Henry's verdict on DR Congo draw FIFA World Cup 2026: Thierry Henry criticised Cristiano Ronaldo after Portugal's 1-1 draw with DR Congo in Houston. His remarks sharpened the debate over Ronaldo's individual pursuit and Portugal's team balance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/world-cup-ghana-beat-panama-caleb-yirenkyi-stoppage-time-winner-2928723-2026-06-18",
+      "headline": "Ghana snatch dramatic stoppage-time win over Panama Caleb Yirenkyi's stoppage-time strike earned Ghana a dramatic 1-0 win over Panama in a lively World Cup 2026 Group L clash in Toronto on Wednesday. Ghana secured all three points despite losing goalkeeper Lawrence Ati Zigi to injury at half-time."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-harry-kane-thomas-tuchel-half-time-pep-talk-england-croatia-win-2928719-2026-06-18",
+      "headline": "Kane credits Tuchel's half-time pep talk for England's 4-2 victory over Croatia England captain Harry Kane credited Thomas Tuchel's half-time intervention for transforming his side's performance as the Three Lions overcame Croatia 4-2 in a thrilling FIFA World Cup opener."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/vozinha-mother-us-visa-cape-verde-goalkeeper-fifa-world-cup-reunion-2928714-2026-06-18",
@@ -329,47 +379,47 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-messi-chants-fifa-world-cup-portugal-draw-vs-dr-congo-2928713-2026-06-18",
-      "headline": "'Messi, Messi' chants rain down on Ronaldo as Portugal held by DR Congo FIFA World Cup 2026: Portugal opened their World Cup campaign with a 1-1 draw against DR Congo as Cristiano Ronaldo again failed to score. The result and the Messi chants around him sharpened the early contrast between football's two long-time rivals."
+      "headline": "'Messi, Messi' chants rain down on Ronaldo as Portugal held by DR CongoFIFA World Cup 2026: Portugal opened their World Cup campaign with a 1-1 draw against DR Congo as Cristiano Ronaldo again failed to score. The result and the Messi chants around him sharpened the early contrast between football's two long-time rivals."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/thomas-tuchel-england-vs-croatia-fifa-world-cup-report-4-2-win-rashford-bellingham-kane-2928711-2026-06-18",
-      "headline": "Thomas Tuchel gets it right as England overturn Croatia to win World Cup opener FIFA World Cup 2026: Thomas Tuchel's halftime changes proved decisive as England recovered from a sluggish first half to beat Croatia 4-2 in their World Cup opener, with Jude Bellingham leading the fightback."
+      "headline": "Thomas Tuchel gets it right as England overturn Croatia to win World Cup openerFIFA World Cup 2026: Thomas Tuchel's halftime changes proved decisive as England recovered from a sluggish first half to beat Croatia 4-2 in their World Cup opener, with Jude Bellingham leading the fightback."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/england-vs-croatia-live-score-fifa-world-cup-kane-modric-ghana-vs-panama-uzbekistan-vs-colombia-2928706-2026-06-18",
-      "headline": "GHA 0-0 PAN Live: All blunt and stale at half-time Ghana (GHA) vs Panama (PAN) Live, FIFA World Cup 2026: (GHA 0-0 PAN) The rain has had more impact than either attack so far. Ghana and Panama head into the break level after a forgettable first half, with Antoine Semenyo's switch into a central role one of the few signs that a breakthrough may still be coming."
+      "headline": "UZB 1 - 3 COL Highlights: Luis Diaz inspires Colombia to overcome wasteful Uzbekistan in Group KUzbekistan (UZB) vs Colombia (COL) Highlights, FIFA World Cup 2026: Luis Diaz inspired Colombia to a commanding win over Uzbekistan, as they put three past the debutants from Asia. After assisting Daniel Munoz for the first goal, Diaz scored the second to put Colombia back in front. Jaminton Campaz scored the third in the last second of the injury time to seal the deal in New Mexico City."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-cristiano-ronaldo-portugal-vs-dr-congo-draw-match-report-2928704-2026-06-18",
-      "headline": "Age catches up? Cristiano Ronaldo blanks as Portugal held 1-1 by DR Congo FIFA World Cup 2026: Cristiano Ronaldo's record-breaking World Cup dream remains on hold after a frustrating night in Houston. Portugal may have escaped with a point against DR Congo, but questions over their creativity and dependence on a 41-year-old icon are only growing louder."
+      "headline": "Age catches up? Cristiano Ronaldo blanks as Portugal held 1-1 by DR CongoFIFA World Cup 2026: Cristiano Ronaldo's record-breaking World Cup dream remains on hold after a frustrating night in Houston. Portugal may have escaped with a point against DR Congo, but questions over their creativity and dependence on a 41-year-old icon are only growing louder."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-afg-shubman-gill-154-vs-odi-series-lucknow-weather-cramps-2928683-2026-06-17",
-      "headline": "How Shubman Gill battled cramps, Lucknow heat for heroic Afghanistan century IND vs AFG, 2nd ODI: Shubman Gill overcame cramps and the intense Lucknow heat to smash a brilliant 154 off 110 balls, leading India to a 170-run win over Afghanistan and an unassailable 2-0 series lead."
+      "headline": "How Shubman Gill battled cramps, Lucknow heat for heroic Afghanistan centuryIND vs AFG, 2nd ODI: Shubman Gill overcame cramps and the intense Lucknow heat to smash a brilliant 154 off 110 balls, leading India to a 170-run win over Afghanistan and an unassailable 2-0 series lead."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-netherlands-womens-t20-world-cup-smriti-mandhana-shafali-verma-shreyanka-patil-2928664-2026-06-17",
-      "headline": "India Women hammer Netherlands, leapfrog Australia to go top of table Women's T20 World Cup, IND vs NED: India hammered the Netherlands by 95 runs in Leeds on Wednesday to climb to the top of Group A, overtaking Australia on net run rate."
+      "headline": "India Women hammer Netherlands, leapfrog Australia to go top of tableWomen's T20 World Cup, IND vs NED: India hammered the Netherlands by 95 runs in Leeds on Wednesday to climb to the top of Group A, overtaking Australia on net run rate."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-shubman-gill-series-win-ishan-kishan-2928635-2026-06-17",
-      "headline": "In oppressive Lucknow heat, Shubman Gill leads India to his 1st series win India captain Shubman Gill won his first ODI series as a captain after India took an unassailable 2-0 lead against Afghanistan after the 2nd game of the series. Shubman led from the front with a terrific hundred in the oppressive heat in Lucknow."
+      "headline": "In oppressive Lucknow heat, Shubman Gill leads India to his 1st series winIndia captain Shubman Gill won his first ODI series as a captain after India took an unassailable 2-0 lead against Afghanistan after the 2nd game of the series. Shubman led from the front with a terrific hundred in the oppressive heat in Lucknow."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-shreyanka-patil-ankle-injury-india-stretchered-off-india-vs-netherlands-2928634-2026-06-17",
-      "headline": "Shreyanka Patil suffers freak foot injury, stretchered off from park against Netherlands India suffered a major injury scare during their Women's T20 World Cup clash against the Netherlands after Shreyanka Patil twisted her right ankle while fielding and had to be stretchered off the ground at Headingley."
+      "headline": "Shreyanka Patil suffers freak foot injury, stretchered off from park against NetherlandsIndia suffered a major injury scare during their Women's T20 World Cup clash against the Netherlands after Shreyanka Patil twisted her right ankle while fielding and had to be stretchered off the ground at Headingley."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/portugal-vs-dr-congo-live-score-fifa-world-cup-2026-cristiano-ronaldo-bruno-fernandes-houston-2928628-2026-06-17",
-      "headline": "World Cup Highlights: Ronaldo disappoints as Congo take a point in 1-1 draw Portugal (POR) vs DR Congo (COD) Highlights, FIFA World Cup 2026: (POR 1-1 COD). DR Congo have taken a point of the mighty Portugal here in Houston. Cristiano Ronaldo had a poor outing having been less involved in the game as it went deeper."
+      "headline": "World Cup Highlights: Ronaldo disappoints as Congo take a point in 1-1 drawPortugal (POR) vs DR Congo (COD) Highlights, FIFA World Cup 2026: (POR 1-1 COD). DR Congo have taken a point of the mighty Portugal here in Houston. Cristiano Ronaldo had a poor outing having been less involved in the game as it went deeper."
     },
     {
       "sentiment": "positive",
@@ -410,46 +460,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-cristiano-ronaldo-portugal-vs-dr-congo-messi-mbappe-haaland-2928376-2026-06-17",
       "headline": "Messi, Mbappe, Haaland all scored. Will Cristiano Ronaldo follow suit vs DR Congo?FIFA World Cup 2026: Messi, Mbappe and Haaland all shattered milestones on a remarkable World Cup night. Now Ronaldo steps in with a chance to make six-tournament scoring history for Portugal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-prince-yadav-india-vs-afghanistan-second-odi-xi-lucknow-2928355-2026-06-17",
-      "headline": "2nd ODI: Yashasvi Jaiswal fails in rare chance, Prince Yadav makes debutIndia reshuffled their XI for the second ODI in Lucknow, handing Prince Yadav a debut and Yashasvi Jaiswal an opening role. Nitish Kumar Reddy's injury scare forced the late changes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-austria-vs-jordan-win-3-1-arnautovic-penalty-group-j-2928305-2026-06-17",
-      "headline": "Austria score 3 past Jordan to go second behind Argentina in Group JFIFA World Cup 2026: Austria beat Jordan 3-1 in Santa Clara after Yazan Al-Arab's own goal shattered a 1-1 deadlock. Jordan's spirited World Cup debut still forced Austria to rely on a stoppage-time penalty to close it out."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-nadal-documentary-world-cup-hat-trick-algeria-2928292-2026-06-17",
-      "headline": "Rafa on Netflix, magic on the pitch: Lionel Messi's new World Cup routineLionel Messi said he has been watching Rafael Nadal's documentary on Netflix as he prepared for Argentina's FIFA World Cup opener against Algeria. The 38-year-old scored a hat-trick on Wednesday, equalling Miroslav Klose's all-time record for most goals in the competition."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-argentina-vs-algeria-lionel-messi-hat-trick-mandi-var-controversy-2928228-2026-06-17",
-      "headline": "Should Lionel Messi have seen red vs Algeria? Fans debate decisionFIFA World Cup 2026: Lionel Messi hit a hat-trick as Argentina beat Algeria 3-0 in their World Cup opener. A disputed challenge on Aissa Mandi, ignored by the referee and VAR, kept the noise alive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-reveals-reason-behind-tears-hattrick-argentina-beat-algeria-2928236-2026-06-17",
-      "headline": "After hat-trick heroics, Messi reveals why he cried on record World Cup nightLionel Messi said he had gone through \"difficult days\" away from football before his record-equalling hat-trick against Algeria, explaining the emotional scenes that followed his opening goal in Argentina's World Cup opener."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-afghanistan-a-live-score-tri-series-2026-ind-a-vs-afg-a-match-2928184-2026-06-17",
-      "headline": "Highlights: India qualify for tri-series final after huge win vs AFG-AIndia (IND-A) vs Afghanistan (AFG-A) Highlights, Tri-Series 2026: AFG (218-all-out in 36.5 ov) chasing 320 runs. India A have bagged a massive victory against Afghanistan - by 101 runs. Nishant Sindhu and Yash Thakur bowl out Afghanistan A and have sent India A to the final of the tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/argentina-beat-algeria-messi-hattrick-equals-all-time-world-cup-goals-record-2928196-2026-06-17",
-      "headline": "Magical Messi sinks Algeria with hat-trick, equals all-time goal-scoring recordLionel Messi scored a historic hat trick as Argentina opened their FIFA World Cup title defence with a commanding 3-0 victory over Algeria in Kansas City on Tuesday, drawing level with Miroslav Klose as the tournament's all-time leading goalscorer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-lucknow-odi-india-opener-eyes-big-statement-after-dharamsala-run-out-2928191-2026-06-17",
-      "headline": "Hungry like a debutant, Rohit Sharma targets big statement in Lucknow ODIIndia lead Afghanistan 1-0. The 2nd ODI at Lucknow's Ekana Stadium today is a chance to seal the series, but one subplot will shadow everything else from the first ball."
     }
   ],
   "education": [
