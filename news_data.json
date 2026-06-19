@@ -1,9 +1,14 @@
 {
   "business": [
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/jio-ipo-ril-agm-reliance-sebi-filing-27-crore-fresh-shares-investors-need-to-know-2929942-2026-06-19",
+      "headline": "Mukesh Ambani's Jio IPO is here: Reliance to offer up to 27 crore fresh sharesMukesh Ambani announced at Reliance's 49th AGM that Jio Platforms will file its DRHP with Sebi today. The move formally starts the long-awaited listing process and adds momentum to India's pipeline of mega public issues."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-600-points-lower-nifty-tops-24000-it-stocks-bleed-tcs-infosys-hcltech-down-2929868-2026-06-19",
-      "headline": "Sensex ends 600 points lower, Nifty tops 24,000; IT stocks bleedSensex ends 600 points lower, Nifty tops 24,000; IT stocks bleed"
+      "headline": "Sensex ends 600 points lower, Nifty tops 24,000; IT stocks bleedThe S&P BSE Sensex fell 607.08 points, or 0.78%, to close at 76,802.90, while the NSE Nifty50 shed 155.05 points, or 0.64%, to settle at 24,013.10."
     },
     {
       "sentiment": "positive",
@@ -23,7 +28,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/reliance-agm-2026-live-updates-49th-annual-general-meeting-mukesh-ambani-jio-ipo-guidance-2929646-2026-06-19",
-      "headline": "Live: India's energy future cannot depend on imports, RIL to work on itRIL AGM 2026 Live Updates: Addressing shareholders at Reliance Industries' 49th Annual General Meeting (AGM), Ambani said Jio Platforms' draft red herring prospectus (DRHP) has been approved by the company's board and will be filed with market regulator Sebi later today."
+      "headline": "Jio IPO moves ahead as Reliance bets big on AI and new energyRIL AGM 2026: Jio Platforms to file IPO papers with Sebi; Mukesh Ambani unveils five major value creation pathways, bets big on AI, energy self-reliance, satellite connectivity, media, FMCG and global expansion"
     },
     {
       "sentiment": "positive",
@@ -94,14 +99,69 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/nse-ipo-national-stock-exchange-files-drhp-rs-30000-crore-issue-2928884-2026-06-18",
       "headline": "Why the Rs 30,000-crore NSE IPO is unlike any other IPOFor nearly 10 years, the NSE IPO was the market's longest-running \"coming soon\" story. Now, India's biggest exchange is finally ready to test its value in public."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/epfo-3-0-pf-withdrawal-via-upi-atm-cards-soon-how-it-will-work-2928869-2026-06-18",
-      "headline": "EPFO 3.0 may let you withdraw PF through UPI, ATM soon. Here's what could changeEPFO is preparing to launch its 3.0 platform with new digital withdrawal options for subscribers. The upgrade could speed up claims and simplify access to provident fund savings."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/meet-ott-series-prime-video-raakh-breakout-star-ramandeep-yadav-rajjo-played-cricket-arshdeep-singh-2929906-2026-06-19",
+      "headline": "Meet Raakh's breakout star Ramandeep, who once played cricket with Arshdeep Singh Acor Ramandeep Yadav recalled landing Prime Video's Raakh when he was close to leaving Mumbai. The role has become his breakthrough after years of rejection and an intense journey into Rajjo's mind."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ameesha-patel-feared-age-gap-with-sunny-deol-in-gadar-questioned-if-it-was-appropriate-2930020-2026-06-19",
+      "headline": "Ameesha feared age gap with Sunny in Gadar, questioned if it was appropriate Actor Ameesha Patel said she initially questioned being paired opposite co-star Sunny Deol in Gadar because of their age difference. She added that age-gap romances work only when the story genuinely justifies them."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-social-reckoning-trailer-jeremy-allen-white-fights-to-expose-mark-zuckerberg-2929998-2026-06-19",
+      "headline": "The Social Reckoning trailer: Jeremy Allen White fights to expose Mark Zuckerberg The trailer for The Social Reckoning introduces Jeremy Strong as Mark Zuckerberg in Aaron Sorkin's new film. It follows Frances Haugen and Jeff Horwitz as the drama revisits the events behind The Facebook Files."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/nooru-sami-review-swasika-vijay-antony-sasi-widow-remarriage-drama-2930067-2026-06-19",
+      "headline": "Nooru Sami review: Director Sai's remarriage drama means well, but trips oftenRelease Date:Fri Jun 19, 2026 Nooru Sami movie review: Director Sasi's Nooru Sami, starring Swasika, Ajay Dhishan and Vijay Antony, is a well-intentioned drama that explores remarriage. While the story great potential, it has many shortcomings in terms of its presentation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/aamir-khans-production-house-announces-documentary-on-president-droupadi-murmu-2930038-2026-06-19",
+      "headline": "Aamir Khan's production house announces documentary on President Droupadi Murmu Aamir Khan Productions is making a documentary on President Droupadi Murmu, directed by Svati Chakravarty Bhatkal. The film will trace her journey from an Odisha village to Rashtrapati Bhavan and examine its wider significance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-announces-no-filter-india-got-latent-season-2-on-netflix-youtube-well-still-swear-2930032-2026-06-19",
+      "headline": "Samay Raina announces 'no filter' Latent 2 on Netflix, YouTube: We'll still swear Samay Raina has confirmed that India's Got Latent 2 will stream on Netflix and YouTube on the same day. He said the show will stay unfiltered, with the only change on Netflix being no ads and no comment section."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/delhi-high-court-postpones-salman-khans-plea-against-kala-hiran-release-2930003-2026-06-19",
+      "headline": "Delhi High Court postpones Salman Khan's plea against Kala Hiran release The Delhi High Court has deferred Salman Khan's plea against the release of Kala Hiran: The Battle for Legacy to July 1. The court gave no interim relief and asked Khan to serve the full plaint on the filmmakers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/vithabai-narayangaonkar-marathi-folk-artiste-behind-shraddha-kapoor-film-eetha-teaser-2929992-2026-06-19",
+      "headline": "Who was Vithabai Narayangaonkar, the legend behind Shraddha Kapoor's Eetha? A leaked teaser of actor Shraddha Kapoor's Eetha turned the spotlight on folk icon Vithabai Narayangaonkar. The glimpse of her returning to the stage after childbirth has revived interest in her grit, legacy and fame."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/balan-the-boy-review-the-years-most-moving-mother-son-story-disguised-as-thriller-2929944-2026-06-19",
+      "headline": "Balan The Boy review: The year's most moving mother-son story disguised as thrillerRelease Date:Fri Jun 19, 2026 Balan The Boy Review: Chidambaram's film follows the journey of a mother and son who survive by constantly changing identities. The thriller deepens into a restrained study of love, fear and sacrifice."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/shilpa-shinde-calls-out-mafia-tv-producers-over-90-day-payment-delays-2929764-2026-06-19",
+      "headline": "Shilpa Shinde calls out 'mafia' TV producers over 90-day payment delays Actor Shilpa Shinde accused television producers of operating like a mafia and withholding actors' payments for up to 90 days. Her remarks, made while reacting to actor Shehzada Dhami's dues claim, renewed focus on fear, pressure and lack of support within the industry."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/vikram-bhatt-reacts-to-haunted-3d-beating-main-vaapas-aaunga-at-box-office-2929771-2026-06-19",
+      "headline": "Vikram Bhatt reacts to Haunted 3D beating Main Vaapas Aaunga at box office Vikram Bhatt's Haunted 3D: Echoes of the Past has moved ahead of Main Vaapas Aaunga at the box office. Bhatt said targeted promotion and the franchise's hidden audience shaped the film's run."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/rajkumar-hirani-shuts-down-4th-idiot-buzz-confirms-3-idiots-sequel-is-in-works-aamir-khan-r-madhavan-sharman-joshi-vicky-kaushal-2929888-2026-06-19",
+      "headline": "Rajkumar Hirani shuts down '4th Idiot' buzz, confirms 3 Idiots sequel is in works Filmmaker Rajkumar Hirani confirmed that a 3 Idiots sequel is being written and said no new character is joining the trio. His remarks shut down the 4 Idiots chatter while signalling a story set 20 years after the original."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/reviews/story/maa-inti-bangaaram-review-samantha-ruth-prabhu-shines-in-female-led-action-drama-2929805-2026-06-19",
@@ -131,93 +191,48 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/high-court-issues-notice-to-producer-vipul-shah-over-kerala-story-2-title-row-2929726-2026-06-19",
       "headline": "High court issues notice to producer Vipul Shah over Kerala Story 2 title row The Kerala High Court has issued notice before admission to producer Vipul Amrutlal Shah in a plea against Kerala Story 2: Goes Beyond. The court questioned whether the challenge survives after release, while the petitioner pointed to the film's OTT run and wider circulation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-helped-sister-in-law-sheetal-3-am-illness-raj-nidimoru-maa-inti-bangaram-2929730-2026-06-19",
-      "headline": "No blanket, 3 am illness: How Samantha helped sister-in-law like a silent warrior Raj Nidimoru's sister Sheetal recalled how actor Samantha looked after her through the night days after her wedding to the filmmaker. Her note, shared before Maa Inti Bangaaram's release, linked that memory to the film's title."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/imtiaz-ali-questions-those-comfortable-with-burqa-parda-2929740-2026-06-19",
-      "headline": "Degenerated society: Imtiaz Ali questions those comfortable with burqa, parda Filmmaker Imtiaz Ali's remarks on burqa, parda and social conditioning during a recent interview have triggered debate online. Here's what the filmmaker said and why the conversation is gaining attention."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sunil-grover-sleeping-on-pavement-by-ganga-ghat-viral-video-2929701-2026-06-19",
-      "headline": "Sunil Grover caught sleeping on Ganga ghat in viral video, fans love his simplicity Actor Sunil Grover shared an Instagram video showing himself resting on Ganga ghat at night. The video has gone viral with over 4 million views."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kala-hiran-producer-claims-2-death-threats-within-hours-from-salman-khan-fan-2929714-2026-06-19",
-      "headline": "Kala Hiran producer claims 2 death threats within hours from Salman Khan fan Kala Hiran producer Amit Jani has alleged that he received a second death threat within 24 hours after filing an earlier complaint in Jodhpur. He said the latest caller claimed to be a Salman Khan fan, raising security concerns ahead of the film's release."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/cocktail-2-x-review-kriti-sanon-rashmika-mandanna-shahid-kapoor-homi-adajania-dinesh-vijan-social-media-reaction-2929690-2026-06-19",
-      "headline": "Cocktail 2 X review: Cheers for Kriti, side-eye for Rashmika's accent Cocktail 2 opened in theatres on June 19 and received mixed reactions on X. Much of the online chatter praised Kriti Sanon, while the screenplay and Rashmika Mandanna's accent faced criticism."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singhs-drastic-18-month-no-interview-pledge-amid-don-3-row-2929647-2026-06-19",
-      "headline": "Ranveer Singh's drastic 18-month no-interview pledge amid Don 3 row Ranveer Singh has reportedly decided not to speak on the Don 3 controversy or give interviews for 18 months. The silence comes as his fallout with Farhan Akhtar has widened into a legal dispute ahead of Pralay."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/shraddha-kapoor-eetha-teaser-leaked-online-vithabai-role-goes-viral-2929645-2026-06-19",
-      "headline": "Shraddha Kapoor's Eetha teaser leaked online, stunned fans call it promising as hell The leaked teaser of Eetha shows actor Shraddha Kapoor as tamasha artiste Vithabai Bhau Mang Narayangaonkar during a stage performance around childbirth. The glimpse has gone viral, drawing strong fan reactions and raising buzz around the film."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/karan-kundrra-slams-trolls-over-consulting-parents-before-proposing-tejasswi-prakash-2929614-2026-06-19",
-      "headline": "Karan Kundrra defends seeking parents' nod before Desi Bling proposal to Tejasswi Karan Kundrra has responded to criticism over consulting his parents before proposing to Tejasswi Prakash. His remarks have sparked fresh conversation about family and relationships."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/deool-band-2-box-office-shah-rukh-khan-waived-rs-42-lakh-dcp-dues-2929589-2026-06-19",
-      "headline": "SRK waived Rs 42 lakh for Deool Band 2; Marathi film went on to earn Rs 80 crore Filmmaker Pravin Tarde said Shah Rukh Khan asked Red Chillies Entertainment to waive pending DCP dues for Deool Band 2 before its release. The gesture helped the Marathi film reach cinemas despite a budget crunch and is now being remembered after its box-office success."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/angelina-jolie-opens-up-about-losing-her-fighting-spirit-during-difficult-period-2929587-2026-06-19",
-      "headline": "Angelina Jolie lost fighting spirit after Brad Pitt divorce, children healed her Angelina Jolie said a difficult period after her divorce from Brad Pitt left her feeling taken down for a time. She said her children have helped revive her confidence as she discusses a role in Couture that echoes parts of her life."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/toy-story-5-review-a-relevant-and-thoughtful-sequel-for-the-ipad-generation-2929573-2026-06-19",
-      "headline": "Toy Story 5 review: A relevant and thoughtful sequel for the iPad generationRelease Date:Fri Jun 19, 2026 Toy Story 5 review: Pixar explores children's growing attachment to technology as Woody, Buzz and Jessie confront a new threat to playtime. Read our review."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ranbir-rama-alia-alpha-sita-star-couple-power-quotient-2929294-2026-06-19",
-      "headline": "Ranbir as Rama, Alia as 'Alpha' Sita: Did star couple just amp the power quotient? On-screen names of stars add to image. Think Big B's Vijay or SRK's Rahul. Will playing Rama and Sita boost Ranbir Kapoor and Alia Bhatt's prospects as a Bollywood duo?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/cocktail-2-kriti-sanon-rashmika-mandanna-lesbian-love-story-rumours-emotional-threesome-2929534-2026-06-19",
-      "headline": "Lesbian romance or love triangle? Kriti Sanon reacts to Cocktail 2 rumours Actor Kriti Sanon has addressed speculation surrounding Cocktail 2's central relationship, setting the record straight at a promotional event. Her clarification comes days before the film's theatrical release."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-legislative-council-election-results-congress-wins-5-seats-bjp-cross-voting-row-2929721-2026-06-19",
-      "headline": "No question of forgiveness: BJP vows action after Karnataka cross-voting joltThe Karnataka Legislative Council election exposed cross-voting in the BJP and JD(S) camps as Congress won five of seven seats. The result has triggered disciplinary warnings in the opposition and highlighted internal strains before future contests."
+      "url": "https://www.indiatoday.in/world/story/iran-finished-they-get-no-money-trump-rejects-claims-that-tehran-emerged-stronger-after-war-2930053-2026-06-19",
+      "headline": "Iran won't get 10 cents: Trump rejects claims Tehran emerged stronger after warUS President Donald Trump said Iran is \"finished\" after the war, claiming the country has lost most of its military capabilities, including its air force, navy and defence systems."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/giorgia-meloni-trump-g7-photo-claim-italy-and-i-never-beg-2929964-2026-06-19",
+      "headline": "Trump claims Meloni begged him for picture at G7 Summit. Here's her responseGiorgia Meloni rejected Donald Trump's claim that she begged for a photograph at the G7 summit. The exchange has deepened strains in a relationship once seen as one of his closest political partnerships in Europe."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/ayodhya-ram-temple-donation-theft-row-nripendra-mishra-ignored-sops-weak-oversight-mandir-2929857-2026-06-19",
-      "headline": "Entire Ram Mandir management needs to go: Nripendra Mishra flags deep flawsRam Janmabhoomi Temple Construction Committee chairman called for a complete overhaul of the Ram Temple's management system, saying the donation misappropriation controversy has exposed serious failures in supervision and accountability."
+      "headline": "Entire Ram Mandir management needs to go: Nripendra Misra flags deep flawsRam Janmabhoomi Temple Construction Committee chairman called for a complete overhaul of the Ram Temple's management system, saying the donation misappropriation controversy has exposed serious failures in supervision and accountability."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jharkhand-rajya-sabha-polls-parimal-nathwani-wins-after-cross-voting-congress-loses-2929532-2026-06-19",
-      "headline": "Rajya Sabha results in 3 states expose Congress's puzzling contrastsDespite having the numbers, Congress suffered setbacks in Rajya Sabha contests in both Jharkhand and Madhya Pradesh. Yet, on the same day, it secured 16 extra votes to win comfortably in Karnataka's Legislative Council polls, highlighting stark contrasts in the party's political and alliance management."
+      "url": "https://www.indiatoday.in/world/story/us-iran-news-israel-us-military-dependence-security-assistance-iran-deal-vulnerabilities-2929892-2026-06-19",
+      "headline": "Can Israel, minus the US, defend itself? Here's the answer amid Vance's warningAmerican Vice-President JD Vance issued a warning to Israeli PM Benjamin Netanyahu's Cabinet after some of his ministers said they weren't bound by the US-Iran agreement. Can Israel fight a long conventional war without support from the US? Here's the entire picture and the answer in a clear yes or no."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/reliance-agm-2026-live-updates-49th-annual-general-meeting-mukesh-ambani-jio-ipo-guidance-2929646-2026-06-19",
-      "headline": "Live: Mukesh Ambani unveils five major value creation pathways for RelianceRIL AGM 2026 Live Updates: Addressing shareholders at Reliance Industries' 49th Annual General Meeting (AGM), Ambani said Jio Platforms' draft red herring prospectus (DRHP) has been approved by the company's board and will be filed with market regulator Sebi later today."
+      "url": "https://www.indiatoday.in/movies/reviews/story/balan-the-boy-review-the-years-most-moving-mother-son-story-disguised-as-thriller-2929944-2026-06-19",
+      "headline": "Balan The Boy review: The year's most moving mother-son story disguised as thrillerRelease Date:Fri Jun 19, 2026Balan The Boy Review: Chidambaram's film follows the journey of a mother and son who survive by constantly changing identities. The thriller deepens into a restrained study of love, fear and sacrifice."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/covid-origin-anthony-fauci-china-wuhan-lab-tulsi-gabbard-classified-files-2930006-2026-06-19",
+      "headline": "US scientist funded China lab tied to Covid leak theory? Spy chief's 'expose'On her last day as US spy chief, Tulsi Gabbard released classified files alleging Dr Anthony Fauci, the face of the US's fight against coronavirus, funded research at Wuhan's virology institute, which has been linked to the Covid-19 lab-leak theory."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/story/nta-to-hold-nationwide-drill-on-saturday-ahead-of-june-21-neet-re-test-exam-2930068-2026-06-19",
+      "headline": "NTA to hold nationwide mock drill tomorrow for NEET-UG 2026 re-testAhead of the NEET-UG retest on June 21, authorities will conduct a nationwide mock drill with over 2.5 lakh security personnel. Examination centres will follow three-tier security, with CCTV monitoring and paramilitary forces securing exam materials."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-legislative-council-election-results-congress-wins-5-seats-bjp-cross-voting-row-2929721-2026-06-19",
+      "headline": "No question of forgiveness: BJP vows action after Karnataka cross-voting joltThe Karnataka Legislative Council election exposed cross-voting in the BJP and JD(S) camps as Congress won five of seven seats. The result has triggered disciplinary warnings in the opposition and highlighted internal strains before future contests."
     },
     {
       "sentiment": "positive",
@@ -226,18 +241,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/infosys-tcs-hcltech-shares-fall-after-accenture-cuts-revenue-growth-forecast-2929592-2026-06-19",
-      "headline": "Accenture warning sends Infosys, TCS and HCLTech tumbling. Here's whyMajor Indian IT stocks fell sharply after Accenture lowered the upper end of its annual revenue growth forecast. The sell-off has renewed concerns over weak discretionary spending, slower deal conversion and the pace of demand recovery."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/history-of-it/story/punjab-news-bhagwant-mann-golden-temple-general-dyer-honour-after-jallianwala-bagh-massacre-2929365-2026-06-19",
       "headline": "Why Dyer was felicitated at Golden Temple days after Jallianwala Bagh massacreDays after the Jallianwala Bagh massacre in 1919, Golden Temple managers invited Brigadier General Reginald Dyer and honoured him with a siropa and kirpan. The priests even urged the 'Butcher of Amritsar' to become a Sikh and agreed to waive the requirement of unshorn hair when he said he could not follow it as a serving British officer."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/neet-exam-news-last-minute-preparation-of-students-sikar-paper-leak-stress-mock-papers-2929711-2026-06-19",
+      "headline": "On NEET re-exam eve, this is what I saw in coaching capital SikarAs the countdown to the June 21 NEET-UG re-exam enters its final phase, hostels, classrooms, and coaching corridors in Rajasthan's coaching city of Sikar have become arenas of relentless revision and quiet anxiety. Here's what's happening in India's NEET coaching capital."
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/chhattisgarh-driver-arrested-torturing-wife-drink-urine-shave-head-2929884-2026-06-19",
-      "headline": "Man tortures wife in front of kids, shaves her head, then forces her to drink urineA government vehicle driver in Chhattisgarh's Surajpur district was arrested for allegedly subjecting his wife to severe physical and mental torture, including assault, public humiliation, and forcing her to drink urine over suspicions of an affair."
+      "url": "https://www.indiatoday.in/world/story/israel-and-hezbollah-agree-to-ceasefire-after-deadly-escalation-in-lebanon-2930074-2026-06-19",
+      "headline": "Israel and Hezbollah agree to ceasefire after deadly escalation in LebanonThe truce, brokered by the US and Qatar with Iranian assistance, followed a deadly escalation that threatened broader regional diplomacy and efforts to advance negotiations between Washington and Tehran."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/iim-ahmedabad-professor-uses-ranveer-singh-dhurandhar-scene-to-teach-statistics-in-class-viral-video-2929689-2026-06-19",
+      "headline": "IIM Ahmedabad professor uses Dhurandhar scene to teach statistics in class. WatchAn IIM Ahmedabad professor used a scene from Dhurandhar to explain statistical concepts such as cluster sampling and stratification. The video went viral as viewers praised the inventive way complex concepts were broken down."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-calls-narendra-modi-very-tough-cookie-in-axios-interview-2929983-2026-06-19",
+      "headline": "Trump names PM Modi among world leaders he admires, calls him very tough cookieDonald Trump praised Narendra Modi again and called him a very tough cookie in an upcoming Axios interview. The remark followed his G7 comments and underscored how he contrasted Modi with Xi Jinping."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-announces-no-filter-india-got-latent-season-2-on-netflix-youtube-well-still-swear-2930032-2026-06-19",
+      "headline": "Samay Raina announces 'no filter' Latent 2 on Netflix, YouTube: We'll still swearSamay Raina has confirmed that India's Got Latent 2 will stream on Netflix and YouTube on the same day. He said the show will stay unfiltered, with the only change on Netflix being no ads and no comment section."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jharkhand-rajya-sabha-polls-parimal-nathwani-wins-after-cross-voting-congress-loses-2929532-2026-06-19",
+      "headline": "Rajya Sabha results in 3 states expose Congress's puzzling contrastsDespite having the numbers, Congress suffered setbacks in Rajya Sabha contests in both Jharkhand and Madhya Pradesh. Yet, on the same day, it secured 16 extra votes to win comfortably in Karnataka's Legislative Council polls, highlighting stark contrasts in the party's political and alliance management."
     },
     {
       "sentiment": "positive",
@@ -251,68 +286,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/does-china-have-a-caste-system-explained-indians-online-debate-hukou-urban-rural-class-discrimination-2929327-2026-06-19",
-      "headline": "Does China have a caste system or is it a figment of imagination of Indians?China, the world's manufacturing powerhouse and a socialist state governed by a communist party, is being accused online of having a birth-based caste system that shapes access to education, healthcare, and opportunity. Does China really have a caste system? Here's the reality."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/relationship/story/kanchipuram-tops-ashley-madison-sign-ups-india-again-discreet-dating-rises-2929691-2026-06-19",
-      "headline": "Kancheepuram retains top spot in India's infidelity rankingsKancheepuram has again recorded the highest Ashley Madison sign-ups in India for May 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/iim-ahmedabad-professor-uses-ranveer-singh-dhurandhar-scene-to-teach-statistics-in-class-viral-video-2929689-2026-06-19",
-      "headline": "IIM Ahmedabad professor uses Dhurandhar scene to teach statistics in class. WatchAn IIM Ahmedabad professor used a scene from Dhurandhar to explain statistical concepts such as cluster sampling and stratification. The video went viral as viewers praised the inventive way complex concepts were broken down."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/reasons-for-ban-sufficient-delhi-high-court-upholds-temporary-ban-on-telegram-app-2929628-2026-06-19",
-      "headline": "Setback for Telegram, court says government's temporary ban isn't disproportionateThe government had imposed the temporary restriction citing apprehensions that Telegram was being used by organised cheating networks allegedly involved in the NEET-UG controversy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/infosys-share-price-fall-accenture-warning-it-stocks-tech-spending-slowdown-2929643-2026-06-19",
-      "headline": "Why Infosys took the biggest hit after Accenture's warningAccenture reported strong AI demand but trimmed its growth outlook, signalling that clients are still holding back on spending. The warning hammered Indian IT stocks, with Infosys leading the rout."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/ipo/story/jio-platforms-ipo-approved-sebi-drhp-filing-today-reliance-agm-2026-2929802-2026-06-19",
-      "headline": "Mukesh Ambani announces Jio IPO, draft papers to be filed with Sebi todayAddressing shareholders at Reliance Industries' 49th Annual General Meeting (AGM), Ambani said Jio Platforms' draft red herring prospectus (DRHP) has been approved by the company's board and will be filed with market regulator Sebi later today."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-new-book-hitler-mao-stalin-comparison-historian-dave-king-2929800-2026-06-19",
-      "headline": "Trump shares 'historian's' note comparing him to Hitler. New book outs truthRecently, Donald Trump posted a two-page document by a 'historian' that compares his influence to some of the most notorious rulers like Hitler and Genghis Khan. However, a new book on Trump has disclosed a startling fact."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/neet-exam-news-last-minute-preparation-of-students-sikar-paper-leak-stress-mock-papers-2929711-2026-06-19",
-      "headline": "The last-minute frenzy of NEET-UG aspirants: Scared and sleepless, but hopefulAs the countdown to the June 21 NEET-UG re-exam enters its final phase, hostels, classrooms, and coaching corridors in Rajasthan's coaching city of Sikar have become arenas of relentless revision and quiet anxiety. Here's what's happening in India's NEET coaching capital."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/fifa-world-cup-2026-heat-impact-climate-change-player-performance-2929741-2026-06-19",
-      "headline": "FIFA World Cup 2026: Heat the new impact player at this year's tournament?A new analysis says climate change could affect playing conditions in most FIFA World Cup 2026 matches."
+      "url": "https://www.indiatoday.in/business/market/story/infosys-tcs-hcltech-shares-fall-after-accenture-cuts-revenue-growth-forecast-2929592-2026-06-19",
+      "headline": "Accenture warning sends Infosys, TCS and HCLTech tumbling. Here's whyMajor Indian IT stocks fell sharply after Accenture lowered the upper end of its annual revenue growth forecast. The sell-off has renewed concerns over weak discretionary spending, slower deal conversion and the pace of demand recovery."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/noida/story/eastern-peripheral-expressway-truck-drops-stones-wrong-side-greater-noida-video-2929712-2026-06-19",
-      "headline": "Watch: Truck flees after dumping stones on Noida highway, cops left clearing debrisAn overloaded truck allegedly sped away on the wrong side of the Eastern Peripheral Expressway, dropping stones onto the road. The viral video has drawn scrutiny after Noida transport officials denied involvement and Dadri Police said no complaint was received."
+      "url": "https://www.indiatoday.in/india/story/bihar-begusarai-gang-rape-case-sit-probes-family-claims-of-police-lapses-2929956-2026-06-19",
+      "headline": "Found her unconscious, tied: Sister-in-law recalls night of Bihar gang rapeThe survivor's sister-in-law recounted how the family found the woman unconscious after the alleged assault in Begusarai. Her account has intensified scrutiny of the initial police response as investigators examine forensic and medical evidence."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-sreesanth-harbhajan-slapgate-ring-fight-challenge-ad-row-2929574-2026-06-19",
-      "headline": "Sreesanth dares Harbhajan to ring fight: Have you got the guts?Sreesanth has openly challenged Harbhajan Singh to enter the ring after taking offence at an advertisement he says referenced the 2008 slapgate episode. The outburst drags one of Indian cricket's ugliest off-field rows back into view and raises fresh questions about profiting from old humiliation."
+      "url": "https://www.indiatoday.in/jobs/story/digital-nomadism-india-gen-z-remote-work-educ-2929941-2026-06-19",
+      "headline": "Goodbye cubicles? Why Gen Z is chasing the digital nomad dreamDigital nomadism is transforming the future of work as Gen Z professionals prioritise flexibility, experiences, and work-life balance over traditional careers. With remote work rising, places like Sikkim's Yakten are emerging as hubs for professionals choosing to work from anywhere."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-doha-diamond-league-live-streaming-main-challengers-new-style-2929624-2026-06-19",
+      "headline": "New season, new rival, own style: Neeraj Chopra eyes grand return in DohaNeeraj Chopra returns to action in Doha for the first time since an injury-marred eighth at last year's World Championships. The two-time Olympic medallist is fit again and chasing his own style, with Sri Lanka's Rumesh Pathirage arriving as the season's biggest threat."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/reliance-jio-developing-private-satellite-constellation-announces-akash-ambani-agm-2929835-2026-06-19",
-      "headline": "Reliance developing private satellite constellation, announces Akash AmbaniAkash Ambani said Reliance Jio is evaluating a sovereign LEO satellite constellation for India. The plan aligns with Jio's push to build ground infrastructure and expand connectivity to underserved areas."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-iran-deal-france-treaty-of-versailles-middle-east-war-us-250-anniversary-mid-term-elections-2929657-2026-06-19",
-      "headline": "Trump's peace deal carries the curse of Versailles. The 1919 treaty led to WW2Donald Trump signed the US-Iran memorandum at the Palace of Versailles in France, a venue of historical significance. It was here that the 1919 Treaty of Versailles formally ended World War I. The treaty helped create the conditions that eventually led to World War II. The same palace hosted Trump as he signed the deal with Iran."
+      "url": "https://www.indiatoday.in/india/story/chhattisgarh-driver-arrested-torturing-wife-drink-urine-shave-head-2929884-2026-06-19",
+      "headline": "Man ties up wife, shaves her head, forces children to urinate on her; arrestedA government vehicle driver in Chhattisgarh's Surajpur district was arrested for allegedly subjecting his wife to severe physical and mental torture, including assault, public humiliation, and forcing her to drink urine over suspicions of an affair."
     },
     {
       "sentiment": "positive",
@@ -321,6 +316,21 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-third-odi-nitish-reddy-available-arshdeep-rest-2930090-2026-06-19",
+      "headline": "Nitish Reddy in, Arshdeep Singh out? Ryan ten Doeschate hints at changes IND vs AFG, 3rd ODI: India are set to make a few changes for the third ODI against Afghanistan, with Nitish Reddy available for selection and Arshdeep Singh likely to be rested as the hosts chase a series whitewash in Chennai."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/akshara-gupta-vaibhav-sooryavanshi-bihar-womens-cricket-triple-century-2930013-2026-06-19",
+      "headline": "Not Sooryavanshi: Bihar finds another prodigy, 15-year-old hits triple century 15-year-old Akshara Gupta delivered a stunning performance in the Bihar Women's Under-19 One Day Trophy, scoring an unbeaten 306 off just 126 balls. With Vaibhav Sooryavanshi bringing attention to Bihar cricket, Akshara's rise further strengthens the state's reputation as a hub of young cricketing talent."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/yuvraj-singh-delhi-capitals-batting-coach-ipl-2027-sourav-ganguly-2929961-2026-06-19",
+      "headline": "Delhi Capitals to appoint Yuvraj Singh as batting coach after poor IPL 2026: Report Former India all-rounder Yuvraj Singh is set to join Delhi Capitals as their batting coach for the IPL 2027 season, marking his first coaching role in the league. The move is part of a major support staff overhaul, with Sourav Ganguly expected to take over as Director of Cricket."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-future-rcb-ceo-future-ipl-2929873-2026-06-19",
@@ -354,17 +364,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-test-cricket-revival-k-srikkanth-2929737-2026-06-19",
-      "headline": "Sooryavanshi can revive Test cricket if he succeeds in longer format: Srikkanth Former India captain Krishnamachari Srikkanth said Vaibhav Sooryavanshi has the potential to revive interest in Test cricket if he succeeds in the longest format, while urging fans and experts to give the 15-year-old time to develop."
+      "headline": "Sooryavanshi can revive Test cricket if he succeeds in longer format: SrikkanthFormer India captain Krishnamachari Srikkanth said Vaibhav Sooryavanshi has the potential to revive interest in Test cricket if he succeeds in the longest format, while urging fans and experts to give the 15-year-old time to develop."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-sarpreet-singh-first-sikh-new-zealand-indian-origin-footballers-2929699-2026-06-19",
-      "headline": "First Singh to play in FIFA World Cup: NZ's Sarpreet wants more Indians there FIFA World Cup 2026: Sarpreet Singh said his World Cup appearance for New Zealand carried deep meaning for his family and community. His milestone as the first Sikh on this stage has widened the conversation on South Asian representation in football."
+      "headline": "First Singh to play in FIFA World Cup: NZ's Sarpreet wants more Indians thereFIFA World Cup 2026: Sarpreet Singh said his World Cup appearance for New Zealand carried deep meaning for his family and community. His milestone as the first Sikh on this stage has widened the conversation on South Asian representation in football."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sreesanth-slams-india-coach-gautam-gambhir-backs-ms-dhoni-mentor-2929705-2026-06-19",
-      "headline": "Get MS Dhoni as mentor: Sreesanth says India do not need coach Gautam Gambhir Former India fast bowler S Sreesanth has criticised head coach Gautam Gambhir's role in the national team setup, saying India would be better off with a mentor like MS Dhoni rather than a traditional coach."
+      "headline": "Get MS Dhoni as mentor: Sreesanth says India do not need coach Gautam GambhirFormer India fast bowler S Sreesanth has criticised head coach Gautam Gambhir's role in the national team setup, saying India would be better off with a mentor like MS Dhoni rather than a traditional coach."
     },
     {
       "sentiment": "positive",
@@ -450,21 +460,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/elye-wahi-canada-entry-cleared-amid-french-betting-probe-ivory-coast-2929514-2026-06-19",
       "headline": "Ivory Coast's Elye Wahi gets Canada entry despite spot-fixing probeIvory Coast forward Elye Wahi has been cleared to travel to Canada after his authorisation came through. The late approval arrived amid a French betting investigation, though he has not been named a suspect."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-canada-vs-qatar-live-score-updates-mexico-vs-south-korea-2929516-2026-06-19",
-      "headline": "MEX 1-0 KOR Highlights: Mexcio qualifies for Round of 32 after edging past South KoreaMexico (MEX) vs South Korea (KOR) Highlights, FIFA World Cup 2026: Mexico have completed their qualification for the round of 32 after edging past South Korea after taking the lead from a clumsy keeping effor by Korean keeper allowing Luis Romo to put it in the back of the net."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-nz-glenn-phillips-century-matt-henry-england-new-zealand-second-test-oval-2929507-2026-06-19",
-      "headline": "ENG vs NZ: Glenn Phillips, Matt Henry turn the screws on England at the OvalENG vs NZ, 2nd Test Day 2: Glenn Phillips scored his maiden Test century and Matt Henry struck twice as New Zealand moved ahead on day two at The Oval. England closed on 222 for six, still 169 behind and under pressure in the second Test."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-anthem-protocol-changed-after-thomas-tuchel-photographer-complaint-2929508-2026-06-19",
-      "headline": "Thomas Tuchel crashout forces FIFA to change World Cup anthem protocolThomas Tuchel's complaint about blocked views during the national anthem prompted FIFA to reposition photographers at World Cup 2026 venues. The change followed England's win over Croatia in Dallas and addressed a pre-match issue caused by the stadium layout."
     }
   ],
   "education": [
