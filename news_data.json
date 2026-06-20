@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shraddha-kapoor-brother-siddhanth-in-tears-eetha-teaser-tamasha-lavani-artiste-vithabai-bhau-mang-narayangaonkar-2930692-2026-06-20",
+      "headline": "Shraddha Kapoor's brother can't hold back tears after Eetha teaser: My jaan sister Actor Shraddha Kapoor's brother Siddhanth shared an emotional reaction after watching the teaser of her upcoming film Eetha. His message came as the first glimpse of the film drew praise online for Shraddha's transformation."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/barun-sobti-farah-khan-rare-home-tour-youtube-channel-vlog-viewers-divided-2930651-2026-06-20",
       "headline": "Why Barun Sobti's rare home tour with Farah Khan has viewers divided Actor Barun Sobti's appearance on Farah Khan's cooking vlog set off a split online reaction. While some viewers questioned his behaviour, fans said fatigue after months of shooting explained it."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/allu-arjun-fulfils-shraddha-make-a-wish-pushpa-moment-before-court-appearance-2930213-2026-06-19",
       "headline": "Allu Arjun brings smiles to young leukaemia patient's day, recreates Pushpa scene Allu Arjun met a young leukaemia patient and recreated popular Pushpa moments with her. The widely shared interaction comes as he is set to appear in a Hyderabad court on June 22 in the Sandhya Theatre stampede case."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/anne-hathaway-43-is-pregnant-with-her-third-child-2930172-2026-06-19",
-      "headline": "Anne Hathaway, 43, is pregnant with her third child Anne Hathaway has announced that she is expecting her third child with husband Adam Shulman. The social media reveal comes as she balances a packed film slate and busy family life."
     }
   ],
   "general news": [
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-hindus-protest-dhaka-lord-ram-image-desecration-islamists-2930350-2026-06-20",
-      "headline": "Chaos in Dhaka as Hindus hold massive protest, raise Jai Shri Ram chantsThousands of Hindus marched in Dhaka protesting the alleged desecration of a Lord Ram image and the halting of a statue project. The protests renewed focus on minority rights concerns in Muslim-majority Bangladesh."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttarakhand-champawat-sog-officer-girish-bhatt-dies-after-collapsing-during-gym-workout-2930663-2026-06-20",
-      "headline": "Video: Uttarakhand cop, 38, collapses during workout at gym, diesIn Uttarakhand's Champawat, SOG officer Girish Bhatt collapsed while working out at a gym and was declared dead at a hospital. His death has prompted widespread grief and fresh discussion around sudden medical emergencies during intense exercise."
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-netherlands-vs-sweden-live-score-updates-germany-vs-ivory-coast-2930702-2026-06-20",
+      "headline": "NED 4-0 SWE, Live: Gakpo double piles on misery for SwedesNetherlands (NED) vs Sweden (SWE), FIFA World Cup 2026 Live score and updates: NED 4-0 SWE, The Dutch have made a dream start to the second half, just as they did in the first. Cody Gakpo strikes moments after the restart to extend the Netherlands' advantage and put them firmly in control of this Group F contest."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/5-feared-dead-after-under-construction-roof-collapses-at-temple-in-maharashtra-40-pilgrims-trapped-in-rubble-2930537-2026-06-20",
-      "headline": "6 dead as roof collapses at Maharashtra temple; 40 pilgrims trappedSix people are dead and around 40 devotees remain trapped after the roof of an under-construction sabha mandap collapsed at Yashwadi Maruti Temple in Maharashtra's Parbhani district on Saturday."
+      "url": "https://www.indiatoday.in/india/story/pak-presidents-remarks-on-religious-sites-in-india-absurd-given-paks-abysmal-human-rights-record-govt-2930736-2026-06-20",
+      "headline": "Absurd remarks: Govt slams Pak President's comments on religious sites in IndiaThe Ministry of External Affairs was responding to a statement by the Pakistan President, in which he expressed \"deep concern\" over alleged threats to historic Muslim religious sites in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/ananth-technologies-india-first-private-communication-satellite-2029-launch-ananthsat1-ka-band-science-news-2930511-2026-06-20",
+      "headline": "Indian firm reveals when it will launch country's 1st private communication satelliteAnanth Technologies is building AnanthSat-1, India's first privately made communication satellite. Chairman Dr Subba Rao Pavuluri told IndiaToday.in it will carry more than 100 Gbps to widen broadband, tele-education and telemedicine across remote India."
     },
     {
       "sentiment": "positive",
@@ -246,13 +246,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/interviews/story/paranormal-investigator-on-indias-haunted-places-bollywood-myths-and-why-bhangarh-is-overrated-the-conjuring-2930376-2026-06-20",
-      "headline": "What an Indian paranormal investigator learnt after a decade of chasing ghost storiesParanormal investigator Sarbajeet Mohanty explains how his team tests haunting claims through scientific methods. He says most cases have natural explanations, while folklore and fear often fill the gaps."
+      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-congress-row-modi-remarks-indian-sailors-g7-2930716-2026-06-20",
+      "headline": "Admiration for PM has gone beyond physical world: Congress mocks TharoorCongress took a swipe at Shashi Tharoor over his remarks on PM Modi and Indian sailors, with Tharoor clarifying he was citing published reports while Pawan Khera took a swipe saying he now seemed \"capable of hearing what Modi doesn't even say.\""
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/iuml-quits-dmk-alliance-joins-vijay-tvk-for-tamil-nadu-local-body-polls-2930611-2026-06-20",
-      "headline": "TVK ally IUML ends 60-year alliance with DMK, backs Vijay's party for local pollsIUML has quit the DMK-led alliance in Tamil Nadu and joined Vijay's TVK for the local body polls. The shift ends a nearly six-decade partnership and resets alliance equations ahead of the elections."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-hindus-protest-dhaka-lord-ram-image-desecration-islamists-2930350-2026-06-20",
+      "headline": "Chaos in Dhaka as Hindus hold massive protest, raise Jai Shri Ram chantsThousands of Hindus marched in Dhaka protesting the alleged desecration of a Lord Ram image and the halting of a statue project. The protests renewed focus on minority rights concerns in Muslim-majority Bangladesh."
     },
     {
       "sentiment": "positive",
@@ -266,23 +266,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/ananth-technologies-india-first-private-communication-satellite-2029-launch-ananthsat1-ka-band-science-news-2930511-2026-06-20",
-      "headline": "Indian firm reveals when it will launch country's 1st private communication satelliteAnanth Technologies is building AnanthSat-1, India's first privately made communication satellite. Chairman Dr Subba Rao Pavuluri told IndiaToday.in it will carry more than 100 Gbps to widen broadband, tele-education and telemedicine across remote India."
+      "url": "https://www.indiatoday.in/india/story/neet-aspirant-suicide-ghaziabad-uttar-pradesh-jatin-video-no-one-responsible-2930493-2026-06-20",
+      "headline": "Couldn't clear NEET many times: Aspirant dies by suicide 2 days before re-examA 22-year-old medical aspirant, Jatin Kumar, was found dead at his Ghaziabad home two days before the NEET-UG exam. In a video recorded shortly before his death, he said no one should be held responsible and referred to his repeated inability to clear the examination."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-yashasvi-jaiswal-india-vs-afghanistan-3rd-odi-match-report-2930671-2026-06-20",
-      "headline": "Jaiswal steals Rohit's thunder as India rout Afghanistan 3-0 in ODI seriesYashasvi Jaiswal hit a splendid 110* in the final match of India's ODI series against Afghanistan. Jaiswal's innings stole the thunder from two terrific performances on the day - first by Prasidh Krishna, and then by Rohit Sharma."
+      "url": "https://www.indiatoday.in/india/story/uttarakhand-champawat-sog-officer-girish-bhatt-dies-after-collapsing-during-gym-workout-2930663-2026-06-20",
+      "headline": "Video: Uttarakhand cop, 38, collapses during workout at gym, diesIn Uttarakhand's Champawat, SOG officer Girish Bhatt collapsed while working out at a gym and was declared dead at a hospital. His death has prompted widespread grief and fresh discussion around sudden medical emergencies during intense exercise."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/5-feared-dead-after-under-construction-roof-collapses-at-temple-in-maharashtra-40-pilgrims-trapped-in-rubble-2930537-2026-06-20",
+      "headline": "6 killed, 18 pilgrims injured after pillar collapses at Maharashtra templeSix people were killed and 18 others injured after a stone pillar of an under-construction sabha mandap collapsed at the Yashwadi Hanuman Temple in Maharashtra's Parbhani district on Saturday, trapping devotees under the debris."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/faridabad-man-death-police-await-post-mortem-after-family-links-illness-to-frooti-2930507-2026-06-20",
-      "headline": "33-year-old Faridabad man dies after consuming Frooti to break his fastA 33-year-old man died in Faridabad after allegedly falling ill following the consumption of a Frooti drink while breaking his fast. Police said the exact cause of death will be confirmed only after the post-mortem report is received."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/in-depth/story/my-experience-of-filling-e85-fuel-the-most-unusual-visit-to-a-pump-2930247-2026-06-20",
-      "headline": "My experience of filling E85 fuel: The most unusual visit to a pumpE85 is India's cheapest petrol blend, but very few vehicles can use it. Curious about its real-world benefits, I filled it in a flex-fuel bike and had an unexpectedly unusual experience."
+      "url": "https://www.indiatoday.in/lifestyle/interviews/story/paranormal-investigator-on-indias-haunted-places-bollywood-myths-and-why-bhangarh-is-overrated-the-conjuring-2930376-2026-06-20",
+      "headline": "What an Indian paranormal investigator learnt after a decade of chasing ghost storiesParanormal investigator Sarbajeet Mohanty explains how his team tests haunting claims through scientific methods. He says most cases have natural explanations, while folklore and fear often fill the gaps."
     },
     {
       "sentiment": "positive",
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-re-test-nagpur-student-allotted-abu-dhabi-exam-centre-2930485-2026-06-20",
-      "headline": "NEET UG re-test 2026: NTA denies centre mix-up, says candidate chose Abu DhabiAhead of the NEET UG 2026 re-test, a Nagpur student was reportedly allotted an exam centre in Abu Dhabi, sparking concerns. However, the NTA clarified that the candidate had selected Abu Dhabi and that it promptly acted on a later request to shift the centre to Nagpur."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/iuml-quits-dmk-alliance-joins-vijay-tvk-for-tamil-nadu-local-body-polls-2930611-2026-06-20",
+      "headline": "TVK ally IUML ends 60-year alliance with DMK, backs Vijay's party for local pollsIUML has quit the DMK-led alliance in Tamil Nadu and joined Vijay's TVK for the local body polls. The shift ends a nearly six-decade partnership and resets alliance equations ahead of the elections."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/indian-football-federation-name-change-aiff-2930634-2026-06-20",
-      "headline": "Indian football is in chaos. AIFF's latest move is changing its nameThe AIFF has approved a proposal to rename itself the Football Federation of Bharat, subject to clearances. The move comes as the federation is still working through the Indian Super League's future structure."
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-yashasvi-jaiswal-india-vs-afghanistan-3rd-odi-match-report-2930671-2026-06-20",
+      "headline": "Jaiswal steals Rohit's thunder as India rout Afghanistan 3-0 in ODI seriesYashasvi Jaiswal hit a splendid 110* in the final match of India's ODI series against Afghanistan. Jaiswal's innings stole the thunder from two terrific performances on the day - first by Prasidh Krishna, and then by Rohit Sharma."
     },
     {
       "sentiment": "positive",
@@ -311,16 +311,41 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/india-inc-is-failing-the-country-in-ai-and-deep-tech-due-to-its-dhandho-mindset-2930312-2026-06-20",
-      "headline": "India Inc is failing the country in AI and deep tech due to its dhandho mindsetAs the US moves to restrict top AI models, and the world transitions to an AI and deep tech economy, India is staring at some grave challenges. The blame, not entirely but largely, lies with India Inc and its dhandho mindset."
+      "url": "https://www.indiatoday.in/india/story/faridabad-man-death-police-await-post-mortem-after-family-links-illness-to-frooti-2930507-2026-06-20",
+      "headline": "33-year-old Faridabad man dies after consuming Frooti to break his fastA 33-year-old man died in Faridabad after allegedly falling ill following the consumption of a Frooti drink while breaking his fast. Police said the exact cause of death will be confirmed only after the post-mortem report is received."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/jd-vance-pakistan-press-freedom-us-iran-peace-deal-terms-2930430-2026-06-20",
-      "headline": "Pak doesn't have press freedom: Vance on delay in releasing Iran deal termsUS Vice President JD Vance said the US delayed releasing the full text of its MoU with Iran partly because Pakistan and Qatar lack freedom of the press like America. Vance's remarks come as another major embarrassment for Pakistan."
+      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-re-test-nagpur-student-allotted-abu-dhabi-exam-centre-2930485-2026-06-20",
+      "headline": "NEET UG re-test 2026: NTA denies centre mix-up, says candidate chose Abu DhabiAhead of the NEET UG 2026 re-test, a Nagpur student was reportedly allotted an exam centre in Abu Dhabi, sparking concerns. However, the NTA clarified that the candidate had selected Abu Dhabi and that it promptly acted on a later request to shift the centre to Nagpur."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-parul-chaudhary-best-athletes-afi-awards-2026-2930763-2026-06-20",
+      "headline": "Neeraj Chopra and Parul Chaudhary win top honours at Indian Athletics Awards Neeraj Chopra and Parul Chaudhary bagged the top honours at the inaugural Indian Athletics Awards, while legendary sprinter P T Usha was recognised with the Lifetime Achievement Award."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-shubman-gill-fitness-india-odi-squad-england-2930752-2026-06-20",
+      "headline": "Has Jaiswal done enough to earn England ODI call-up? Shubman Gill reveals IND vs AFG, 3rd ODI: Yashasvi Jaiswal was sensational in the third ODI on Saturday at the Chepauk, helping India win the series 3-0. But will the knock be good enough to earn him a ticket to England?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-vs-pakistan-womens-t20-world-cup-pakistan-near-exit-loss-2930725-2026-06-20",
+      "headline": "Pakistan Women face early exit threat after batting shocker vs Bangladesh Women's T20 World Cup, PAK vs BAN: Pakistan are in danger of making an early exit from the tournament after losing to Nigar Sultana Joty's Bangladesh by 20 runs on Saturday at the Rose Bowl in Southampton."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/tilak-varma-vaibhav-sooryavanshi-fight-india-a-vs-sri-lanka-a-final-2930712-2026-06-20",
+      "headline": "Tilak Varma breaks silence on ugly Super Over spat on Tri-Nation tour India A captain Tilak Varma addressed the controversial Super Over defeat to Sri Lanka A for the first time, saying the team only questioned continuing play under fading light and had no intention of creating unnecessary arguments with officials."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-netherlands-vs-sweden-live-score-updates-germany-vs-ivory-coast-2930702-2026-06-20",
+      "headline": "NED 2-0 SWE, Live: Dutch hold lead but Swedes keep fighting Netherlands (NED) vs Sweden (SWE), FIFA World Cup 2026 Live score and updates: NED 2-0 SWE, The Dutch have taken the early lead with Brian Brobbey getting the early breakthrough at Houston."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/aryna-sabalenka-berlin-open-loss-jessica-pegula-wimbledon-concerns-2930695-2026-06-20",
@@ -349,27 +374,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/indian-football-federation-name-change-aiff-2930634-2026-06-20",
-      "headline": "Indian football is in chaos. AIFF's latest move is changing its name The AIFF has approved a proposal to rename itself the Football Federation of Bharat, subject to clearances. The move comes as the federation is still working through the Indian Super League's future structure."
+      "headline": "Indian football is in chaos. AIFF's latest move is changing its nameThe AIFF has approved a proposal to rename itself the Football Federation of Bharat, subject to clearances. The move comes as the federation is still working through the Indian Super League's future structure."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-3rd-odi-shahidi-century-penalty-runs-omarzai-2930608-2026-06-20",
-      "headline": "5 runs gift, 2 no balls, 2 wides: Afghanistan hit bottom in ODI series vs India IND vs AFG, 3rd ODI: Afghanistan endured a tough outing on Saturday at the Chepauk after they were penalised five runs and Azmatullah Omarzai bowled a nightmare first over where he leaked 23 runs."
+      "headline": "5 runs gift, 2 no balls, 2 wides: Afghanistan hit bottom in ODI series vs IndiaIND vs AFG, 3rd ODI: Afghanistan endured a tough outing on Saturday at the Chepauk after they were penalised five runs and Azmatullah Omarzai bowled a nightmare first over where he leaked 23 runs."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-prasidh-krishna-bowling-2930602-2026-06-20",
-      "headline": "Chepauk roars for Prasidh Krishna as fast bowler stakes claim for World Cup 2027 Prasidh Krishna produced a devastating spell in the Chennai heat to register his maiden ODI five-wicket haul against Afghanistan. This should strengthen his case for India's plans leading into the ODI World Cup 2027."
+      "headline": "Chepauk roars for Prasidh Krishna as fast bowler stakes claim for World Cup 2027Prasidh Krishna produced a devastating spell in the Chennai heat to register his maiden ODI five-wicket haul against Afghanistan. This should strengthen his case for India's plans leading into the ODI World Cup 2027."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-womens-t20-world-cup-smriti-mandhana-shafali-verma-2930538-2026-06-20",
-      "headline": "Smriti Mandhana, Shafali Verma brace for trial by fire against South Africa pacers Veteran pacer Shikha Pandey believes India openers Smriti Mandhana and Shafali Verma will face their toughest challenge of the Women's T20 World Cup against South Africa's formidable pace attack led by Shabnim Ismail and Marizanne Kapp."
+      "headline": "Smriti Mandhana, Shafali Verma brace for trial by fire against South Africa pacersVeteran pacer Shikha Pandey believes India openers Smriti Mandhana and Shafali Verma will face their toughest challenge of the Women's T20 World Cup against South Africa's formidable pace attack led by Shabnim Ismail and Marizanne Kapp."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-new-zealand-vs-ireland-suzie-bates-win-2930500-2026-06-20",
-      "headline": "New Zealand Women refuse to panic as faith in their process finally pays off Women's T20 World Cup, NZ vs IRE: New Zealand found themselves in deep trouble after their batters came out firing in the powerplay but lost wickets in quick succession. However, the White Ferns showed plenty of character to recover from the early collapse and eventually edged past Ireland by four runs in a tense contest in Southampton on Friday."
+      "headline": "New Zealand Women refuse to panic as faith in their process finally pays offWomen's T20 World Cup, NZ vs IRE: New Zealand found themselves in deep trouble after their batters came out firing in the powerplay but lost wickets in quick succession. However, the White Ferns showed plenty of character to recover from the early collapse and eventually edged past Ireland by four runs in a tense contest in Southampton on Friday."
     },
     {
       "sentiment": "positive",
@@ -430,36 +455,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/brazil-vs-haiti-raphinha-injury-scare-world-cup-group-c-win-2930289-2026-06-20",
       "headline": "FIFA World Cup: Brazil suffer Raphinha injury scare in Haiti winBrazil suffered an injury scare during their FIFA World Cup 2026 Group C clash against Haiti after forward Raphinha was forced off in the first half at Philadelphia Stadium on Friday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/brazil-crush-haiti-3-0-cunha-brace-world-cup-2026-2930280-2026-06-20",
-      "headline": "Brazil crush Haiti 3-0 as Matheus Cunha's brace sparks first winBrazil climbed to the top of Group C and kickstarted their FIFA World Cup campaign with a commanding 3-0 win over Haiti in Philadelphia on Friday, thanks to a first-half masterclass from Matheus Cunha and Vinicius Junior."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-3rd-odi-jaiswal-nitish-reddy-chennai-preview-2930197-2026-06-20",
-      "headline": "Yashasvi Jaiswal in focus as India eye ODI series sweep against AfghanistanIndia vs Afghanistan 3rd ODI preview: India may have already wrapped up the ODI series against Afghanistan, but all eyes will be on Yashasvi Jaiswal in the third and final match. The left-handed opener will be eager to make a statement after managing just four runs in the second ODI in Lucknow and will look to capitalise on another opportunity to post a substantial score in Chennai."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-red-card-row-argentina-vs-algeria-complain-fifa-world-cup-2930270-2026-06-20",
-      "headline": "Lionel Messi red card debate grows as Algeria lodge FIFA complaintFIFA World Cup 2026: Algeria have written to FIFA over refereeing decisions in their 3-0 defeat to Argentina, including a challenge by Lionel Messi on Aissa Mandi. The complaint has widened the debate over VAR and disciplinary consistency at the tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-morocco-vs-scotland-ismael-saibari-71-second-goal-match-report-2930267-2026-06-20",
-      "headline": "Saibari's 71-second strike sends Morocco marching on with 1-0 win vs ScotlandFIFA World Cup 2026: Ismael Saibari scored after 71 seconds as Morocco beat Scotland 1-0 in Boston. The result took Morocco to four points and left Scotland needing a result against Brazil."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-shreyanka-patil-ankle-injury-india-spinner-2930114-2026-06-20",
-      "headline": "Shreyanka Patil and cruel cycle of injuries that keeps haunting herWomen's T20 World Cup: It was only earlier this year that Shreyanka Patil made her return to the India setup after a lengthy spell on the sidelines caused by a finger injury and shin splints. Now, the 23-year-old has suffered another setback, having twisted her ankle during India's match against the Netherlands."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/brazil-vs-haiti-fifa-world-cup-2026-live-score-updates-vinicius-turkiye-vs-paraguay-2930264-2026-06-20",
-      "headline": "TUR 0 vs 1 PAR HIGHLIGHTS: Turkiye crashes out of World CupTurkiye (TUR) vs Paraguay (PAR) Highlights, FIFA World Cup 2026: (TUR 0-1 PAR). Paraguay beat Turkiye, sending them crashing out of the World Cup. However, it was Almiron's red card in injury time of the first half for covering his mouth during a confrontation with an opponent. Earlier, Brazil cruised to a comfortable win after a dominant first-half display against Haiti in Philadelphia. Matheus Cunha starred along with Vinicius Junior to give the five-time champions three points and go top of Group C."
     }
   ],
   "education": [
