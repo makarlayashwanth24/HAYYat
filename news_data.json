@@ -104,6 +104,21 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/1920-cold-winter-vikram-bhatt-announces-new-horror-film-after-haunted-3d-echoes-of-the-past-2930502-2026-06-20",
+      "headline": "1920 Cold Winter: Vikram Bhatt announces new horror film after Haunted 3D Filmmaker Vikram Bhatt and producer Anand Pandit announced 1920: Cold Winter with a first-look poster. The film follows the strong run of Haunted 3D: Echoes of the Past and takes the franchise into its sixth chapter."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-samantha-thrilled-by-maa-inti-bangaarams-opening-praises-female-audience-2930487-2026-06-20",
+      "headline": "Actor Samantha thrilled by Maa Inti Bangaaram's opening, praises female audience Actor Samantha thanked audiences after her latest release, Maa Inti Bangaaram, grossed Rs 13.15 crore worldwide on its opening day."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-rukmini-vasanth-deepfake-row-bengaluru-cyber-police-arrests-3-accused-2930444-2026-06-20",
+      "headline": "Actor Rukmini Vasanth deepfake row: Bengaluru cyber police arrests 3 accused Bengaluru Cyber Crime Police have arrested three accused for allegedly creating and sharing AI-generated visuals of actor Rukmini Vasanth."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/indias-got-latent-2-premiere-alia-bhatt-sharvari-first-episode-netflix-youtube-2930426-2026-06-20",
       "headline": "Alpha duo Alia Bhatt, Sharvari to kick off Samay Raina's Latent 2 premiere episode Actors Alia Bhatt and Sharvari Wagh will appear as special guests on the first episode of Samay Raina's India's Got Latent Season 2. The episode will premiere today, June 20 at 7 pm on Netflix and YouTube."
     },
@@ -181,21 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/meet-ott-series-prime-video-raakh-breakout-star-ramandeep-yadav-rajjo-played-cricket-arshdeep-singh-2929906-2026-06-19",
       "headline": "Meet Raakh's breakout star Ramandeep, who once played cricket with Arshdeep Singh Acor Ramandeep Yadav recalled landing Prime Video's Raakh when he was close to leaving Mumbai. The role has become his breakthrough after years of rejection and an intense journey into Rajjo's mind."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ameesha-patel-feared-age-gap-with-sunny-deol-in-gadar-questioned-if-it-was-appropriate-2930020-2026-06-19",
-      "headline": "Ameesha Patel: Bollywood must question unjustified age-gap romances Actor Ameesha Patel said she initially questioned being paired opposite co-star Sunny Deol in Gadar because of their age difference. She added that age-gap romances work only when the story genuinely justifies them."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/the-social-reckoning-trailer-jeremy-allen-white-fights-to-expose-mark-zuckerberg-2929998-2026-06-19",
-      "headline": "The Social Reckoning trailer: Jeremy Allen White fights to expose Mark Zuckerberg The trailer for The Social Reckoning introduces Jeremy Strong as Mark Zuckerberg in Aaron Sorkin's new film. It follows Frances Haugen and Jeff Horwitz as the drama revisits the events behind The Facebook Files."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/nooru-sami-review-swasika-vijay-antony-sasi-widow-remarriage-drama-2930067-2026-06-19",
-      "headline": "Nooru Sami review: Director Sasi's remarriage drama means well, but trips oftenRelease Date:Fri Jun 19, 2026 Nooru Sami movie review: Director Sasi's Nooru Sami, starring Swasika, Ajay Dhishan and Vijay Antony, is a well-intentioned drama that explores remarriage. While the story great potential, it has many shortcomings in terms of its presentation."
     }
   ],
   "general news": [
@@ -211,8 +211,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/monsoon-rain-to-wake-up-after-days-of-slumber-clouds-set-to-regain-strength-2930030-2026-06-20",
-      "headline": "Monsoon rain: Clouds to begin gaining strength after weeks of deep sleepThe southwest monsoon is showing signs of revival, with rain clouds strengthening over Central India. The shift could ease rainfall deficits and support kharif sowing as thunderstorms build across the region."
+      "url": "https://www.indiatoday.in/india/bihar/story/muzaffarpur-honour-killing-sujata-kumari-husband-social-media-plea-2930423-2026-06-20",
+      "headline": "Find my wife's killers or I'll die: Man's threat leads to probe. Then a revelationA Bihar man's repeated appeals and threat to end his life led police to uncover the alleged honour killing of his 19-year-old wife. Investigators say she was strangled by family members over an inter-caste marriage and her body burned to destroy evidence."
     },
     {
       "sentiment": "positive",
@@ -227,22 +227,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-live-score-3rd-odi-ind-afg-match-chennai-rohit-2930404-2026-06-20",
-      "headline": "IND vs AFG Live, 3rd ODI: Prasidh strikes early to remove in-form GurbazIndia (IND) vs Afghanistan (AFG) 3rd ODI Live Score: AFG (22/1 in 5 ov). Prasidh Krishna gave India the perfect start by dismissing the in-form Rahmanullah Gurbaz early after Afghanistan captain Hashmatullah Shahidi won the toss and elected to bat in the third and final ODI."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-re-exam-nagpur-student-allotted-abu-dhabi-centre-nta-promises-fix-2930300-2026-06-20",
-      "headline": "NEET UG re-test 2026: NTA allots Abu Dhabi centre to Nagpur studentA Nagpur student was mistakenly allotted an Abu Dhabi examination centre for the NEET UG 2026 re-exam despite selecting centres in Maharashtra. The error sparked fresh criticism of the NTA, which later acknowledged a technical glitch and promised a revised admit card."
+      "headline": "3rd ODI Live: Nabi departs, India regain control in ChennaiIndia (IND) vs Afghanistan (AFG) 3rd ODI Live Score: AFG (156/5 in 31 ov). Azmatullah Omarzai has lost his wicket after rebuilding Afghanistan's innings. Veteran Mohammed Nabi has joined captain Hashmatullah Omarzai in the middle. Earlier, Prasidh Krishna ran riot with the new ball and cleaned up the team's top order."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/in-depth/story/my-experience-of-filling-e85-fuel-the-most-unusual-visit-to-a-pump-2930247-2026-06-20",
-      "headline": "My experience of filling E85 fuel: The most unusual visit to a pumpE85 is India's cheapest petrol blend, but very few vehicles can use it. Curious about its real-world benefits, I filled it in a flex-fuel bike and had an unexpectedly unusual experience."
+      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-re-test-nagpur-student-allotted-abu-dhabi-exam-centre-2930485-2026-06-20",
+      "headline": "NEET UG re-test 2026: NTA denies centre mix-up, says candidate chose Abu DhabiAhead of the NEET UG 2026 re-test, a Nagpur student was reportedly allotted an exam centre in Abu Dhabi, sparking concerns. However, the NTA clarified that the candidate had selected Abu Dhabi and that it promptly acted on a later request to shift the centre to Nagpur."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/neet-aspirant-suicide-ghaziabad-uttar-pradesh-jatin-video-no-one-responsible-2930493-2026-06-20",
+      "headline": "Couldn't clear NEET many times: Aspirant dies by suicide 2 days before re-examA 22-year-old medical aspirant, Jatin Kumar, was found dead at his Ghaziabad home two days before the NEET-UG exam. In a video recorded shortly before his death, he said no one should be held responsible and referred to his repeated inability to clear the examination."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/interviews/story/paranormal-investigator-on-indias-haunted-places-bollywood-myths-and-why-bhangarh-is-overrated-the-conjuring-2930376-2026-06-20",
-      "headline": "Paranormal investigator on India's haunted places, Bollywood myths and why Bhangarh is overratedParanormal investigator Sarbajeet Mohanty explains how his team tests haunting claims through scientific methods. He says most cases have natural explanations, while folklore and fear often fill the gaps."
+      "headline": "What an Indian paranormal investigator learnt after a decade of chasing ghost storiesParanormal investigator Sarbajeet Mohanty explains how his team tests haunting claims through scientific methods. He says most cases have natural explanations, while folklore and fear often fill the gaps."
     },
     {
       "sentiment": "positive",
@@ -251,13 +251,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sanjay-raut-shiv-sena-ubt-mps-revolt-cryptic-post-amid-eknath-shinde-defection-buzz-2930401-2026-06-20",
-      "headline": "Sanjay Raut's post on dogs and loyalty amid revolt by Sena MPsWith six Uddhav Sena MPs poised to switch camps, party leader Sanjay Raut stepped up his attack on the rebels, posting a cryptic social media message questioning their loyalty."
+      "url": "https://www.indiatoday.in/india/story/amit-shah-says-eknath-shinde-leads-only-shiv-sena-amid-ubt-rebellion-2930499-2026-06-20",
+      "headline": "Only one Shiv Sena led by Eknath Shinde: Amit Shah's dig at UBT amid rebellion buzzUnion Home Minister Amit Shah said there is now only one Shiv Sena under Eknath Shinde, taking a swipe at Uddhav Thackeray amid a rebellion within Shiv Sena (UBT)."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/pune/story/lohagad-fort-accident-pune-man-ketan-agarwal-dies-after-400-foot-fall-2930335-2026-06-20",
-      "headline": "Pune man, on trek with fianc\u00e9e, falls into 400-foot gorge while taking photos; diesKetan Vishal Agarwal fell nearly 400 feet into a gorge at Lohagad Fort while taking photographs during an outing with his fianc\u00e9e and friends. The accident, months before his November wedding, left both families devastated as police continued their enquiry."
+      "url": "https://www.indiatoday.in/auto/in-depth/story/my-experience-of-filling-e85-fuel-the-most-unusual-visit-to-a-pump-2930247-2026-06-20",
+      "headline": "My experience of filling E85 fuel: The most unusual visit to a pumpE85 is India's cheapest petrol blend, but very few vehicles can use it. Curious about its real-world benefits, I filled it in a flex-fuel bike and had an unexpectedly unusual experience."
     },
     {
       "sentiment": "positive",
@@ -266,23 +266,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-ruled-out-india-vs-england-odis-fitness-concerns-2930398-2026-06-20",
-      "headline": "Hardik Pandya ruled out of England ODIs, needs more time to regain fitnessIndia all-rounder Hardik Pandya has been ruled out of the upcoming ODI series against England after failing to attain the required fitness levels for 50-over cricket."
+      "url": "https://www.indiatoday.in/india/story/shiv-sena-uddhav-thackeray-warns-six-mp-disqualification-operation-tiger-2930494-2026-06-20",
+      "headline": "Explain or face disqualification: Uddhav Sena's warning to MPs who skipped meetShiv Sena (UBT) has issued show-cause notices to six Lok Sabha MPs who skipped its Delhi meeting. The move sharpens a looming split amid claims they may shift to Eknath Shinde's camp."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/rbi-mis-selling-rules-banks-forced-insurance-policy-buying-bundling-dark-patterns-complaints-policy-rejection-2930417-2026-06-20",
-      "headline": "Why RBI drew the line on mis-selling by banksThe RBI has issued its strongest framework yet against mis-selling by banks and regulated entities. The regulations target dark patterns, forced bundling and unsuitable sales while shifting accountability to institutions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-boss-remark-pm-modi-g7-summit-axios-interview-2930299-2026-06-20",
-      "headline": "All world leaders believed it: Trump reveals reason behind 'boss' remarkIn an Axios interview, Donald Trump explained his viral 'I am the boss' remark from the G7 Summit in France. He said it was a funny, light-hearted moment as the comment drew wide attention."
+      "url": "https://www.indiatoday.in/world/story/donald-trump-benjamin-netanyahu-ties-trump-says-he-keeps-israeli-pm-sane-iran-tehran-lebanon-israel-2930467-2026-06-20",
+      "headline": "I've great relationship with him, but need to keep him sane: Trump on NetanyahuDonald Trump said he has to keep Benjamin Netanyahu 'a little bit sane' while discussing Israel's military options after Iran. The remark highlighted Trump's claim that he can shape Israeli decisions as tensions stay high in the region."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/leopard-attacks-stray-dog-inside-iit-bombay-campus-shocking-moment-caught-on-camera-2930326-2026-06-20",
-      "headline": "Leopard enters IIT Bombay campus, kills stray dog. Shocking moment on cameraA leopard was caught on CCTV attacking a stray dog inside the IIT-Bombay campus in Powai. The sighting has led authorities to tighten surveillance and renewed focus on human-wildlife encounters near the national park."
+      "url": "https://www.indiatoday.in/india/story/ram-temple-silver-missing-sit-probes-60-kg-bars-absent-from-ayodhya-donation-records-2930448-2026-06-20",
+      "headline": "Exclusive: 60-kg silver vanishes from Ram temple donation records, cops on trailThe SIT is trying to trace 60 kg of silver bars donated to the Ram temple during the consecration ceremony. The missing entries have widened the donations probe and intensified scrutiny of temple records."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/india-space-startups-navic-isro-satellites-surveillance-navigation-gps-alternative-science-news-2930272-2026-06-20",
+      "headline": "Isro's NavIC isn't alone. Indian startups are building eyes and ears in spaceAt the 2026 India Space Congress, private Indian firms unveiled satellites to observe the Earth, intercept signals and provide navigation that does not depend on foreign systems. Some of these startups say they want to strengthen Isro's NavIC, not replace it."
     },
     {
       "sentiment": "positive",
@@ -290,9 +290,9 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-qatari-air-force-one-nato-summit-boeing-delay-ptag-2930263-2026-06-20",
-      "headline": "Trump unveils new Air Force One gifted by Qatar: Luxury never seen beforeUS President Donald Trump unveiled a jumbo jet gifted by Qatar as the new Air Force One. The aircraft, which Trump dubbed a \"flying White House\", has been refurbished at an estimated cost of $400 million."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-re-exam-nagpur-student-allotted-abu-dhabi-centre-nta-promises-fix-2930300-2026-06-20",
+      "headline": "NEET UG re-test 2026: NTA allots Abu Dhabi centre to Nagpur studentA Nagpur student was mistakenly allotted an Abu Dhabi examination centre for the NEET UG 2026 re-exam despite selecting centres in Maharashtra. The error sparked fresh criticism of the NTA, which later acknowledged a technical glitch and promised a revised admit card."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-space-startups-navic-isro-satellites-surveillance-navigation-gps-alternative-science-news-2930272-2026-06-20",
-      "headline": "Isro's NavIC isn't alone. Indian startups are building eyes and ears in spaceAt the 2026 India Space Congress, private Indian firms unveiled satellites to observe the Earth, intercept signals and provide navigation that does not depend on foreign systems. Some of these startups say they want to strengthen Isro's NavIC, not replace it."
+      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-ruled-out-india-vs-england-odis-fitness-concerns-2930398-2026-06-20",
+      "headline": "Hardik Pandya ruled out of England ODIs, needs more time to regain fitnessIndia all-rounder Hardik Pandya has been ruled out of the upcoming ODI series against England after failing to attain the required fitness levels for 50-over cricket."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-un-envoy-danny-danon-clashes-with-un-officials-over-sexual-violence-report-2930287-2026-06-20",
-      "headline": "Be quiet or get out: Israeli envoy in shouting match with UN officialIsrael's UN envoy Danny Danon confronted senior UN officials at a public hearing over reports alleging abuses. The exchange highlighted Israel's escalating anger at UN scrutiny over the Gaza war."
+      "url": "https://www.indiatoday.in/science/story/monsoon-rain-to-wake-up-after-days-of-slumber-clouds-set-to-regain-strength-2930030-2026-06-20",
+      "headline": "Monsoon rain: Clouds to begin gaining strength after weeks of deep sleepThe southwest monsoon is showing signs of revival, with rain clouds strengthening over Central India. The shift could ease rainfall deficits and support kharif sowing as thunderstorms build across the region."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-asian-success-shows-how-far-india-has-to-go-2930327-2026-06-20",
-      "headline": "Asia is thriving at the FIFA World Cup. How far away are India?FIFA World Cup 2026: Asia's impressive World Cup start has reignited a familiar debate in India. But perhaps the bigger concern is not why India missed a 48-team World Cup, but why they could not qualify for a 24-team Asian Cup."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/leopard-attacks-stray-dog-inside-iit-bombay-campus-shocking-moment-caught-on-camera-2930326-2026-06-20",
+      "headline": "Leopard enters IIT Bombay campus, kills stray dog. Shocking moment on cameraA leopard was caught on CCTV attacking a stray dog inside the IIT-Bombay campus in Powai. The sighting has led authorities to tighten surveillance and renewed focus on human-wildlife encounters near the national park."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-new-zealand-vs-ireland-suzie-bates-win-2930500-2026-06-20",
+      "headline": "New Zealand Women refuse to panic as faith in their process finally pays off Women's T20 World Cup, NZ vs IRE: New Zealand found themselves in deep trouble after their batters came out firing in the powerplay but lost wickets in quick succession. However, the White Ferns showed plenty of character to recover from the early collapse and eventually edged past Ireland by four runs in a tense contest in Southampton on Friday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/formula-one-india-return-government-sets-2028-target-task-force-plan-2930450-2026-06-20",
+      "headline": "F1 to return to India? Sports Minister to set up task force for revival of sport Sports Minister Mansukh Mandaviya has ordered a task force to assess major motorsport events and map Formula One's return to India. The move fixes a 2028 target for a Grand Prix while linking the bid to investment, tourism and grassroots development."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-afg-nitish-kumar-reddy-returns-india-three-changes-2930422-2026-06-20",
@@ -334,7 +344,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-live-score-3rd-odi-ind-afg-match-chennai-rohit-2930404-2026-06-20",
-      "headline": "IND vs AFG Live, 3rd ODI: Prasidh strikes early to remove in-form Gurbaz India (IND) vs Afghanistan (AFG) 3rd ODI Live Score: AFG (5/1 in 1.1 ov). Prasidh Krishna gave India the perfect start by dismissing the in-form Rahmanullah Gurbaz early after Afghanistan captain Hashmatullah Shahidi won the toss and elected to bat in the third and final ODI."
+      "headline": "3rd ODI Live: Nabi departs, India regain control in Chennai India (IND) vs Afghanistan (AFG) 3rd ODI Live Score: AFG (156/5 in 31 ov). Azmatullah Omarzai has lost his wicket after rebuilding Afghanistan's innings. Veteran Mohammed Nabi has joined captain Hashmatullah Omarzai in the middle. Earlier, Prasidh Krishna ran riot with the new ball and cleaned up the team's top order."
     },
     {
       "sentiment": "positive",
@@ -359,22 +369,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/curacao-fifa-world-cup-goal-how-netherlands-kingdom-fields-two-football-teams-2929918-2026-06-20",
-      "headline": "The World Cup's identity puzzle: Cura\u00e7ao, Croatia and football's unique map Livano Comenencia's goal against Manuel Neuer in Curacao's World Cup match against Germany was more than a historic first for the Caribbean nation. As Curacao celebrated its maiden FIFA World Cup goal, the moment also highlighted how football allows territories and smaller nations to express a distinct identity on the global stage, turning a single goal into a symbol of pride, recognition and belonging beyond the result itself."
+      "headline": "The World Cup's identity puzzle: Cura\u00e7ao, Croatia and football's unique mapLivano Comenencia's goal against Manuel Neuer in Curacao's World Cup match against Germany was more than a historic first for the Caribbean nation. As Curacao celebrated its maiden FIFA World Cup goal, the moment also highlighted how football allows territories and smaller nations to express a distinct identity on the global stage, turning a single goal into a symbol of pride, recognition and belonging beyond the result itself."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/why-was-miguel-almiron-sent-off-vs-turkiye-fifa-new-rule-explained-2930320-2026-06-20",
-      "headline": "Why was Miguel Almiron sent off vs Turkiye? FIFA's new World Cup rule explained Paraguay midfielder Miguel Almiron made unwanted FIFA World Cup history on Friday after becoming the first player to be sent off under FIFA's new mouth-covering rule during his side's Group D clash against Turkiye."
+      "headline": "Why was Miguel Almiron sent off vs Turkiye? FIFA's new World Cup rule explainedParaguay midfielder Miguel Almiron made unwanted FIFA World Cup history on Friday after becoming the first player to be sent off under FIFA's new mouth-covering rule during his side's Group D clash against Turkiye."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/neymar-available-for-scotland-brazil-receive-major-world-cup-boost-2930306-2026-06-20",
-      "headline": "Neymar set for Brazil return against Scotland after fitness scare Brazil coach Carlo Ancelotti has confirmed that Neymar will be available for Selecao's final Group C match against Scotland, ending uncertainty over the forward's fitness ahead of a crucial World Cup fixture."
+      "headline": "Neymar set for Brazil return against Scotland after fitness scareBrazil coach Carlo Ancelotti has confirmed that Neymar will be available for Selecao's final Group C match against Scotland, ending uncertainty over the forward's fitness ahead of a crucial World Cup fixture."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/brazil-vs-haiti-raphinha-injury-scare-world-cup-group-c-win-2930289-2026-06-20",
-      "headline": "FIFA World Cup: Brazil suffer Raphinha injury scare in Haiti win Brazil suffered an injury scare during their FIFA World Cup 2026 Group C clash against Haiti after forward Raphinha was forced off in the first half at Philadelphia Stadium on Friday."
+      "headline": "FIFA World Cup: Brazil suffer Raphinha injury scare in Haiti winBrazil suffered an injury scare during their FIFA World Cup 2026 Group C clash against Haiti after forward Raphinha was forced off in the first half at Philadelphia Stadium on Friday."
     },
     {
       "sentiment": "positive",
@@ -450,26 +460,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/achraf-hakimi-to-stand-trial-in-rape-case-after-french-court-rejects-appeal-2930129-2026-06-19",
       "headline": "Morocco captain and PSG star Achraf Hakimi to face rape trialA French appeals court has upheld the decision to send PSG and Morocco defender Achraf Hakimi to trial over a rape allegation dating back to 2023. Hakimi denies wrongdoing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/sharath-kamal-breaks-silence-on-manika-batra-asian-games-snub-selection-row-2930111-2026-06-19",
-      "headline": "Table-tennis legend Sharath Kamal breaks silence on Manika Batra's Asian Games snubSharath Kamal has responded to the controversy over Manika Batra's exclusion from India's Asian Games squad, saying the country's best players must be selected while leaving the door open for a solution."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-third-odi-nitish-reddy-available-arshdeep-rest-2930090-2026-06-19",
-      "headline": "Nitish Reddy in, Arshdeep Singh out? Ryan ten Doeschate hints at changesIND vs AFG, 3rd ODI: India are set to make a few changes for the third ODI against Afghanistan, with Nitish Reddy available for selection and Arshdeep Singh likely to be rested as the hosts chase a series whitewash in Chennai."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/akshara-gupta-vaibhav-sooryavanshi-bihar-womens-cricket-triple-century-2930013-2026-06-19",
-      "headline": "Not Sooryavanshi: Bihar finds another prodigy, 15-year-old hits triple century15-year-old Akshara Gupta delivered a stunning performance in the Bihar Women's Under-19 One Day Trophy, scoring an unbeaten 306 off just 126 balls. With Vaibhav Sooryavanshi bringing attention to Bihar cricket, Akshara's rise further strengthens the state's reputation as a hub of young cricketing talent."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/yuvraj-singh-delhi-capitals-batting-coach-ipl-2027-sourav-ganguly-2929961-2026-06-19",
-      "headline": "Delhi Capitals to appoint Yuvraj Singh as batting coach after poor IPL 2026: ReportFormer India all-rounder Yuvraj Singh is set to join Delhi Capitals as their batting coach for the IPL 2027 season, marking his first coaching role in the league. The move is part of a major support staff overhaul, with Sourav Ganguly expected to take over as Director of Cricket."
     }
   ],
   "education": [
