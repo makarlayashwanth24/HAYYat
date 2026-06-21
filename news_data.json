@@ -215,9 +215,9 @@
       "headline": "Lamine Yamal steals the show as Spain roar back to life with Saudi Arabia routFIFA World Cup 2026: Lamine Yamal inspired Spain's 4-0 World Cup win over Saudi Arabia in Atlanta. The result dispelled doubts after the Cape Verde draw and sets up a sterner test against Uruguay."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/spain-vs-saudi-arabia-fifa-world-cup-2026-live-score-updates-belgium-vs-iran-2931263-2026-06-21",
-      "headline": "BEL 0-0 IRN: Iran hold Belgium to stalemateBelgium (BEL) vs Iran (IRN) Live, FIFA World Cup 2026: (BEL 0-0 IRN), Iran frustrated Belgium for 90 minutes and were rewarded with a valuable point in Group G. Alireza Beiranvand starred with a string of crucial saves, while Nathan Ngoy's red card compounded a frustrating evening for the Red Devils."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/football/story/uruguay-vs-cabo-verde-fifa-world-cup-2026-live-score-updates-new-zealand-vs-egypt-2931352-2026-06-22",
+      "headline": "URU 2-1 CPV Live: Canobbio, Araujo put Uruguay aheadUruguay (URU) vs Cabo Verde (CPV) Live, FIFA World Cup 2026: (URU 1-1 CPV) Quick goals from Agustin Canobbio and Maxi Araujo has put Uruguay in command in Miami. Kevin Pina put Cabo Verde ahead."
     },
     {
       "sentiment": "positive",
@@ -323,6 +323,21 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/alireza-beiranvand-iran-vs-belgium-fifa-world-cup-guinness-records-saves-2931354-2026-06-22",
+      "headline": "Who is Alireza Beiranvand? Iran's wall with two Guinness records stuns Belgium FIFA World Cup 2026: Alireza Beiranvand added his name to the growing list of goalkeeper heroes at FIFA World Cup 2026 with a seven-save masterclass against Belgium. The Iranian shot-stopper, who holds two Guinness World Records, frustrated the Red Devils and kept Iran's knockout hopes alive with a crucial clean sheet."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/football/story/uruguay-vs-cabo-verde-fifa-world-cup-2026-live-score-updates-new-zealand-vs-egypt-2931352-2026-06-22",
+      "headline": "URU 2-1 CPV Live: Canobbio, Araujo put Uruguay ahead Uruguay (URU) vs Cabo Verde (CPV) Live, FIFA World Cup 2026: (URU 1-1 CPV) Quick goals from Agustin Canobbio and Maxi Araujo has put Uruguay in command in Miami. Kevin Pina put Cabo Verde ahead."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/iran-vs-belgium-beiranvand-saves-fifa-world-cup-2026-los-angeles-2931348-2026-06-22",
+      "headline": "The Beiranvand wall helps Iran secure vital point against 10-man Belgium Iran held 10-man Belgium to a goalless draw in Los Angeles with Alireza Beiranvand making a series of crucial saves. The point strengthened Iran's knockout hopes and exposed Belgium's wastefulness despite their control of the ball."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/serena-williams-wimbledon-womens-singles-return-wildcard-comeback-2931342-2026-06-22",
       "headline": "Serena Williams set for return to Wimbledon as singles wildcard Serena Williams' remarkable tennis comeback has taken another dramatic turn after the seven-time champion received a Wimbledon singles wildcard. Four years after her last singles appearance at the All England Club, the 23-time Grand Slam winner is set to return to Centre Court once again."
     },
@@ -349,7 +364,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/spain-vs-saudi-arabia-fifa-world-cup-2026-live-score-updates-belgium-vs-iran-2931263-2026-06-21",
-      "headline": "BEL 0-0 IRN: Iran hold Belgium to stalemate Belgium (BEL) vs Iran (IRN) Live, FIFA World Cup 2026: (BEL 0-0 IRN), Iran frustrated Belgium for 90 minutes and were rewarded with a valuable point in Group G. Alireza Beiranvand starred with a string of crucial saves, while Nathan Ngoy's red card compounded a frustrating evening for the Red Devils."
+      "headline": "BEL 0-0 IRN Highlights: Iran hold Belgium to stalemate Belgium (BEL) vs Iran (IRN), FIFA World Cup 2026 Highlights: (BEL 0-0 IRN), Iran frustrated Belgium for 90 minutes and were rewarded with a valuable point in Group G. Alireza Beiranvand starred with a string of crucial saves, while Nathan Ngoy's red card compounded a frustrating evening for the Red Devils."
     },
     {
       "sentiment": "positive",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/west-indies-vs-sri-lanka-hayley-matthews-stars-womens-t20-world-cup-win-2931190-2026-06-21",
-      "headline": "West Indies edge closer to semis after bowlers run riot against Sri Lanka Women's T20 World Cup, SL vs WI: West Indies have continued their impressive run in the tournament, beating Sri Lanka by five wickets in Bristol and strengthening their chances of qualifying for the semis."
+      "headline": "West Indies edge closer to semis after bowlers run riot against Sri LankaWomen's T20 World Cup, SL vs WI: West Indies have continued their impressive run in the tournament, beating Sri Lanka by five wickets in Bristol and strengthening their chances of qualifying for the semis."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-sri-lanka-a-final-vaibhav-sooryavanshi-tilak-varma-2931156-2026-06-21",
-      "headline": "Vaibhav Sooryavanshi revenge-arc destroys Sri Lanka in tri-series final India A routed Sri Lanka A in the final of the tri-nation series. Vaibhav Sooryavanshi and Yash Thakur starred with the bat and ball respectively as India hammered Sahan Arachchige's side in Dambulla."
+      "headline": "Vaibhav Sooryavanshi revenge-arc destroys Sri Lanka in tri-series finalIndia A routed Sri Lanka A in the final of the tri-nation series. Vaibhav Sooryavanshi and Yash Thakur starred with the bat and ball respectively as India hammered Sahan Arachchige's side in Dambulla."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-south-africa-women-live-score-t20-world-cup-2026-ind-w-vs-sa-w-match-2931055-2026-06-21",
-      "headline": "IND vs SA Highlights: South Africa beat India by 6 wickets after Kapp heroics India (IND-W) vs South Africa (SA-W) Highlights, Women's T20 World Cup: South Africa beat India by 6 wickets on Sunday at Old Trafford in Manchester to rack-up back-to-back wins. Kapp rocked India with an unbeaten 81 and taking two wickets."
+      "headline": "IND vs SA Highlights: South Africa beat India by 6 wickets after Kapp heroicsIndia (IND-W) vs South Africa (SA-W) Highlights, Women's T20 World Cup: South Africa beat India by 6 wickets on Sunday at Old Trafford in Manchester to rack-up back-to-back wins. Kapp rocked India with an unbeaten 81 and taking two wickets."
     },
     {
       "sentiment": "negative",
@@ -450,21 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/raphinha-injury-brazil-hopeful-of-world-cup-return-after-haiti-win-2930808-2026-06-21",
       "headline": "FIFA World Cup: Brazil to keep faith in Raphinha despite latest injury setbackRaphinha went off with a right thigh muscle injury during Brazil's 3-0 win over Haiti. Brazil want him to stay with the squad and return for the tournament later on."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-women-harmanpreet-kaur-womens-t20-world-cup-preview-2930772-2026-06-21",
-      "headline": "India face stiff South Africa test in Harmanpreet Kaur's historic outingWomen's T20 World Cup, IND vs SA: Harmanpreet Kaur's India and Laura Wolvaardt's South Africa will face off in a crucial Group A clash on Sunday in Manchester with the race to the semifinals heating up."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/iran-world-cup-2026-travel-restrictions-us-defends-plan-despite-teams-fifa-complaint-2930802-2026-06-21",
-      "headline": "USA defends Iran's World Cup 2026 travel restrictions despite outburst from teamThe United States has defended Iran's World Cup travel regime, even as the team threatens to file a FIFA complaint. Iran has been forced to forcefully leave the country early after their matches during the tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-scotland-dunkley-ecclestone-t20-world-cup-win-2930800-2026-06-21",
-      "headline": "England maintain perfect start with 38-run win vs sloppy ScotlandEngland beat Scotland by 38 runs after posting another 200-plus total. Sophia Dunkley punished three reprieves from Scotland and Sophie Ecclestone wrapped upa fine day with her 150th T20I wicket."
     }
   ],
   "education": [
