@@ -104,6 +104,31 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shweta-menon-first-woman-president-announces-resignation-from-film-body-2931113-2026-06-21",
+      "headline": "Shwetha Menon, first woman president, announces resignation from film body The AMMA executive committee led by actor Shwetha Menon resigned after a no-confidence motion at its annual meeting. The abrupt exit ended a historic leadership and sharpened questions over accounts and administration."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-gracy-singh-celebrates-25-years-of-lagaan-remembers-her-iconic-role-as-gauri-2931115-2026-06-21",
+      "headline": "Actor Gracy Singh celebrates 25 years of Lagaan, remembers her iconic role as Gauri As Lagaan completed 25 years, Gracy Singh reflected on the film's lasting impact and shared that her character Gauri became her second name among fans."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/javed-akhtar-hits-back-at-troll-over-islamophobic-comment-calls-himself-an-atheist-2931049-2026-06-21",
+      "headline": "Javed Akhtar hits back at troll over Islamophobic comment, calls himself an atheist Veteran lyricist Javed Akhtar hit back at a troll over an Islamophobic comment. The user had responded to Akhtar's social media post criticising Donald Trump's remarks on Giorgia Meloni."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/director-james-burrows-death-jennifer-aniston-courtney-cox-recall-friends-days-2931076-2026-06-21",
+      "headline": "Director James Burrows death: Jennifer Aniston, Courtney Cox recall Friends days Jennifer Aniston and Courteney Cox paid emotional tributes to legendary television director James Burrows following his death at 85. The Friends stars remembered the Emmy-winning filmmaker as a mentor and father figure who helped shape their careers and the iconic sitcom."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/carry-on-jatta-4-trailer-film-packs-laughs-nostalgia-and-tribute-to-jaswinder-bhalla-release-date-2931059-2026-06-21",
+      "headline": "Carry on Jatta 4 trailer: Film packs laughs, nostalgia, tribute to Jaswinder Bhalla The trailer of Carry On Jatta 4 reunites the franchise's comic ensemble and key throwbacks. Its VFX recreation of late actor Jaswinder Bhalla and the return of the Ghodi sharpen the nostalgia ahead of the 26 June release."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-shuts-down-sexist-remark-on-indias-got-latent-2-internet-drags-pranit-more-370-biryani-row-2930979-2026-06-21",
       "headline": "Samay Raina slams sexist remark on Latent 2, fans praise him for taking a stand A clip from India's Got Latent shows Samay Raina flipping a sexist audience remark back on the speaker. The moment has gone viral with fans praising the comedian for taking a stand."
     },
@@ -171,38 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-pregnant-raj-nidimoru-set-to-welcome-their-first-child-due-year-end-maa-inti-bangaaram-2930625-2026-06-20",
       "headline": "Samantha, 39, is pregnant. Actor to welcome first child with Raj Nidimoru this year Actor Samantha is set to welcome her first child with filmmaker Raj Nidimoru later this year. The news comes after fans speculated about her pregnancy during the celebrations for Maa Inti Bangaaram."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-upasana-kamineni-konidela-reveal-elder-daughter-klin-kaara-face-birthday-post-our-precious-little-one-2930586-2026-06-20",
-      "headline": "Our precious little one: Ram Charan, Upasana reveal daughter Klin Kaara's face Actor Ram Charan and his wife, entrepreneur Upasana Kamineni Konidela, revealed the face of their daughter Klin Kaara on Saturday. The couple shared a family photo with a heartfelt note to mark Klin's birthday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-maa-inti-bangaaram-celebration-raj-nidimoru-pregnancy-buzz-baby-bump-2930531-2026-06-20",
-      "headline": "Samantha's Maa Inti Bangaaram celebration with Raj Nidimoru sparks pregnancy buzz Actor Samantha celebrated the positive response to Maa Inti Bangaaram with filmmaker Raj Nidimoru on Saturday. As videos of the celebration surfaced online, fans began speculating that the couple might be expecting their first child."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-shares-details-of-his-private-ceremony-registered-marriage-with-gauri-spratt-2930516-2026-06-20",
-      "headline": "Aamir Khan shares details of his private ceremony with Gauri Spratt Aamir Khan said he and Gauri Spratt will have a simple registered wedding at home on July 5. The ceremony will remain a private family affair, reflecting the couple's wish to keep it basic."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/1920-cold-winter-vikram-bhatt-announces-new-horror-film-after-haunted-3d-echoes-of-the-past-2930502-2026-06-20",
-      "headline": "1920 Cold Winter: Vikram Bhatt announces new horror film after Haunted 3D Following the success of Haunted 3D, filmmaker Vikram Bhatt has announced the next chapter in his popular horror franchise, 1920: Cold Winter. The makers also unveiled the film's first-look poster."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-samantha-thrilled-by-maa-inti-bangaarams-opening-praises-female-audience-2930487-2026-06-20",
-      "headline": "Actor Samantha thrilled by Maa Inti Bangaaram's opening, praises female audience Actor Samantha thanked audiences after her latest release, Maa Inti Bangaaram, grossed Rs 13.15 crore worldwide on its opening day."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/neet-ug-2026-re-exam-live-updates-nta-neet-retest-admit-card-exam-guidelines-timings-analysis-2930830-2026-06-21",
-      "headline": "Live: NEET re-exam begins, over 22 lakh candidates appear amid tight securityNEET UG Re-Exam Live Updates: More than 22 lakh candidates are appearing for the NEET UG 2026 re-exam being held from 2 pm to 5:15 pm across 5,440 centres in 551 cities. The test is underway under strict security arrangements, including biometric verification, frisking, CCTV surveillance and enhanced monitoring at exam centres."
+      "url": "https://www.indiatoday.in/world/story/we-made-great-progress-now-we-see-a-future-together-vance-briefs-media-after-peace-talks-in-switzerland-2931168-2026-06-21",
+      "headline": "We made great progress, now we see future together: Vance after talks with IranSpeaking after negotiations with Iranian officials at the Swiss resort of Burgenstock, JD Vance said the discussions had yielded advances on several fronts and reflected President Donald Trump's push for breakthrough in the Middle East."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/not-upset-with-uddhav-hurt-by-leaders-causatic-remarks-rebel-sena-ubt-mp-confirms-crossover-to-shinde-sena-2931141-2026-06-21",
+      "headline": "Remarks against us changed our minds: Rebel UBT MP confirms switch to Shinde SenaShiv Sena (UBT) MP Nagesh Patil Ashtikar confirmed his switch to the Eknath Shinde-led Shiv Sena, citing a lack of development funds and the limitations of being in the opposition. He said he had not abandoned his ideology, calling the move a shift from \"one Shiv Sena to another,\" while rejecting claims of personal differences with Uddhav Thackeray."
     },
     {
       "sentiment": "positive",
@@ -211,13 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/gurugram/story/crackdown-against-illegal-construction-posh-gurgaon-dlf-phase-three-45-room-pg-demolished-stores-razed-photos-videos-2930865-2026-06-21",
-      "headline": "Crackdown in Gurugram's DLF Phase-3 for violations, many left homeless overnightThe Town and Country Planning Department (DTCP) has intensified demolition and sealing action in Gurugram's DLF Phase-3 over illegal commercial use of residential buildings. The High Court-backed drive has expanded after a large survey found widespread violations and infrastructure strain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-sri-lanka-a-live-score-tri-series-final-dambulla-2930859-2026-06-21",
-      "headline": "Tri-series final live: Ashok Sharma removes Samarawickrama, India dominateIndia (IND A) vs Sri Lanka (SL A) live score, tri-series 2026 final: Sri Lanka A (128/4 in 18 ovs) chasing 378. India have dominated Sri Lanka in the final of the tri-series. Yash Thakur and Ashok Sharma have removed Sri Lanka's top 4 batters and have brought India A on the brink of winning the title."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-sri-lanka-a-final-vaibhav-sooryavanshi-tilak-varma-2931156-2026-06-21",
+      "headline": "Just kidding: Sooryavanshi revenge-arc destroys Sri Lanka in tri-series final  LIVEIndia A routed Sri Lanka A in the final of the tri-nation series. Vaibhav Sooryavanshi and Yash Thakur starred with the bat and ball respectively as India hammered Sahan Arachchige's side in Dambulla."
     },
     {
       "sentiment": "positive",
@@ -225,19 +225,19 @@
       "headline": "Cancer served on a plate? How chemicals banned in Europe are killing IndiansCarcinogenic chemicals, which get Indian agricultural exports rejected in Europe, continue to be sprayed at Indian farms without checks even though they are banned abroad. Why does the government allow these chemicals to find a place on Indian farms and then reach plates?"
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/story/neet-ug-2026-re-exam-live-updates-nta-neet-retest-admit-card-exam-guidelines-timings-analysis-2930830-2026-06-21",
+      "headline": "Live: NEET re-exam ends, students find Physics lengthy, Chemistry moderateNEET UG Re-Exam Live Updates: More than 22 lakh candidates are appearing for the NEET UG 2026 re-exam being held from 2 pm to 5:15 pm across 5,440 centres in 551 cities. The test is underway under strict security arrangements, including biometric verification, frisking, CCTV surveillance and enhanced monitoring at exam centres."
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/shiv-sena-ubt-rebel-mps-split-announcement-today-2930888-2026-06-21",
-      "headline": "End of the road for Uddhav Sena? Rebel MPs likely to announce split todayAll six rebel Shiv Sena (UBT) MPs are expected to jointly announce their break from the party today. The move could be followed by a meeting with Eknath Shinde and further outreach to the Lok Sabha Speaker."
+      "url": "https://www.indiatoday.in/india/story/tamil-nadu-ammonia-gas-leak-tiruvallur-seafood-factory-65-affected-six-critical-cm-vijay-forms-committee-2931074-2026-06-21",
+      "headline": "2 killed, 67 critical in Tamil Nadu ammonia leak; CM Vijay orders probeAn ammonia gas leak at a seafood processing factory in Tamil Nadu's Tiruvallur affected at least 67 people on Saturday. Six workers are in very critical condition as authorities investigate the cause and emergency teams contain the site."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/mumbai-monsoon-rain-dry-air-weakens-south-mumbai-showers-first-2930755-2026-06-21",
-      "headline": "Mumbai rain: How monsoon showers finally arrived after being held hostageMumbai woke up on June 21 to passing showers across its suburbs, breaking weeks of an unusual dry spell that had pushed the city's reservoirs to critically low levels. The IMD has issued a yellow alert for June 22 and 23, with heavier rainfall expected around June 25 and 26 as the monsoon strengthens further."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/gurugram/story/gurugram-road-rage-bba-graduates-arrested-after-scorpio-attack-near-rajiv-chowk-2931016-2026-06-21",
-      "headline": "Smashed windows, bloodied face: 2 BBA students arrested for Gurugram road rageA video of the incident has since gone viral on social media, where the survivor was seen urging commuters to stop the two students. His face was seen as badly injured."
+      "url": "https://www.indiatoday.in/cities/gurugram/story/crackdown-against-illegal-construction-posh-gurgaon-dlf-phase-three-45-room-pg-demolished-stores-razed-photos-videos-2930865-2026-06-21",
+      "headline": "Crackdown in Gurugram's DLF Phase-3 for violations, many left homeless overnightThe Town and Country Planning Department (DTCP) has intensified demolition and sealing action in Gurugram's DLF Phase-3 over illegal commercial use of residential buildings. The High Court-backed drive has expanded after a large survey found widespread violations and infrastructure strain."
     },
     {
       "sentiment": "positive",
@@ -245,39 +245,39 @@
       "headline": "From Myositis battle to motherhood: Samantha's journey of strength at 39Amid Samantha's pregnancy at 39, the spotlight has also returned to the actor's inspiring journey of battling myositis and rebuilding her health after years of complications."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-south-africa-women-live-score-t20-world-cup-2026-ind-w-vs-sa-w-match-2931055-2026-06-21",
+      "headline": "IND vs SA Live Score: India win toss in Harman's 200th T20I, Prema Rawat debutsIndia (IND-W) vs South Africa (SA-W) Live Score, Women's T20 World Cup: India have won the toss and opted to bat first in Manchester. Prema Rawat is making her international debut while Arundhati Reddy has returned for Kranti Gaud. Dane van Niekerk and Tazmin Brits are in for Sune Luus and Kayla Reyneke."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/mumbai-monsoon-rain-dry-air-weakens-south-mumbai-showers-first-2930755-2026-06-21",
+      "headline": "Mumbai rain: How monsoon showers finally arrived after being held hostageMumbai woke up on June 21 to passing showers across its suburbs, breaking weeks of an unusual dry spell that had pushed the city's reservoirs to critically low levels. The IMD has issued a yellow alert for June 22 and 23, with heavier rainfall expected around June 25 and 26 as the monsoon strengthens further."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-peace-deal-live-updates-donald-trump-mojtaba-khamenei-agreement-strait-of-hormuz-middle-east-tensions-2930276-2026-06-20",
+      "headline": "Live: These kinds of ceasefires are always little bit messy, says Vance after talksUS-Iran Peace Deal News Live Updates: The latest developments point to parallel diplomatic and security tracks shaping tensions across West Asia. On one hand, the US and Iran appear to be moving toward renewed engagement, with US Special Envoy Steve Witkoff travelling to Switzerland for a fresh round of negotiations following a newly announced memorandum of understanding (MoU). The talks are expected to explore the possibility of reviving a nuclear understanding, with Jared Kushner reportedly already in Switzerland. The negotiations had been delayed amid fighting between Israel and Hezbollah but gained momentum after a ceasefire. At the same time, a Reuters investigation reported that Iran's Islamic Revolutionary Guard Corps (IRGC) allegedly established small, covert operational cells in Iraq to target Gulf states hosting US forces. According to Iraqi military, security and militia sources cited by Reuters, these units carried out multiple drone attacks and operated independently of established militia structures, reporting directly to the IRGC\u2014suggesting an effort to maintain deniability while preserving regional pressure. Follow IndiaToday.in for the latest updates."
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/indians-abroad/story/texas-triple-shooting-indian-origin-teen-denied-bail-after-parents-grandmother-killed-2930975-2026-06-21",
-      "headline": "Indian-origin teen shoots parents, grandmother in US, caught after car chaseThe officials have identified Chopra as a student at the University of Texas Rio Grande Valley. In a statement, the university said it was aware of the current situation and would cooperate with law enforcement."
+      "url": "https://www.indiatoday.in/cities/gurugram/story/gurugram-road-rage-bba-graduates-arrested-after-scorpio-attack-near-rajiv-chowk-2931016-2026-06-21",
+      "headline": "Smashed windows, bloodied face: 2 BBA students arrested for Gurugram road rageA video of the incident has since gone viral on social media, where the survivor was seen urging commuters to stop the two students. His face was seen as badly injured."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-woman-mixes-husband-juice-sleeping-pills-kills-him-stages-death-heart-attack-affair-police-2931056-2026-06-21",
+      "headline": "Andhra woman and lover kill ailing husband, pass off murder as heart attackA woman and her lover in Andhra Pradesh's Kakinada district were arrested on charges of killing her heart patient husband after they mixed his juice with sleeping pills and suffocated him to death. The accused initially passed off the murder as a heart attack."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/great-nicobar-project-kiren-rijiju-on-rahul-gandhis-scuba-diving-video-anti-development-propaganda-2930923-2026-06-21",
-      "headline": "To discredit Nicobar project: Kiren Rijiju on Rahul Gandhi's scuba diving videoKiren Rijiju accused Rahul Gandhi of spreading propaganda against the Great Nicobar project during an interaction in the Andaman and Nicobar Islands. He said the government's development push in the islands would proceed with environmental safeguards and legal clearances."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/monsoons-tantrum-why-maharashtra-is-dry-but-rajasthans-deserts-are-wet-with-rain-2929946-2026-06-21",
-      "headline": "Monsoon's tantrum: Why Maharashtra is dry, but Rajasthan's deserts are wetRajasthan has received above-normal June rain even as Maharashtra faces a sharp monsoon deficit. The contrast reflects a disrupted monsoon pattern driven by western disturbances and weak moisture flow."
+      "url": "https://www.indiatoday.in/education-today/news/story/saurabh-bothra-habuild-yoga-platform-12-6-million-learners-169-countries-2930968-2026-06-21",
+      "headline": "He left the IIT path. Today, 1.5 crore people in 169 countries do yoga with himSaurabh Bothra, an IIT-BHU graduate, built Habuild into a global online yoga platform reaching 15 million learners in 169 countries. The journey from personal practice to daily digital sessions shows how consistency turned yoga into a habit for millions."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sunday-special/story/sikar-kota-coaching-institution-iit-comparison-iit-aiims-neet-jee-examination-preparation-2929990-2026-06-21",
       "headline": "How coaching giants are building mini-IITs in Kota and SikarThey are not IITs, nor do they claim to be one. Yet the coaching institutes of Rajasthan's Kota and Sikar, which prepare lakhs of engineering and medical aspirants, have grown into mini-cities whose scale, influence, and infrastructure are comparable to some IITs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-odi-squad-virat-kohli-fitness-bcci-squad-announces-2930980-2026-06-21",
-      "headline": "IND vs ENG: Virat Kohli's selection subject to fitness as BCCI announces ODI squadIndia tour of England: Former captain Virat Kohli has been included in the 15-man squad, subject to him clearing a fitness test. Kohli missed the recently-concluded series against Afghanistan due to an injury sustained during the IPL 2026 final."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/tmc-bank-accounts-frozen-rebel-mlas-probe-rs-440-crore-funds-ptag-2930446-2026-06-20",
-      "headline": "TMC's Rs 440-crore bank accounts frozen after rebel MLAs seek probePolice have frozen debit operations in three TMC bank accounts after complaints from rebel MLAs. The move deepens the party's internal power struggle by bringing its finances under criminal scrutiny."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-talks-set-to-begin-in-switzerland-as-hormuz-dispute-clouds-diplomacy-2930801-2026-06-21",
-      "headline": "JD Vance in Switzerland for talks with Iran as ceasefire hangs by thread Live UpdatesUS and Iranian negotiators are due to begin talks in Switzerland as both sides dispute Iran's claim to have closed the Strait of Hormuz. The meeting tests a fragile ceasefire linked to Lebanon and wider efforts to end months of conflict."
     },
     {
       "sentiment": "positive",
@@ -290,19 +290,14 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-flat-offers-fresh-air-and-a-balcony-toilet-yes-you-read-that-right-2930910-2026-06-21",
-      "headline": "Bengaluru flat offers fresh air and a balcony toilet. Yes, you read that rightAn Instagram house tour in Bengaluru took an awkward turn when two women found a working toilet in the balcony. The clip triggered jokes about bizarre flat layouts."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/rajkot-car-scooter-crash-cctv-teen-returning-from-yoga-session-rider-critical-2931097-2026-06-21",
+      "headline": "Caught on CCTV: Gujarat teen crashes car into scooter, throws rider into airA 17-year-old boy, returning from a yoga session, crashed his car into a scooter in Gujarat's Rajkot, critically injuring the scooter rider. The entire incident was captured on CCTV. Police said an FIR will be filed against the teenager's father."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-congress-row-modi-remarks-indian-sailors-g7-2930716-2026-06-20",
-      "headline": "Admiration for PM has gone beyond physical world: Congress mocks TharoorCongress took a swipe at Shashi Tharoor over his remarks on PM Modi and Indian sailors, with Tharoor clarifying he was citing published reports while Pawan Khera took a swipe saying he now seemed \"capable of hearing what Modi doesn't even say.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/relationship/story/how-my-father-turned-a-led-zeppelin-song-into-a-lifelong-love-affair-with-music-2930855-2026-06-21",
-      "headline": "How my father turned a Led Zeppelin song into a lifelong love affair with musicLong before playlists and streaming algorithms, my father introduced me to the music that would shape my life. On Father's Day and World Music Day, I look back at the songs, memories and listening rituals we still share."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/shiv-sena-ubt-rebel-mps-split-announcement-today-2930888-2026-06-21",
+      "headline": "End of the road for Uddhav Sena? Rebel MPs likely to announce split todayAll six rebel Shiv Sena (UBT) MPs are expected to jointly announce their break from the party today. The move could be followed by a meeting with Eknath Shinde and further outreach to the Lok Sabha Speaker."
     },
     {
       "sentiment": "positive",
@@ -310,9 +305,14 @@
       "headline": "Meet Nasa's Ernest: Moon rover 10 times faster than Perseverance. See picsNasa's new four-wheel rover Ernest has raced across a California desert at more than 10 times the speed of the Perseverance rover on Mars. The trial is preparing the robot to drive itself across the Moon's dark, sloping polar regions."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/texas-triple-shooting-indian-origin-teen-denied-bail-after-parents-grandmother-killed-2930975-2026-06-21",
+      "headline": "Indian-origin teen shoots parents, grandmother in US, caught after car chaseThe officials have identified Chopra as a student at the University of Texas Rio Grande Valley. In a statement, the university said it was aware of the current situation and would cooperate with law enforcement."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/cost-of-living-in-manali-remote-working-couple-spends-less-than-rs-12000-a-month-educ-2930993-2026-06-21",
-      "headline": "Rs 5,000 rent, mountain views, no commute: Couple's remote-work life in ManaliA remote-working couple living in Manali has gone viral after revealing that their monthly essential expenses stay below Rs 12,000. From Rs 5,000 rent to low grocery and transport costs, their breakdown has sparked conversations about affordable mountain living and the changing nature of work."
+      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-re-test-burqa-sacred-thread-disputes-reported-at-exam-centres-2931023-2026-06-21",
+      "headline": "Burqa row, sacred thread dispute, admit card mix-up: NEET re-test day unfoldsThe NEET UG 2026 re-test began under unprecedented security measures, but several centres reported last-minute controversies. From disputes over hijabs and sacred threads to a candidate arriving at the wrong centre with an old admit card, examination day saw a series of unexpected incidents."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,21 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-sri-lanka-a-final-vaibhav-sooryavanshi-tilak-varma-2931156-2026-06-21",
+      "headline": "Just kidding: Sooryavanshi revenge-arc destroys Sri Lanka in tri-series final India A routed Sri Lanka A in the final of the tri-nation series. Vaibhav Sooryavanshi and Yash Thakur starred with the bat and ball respectively as India hammered Sahan Arachchige's side in Dambulla."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-south-africa-women-live-score-t20-world-cup-2026-ind-w-vs-sa-w-match-2931055-2026-06-21",
+      "headline": "IND vs SA Live Score: Toss at 6:30 PM, Prema Rawat makes her debut India (IND-W) vs South Africa (SA-W) Live Score, Women's T20 World Cup: India will look to strengthen their chances of sealing their berth in the semis. The Proteas, on the other hand, would be looking to continue their winning momentum after beating Pakistan."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-womens-t20-world-cup-exit-wahab-riaz-bangladesh-loss-2931075-2026-06-21",
+      "headline": "Wahab Riaz blames Pakistan's own mistakes for exit: We beat ourselves Women's T20 World Cup, PAK vs BAN: Pakistan coach Wahab Riaz blamed his team's repeated batting collapses for their early exit from the tournament, saying Pakistan had \"beaten themselves\" rather than being outplayed by opponents."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-odi-squad-england-tour-mohammed-siraj-omission-workload-management-debate-2931046-2026-06-21",
@@ -354,22 +369,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-japan-vs-tunisia-ayase-ueda-shines-in-4-0-win-in-1000th-match-2930927-2026-06-21",
-      "headline": "First Asian team to score four at World Cup as Japan beat Tunisia on historic night FIFA World Cup 2026: Japan thrashed Tunisia 4-0 in the 1,000th FIFA World Cup match to move close to qualification. The win underlined Japan's control and sent Tunisia out after a second straight loss."
+      "headline": "First Asian team to score four at World Cup as Japan beat Tunisia on historic nightFIFA World Cup 2026: Japan thrashed Tunisia 4-0 in the 1,000th FIFA World Cup match to move close to qualification. The win underlined Japan's control and sent Tunisia out after a second straight loss."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/cricket-world-cup-annual-icc-events-hurt-anticipation-2930928-2026-06-21",
-      "headline": "A World Cup a year: How cricket lost the soul football managed to save Once a sacred pilgrimage, cricket's endless cycle of annual global tournaments has commodified anticipation, trading the heartbreaking magic of long-term yearning for short-term broadcast revenue, which is in stark contrast to football's fiercely guarded quadrennial scarcity."
+      "headline": "A World Cup a year: How cricket lost the soul football managed to saveOnce a sacred pilgrimage, cricket's endless cycle of annual global tournaments has commodified anticipation, trading the heartbreaking magic of long-term yearning for short-term broadcast revenue, which is in stark contrast to football's fiercely guarded quadrennial scarcity."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-fastest-list-a-fifty-29-ball-94-sri-lanka-a-final-2930900-2026-06-21",
-      "headline": "Vaibhav Sooryavanshi hits fastest List A fifty in vengeful 94 vs Sri Lanka Tri-series final: Vaibhav Sooryavanshi hammered an 11-ball fifty and finished with 94 off 29 balls against Sri Lanka A on Sunday. The innings rewrote the List A record books and answered the week's flashpoint in Dambulla."
+      "headline": "Vaibhav Sooryavanshi hits fastest List A fifty in vengeful 94 vs Sri LankaTri-series final: Vaibhav Sooryavanshi hammered an 11-ball fifty and finished with 94 off 29 balls against Sri Lanka A on Sunday. The innings rewrote the List A record books and answered the week's flashpoint in Dambulla."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-sri-lanka-a-live-score-tri-series-final-dambulla-2930859-2026-06-21",
-      "headline": "Tri-series final live: Ashok Sharma removes Samarawickrama, India dominateIndia (IND A) vs Sri Lanka (SL A) live score, tri-series 2026 final: Sri Lanka A (128/4 in 18 ovs) chasing 378. India have dominated Sri Lanka in the final of the tri-series. Yash Thakur and Ashok Sharma have removed Sri Lanka's top 4 batters and have brought India A on the brink of winning the title."
+      "headline": "Tri-series final live: India win tri-nation series after winning by 66 runsIndia (IND A) vs Sri Lanka (SL A) live score, tri-series 2026 final: India won the tri-nation series after beating Sri Lanka by 66 runs. Vaibhav Sooryavanshi laid the platform with a 94-run knock, after which the visitors bowled the hosts out for 311 in 47.1 overs."
     },
     {
       "sentiment": "positive",
@@ -450,16 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/aryan-nehra-800m-freestyle-record-commonwealth-games-asian-games-qualification-2930761-2026-06-20",
       "headline": "Aryan Nehra creates history in 800m freestyle, qualifies for CWG, Asian GamesAryan Nehra became the first Indian to swim the men's 800m freestyle in under eight minutes at the National Aquatics Championships. The 7:59.36 effort secured Commonwealth and Asian Games qualification and underlined a strong week for Indian swimming."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-parul-chaudhary-best-athletes-afi-awards-2026-2930763-2026-06-20",
-      "headline": "Neeraj Chopra and Parul Chaudhary win top honours at Indian Athletics AwardsNeeraj Chopra and Parul Chaudhary bagged the top honours at the inaugural Indian Athletics Awards, while legendary sprinter P T Usha was recognised with the Lifetime Achievement Award."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-shubman-gill-fitness-india-odi-squad-england-2930752-2026-06-20",
-      "headline": "Has Jaiswal done enough to earn England ODI call-up? Shubman Gill revealsIND vs AFG, 3rd ODI: Yashasvi Jaiswal was sensational in the third ODI on Saturday at the Chepauk, helping India win the series 3-0. But will the knock be good enough to earn him a ticket to England?"
     }
   ],
   "education": [
