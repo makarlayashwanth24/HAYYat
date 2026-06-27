@@ -207,17 +207,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/karachi-rocked-by-blasts-gunfire-near-rangers-hq-suicide-attack-suspected-2935780-2026-06-27",
-      "headline": "4 killed as blasts, gunfire rock Rangers HQ in Karachi; suicide attack suspectedPolice and rescue teams rushed to the area following reports of an explosion and subsequent gunfire, Dawn reported. Authorities sealed off the neighbourhood as security personnel launched an operation to secure the area."
+      "headline": "Militants attack Karachi Rangers HQ, six killed in gunbattlePolice and rescue teams rushed to the area following reports of an explosion and subsequent gunfire, Dawn reported. Authorities sealed off the neighbourhood as security personnel launched an operation to secure the area."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-police-poison-capsules-case-14900-capsule-rat-poison-seized-in-alleged-muharram-plot-2935647-2026-06-27",
-      "headline": "Mumbai cops uncover Muharram poisoning plot, seize 14,900 rat poison capsulesMumbai Police detained a Pune businessman after seizing 14,900 capsules allegedly filled with zinc phosphide during a Muharram procession. Investigators are now examining his travels, finances and contacts for possible wider links."
+      "url": "https://www.indiatoday.in/cities/pune/story/ketan-agarwal-death-case-lohagad-rehearsal-online-searches-2935787-2026-06-27",
+      "headline": "Siya, Chetan searched murder methods on Google, rehearsed how to push Ketan: CopsA rehearsal at the fort, online searches on murder methods, a disguise plan and deleted chats - investigators claim the accused left little to chance in the days leading up to Ketan Agarwal's death."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/venezuela-earthquake-toll-jumps-to-1430-3200-people-injured-and-3100-left-homeless-2935795-2026-06-27",
-      "headline": "Venezuela twin earthquakes death toll tops 1,400; over 3,000 injuredInternational rescue teams continue searching for survivors as authorities report 3,238 injuries and 3,142 people displaced, with shortages of heavy equipment and aid hampering relief efforts in the worst-hit areas."
+      "url": "https://www.indiatoday.in/world/story/56-magnitude-earthquake-rocks-venezuelas-aragua-offshore-days-after-twin-quakes-killed-nearly-1500-2935820-2026-06-28",
+      "headline": "5.6-magnitude earthquake jolts Venezuela days after twin tremors claim 1,400 livesThe fresh quake comes amid an ongoing humanitarian and recovery effort following the devastating earthquakes that struck northern Venezuela on June 24."
     },
     {
       "sentiment": "positive",
@@ -225,9 +225,24 @@
       "headline": "Watch: PM feeds world's oldest giant tortoise, aged 194, in SeychellesPrime Minister Narendra Modi, accompanied by Seychelles President Patrick Herminie, visited the National Botanical Garden in Victoria during his official State Visit to Seychelles."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/venezuela-earthquake-toll-jumps-to-1430-3200-people-injured-and-3100-left-homeless-2935795-2026-06-27",
+      "headline": "Venezuela twin earthquakes death toll tops 1,400; over 3,000 injuredInternational rescue teams continue searching for survivors as authorities report 3,238 injuries and 3,142 people displaced, with shortages of heavy equipment and aid hampering relief efforts in the worst-hit areas."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-police-poison-capsules-case-14900-capsule-rat-poison-seized-in-alleged-muharram-plot-2935647-2026-06-27",
+      "headline": "Mumbai cops uncover Muharram poisoning plot, seize 14,900 rat poison capsulesMumbai Police detained a Pune businessman after seizing 14,900 capsules allegedly filled with zinc phosphide during a Muharram procession. Investigators are now examining his travels, finances and contacts for possible wider links."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indian-pakistan-talks-track-2-sri-lanka-event-bjp-ram-madhav-mm-naravane-what-is-the-reality-2935563-2026-06-27",
       "headline": "Have India and Pakistan started fresh track-2 diplomacy? Here's what we knowThere are reports claiming that India and Pakistan held a track-2 dialogue on the sidelines of a security conference held in Sri Lanka this week. Some reports are referring to it as track-1.5 dialogue, claiming that serving officials were involved. Did representatives from India and Pakistan hold talks? Here's what we know."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/research-paper-retractions-in-india-rise-as-6-universities-enter-global-top-10-2933991-2026-06-27",
+      "headline": "India now dominates global research paper retractions with 6 universities in top 10India's rise in global research rankings is now shadowed by a sharp spike in paper retractions. With six Indian universities among the world's top 10 for retractions, concerns around plagiarism, fake peer reviews, and flawed incentives are growing, raising questions about credibility, funding, and the future of Indian science."
     },
     {
       "sentiment": "negative",
@@ -241,13 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/research-paper-retractions-in-india-rise-as-6-universities-enter-global-top-10-2933991-2026-06-27",
-      "headline": "India now dominates global research paper retractions with 6 universities in top 10India's rise in global research rankings is now shadowed by a sharp spike in paper retractions. With six Indian universities among the world's top 10 for retractions, concerns around plagiarism, fake peer reviews, and flawed incentives are growing, raising questions about credibility, funding, and the future of Indian science."
+      "url": "https://www.indiatoday.in/india/story/strong-earthquake-tremors-felt-in-delhi-ncr-2935688-2026-06-27",
+      "headline": "Magnitude 6.2 earthquake jolts Afghanistan, tremors felt in India, PakTremors from the deep-focus Afghanistan earthquake were felt across Pakistan, northern India and Central Asia, while authorities reported no immediate casualties or widespread damage."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/strong-earthquake-tremors-felt-in-delhi-ncr-2935688-2026-06-27",
-      "headline": "Magnitude 6.2 earthquake jolts Afghanistan, tremors felt in India, PakTremors from the deep-focus Afghanistan earthquake were felt across Pakistan, northern India and Central Asia, while authorities reported no immediate casualties or widespread damage."
+      "url": "https://www.indiatoday.in/science/story/nuclear-energy-india-hydrogen-heat-electricity-world-first-kalpakkam-fast-breeder-reactor-indira-gandhi-centre-for-atomic-research-2935677-2026-06-27",
+      "headline": "India makes hydrogen from nuclear heat, not electricity. Why scientists are thrilledIndia has inaugurated the world's first plant that makes hydrogen using nuclear reactor heat instead of electricity. Built at Kalpakkam, the copper-chlorine cycle points to a cleaner, round-the-clock route to green hydrogen."
     },
     {
       "sentiment": "positive",
@@ -260,9 +275,19 @@
       "headline": "4 generations and 70 years later, SC delivers verdict on 15.5-bigha land disputeThe dispute centred on ownership of 15.5 bighas of land in Nasirpur Kalan village in Haridwar. Sharafat Ali had purchased the land through a registered sale deed on June 4, 1957. Nearly seven decades later, in June this year, a Supreme Court bench of Justice Prashant Kumar Mishra and Justice N.V. Anjaria, upheld the validity of the sale deed."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-police-arrest-youtuber-road-safety-wala-gurman-singh-videos-targeting-women-riders-2935674-2026-06-27",
+      "headline": "YouTuber arrested for deliberately crashing into girls, women for viral videosDelhi Police have arrested Gurman Singh, who allegedly rammed women riders and minor girls, filmed the encounters and posted the videos online. Investigators said he used the clips to grow his following, increase monetisation and target victims without consent."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/paris-alcohol-ban-heatwave-dangerous-drinking-heat-health-science-news-2935729-2026-06-27",
+      "headline": "Why has Paris banned alcohol use in public? There's interesting science behindParis has banned drinking alcohol in public as a record-breaking heatwave pushes its hospitals to breaking point. Here is the science of why alcohol turns dangerous in extreme heat, and what is fuelling Europe's deadly temperatures."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/nuclear-energy-india-hydrogen-heat-electricity-world-first-kalpakkam-fast-breeder-reactor-indira-gandhi-centre-for-atomic-research-2935677-2026-06-27",
-      "headline": "India makes hydrogen from nuclear heat, not electricity. Why scientists are thrilledIndia has inaugurated the world's first plant that makes hydrogen using nuclear reactor heat instead of electricity. Built at Kalpakkam, the copper-chlorine cycle points to a cleaner, round-the-clock route to green hydrogen."
+      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-615-26-06-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "negative",
@@ -276,23 +301,13 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/actor-akanksha-chamola-confirms-divorce-from-gaurav-khanna-on-lock-upp-season-2-2935774-2026-06-27",
+      "headline": "Actor Akanksha Chamola confirms divorce from Gaurav Khanna on Lock Upp Season 2Akanksha Chamola said on Lock Upp Season 2 that she and Gaurav Khanna have been living separately for a year and are headed for divorce. The actor's latest revelation has also renewed attention on the couple's earlier conversations about parenthood."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/up-mirzapur-temple-wall-damage-crane-driver-detained-vindhyachal-2935758-2026-06-27",
       "headline": "Crane tears through temple wall while reversing in UP's Mirzapur, sparks protestA crane accidentally rammed into the boundary wall of the Rudreshwar Mahadev Temple in Uttar Pradesh's Mirzapur while reversing, damaging part of the structure but leaving all idols unharmed."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/paris-alcohol-ban-heatwave-dangerous-drinking-heat-health-science-news-2935729-2026-06-27",
-      "headline": "Why has Paris banned alcohol use in public? There's interesting science behindParis has banned drinking alcohol in public as a record-breaking heatwave pushes its hospitals to breaking point. Here is the science of why alcohol turns dangerous in extreme heat, and what is fuelling Europe's deadly temperatures."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-615-26-06-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/ge-jet-engines-delay-tejas-mk1a-raise-amca-costs-india-eyes-safran-2935124-2026-06-27",
-      "headline": "Engine trouble: Why European engine firms are making a beeline to IndiaA Franco-British contest is underway for India's future jet fighters."
     },
     {
       "sentiment": "positive",
@@ -301,26 +316,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/actor-akanksha-chamola-confirms-divorce-from-gaurav-khanna-on-lock-upp-season-2-2935774-2026-06-27",
-      "headline": "Actor Akanksha Chamola confirms divorce from Gaurav Khanna on Lock Upp Season 2Akanksha Chamola said on Lock Upp Season 2 that she and Gaurav Khanna have been living separately for a year and are headed for divorce. The actor's latest revelation has also renewed attention on the couple's earlier conversations about parenthood."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-tanker-hit-after-us-iran-strikes-escalate-peace-deal-2935668-2026-06-27",
-      "headline": "Fresh tanker attack rocks Hormuz amid worst Iran-US escalation since truceThe warring sides each accused the other of violating the agreement they reached two weeks ago to end the four-month-old conflict. Washington said it hit Iranian targets overnight, while Iran said it had struck targets linked to US forces on Saturday in response."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-peace-deal-live-updates-donald-trump-mojtaba-khamenei-agreement-lebanon-trilateral-framework-strait-of-hormuz-middle-east-tensions-2935323-2026-06-27",
-      "headline": "Live: Bahrain slams Iran over drone attack; Tehran says it hit US-linked targetsUS-Iran Peace Deal Live Updates: Israel and Lebanon have signed a US-backed trilateral framework agreement in Washington after several rounds of negotiations, marking a significant diplomatic breakthrough aimed at reducing tensions along their shared border and advancing efforts toward a lasting ceasefire. The agreement comes even as Hezbollah has rejected the deal, warning it could deepen divisions within Lebanon. At the same time, fresh uncertainty has emerged after US President Donald Trump accused Iran of violating the ceasefire by launching a drone attack on a cargo ship near the Strait of Hormuz, an allegation Tehran denies while insisting it has the right to regulate the strategic waterway. Iran has also criticised the US and Gulf states over navigation in the strait, while the UAE has stepped up diplomatic engagement with Tehran, calling for freedom of navigation, regional stability and continued dialogue. Follow IndiaToday.in for the latest updates on the Israel-Iran peace deal, the Israel-Lebanon framework agreement, Strait of Hormuz tensions, US diplomatic efforts, Hezbollah's response, shipping security and the wider geopolitical developments shaping the Middle East."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/k-venkata-narayana-appointed-tamil-nadu-special-representative-new-delhi-2935131-2026-06-26",
       "headline": "Jana Nayagan producer appointed Tamil Nadu Special Representative to DelhiTamil Nadu has appointed K Venkata Narayana as its Special Representative in New Delhi for one year. The move has drawn opposition criticism over his film industry background and proximity to C Joseph Vijay."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/panama-vs-england-live-score-fifa-world-cup-2026-harry-kane-croatia-vs-ghana-updates-2935814-2026-06-28",
+      "headline": "PAN vs ENG Live: Can Harry Kane, England finish the job to top Group L? Panama vs England Live score, FIFA World Cup 2026: Group L reaches its climax as England face Panama and Croatia take on Ghana. England chase top spot, while Croatia and Ghana battle for a place in the World Cup round of 32 in their final group-stage fixtures."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rachin-ravindra-new-zealand-england-3rd-test-day-3-trent-bridge-2935817-2026-06-28",
+      "headline": "Rachin Ravindra stars as Day 3 swings New Zealand's way in series decider Rachin Ravindra's unbeaten 60 guided New Zealand to a 204-run lead over England on Day 3 of the series decider at Trent Bridge, putting the Black Caps firmly in control heading into Day 4."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/sophie-molineux-womens-t20-world-cup-india-vs-australia-press-conference-2935813-2026-06-28",
+      "headline": "Sophie Molineux enjoying added captaincy role in Australia's dominant campaign Women's T20 World Cup, INDW vs AUSW: Speaking to the reporters before the match against India, Sophie Molineux said that the ongoing tournament has been different, but she has enjoyed the added responsibility of captaincy after replacing Alyssa Healy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/smriti-mandhana-womens-t20-world-cup-india-vs-australia-press-conference-2935806-2026-06-27",
+      "headline": "Smriti Mandhana urges India to bat with more intent in must-win Australia clash Women's T20 World Cup, INDW vs AUSW: Speaking to the reports, Smriti Mandhana said that India need to show more intent with the way if they are to beat Sophie Molineux's Australia on Sunday and qualify for the semis."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ireland-women-vs-west-indies-orla-prendergast-first-womens-t20-world-cup-win-2935779-2026-06-27",
@@ -349,22 +369,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/g-sindhushree-pole-vault-national-record-borrowed-pole-asian-games-berth-2935651-2026-06-27",
-      "headline": "No money for equipment, Sindhushree breaks national record with borrowed pole G Sindhushree broke the national pole vault record with a borrowed pole to win gold and seal an Asian Games berth. She dedicated the achievement to her late father, who had backed her sporting journey."
+      "headline": "No money for equipment, Sindhushree breaks national record with borrowed poleG Sindhushree broke the national pole vault record with a borrowed pole to win gold and seal an Asian Games berth. She dedicated the achievement to her late father, who had backed her sporting journey."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-india-vs-australia-shafali-verma-draws-confidence-from-series-win-2935605-2026-06-27",
-      "headline": "India will draw confidence vs Australia from recent T20I series win: Shafali Verma Women's T20 World Cup, INDW vs AUSW: Shafali Verma believes India will draw confidence from their recent 2-1 T20I series victory over Australia on Australian soil going into the Lord's clash."
+      "headline": "India will draw confidence vs Australia from recent T20I series win: Shafali VermaWomen's T20 World Cup, INDW vs AUSW: Shafali Verma believes India will draw confidence from their recent 2-1 T20I series victory over Australia on Australian soil going into the Lord's clash."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-ipl-2026-sangakkara-reveals-13-sixes-vow-before-jaipur-blitz-2935582-2026-06-27",
-      "headline": "Sooryavanshi winked at me, promised 13 sixes: Sangakkara reveals stunning IPL story Kumar Sangakkara recalled Vaibhav Sooryavanshi winking and predicting 13 sixes before a crucial IPL chase. The anecdote captured the 15-year-old's unusual self-belief as he moves closer to an India debut."
+      "headline": "Sooryavanshi winked at me, promised 13 sixes: Sangakkara reveals stunning IPL storyKumar Sangakkara recalled Vaibhav Sooryavanshi winking and predicting 13 sixes before a crucial IPL chase. The anecdote captured the 15-year-old's unusual self-belief as he moves closer to an India debut."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/tennis/story/naomi-osaka-injury-bad-homburg-final-retirement-wimbledon-doubt-2935570-2026-06-27",
-      "headline": "Naomi Osaka suffers injury scare before Wimbledon, retires from Bad Homburg final Naomi Osaka's Wimbledon preparations suffered a major setback after she retired injured from the Bad Homburg Open final, handing Karolina Muchova the title just two days before the Grand Slam begins."
+      "headline": "Naomi Osaka suffers injury scare before Wimbledon, retires from Bad Homburg finalNaomi Osaka's Wimbledon preparations suffered a major setback after she retired injured from the Bad Homburg Open final, handing Karolina Muchova the title just two days before the Grand Slam begins."
     },
     {
       "sentiment": "positive",
@@ -440,26 +460,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/reece-james-injury-england-vs-panama-thomas-tuchel-world-cup-2026-2935337-2026-06-27",
       "headline": "Reece James out, Saka fit: Tuchel reveals England team news before Panama clashEngland defender Reece James has been ruled out of the crucial World Cup Group L clash against Panama with a hamstring injury. Thomas Tuchel confirmed Bukayo Saka, Declan Rice and Elliot Anderson are fit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/uruguay-vs-spain-live-fifa-world-cup-2026-score-updates-cabo-verde-vs-saudi-arabia-2935334-2026-06-27",
-      "headline": "URU 0-1 ESP HIGHLIGHTS: Spain, Cabo Verde into knockouts, Uruguay crash outUruguay (URU) vs Spain (ESP) Live, FIFA World Cup 2026: (URU 0-1 ESP) Group H has exploded into life at the break. Spain have one foot in the knockouts after capitalising on a costly Muslera error, while Cape Verde are just 45 minutes away from a historic last-32 berth. As things stand, Uruguay are heading for a stunning World Cup exit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/france-vs-norway-ousmane-dembele-hat-trick-fifa-world-cup-kylian-mbappe-2935331-2026-06-27",
-      "headline": "Dembele steals the Mbappe vs Haaland show as France breeze past NorwayFIFA World Cup 2026: France marched into the Round of 32 with a perfect Group I record after Ousmane Dembele's stunning first-half hat-trick inspired a 4-1 win over Norway. Elsewhere, Senegal crushed Iraq 5-0 to keep their hopes alive of progressing as one of the World Cup's best third-placed teams."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/senegal-vs-iraq-fifa-world-cup-knockouts-hopes-alive-match-report-toronto-2935332-2026-06-27",
-      "headline": "Senegal's historic five-goal blitz breathes life into World Cup campaignSenegal vs Iraq, FIFA World Cup 2026: Senegal thrashed 10-man Iraq 5-0 to keep their FIFA World Cup knockout hopes alive, becoming the first African nation to score five goals in a men's World Cup match."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/ousmane-dembele-hat-trick-norway-vs-france-fifa-world-cup-2026-record-2935330-2026-06-27",
-      "headline": "Ousmane Dembele silences doubters with historic World Cup hat-trick for FranceOusmane Dembele's historic World Cup hat-trick against Norway marked the defining moment of his France career, capping years of perseverance with a record-breaking performance."
     }
   ],
   "education": [
