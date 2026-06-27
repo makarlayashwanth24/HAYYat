@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/actor-akanksha-chamola-confirms-divorce-from-gaurav-khanna-on-lock-upp-season-2-2935774-2026-06-27",
+      "headline": "Actor Akanksha Chamola confirms divorce from Gaurav Khanna on Lock Upp Season 2 Akanksha Chamola said on Lock Upp Season 2 that she and Gaurav Khanna have been living separately for a year and are headed for divorce. The actor's latest revelation has also renewed attention on the couple's earlier conversations about parenthood."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/sonu-mishra-exits-kala-hiran-amid-salman-khan-legal-battle-2935764-2026-06-27",
+      "headline": "Actor Sonu Mishra quits Kala Hiran amid Salman Khan's legal battle Actor Sonu Mishra has stepped away from Kala Hiran: The Battle for Legacy, saying the film was designed to tarnish a senior actor's image. His exit comes as Salman Khan's legal challenge against the project continues."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/khushbu-sundar-hits-back-at-backlash-over-wedding-post-after-k-bhagyaraj-death-2935709-2026-06-27",
       "headline": "Khushbu Sundar defends wedding post amid backlash after K Bhagyaraj's death Khushbu Sundar hit back at criticism over her wedding-day post after K Bhagyaraj's death. The reaction came as condolences and a final video from her daughter's Goa wedding spread online."
     },
@@ -186,38 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/welcome-to-the-jungle-box-office-day-1-akshay-kumar-scores-a-bigger-opening-than-bhooth-bangla-2935349-2026-06-27",
       "headline": "Welcome To The Jungle box office Day 1: Akshay film scores big, beats Bhooth Bangla Akshay Kumar's Welcome To The Jungle has registered a decent opening at the box office, collecting Rs 29 crore worldwide on its first day despite mixed reviews. The comedy entertainer also surpassed the opening-day collections of the actor's recent films Bhooth Bangla and Jolly LLB 3."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/millie-bobby-brown-david-harbour-reunite-for-adolescence-creators-spy-drama-2935300-2026-06-27",
-      "headline": "Millie Bobby Brown-David Harbour reunite for Adolescence creator's spy series Actors Millie Bobby Brown and David Harbour will reunite in an untitled spy drama from Jack Thorne. The series casts them as estranged father and daughter at the centre of a mission crisis."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-says-anil-kapoor-nana-patekar-are-family-hints-at-welcome-4-return-2935205-2026-06-26",
-      "headline": "Akshay Kumar says Anil Kapoor-Nana Patekar are family, hints at Welcome 4 return Actor Akshay Kumar said actors Anil Kapoor and Nana Patekar remain part of the Welcome family despite missing Welcome To The Jungle. His remarks keep the door open for a reunion in a fourth film."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indian-pakistan-talks-track-2-sri-lanka-event-bjp-ram-madhav-mm-naravane-what-is-the-reality-2935563-2026-06-27",
-      "headline": "Have India and Pakistan started fresh track-2 diplomacy? Here's what we knowThere are reports claiming that India and Pakistan held a track-2 dialogue on the sidelines of a security conference held in Sri Lanka this week. Some reports are referring to it as track-1.5 dialogue, claiming that serving officials were involved. Did representatives from India and Pakistan hold talks? Here's what we know."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/strong-earthquake-tremors-felt-in-delhi-ncr-2935688-2026-06-27",
-      "headline": "Magnitude 6.2 earthquake jolts Afghanistan, tremors felt in India, PakTremors from the deep-focus Afghanistan earthquake were felt across Pakistan, northern India and Central Asia, while authorities reported no immediate casualties or widespread damage."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/maharashtra-teachers-recruitment-tet-paper-leak-opposition-neet-2935626-2026-06-27",
-      "headline": "Any exam left? Opposition mounts criticism as paper leak hits Maharashtra TETThe Maharashtra TET was postponed about 20 hours before the exam after parts of the question paper were allegedly leaked. Opposition parties used the development to intensify attacks on the BJP after the massive fiasco following the NEET-UG paper leak."
+      "url": "https://www.indiatoday.in/india/story/maharashtra-tet-paper-leak-bijendra-gupta-three-arrests-sting-probe-2935748-2026-06-27",
+      "headline": "TET paper leak mastermind made explosive claims in 2024 India Today stingMaharashtra Teacher Eligibility Test (TET) paper leak: Even as the Maharashtra Police search for the alleged mastermind, Bijendra Gupta, an India Today sting operation conducted in 2024 after the alleged NEET-UG paper leak has once again come into focus."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/karachi-rocked-by-blasts-gunfire-near-rangers-hq-suicide-attack-suspected-2935780-2026-06-27",
+      "headline": "4 killed as blasts, gunfire rock Rangers HQ in Karachi; suicide attack suspectedPolice and rescue teams rushed to the area following reports of an explosion and subsequent gunfire, Dawn reported. Authorities sealed off the neighbourhood as security personnel launched an operation to secure the area."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-police-poison-capsules-case-14900-capsule-rat-poison-seized-in-alleged-muharram-plot-2935647-2026-06-27",
       "headline": "Mumbai cops uncover Muharram poisoning plot, seize 14,900 rat poison capsulesMumbai Police detained a Pune businessman after seizing 14,900 capsules allegedly filled with zinc phosphide during a Muharram procession. Investigators are now examining his travels, finances and contacts for possible wider links."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/venezuela-earthquake-toll-jumps-to-1430-3200-people-injured-and-3100-left-homeless-2935795-2026-06-27",
+      "headline": "Venezuela twin earthquakes death toll tops 1,400; over 3,000 injuredInternational rescue teams continue searching for survivors as authorities report 3,238 injuries and 3,142 people displaced, with shortages of heavy equipment and aid hampering relief efforts in the worst-hit areas."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/research-paper-retractions-in-india-rise-as-6-universities-enter-global-top-10-2933991-2026-06-27",
-      "headline": "India now dominates global research paper retractions with 6 universities in top 10India's rise in global research rankings is now shadowed by a sharp spike in paper retractions. With six Indian universities among the world's top 10 for retractions, concerns around plagiarism, fake peer reviews, and flawed incentives are growing, raising questions about credibility, funding, and the future of Indian science."
+      "url": "https://www.indiatoday.in/india/story/indian-pakistan-talks-track-2-sri-lanka-event-bjp-ram-madhav-mm-naravane-what-is-the-reality-2935563-2026-06-27",
+      "headline": "Have India and Pakistan started fresh track-2 diplomacy? Here's what we knowThere are reports claiming that India and Pakistan held a track-2 dialogue on the sidelines of a security conference held in Sri Lanka this week. Some reports are referring to it as track-1.5 dialogue, claiming that serving officials were involved. Did representatives from India and Pakistan hold talks? Here's what we know."
     },
     {
       "sentiment": "negative",
@@ -241,8 +241,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/nuclear-energy-india-hydrogen-heat-electricity-world-first-kalpakkam-fast-breeder-reactor-indira-gandhi-centre-for-atomic-research-2935677-2026-06-27",
-      "headline": "India makes hydrogen from nuclear heat, not electricity. Why scientists are thrilledIndia has inaugurated the world's first plant that makes hydrogen using nuclear reactor heat instead of electricity. Built at Kalpakkam, the copper-chlorine cycle points to a cleaner, round-the-clock route to green hydrogen."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/research-paper-retractions-in-india-rise-as-6-universities-enter-global-top-10-2933991-2026-06-27",
+      "headline": "India now dominates global research paper retractions with 6 universities in top 10India's rise in global research rankings is now shadowed by a sharp spike in paper retractions. With six Indian universities among the world's top 10 for retractions, concerns around plagiarism, fake peer reviews, and flawed incentives are growing, raising questions about credibility, funding, and the future of Indian science."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/strong-earthquake-tremors-felt-in-delhi-ncr-2935688-2026-06-27",
+      "headline": "Magnitude 6.2 earthquake jolts Afghanistan, tremors felt in India, PakTremors from the deep-focus Afghanistan earthquake were felt across Pakistan, northern India and Central Asia, while authorities reported no immediate casualties or widespread damage."
     },
     {
       "sentiment": "positive",
@@ -251,8 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/modi-trump-ties-envoy-sergio-gor-india-us-trade-deal-2935513-2026-06-27",
-      "headline": "Lot of similarities between PM Modi, Trump: US envoy decodes both leadersUS Ambassador Sergio Gor said Narendra Modi and Donald Trump shared a close bond despite recent tensions in India-US ties. Gor said their hands-on style and personal chemistry would steady the relationship."
+      "url": "https://www.indiatoday.in/india/story/supreme-court-haridwar-land-dispute-1957-sale-deed-upheld-after-70-years-2935705-2026-06-27",
+      "headline": "4 generations and 70 years later, SC delivers verdict on 15.5-bigha land disputeThe dispute centred on ownership of 15.5 bighas of land in Nasirpur Kalan village in Haridwar. Sharafat Ali had purchased the land through a registered sale deed on June 4, 1957. Nearly seven decades later, in June this year, a Supreme Court bench of Justice Prashant Kumar Mishra and Justice N.V. Anjaria, upheld the validity of the sale deed."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/nuclear-energy-india-hydrogen-heat-electricity-world-first-kalpakkam-fast-breeder-reactor-indira-gandhi-centre-for-atomic-research-2935677-2026-06-27",
+      "headline": "India makes hydrogen from nuclear heat, not electricity. Why scientists are thrilledIndia has inaugurated the world's first plant that makes hydrogen using nuclear reactor heat instead of electricity. Built at Kalpakkam, the copper-chlorine cycle points to a cleaner, round-the-clock route to green hydrogen."
     },
     {
       "sentiment": "negative",
@@ -261,28 +271,18 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/maharashtra-teachers-recruitment-tet-paper-leak-opposition-neet-2935626-2026-06-27",
+      "headline": "Any exam left? Opposition mounts criticism as paper leak hits Maharashtra TETThe Maharashtra TET was postponed about 20 hours before the exam after parts of the question paper were allegedly leaked. Opposition parties used the development to intensify attacks on the BJP after the massive fiasco following the NEET-UG paper leak."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/up-mirzapur-temple-wall-damage-crane-driver-detained-vindhyachal-2935758-2026-06-27",
+      "headline": "Crane tears through temple wall while reversing in UP's Mirzapur, sparks protestA crane accidentally rammed into the boundary wall of the Rudreshwar Mahadev Temple in Uttar Pradesh's Mirzapur while reversing, damaging part of the structure but leaving all idols unharmed."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/science/story/paris-alcohol-ban-heatwave-dangerous-drinking-heat-health-science-news-2935729-2026-06-27",
       "headline": "Why has Paris banned alcohol use in public? There's interesting science behindParis has banned drinking alcohol in public as a record-breaking heatwave pushes its hospitals to breaking point. Here is the science of why alcohol turns dangerous in extreme heat, and what is fuelling Europe's deadly temperatures."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bhagirath-choudhary-rs-1-crore-farming-subsidy-polyhouse-aid-followed-rules-2935559-2026-06-27",
-      "headline": "I'm a farmer: Union minister defends Rs 1 crore subsidy for farm from his ministryUnion minister Bhagirath Choudhary added that setting up a polyhouse without government assistance would not be financially viable for an ordinary farmer, which is why such subsidies are provided."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-dharmendra-pradhan-birthday-wish-sacking-demand-cabinet-rejig-2935448-2026-06-27",
-      "headline": "PM Modi's birthday wish for Education Minister pours cold water on exit calls?Prime Minister Narendra Modi praised Dharmendra Pradhan on his birthday amid demands for the Education Minister's removal over the NEET-UG paper leak row. The message is being read as a sign of PM's backing as protests grow and amid Cabinet reshuffle buzz."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-ipl-2026-sangakkara-reveals-13-sixes-vow-before-jaipur-blitz-2935582-2026-06-27",
-      "headline": "Sooryavanshi winked at me, promised 13 sixes: Sangakkara reveals stunning IPL storyKumar Sangakkara recalled Vaibhav Sooryavanshi winking and predicting 13 sixes before a crucial IPL chase. The anecdote captured the 15-year-old's unusual self-belief as he moves closer to an India debut."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/k-bhagyaraj-death-tamil-cinema-king-of-screenplay-dies-at-73-2935452-2026-06-27",
-      "headline": "K Bhagyaraj: The screenplay king who became the voice of middle-class IndiaVeteran filmmaker K Bhagyaraj, celebrated as Tamil cinema's King of Screenplay, died in Chennai on June 27 after a cardiac arrest. His death, coming just days after mentor Bharathiraja's death, marks another major loss for the industry."
     },
     {
       "sentiment": "positive",
@@ -291,28 +291,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-tanker-hit-after-us-iran-strikes-escalate-peace-deal-2935668-2026-06-27",
-      "headline": "Fresh tanker attack rocks Hormuz amid worst Iran-US escalation since truceThe warring sides each accused the other of violating the agreement they reached two weeks ago to end the four-month-old conflict. Washington said it hit Iranian targets overnight, while Iran said it had struck targets linked to US forces on Saturday in response."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/beadbi-sikh-theology-sri-guru-granth-sahib-vocabulary-shifts-punjab-sacrilege-law-bhagwant-mann-2935149-2026-06-27",
-      "headline": "When Sikhs debate beadbi, what is defining it theologically \u2014 Sikhi or Sharia?The Sikh debate over 'beadbi' (sacrilege) has consumed the headlines. Beneath it sits a harder question: when a community's historical words are replaced one by one, without discussion or sanction, and the replacements keep pointing in an alien direction, what do we call that?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/movie-trailers-art-of-cutting-films-explained-south-bollywood-2933853-2026-06-27",
-      "headline": "The trailer trap and forgetting art of surprise: How much is too much?What makes a great movie trailer? Audiences, editors, filmmakers and trade experts discuss the fine balance between building curiosity and giving away too much."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/ge-jet-engines-delay-tejas-mk1a-raise-amca-costs-india-eyes-safran-2935124-2026-06-27",
       "headline": "Engine trouble: Why European engine firms are making a beeline to IndiaA Franco-British contest is underway for India's future jet fighters."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ketan-agarwal-murder-siya-goyal-chetan-chaudhary-cricket-link-sahil-goyal-2935319-2026-06-27",
-      "headline": "Ketan Agarwal murder: Cricket brought Siya Goyal into Chetan Chaudhary's orbitAccording to police sources, Chetan, a cricket player, had played matches alongside Sahil, Siya's brother, and Siya would often accompany her brother during games."
+      "url": "https://www.indiatoday.in/science/story/north-india-monsoon-rain-delay-why-imd-says-monsoon-is-advancing-2935076-2026-06-27",
+      "headline": "IMD says monsoon is advancing. Then why isn't it raining in north India?The IMD says the southwest monsoon is advancing towards more northern states, even as rain remains scarce across much of North India. The gap reflects a northward monsoon circulation without the stronger low-pressure systems needed for widespread showers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/actor-akanksha-chamola-confirms-divorce-from-gaurav-khanna-on-lock-upp-season-2-2935774-2026-06-27",
+      "headline": "Actor Akanksha Chamola confirms divorce from Gaurav Khanna on Lock Upp Season 2Akanksha Chamola said on Lock Upp Season 2 that she and Gaurav Khanna have been living separately for a year and are headed for divorce. The actor's latest revelation has also renewed attention on the couple's earlier conversations about parenthood."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-tanker-hit-after-us-iran-strikes-escalate-peace-deal-2935668-2026-06-27",
+      "headline": "Fresh tanker attack rocks Hormuz amid worst Iran-US escalation since truceThe warring sides each accused the other of violating the agreement they reached two weeks ago to end the four-month-old conflict. Washington said it hit Iranian targets overnight, while Iran said it had struck targets linked to US forces on Saturday in response."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-peace-deal-live-updates-donald-trump-mojtaba-khamenei-agreement-lebanon-trilateral-framework-strait-of-hormuz-middle-east-tensions-2935323-2026-06-27",
+      "headline": "Live: Bahrain slams Iran over drone attack; Tehran says it hit US-linked targetsUS-Iran Peace Deal Live Updates: Israel and Lebanon have signed a US-backed trilateral framework agreement in Washington after several rounds of negotiations, marking a significant diplomatic breakthrough aimed at reducing tensions along their shared border and advancing efforts toward a lasting ceasefire. The agreement comes even as Hezbollah has rejected the deal, warning it could deepen divisions within Lebanon. At the same time, fresh uncertainty has emerged after US President Donald Trump accused Iran of violating the ceasefire by launching a drone attack on a cargo ship near the Strait of Hormuz, an allegation Tehran denies while insisting it has the right to regulate the strategic waterway. Iran has also criticised the US and Gulf states over navigation in the strait, while the UAE has stepped up diplomatic engagement with Tehran, calling for freedom of navigation, regional stability and continued dialogue. Follow IndiaToday.in for the latest updates on the Israel-Iran peace deal, the Israel-Lebanon framework agreement, Strait of Hormuz tensions, US diplomatic efforts, Hezbollah's response, shipping security and the wider geopolitical developments shaping the Middle East."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,16 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ireland-women-vs-west-indies-orla-prendergast-first-womens-t20-world-cup-win-2935779-2026-06-27",
+      "headline": "Ireland claim first-ever win in Women's T20 World Cup day after men's India upset Ireland Women created history by registering their first-ever Women's T20 World Cup victory, defeating West Indies by six wickets to end a 21-match losing streak, just a day after the Ireland men's team stunned India in Bristol."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sana-mir-slams-sexist-backlash-against-pakistan-womens-team-after-world-cup-exit-2935752-2026-06-27",
+      "headline": "Ex-Pakistan captain Sana Mir slams sexist remarks at women's team Former Pakistan captain Sana Mir has slammed the sexist backlash against the women's cricket team after its Women's T20 World Cup exit, urging fans to replace gender-based attacks with constructive criticism."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/ancy-sojan-breaks-anju-bobby-george-womens-long-jump-national-record-2935714-2026-06-27",
@@ -359,12 +369,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/mehdi-taremi-blasts-fifa-world-cup-coach-usa-treated-iran-unfairly-2935477-2026-06-27",
-      "headline": "No one helps us: Furious Iran captain Taremi brands FIFA World Cup a 'disaster' Iran captain Mehdi Taremi tore into FIFA and its president, Gianni Infantino, after his side's World Cup campaign was hampered by travel restrictions and logistical problems, saying the tournament had been a \"disaster\" for Iran."
+      "headline": "No one helps us: Furious Iran captain Taremi brands FIFA World Cup a 'disaster'Iran captain Mehdi Taremi tore into FIFA and its president, Gianni Infantino, after his side's World Cup campaign was hampered by travel restrictions and logistical problems, saying the tournament had been a \"disaster\" for Iran."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/rounak-chouhan-us-open-badminton-semifinal-misha-zilberman-2935476-2026-06-27",
-      "headline": "Badminton: Rounak Chouhan continues dream run, reaches semifinals of US Open Qualifier Rounak Chouhan beat Misha Zilberman to enter the US Open 2026 semi-finals. His surge followed a straight-games upset of top seed Chou Tien Chen, raising prospects of an all-Indian final."
+      "headline": "Badminton: Rounak Chouhan continues dream run, reaches semifinals of US OpenQualifier Rounak Chouhan beat Misha Zilberman to enter the US Open 2026 semi-finals. His surge followed a straight-games upset of top seed Chou Tien Chen, raising prospects of an all-Indian final."
     },
     {
       "sentiment": "positive",
@@ -450,21 +460,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/ousmane-dembele-hat-trick-norway-vs-france-fifa-world-cup-2026-record-2935330-2026-06-27",
       "headline": "Ousmane Dembele silences doubters with historic World Cup hat-trick for FranceOusmane Dembele's historic World Cup hat-trick against Norway marked the defining moment of his France career, capping years of perseverance with a record-breaking performance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-pakistan-fih-hockey-pro-league-harmanpreet-singh-london-2935321-2026-06-27",
-      "headline": "India hammer Pakistan 7-1 in FIH Pro League, extend decade-long dominanceIndia produced a commanding comeback to thrash Pakistan 7-1 in the FIH Pro League after conceding an early penalty-corner goal, with Harmanpreet Singh leading a clinical attacking display. The emphatic victory puts India seventh on the points table, above Spain and Pakistan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-womens-t20-world-cup-jemimah-rodrigues-aggressive-approach-2935025-2026-06-27",
-      "headline": "Jemimah tells India to go on the attack against AustraliaWomen's T20 World Cup, INDW vs AUSW: Jemimah Rodrigues said that India need to be aggressive and can't afford to be defensive when they face Australia at the Lord's Cricket Ground on Sunday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/norway-vs-france-live-score-fifa-world-cup-2026-mbappe-haaland-senegal-vs-iraq-updates-2935293-2026-06-26",
-      "headline": "FIFA World Cup Highlights: France crush Norway, Senagal alive after 5-0 Iraq winNorway vs France Highlights, FIFA World Cup 2026: France marched into the knockouts with a commanding 4-1 win over Norway, finishing Group I with a perfect record. Elsewhere, Senegal kept their World Cup dream alive by thrashing Iraq 5-0 to boost their hopes of sneaking through as one of the eight best third-placed teams."
     }
   ],
   "education": [
