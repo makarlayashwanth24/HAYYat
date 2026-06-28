@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/jasmine-bhasin-hospitalised-dubai-birthday-aly-goni-health-update-2936194-2026-06-28",
+      "headline": "Actor Jasmine Bhasin hospitalised in Dubai, partner Aly Goni shares update Actor Jasmine Bhasin was hospitalised in Dubai after falling seriously ill during her birthday trip with Aly Goni. As concern grew among fans and friends, Aly said she is slowly recovering."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/jennifer-lopez-off-campus-prime-video-obsessed-fest-performs-introduces-cast-2936170-2026-06-28",
       "headline": "JLo performs On The Floor at Obsessed Fest and introduces the Off Campus cast Jennifer Lopez surprised fans at Prime Video's Obsessed Fest with a live performance and a special introduction for the Off Campus cast. Here's why the moment has everyone talking."
     },
@@ -191,18 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/khushbu-sundar-hits-back-at-backlash-over-wedding-post-after-k-bhagyaraj-death-2935709-2026-06-27",
       "headline": "Khushbu Sundar defends wedding post amid backlash after K Bhagyaraj's death Khushbu Sundar hit back at criticism over her wedding-day post after K Bhagyaraj's death. The reaction came as condolences and a final video from her daughter's Goa wedding spread online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/suniel-shetty-granddaughter-evaarah-offers-laddoos-to-pm-modi-photo-daily-2935694-2026-06-27",
-      "headline": "Suniel Shetty shares granddaughter Evaarah's daily ritual involving PM Modi's photo Suniel Shetty has shared an unusual daily ritual involving his 15-month-old granddaughter Evaarah and a photograph of Prime Minister Narendra Modi. Here's what the actor revealed and why he believes it is significant."
     }
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ayodhya-ram-temple-donation-theft-allegations-pawan-pandey-akhilesh-exposed-2936220-2026-06-28",
+      "headline": "Ram Temple theft surfaced after looters fought, Rs 80 lakh found in dump: SP leaderIn an interview with UP Tak, Pawan Pandey alleged that trust officials suppressed the irregularities for years, questioned the resignation of former trust office-bearers, dismissed the SIT probe as unreliable, and urged the Supreme Court to order a court-monitored investigation into the allegations."
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ram-mandir-donation-theft-case-trust-knew-earlier-cctv-delay-questions-akhilesh-yadav-yogi-adityanath-vhp-chief-2936018-2026-06-28",
-      "headline": "Trust knew before public disclosure? New details emerge in Ram Mandir theft rowSources said the Ram Mandir trust was aware of the alleged donation theft before it became public. The claimed June 5 police action and later political sparring have raised questions over delay and transparency."
+      "url": "https://www.indiatoday.in/cities/pune/story/pune-ketan-agrawal-murder-case-cab-driver-missing-passport-bali-trip-siya-goyal-chetan-2936231-2026-06-28",
+      "headline": "Siya stopped cab, took item from boot: Driver's claim in Ketan passport mysteryThe cab driver claimed that Siya Goyal stopped the cab midway on the Mumbai-Pune Expressway, asked him to open the boot, and took an unidentified item from her purse before the group reached Mumbai Airport."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-re-evaluation-vedant-srivastava-gets-two-marks-no-physics-gain-2936213-2026-06-28",
+      "headline": "Not 2 but 11 marks gained: CBSE says Vedant's claim is a blatant lieVedant Srivastava has received his CBSE re-evaluation result following the Physics answer-sheet mix-up. However, his claims have been challenged by CBSE, which said he received an 11-mark increase, not two, and called his statement \"factually incorrect.\""
     },
     {
       "sentiment": "positive",
@@ -211,28 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-rejects-pakistans-karachi-blast-claims-asks-it-to-look-inwards-and-act-against-terror-networks-2936031-2026-06-28",
-      "headline": "Look inwards, act against terror networks: India rejects Pak's Karachi blast claimIn a sharp response, the Ministry of External Affairs said Pakistan should stop \"pointing fingers at others\" and instead take credible action against terrorist networks functioning within its territory."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-australia-women-live-score-t20-world-cup-2026-ind-w-vs-aus-w-match-2936119-2026-06-28",
-      "headline": "IND vs AUS LIVE: Mooney departs as India put pressure on AustraliaIndia (IND-W) vs Australia (AUS-W) Live Score, Women's T20 World Cup: Deepti Sharma has taken the big wicket of Beth Mooney as India have kept Australia under pressure with the six-time champions looking to chase down 171."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/gagan-india-satellite-landing-indigo-jet-udaipur-dgca-gps-science-news-2936175-2026-06-28",
       "headline": "IndiGo landed a jet via Gagan, not radio. What is it, and why does it matter for India?On June 27, 2026, an IndiGo A320 became the first jet in India to land using Gagan, the country's own satellite navigation system. Here is how this technology guides aircraft to the runway without any ground-based radio equipment."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-dehradun-expressway-crash-cctv-shows-suv-hitting-reversing-car-in-saharanpur-2936011-2026-06-28",
-      "headline": "Video: Missed exit turns deadly, reversing car hit by SUV, 4 family members dieA CCTV video shows a reversing car being hit by a speeding Scorpio on the Delhi-Dehradun corridor in Saharanpur. The footage is now central to the police probe into the crash that killed four family members."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-ireland-2nd-t20i-live-score-ind-ire-vaibhav-sooryavanshi-2936050-2026-06-28",
-      "headline": "2nd T20I Live Score: Axar Patel departs right after rain delayIndia (IND) vs Ireland (IRE) Live Score, 2nd T20I: (IND 74/5 in 11.3 ovs) in 155 chase. Jai Moondra provided Ireland with the perfect start in their defence as Indian batters struggled to get going. Earlier, Indian bowlers were quick to halt the Irish charge grabbing wickets at crucial stages. Debutant Prince Yadav got three wickets on his T20I debut for India."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-womens-t20-world-cup-india-crash-out-after-six-wicket-loss-at-lords-2936234-2026-06-28",
+      "headline": "ODI champs India suffer Women's T20 World Cup heartbreak, crash out before semisWomen's T20 World Cup 2026, INDW vs AUSW: Harmanpreet Kaur's India failed to advance to the semis after losing to Australia by six wickets in their first-ever T20I at the iconic Lord's Cricket Ground. From Group A, South Africa and Australia went through to the semis."
     },
     {
       "sentiment": "positive",
@@ -241,8 +236,33 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-rejects-pakistans-karachi-blast-claims-asks-it-to-look-inwards-and-act-against-terror-networks-2936031-2026-06-28",
+      "headline": "Look inwards, act against terror networks: India rejects Pak's Karachi blast claimIn a sharp response, the Ministry of External Affairs said Pakistan should stop \"pointing fingers at others\" and instead take credible action against terrorist networks functioning within its territory."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sunday-special/story/congress-house-mumbai-mistaken-brothel-history-nb-compound-prostitution-mujra-sex-work-kamathipura-2935534-2026-06-28",
       "headline": "Why men looking for sex reach Congress House in MumbaiMumbai's Congress House, the pre-Independence-era landmark, is not a brothel, but men driven by lust and desire often fail to make the distinction. The former Congress office's proximity to a mujra house and the red-light district of Kamathipura make it carry a stigma. However, it is not really untouched by the sex trade."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ireland-vs-india-2nd-t20i-ireland-win-by-1-run-seal-2-0-series-sweep-2936236-2026-06-28",
+      "headline": "T20 world champions India lose series 0-2 in Ireland as 16-series streak endsIreland defended 154 and beat India by one run in Belfast to complete a 2-0 T20I series sweep. The result ended India's 16-series bilateral winning streak and exposed a brittle top order."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/delhi-dehradun-expressway-crash-cctv-shows-suv-hitting-reversing-car-in-saharanpur-2936011-2026-06-28",
+      "headline": "Video: Missed exit turns deadly, reversing car hit by SUV, 4 family members dieA CCTV video shows a reversing car being hit by a speeding Scorpio on the Delhi-Dehradun corridor in Saharanpur. The footage is now central to the police probe into the crash that killed four family members."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ram-mandir-donation-theft-case-trust-knew-earlier-cctv-delay-questions-akhilesh-yadav-yogi-adityanath-vhp-chief-2936018-2026-06-28",
+      "headline": "Trust knew before public disclosure? New details emerge in Ram Mandir theft rowSources said the Ram Mandir trust was aware of the alleged donation theft before it became public. The claimed June 5 police action and later political sparring have raised questions over delay and transparency."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/foreign-university-campuses-india-15-cleared-global-degrees-40-percent-cheaper-2935954-2026-06-28",
+      "headline": "From Bristol to Liverpool: Foreign degrees are now 50% cheaper in IndiaIndia has cleared 15 foreign university campuses, with most expected to start classes by August. The move could let students earn globally recognised degrees at lower cost without going abroad."
     },
     {
       "sentiment": "negative",
@@ -251,33 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/from-garba-to-chutney-pm-modi-highlights-shared-heritage-maritime-links-in-seychelles-speech-2936085-2026-06-28",
-      "headline": "From Garba to chutney, PM highlights shared heritage, maritime links in SeychellesPrime Minister Narendra Modi addressed the Seychelles Parliament and renewed India's partnership agenda with the island nation. His pitch centred on maritime security, climate justice, training links and digital cooperation."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/monsoon-rain-alert-states-monday-june-29-imd-warning-uttar-pradesh-delhi-heatwave-2936160-2026-06-28",
       "headline": "Very heavy rain to lash Northeast India Monday, heatwave to grip NorthThe IMD has forecast heavy to very heavy rain over the northeast and parts of the east on Monday, June 29, with heatwave conditions likely over Uttar Pradesh and Delhi. This piece explains the monsoon trough, orographic lifting and the systems driving the day's weather."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/foreign-university-campuses-india-15-cleared-global-degrees-40-percent-cheaper-2935954-2026-06-28",
-      "headline": "From Bristol to Liverpool: Foreign degrees are now 50% cheaper in IndiaIndia has cleared 15 foreign university campuses, with most expected to start classes by August. The move could let students earn globally recognised degrees at lower cost without going abroad."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/pakistan-considers-cheaper-iran-oil-gas-imports-after-us-sanctions-waiver-ptag-2936177-2026-06-28",
       "headline": "Pakistan eyes cheaper Iran oil, gas imports after US sanctions waiverPakistan's Minister for Petroleum, Ali Pervaiz Malik, said the government was examining the possibility after oil markets stabilised following the end of direct hostilities in the Gulf."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-stabbing-near-mahim-station-man-attacked-after-accidental-bump-2936044-2026-06-28",
-      "headline": "Another knife attack in Mumbai as man stabbed after saying sorry for minor jostleAs the 35-year-old victim cried out for help, the accused allegedly brandished the weapon and threatened bystanders, preventing them from intervening. Panic gripped the area before the attacker fled the spot."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/europe-heatwave-france-1000-extra-deaths-germany-record-temperatures-wildfires-ptag-2936073-2026-06-28",
-      "headline": "Europe's killer heatwave has claimed over 1,300 lives since June 21The scorching conditions have killed around 1,000 people in France, sparked wildfires across Germany, damaged roads and railway networks, and pushed emergency services to their limits, prompting fresh warnings."
     },
     {
       "sentiment": "negative",
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/twisha-sharma-giribala-singh-bhopal-house-burglary-masked-men-escape-after-clash-cctv-probe-2936133-2026-06-28",
-      "headline": "Gold, documents looted from Twisha Sharma's mother-in-law Giribala Singh's homeThree masked men allegedly broke into retired judge Giribala Singh's house and fled after a scuffle with police. The incident has intensified scrutiny around a property already linked to the Twisha Sharma murder case."
+      "url": "https://www.indiatoday.in/india/story/from-garba-to-chutney-pm-modi-highlights-shared-heritage-maritime-links-in-seychelles-speech-2936085-2026-06-28",
+      "headline": "From Garba to chutney, PM highlights shared heritage, maritime links in SeychellesPrime Minister Narendra Modi addressed the Seychelles Parliament and renewed India's partnership agenda with the island nation. His pitch centred on maritime security, climate justice, training links and digital cooperation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/jaipur/story/jaipur-boy-murder-three-minors-detained-in-knife-recovered-sister-remarks-2936037-2026-06-28",
-      "headline": "12-year-old killed, body dumped in sewer, 3 minors detained for murderJaipur Police have detained three minors, aged 10 to 12, for allegedly beheading a 12-year-old neighbour after he allegedly made remarks to one accused's sister. The victim's skull was found in a sewer."
+      "url": "https://www.indiatoday.in/india/story/ram-temple-donation-theft-case-police-probe-neighbours-family-ties-among-accused-ayodhya-2936193-2026-06-28",
+      "headline": "Ram Mandir donation theft case: 5 accused lived within 200 metres of each otherPolice are examining whether close residential links and family ties among five accused shaped the alleged Ram Temple donation theft. The line of inquiry has intensified after coordinated raids and claims the Trust knew of the suspected misappropriation earlier."
     },
     {
       "sentiment": "positive",
@@ -305,14 +305,14 @@
       "headline": "India makes hydrogen from nuclear heat, not electricity. Why scientists are thrilledIndia has inaugurated the world's first plant that makes hydrogen using nuclear reactor heat instead of electricity. Built at Kalpakkam, the copper-chlorine cycle points to a cleaner, round-the-clock route to green hydrogen."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/monsoon-disappears-again-indias-rain-deficit-jumps-to-45-clouds-vanish-2935897-2026-06-28",
-      "headline": "Monsoon disappears again: Rain deficit jumps to 45%, no clouds in sightThe southwest monsoon has slipped into another prolonged pause, with satellite imagery showing sparse rain-bearing clouds over much of India. The slowdown has widened the national rainfall deficit to 45% and raised concern over sowing, reservoirs and power demand."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-stabbing-near-mahim-station-man-attacked-after-accidental-bump-2936044-2026-06-28",
+      "headline": "Another knife attack in Mumbai as man stabbed after saying sorry for minor jostleAs the 35-year-old victim cried out for help, the accused allegedly brandished the weapon and threatened bystanders, preventing them from intervening. Panic gripped the area before the attacker fled the spot."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/14-killed-after-helicopter-belonging-to-saudi-oil-giant-aramco-crashes-in-ras-tanura-2936071-2026-06-28",
-      "headline": "14 killed after helicopter belonging to Saudi oil giant Aramco crashes in Ras TanuraFourteen Saudi nationals were killed after a Saudi Aramco helicopter crashed in Ras Tanura on Sunday morning. Authorities have launched an investigation, with the cause of the crash yet to be determined."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/europe-heatwave-france-1000-extra-deaths-germany-record-temperatures-wildfires-ptag-2936073-2026-06-28",
+      "headline": "Europe's killer heatwave has claimed over 1,300 lives since June 21The scorching conditions have killed around 1,000 people in France, sparked wildfires across Germany, damaged roads and railway networks, and pushed emergency services to their limits, prompting fresh warnings."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,16 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ireland-vs-india-2nd-t20i-ireland-win-by-1-run-seal-2-0-series-sweep-2936236-2026-06-28",
+      "headline": "T20 world champions India lose series 0-2 in Ireland as 16-series streak ends Ireland defended 154 and beat India by one run in Belfast to complete a 2-0 T20I series sweep. The result ended India's 16-series bilateral winning streak and exposed a brittle top order."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-womens-t20-world-cup-india-crash-out-after-six-wicket-loss-at-lords-2936234-2026-06-28",
+      "headline": "ODI champs India suffer Women's T20 World Cup heartbreak, crash out before semis Women's T20 World Cup 2026, INDW vs AUSW: Harmanpreet Kaur's India failed to advance to the semis after losing to Australia by six wickets in their first-ever T20I at the iconic Lord's Cricket Ground. From Group A, South Africa and Australia went through to the semis."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/rohit-yadav-javelin-throw-interstate-athletics-championships-2026-asian-games-qualification-2936169-2026-06-28",
@@ -364,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-australia-women-live-score-t20-world-cup-2026-ind-w-vs-aus-w-match-2936119-2026-06-28",
-      "headline": "IND vs AUS LIVE: Mooney departs as India put pressure on Australia India (IND-W) vs Australia (AUS-W) Live Score, Women's T20 World Cup: Deepti Sharma has taken the big wicket of Beth Mooney as India have kept Australia under pressure with the six-time champions looking to chase down 171."
+      "headline": "IND vs AUS Highlights: India crash out after 7-wicket loss to Australia India (IND-W) vs Australia (AUS-W) Highlights, Women's T20 World Cup: India crashed out of the tournament after losing to Australia by six wickets on Sunday at the Lord's Cricket Ground. Chasing 171, the Aussies romped home with five balls to spare."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-ireland-2nd-t20i-live-score-ind-ire-vaibhav-sooryavanshi-2936050-2026-06-28",
-      "headline": "2nd T20I Live Score: Axar Patel departs right after rain delay India (IND) vs Ireland (IRE) Live Score, 2nd T20I: (IND 74/5 in 11.3 ovs) in 155 chase. Jai Moondra provided Ireland with the perfect start in their defence as Indian batters struggled to get going. Earlier, Indian bowlers were quick to halt the Irish charge grabbing wickets at crucial stages. Debutant Prince Yadav got three wickets on his T20I debut for India."
+      "headline": "2nd T20I Highlights: India's 16 series unbeaten streak ends, Ireland win 2-0India (IND) vs Ireland (IRE), 2nd T20I Highlights: Ireland pulled off a famous one-run win to stun the T20 world champions in Belfast. The victory ended India's 16-series unbeaten run and handed them their first bilateral T20I series defeat since 2023."
     },
     {
       "sentiment": "negative",
@@ -455,16 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-cody-gakpo-netherlands-squad-stays-unborn-son-death-miscarriage-2935830-2026-06-28",
       "headline": "Cody Gakpo stays with Netherlands squad after heartbreaking loss of unborn sonFIFA World Cup 2026: Cody Gakpo's World Cup journey has been overshadowed by unimaginable personal tragedy after the Netherlands forward and partner Noa van der Bij announced the loss of their unborn son. Despite the heartbreak, Gakpo has chosen to remain with the Dutch squad for the knockout stages."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-dr-congo-lumumba-fan-us-visa-denied-uzbekistan-2935826-2026-06-28",
-      "headline": "DR Congo's Lumumba fan denied US visa for must-win clash vs UzbekistanDR Congo's biggest match at the FIFA World Cup 2026 will be missing one of its most recognisable supporters. Cult fan Michel Kuka Mboladinga, famous for his Patrice Lumumba tribute, has been denied a US visa and will miss Saturday's crucial clash against Uzbekistan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/panama-vs-england-live-score-fifa-world-cup-2026-harry-kane-croatia-vs-ghana-updates-2935814-2026-06-28",
-      "headline": "PAN 0-2 ENG: England and Croatia make it through to the knockoutsPanama vs England Live score, FIFA World Cup 2026: England sealed top spot in Group L with a 2-0 win over Panama as Jude Bellingham and Harry Kane struck, while Croatia beat Ghana 2-1 to join the Three Lions in the World Cup Round of 32."
     }
   ],
   "education": [
