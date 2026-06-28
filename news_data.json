@@ -200,9 +200,19 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-agree-to-halt-strikes-hold-talks-this-week-says-reuters-2936277-2026-06-29",
+      "headline": "US, Iran agree to halt strikes, hold talks this week in Doha: ReportThe US and Iran have agreed to suspend all 'kinetic activity' while technical negotiations continue over the Strait of Hormuz, according to Axios."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/pune/story/pune-ketan-agrawal-murder-case-cab-driver-missing-passport-bali-trip-siya-goyal-chetan-2936231-2026-06-28",
       "headline": "Siya stopped cab, took item from boot: Driver's claim in Ketan passport mysteryThe cab driver claimed that Siya Goyal stopped the cab midway on the Mumbai-Pune Expressway, asked him to open the boot, and took an unidentified item from her purse before the group reached Mumbai Airport."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-south-africa-vs-canada-live-score-updates-round-of-32-knockouts-2936247-2026-06-28",
+      "headline": "RSA 0-1 CAN Highlights: Canada advance to Round of 16 with late winSouth Africa (RSA) vs Canada (CAN), FIFA World Cup 2026 Highlights: Canada left it painfully late, but Stephen Eustaquio's stoppage-time strike finally broke South African resistance to send Jesse Marsch's side into the Round of 16 with a 1-0 win over South Africa in LA."
     },
     {
       "sentiment": "positive",
@@ -211,18 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-south-africa-vs-canada-live-score-updates-round-of-32-knockouts-2936247-2026-06-28",
-      "headline": "RSA 0-0 CAN Live: Canada control tempo, Bafana Bafana fight onSouth Africa (RSA) vs Canada (CAN) Live, FIFA World Cup 2026: (RSA 0-0 CAN) Canada have dominated possession and territory, but South Africa's disciplined defending has kept this Round of 32 tie goalless at the break. Bafana survived a goal-line clearance, a missed free header and a strong penalty appeal, leaving the second half finely poised with everything still on the line."
+      "url": "https://www.indiatoday.in/science/story/gagan-india-satellite-landing-indigo-jet-udaipur-dgca-gps-science-news-2936175-2026-06-28",
+      "headline": "IndiGo landed a jet via Gagan, not radio. What is it, and why does it matter for India?On June 27, 2026, an IndiGo A320 became the first jet in India to land using Gagan, the country's own satellite navigation system. Here is how this technology guides aircraft to the runway without any ground-based radio equipment."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-re-evaluation-vedant-srivastava-gets-two-marks-no-physics-gain-2936213-2026-06-28",
       "headline": "Not 2 but 11 marks gained: CBSE says Vedant's claim is a blatant lieVedant Srivastava has received his CBSE re-evaluation result following the Physics answer-sheet mix-up. However, his claims have been challenged by CBSE, which said he received an 11-mark increase, not two, and called his statement \"factually incorrect.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/gagan-india-satellite-landing-indigo-jet-udaipur-dgca-gps-science-news-2936175-2026-06-28",
-      "headline": "IndiGo landed a jet via Gagan, not radio. What is it, and why does it matter for India?On June 27, 2026, an IndiGo A320 became the first jet in India to land using Gagan, the country's own satellite navigation system. Here is how this technology guides aircraft to the runway without any ground-based radio equipment."
     },
     {
       "sentiment": "positive",
@@ -233,11 +238,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-womens-t20-world-cup-india-crash-out-after-six-wicket-loss-at-lords-2936234-2026-06-28",
       "headline": "ODI champs India suffer Women's T20 World Cup heartbreak, crash out before semisWomen's T20 World Cup 2026, INDW vs AUSW: Harmanpreet Kaur's India failed to advance to the semis after losing to Australia by six wickets in their first-ever T20I at the iconic Lord's Cricket Ground. From Group A, South Africa and Australia went through to the semis."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ram-mandir-donation-theft-case-trust-knew-earlier-cctv-delay-questions-akhilesh-yadav-yogi-adityanath-vhp-chief-2936018-2026-06-28",
-      "headline": "Trust knew before public disclosure? New details emerge in Ram Mandir theft rowSources said the Ram Mandir trust was aware of the alleged donation theft before it became public. The claimed June 5 police action and later political sparring have raised questions over delay and transparency."
     },
     {
       "sentiment": "positive",
@@ -251,6 +251,21 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-kazakhstan-critical-mineral-deal-to-benefit-donald-trump-howard-lutnick-sons-2936273-2026-06-29",
+      "headline": "America first or family first? Trump's $1.6 billion deal set to profit his sonsA US-Kazakhstan agreement to develop a massive tungsten mine is facing scrutiny after businesses connected to the Trump and Lutnick families positioned themselves to profit from the deal."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ram-mandir-donation-theft-case-trust-knew-earlier-cctv-delay-questions-akhilesh-yadav-yogi-adityanath-vhp-chief-2936018-2026-06-28",
+      "headline": "Trust knew before public disclosure? New details emerge in Ram Mandir theft rowSources said the Ram Mandir trust was aware of the alleged donation theft before it became public. The claimed June 5 police action and later political sparring have raised questions over delay and transparency."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/foreign-university-campuses-india-15-cleared-global-degrees-40-percent-cheaper-2935954-2026-06-28",
+      "headline": "From Bristol to Liverpool: Foreign degrees are now 50% cheaper in IndiaIndia has cleared 15 foreign university campuses, with most expected to start classes by August. The move could let students earn globally recognised degrees at lower cost without going abroad."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-rejects-pakistans-karachi-blast-claims-asks-it-to-look-inwards-and-act-against-terror-networks-2936031-2026-06-28",
       "headline": "Look inwards, act against terror networks: India rejects Pak's Karachi blast claimIn a sharp response, the Ministry of External Affairs said Pakistan should stop \"pointing fingers at others\" and instead take credible action against terrorist networks functioning within its territory."
     },
@@ -261,23 +276,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/foreign-university-campuses-india-15-cleared-global-degrees-40-percent-cheaper-2935954-2026-06-28",
-      "headline": "From Bristol to Liverpool: Foreign degrees are now 50% cheaper in IndiaIndia has cleared 15 foreign university campuses, with most expected to start classes by August. The move could let students earn globally recognised degrees at lower cost without going abroad."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/iran-says-it-built-next-gen-drones-upgraded-missile-arsenal-during-war-with-us-israel-2936176-2026-06-28",
       "headline": "Next-gen drones, upgraded missiles: Iran says it built advanced weapons during warIranian Army spokesperson Brigadier General Mohammad Akraminia said the country's armed forces continued research and production throughout the conflict and successfully introduced new military systems before the fighting ended."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-dehradun-expressway-crash-cctv-shows-suv-hitting-reversing-car-in-saharanpur-2936011-2026-06-28",
-      "headline": "Video: Missed exit turns deadly, reversing car hit by SUV, 4 family members dieA CCTV video shows a reversing car being hit by a speeding Scorpio on the Delhi-Dehradun corridor in Saharanpur. The footage is now central to the police probe into the crash that killed four family members."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-considers-cheaper-iran-oil-gas-imports-after-us-sanctions-waiver-ptag-2936177-2026-06-28",
-      "headline": "Pakistan eyes cheaper Iran oil, gas imports after US sanctions waiverPakistan's Minister for Petroleum, Ali Pervaiz Malik, said the government was examining the possibility after oil markets stabilised following the end of direct hostilities in the Gulf."
     },
     {
       "sentiment": "negative",
@@ -286,18 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/from-garba-to-chutney-pm-modi-highlights-shared-heritage-maritime-links-in-seychelles-speech-2936085-2026-06-28",
-      "headline": "From Garba to chutney, PM highlights shared heritage, maritime links in SeychellesPrime Minister Narendra Modi addressed the Seychelles Parliament and renewed India's partnership agenda with the island nation. His pitch centred on maritime security, climate justice, training links and digital cooperation."
+      "url": "https://www.indiatoday.in/india/story/delhi-dehradun-expressway-crash-cctv-shows-suv-hitting-reversing-car-in-saharanpur-2936011-2026-06-28",
+      "headline": "Video: Missed exit turns deadly, reversing car hit by SUV, 4 family members dieA CCTV video shows a reversing car being hit by a speeding Scorpio on the Delhi-Dehradun corridor in Saharanpur. The footage is now central to the police probe into the crash that killed four family members."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ram-temple-donation-theft-case-police-probe-neighbours-family-ties-among-accused-ayodhya-2936193-2026-06-28",
-      "headline": "Ram Mandir donation theft case: 5 accused lived within 200 metres of each otherPolice are examining whether close residential links and family ties among five accused shaped the alleged Ram Temple donation theft. The line of inquiry has intensified after coordinated raids and claims the Trust knew of the suspected misappropriation earlier."
+      "url": "https://www.indiatoday.in/world/story/article-5-us-iran-mou-clause-that-caused-latest-flare-up-in-strait-of-hormuz-2936281-2026-06-29",
+      "headline": "Article 5 explained: The US-Iran MoU clause which caused latest flare-up in HormuzThe United States and Iran will meet in Doha after pausing fresh strikes over attacks in the Strait of Hormuz. Their truce now hinges on rival readings of Article 5 and control of commercial shipping."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/europe-heatwave-france-1000-extra-deaths-germany-record-temperatures-wildfires-ptag-2936073-2026-06-28",
-      "headline": "Europe's killer heatwave has claimed over 1,300 lives since June 21The scorching conditions have killed around 1,000 people in France, sparked wildfires across Germany, damaged roads and railway networks, and pushed emergency services to their limits, prompting fresh warnings."
+      "url": "https://www.indiatoday.in/world/story/pakistan-considers-cheaper-iran-oil-gas-imports-after-us-sanctions-waiver-ptag-2936177-2026-06-28",
+      "headline": "Pakistan eyes cheaper Iran oil, gas imports after US sanctions waiverPakistan's Minister for Petroleum, Ali Pervaiz Malik, said the government was examining the possibility after oil markets stabilised following the end of direct hostilities in the Gulf."
     },
     {
       "sentiment": "positive",
@@ -306,13 +306,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/haryana-faridabad-businessman-suicide-instagram-video-names-wifes-family-2936185-2026-06-28",
-      "headline": "Swept, washed utensils: Businessman ends life, blames wife for harassment in videoA 28-year-old businessman in Faridabad died by suicide inside his shop after posting an Instagram video alleging mental harassment by his wife and her family, blaming them for his death and seeking legal action."
+      "url": "https://www.indiatoday.in/india/story/from-garba-to-chutney-pm-modi-highlights-shared-heritage-maritime-links-in-seychelles-speech-2936085-2026-06-28",
+      "headline": "From Garba to chutney, PM highlights shared heritage, maritime links in SeychellesPrime Minister Narendra Modi addressed the Seychelles Parliament and renewed India's partnership agenda with the island nation. His pitch centred on maritime security, climate justice, training links and digital cooperation."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/pune/story/siya-goyal-chetan-chaudhary-crime-scene-reconstruction-pune-lohagad-fort-ketan-agarwal-murder-case-2935886-2026-06-28",
-      "headline": "What happened at Pune fort? Cops recreate Ketan's murder scene with SiyaSiya Goyal was taken to the Lohagad Fort at 6.30 am on Sunday. According to the police, the exercise was aimed at recreating the exact chain of events around the deadly fall that claimed Ketan Agarwal's life on June 18."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/europe-heatwave-france-1000-extra-deaths-germany-record-temperatures-wildfires-ptag-2936073-2026-06-28",
+      "headline": "Europe's killer heatwave has claimed over 1,300 lives since June 21The scorching conditions have killed around 1,000 people in France, sparked wildfires across Germany, damaged roads and railway networks, and pushed emergency services to their limits, prompting fresh warnings."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,21 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-canada-vs-south-africa-stephen-eustaquio-match-report-2936279-2026-06-29",
+      "headline": "Canada end brave Bafana Bafana dream with stoppage-time heartbreak Stephen Eustaquio scored deep in stoppage time as Canada beat South Africa 1-0 in Los Angeles. The defeat ended Bafana Bafana's brave World Cup run, while Canada reached the Round of 16 for the first time."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/serena-williams-wimbledon-singles-comeback-nearly-turned-down-2936217-2026-06-29",
+      "headline": "Serena Williams reveals why she accepted Wimbledon singles comeback Serena Williams admits she nearly walked away from one final Wimbledon singles opportunity before convincing herself to embrace the moment. The 23-time Grand Slam champion will return to Centre Court after almost four years away, insisting she could not let the chance slip by."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cupcristiano-ronaldo-portugal-colombia-draw-criticism-2936274-2026-06-29",
+      "headline": "Lack joy and happiness: Quaresma explains Ronaldo-led Portugal's struggles FIFA World Cup 2026: Portugal scraped into the knockout stage after a flat goalless draw with Colombia. The stale display has intensified scrutiny of Cristiano Ronaldo, midfield control and the side's wider cohesion issues."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-south-korea-exit-hong-myung-bo-resigns-president-lee-criticism-2936268-2026-06-29",
@@ -339,7 +354,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-south-africa-vs-canada-live-score-updates-round-of-32-knockouts-2936247-2026-06-28",
-      "headline": "RSA 0-0 CAN Live: Canada control tempo, Bafana Bafana fight on South Africa (RSA) vs Canada (CAN) Live, FIFA World Cup 2026: (RSA 0-0 CAN) South Africa landed the first punch, but Canada have grown into the contest with every passing minute. Jonathan David and Co are beginning to turn the screw, yet the breakthrough remains elusive in an entertaining Round of 32 battle."
+      "headline": "RSA 0-1 CAN Highlights: Canada advance to Round of 16 with late win South Africa (RSA) vs Canada (CAN), FIFA World Cup 2026 Highlights: Canada left it painfully late, but Stephen Eustaquio's stoppage-time strike finally broke South African resistance to send Jesse Marsch's side into the Round of 16 with a 1-0 win over South Africa in LA."
     },
     {
       "sentiment": "positive",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-shikhar-dhawan-lords-as-harmanpreet-kaur-womens-t20-world-cup-2936189-2026-06-28",
-      "headline": "Virat Kohli cheers for Harmanpreet's record Lord's fifty, attends game with Anushka Virat Kohli, Shikhar Dhawan, Anushka Sharma, Sophie Shine and Ravi Shastri were among the notable personalities at Lord's as India faced Australia in a crucial Women's T20 World Cup clash on Sunday."
+      "headline": "Virat Kohli cheers for Harmanpreet's record Lord's fifty, attends game with AnushkaVirat Kohli, Shikhar Dhawan, Anushka Sharma, Sophie Shine and Ravi Shastri were among the notable personalities at Lord's as India faced Australia in a crucial Women's T20 World Cup clash on Sunday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-ireland-vaibhav-sooryavanshi-debut-gavaskar-snub-england-series-2936153-2026-06-28",
-      "headline": "Expected him to play both games: Sunil Gavaskar surprised at Sooryavanshi's Ireland omission IND vs IRE: Sunil Gavaskar said he was surprised that Vaibhav Sooryavanshi was not given a debut in the Ireland T20I series despite his strong IPL performances. However, he believes the teenager remains in India's plans and is likely to get his opportunity during the upcoming England white-ball series."
+      "headline": "Expected him to play both games: Sunil Gavaskar surprised at Sooryavanshi's Ireland omissionIND vs IRE: Sunil Gavaskar said he was surprised that Vaibhav Sooryavanshi was not given a debut in the Ireland T20I series despite his strong IPL performances. However, he believes the teenager remains in India's plans and is likely to get his opportunity during the upcoming England white-ball series."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/formula-one/story/formula-1-george-russell-wins-in-austria-verstappen-and-antonelli-join-him-on-podium-2936172-2026-06-28",
-      "headline": "Formula 1: George Russell wins in Austria, Verstappen and Antonelli join him on podium Formula 1: George Russell won the Austrian Grand Prix from pole despite suffering a drinks system failure and extreme heat conditions, holding off Max Verstappen and Kimi Antonelli. The result trimmed Antonelli's championship lead and extended Mercedes' strong run in both the drivers' and constructors' standings."
+      "headline": "Formula 1: George Russell wins in Austria, Verstappen and Antonelli join him on podiumFormula 1: George Russell won the Austrian Grand Prix from pole despite suffering a drinks system failure and extreme heat conditions, holding off Max Verstappen and Kimi Antonelli. The result trimmed Antonelli's championship lead and extended Mercedes' strong run in both the drivers' and constructors' standings."
     },
     {
       "sentiment": "positive",
@@ -450,21 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-women-t20-world-cup-lords-virtual-knockout-preview-2935801-2026-06-28",
       "headline": "Are India equipped enough to script another World Cup classic against Australia?Women's T20 World Cup, INDW vs AUSW: Harmanpreet Kaur's India will take on Sophie Molineux's Australia in a blockbuster Group A clash at the iconic Lord's Cricket Ground on Sunday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-ire-2nd-t20i-preview-vaibhav-sooryavanshi-india-series-saving-win-2935852-2026-06-28",
-      "headline": "2nd T20I: Will India unleash Sooryavanshi in search for a series-saving win?Ireland vs India, 2nd T20I preview: Stunned by a historic Irish victory in the Belfast opener, a fumbling Indian side faces a defining selection dilemma as Shreyas Iyer seeks to protect a proud three-year unbeaten T20I series streak."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-portugal-vs-colombia-fifa-world-cup-midfield-flaws-match-report-2935841-2026-06-28",
-      "headline": "Cristiano Ronaldo's quiet night exposes Portugal's biggest World Cup problemFIFA World Cup 2026: Portugal were held 0-0 by Colombia as Cristiano Ronaldo was left chasing service in Miami. The draw sent Portugal through as runners-up but sharpened concerns over their midfield and identity before the Croatia clash."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/world-cup-dr-congo-end-52-year-wait-win-set-up-last-32-vs-england-2935847-2026-06-28",
-      "headline": "DR Congo end 52-year wait with historic win, set up England clash in last 32FIFA World Cup: DR Congo booked a historic place in the knockout stage and set up a round-of-32 clash with England after producing a stirring comeback from a goal down to beat Uzbekistan 3-1 in Atlanta on Saturday."
     }
   ],
   "education": [
