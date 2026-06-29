@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/hdfc-bank-rajiv-kumar-chairman-appointment-rbi-approval-2936983-2026-06-29",
+      "headline": "HDFC Bank appoints ex-poll body chief Rajiv Kumar as chairman; RBI nod awaitedHDFC Bank has appointed former Finance Secretary and ex-Chief Election Commissioner Rajiv Kumar as its new chairman, subject to RBI approval, replacing Atanu Chakraborty."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/japanese-yen-sinks-to-40-year-low-as-us-dollar-holds-near-13-month-high-2936874-2026-06-29",
       "headline": "Yen sinks to 40-year low, dollar slips but stays near 13-month highThe Japanese yen weakened to its lowest levels against the US currency since 1986."
     },
@@ -94,18 +99,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/kotak-mahindra-bank-ceo-ashok-vaswani-2026-exit-successor-search-2935728-2026-06-27",
       "headline": "Kotak Mahindra Bank MD and CEO Ashok Vaswani to step down at year-endKotak Mahindra Bank has begun searching for a successor after CEO Ashok Vaswani said he will not seek reappointment when his term ends in December 2026. The move comes as the lender seeks faster growth after regulatory scrutiny and may keep investors focused on leadership continuity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/ipo/story/nse-jio-ipos-have-retail-investors-excited-but-are-big-listings-worth-the-hype-2935512-2026-06-27",
-      "headline": "NSE, Jio IPOs have retail investors excited. But are big listings worth the hype?NSE and Jio are already generating plenty of excitement. But before investors join the rush, recent IPO history offers an important lesson about hype, valuations and long-term returns. Read on to find out why big listings don't always translate into big gains."
     }
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/television/story/actor-akanksha-chamola-breaks-down-calls-divorce-from-gaurav-khanna-devastating-2936994-2026-06-29",
+      "headline": "Actor Akanksha Chamola breaks down, calls divorce from Gaurav Khanna devastating Actor Akanksha Chamola broke down on Lock Upp: Sach Ya Sazaa days after revealing her divorce from Gaurav Khanna. She said sharing the life-changing secret on the show was devastating for her."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/angry-birds-movie-3-trailer-sees-red-juggle-fatherhood-and-saving-the-world-2936976-2026-06-29",
+      "headline": "Angry Birds Movie 3 trailer sees Red juggle fatherhood and saving the world The trailer for The Angry Birds Movie 3 is finally here, but there's more than another battle with the pigs. Here's what the first look reveals about Red's next adventure."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/sunny-deol-recalls-failed-damini-2-plans-as-he-returns-to-courtroom-with-ikka-2936898-2026-06-29",
-      "headline": "Sunny Deol recalls failed Damini 2 plans as he returns to courtroom with Ikka Sunny Deol has revealed that he spent years trying to make Damini 2, but the sequel never took off. The actor explains how Ikka became the courtroom drama that finally brought him back to the genre."
+      "headline": "Sunny Deol wanted to make Damini 2. Here's why it didn't happen Sunny Deol has revealed that he spent years trying to make Damini 2, but the sequel never took off. The actor explains how Ikka became the courtroom drama that finally brought him back to the genre."
     },
     {
       "sentiment": "negative",
@@ -186,28 +196,43 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/suriya-hombale-films-movie-tj-gnanavel-reunion-sai-abhyankkar-2936526-2026-06-29",
       "headline": "Suriya reunites with TJ Gnanavel as Hombale Films announces new project Hombale Films announced its maiden collaboration with Suriya. Directed by TJ Gnanavel, the yet-untitled film stars Kayadu Lohar and features music by Sai Abhyankkar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/tom-holland-hints-at-miles-morales-marvel-debut-ahead-of-brand-new-day-release-2936470-2026-06-29",
-      "headline": "Tom Holland hints at Miles Morales' Marvel debut ahead of Brand New Day release Actor Tom Holland said he wants Miles Morales to enter the Marvel Cinematic Universe. The remarks have renewed focus on the character's live-action future before Spider-Man: Brand New Day."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/suriya-politics-entry-fans-club-clarification-veeramani-remarks-2936514-2026-06-29",
-      "headline": "Suriya not interested in politics: Actor's fan club clarifies ex-member's remark The All India Suriya Fans Club said actor Suriya has no plans to enter politics after remarks by former member R Veeramani triggered speculation. The organisation said his comments were personal and urged people to ignore rumours."
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ram-temple-donation-row-ayodhya-bar-refuses-case-champat-rai-anil-mishra-gopal-rao-2936794-2026-06-29",
-      "headline": "Ayodhya Bar asks Champat Rai to leave town, won't defend Ram temple theft accusedThe Faizabad Bar Association has asked Champat Rai, Anil Mishra and Gopal Rao to leave Ayodhya within three days. The resolution came amid anger over alleged embezzlement of devotees' donations and included a boycott of the accused."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/no-meetings-with-us-scheduled-at-any-level-in-coming-days-iran-denies-trumps-doha-talks-claim-2937021-2026-06-29",
+      "headline": "No meetings scheduled at any level: Iran denies Doha talks announced by TrumpIran's Foreign Ministry said an Iranian technical delegation would travel to Qatar this week, but stressed that the visit had no connection to American officials expected in Doha."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/pune/story/pune-realtor-ketan-agarwal-murder-gait-analysis-chetan-lohagad-fort-cctv-siya-goyal-2936984-2026-06-29",
+      "headline": "Ketan Agarwal murder: Cops to match Chetan Chaudhary's gait with CCTVCourt extended the police custody of Chetan Chaudhary and Siya Goyal as police submitted that several aspects of the case still need to be examined, including the exact location of the crime, deleted digital evidence and Ketan's missing passport."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/r-rajagopal-passport-renewal-satheesan-asks-adhikari-to-intervene-2936642-2026-06-29",
       "headline": "Kerala CM writes to Bengal CM over passport denial to veteran journalistV D Satheesan has written to Suvendu Adhikari seeking urgent intervention in R Rajagopal's passport renewal case. The move came after an adverse Kolkata Police verification reportedly linked the delay to his electoral roll exclusion."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-brazil-vs-japan-live-score-updates-round-of-32-knockouts-2936908-2026-06-29",
+      "headline": "BRA 0 - 1 JPN Live: Carlo Ancelotti turns to Endrick from the benchBrazil (BRA) vs Japan (JPN), FIFA World Cup 2026 Live Scores and Update: (BRA 0-1 JPN) Despite dominating possession, Brazil have conceded first in Houston as as long range by Sano goes through Alisson's reach."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/pakistan-india-indus-water-treaty-harappa-us-iran-war-mohenjodaro-pahalgam-attack-operation-sindoor-2936574-2026-06-29",
+      "headline": "Pakistan's Khuda Hafiz, Hello Harappa is a copycat moveFor 70 years, Pakistan looked to Arabia for its origins. Now it is looking beneath its own feet. What changed, and why is Islamabad suddenly reaching for a past it once called mushrik?"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/passport-row-rajagopal-seeks-policy-clarity-on-sir-after-renewal-delay-2936997-2026-06-29",
+      "headline": "SIR used beyond voter rolls: Veteran journalist seeks clarity after passport rowR Rajagopal said his delayed passport renewal exposed uncertainty over the use of SIR data. Kerala leaders backed him as he sought clear rules on whether electoral roll data can affect passport verification."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indian-army-rejects-reports-of-chinese-pla-camps-in-arunachal-pradesh-2936986-2026-06-29",
+      "headline": "Chinese encroachment in Arunachal? Indian Army calls reports incorrectThe Indian Army has denied reports that the Chinese PLA set up camps inside Arunachal Pradesh. The rebuttal came after a local group's letter alleged fresh occupation at five sites near Taksing."
     },
     {
       "sentiment": "negative",
@@ -216,18 +241,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/ac-blasts-on-the-rise-in-delhi-ncr-how-the-heatwave-is-turning-acs-into-a-hazard-2936469-2026-06-29",
+      "headline": "Why AC explosions are becoming more common in Delhi-NCRA Noida AC blast has raised safety concerns as the region faces extreme heat. Here's why air conditioners explode, and how to prevent them."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ram-temple-donation-row-ayodhya-bar-refuses-case-champat-rai-anil-mishra-gopal-rao-2936794-2026-06-29",
+      "headline": "Ayodhya Bar asks Champat Rai to leave town, won't defend Ram temple theft accusedThe Faizabad Bar Association has asked Champat Rai, Anil Mishra and Gopal Rao to leave Ayodhya within three days. The resolution came amid anger over alleged embezzlement of devotees' donations and included a boycott of the accused."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/commodities/story/gold-prices-fall-indians-sell-old-jewellery-amid-correction-fears-crash-bullion-2936321-2026-06-29",
       "headline": "Gold prices fall: Indians sell old jewellery as fears of deeper correction growAs gold prices retreat from record highs, Indian households are selling old jewellery to lock in gains. The trend is lifting organised recycling volumes and may help reduce reliance on imports."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/pakistan-india-indus-water-treaty-harappa-us-iran-war-mohenjodaro-pahalgam-attack-operation-sindoor-2936574-2026-06-29",
-      "headline": "Pakistan's Khuda Hafiz, Hello Harappa is a copycat moveFor 70 years, Pakistan looked to Arabia for its origins. Now it is looking beneath its own feet. What changed, and why is Islamabad suddenly reaching for a past it once called mushrik?"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-day-1-updates-jannik-sinner-novak-djokovic-aryna-sabalenka-2936732-2026-06-29",
-      "headline": "Day 1 LIVE: Jannik Sinner wins 4th set vs Miomir Kecmanovic, forces deciderWimbledon 2026, Day 1 Live Updates: Jannik Sinner has won the fourth set against Miomir Kecmanovic and has forced a decider on Centre Court. Later in the day, Aryna Sabalenka and Novak Djokovic will be in action."
+      "headline": "Day 1 LIVE: Djokovic vs Yibing underway, Mirra Andreeva faces Magda LinetteWimbledon 2026, Day 1 Live Updates: Jannik Sinner has beaten Miomir Kecmanovic in five sets on Centre Court and advanced to the second round. Aryna Sabalenka defeated Teodora Kostovic in the first round. Later, Novak Djokovic is in action against China's Wu Yibing."
     },
     {
       "sentiment": "positive",
@@ -236,73 +266,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/story/delhi-ev-policy-approved-subsidy-electric-three-wheelers-scrapping-incentive-2936565-2026-06-29",
-      "headline": "Delhi's EV push: E-cars under Rs 30 lakh tax-free, no new petrol bikes from 2028In a major push to tackle air pollution that routinely chokes Delhi, the Cabinet approved a new EV Policy that exempts electric cars priced up to Rs 30 lakh from road tax and registration fees and charts a phased transition to cleaner transport from 2028."
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-bleeding-toe-wimbledon-2026-kecmanovic-win-2936989-2026-06-29",
+      "headline": "Jannik Sinner explains playing with blood on shoe after nasty fall at WimbledonJannik Sinner brushed off concerns after playing through a bleeding toe to stage a remarkable five-set comeback against Miomir Kecmanovic in the Wimbledon 2026."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/ac-blasts-on-the-rise-in-delhi-ncr-how-the-heatwave-is-turning-acs-into-a-hazard-2936469-2026-06-29",
-      "headline": "Why AC explosions are becoming more common in Delhi-NCRA Noida AC blast has raised safety concerns as the region faces extreme heat. Here's why air conditioners explode, and how to prevent them."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmir-sarla-bhat-murder-case-sia-chargesheet-yasin-malik-35-years-terrorism-kashimir-pandit-2936676-2026-06-29",
-      "headline": "Who was Sarla Bhat? Why her murder became a landmark Kashmir terror caseSarla Bhat's kidnap and murder case has become a symbol of the long and difficult search for justice in terror crimes linked to the insurgency in Kashmir."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/bengaluru/story/three-murders-one-night-rock-bengaluru-two-women-killed-history-sheeter-halmuk-raja-hacked-to-death-2936405-2026-06-29",
-      "headline": "3 murders in one night rock Bengaluru: 2 women killed, criminal hacked to deathThe city saw three fatal attacks on Sunday night, including two women murdered in separate incidents and a history-sheeter hacked to death on a busy road. Police are probing suspected relationship-linked killings in the women's cases and gang rivalry in the third incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/petrol-diesel-sale-restrictions-imposed-due-to-shortage-fear-amid-iran-war-to-end-on-july-1-2936812-2026-06-29",
-      "headline": "Govt to lift petrol and diesel sales curbs from July 1 as supply concerns easeThe precautionary measures were introduced to protect domestic fuel supplies at a time when uncertainty in the global energy market was increasing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pune-court-sentences-65-year-old-to-death-for-rape-murder-of-3-year-old-girl-verdict-came-in-60-days-of-crime-2936443-2026-06-29",
-      "headline": "Death penalty for man, 65, for 3-year-old's rape-murder; court says rarest of rareA 65-year-old man was given a death penalty by a Pune court for luring a 3-year-old girl to a cattle shed in Nasrapur village and then raping and murdering her on May 1, 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ram-mandir-donation-theft-accused-lavkush-mishra-ayodhya-property-2936605-2026-06-29",
-      "headline": "Ram Temple donation theft accused built Rs 25-lakh house on Rs 12,000 salaryRam Mandir donation theft accused Lavkush Mishra, a cash-counting staffer earning around Rs 12,000 a month, acquired land and built a house now worth around Rs 25 lakh after joining the temple trust."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/five-killed-in-shooting-at-youth-centre-in-germanys-stade-suspect-detained-2936731-2026-06-29",
-      "headline": "6 killed in shooting at Germany youth facility, suspect detainedThe shooting occurred in Stade, a town of nearly 50,000 people west of Hamburg. Authorities said the circumstances surrounding the incident remain under investigation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-chauhaan-controversy-kshatriya-parishad-objects-title-first-glimpse-2936735-2026-06-29",
-      "headline": "Ajay Devgn's Chauhaan faces backlash from Rajput group over title, first glimpseAjay Devgn's film Chauhaan has drawn objections from the Kshatriya Parishad over its title and first glimpse. The group says Rajput history and identity should not be used for contemporary political narratives."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-three-language-policy-update-7-big-clarifications-2936799-2026-06-29",
-      "headline": "CBSE's 3-language policy just got clearer. Here are the 7 biggest updatesCBSE has issued a detailed clarification on its three-language policy, answering key questions on transition rules, board exams, foreign languages, textbooks and exemptions for current and future student batches."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/delhi-man-receives-less-salary-confronts-hr-on-camera-their-reaction-is-enraging-2936322-2026-06-29",
-      "headline": "Delhi man receives less salary, confronts HR on camera. Their reaction is enragingA Delhi-based telecom company employee confronted the HR team in a viral office video over an alleged salary shortfall. The exchange has sparked wider debate online."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/biker-cheats-death-after-arunachal-landslide-almost-sweeps-him-off-mountain-road-2936369-2026-06-29",
-      "headline": "Biker cheats death after Arunachal landslide almost sweeps him off mountain roadA biker was caught in a landslide while crossing a damaged, mud-covered road in Arunachal Pradesh. The video has highlighted how relentless rain is making travel dangerous across north-east India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/ford-rehiring-old-engineers-after-ai-failed-at-work-2936285-2026-06-29",
-      "headline": "Ford rehiring old engineers after AI failed at workFord thought artificial intelligence could solve its quality problems, but the technology fell short without decades of engineering know-how. The automaker has now brought back hundreds of veteran engineers to train both younger employees and its AI, and the strategy is already paying off."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/los-angeles-olympics-2028-india-women-cricket-team-qualification-2936658-2026-06-29",
-      "headline": "India women's cricket team qualifies for Olympics despite early World Cup exitIndia Women qualified for the 2028 Los Angeles Olympics despite their group-stage exit from the ICC Women's T20 World Cup, earning Asia's lone automatic berth under the ICC's newly announced qualification pathway."
+      "url": "https://www.indiatoday.in/india/south/story/tamil-nadu-cm-vijay-orders-crackdown-on-drugs-crime-and-womens-safety-2936896-2026-06-29",
+      "headline": "Punish even the powerful: CM Vijay to officials, promises no political interferenceTamil Nadu Chief Minister C Joseph Vijay directed district collectors and police chiefs to take fearless, impartial action against criminals without political interference, stressing that even the most powerful offenders must be punished under the law."
     },
     {
       "sentiment": "positive",
@@ -311,20 +281,60 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-suspends-geo-news-15-days-muharram-broadcast-shia-sunni-controversy-media-watchdog-ashura-2936412-2026-06-29",
-      "headline": "Pakistan suspends Geo News for 15 days over offensive Muharram broadcastPakistan has suspended Karachi-based Geo News for 15 days over a Muharram programme that authorities said showed objectionable religious visuals. The channel apologised and removed the content, but the case has revived concerns over Shia-Sunni sectarian sensitivities and media controls under Pakistan's civilian-military hybrid regime."
+      "url": "https://www.indiatoday.in/trending-news/story/delhi-man-receives-less-salary-confronts-hr-on-camera-their-reaction-is-enraging-2936322-2026-06-29",
+      "headline": "Delhi man receives less salary, confronts HR on camera. Their reaction is enragingA Delhi-based telecom company employee confronted the HR team in a viral office video over an alleged salary shortfall. The exchange has sparked wider debate online."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/terrified-people-stumble-run-as-building-collapses-during-venezuela-earthquake-2936823-2026-06-29",
-      "headline": "Terrified people stumble, run as building collapses during Venezuela earthquakeThe video showed people scrambling out of buildings as the ground shook violently during the Venezuela earthquake, before an entire building suddenly crumbled before their eyes, sending debris crashing down as terrified residents ran for safety."
+      "url": "https://www.indiatoday.in/india/story/blatant-act-of-aggression-is-assault-on-afghanistans-sovereignty-india-shreds-pak-over-airstrikes-on-kabul-2936959-2026-06-29",
+      "headline": "Blatant assault on sovereignty: India shreds Pak over air strikes on AfghanistanIn a sharply worded statement, the Ministry of External Affairs accused Pakistan of carrying out an \"act of aggression\" that not only undermined Afghanistan's territorial integrity but also threatened peace and stability across the region."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/story/delhi-ev-policy-approved-subsidy-electric-three-wheelers-scrapping-incentive-2936565-2026-06-29",
+      "headline": "Delhi's EV push: E-cars under Rs 30 lakh tax-free, no new petrol bikes from 2028In a major push to tackle air pollution that routinely chokes Delhi, the Cabinet approved a new EV Policy that exempts electric cars priced up to Rs 30 lakh from road tax and registration fees and charts a phased transition to cleaner transport from 2028."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/iaf-women-ssc-officers-challenge-release-orders-permanent-commission-denial-delhi-high-court-2936428-2026-06-29",
+      "headline": "Women Air Force officers get relief as Delhi High Court pauses their dischargeWomen Short Service Commission officers of the Indian Air Force have moved the Delhi High Court against the denial of Permanent Commission and their release orders. They say the release violated the Supreme Court's interim protection while their legal remedies remained pending."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/biker-cheats-death-after-arunachal-landslide-almost-sweeps-him-off-mountain-road-2936369-2026-06-29",
+      "headline": "Biker cheats death after Arunachal landslide almost sweeps him off mountain roadA biker was caught in a landslide while crossing a damaged, mud-covered road in Arunachal Pradesh. The video has highlighted how relentless rain is making travel dangerous across north-east India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/pune/story/ketan-agarwal-murder-case-pune-court-extends-siya-goyal-chetan-chaudhary-custody-till-july-3-2936963-2026-06-29",
+      "headline": "Pune court extends custody of Siya and Chetan till July 3 in Ketan murder casePolice told the court the murder investigation is far from over, pointing to deleted digital evidence, an allegedly destroyed passport and suspected rehearsals before the killing. The court has now extended custody."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pattaya-teen-murder-australian-arrested-at-bangkok-airport-after-naked-body-found-in-suitcase-2936943-2026-06-29",
+      "headline": "Thai teen vanishes after meeting Australian man, naked body found in suitcase laterThai police said a 17-year-old girl was killed after meeting an Australian man in Pattaya. The arrest at Bangkok airport and the family's grief have intensified scrutiny of the case."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-bleeding-toe-wimbledon-2026-kecmanovic-win-2936989-2026-06-29",
+      "headline": "Jannik Sinner explains playing with blood on shoe after nasty fall at Wimbledon Jannik Sinner brushed off concerns after playing through a bleeding toe to stage a remarkable five-set comeback against Miomir Kecmanovic in the Wimbledon 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-saudi-arabia-exit-yasser-al-misehal-resigns-fa-president-2936948-2026-06-29",
+      "headline": "Saudi football's big ambitions hit wall as FA president Al-Misehal resigns after WC exit FIFA World Cup 2026: Saudi Arabia's World Cup exit has cost Yasser Al-Misehal his job after seven years in charge. The resignation exposes fresh questions over a lavish football project still short on tournament substance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-wimbledon-2026-beats-miomir-kecmanovic-after-injury-scare-2936953-2026-06-29",
+      "headline": "Jannik Sinner survives huge 5-set scare, battles injury to reach Round 2 Jannik Sinner battled through a gruelling 3-hour-30-minute five-set win over Miomir Kecmanovic at Wimbledon 2026, overcoming an injury scare and a tiebreak setback to advance to Round 2."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-brazil-vs-japan-live-score-updates-round-of-32-knockouts-2936908-2026-06-29",
-      "headline": "BRA vs JPN Live Scores and Update: Can Brazil's stars overcome the Samurai Blue challenge? Brazil (BRA) vs Japan (JPN), FIFA World Cup 2026 Live Scores and Update: After topping their group, Brazil now face a tricky Round of 32 showdown against Japan at Houston Stadium in Texas. While the Samurai Blue finished as runners-up in their group, their tactical discipline, relentless work rate, and impressive performances have established them as one of the tournament's most dangerous dark horses."
+      "headline": "BRA 0 - 1 JPN Live: Carlo Ancelotti turns to Endrick from the bench Brazil (BRA) vs Japan (JPN), FIFA World Cup 2026 Live Scores and Update: (BRA 0-1 JPN) Despite dominating possession, Brazil have conceded first in Houston as as long range by Sano goes through Alisson's reach."
     },
     {
       "sentiment": "positive",
@@ -349,7 +359,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-day-1-updates-jannik-sinner-novak-djokovic-aryna-sabalenka-2936732-2026-06-29",
-      "headline": "Day 1 LIVE: Jannik Sinner wins 4th set vs Miomir Kecmanovic, forces decider Wimbledon 2026, Day 1 Live Updates: Jannik Sinner has won the fourth set against Miomir Kecmanovic and has forced a decider on Centre Court. Later in the day, Aryna Sabalenka and Novak Djokovic will be in action."
+      "headline": "Day 1 LIVE: Djokovic vs Yibing underway, Mirra Andreeva faces Magda Linette Wimbledon 2026, Day 1 Live Updates: Jannik Sinner has beaten Miomir Kecmanovic in five sets on Centre Court and advanced to the second round. Aryna Sabalenka defeated Teodora Kostovic in the first round. Later, Novak Djokovic is in action against China's Wu Yibing."
     },
     {
       "sentiment": "positive",
@@ -364,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/heinrich-malan-ireland-coach-resigns-after-historic-t20i-series-win-over-india-2936588-2026-06-29",
-      "headline": "Ireland coach Heinrich Malan steps down a day after historic India series win Heinrich Malan stepped down as Ireland men's coach a day after a 2-0 T20I series sweep over India in Belfast. The move gives Cricket Ireland time to prepare for the next 50-over World Cup cycle."
+      "headline": "Ireland coach Heinrich Malan steps down a day after historic India series winHeinrich Malan stepped down as Ireland men's coach a day after a 2-0 T20I series sweep over India in Belfast. The move gives Cricket Ireland time to prepare for the next 50-over World Cup cycle."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/venezuela-earthquake-footballer-wife-children-dead-lucas-trejo-2936570-2026-06-29",
-      "headline": "After 3-day search through earthquake rubble, footballer finds family dead Argentine footballer Lucas Trejo spent three days searching through the rubble of his family home in Venezuela after last week's earthquakes. Authorities later recovered the bodies of his wife and two children."
+      "headline": "After 3-day search through earthquake rubble, footballer finds family deadArgentine footballer Lucas Trejo spent three days searching through the rubble of his family home in Venezuela after last week's earthquakes. Authorities later recovered the bodies of his wife and two children."
     },
     {
       "sentiment": "positive",
@@ -455,21 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-south-africa-vs-canada-live-score-updates-round-of-32-knockouts-2936247-2026-06-28",
       "headline": "RSA 0-1 CAN Highlights: Canada advance to Round of 16 with late winSouth Africa (RSA) vs Canada (CAN), FIFA World Cup 2026 Highlights: Canada left it painfully late, but Stephen Eustaquio's stoppage-time strike finally broke South African resistance to send Jesse Marsch's side into the Round of 16 with a 1-0 win over South Africa in LA."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-harmanpreet-kaur-india-australia-top-teams-exit-2936256-2026-06-28",
-      "headline": "India not good enough against top teams: Harmanpreet Kaur after early exitWomen's T20 World Cup, INDW vs AUSW: Harmanpreet Kaur admitted India need to raise their standards against the top teams and rethink their approach after their semifinal hopes ended with a defeat to Australia."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ireland-vs-india-2nd-t20i-ireland-win-by-1-run-seal-2-0-series-sweep-2936236-2026-06-28",
-      "headline": "T20 world champions India lose series 0-2 in Ireland as 16-series streak endsIreland defended 154 and beat India by one run in Belfast to complete a 2-0 T20I series sweep. The result ended India's 16-series bilateral winning streak and exposed a brittle top order."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-womens-t20-world-cup-india-crash-out-after-six-wicket-loss-at-lords-2936234-2026-06-28",
-      "headline": "ODI champs India suffer Women's T20 World Cup heartbreak, crash out before semisWomen's T20 World Cup 2026, INDW vs AUSW: Harmanpreet Kaur's India failed to advance to the semis after losing to Australia by six wickets in their first-ever T20I at the iconic Lord's Cricket Ground. From Group A, South Africa and Australia went through to the semis."
     }
   ],
   "education": [
