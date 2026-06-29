@@ -217,7 +217,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/germany-vs-paraguay-live-score-fifa-world-cup-2026-round-of-32-knockouts-updates-2937046-2026-06-30",
-      "headline": "GER 0 - 0 PAR LIVE: Nagelsmann turns to Deniz Undav in knockout clashGermany vs Paraguay live score and updates, FIFA World Cup 2026: (GER 0 - 0 PAR) Germany and Paraguay have confirmed their starting XIs for tonight's Round of 32 clash in Boston. Florian Wirtz, Kai Havertz and Leroy Sane start for Germany, while Paraguay back themselves to spring a knockout upset."
+      "headline": "GER 1 - 1 PAR LIVE: Havertz brings things to parity for GermanyGermany vs Paraguay live score and updates, FIFA World Cup 2026: (GER 1 - 1 PAR) Germany have quickly responded in this second half after Enciso gave Paraguay a shock lead in the first half. Havertz with the equalising header for Germany."
     },
     {
       "sentiment": "positive",
@@ -257,7 +257,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-day-1-updates-jannik-sinner-novak-djokovic-aryna-sabalenka-2936732-2026-06-29",
-      "headline": "Day 1 LIVE: Djokovic loses 2nd set vs Yibing, Mirra Andreeva beats Magda LinetteWimbledon 2026, Day 1 Live Updates: Jannik Sinner has beaten Miomir Kecmanovic in five sets on Centre Court and advanced to the second round. Aryna Sabalenka defeated Teodora Kostovic in the first round. Later, Novak Djokovic is in action against China's Wu Yibing."
+      "headline": "Day 1 Highlights: Djokovic overcomes Yibing, Mirra Andreeva beats Magda LinetteWimbledon 2026, Day 1 Highlights: Jannik Sinner has beaten Miomir Kecmanovic in five sets on Centre Court and advanced to the second round. Aryna Sabalenka defeated Teodora Kostovic in the first round. Later, Novak Djokovic beat China's Wu Yibing."
     },
     {
       "sentiment": "positive",
@@ -267,7 +267,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/story/dark-web-leak-exposes-apples-iphone-18-pro-supply-chain-test-photos-2937048-2026-06-30",
-      "headline": "Dark web leak exposes Apple's iPhone 18 Pro supply chain and test photosSensitive Apple iPhone 18 Pro supply chain files surfaced online after a cyberattack on Tata Electronics. The leak highlights risks around Apple's expanding manufacturing network in India."
+      "headline": "Tata data leak exposes Apple iPhone 18 Pro supplier list, parts and photosSensitive Apple iPhone 18 Pro supply chain files surfaced online after a cyberattack on Tata Electronics. The leak highlights risks around Apple's expanding manufacturing network in India."
     },
     {
       "sentiment": "positive",
@@ -322,6 +322,16 @@
   ],
   "sports": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-beats-wu-yibing-in-wimbledon-opener-centre-court-proposal-video-report-2937055-2026-06-30",
+      "headline": "Djokovic sees off Wu Yibing in Round 1 as proposal adds to Wimbledon spectacle Novak Djokovic overcame a spirited Wu Yibing in four sets to reach the Wimbledon second round, with a surprise marriage proposal in the stands and his witty request for a wedding invitation stealing attention."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/why-neymar-did-not-play-brazil-vs-japan-carlo-ancelotti-explains-fifa-world-cup-2026-2937052-2026-06-30",
+      "headline": "Why Neymar did not play in Brazil's Round of 32 clash vs Japan: Head coach explains Brazil vs Japan: Carlo Ancelotti revealed Neymar was kept on the bench against Japan as a contingency for extra time, with Brazil's tactical halftime switch inspiring a dramatic 2-1 comeback to reach the Round of 16."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/brazil-vs-japan-hajime-moriyasu-bows-down-fans-defeat-round-of-32-2937051-2026-06-30",
       "headline": "Japan coach, players bow down to fans in apology as Brazil end World Cup dream FIFA World Cup 2026: Japan coach Hajime Moriyasu and his players bowed before their fans after Brazil's dramatic 2-1 win ended the Samurai Blue's FIFA World Cup 2026 campaign in an emotional Round of 32 farewell."
@@ -334,7 +344,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/germany-vs-paraguay-live-score-fifa-world-cup-2026-round-of-32-knockouts-updates-2937046-2026-06-30",
-      "headline": "GER vs PAR LIVE: Nagelsmann turns to Deniz Undav in knockout clash Germany vs Paraguay live score and updates, FIFA World Cup 2026: Germany and Paraguay have confirmed their starting XIs for tonight's Round of 32 clash in Boston. Florian Wirtz, Kai Havertz and Leroy Sane start for Germany, while Paraguay back themselves to spring a knockout upset."
+      "headline": "GER 1 - 1 PAR LIVE: Havertz brings things to parity for Germany Germany vs Paraguay live score and updates, FIFA World Cup 2026: (GER 1 - 1 PAR) Germany have quickly responded in this second half after Enciso gave Paraguay a shock lead in the first half. Havertz with the equalising header for Germany."
     },
     {
       "sentiment": "positive",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-wimbledon-title-defence-vijay-amritraj-alcaraz-absence-2936885-2026-06-29",
-      "headline": "No Alcaraz, no free pass: Vijay Amritraj sees tough Wimbledon for Jannik Sinner Despite Carlos Alcaraz's injury-enforced absence, Vijay Amritraj believes defending champion Jannik Sinner will face a stern test in his bid to retain the Wimbledon title, insisting there are no free passes at the All England Club."
+      "headline": "No Alcaraz, no free pass: Vijay Amritraj sees tough Wimbledon for Jannik SinnerDespite Carlos Alcaraz's injury-enforced absence, Vijay Amritraj believes defending champion Jannik Sinner will face a stern test in his bid to retain the Wimbledon title, insisting there are no free passes at the All England Club."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-womens-t20-world-cup-ash-gardner-on-match-turning-chase-2936827-2026-06-29",
-      "headline": "How Australia flipped the script to send India crashing out: Ash Gardner reveals Women's T20 World Cup: Ash Gardner revealed Australia overcame the pressure of a steep chase by targeting favourable match-ups, breaking the innings into smaller phases and backing their batting depth to attack India's bowlers."
+      "headline": "How Australia flipped the script to send India crashing out: Ash Gardner revealsWomen's T20 World Cup: Ash Gardner revealed Australia overcame the pressure of a steep chase by targeting favourable match-ups, breaking the innings into smaller phases and backing their batting depth to attack India's bowlers."
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-debut-denied-india-vs-ireland-2936298-2026-06-29",
       "headline": "Delayed or denied? Sooryavanshi snub splits opinion after Ireland shockerVaibhav Sooryavanshi was benched throughout India's series defeat to Ireland, splitting opinion among former players. Gavaskar, Kaif and Tiwary back his inclusion. Ashwin backs the management. The debate now shadows India's England tour from July 1."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-canada-vs-south-africa-stephen-eustaquio-match-report-2936279-2026-06-29",
-      "headline": "Canada end brave Bafana Bafana dream with stoppage-time heartbreakStephen Eustaquio scored deep in stoppage time as Canada beat South Africa 1-0 in Los Angeles. The defeat ended Bafana Bafana's brave World Cup run, while Canada reached the Round of 16 for the first time."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/serena-williams-wimbledon-singles-comeback-nearly-turned-down-2936217-2026-06-29",
-      "headline": "Serena Williams reveals why she accepted Wimbledon singles comebackSerena Williams admits she nearly walked away from one final Wimbledon singles opportunity before convincing herself to embrace the moment. The 23-time Grand Slam champion will return to Centre Court after almost four years away, insisting she could not let the chance slip by."
     }
   ],
   "education": [
