@@ -215,9 +215,9 @@
       "headline": "What came out of US-Iran Doha talks? Frozen funds, communication channel and moreIndirect US-Iran talks in Doha ended with an agreement to partially release frozen Iranian funds and set up a channel for ceasefire disputes. The outcome signals cautious progress in a fragile truce, even as nuclear and sanctions issues remain unresolved."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/belgium-vs-senegal-live-score-fifa-world-cup-2026-updates-round-of-32-knockout-2938728-2026-07-02",
-      "headline": "BEL 0-2 SEN Live: Ismaila Sarr leaves Belgium on brink of exitBelgium vs Senegal Live, FIFA World Cup 2026: Senegal move within touching distance of the Round of 16 as Ismaila Sarr brilliantly controls a long ball before blasting home to make it 2-0. Belgium's World Cup hopes are fading fast."
+      "headline": "BEL vs SEN Live: Late controversial penalty sends Belgium past Senegal 3-2Belgium vs Senegal Live, FIFA World Cup 2026: (BEL 3-2 SEN) Belgium staged a dramatic comeback to beat Senegal in a tense knockout clash, overturning a late deficit before edging a controversial extra-time finish. Senegal will feel hard done by after dominating large spells but falling short in the decisive moments."
     },
     {
       "sentiment": "positive",
@@ -242,7 +242,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/nyc-empire-state-building-climbers-propose-after-scaling-restricted-transmission-tower-2938689-2026-07-01",
-      "headline": "Watch: Masked couple climb to top of NYC Empire State Building, then get engagedThe pair climbed to the top of the 1,454-foot Empire State Building and stood on the narrow antenna while wearing dark clothes and masks. After descending to a lower platform, the man got down on one knee and proposed to his companion."
+      "headline": "Watch: Russian couple climb to top of NYC Empire State Building, then get engagedDressed in sleeveless black outfits and wearing face coverings, Angela Nikolau and Vanya Beerkus climbed to the top of the 1,454-foot skyscraper and stood on the narrow antenna while documenting the feat on social media."
     },
     {
       "sentiment": "negative",
@@ -323,6 +323,11 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-harry-kane-anthony-gordon-england-comeback-messi-comparison-2938744-2026-07-02",
+      "headline": "Harry Kane on Lionel Messi's level? Gordon makes big GOAT comparison after England win FIFA World Cup 2026: Anthony Gordon hailed Harry Kane after the England captain's brace turned a fraught tie against DR Congo. The comeback win sent England into the last 16 against co-hosts Mexico and underlined Kane's authority."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-wimbledon-2026-ball-girl-prank-stefanos-tsitsipas-win-2938743-2026-07-02",
       "headline": "Novak Djokovic pranks ball girl, then outclasses Stefanos Tsitsipas to reach Round 3 Novak Djokovic entertained Centre Court with a playful prank on a ball girl before cruising past Stefanos Tsitsipas 6-3, 6-4, 6-2 to reach the third round of Wimbledon 2026 on Wednesday."
     },
@@ -352,9 +357,9 @@
       "headline": "French Open champion Mirra Andreeva makes shock exit in Round 2 Barbora Krejcikova battled back from a set down to defeat Mirra Andreeva 4-6, 7-5, 6-4, knocking the reigning French Open champion out in the second round of Wimbledon."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/belgium-vs-senegal-live-score-fifa-world-cup-2026-updates-round-of-32-knockout-2938728-2026-07-02",
-      "headline": "BEL 0-2 SEN Live: Ismaila Sarr leaves Belgium on brink of exit Belgium vs Senegal Live, FIFA World Cup 2026: Senegal move within touching distance of the Round of 16 as Ismaila Sarr brilliantly controls a long ball before blasting home to make it 2-0. Belgium's World Cup hopes are fading fast."
+      "headline": "BEL vs SEN Live: Late controversial penalty sends Belgium past Senegal 3-2 Belgium vs Senegal Live, FIFA World Cup 2026: (BEL 3-2 SEN) Belgium staged a dramatic comeback to beat Senegal in a tense knockout clash, overturning a late deficit before edging a controversial extra-time finish. Senegal will feel hard done by after dominating large spells but falling short in the decisive moments."
     },
     {
       "sentiment": "positive",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-jannik-sinner-italian-grand-slam-record-aryna-sabalenka-third-round-2938640-2026-07-01",
-      "headline": "Jannik Sinner fights past Nuno Borges, Aryna Sabalenka survives McCartney Kessler scare Defending champion Jannik Sinner and world No.1 Aryna Sabalenka advanced to the Wimbledon third round after overcoming stern second-round tests on Wednesday. Sinner beat Nuno Borges in straight sets, while Sabalenka saved four set points before beating McCartney Kessler."
+      "headline": "Jannik Sinner fights past Nuno Borges, Aryna Sabalenka survives McCartney Kessler scareDefending champion Jannik Sinner and world No.1 Aryna Sabalenka advanced to the Wimbledon third round after overcoming stern second-round tests on Wednesday. Sinner beat Nuno Borges in straight sets, while Sabalenka saved four set points before beating McCartney Kessler."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/serena-williams-trolled-cancelling-press-conference-wimbledon-heartbreak-2938002-2026-07-01",
       "headline": "Serena Williams faces backlash after cancelling press conference at WimbledonSerena Williams came under fire on social media after cancelling her post-match press conference following a heartbreaking first-round exit at The Championships, Wimbledon on Tuesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-lionel-messi-fifa-world-cup-goal-record-trophy-importance-2937981-2026-07-01",
-      "headline": "Mbappe prioritises titles over Lionel Messi's all-time scoring recordKylian Mbappe brushed aside talk of Lionel Messi's World Cup scoring record after France's win over Sweden, insisting his only focus is leading Les Bleus to the FIFA World Cup final on July 19."
     }
   ],
   "education": [
