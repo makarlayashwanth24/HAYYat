@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-2-vinny-arora-calls-shreya-kalra-a-loser-for-targeting-husband-dheeraj-2939408-2026-07-02",
+      "headline": "Lock Upp 2: Vinny Arora calls Shreya Kalra a loser for targeting husband Dheeraj Actor Vinny Arora has hit back at social media influencer Shreya Kalra after her on-screen clash with Dheeraj Dhoopar in Lock Upp: Sach Ya Sazaa. Vinny accused Shreya for her \"cheap, revenge-seeking\" strategy against Dheeraj."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ss-rajamouli-joins-martin-scorsese-clint-eastwood-on-frances-wall-of-filmmakers-2939261-2026-07-02",
+      "headline": "SS Rajamouli joins Martin Scorsese, Clint Eastwood on France's Wall of Filmmakers Director SS Rajamouli was honoured at Institut Lumi\u00e8re in Lyon with a plaque on its Wall of Filmmakers. The recognition places him alongside Hollywood icons like Martin Scorsese and Clint Eastwood and adds to the global reach of his work."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/vicky-kaushals-three-word-monsoon-post-for-katrina-kaif-is-pure-romance-2939298-2026-07-02",
       "headline": "Vicky Kaushal's three-word monsoon post for Katrina Kaif is pure romance Actor Vicky Kaushal shared a rain-soaked black-and-white photograph of wife Katrina Kaif hugging him from behind. The post drew fan reactions and spotlighted the couple's life after welcoming their son Vihaan."
     },
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-jean-paul-lal-on-balan-success-its-fantastic-especially-as-a-nepo-kid-2938930-2026-07-02",
       "headline": "Actor Jean Paul Lal on Balan success: It's fantastic, especially as a nepo kid Actor Jean Paul Lal has spoken about the success of Balan The Boy and his father Lal's emotional response to the film. He said the appreciation feels amazing, especially as a nepo kid."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/netflix-enola-holmes-3-review-millie-bobby-brown-sequel-dazzles-in-malta-stumbles-on-story-2938263-2026-07-02",
-      "headline": "Enola Holmes 3 review: A sunlit mystery that forgets its own sparkRelease Date:Wed Jul 01, 2026 Enola Holmes 3 review: Millie Bobby Brown returns as the young detective in Netflix's latest mystery adventure alongside Henry Cavill and Louis Partridge. Does the third film live up to the franchise's charm? Read our spoiler-free review to know more."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/heart-beat-season-3-july-30-release-date-jiohotstar-deepa-balu-return-2938915-2026-07-02",
-      "headline": "Heart Beat season 3 release date out: All we know about the show JioHotstar has announced that Heart Beat season 3 will premiere later this month. The update also clears speculation over the show's lead character Reena's return."
     }
   ],
   "general news": [
@@ -205,19 +205,19 @@
       "headline": "Mojtaba Khamenei won't attend father's funeral: Iran Supreme Leader's aideIn an exclusive interview with India Today, Ayatollah Hakim Elahi said the decision was driven by security concerns as tensions with Israel remain high ahead of the state funeral."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/technology/story/after-whatsapp-govt-sends-notice-to-telegram-signal-over-username-features-amid-fraud-concerns-2939376-2026-07-02",
+      "headline": "After WhatsApp, govt sends notice to Telegram, Signal over username featuresThe government has sought explanations from Telegram and Signal on how they are addressing risks related to fraud, impersonation and other forms of online abuse associated with usernames."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/pakistan-news-historic-125-year-old-gurdwara-demolished-pakistan-punjab-lahore-mea-reaction-2939213-2026-07-02",
       "headline": "125-year-old gurdwara demolished in Pakistan; distressing, says IndiaIndia has condemned the demolition of a historic Sikh shrine in Pakistan as a deeply distressing act of vandalism. Sikh organisations and political leaders have demanded accountability and restoration of the gurdwara, and stronger protection for religious minorities."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/uk-news-british-woman-2007-india-trip-neurocysticercosis-38-parasites-brain-pork-tapeworm-infection-2938966-2026-07-02",
-      "headline": "Got 38 parasites in brain after India visit, says UK woman. 3 facts and a questionA British woman claims that a 2007 trip to India left her with 38 parasites in her brain after she contracted neurocysticercosis, a rare disease caused by the pork tapeworm. Here are three key facts about how the infection spreads, and whether her India visit can really be identified as the source."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/technology/story/after-whatsapp-govt-sends-notice-to-telegram-signal-over-username-features-amid-fraud-concerns-2939376-2026-07-02",
-      "headline": "After WhatsApp, govt sends notice to Telegram, Signal over username featuresThe government has sought explanations from Telegram and Signal on how they are addressing risks related to fraud, impersonation and other forms of online abuse associated with usernames."
+      "url": "https://www.indiatoday.in/world/story/pojk-protests-jaac-leader-sardar-aman-khan-claims-pakistan-army-armed-kashmiris-2939347-2026-07-02",
+      "headline": "Pak Army gave guns to Kashmiris, call us terrorists: POK leader as protests spiralPOK protest leader Sardar Aman Khan accused Islamabad of hypocrisy for labelling activists as terrorists, as anti-government protests rage in the region."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pojk-protests-jaac-leader-sardar-aman-khan-claims-pakistan-army-armed-kashmiris-2939347-2026-07-02",
-      "headline": "Pakistan Army gave guns to Kashmiris: POK leader's claim as protests spiralPOK protest leader Sardar Aman Khan accused Islamabad of hypocrisy for labelling activists as terrorists, as anti-government protests rage in the region."
+      "url": "https://www.indiatoday.in/world/story/uk-news-british-woman-2007-india-trip-neurocysticercosis-38-parasites-brain-pork-tapeworm-infection-2938966-2026-07-02",
+      "headline": "Got 38 parasites in brain after India visit, says UK woman. 3 facts and a questionA British woman claims that a 2007 trip to India left her with 38 parasites in her brain after she contracted neurocysticercosis, a rare disease caused by the pork tapeworm. Here are three key facts about how the infection spreads, and whether her India visit can really be identified as the source."
     },
     {
       "sentiment": "positive",
@@ -236,8 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/sspx-rebel-catholic-group-expelled-vatican-church-pope-leo-2938980-2026-07-02",
-      "headline": "What is SSPX, the secretive rebel Catholic group expelled by the PopeThe SSPX, a group of ultra-conservative Catholics, consecrated four bishops and livestreamed the ceremony in defiance of Pope Leo. The Vatican was quick to expel the members. The incident has revived scrutiny of the traditionalist group's long conflict with the Church."
+      "url": "https://www.indiatoday.in/india/story/india-japan-defence-co-development-agreement-modi-sanae-takaichi-summit-2938979-2026-07-02",
+      "headline": "PM Modi calls Japan PM his younger sister, she responds with a smileFor a summit centred on diplomacy and strategic cooperation, the most memorable moment came when PM Modi called his Japanese counterpart, Sanae Takaichi, his \"younger sister\", and she responded by saying the two leaders would take the India-Japan relationship forward with the trust and warmth of \"brother and sister.\""
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-japan-defence-co-development-agreement-modi-sanae-takaichi-summit-2938979-2026-07-02",
-      "headline": "PM Modi calls Japan PM his younger sister, she responds with a smileFor a summit centred on diplomacy and strategic cooperation, the most memorable moment came when PM Modi called his Japanese counterpart, Sanae Takaichi, his \"younger sister\", and she responded by saying the two leaders would take the India-Japan relationship forward with the trust and warmth of \"brother and sister.\""
+      "url": "https://www.indiatoday.in/world/story/sspx-rebel-catholic-group-expelled-vatican-church-pope-leo-2938980-2026-07-02",
+      "headline": "What is SSPX, the secretive rebel Catholic group expelled by the PopeThe SSPX, a group of ultra-conservative Catholics, consecrated four bishops and livestreamed the ceremony in defiance of Pope Leo. The Vatican was quick to expel the members. The incident has revived scrutiny of the traditionalist group's long conflict with the Church."
     },
     {
       "sentiment": "positive",
@@ -257,7 +257,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2026-live-score-tennis-day-4-iga-swiatek-zverev-yuki-2939214-2026-07-02",
-      "headline": "Day 4 live: Alexander Zverev beats Valentin Royer, Yuki Bhambri crashes outWimbledon 2026 live score: Defending champions Iga Switak has beaten Karolina Pliskova to advance to the third round. Sixth seed Taylor Fritz has won his men's singles second-round match while Alexander Zverev has gone through to the third round."
+      "headline": "Day 4 live: Alexander Zverev beats Valentin Royer, Elena Rybakina in actionWimbledon 2026 live score: Defending champions Iga Switak has beaten Karolina Pliskova to advance to the third round. Sixth seed Taylor Fritz has won his men's singles second-round match while Alexander Zverev has gone through to the third round."
     },
     {
       "sentiment": "positive",
@@ -323,8 +323,23 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/iga-swiatek-vs-alexandra-eala-wimbledon-third-round-grass-challenge-2939427-2026-07-02",
+      "headline": "Iga Swiatek braces for tricky grass test against high-flying Alexandra Eala Defending champion Iga Swiatek is expecting a stern third-round test against Alexandra Eala at Wimbledon, with their head-to-head locked at 1-1 and the Pole describing the Filipina's grass-court game as tricky."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/spain-vs-austria-live-score-fifa-world-cup-2026-updates-round-of-32-knockout-2939421-2026-07-02",
+      "headline": "ESP vs AUT Live: Can the Austrians upstage European champions? Spain (ESP) vs Austria (AUT) Live, FIFA World Cup: Spain enter their Round of 32 clash against Austria unbeaten after topping Group H without conceding a single goal, backed by a rock-solid defence and strong form. Austria scraped into the knockouts after a dramatic late draw with Algeria, relying on attacking firepower despite conceding six goals in three group-stage matches. Will Lamine Yamal power his nation to the last 16?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/lewis-hamilton-mercedes-benchmark-f1-title-race-silverstone-2939390-2026-07-02",
+      "headline": "Can Lewis Hamilton stop Mercedes? His cheeky answer Is going viral Lewis Hamilton joked that only loosening Mercedes bolts would make him a title threat before Silverstone. The remark exposed Ferrari's gap to the benchmark as Kimi Antonelli's rookie campaign continues to dictate the season."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-women-vs-south-africa-women-live-score-t20-world-cup-2026-eng-w-vs-sa-w-match-2939383-2026-07-02",
-      "headline": "ENG vs SA semifinals Live Score: Can South Africa stop England's unbeaten run? England (ENG-W) vs South Africa (SA-W) semifinals Live Score, Women's T20 World Cup: South Africa have won four matches on the trot, but can they stop England, who are unbeaten in the tournament?"
+      "headline": "ENG vs SA semifinals LIVE: Sciver-Brunt, Knight steady England England (ENG-W) vs South Africa (SA-W) semifinals Live Score, Women's T20 World Cup: South Africa have won the toss and opted to bowl first at The Oval. Sune Luus has come in for Dane van Niekerk. For England, Nat Sciver-Brunt has returned, replacing Sophia Dunkley."
     },
     {
       "sentiment": "positive",
@@ -354,7 +369,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2026-live-score-tennis-day-4-iga-swiatek-zverev-yuki-2939214-2026-07-02",
-      "headline": "Day 4 live: Alexander Zverev beats Valentin Royer, Yuki Bhambri crashes out Wimbledon 2026 live score: Defending champions Iga Switak has beaten Karolina Pliskova to advance to the third round. Sixth seed Taylor Fritz has won his men's singles second-round match while Alexander Zverev has gone through to the third round."
+      "headline": "Day 4 live: Alexander Zverev beats Valentin Royer, Elena Rybakina in action Wimbledon 2026 live score: Defending champions Iga Switak has beaten Karolina Pliskova to advance to the third round. Sixth seed Taylor Fritz has won his men's singles second-round match while Alexander Zverev has gone through to the third round."
     },
     {
       "sentiment": "positive",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-test-series-galle-colombo-august-schedule-2939055-2026-07-02",
-      "headline": "Galle, Colombo to host India in August Test series. Sri Lanka announces schedule Sri Lanka Cricket has confirmed Galle and Colombo as the venues for India's two-Test series in August. The matches carry World Test Championship importance for India as tougher assignments follow."
+      "headline": "Galle, Colombo to host India in August Test series. Sri Lanka announces scheduleSri Lanka Cricket has confirmed Galle and Colombo as the venues for India's two-Test series in August. The matches carry World Test Championship importance for India as tougher assignments follow."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shah-rukh-khan-los-angeles-cricket-stadium-unveiled-jay-shah-thanked-2938933-2026-07-02",
-      "headline": "Shah Rukh Khan unveils new Los Angeles cricket stadium, thanks Jay Shah for support Shah Rukh Khan unveiled the Knight Riders Cricket Ground in Los Angeles, thanking Jay Shah and the ICC for support. The venue strengthens Major League Cricket in Southern California before cricket's LA28 Olympic return."
+      "headline": "Shah Rukh Khan unveils new Los Angeles cricket stadium, thanks Jay Shah for supportShah Rukh Khan unveiled the Knight Riders Cricket Ground in Los Angeles, thanking Jay Shah and the ICC for support. The venue strengthens Major League Cricket in Southern California before cricket's LA28 Olympic return."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-vs-ireland-t20-ravi-shastri-blunt-remark-2938910-2026-07-02",
-      "headline": "Sooryavanshi would have taken their pants off: Shastri's blunt verdict goes viral Ravi Shastri has slammed India's decision to leave Vaibhav Sooryavanshi on the bench, insisting the 15-year-old should have debuted against Ireland and claiming he \"would have taken their pants off\" on a slow, small ground."
+      "headline": "Sooryavanshi would have taken their pants off: Shastri's blunt verdict goes viralRavi Shastri has slammed India's decision to leave Vaibhav Sooryavanshi on the bench, insisting the 15-year-old should have debuted against Ireland and claiming he \"would have taken their pants off\" on a slow, small ground."
     },
     {
       "sentiment": "positive",
@@ -419,7 +434,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/usa-vs-bosnia-herzegovina-live-score-fifa-world-cup-2026-updates-round-of-32-knockout-2938747-2026-07-02",
-      "headline": "USA 2-0 BIH Live: Balogun, Tillman fire USA into Round of 16USA vs Bosnia & Herzegovina (BIH) Live, FIFA World Cup: Full-time: The United States are into the Round of 16 after a composed 2-0 victory over Bosnia and Herzegovina in San Francisco. Folarin Balogun broke the deadlock late in the first half before Malik Tillman doubled the advantage after the interval to seal progression. The hosts also overcame Balogun's second-half red card, producing a disciplined defensive display to see out the contest with 10 men and book their place in the next round."
+      "headline": "USA 2-0 BIH Highlights: Balogun, Tillman fire USA into Round of 16USA vs Bosnia & Herzegovina (BIH) Highlights, FIFA World Cup: Full-time: The United States are into the Round of 16 after a composed 2-0 victory over Bosnia and Herzegovina in San Francisco. Folarin Balogun broke the deadlock late in the first half before Malik Tillman doubled the advantage after the interval to seal progression. The hosts also overcame Balogun's second-half red card, producing a disciplined defensive display to see out the contest with 10 men and book their place in the next round."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-barbora-krejcikova-beats-mirra-andreeva-in-centre-court-comeback-2938733-2026-07-02",
       "headline": "French Open champion Mirra Andreeva makes shock exit in Round 2Barbora Krejcikova battled back from a set down to defeat Mirra Andreeva 4-6, 7-5, 6-4, knocking the reigning French Open champion out in the second round of Wimbledon."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/belgium-vs-senegal-live-score-fifa-world-cup-2026-updates-round-of-32-knockout-2938728-2026-07-02",
-      "headline": "BEL vs SEN Highlights: Late controversial penalty sends Belgium past Senegal 3-2Belgium vs Senegal Highlights, FIFA World Cup 2026: (BEL 3-2 SEN) Belgium staged a dramatic comeback to beat Senegal in a tense knockout clash, overturning a late deficit before edging a controversial extra-time finish. Senegal will feel hard done by after dominating large spells but falling short in the decisive moments."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/womens-t20-world-cup-england-vs-south-africa-nat-sciver-brunt-press-conference-2938727-2026-07-02",
-      "headline": "Nat Sciver-Brunt plays down title talk as England seek to end World Cup droughtWomen's T20 World Cup, ENG vs SA: Speaking to the reporters before the semis against South Africa, Nat Sciver-Brunt said that England aren't worried about not winning world titles since 2017 and will go one match at a time to reach their goal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/harry-kane-england-dr-congo-world-cup-brace-keeps-hopes-alive-2938717-2026-07-01",
-      "headline": "Captain Kane to the rescue as England survive DR Congo scareFIFA World Cup 2026: Harry Kane rescued England from a major scare with a decisive brace, overturning a shock DR Congo lead in a tense World Cup knockout clash. Despite a disciplined and fearless performance from the Leopards, England's quality and late momentum shift secured their progression."
     }
   ],
   "education": [
