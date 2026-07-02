@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/vicky-kaushals-three-word-monsoon-post-for-katrina-kaif-is-pure-romance-2939298-2026-07-02",
+      "headline": "Vicky Kaushal's three-word monsoon post for Katrina Kaif is pure romance Actor Vicky Kaushal shared a rain-soaked black-and-white photograph of wife Katrina Kaif hugging him from behind. The post drew fan reactions and spotlighted the couple's life after welcoming their son Vihaan."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/homebound-cinematographer-pratik-shah-issues-apology-over-sexual-misconduct-claims-2939188-2026-07-02",
       "headline": "Homebound cinematographer Pratik Shah apologises over sexual misconduct allegations Homebound cinematographer Pratik Shah has apologised for online allegations of sexual misconduct and emotional abuse made last year. His statement follows months of fallout, including reported removals from projects and final credits."
     },
@@ -135,7 +140,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/alpha-advance-booking-alia-bhatt-yrf-spy-universe-opening-box-office-2939001-2026-07-02",
-      "headline": "Alpha box office Day 1 prediction: Alia Bhatt's film may open below Raazi, Jigra Alia Bhatt and Sharvari's Alpha is heading to theatres with muted advance booking numbers. The early trend points to a modest opening for the YRF Spy Universe's first female-led thriller."
+      "headline": "Alpha box office Day 1 prediction: Alia Bhatt's film set for Rs 7-8 crore opening Actor Alia Bhatt and Sharvari's Alpha is set for a theatrical release on July 3. The female-led spy thriller is set for a Rs 7-8 crore opening, according to the early advance booking trends."
     },
     {
       "sentiment": "positive",
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/heart-beat-season-3-july-30-release-date-jiohotstar-deepa-balu-return-2938915-2026-07-02",
       "headline": "Heart Beat season 3 release date out: All we know about the show JioHotstar has announced that Heart Beat season 3 will premiere later this month. The update also clears speculation over the show's lead character Reena's return."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/what-to-watch-on-ott-this-week-obsession-isakapatnam-and-more-across-platforms-2938903-2026-07-02",
-      "headline": "What to watch on OTT this week? Obsession, Isakapatnam and more across platforms Streaming platforms are rolling out a varied slate of films and series this week, led by Rajkumar Hirani's OTT debut and Malayalam cinema's first musical horror comedy. The line-up spans supernatural, crime, comedy and folk horror, giving viewers a broad mix of new choices."
     }
   ],
   "general news": [
@@ -206,38 +206,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-has-9000-ev-charging-points-target-is-32000-cm-rekha-gupta-assures-of-smooth-ev-policy-rollout-2939120-2026-07-02",
-      "headline": "Delhi has 9,000 charging points, targets 32,000 by 2028: Rekha Gupta on EV policyDelhi Chief Minister Rekha Gupta said Delhi's EV charging network will expand from 9,000 to 32,000 points by 2028, assuring residents of hassle-free charging under the new EV Policy."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/indians-abroad/story/gujarat-couple-daughter-killed-in-fire-at-a-motel-in-uss-ohio-2939073-2026-07-02",
-      "headline": "Gujarat couple, daughter killed in fire at Ohio motel where they livedThe family locked themselves inside a bathroom at the motel in an attempt to escape the fire, but all there died of suffocation before they could be rescued."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-bjp-internal-fight-by-vijayendra-sadananda-gowda-viral-audio-congress-cm-race-2938394-2026-07-02",
-      "headline": "BJP grapples with wave of factionalism even as Karnataka polls draw nearKarnataka's politics has always been dominated by factionalism and internal party rivalries. This virus afflicted the Congress for nearly three years as DK Shivakumar and Siddaramaiah tussled for the CM's chair. Now, the virus of internal turmoil appears to have spread to the opposition BJP."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-tvk-saving-big-state-finance-public-works-contractors-thank-greater-chennai-corporation-gcc-2938192-2026-07-02",
-      "headline": "How Vijay govt is saving big for Tamil Nadu, and contractors are thanking himTamil Nadu Chief Minister C Joseph Vijay-led government's decision to open even the smallest public works projects for civic tender has resulted in contractors quoting sharply lower rates, resulting in big gains for the state's exchequer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/china-heatwave-rooftop-water-mist-cooling-system-explained-2938921-2026-07-02",
-      "headline": "In China, rain falls from buildings to defeat rising heat. How does it work?China's rooftop misting system is going viral for cooling buildings during heatwaves. Here's how evaporative cooling helps lower temperatures by up to 8\u00b0C."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-japan-ai-defence-energy-economic-security-pacts-annual-summit-2938955-2026-07-02",
-      "headline": "AI, defence, energy: PM Modi, Takaichi widen India-Japan partnershipAI, semiconductors, defence and energy dominated the agenda, signalling that India and Japan are looking well beyond traditional cooperation and preparing for a future shaped by technology and economic security."
+      "url": "https://www.indiatoday.in/world/story/pakistan-news-historic-125-year-old-gurdwara-demolished-pakistan-punjab-lahore-mea-reaction-2939213-2026-07-02",
+      "headline": "125-year-old gurdwara demolished in Pakistan; distressing, says IndiaIndia has condemned the demolition of a historic Sikh shrine in Pakistan as a deeply distressing act of vandalism. Sikh organisations and political leaders have demanded accountability and restoration of the gurdwara, and stronger protection for religious minorities."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/uk-news-british-woman-2007-india-trip-neurocysticercosis-38-parasites-brain-pork-tapeworm-infection-2938966-2026-07-02",
       "headline": "Got 38 parasites in brain after India visit, says UK woman. 3 facts and a questionA British woman claims that a 2007 trip to India left her with 38 parasites in her brain after she contracted neurocysticercosis, a rare disease caused by the pork tapeworm. Here are three key facts about how the infection spreads, and whether her India visit can really be identified as the source."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/technology/story/after-whatsapp-govt-sends-notice-to-telegram-signal-over-username-features-amid-fraud-concerns-2939376-2026-07-02",
+      "headline": "After WhatsApp, govt sends notice to Telegram, Signal over username featuresThe government has sought explanations from Telegram and Signal on how they are addressing risks related to fraud, impersonation and other forms of online abuse associated with usernames."
     },
     {
       "sentiment": "positive",
@@ -246,28 +226,78 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pojk-protests-jaac-leader-sardar-aman-khan-claims-pakistan-army-armed-kashmiris-2939347-2026-07-02",
+      "headline": "Pakistan Army gave guns to Kashmiris: POK leader's claim as protests spiralPOK protest leader Sardar Aman Khan accused Islamabad of hypocrisy for labelling activists as terrorists, as anti-government protests rage in the region."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-unesco-warning-taxila-vedic-period-historic-site-reconstruction-mauryan-stupa-2939234-2026-07-02",
+      "headline": "Pak uses cement to conserve Vedic-era Taxila, gets Unesco delisting warningThe UN's cultural arm, Unesco, has warned Pakistan over its \"conservation work\" in the Vedic-era archeological complex of Taxila. Unesco said that Pakistan's use of cement in the \"conservation\" of the ancient sites is a violation of restoration norms and could result in the site being delisted from its list of World Heritage Sites."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/sspx-rebel-catholic-group-expelled-vatican-church-pope-leo-2938980-2026-07-02",
+      "headline": "What is SSPX, the secretive rebel Catholic group expelled by the PopeThe SSPX, a group of ultra-conservative Catholics, consecrated four bishops and livestreamed the ceremony in defiance of Pope Leo. The Vatican was quick to expel the members. The incident has revived scrutiny of the traditionalist group's long conflict with the Church."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/video/watch-japanese-pm-sanae-takaichi-plays-santoor-at-delhi-cultural-event-2939345-2026-07-02",
+      "headline": "Watch: At PM Modi's request, Japanese PM plays santoor at Delhi cultural eventJapanese Prime Minister Sanae Takaichi embraced India's rich cultural heritage by trying her hand at the santoor during a cultural luncheon hosted by Prime Minister Narendra Modi in New Delhi."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-japan-defence-co-development-agreement-modi-sanae-takaichi-summit-2938979-2026-07-02",
       "headline": "PM Modi calls Japan PM his younger sister, she responds with a smileFor a summit centred on diplomacy and strategic cooperation, the most memorable moment came when PM Modi called his Japanese counterpart, Sanae Takaichi, his \"younger sister\", and she responded by saying the two leaders would take the India-Japan relationship forward with the trust and warmth of \"brother and sister.\""
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-open-manhole-death-sakinaka-khairani-road-drain-repairs-2939022-2026-07-02",
-      "headline": "Elderly man drowns after falling into manhole amid rain; 4 officials suspendedA 60-year-old pedestrian fell into an open manhole on Khairani Road during drainage repairs and died. The BMC has announced action against the contractor as police examine safety lapses at the site."
+      "url": "https://www.indiatoday.in/world/story/papua-separatist-rebels-kills-us-pilot-burns-plane-yahukimo-indonesia-2939331-2026-07-02",
+      "headline": "US pilot shot dead in Indonesia's Papua, plane set ablaze by separatist rebelsSeparatist rebels in Papua said they shot dead American pilot Nicholas F. Gosselin and burned his aircraft after it landed in Yahukimo. They said the attack was meant as a warning to Indonesia and the United States over the long-running conflict."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/new-epf-scheme-2026-mandatory-pf-contribution-capped-at-rs-1800-heres-whats-new-2938866-2026-07-02",
-      "headline": "EPFO new rule: PF contribution above Rs 1,800 now voluntary; what it means for youThe updated rules are expected to make the EPF system simpler, more digital and easier to use for nearly 8 crore active EPFO subscribers. The new scheme came into effect on June 29 after it was published in the Gazette, replacing the long-standing EPF Scheme, 1952."
+      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2026-live-score-tennis-day-4-iga-swiatek-zverev-yuki-2939214-2026-07-02",
+      "headline": "Day 4 live: Alexander Zverev beats Valentin Royer, Yuki Bhambri crashes outWimbledon 2026 live score: Defending champions Iga Switak has beaten Karolina Pliskova to advance to the third round. Sixth seed Taylor Fritz has won his men's singles second-round match while Alexander Zverev has gone through to the third round."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/the-neet-reset-parliamentary-panel-bats-for-more-exams-but-is-that-the-real-fix-2938803-2026-07-02",
-      "headline": "The NEET reset: How many entrance exams will it take to become a doctor in India?A Parliamentary panel's call for multi-phase and multiple-attempt NEET exams has reignited a much bigger debate over the future of medical admissions in India. But while policymakers focus on the exam, experts say the real bottleneck is delayed counselling and prolonged seat blocking."
+      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-minimum-basic-pay-rs-18000-to-rs-69000-debate-explained-salary-pension-hike-news-2937302-2026-07-01",
+      "headline": "8th Pay Commission: From Rs 18,000 to Rs 69,000? Minimum pay debate explainedEmployee organisations believe the current minimum basic pay of Rs 18,000, introduced nearly a decade ago under the 7th Pay Commission, no longer reflects the cost of living. Depending on the method used, unions have proposed increasing it to anywhere between Rs 55,000 and nearly Rs 69,000."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/maharashtra-electrocution-deaths-dombivli-mumbra-monsoon-electrical-safety-2939321-2026-07-02",
+      "headline": "3 incidents in 1 day: 2 electrocuted in Thane, Mumbai man falls into sinkhole, diesTwo people died in separate electrocution incidents in Dombivli and Mumbra during heavy rain. The deaths have renewed concerns over exposed electrical infrastructure and possible negligence."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/japan-pm-sanae-takaichi-india-visit-live-updates-annual-summit-talk-narendra-modi-2938770-2026-07-02",
-      "headline": "Live: PM Takaichi bats for stronger India-Japan partnership amid global uncertaintyJapan PM India Visit Live Updates: In her first ever trip to India, Japanese Prime Minister Sanae Takaichi arrived in New Delhi for a three-day official visit. Accompanied by PM Narendra Modi, Taikaichi received a ceremonial welcome at the Rashtrapati Bhavan with a Guard of Honour. She then proceeded to the Hyderabad House, where she participated in a bilateral meeting with PM Modi. The bilateral talks were followed by the exchange of MoUs and press statements. Takaichi will the address the 13th annual India-Japan Business Forum at Hotel Taj Palace at 3 pm. The Japanese leader is scheduled to depart for Tokyo on Friday morning. Follow IndiaToday.in for the latest updates."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-tvk-saving-big-state-finance-public-works-contractors-thank-greater-chennai-corporation-gcc-2938192-2026-07-02",
+      "headline": "How Vijay govt is saving big for Tamil Nadu, and contractors are thanking himTamil Nadu Chief Minister C Joseph Vijay-led government's decision to open even the smallest public works projects for civic tender has resulted in contractors quoting sharply lower rates, resulting in big gains for the state's exchequer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-japan-ai-defence-energy-economic-security-pacts-annual-summit-2938955-2026-07-02",
+      "headline": "AI, defence, energy: PM Modi, Takaichi widen India-Japan partnershipAI, semiconductors, defence and energy dominated the agenda, signalling that India and Japan are looking well beyond traditional cooperation and preparing for a future shaped by technology and economic security."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/jee-neet-coaching-faculty-incentives-rs-5-crore-student-acquisition-costs-air-toppers-2938970-2026-07-02",
+      "headline": "Rs 2 lakh to 5 crore for one topper? Faculty incentives at JEE, NEET coachingA report on faculty incentives has renewed focus on how coaching institutes chase top JEE and NEET students. The debate highlights rising acquisition costs, performance-linked payouts and sharply different recruitment models across the sector."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/vinfast-to-launch-the-vf-3-its-smaller-electric-car-in-late-2026-2938283-2026-07-01",
+      "headline": "This mini electric SUV is set to hit Indian roads this yearThe VinFast VF 3, set to arrive in India later this year, aims to bring affordable urban electric mobility with compact dimensions, SUV-inspired styling and a claimed driving range of up to 210 km."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/gujarat-couple-daughter-killed-in-fire-at-a-motel-in-uss-ohio-2939073-2026-07-02",
+      "headline": "Gujarat couple, daughter killed in fire at Ohio motel where they livedThe family locked themselves inside a bathroom at the motel in an attempt to escape the fire, but all there died of suffocation before they could be rescued."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/board-exam-class-12-marks-may-get-50-percent-weightage-neet-jee-college-admissions-2939130-2026-07-02",
+      "headline": "Class 12 board exam marks may get 50% weightage in NEET, JEE-based admissionsSources said board examination marks may be given 50 per cent weightage in NEET and JEE-linked admissions. The proposal is part of a wider review of exam fairness, coaching dependence and testing reforms."
     },
     {
       "sentiment": "positive",
@@ -276,51 +306,46 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/vinfast-to-launch-the-vf-3-its-smaller-electric-car-in-late-2026-2938283-2026-07-01",
-      "headline": "This mini electric SUV is set to hit Indian roads this yearThe VinFast VF 3, set to arrive in India later this year, aims to bring affordable urban electric mobility with compact dimensions, SUV-inspired styling and a claimed driving range of up to 210 km."
+      "url": "https://www.indiatoday.in/india/story/ec-issues-notice-to-mamata-banerjee-ritabrata-banerjee-factions-over-party-symbol-seeks-replies-by-july-6-2939289-2026-07-02",
+      "headline": "EC sends notice to Mamata Banerjee, Ritabrata factions in 'real' Trinamool fightMamata Banerjee and Ritabrata Banerjee received Election Commission notices seeking replies by July 6 on their competing claims over the Trinamool Congress's organisational control."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/fact-check/story/zinc-phosphide-online-sale-bulk-rat-poison-without-verification-2939132-2026-07-02",
-      "headline": "I bought enough poison to kill 10,000 people. Anyone can, onlineTry buying sleeping pills or a particular brand of cough syrup without a doctor's prescription; it's not easy. But what if we told you that buying bulk quantities of a lethal poison is so much easier?"
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-gauri-spratt-to-skip-grand-reception-after-sunday-wedding-source-2939198-2026-07-02",
+      "headline": "Aamir Khan-Gauri Spratt to skip grand reception after Sunday wedding: SourceAamir Khan and Gauri Spratt are set to marry at the actor's home on Sunday. The couple plan no grand reception, opting instead for a private family celebration after the ceremony."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/punjab-news-elections-2027-rahul-gandhi-mallikarjun-kharge-congress-high-command-amrinder-singh-raja-warring-pratab-bajwa-2939107-2026-07-02",
-      "headline": "How Rahul Gandhi, Kharge held firm, refused to pander to Punjab's noise machineRahul Gandhi and the Congress High Command called the bluff of a loud Sikh-right and left commentariat alliance, retaining Raja Warring and Pratap Bajwa despite a months-long campaign for their removal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dehradun-delhi-expressway-potholes-viral-video-congress-corruption-2938891-2026-07-02",
-      "headline": "Huge potholes on Delhi-Dehradun highway spark outrage, NHAI shifts blameA video has gone viral showing two large potholes on the Delhi-Dehradun Expressway, which was inaugurated around three months ago by PM Modi. The viral video has put the Rs 1,200 crore highway under scrutiny."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/pune/story/siya-goyal-video-ketan-agarwal-murder-case-old-pub-clip-pune-probe-2938764-2026-07-02",
-      "headline": "First he cheats, then calls: Old video shows Siya abusing on phone while partyingAn old video has surfaced showing Siya Goyal drinking at a pub and using abusive language during a heated phone call, in which she is heard saying, \"First he cheats on me, then he calls me.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/in-depth/story/beyond-mileage-e20-is-accelerating-wear-and-tear-in-older-non-e20-petrol-cars-says-survey-2938987-2026-07-02",
-      "headline": "Beyond mileage, E20 is accelerating wear and tear in older petrol carsMileage was the first warning sign. Now, a survey suggests prolonged use of E20 petrol could also be accelerating wear and tear in older, non-E20-compatible petrol vehicles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-visa-website-critique-the-economist-ashoka-column-debate-government-digital-services-upi-aadhaar-2938245-2026-07-02",
-      "headline": "Why can't India build a decent visa website, asks The Economist. Indians respondThe Economist's criticism of India's visa and other government websites has sparked strong reactions on social media. While some slammed the London-based magazine for its alleged biased views, others agreed with its opinion, and said the user experience needed to be improved."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/video-bihar-board-exam-papers-found-floating-in-water-before-class-9-10-12-exams-2939002-2026-07-02",
-      "headline": "Watch: Bihar board exam papers found floating in rainwater, viral video sparks rowBundles of Bihar Board question papers and answer sheets were seen floating in rainwater at a Buxar education centre before quarterly exams for Classes 9, 10 and 12. The viral visuals have triggered criticism, though officials insist the examination material was not damaged and exams will continue as scheduled."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rajkot-murder-piyush-kumar-kharwar-arrested-for-killing-live-in-partner-2938698-2026-07-01",
-      "headline": "Live-in, woman who turned to be a man, stalking: Story of a Rajkot murderA 20-year-old man has been arrested for allegedly murdering his live-in partner in Gujarat's Rajkot after discovering that the \"woman\" he had met on social media was in fact a man looking for a same-sex relationship."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-has-9000-ev-charging-points-target-is-32000-cm-rekha-gupta-assures-of-smooth-ev-policy-rollout-2939120-2026-07-02",
+      "headline": "Delhi has 9,000 charging points, targets 32,000 by 2028: Rekha Gupta on EV policyDelhi Chief Minister Rekha Gupta said Delhi's EV charging network will expand from 9,000 to 32,000 points by 2028, assuring residents of hassle-free charging under the new EV Policy."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-women-vs-south-africa-women-live-score-t20-world-cup-2026-eng-w-vs-sa-w-match-2939383-2026-07-02",
+      "headline": "ENG vs SA semifinals Live Score: Can South Africa stop England's unbeaten run? England (ENG-W) vs South Africa (SA-W) semifinals Live Score, Women's T20 World Cup: South Africa have won four matches on the trot, but can they stop England, who are unbeaten in the tournament?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/zeynep-sonmez-wimbledon-2026-watermelon-symbol-palestine-support-2939368-2026-07-02",
+      "headline": "Turkey's Zeynep Sonmez steals spotlight with unique symbol on racket Turkish player Zeynep Sonmez used a watermelon-shaped racket dampener at Wimbledon 2026 after reportedly being barred from wearing a Palestine-support brooch, saying the fruit symbol allowed her to express solidarity with Palestinians."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-kolkata-ganapati-seva-dal-shyambazar-fifa-gali-2939361-2026-07-02",
+      "headline": "India's football capital, Kolkata dresses up for World Cup knockouts FIFA World Cup 2026: A neighbourhood club in Kolkata has turned a Shyambazar lane into a World Cup-themed FIFA Gali with murals, flags and giant cutouts of football stars. The display captures the city's enduring football obsession and its hope that India will one day reach the FIFA World Cup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jai-moondra-etpl-draft-rotterdam-dockers-ireland-india-series-2939318-2026-07-02",
+      "headline": "Jai Moondra rewarded for heroics vs India with European T20 League berth Ireland pacer Jai Moondra was rewarded for his match-winning performances against India by becoming Rotterdam Dockers' first pick in the inaugural European T20 Premier League Draft."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/iga-swiatek-beats-karolina-pliskova-reaches-wimbledon-2026-third-round-2939270-2026-07-02",
+      "headline": "Iga Swiatek cruises through to Round 3, Fritz, De Minaur maintain perfect starts Defending champion Iga Swiatek stormed into the Wimbledon third round with a straight-sets win over Karolina Pliskova, while Taylor Fritz and Alex de Minaur also advanced with commanding victories."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/samit-dravid-maharaja-t20-trophy-bengaluru-blasters-vs-hubli-tigers-rahul-dravid-2939241-2026-07-02",
@@ -329,7 +354,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2026-live-score-tennis-day-4-iga-swiatek-zverev-yuki-2939214-2026-07-02",
-      "headline": "Day 4 live: Iga Swiatek beats Karolina Pliskova, Yuki Bhambri crashes out Wimbledon 2026 live score: Defending champions Iga Switak has beaten Karolina Pliskova to advance to the third round. Sixth seed Taylor Fritz has won his men's singles second-round match while Alexander Zverev will be in action later."
+      "headline": "Day 4 live: Alexander Zverev beats Valentin Royer, Yuki Bhambri crashes out Wimbledon 2026 live score: Defending champions Iga Switak has beaten Karolina Pliskova to advance to the third round. Sixth seed Taylor Fritz has won his men's singles second-round match while Alexander Zverev has gone through to the third round."
     },
     {
       "sentiment": "positive",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-benched-india-hierarchy-over-merit-england-t20i-2938859-2026-07-02",
-      "headline": "15-year-old made to wait: What exactly is India's plan for Vaibhav Sooryavanshi? India tour of England: Fast-tracked into the senior squad following a historic IPL campaign, the decision to leave 15-year-old prodigy Vaibhav Sooryavanshi on the bench invites a compelling question over India's delicate balance between hierarchy and current merit."
+      "headline": "15-year-old made to wait: What exactly is India's plan for Vaibhav Sooryavanshi?India tour of England: Fast-tracked into the senior squad following a historic IPL campaign, the decision to leave 15-year-old prodigy Vaibhav Sooryavanshi on the bench invites a compelling question over India's delicate balance between hierarchy and current merit."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/folarin-balogun-red-card-mauricio-pochettino-question-usa-bosnia-world-cup-2938824-2026-07-02",
-      "headline": "Balogun did not deserve a red card: USA coach questions referee's decision United States coach Mauricio Pochettino launched a passionate defence of Folarin Balogun after the striker's controversial sending-off in the 2-0 World Cup round-of-32 victory over Bosnia and Herzegovina on Wednesday."
+      "headline": "Balogun did not deserve a red card: USA coach questions referee's decisionUnited States coach Mauricio Pochettino launched a passionate defence of Folarin Balogun after the striker's controversial sending-off in the 2-0 World Cup round-of-32 victory over Bosnia and Herzegovina on Wednesday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-defends-serena-williams-wimbledon-return-2938789-2026-07-02",
-      "headline": "Djokovic defends Serena Williams's Wimbledon return: Just enjoy her greatness Novak Djokovic has urged fans to celebrate Serena Williams's return to Wimbledon rather than rush to criticise her after the 44-year-old's comeback ended in a first-round defeat."
+      "headline": "Djokovic defends Serena Williams's Wimbledon return: Just enjoy her greatnessNovak Djokovic has urged fans to celebrate Serena Williams's return to Wimbledon rather than rush to criticise her after the 44-year-old's comeback ended in a first-round defeat."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-south-africa-womens-t20-world-cup-semi-final-nat-sciver-brunt-fit-oval-clash-2938561-2026-07-02",
-      "headline": "England out to break South Africa curse with Nat Sciver-Brunt boost for semis Women's T20 World Cup, ENG vs SA: England have lost their last two knockout matches against South Africa and will be eager to snap that streak when the two sides meet in the second semi-final at The Kennington Oval in London on Thursday."
+      "headline": "England out to break South Africa curse with Nat Sciver-Brunt boost for semisWomen's T20 World Cup, ENG vs SA: England have lost their last two knockout matches against South Africa and will be eager to snap that streak when the two sides meet in the second semi-final at The Kennington Oval in London on Thursday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-debut-wait-pressure-sunil-gavaskar-2938773-2026-07-02",
-      "headline": "Sooryavanshi's wait for India debut will put him under more pressure: Gavaskar Batting great Sunil Gavaskar believes delaying Vaibhav Sooryavanshi's senior India debut will only increase the pressure on the teenage opener, who was once again left out of the playing XI for the opening T20I against England on Wednesday."
+      "headline": "Sooryavanshi's wait for India debut will put him under more pressure: GavaskarBatting great Sunil Gavaskar believes delaying Vaibhav Sooryavanshi's senior India debut will only increase the pressure on the teenage opener, who was once again left out of the playing XI for the opening T20I against England on Wednesday."
     },
     {
       "sentiment": "positive",
@@ -450,31 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/harry-kane-england-dr-congo-world-cup-brace-keeps-hopes-alive-2938717-2026-07-01",
       "headline": "Captain Kane to the rescue as England survive DR Congo scareFIFA World Cup 2026: Harry Kane rescued England from a major scare with a decisive brace, overturning a shock DR Congo lead in a tense World Cup knockout clash. Despite a disciplined and fearless performance from the Leopards, England's quality and late momentum shift secured their progression."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-abhishek-sharma-fastest-100-t20i-sixes-record-durham-2938695-2026-07-01",
-      "headline": "Abhishek Sharma scripts history, becomes fastest batter to 100 T20I sixesAbhishek Sharma scripted history by becoming the fastest batter to 100 T20I sixes, reaching the milestone in just 785 balls before smashing a blistering 59 off 24 against England in the first T20I."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-jannik-sinner-italian-grand-slam-record-aryna-sabalenka-third-round-2938640-2026-07-01",
-      "headline": "Jannik Sinner fights past Nuno Borges, Aryna Sabalenka survives McCartney Kessler scareDefending champion Jannik Sinner and world No.1 Aryna Sabalenka advanced to the Wimbledon third round after overcoming stern second-round tests on Wednesday. Sinner beat Nuno Borges in straight sets, while Sabalenka saved four set points before beating McCartney Kessler."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-no-debut-india-vs-england-wait-continues-sunil-gavaskar-shreyas-iyer-2938636-2026-07-01",
-      "headline": "No Vaibhav Sooryavanshi debut in Durham as India ignore Gavaskar's suggestionThe wait for Vaibhav Sooryavanshi's India debut continues after the 15-year-old was left out of the first T20I against England despite growing calls for his inclusion. India stuck with their World Cup-winning core, ignoring Sunil Gavaskar's advice to hand the teenager an immediate debut."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/naomi-osaka-wimbledon-third-round-daughter-birthday-2938605-2026-07-01",
-      "headline": "Naomi Osaka conquers Wimbledon nerves, keeps daughter's birthday plans intact4-time Grand Slam champion Naomi Osaka eased past Anastasia Gasanova to reach the Wimbledon third round before revealing her daughter's birthday had made her unusually nervous."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/england-vs-dr-congo-live-score-fifa-world-cup-2026-updates-knockout-round-of-32-2938580-2026-07-01",
-      "headline": "ENG 2 -1 DRC Highlights: Kane double seals comeback win for EnglandEngland (ENG) vs DR Congo (DRC) Highlights, FIFA World Cup 2026: (ENG 2 - 1 DRC) Harry Kane's second-half brace inspired England to a hard-fought 2-1 comeback win over DR Congo after the Three Lions had spent much of the afternoon chasing the game. Anthony Gordon changed the contest off the bench with two assists as England booked a Round of 16 meeting with Mexico."
     }
   ],
   "education": [
