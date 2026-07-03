@@ -105,7 +105,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-have-married-in-intimate-ceremony-new-york-post-page-six-reports-2939491-2026-07-03",
-      "headline": "Taylor Swift and Travis Kelce have married in intimate ceremony: Report The pair exchanged vows in front of a 'tiny group of loved ones,' the New York Post's Page Six reported. The outlet did not say when or where the nuptials took place, though it noted Swift's private jet recently spent time in Nashville."
+      "headline": "Taylor Swift, Travis Kelce already married, report says The pair exchanged vows in front of a 'tiny group of loved ones,' the New York Post's Page Six reported. The outlet did not say when or where the nuptials took place, though it noted Swift's private jet recently spent time in Nashville."
     },
     {
       "sentiment": "positive",
@@ -207,12 +207,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/portugal-vs-croatia-live-fifa-world-cup-updates-score-cristiano-ronaldo-luka-modric-2939492-2026-07-03",
-      "headline": "POR vs CRO Live: A final Cristiano Ronaldo vs Luka Modric dancePortugal (POR) vs Croatia (CRO) Live, FIFA World Cup 2026: Cristiano Ronaldo and Luka Modric share one last World Cup stage as Portugal and Croatia collide in a blockbuster Round of 32 clash in Toronto. For one of football's greatest icons, the final whistle could also mark the end of an unforgettable World Cup journey."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-have-married-in-intimate-ceremony-new-york-post-page-six-reports-2939491-2026-07-03",
-      "headline": "Taylor Swift and Travis Kelce have married in intimate ceremony: ReportThe pair exchanged vows in front of a 'tiny group of loved ones,' the New York Post's Page Six reported. The outlet did not say when or where the nuptials took place, though it noted Swift's private jet recently spent time in Nashville."
+      "headline": "POR 0-0 CRO Live: Portugal on top, Cristiano Ronaldo misfiresPortugal (POR) vs Croatia (CRO) Live, FIFA World Cup 2026: (POR 0-0 CRO) Portugal have dominated the opening 45 minutes but remain locked at 0-0 after wasting a string of clear-cut opportunities. Croatia have barely threatened going forward, with Dominik Livakovic and a resolute defence ensuring Zlatko Dalic's men head into the interval on level terms."
     },
     {
       "sentiment": "negative",
@@ -221,13 +216,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/iitian-chooses-peace-over-pay-rejects-rs-32-lpa-gurgaon-job-to-stay-in-bengaluru-educ-2938851-2026-07-02",
-      "headline": "IITian chooses peace over pay, rejects Rs 32 LPA Gurgaon job to stay in BengaluruAn IIT Roorkee graduate and data scientist has gone viral after rejecting a Rs 32 LPA job offer in Gurgaon to stay in Bengaluru. Citing safety, peace of mind and quality of life, her decision has sparked a wider debate on what truly defines a successful career."
+      "url": "https://www.indiatoday.in/world/story/uk-news-british-woman-2007-india-trip-neurocysticercosis-38-parasites-brain-pork-tapeworm-infection-2938966-2026-07-02",
+      "headline": "Got 38 parasites in brain after India visit, says UK woman. 3 facts and a questionA British woman claims that a 2007 trip to India left her with 38 parasites in her brain after she contracted neurocysticercosis, a rare disease caused by the pork tapeworm. Here are three key facts about how the infection spreads, and whether her India visit can really be identified as the source."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/uk-news-british-woman-2007-india-trip-neurocysticercosis-38-parasites-brain-pork-tapeworm-infection-2938966-2026-07-02",
-      "headline": "Got 38 parasites in brain after India visit, says UK woman. 3 facts and a questionA British woman claims that a 2007 trip to India left her with 38 parasites in her brain after she contracted neurocysticercosis, a rare disease caused by the pork tapeworm. Here are three key facts about how the infection spreads, and whether her India visit can really be identified as the source."
+      "url": "https://www.indiatoday.in/jobs/story/iitian-chooses-peace-over-pay-rejects-rs-32-lpa-gurgaon-job-to-stay-in-bengaluru-educ-2938851-2026-07-02",
+      "headline": "IITian chooses peace over pay, rejects Rs 32 LPA Gurgaon job to stay in BengaluruAn IIT Roorkee graduate and data scientist has gone viral after rejecting a Rs 32 LPA job offer in Gurgaon to stay in Bengaluru. Citing safety, peace of mind and quality of life, her decision has sparked a wider debate on what truly defines a successful career."
     },
     {
       "sentiment": "positive",
@@ -238,6 +233,11 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/pakistan-news-historic-125-year-old-gurdwara-demolished-pakistan-punjab-lahore-mea-reaction-2939213-2026-07-02",
       "headline": "125-year-old gurdwara demolished in Pakistan; distressing, says IndiaIndia has condemned the demolition of a historic Sikh shrine in Pakistan as a deeply distressing act of vandalism. Sikh organisations and political leaders have demanded accountability and restoration of the gurdwara, and stronger protection for religious minorities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-have-married-in-intimate-ceremony-new-york-post-page-six-reports-2939491-2026-07-03",
+      "headline": "Taylor Swift, Travis Kelce already married, report saysThe pair exchanged vows in front of a 'tiny group of loved ones,' the New York Post's Page Six reported. The outlet did not say when or where the nuptials took place, though it noted Swift's private jet recently spent time in Nashville."
     },
     {
       "sentiment": "positive",
@@ -323,8 +323,13 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-england-vs-mexico-pubs-open-till-5am-united-kingdom-2939495-2026-07-03",
+      "headline": "Pints till penalties! PM Starmer lets pubs stay open for England vs Mexico FIFA World Cup 2026: The UK government has allowed pubs and bars in England and Wales to stay open until 5 a.m. for England's World Cup Round of 16 match against Mexico. The move cuts red tape for venues and gives the hospitality trade a timely lift for a high-stakes late-night fixture."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/portugal-vs-croatia-live-fifa-world-cup-updates-score-cristiano-ronaldo-luka-modric-2939492-2026-07-03",
-      "headline": "POR vs CRO Live: A final Cristiano Ronaldo vs Luka Modric dance Portugal (POR) vs Croatia (CRO) Live, FIFA World Cup 2026: Cristiano Ronaldo and Luka Modric share one last World Cup stage as Portugal and Croatia collide in a blockbuster Round of 32 clash in Toronto. For one of football's greatest icons, the final whistle could also mark the end of an unforgettable World Cup journey."
+      "headline": "POR 0-0 CRO Live: Portugal on top, Cristiano Ronaldo misfires Portugal (POR) vs Croatia (CRO) Live, FIFA World Cup 2026: (POR 0-0 CRO) Portugal have dominated the opening 45 minutes but remain locked at 0-0 after wasting a string of clear-cut opportunities. Croatia have barely threatened going forward, with Dominik Livakovic and a resolute defence ensuring Zlatko Dalic's men head into the interval on level terms."
     },
     {
       "sentiment": "positive",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-kolkata-ganapati-seva-dal-shyambazar-fifa-gali-2939361-2026-07-02",
-      "headline": "India's football capital, Kolkata dresses up for World Cup knockouts FIFA World Cup 2026: A neighbourhood club in Kolkata has turned a Shyambazar lane into a World Cup-themed FIFA Gali with murals, flags and giant cutouts of football stars. The display captures the city's enduring football obsession and its hope that India will one day reach the FIFA World Cup."
+      "headline": "India's football capital, Kolkata dresses up for World Cup knockoutsFIFA World Cup 2026: A neighbourhood club in Kolkata has turned a Shyambazar lane into a World Cup-themed FIFA Gali with murals, flags and giant cutouts of football stars. The display captures the city's enduring football obsession and its hope that India will one day reach the FIFA World Cup."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-harry-kane-anthony-gordon-england-comeback-messi-comparison-2938744-2026-07-02",
       "headline": "Harry Kane on Lionel Messi's level? Gordon makes big GOAT comparison after England winFIFA World Cup 2026: Anthony Gordon hailed Harry Kane after the England captain's brace turned a fraught tie against DR Congo. The comeback win sent England into the last 16 against co-hosts Mexico and underlined Kane's authority."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-wimbledon-2026-ball-girl-prank-stefanos-tsitsipas-win-2938743-2026-07-02",
-      "headline": "Novak Djokovic pranks ball girl, then outclasses Stefanos Tsitsipas to reach Round 3Novak Djokovic entertained Centre Court with a playful prank on a ball girl before cruising past Stefanos Tsitsipas 6-3, 6-4, 6-2 to reach the third round of Wimbledon 2026 on Wednesday."
     }
   ],
   "education": [
