@@ -145,7 +145,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-wedding-live-updates-madison-square-garden-marriage-2939985-2026-07-03",
-      "headline": "Taylor Swift-Travis Kelce wedding LIVE updates: All eyes on couple's 'I do' moment Taylor Swift-Travis Kelce Wedding Live Updates: Singer Taylor Swift and her fiance, NFL star Travis Kelce's wedding has become the most talked-about event of the weekend. Catch all the latest reports, preparations and key developments from New York's Madison Square Garden here."
+      "headline": "Taylor-Travis Wedding LIVE: Celebrities start reaching Madison Square Garden Taylor Swift-Travis Kelce Wedding Live Updates: Singer Taylor Swift and her fiance, NFL star Travis Kelce's wedding has become the most talked-about event of the weekend. Catch all the latest reports, preparations and key developments from New York's Madison Square Garden here."
     },
     {
       "sentiment": "positive",
@@ -211,8 +211,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/australia-vs-egypt-live-score-fifa-world-cup-score-round-of-32-updates-2940236-2026-07-03",
-      "headline": "AUS 1-1 EGY: Match goes to extra time with last 16 spot at stakeAustralia vs Egypt live score and updates, FIFA World Cup 2026: Australia and Egypt cannot be separated after 90 minutes as the Round of 32 clash heads into extra time. Emam Ashour's opener was cancelled out by Mohamed Hany's own goal before Patrick Beach's late heroics kept the Socceroos alive."
+      "url": "https://www.indiatoday.in/sports/football/story/argentina-vs-cabo-verde-live-score-fifa-world-cup-2026-score-round-of-32-updates-messi-vozinha-2940283-2026-07-04",
+      "headline": "ARG 0-0 CPV Live: Will Messi's men spoil the Cabo Verde fairytale?Argentina vs Cabo Verde live, FIFA World Cup: (ARG 0-0 CPV) The wait is over as Argentina begin the defence of their World Cup crown in the knockout stages against fearless debutants Cabo Verde. Lionel Messi chases another slice of history, while Cabo Verde look to script the biggest upset of the tournament."
     },
     {
       "sentiment": "positive",
@@ -312,7 +312,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-wedding-live-updates-madison-square-garden-marriage-2939985-2026-07-03",
-      "headline": "Taylor Swift-Travis Kelce wedding LIVE updates: All eyes on couple's 'I do' momentTaylor Swift-Travis Kelce Wedding Live Updates: Singer Taylor Swift and her fiance, NFL star Travis Kelce's wedding has become the most talked-about event of the weekend. Catch all the latest reports, preparations and key developments from New York's Madison Square Garden here."
+      "headline": "Taylor-Travis Wedding LIVE: Celebrities start reaching Madison Square GardenTaylor Swift-Travis Kelce Wedding Live Updates: Singer Taylor Swift and her fiance, NFL star Travis Kelce's wedding has become the most talked-about event of the weekend. Catch all the latest reports, preparations and key developments from New York's Madison Square Garden here."
     },
     {
       "sentiment": "negative",
@@ -321,6 +321,21 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/australia-vs-egypt-salah-ashour-fifa-world-cup-round-of-32-match-report-2940284-2026-07-04",
+      "headline": "Egypt break new ground, edge Australia on penalties to reach World Cup last 16 FIFA World Cup 2026: Egypt made history by defeating Australia 4-2 on penalties after a 1-1 draw to reach the FIFA World Cup Round of 16 for the first time. Hossam Abdelmaguid converted the decisive spot-kick as the Pharaohs set up a clash with either Argentina or Cabo Verde."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/argentina-vs-cabo-verde-live-score-fifa-world-cup-2026-score-round-of-32-updates-messi-vozinha-2940283-2026-07-04",
+      "headline": "ARG vs CPV Live: Messi in spotlight as Cape Verde look to extend fairytale run Argentina vs Cabo Verde live, FIFA World Cup: Defending champions Argentina enter the FIFA World Cup knockout stage as favorites, but Cape Verde have already defied expectations to reach the Round of 32. Can Lionel Messi inspire another title charge, or will the tournament's surprise package script another memorable chapter?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/england-vs-mexico-kick-off-time-change-fifa-monitor-storm-threat-2940279-2026-07-04",
+      "headline": "England vs Mexico kick-off time may change as FIFA monitors storm threat England's World Cup Round of 16 clash against Mexico could kick off earlier than scheduled after FIFA opened discussions over severe weather forecasts, adding another challenge to an already daunting trip to the high-altitude Estadio Azteca."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rahmanullah-gurbaz-cap-snatch-fan-invades-pitch-shpageeza-league-match-2940274-2026-07-04",
@@ -334,7 +349,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/australia-vs-egypt-live-score-fifa-world-cup-score-round-of-32-updates-2940236-2026-07-03",
-      "headline": "AUS 1-1 EGY: Match goes to extra time with last 16 spot at stake Australia vs Egypt live score and updates, FIFA World Cup 2026: Australia and Egypt cannot be separated after 90 minutes as the Round of 32 clash heads into extra time. Emam Ashour's opener was cancelled out by Mohamed Hany's own goal before Patrick Beach's late heroics kept the Socceroos alive."
+      "headline": "AUS 1-1 EGY HIGHLIGHTS: Egypt seal maiden Round of 16 spot after penalties Australia vs Egypt HIGHLIGHTS, FIFA World Cup 2026: History has been made as Egypt defeated Australia 4-2 on penalties after a gripping 1-1 draw, sealing their first-ever place in the FIFA World Cup Round of 16. Mohamed Salah's side held their nerve from the spot to script a landmark night for Egyptian football."
     },
     {
       "sentiment": "positive",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-kapil-dev-sachin-tendulkar-virat-kohli-talent-2939987-2026-07-03",
-      "headline": "Sooryavanshi as talented as Tendulkar, Kohli, but give him time: Kapil Dev Kapil Dev compared teenage batting sensation Vaibhav Sooryavanshi's talent to that of Sachin Tendulkar and Virat Kohli but urged fans to give the 15-year-old time to develop instead of burdening him with expectations."
+      "headline": "Sooryavanshi as talented as Tendulkar, Kohli, but give him time: Kapil DevKapil Dev compared teenage batting sensation Vaibhav Sooryavanshi's talent to that of Sachin Tendulkar and Virat Kohli but urged fans to give the 15-year-old time to develop instead of burdening him with expectations."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2026-day-5-updates-novak-djokovic-jannik-sinner-aryna-sabalenka-2939921-2026-07-03",
-      "headline": "Day 5 LIVE: Djokovic, Sinner into Round of 16, Sabalenka beats Ostapenko Wimbledon 2026 Day 5 Live Updates: Novak Djokovic has stormed into the Round of 16 after beating Arthur Rinderknech on Centre Court. Jannik Sinner has beaten Jenson Brooksby in the third round. In women's singles. Aryna Sabalenka has beaten Jelena Ostapenko."
+      "headline": "Day 5 LIVE: Djokovic, Sinner into Round of 16, Sabalenka beats OstapenkoWimbledon 2026 Day 5 Live Updates: Novak Djokovic has stormed into the Round of 16 after beating Arthur Rinderknech on Centre Court. Jannik Sinner has beaten Jenson Brooksby in the third round. In women's singles. Aryna Sabalenka has beaten Jelena Ostapenko."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/england-fifa-world-cup-mexico-fans-sleep-hotel-2939883-2026-07-03",
-      "headline": "Sleep needed: How England are planning to save themselves from rowdy Mexico fans England are set to stay under enhanced security ahead of their FIFA World Cup Round of 16 clash against Mexico. The move comes in the fear of the fact that rowdy home fans might not let them sleep the night ahead of the match."
+      "headline": "Sleep needed: How England are planning to save themselves from rowdy Mexico fansEngland are set to stay under enhanced security ahead of their FIFA World Cup Round of 16 clash against Mexico. The move comes in the fear of the fact that rowdy home fans might not let them sleep the night ahead of the match."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-spain-vs-austria-oyarzabal-porro-goal-last-16-2939488-2026-07-03",
       "headline": "Spain too good for Austria, advance to last 16 with easeFIFA World Cup 2026: Spain cruised into the Round of 16 with a dominant 3-0 victory over Austria, as Mikel Oyarzabal scored twice and Pedro Porro added his first international goal. Luis de la Fuente's side controlled the contest from start to finish and will now face either Portugal or Croatia in the next round."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-women-vs-south-africa-t20-world-cup-semi-final-sciver-brunt-2939489-2026-07-03",
-      "headline": "England Women bury South Africa ghosts, set up blockbuster final vs AustraliaWomen's T20 World Cup, ENGW vs SAW: England beat South Africa by 40 runs and set up a final with Australia on Sunday at the iconic Lord's Cricket Ground in London."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/elena-rybakina-wimbledon-2026-world-number-1-race-caty-mcnally-2939484-2026-07-03",
-      "headline": "Elena Rybakina sends World No.1 warning, but refuses to get carried awayElena Rybakina played down the World No. 1 race, saying her focus is solely on improving and winning matches at Wimbledon. The Australian Open champion could overtake Aryna Sabalenka with a deep run at the All England Club."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2026-alexander-zverev-elena-rybakina-reach-third-round-dominant-wins-2939478-2026-07-03",
-      "headline": "Alexander Zverev, Elena Rybakina ease into Round 3 with clinical displaysFrench Open champion Alexander Zverev and former Wimbledon winner Elena Rybakina sent out strong title statements with dominant second-round wins. Both stars advanced in straight sets, showcasing the form that makes them leading contenders at the All England Club."
     }
   ],
   "education": [
