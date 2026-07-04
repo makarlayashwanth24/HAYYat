@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/sumona-chakravarti-endometriosis-surgery-progressed-massively-social-media-break-2940746-2026-07-04",
+      "headline": "Actor Sumona Chakravarti reveals endometriosis surgery, shares moving note Actor Sumona Chakravarti revealed that she underwent surgery after her endometriosis progressed despite years of managing the condition. In a heartfelt Instagram post, she also opened up about recovery, online trolling and finding a new purpose on social media."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/karan-johar-backs-alpha-amid-trolling-praises-alia-bhatt-theatrical-pull-2940720-2026-07-04",
       "headline": "Karan Johar backs Alpha amid trolling, praises Alia Bhatt's theatrical pull Filmmaker Karan Johar has come out in support of Alia Bhatt's Alpha amid online trolling. He praised the actor's theatrical pull and urged audiences to celebrate big-screen cinema instead of spreading negativity."
     },
@@ -191,28 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/taylor-swift-travis-kelce-wedding-adam-sandler-officiates-madison-square-garden-2940310-2026-07-04",
       "headline": "Adam Sandler officiates Taylor Swift-Travis Kelce's wedding Taylor Swift and Travis Kelce got married at Madison Square Garden with Adam Sandler officiating. The closely guarded ceremony brought together their families and guests from music, Hollywood and the NFL."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-madison-square-garden-wedding-new-york-guest-list-photos-2940168-2026-07-04",
-      "headline": "Just married: Taylor Swift, Travis Kelce's love story gets its fairytale ending Live Updates Pop star Taylor Swift and NFL player Travis Kelce exchanged vows at a private New York wedding on July 4. The ceremony brought together family, friends and several big names from music and Hollywood."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/australia-probes-online-threat-to-pm-modi-ahead-of-his-melbourne-visit-traces-ip-2940657-2026-07-04",
-      "headline": "Australia probes online threat to PM Modi ahead of his Melbourne visitAn online comment threatening Prime Minister Narendra Modi ahead of his Melbourne visit has triggered a police probe in Australia."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-live-score-2nd-t20i-manchester-rain-vaibhav-sooryavanshi-2940583-2026-07-04",
-      "headline": "2nd T20I Live Score: Axar Patel brings an end to Harry Brook blitzIndia (IND) vs England (ENG) 2nd T20I Live Score in Manchester: Arshdeep Singh gives India the perfect start, striking twice in the opening over to remove both England openers and put the hosts on the back foot. Earlier, India posted 190 after opting to bat, thanks to key contributions from Shreyas Iyer, Ishan Kishan and a late flourish from Tilak Varma. On a spin-friendly surface, they'll back their bowlers to defend the total."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/e20-fuel-testing-auto-industry-experts-say-no-concerns-back-ethanol-rollout-2940535-2026-07-04",
-      "headline": "E20 even powers F1 cars: Auto experts dismiss concerns, back govt amid backlashIndustry experts defended the rollout of E20 fuel, saying extensive testing found no concerns in compatible vehicles. They said the ethanol push is tied to lower emissions, defined standards and reduced oil dependence."
+      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-dares-tmc-rebels-to-join-bjp-vows-july-21-rally-ptag-2940697-2026-07-04",
+      "headline": "Traitors, join BJP and fight me: Mamata Banerjee's blistering attack on rebelsMamata Banerjee attacked the rebel TMC faction, accused it of working with the BJP and vowed to hold the July 21 rally. Her remarks underlined a fight for control of the party as resignations, symbol claims and defections intensified the crisis."
     },
     {
       "sentiment": "positive",
@@ -221,8 +211,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/e20-protest-in-delhi-sunday-police-permission-limit-auto-experts-press-conference-tehseen-poonwalla-reaction-2940765-2026-07-04",
+      "headline": "Police asking us to limit E20 protest, we'll expose govt lies: Tehseen PoonawallaOrganisers of Sunday's anti-E20 protest at Jantar Mantar say that the Delhi Police, while giving verbal permission, has imposed a 200-person cap. Entrepreneur Tehseen Poonwalla, who is leading the agitation, has criticised the cops' decision and also warned to expose lies by government-backed auto industry experts."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/canada-vs-morocco-live-score-fifa-world-cup-2026-updates-round-of-16-hakimi-2940763-2026-07-04",
+      "headline": "CAN 0-0 Live: Morocco yet to find their groove in 1st halfCanada (CAN) vs Morocco (MAR) Live, FIFA World Cup: Canada have been the better side in Houston but have been denied by two brilliant Bono saves. Despite controlling the better chances, they head into the break locked at 0-0 with Morocco in this Round of 16 clash."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/us-independence-day-history-india-mysore-hyder-ali-tipu-sultan-role-american-revolution-2940246-2026-07-04",
       "headline": "How Mysore's Hyder Ali and Tipu Sultan helped America gain IndependenceAs the US marks 250 years since its Declaration of Independence, here's why Hyder Ali and Tipu Sultan, the rulers of India's Mysore, were admired in America during its war of independence against Britain. This is how the war in Mysore stretched British power, which played a decisive role in the American War of Independence."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/shopian-encounter-kashmir-zakir-ahmad-ganie-two-terrorists-lashkar-trapped-2940759-2026-07-04",
+      "headline": "2 terrorists killed in encounter with security forces in J&K's ShopianAccording to sources, the gunfight broke out around 7:45 pm in Chanpora village after security forces launched a coordinated anti-terror operation in the area."
     },
     {
       "sentiment": "positive",
@@ -231,13 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-youngest-india-international-debut-england-second-t20i-2940690-2026-07-04",
-      "headline": "Vaibhav Sooryavanshi promises, but falls cheaply in landmark India debutENG vs IND, 2nd T20I: 15-year-old Vaibhav Sooryavanshi scored 14 runs off nine balls with two sixes before off-spinner Will Jacks dismissed him at the Old Trafford in Manchester."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/e20-petrol-bhutan-refuses-india-ethanol-fuel-offer-controversy-2940391-2026-07-04",
-      "headline": "Why Bhutan has declined E20 petrol offer from IndiaBhutan has declined offers from Indian oil companies to supply E20 petrol. The development comes at a time when India's E20 petrol mandate has sparked widespread debate over its impact on vehicle performance and mileage."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-eng-jacob-bethell-76-vaibhav-sooryavanshi-debut-beat-in-2nd-t20i-2940794-2026-07-04",
+      "headline": "Jacob Bethell spoils Sooryavanshi debut party, hands T20 champions third loss-in-a-rowIND vs ENG: Jacob Bethell's unbeaten 76 took England past India's 190 in Manchester after Vaibhav Sooryavanshi's record debut. The chase exposed India's middle-overs slowdown and gave England a 1-0 lead in the five-match series."
     },
     {
       "sentiment": "positive",
@@ -247,7 +247,47 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2026-day-6-updates-iga-swiatek-alexander-zverev-elena-rybakina-2940553-2026-07-04",
-      "headline": "Day 6 Live Updates: Zverev, Anisimova in action, Swiatek, Rybakina crash outWimbledon Day 6 Live Updates: Iga Swiatek has crashed out after losing to Alexandra Eala on Centre on Saturday. Elena Ryabakina has been knocked out after losing to Elise Mertens. Later in the day, Alexander Zverev and Amanda Anisimova will be in action."
+      "headline": "Day 6 Live Updates: Zverev advances, Anisimova, Swiatek, Rybakina crash outWimbledon Day 6 Live Updates: Iga Swiatek has crashed out after losing to Alexandra Eala on Centre on Saturday. Elena Ryabakina has been knocked out after losing to Elise Mertens. Alexander Zverev advanced to the Round of 16, but Amanda Anisimova crashed out."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/netanyahu-knows-who-the-boss-is-trump-hints-at-white-house-talks-with-israeli-pm-next-week-2940799-2026-07-04",
+      "headline": "Trump says Israeli PM Netanyahu requested White House meet, 'knows who the boss is'Donald Trump says Benjamin Netanyahu has sought a White House meeting that could happen as early as next week, even as reports point to growing tensions between the two leaders over the Middle East."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/australia-probes-online-threat-to-pm-modi-ahead-of-his-melbourne-visit-traces-ip-2940657-2026-07-04",
+      "headline": "Australia probes online threat to PM Modi ahead of his Melbourne visitAn online comment threatening Prime Minister Narendra Modi ahead of his Melbourne visit has triggered a police probe in Australia."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/celina-jaitly-says-divorce-notice-came-as-anniversary-gift-twins-read-it-2940670-2026-07-04",
+      "headline": "Celina Jaitly says divorce notice came as anniversary gift: Twins read itActor Celina Jaitly said her twin sons read out a divorce notice served in Austria before her 15th wedding anniversary. She said the episode led to a separation, custody dispute, financial strain and her return to India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/e20-petrol-bhutan-refuses-india-ethanol-fuel-offer-controversy-2940391-2026-07-04",
+      "headline": "Why Bhutan has declined E20 petrol offer from IndiaBhutan has declined offers from Indian oil companies to supply E20 petrol. The development comes at a time when India's E20 petrol mandate has sparked widespread debate over its impact on vehicle performance and mileage."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ghaziabad-house-fire-viral-video-police-probe-businessman-sofa-fire-2940709-2026-07-04",
+      "headline": "Days after fire at businessman's house, video shows him setting sofa ablazeA viral video has shifted the Ghaziabad house fire case from an apparent accident to a police probe. Investigators are now checking whether the blaze was deliberately started amid a family dispute."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/e20-fuel-testing-auto-industry-experts-say-no-concerns-back-ethanol-rollout-2940535-2026-07-04",
+      "headline": "E20 even powers F1 cars: Auto experts dismiss concerns, back govt amid backlashIndustry experts defended the rollout of E20 fuel, saying extensive testing found no concerns in compatible vehicles. They said the ethanol push is tied to lower emissions, defined standards and reduced oil dependence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/indore/story/madhya-pradesh-khajrana-civil-hospital-indore-delay-staff-posted-despite-six-year-hold-up-2940650-2026-07-04",
+      "headline": "No building, zero beds, yet 87 staff: Indore's hospital that exists only on paperA delay in building Indore's proposed Khajrana Civil Hospital has sparked a political row after staff postings continued. The government says employees were adjusted elsewhere pending land allotment, while the Congress has demanded an inquiry."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-617-03-07-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "positive",
@@ -256,13 +296,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-india-overcame-biggest-energy-crisis-triggered-by-west-asia-war-2940481-2026-07-04",
-      "headline": "PM Modi on how India tackled, overcame 'biggest energy crisis of 21st century'Addressing a public gathering in Rajasthan after inaugurating the state's long-awaited oil refinery project, PM Modi said the conflict in West Asia had plunged the world into turmoil, with several major economies grappling with an unprecedented energy crisis."
+      "url": "https://www.indiatoday.in/india/story/trinamool-bhavan-row-mamata-banerjee-cites-2027-lease-after-rebel-takeover-2940603-2026-07-04",
+      "headline": "Spend Rs 1 lakh a month on bills: Mamata says rebels have no claim on TMC officeMamata Banerjee defended her faction's claim over Trinamool Bhavan after the rebel camp seized the Kolkata headquarters. The standoff has sharpened the wider fight before the Election Commission over the party's name, symbol and organisation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/celina-jaitly-says-divorce-notice-came-as-anniversary-gift-twins-read-it-2940670-2026-07-04",
-      "headline": "Celina Jaitly says divorce notice came as anniversary gift: Twins read itActor Celina Jaitly said her twin sons read out a divorce notice served in Austria before her 15th wedding anniversary. She said the episode led to a separation, custody dispute, financial strain and her return to India."
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/america-at-250-native-american-cherokee-nation-won-supreme-court-lost-homeland-trail-of-tears-2940052-2026-07-04",
+      "headline": "The Cherokee won America's Supreme Court. They still lost their homelandAs America marks 250 years, the Cherokee story deserves to be remembered. One of North America's largest Native American nations, the Cherokee won a landmark Supreme Court ruling recognising their rights. Yet thousands were still driven from their ancestral homeland on the Trail of Tears, one of the greatest tragedies in American legal history."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/woman-travelling-in-mumbai-local-at-1230-am-shares-why-she-doesnt-feel-unsafe-2940530-2026-07-04",
+      "headline": "Woman travelling in Mumbai local at 12:30 am shares why she doesn't feel unsafeIn an Instagram video, a woman described feeling at ease while moving around Mumbai after midnight. Her remarks sparked a wider conversation on women's safety, public transport and the city's late-night atmosphere."
     },
     {
       "sentiment": "positive",
@@ -273,54 +318,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/imd-monsoon-rain-alert-extremely-heavy-rainfall-gujarat-odisha-konkan-july-5-2940679-2026-07-04",
       "headline": "Monsoon fury: Extremely heavy rain to lash these states on SundayThe IMD has warned of extremely heavy rainfall over Gujarat, Odisha, Konkan and Maharashtra on July 5 as a well-marked low-pressure area moves inland from the Bay of Bengal. Delhi is set for light rain, thunderstorms and below-normal temperatures."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/indore/story/madhya-pradesh-khajrana-civil-hospital-indore-delay-staff-posted-despite-six-year-hold-up-2940650-2026-07-04",
-      "headline": "No building, zero beds, yet 87 staff: Indore's hospital that exists only on paperA delay in building Indore's proposed Khajrana Civil Hospital has sparked a political row after staff postings continued. The government says employees were adjusted elsewhere pending land allotment, while the Congress has demanded an inquiry."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/us-heatwave-heat-dome-july-4-what-is-heat-dome-climate-change-record-temperature-250th-birthday-america-2940706-2026-07-04",
-      "headline": "Heat dome grips US: Why America's 250th birthday feels like a furnaceA massive heat dome has turned America's 250th Independence Day into one of the hottest on record, cancelling parades and breaking century-old temperature records. Scientists say the extreme humid heat would have been virtually impossible without human-caused climate change."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-617-03-07-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ketan-agarwal-pune-murder-siya-goyal-snapchat-texts-friend-viral-2940458-2026-07-04",
-      "headline": "Wedding jo hone nahi wali: Siya Goyal's Snapchat text to friend goes viralA purported screenshot of a Snapchat chat allegedly involving Siya Goyal and her friend has surfaced. It adds a fresh twist to the case linked to the killing of businessman Ketan Agarwal, who was allegedly pushed from Pune's Lohagad Fort by Siya and her boyfriend Chetan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/tamil-nadu-chief-minister-vijay-tvk-government-narendra-modi-central-reset-federalism-relationship-2939713-2026-07-04",
-      "headline": "Suave in Delhi, steadfast in Chennai: Vijay's quiet federal resetCM Vijay's first two months in office suggest that Tamil Nadu's politics might be entering a new federal phase. While the state's positions on issues such as NEET, language and fiscal devolution remain unchanged, its engagement with the Prime Minister Narendra Modi-led Central government has become markedly more pragmatic."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/america-at-250-native-american-cherokee-nation-won-supreme-court-lost-homeland-trail-of-tears-2940052-2026-07-04",
-      "headline": "The Cherokee won America's Supreme Court. They still lost their homelandAs America marks 250 years, the Cherokee story deserves to be remembered. One of North America's largest Native American nations, the Cherokee won a landmark Supreme Court ruling recognising their rights. Yet thousands were still driven from their ancestral homeland on the Trail of Tears, one of the greatest tragedies in American legal history."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ethanol-protest-nitin-gadkari-tehseen-poonawalla-jantar-mantar-delhi-sunday-e20-blending-2940066-2026-07-03",
-      "headline": "Will sit outside Gadkari's house, says Tehseen Poonawalla ahead of E20 protestIndia is set to witness its first street protest over the sale of ethanol-blended petrol. A protest led by entrepreneur Tehseen Poonawalla is planned at Delhi's Jantar Mantar on Sunday. What if police permission isn't granted? Poonawalla shares his alternative plan, in a light-hearted manner, but with steely resolve."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/khamenei-funeral-tehran-zahra-coffin-defining-image-iran-mourners-mashhad-2940487-2026-07-04",
-      "headline": "How a tiny coffin beside Khamenei's became the defining image of his funeralAs Iran mourns its Supreme Leader Ayatollah Ali Khamenei, it is the tiny coffin of his 14-month-old granddaughter that has become the funeral's most emotional image. Amid grand state ceremonies and political symbolism, the child's farewell has emerged as a universal reminder of grief, loss and the human cost of conflict."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/the-rise-and-rise-of-nvidia-and-how-it-became-worlds-most-important-company-2940373-2026-07-04",
-      "headline": "The rise and rise of Nvidia and how it became world's most important companyHandcrafted ByOur Editors It began with video games, a paintball experiment and a bold bet that few understood. Today, Nvidia has become a company every tech giant depends on to build the future of artificial intelligence."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-eng-jacob-bethell-76-vaibhav-sooryavanshi-debut-beat-in-2nd-t20i-2940794-2026-07-04",
+      "headline": "Jacob Bethel spoils Sooryavanshi debut party, hands T20 champions third loss-in-a-row IND vs ENG: Jacob Bethell's unbeaten 76 took England past India's 190 in Manchester after Vaibhav Sooryavanshi's record debut. The chase exposed India's middle-overs slowdown and gave England a 1-0 lead in the five-match series."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/canada-vs-morocco-live-score-fifa-world-cup-2026-updates-round-of-16-hakimi-2940763-2026-07-04",
+      "headline": "CAN 0-0 Live: Morocco yet to find their groove in 1st half Canada (CAN) vs Morocco (MAR) Live, FIFA World Cup: Canada have been the better side in Houston but have been denied by two brilliant Bono saves. Despite controlling the better chances, they head into the break locked at 0-0 with Morocco in this Round of 16 clash."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/alexandra-eala-vs-iga-swiatek-filipina-stuns-defending-champion-at-wimbledon-2026-2940755-2026-07-04",
+      "headline": "Watch: Alexandra Eala cries tears of joy after biggest career win over Iga Swiatek Alexandra Eala broke down in tears after upsetting defending champion Iga Swiatek in the third round of Wimbledon to become the first Filipino to reach the fourth round of a Grand Slam."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/serena-williams-wimbledon-2026-doubles-withdrawal-venus-reunion-delayed-2940731-2026-07-04",
@@ -344,12 +359,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2026-day-6-updates-iga-swiatek-alexander-zverev-elena-rybakina-2940553-2026-07-04",
-      "headline": "Day 6 Live Updates: Zverev, Anisimova in action, Swiatek, Rybakina crash out Wimbledon Day 6 Live Updates: Iga Swiatek has crashed out after losing to Alexandra Eala on Centre on Saturday. Elena Ryabakina has been knocked out after losing to Elise Mertens. Later in the day, Alexander Zverev and Amanda Anisimova will be in action."
+      "headline": "Day 6 Live Updates: Zverev advances, Anisimova, Swiatek, Rybakina crash out Wimbledon Day 6 Live Updates: Iga Swiatek has crashed out after losing to Alexandra Eala on Centre on Saturday. Elena Ryabakina has been knocked out after losing to Elise Mertens. Alexander Zverev advanced to the Round of 16, but Amanda Anisimova crashed out."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-live-score-2nd-t20i-manchester-rain-vaibhav-sooryavanshi-2940583-2026-07-04",
-      "headline": "2nd T20I Live Score: Brook fights back after Arshdeep's first over blitz India (IND) vs England (ENG) 2nd T20I Live Score in Manchester: Arshdeep Singh gives India the perfect start, striking twice in the opening over to remove both England openers and put the hosts on the back foot. Earlier, India posted 190 after opting to bat, thanks to key contributions from Shreyas Iyer, Ishan Kishan and a late flourish from Tilak Varma. On a spin-friendly surface, they'll back their bowlers to defend the total."
+      "headline": "2nd T20I Highlights: England beat India by 4 wickets after Jacob Bethell 76 India (IND) vs England (ENG) 2nd T20I Highlights in Manchester: Jacob Bethell scored an unbeaten 76 as England chased down 191 with six balls to spare at the Old Trafford in Manchester."
     },
     {
       "sentiment": "positive",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-sidny-cabral-argentina-vs-cape-verde-jose-mourinho-real-madrid-2940518-2026-07-04",
-      "headline": "Real Madrid coach reaches out to Cape Verde star after World Cup exploits Sidny Lopez Cabral revealed that Jose Mourinho personally texted him during Cape Verde's dream FIFA World Cup campaign, with the Real Madrid coach urging the midfielder to keep believing in himself."
+      "headline": "Real Madrid coach reaches out to Cape Verde star after World Cup exploitsSidny Lopez Cabral revealed that Jose Mourinho personally texted him during Cape Verde's dream FIFA World Cup campaign, with the Real Madrid coach urging the midfielder to keep believing in himself."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-vs-england-t20i-parthiv-patel-warning-2940509-2026-07-04",
-      "headline": "If Sooryavanshi does not have a place in T20I team, tell him that: Parthiv Patel India have not handed young Vaibhav Sooryavanshi his national team debut just yet. Former cricketer Parthiv Patel believes it is critical to clearly communicate to the youngster what is going on and the process the team management is following."
+      "headline": "If Sooryavanshi does not have a place in T20I team, tell him that: Parthiv PatelIndia have not handed young Vaibhav Sooryavanshi his national team debut just yet. Former cricketer Parthiv Patel believes it is critical to clearly communicate to the youngster what is going on and the process the team management is following."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/england-vs-mexico-fifa-world-cup-viagra-2940422-2026-07-04",
-      "headline": "England bank on secret weapon ahead of Round of 16 match vs Mexico: Viagra England could legally use Viagra to help cope with the high altitude in Mexico City ahead of their FIFA World Cup Round of 16 clash against co-hosts Mexico. While there is no indication the squad plans to use it, the medication is not prohibited by WADA and has previously been studied for its potential benefits in low-oxygen conditions."
+      "headline": "England bank on secret weapon ahead of Round of 16 match vs Mexico: ViagraEngland could legally use Viagra to help cope with the high altitude in Mexico City ahead of their FIFA World Cup Round of 16 clash against co-hosts Mexico. While there is no indication the squad plans to use it, the medication is not prohibited by WADA and has previously been studied for its potential benefits in low-oxygen conditions."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-aryna-sabalenka-sets-naomi-osaka-clash-jannik-sinner-reaches-fourth-round-2940262-2026-07-04",
       "headline": "Aryna Sabalenka sets up Naomi Osaka blockbuster, Jannik Sinner storms into Round 4Aryna Sabalenka defeated Jelena Ostapenko in straight sets to set up a blockbuster Round of 16 clash against Naomi Osaka, while defending champion Jannik Sinner brushed aside Jenson Brooksby to continue his Wimbledon title defence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/australia-vs-egypt-live-score-fifa-world-cup-score-round-of-32-updates-2940236-2026-07-03",
-      "headline": "AUS 1-1 EGY HIGHLIGHTS: Egypt seal maiden Round of 16 spot after penaltiesAustralia vs Egypt HIGHLIGHTS, FIFA World Cup 2026: History has been made as Egypt defeated Australia 4-2 on penalties after a gripping 1-1 draw, sealing their first-ever place in the FIFA World Cup Round of 16. Mohamed Salah's side held their nerve from the spot to script a landmark night for Egyptian football."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-deepti-sharma-novak-djokovic-ms-dhoni-calm-pressure-2940220-2026-07-03",
-      "headline": "Novak Djokovic is like MS Dhoni, knows how to handle pressure: India all-rounderIndia all-rounder Deepti Sharma has compared Novak Djokovic and MS Dhoni, saying both share an exceptional calmness under pressure that defines their greatness."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-equals-roger-federer-wimbledon-match-wins-2940213-2026-07-03",
-      "headline": "Djokovic throws Federer cheeky challenge after equalling Wimbledon recordNovak Djokovic matched Roger Federer's record of men's singles wins at Wimbledon before cheekily challenging the Swiss legend to a winner-takes-all showdown after beating Arthur Rinderknech in four sets."
     }
   ],
   "education": [
