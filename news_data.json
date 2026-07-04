@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-madison-square-garden-wedding-new-york-guest-list-photos-2940168-2026-07-04",
+      "headline": "Just married: Taylor Swift, Travis Kelce's love story gets its fairytale ending Pop star Taylor Swift and NFL player Travis Kelce exchanged vows at a private New York wedding on July 4. The ceremony brought together family, friends and several big names from music and Hollywood."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/after-years-of-censorship-delays-diljit-dosanjhs-punjab-95-streams-as-satluj-2940099-2026-07-03",
       "headline": "After years of censorship delays, Diljit Dosanjh's Punjab '95 streams as Satluj Actor Diljit Dosanjh's long-delayed film, Punjab '95 has been released on OTT, as Satluj. The renamed streaming debut follows years of censorship disputes and festival disruption."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/72nd-national-film-awards-to-be-announced-today-when-and-where-to-watch-2939730-2026-07-03",
       "headline": "72nd National Film Awards: When and where to watch The 72nd National Film Awards is liekly to be announced next week, with the results to be streamed live online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/alpha-movie-review-alia-bhatt-is-alpha-rest-is-beta-in-sharvari-bobby-deol-anil-kapoor-action-film-yrf-spy-universe-2939698-2026-07-03",
-      "headline": "Alpha review: Alia is alpha, the rest is betaRelease Date:Fri Jul 03, 2026 Alpha movie review: The story follows Sita, a kidnapped child turned assassin, as her revenge mission spirals through twists and family fallout. Alia Bhatt's action holds the film together, but the melodrama and clutter blunt its impact."
     }
   ],
   "general news": [
@@ -205,14 +205,14 @@
       "headline": "Govt monitoring drought risk, says Amit Shah amid El Nino-linked rainfall deficitWith June recording one of India's driest spells on record and the IMD forecasting below-normal rainfall in July, Union Home Minister Amit Shah reviewed drought preparedness, directing ministries to coordinate with states to protect agriculture, water resources and essential supplies."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/argentina-vs-cabo-verde-live-score-fifa-world-cup-2026-score-round-of-32-updates-messi-vozinha-2940283-2026-07-04",
+      "headline": "ARG 2-1 CPV Live: Lisandro fires Argentina ahead in extra-timeArgentina vs Cabo Verde live, FIFA World Cup: (ARG 1-1 CPV) Cabo Verde's remarkable World Cup story has another chapter as the fearless debutants hold defending champions Argentina to 1-1 after 90 minutes. Deroy Duarte's equaliser cancelled out Lionel Messi's opener, setting up a gripping extra-time showdown in Miami."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/tmc-kolkata-headquarters-mamata-rebel-mlas-seize-trinamool-bhavan-after-ec-meeting-2940162-2026-07-03",
       "headline": "Ritabrata faction 'takes over' TMC HQ in Kolkata as battle with Mamata escalatesThe crisis within the 28-year-old Trinamool Congress deepened after a majority of its MLAs backed Ritabrata Banerjee's challenge to Mamata Banerjee's leadership and elected senior legislator Arup Roy as the party's chairperson during a special session convened by the dissident camp last month."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/argentina-vs-cabo-verde-live-score-fifa-world-cup-2026-score-round-of-32-updates-messi-vozinha-2940283-2026-07-04",
-      "headline": "ARG 0-0 CPV Live: Will Messi's men spoil the Cabo Verde fairytale?Argentina vs Cabo Verde live, FIFA World Cup: (ARG 0-0 CPV) The wait is over as Argentina begin the defence of their World Cup crown in the knockout stages against fearless debutants Cabo Verde. Lionel Messi chases another slice of history, while Cabo Verde look to script the biggest upset of the tournament."
     },
     {
       "sentiment": "positive",
@@ -225,19 +225,19 @@
       "headline": "Did we get Haldighati winner wrong for 450 years?It is commonly accepted that Akbar won the Battle of Haldighati. But did Maharana Pratap win the war? A fresh reading of the 450-year-old battle amid US President Donald Trump's repeated claims that the US won the war against Iran."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/defence-aquisition-missile-drone-rs-52000-crore-army-navy-air-force-ministry-rajnath-singh-2940068-2026-07-03",
-      "headline": "Kamikaze drones, guided missiles among Rs 52,000-crore defence buys clearedDefence procurement proposals worth Rs 52,000 crore, including anti-drone systems, missiles, jet-powered kamikaze drones and advanced air defence platforms received clearance to move forward."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/agra/story/up-agra-murder-missing-man-found-buried-beneath-bathroom-tiles-after-45-days-2940144-2026-07-03",
+      "headline": "Body of man missing for 45 days found buried under bathroom tiles, wife arrestedA 44-year-old Agra man who was reported missing for 45 days was found buried beneath newly laid bathroom tiles inside his own home, after police uncovered the body during a search triggered by suspicious inconsistencies in the investigation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-aryna-sabalenka-sets-naomi-osaka-clash-jannik-sinner-reaches-fourth-round-2940262-2026-07-04",
-      "headline": "Aryna Sabalenka sets up Naomi Osaka blockbuster, Jannik Sinner storms into Round 4Aryna Sabalenka defeated Jelena Ostapenko in straight sets to set up a blockbuster Round of 16 clash against Naomi Osaka, while defending champion Jannik Sinner brushed aside Jenson Brooksby to continue his Wimbledon title defence."
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-wedding-live-updates-madison-square-garden-marriage-2939985-2026-07-03",
+      "headline": "Taylor-Travis Wedding LIVE: Celebrities start reaching Madison Square GardenTaylor Swift-Travis Kelce Wedding Live Updates: Singer Taylor Swift and her fiance, NFL star Travis Kelce's wedding has become the most talked-about event of the weekend. Catch all the latest reports, preparations and key developments from New York's Madison Square Garden here."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-on-usha-vance-podcast-for-children-says-i-usually-read-stories-about-myself-2940270-2026-07-04",
-      "headline": "I usually read stories about myself: Trump on Usha Vance's podcast for childrenAppearing on Second Lady Usha Vance's podcast to read a picture book for young audiences, US President Donald Trump veered off script with jokes about ex-presidents, his own looks, his weight, and even the new White House ballroom."
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-video-andres-mieles-venezuela-earthquake-survivor-fifa-world-cup-2940289-2026-07-04",
+      "headline": "Ronaldo melts hearts with surprise invite to Venezuela earthquake survivorCristiano Ronaldo sent a personal video message to young Andres Mieles and invited him to a match. The gesture followed a social media campaign after the Venezuelan boy survived an earthquake that killed his family."
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/defence-aquisition-missile-drone-rs-52000-crore-army-navy-air-force-ministry-rajnath-singh-2940068-2026-07-03",
+      "headline": "Kamikaze drones, guided missiles among Rs 52,000-crore defence buys clearedDefence procurement proposals worth Rs 52,000 crore, including anti-drone systems, missiles, jet-powered kamikaze drones and advanced air defence platforms received clearance to move forward."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-on-usha-vance-podcast-for-children-says-i-usually-read-stories-about-myself-2940270-2026-07-04",
+      "headline": "I usually read stories about myself: Trump on Usha Vance's podcast for childrenAppearing on Second Lady Usha Vance's podcast to read a picture book for young audiences, US President Donald Trump veered off script with jokes about ex-presidents, his own looks, his weight, and even the new White House ballroom."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/ayatollah-ali-khamenei-funeral-iran-mourning-mojtaba-absent-india-pakistan-israel-2940063-2026-07-03",
       "headline": "Khamenei's funeral a show of strength, world leaders attend as Mojtaba stays awayFor now, attention remains fixed on Tehran, as the state projects unity around a leader it portrays as having guided Iran through war, isolation, and crisis. Ayatollah Ali Khamenei's death has become the centrepiece of a highly symbolic political farewell."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-human-placenta-chinese-nationals-arrested-smuggling-network-ismalabad-syndicate-2939940-2026-07-03",
+      "headline": "Smuggling of human placenta for anti-ageing serum? 3 Chinese men arrested in PakAuthorities in Pakistan have busted an alleged transnational human placenta smuggling network in Islamabad, leading to the arrest of five suspects, including three Chinese nationals. According to reports, the placentas were illegally processed before being smuggled to Vietnam, where authorities believe they were used in making anti-ageing products and injections."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-aryna-sabalenka-sets-naomi-osaka-clash-jannik-sinner-reaches-fourth-round-2940262-2026-07-04",
+      "headline": "Aryna Sabalenka sets up Naomi Osaka blockbuster, Jannik Sinner storms into Round 4Aryna Sabalenka defeated Jelena Ostapenko in straight sets to set up a blockbuster Round of 16 clash against Naomi Osaka, while defending champion Jannik Sinner brushed aside Jenson Brooksby to continue his Wimbledon title defence."
     },
     {
       "sentiment": "positive",
@@ -261,8 +281,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-human-placenta-chinese-nationals-arrested-smuggling-network-ismalabad-syndicate-2939940-2026-07-03",
-      "headline": "Smuggling of human placenta for anti-ageing serum? 3 Chinese men arrested in PakAuthorities in Pakistan have busted an alleged transnational human placenta smuggling network in Islamabad, leading to the arrest of five suspects, including three Chinese nationals. According to reports, the placentas were illegally processed before being smuggled to Vietnam, where authorities believe they were used in making anti-ageing products and injections."
+      "url": "https://www.indiatoday.in/cities/gurugram/story/mcg-gurugram-ai-generated-photos-gps-spoofing-four-contract-employees-sacked-2939982-2026-07-03",
+      "headline": "AI to fake clean-ups, GPS spoofing to skip work: 4 Gurugram civic staffers sackedFour contractual civic employees in Gurugram were terminated after using AI-generated images and other techniques to falsely show that garbage had been cleared, despite never visiting the locations."
     },
     {
       "sentiment": "negative",
@@ -270,34 +290,14 @@
       "headline": "Madam is sleeping: Ex-envoy recalls 1991 hijack story to slam Pakistan leadersFormer Singapore envoy Bilahari Kausikan said Pakistani politicians were nothing but a 'waste of time'. To substantiate his remark, Kausikan narrated an incident in 1991 when a Singapore Airlines flight was hijacked by Pakistani terrorists."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/fourth-of-july-events-disrupted-across-eastern-us-by-dangerous-heatwave-2940291-2026-07-04",
+      "headline": "Brutal heatwave disrupts Fourth of July events across eastern USAmong the events disrupted by the sweltering heat was the Great American State Fair on the National Mall in Washington, a centrepiece of President Donald Trump's efforts to mark the nation's 250th birthday."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/lahore-gangrape-case-ishaq-dar-relative-among-four-arrested-over-foreign-women-assault-ptag-2939931-2026-07-03",
       "headline": "Pak Deputy PM's relative among 4 arrested for raping 2 European women in LahorePolice have arrested four men, including a relative of Pakistan's Deputy PM and Foreign Minister Ishaq Dar, on charges of kidnapping and gang-raping two European women in Lahore last month."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/no-more-heatwave-headlines-monsoon-strengthens-rain-to-drench-india-on-saturday-2939927-2026-07-03",
-      "headline": "No more heatwave headlines: Monsoon rain to drench India on SaturdayThe IMD has forecast heavy to extremely heavy rainfall, thunderstorms and gusty winds across several states as the southwest monsoon remains active through the first week of July."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/gurugram/story/mcg-gurugram-ai-generated-photos-gps-spoofing-four-contract-employees-sacked-2939982-2026-07-03",
-      "headline": "AI to fake clean-ups, GPS spoofing to skip work: 4 Gurugram civic staffers sackedFour contractual civic employees in Gurugram were terminated after using AI-generated images and other techniques to falsely show that garbage had been cleared, despite never visiting the locations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/from-google-dream-to-perplexity-ceo-how-aravind-srinivas-rewrote-his-middle-class-dream-educ-2939755-2026-07-03",
-      "headline": "Google was Aravind Srinivas's middle-class dream. Perplexity made him CEOBefore leading an AI startup, Aravind Srinivas thought success meant one thing. A stable job at Google. Nothing more, nothing less. Today, his definition of ambition looks very different."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indus-treaty-remains-in-abeyance-over-pak-support-for-cross-border-terror-govt-amid-pak-leaders-rhetoric-2939892-2026-07-03",
-      "headline": "Indus treaty remains in abeyance over cross-border terror: Govt amid Pak rhetoricReiterating its position on the Indus Waters Treaty, India said the pact will remain in abeyance until Pakistan ends cross-border terrorism. The MEA also condemned Pakistan's strikes in Afghanistan and sought a probe into an Indian seafarer's death in Venezuela."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/agra/story/up-agra-murder-missing-man-found-buried-beneath-bathroom-tiles-after-45-days-2940144-2026-07-03",
-      "headline": "Body of man missing for 45 days found buried under bathroom tiles, wife arrestedA 44-year-old Agra man who was reported missing for 45 days was found buried beneath newly laid bathroom tiles inside his own home, after police uncovered the body during a search triggered by suspicious inconsistencies in the investigation."
     },
     {
       "sentiment": "positive",
@@ -305,14 +305,14 @@
       "headline": "Founder's moving post for son who traded corporate comfort for deep-sea diving\"He didn't need me to protect him from this choice. He needed me to trust,\" education platform Careers360's Maheshwer Peri said."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-pakistan-peace-letter-op-shah-dialogue-kashmir-talks-de-escalation-centre-for-peace-progress-2939322-2026-07-03",
-      "headline": "Who's OP Shah, the sutradhaar of the India-Pakistan peace letter?OP Shah coordinated a joint India-Pakistan appeal urging talks, de-escalation and renewed engagement on Jammu and Kashmir. His initiative saw over 100 prominent people signing a letter to Indian Prime Minister Narendra Modi and his Pakistani counterpart, Shehbaz Sharif. Here's more about OP Shah, the man behind the letter that has divided opinions in India."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/no-more-heatwave-headlines-monsoon-strengthens-rain-to-drench-india-on-saturday-2939927-2026-07-03",
+      "headline": "No more heatwave headlines: Monsoon rain to drench India on SaturdayThe IMD has forecast heavy to extremely heavy rainfall, thunderstorms and gusty winds across several states as the southwest monsoon remains active through the first week of July."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-wedding-live-updates-madison-square-garden-marriage-2939985-2026-07-03",
-      "headline": "Taylor-Travis Wedding LIVE: Celebrities start reaching Madison Square GardenTaylor Swift-Travis Kelce Wedding Live Updates: Singer Taylor Swift and her fiance, NFL star Travis Kelce's wedding has become the most talked-about event of the weekend. Catch all the latest reports, preparations and key developments from New York's Madison Square Garden here."
+      "url": "https://www.indiatoday.in/jobs/story/from-google-dream-to-perplexity-ceo-how-aravind-srinivas-rewrote-his-middle-class-dream-educ-2939755-2026-07-03",
+      "headline": "Google was Aravind Srinivas's middle-class dream. Perplexity made him CEOBefore leading an AI startup, Aravind Srinivas thought success meant one thing. A stable job at Google. Nothing more, nothing less. Today, his definition of ambition looks very different."
     },
     {
       "sentiment": "negative",
@@ -323,13 +323,23 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-video-andres-mieles-venezuela-earthquake-survivor-fifa-world-cup-2940289-2026-07-04",
+      "headline": "Ronaldo melts hearts with surprise invite to Venezuela earthquake survivor Cristiano Ronaldo sent a personal video message to young Andres Mieles and invited him to a match. The gesture followed a social media campaign after the Venezuelan boy survived an earthquake that killed his family."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/brazil-vs-norway-fifa-world-cup-raphinha-returns-ancelotti-team-selection-2940288-2026-07-04",
+      "headline": "Raphinha returns as Rayan gives Brazil a selection call FIFA World Cup: Raphinha has returned to full training before Brazil's World Cup last-16 match against Norway. His comeback leaves Carlo Ancelotti weighing experience against Rayan's recent impact."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/australia-vs-egypt-salah-ashour-fifa-world-cup-round-of-32-match-report-2940284-2026-07-04",
       "headline": "Egypt break new ground, edge Australia on penalties to reach World Cup last 16 FIFA World Cup 2026: Egypt made history by defeating Australia 4-2 on penalties after a 1-1 draw to reach the FIFA World Cup Round of 16 for the first time. Hossam Abdelmaguid converted the decisive spot-kick as the Pharaohs set up a clash with either Argentina or Cabo Verde."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/argentina-vs-cabo-verde-live-score-fifa-world-cup-2026-score-round-of-32-updates-messi-vozinha-2940283-2026-07-04",
-      "headline": "ARG vs CPV Live: Messi in spotlight as Cape Verde look to extend fairytale run Argentina vs Cabo Verde live, FIFA World Cup: Defending champions Argentina enter the FIFA World Cup knockout stage as favorites, but Cape Verde have already defied expectations to reach the Round of 32. Can Lionel Messi inspire another title charge, or will the tournament's surprise package script another memorable chapter?"
+      "headline": "ARG 1-1 CPV Live: Cabo Verde take Argentina to extra-time Argentina vs Cabo Verde live, FIFA World Cup: (ARG 1-1 CPV) Cabo Verde's remarkable World Cup story has another chapter as the fearless debutants hold defending champions Argentina to 1-1 after 90 minutes. Deroy Duarte's equaliser cancelled out Lionel Messi's opener, setting up a gripping extra-time showdown in Miami."
     },
     {
       "sentiment": "positive",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-sam-curran-england-plan-second-t20i-manchester-2940082-2026-07-03",
-      "headline": "Vaibhav Sooryavanshi flying high, but England have plans to stop him: Sam Curran Sam Curran praised Vaibhav Sooryavanshi's fearless rise but said England are ready with plans to stop him, adding that handling the pressure of representing India will be the teenager's toughest challenge."
+      "headline": "Vaibhav Sooryavanshi flying high, but England have plans to stop him: Sam CurranSam Curran praised Vaibhav Sooryavanshi's fearless rise but said England are ready with plans to stop him, adding that handling the pressure of representing India will be the teenager's toughest challenge."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-odi-squad-vs-india-james-coles-called-up-atkinson-mahmood-return-2940027-2026-07-03",
-      "headline": "England name 16-man squad for India ODI series, pace duo earn recalls England have named a 16-man squad for the three-match ODI series against India, recalling pacers Gus Atkinson and Saqib Mahmood while handing Sussex all-rounder James Coles his maiden ODI call-up."
+      "headline": "England name 16-man squad for India ODI series, pace duo earn recallsEngland have named a 16-man squad for the three-match ODI series against India, recalling pacers Gus Atkinson and Saqib Mahmood while handing Sussex all-rounder James Coles his maiden ODI call-up."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-england-vs-mexico-pubs-open-till-5am-united-kingdom-2939495-2026-07-03",
       "headline": "Pints till penalties! PM Starmer lets pubs stay open for England vs MexicoFIFA World Cup 2026: The UK government has allowed pubs and bars in England and Wales to stay open until 5 a.m. for England's World Cup Round of 16 match against Mexico. The move cuts red tape for venues and gives the hospitality trade a timely lift for a high-stakes late-night fixture."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/portugal-vs-croatia-live-fifa-world-cup-updates-score-cristiano-ronaldo-luka-modric-2939492-2026-07-03",
-      "headline": "POR 2-1 CRO Highlights: Portugal are through to the last 16 after late VAR dramaPortugal (POR) vs Croatia (CRO) Highlights, FIFA World Cup 2026: (POR 2-1 CRO) Cristiano Ronaldo scored the first World Cupknockout-stage goal of his career, Goncalo Ramos netted a stoppage-time header and Portugal got a last-second break on an offside call to beat Croatia 2-1 on Thursday and set up a last-16 clash with Spain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-spain-vs-austria-oyarzabal-porro-goal-last-16-2939488-2026-07-03",
-      "headline": "Spain too good for Austria, advance to last 16 with easeFIFA World Cup 2026: Spain cruised into the Round of 16 with a dominant 3-0 victory over Austria, as Mikel Oyarzabal scored twice and Pedro Porro added his first international goal. Luis de la Fuente's side controlled the contest from start to finish and will now face either Portugal or Croatia in the next round."
     }
   ],
   "education": [
