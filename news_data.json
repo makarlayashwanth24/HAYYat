@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/karan-johar-backs-alpha-amid-trolling-praises-alia-bhatt-theatrical-pull-2940720-2026-07-04",
+      "headline": "Karan Johar backs Alpha amid trolling, praises Alia Bhatt's theatrical pull Filmmaker Karan Johar has come out in support of Alia Bhatt's Alpha amid online trolling. He praised the actor's theatrical pull and urged audiences to celebrate big-screen cinema instead of spreading negativity."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/celina-jaitly-says-divorce-notice-came-as-anniversary-gift-twins-read-it-2940670-2026-07-04",
       "headline": "Celina Jaitly says divorce notice came as anniversary gift: Twins read it Actor Celina Jaitly said her twin sons read out a divorce notice served in Austria before her 15th wedding anniversary. She said the episode led to a separation, custody dispute, financial strain and her return to India."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-madison-square-garden-wedding-new-york-guest-list-photos-2940168-2026-07-04",
       "headline": "Just married: Taylor Swift, Travis Kelce's love story gets its fairytale ending Live Updates Pop star Taylor Swift and NFL player Travis Kelce exchanged vows at a private New York wedding on July 4. The ceremony brought together family, friends and several big names from music and Hollywood."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/after-years-of-censorship-delays-diljit-dosanjhs-punjab-95-streams-as-satluj-2940099-2026-07-03",
-      "headline": "After years of censorship delays, Diljit Dosanjh's Punjab '95 streams as Satluj Actor Diljit Dosanjh's long-delayed film, Punjab '95 has been released on OTT, as Satluj. The renamed streaming debut follows years of censorship disputes and festival disruption."
     }
   ],
   "general news": [
@@ -207,7 +207,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-live-score-2nd-t20i-manchester-rain-vaibhav-sooryavanshi-2940583-2026-07-04",
-      "headline": "2nd T20I Live Score: Shreyas Iyer departs, Kishan key in middle oversIndia (IND) vs England (ENG) 2nd T20I Live Score in Manchester: Ishan Kishan and Shreyas Iyer will be the key after India lost the wickets of both their openers Abhishek Sharma and Vaibhav Sooryavanshi."
+      "headline": "2nd T20I Live Score: Axar Patel brings an end to Harry Brook blitzIndia (IND) vs England (ENG) 2nd T20I Live Score in Manchester: Arshdeep Singh gives India the perfect start, striking twice in the opening over to remove both England openers and put the hosts on the back foot. Earlier, India posted 190 after opting to bat, thanks to key contributions from Shreyas Iyer, Ishan Kishan and a late flourish from Tilak Varma. On a spin-friendly surface, they'll back their bowlers to defend the total."
     },
     {
       "sentiment": "positive",
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/jammu-and-kashmir/story/jammu-and-kashmir-book-row-bjp-seeks-probe-ban-over-terror-glorification-claims-2940551-2026-07-04",
-      "headline": "J&K school book glorifies terrorists, separatist leaders, sparks massive outrageA book allegedly approved for government school libraries in Jammu and Kashmir has triggered outrage over its content, with claims it praises terrorists and separatists, setting off demands for a ban and a high-level investigation."
+      "url": "https://www.indiatoday.in/india/story/pm-congratulates-trump-us-on-250th-independence-day-says-india-america-friendship-a-force-for-global-good-2940705-2026-07-04",
+      "headline": "India-America friendship force for good: PM to Trump on US's 250th anniversaryThe Prime Minister said India and the United States shared more than a strategic partnership, adding that the two countries were united by their commitment to democracy, the rule of law and the limitless potential of their people."
     },
     {
       "sentiment": "positive",
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/jammu-and-kashmir/story/jammu-and-kashmir-book-row-bjp-seeks-probe-ban-over-terror-glorification-claims-2940551-2026-07-04",
+      "headline": "J&K schoolbook draws outrage for 'glorifying' terrorists, separatistsA book allegedly approved for government school libraries in Jammu and Kashmir has triggered outrage over its content, with claims it praises terrorists and separatists, setting off demands for a ban and a high-level investigation."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-youngest-india-international-debut-england-second-t20i-2940690-2026-07-04",
       "headline": "Vaibhav Sooryavanshi promises, but falls cheaply in landmark India debutENG vs IND, 2nd T20I: 15-year-old Vaibhav Sooryavanshi scored 14 runs off nine balls with two sixes before off-spinner Will Jacks dismissed him at the Old Trafford in Manchester."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-india-overcame-biggest-energy-crisis-triggered-by-west-asia-war-2940481-2026-07-04",
-      "headline": "PM Modi on how India tackled, overcame 'biggest energy crisis of 21st century'Addressing a public gathering in Rajasthan after inaugurating the state's long-awaited oil refinery project, PM Modi said the conflict in West Asia had plunged the world into turmoil, with several major economies grappling with an unprecedented energy crisis."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-ayatollah-khamenei-funeral-workers-businesses-forced-to-attend-2940621-2026-07-04",
-      "headline": "Did Iran pressure people to attend Ayatollah Khamenei's funeral?Hundreds of thousands attended Ayatollah Ali Khamenei's funeral ceremony in Tehran on Saturday. Just months ago, the people were out on the streets protesting against Khamenei. It has raised questions whether the massive turnout was voluntary."
+      "url": "https://www.indiatoday.in/world/story/e20-petrol-bhutan-refuses-india-ethanol-fuel-offer-controversy-2940391-2026-07-04",
+      "headline": "Why Bhutan has declined E20 petrol offer from IndiaBhutan has declined offers from Indian oil companies to supply E20 petrol. The development comes at a time when India's E20 petrol mandate has sparked widespread debate over its impact on vehicle performance and mileage."
     },
     {
       "sentiment": "positive",
@@ -247,17 +247,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2026-day-6-updates-iga-swiatek-alexander-zverev-elena-rybakina-2940553-2026-07-04",
-      "headline": "Day 6 Live Updates: Eala nears victory vs Iga Swiatek, Rybakina knocked outWimbledon Day 6 Live Updates: Iga Swiatek is currently up against Alexandra Eala in a tricky clash on Centre on Saturday. Elena Ryabakina has been knocked out after losing to Elise Mertens. Later in the day, Alexander Zverev and Amanda Anisimova will be in action."
+      "headline": "Day 6 Live Updates: Zverev, Anisimova in action, Swiatek, Rybakina crash outWimbledon Day 6 Live Updates: Iga Swiatek has crashed out after losing to Alexandra Eala on Centre on Saturday. Elena Ryabakina has been knocked out after losing to Elise Mertens. Later in the day, Alexander Zverev and Amanda Anisimova will be in action."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/e20-petrol-bhutan-refuses-india-ethanol-fuel-offer-controversy-2940391-2026-07-04",
-      "headline": "Why Bhutan has declined E20 petrol offer from IndiaBhutan has declined offers from Indian oil companies to supply E20 petrol. The development comes at a time when India's E20 petrol mandate has sparked widespread debate over its impact on vehicle performance and mileage."
+      "url": "https://www.indiatoday.in/world/story/iran-ayatollah-khamenei-funeral-workers-businesses-forced-to-attend-2940621-2026-07-04",
+      "headline": "Did Iran pressure people to attend Ayatollah Khamenei's funeral?Hundreds of thousands attended Ayatollah Ali Khamenei's funeral ceremony in Tehran on Saturday. Just months ago, the people were out on the streets protesting against Khamenei. It has raised questions whether the massive turnout was voluntary."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/imd-monsoon-rain-alert-extremely-heavy-rainfall-gujarat-odisha-konkan-july-5-2940679-2026-07-04",
-      "headline": "Monsoon fury: Extremely heavy rain to lash these states on SundayThe IMD has warned of extremely heavy rainfall over Gujarat, Odisha, Konkan and Maharashtra on July 5 as a well-marked low-pressure area moves inland from the Bay of Bengal. Delhi is set for light rain, thunderstorms and below-normal temperatures."
+      "url": "https://www.indiatoday.in/india/story/pm-modi-india-overcame-biggest-energy-crisis-triggered-by-west-asia-war-2940481-2026-07-04",
+      "headline": "PM Modi on how India tackled, overcame 'biggest energy crisis of 21st century'Addressing a public gathering in Rajasthan after inaugurating the state's long-awaited oil refinery project, PM Modi said the conflict in West Asia had plunged the world into turmoil, with several major economies grappling with an unprecedented energy crisis."
     },
     {
       "sentiment": "positive",
@@ -266,8 +266,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/alexandra-eala-vs-iga-swiatek-wimbledon-2026-upset-fourth-round-2940718-2026-07-04",
+      "headline": "Iga Swiatek suffers shock Wimbledon exit as Alexandra Eala continues dream runDefending champion Iga Swiatek crashed out of Wimbledon 2026 after World No.32 Alexandra Eala stunned her 7-6(9), 6-2 in a third-round upset on Centre Court."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/imd-monsoon-rain-alert-extremely-heavy-rainfall-gujarat-odisha-konkan-july-5-2940679-2026-07-04",
+      "headline": "Monsoon fury: Extremely heavy rain to lash these states on SundayThe IMD has warned of extremely heavy rainfall over Gujarat, Odisha, Konkan and Maharashtra on July 5 as a well-marked low-pressure area moves inland from the Bay of Bengal. Delhi is set for light rain, thunderstorms and below-normal temperatures."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/indore/story/madhya-pradesh-khajrana-civil-hospital-indore-delay-staff-posted-despite-six-year-hold-up-2940650-2026-07-04",
       "headline": "No building, zero beds, yet 87 staff: Indore's hospital that exists only on paperA delay in building Indore's proposed Khajrana Civil Hospital has sparked a political row after staff postings continued. The government says employees were adjusted elsewhere pending land allotment, while the Congress has demanded an inquiry."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/us-heatwave-heat-dome-july-4-what-is-heat-dome-climate-change-record-temperature-250th-birthday-america-2940706-2026-07-04",
+      "headline": "Heat dome grips US: Why America's 250th birthday feels like a furnaceA massive heat dome has turned America's 250th Independence Day into one of the hottest on record, cancelling parades and breaking century-old temperature records. Scientists say the extreme humid heat would have been virtually impossible without human-caused climate change."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-617-03-07-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "positive",
@@ -286,8 +306,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-617-03-07-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+      "url": "https://www.indiatoday.in/india/story/ethanol-protest-nitin-gadkari-tehseen-poonawalla-jantar-mantar-delhi-sunday-e20-blending-2940066-2026-07-03",
+      "headline": "Will sit outside Gadkari's house, says Tehseen Poonawalla ahead of E20 protestIndia is set to witness its first street protest over the sale of ethanol-blended petrol. A protest led by entrepreneur Tehseen Poonawalla is planned at Delhi's Jantar Mantar on Sunday. What if police permission isn't granted? Poonawalla shares his alternative plan, in a light-hearted manner, but with steely resolve."
     },
     {
       "sentiment": "positive",
@@ -296,31 +316,21 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/higher-ethanol-blend-e20-e85-means-lower-mileage-so-why-do-race-cars-use-it-for-performance-boost-2940500-2026-07-04",
-      "headline": "Higher ethanol blend means lower mileage, so why do race cars use it for performance?Lower energy density does not necessarily mean lower performance. Thanks to its high octane rating and cooling properties, ethanol can produce stronger acceleration when paired with the right engine."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/in-panipat-how-the-worlds-textile-trash-gets-a-second-life-2938113-2026-07-04",
-      "headline": "In Panipat: How the world's textile trash gets a second lifeHandcrafted ByOur Editors Every day, tonnes of textile waste from India and around the world arrive in Panipat. We travelled there to see how the city weaves a new life from discarded textiles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ethanol-protest-nitin-gadkari-tehseen-poonawalla-jantar-mantar-delhi-sunday-e20-blending-2940066-2026-07-03",
-      "headline": "Will sit outside Gadkari's house, says Tehseen Poonawalla ahead of E20 protestIndia is set to witness its first street protest over the sale of ethanol-blended petrol. A protest led by entrepreneur Tehseen Poonawalla is planned at Delhi's Jantar Mantar on Sunday. What if police permission isn't granted? Poonawalla shares his alternative plan, in a light-hearted manner, but with steely resolve."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/features/story/the-rise-and-rise-of-nvidia-and-how-it-became-worlds-most-important-company-2940373-2026-07-04",
       "headline": "The rise and rise of Nvidia and how it became world's most important companyHandcrafted ByOur Editors It began with video games, a paintball experiment and a bold bet that few understood. Today, Nvidia has become a company every tech giant depends on to build the future of artificial intelligence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ram-temple-donation-theft-sit-probes-melted-gold-biscuits-angle-sit-2940406-2026-07-04",
-      "headline": "Stolen Ram Temple gold melted into biscuits? Cops probe new angle in theft casePolice are now probing whether stolen Ram Temple ornaments were melted into gold biscuits to hide their identity. The inquiry has widened to donation records, Mint transactions and questions over oversight of valuables."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/serena-williams-wimbledon-2026-doubles-withdrawal-venus-reunion-delayed-2940731-2026-07-04",
+      "headline": "Heartbroken Serena Williams opts out of Wimbledon doubles: Did everything I could Serena Williams has withdrawn from Wimbledon 2026 women's doubles, ending her planned reunion with Venus Williams. The knee injury has cut short a closely watched comeback, though Serena suggested it may not be her last appearance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/alexandra-eala-vs-iga-swiatek-wimbledon-2026-upset-fourth-round-2940718-2026-07-04",
+      "headline": "Iga Swiatek suffers shock Wimbledon exit as Alexandra Eala continues dream run Defending champion Iga Swiatek crashed out of Wimbledon 2026 after World No.32 Alexandra Eala stunned her 7-6(9), 6-2 in a third-round upset on Centre Court."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-youngest-india-international-debut-england-second-t20i-2940690-2026-07-04",
@@ -334,12 +344,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2026-day-6-updates-iga-swiatek-alexander-zverev-elena-rybakina-2940553-2026-07-04",
-      "headline": "Day 6 Live Updates: Eala nears victory vs Iga Swiatek, Rybakina knocked out Wimbledon Day 6 Live Updates: Iga Swiatek is currently up against Alexandra Eala in a tricky clash on Centre on Saturday. Elena Ryabakina has been knocked out after losing to Elise Mertens. Later in the day, Alexander Zverev and Amanda Anisimova will be in action."
+      "headline": "Day 6 Live Updates: Zverev, Anisimova in action, Swiatek, Rybakina crash out Wimbledon Day 6 Live Updates: Iga Swiatek has crashed out after losing to Alexandra Eala on Centre on Saturday. Elena Ryabakina has been knocked out after losing to Elise Mertens. Later in the day, Alexander Zverev and Amanda Anisimova will be in action."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-live-score-2nd-t20i-manchester-rain-vaibhav-sooryavanshi-2940583-2026-07-04",
-      "headline": "2nd T20I Live Score: Shreyas Iyer departs, Kishan key in middle overs India (IND) vs England (ENG) 2nd T20I Live Score in Manchester: Ishan Kishan and Shreyas Iyer will be the key after India lost the wickets of both their openers Abhishek Sharma and Vaibhav Sooryavanshi."
+      "headline": "2nd T20I Live Score: Brook fights back after Arshdeep's first over blitz India (IND) vs England (ENG) 2nd T20I Live Score in Manchester: Arshdeep Singh gives India the perfect start, striking twice in the opening over to remove both England openers and put the hosts on the back foot. Earlier, India posted 190 after opting to bat, thanks to key contributions from Shreyas Iyer, Ishan Kishan and a late flourish from Tilak Varma. On a spin-friendly surface, they'll back their bowlers to defend the total."
     },
     {
       "sentiment": "positive",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-vs-england-2nmd-t20i-preview-2940376-2026-07-04",
-      "headline": "Let Vaibhav Sooryavanshi debut in peace England vs India: Vaibhav Sooryavanshi's debut has become a daily debate before every India game, and it needs to stop. Morne Morkel's comments in Manchester show why the wait was never really about doubting the teenager, and why the noise around it does him no favours."
+      "headline": "Let Vaibhav Sooryavanshi debut in peaceEngland vs India: Vaibhav Sooryavanshi's debut has become a daily debate before every India game, and it needs to stop. Morne Morkel's comments in Manchester show why the wait was never really about doubting the teenager, and why the noise around it does him no favours."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-vs-cape-verde-injury-head-most-assists-2940369-2026-07-04",
-      "headline": "Cape Verde defenders leave Messi with bruised head. Pose for photos post-match Lionel Messi finished Argentina's hard-fought win over Cape Verde with a bruised forehead after a heavy collision with a defender. Moments later, the same Cape Verde players who had spent 120 minutes trying to stop him queued up for photographs with the Argentine legend."
+      "headline": "Cape Verde defenders leave Messi with bruised head. Pose for photos post-matchLionel Messi finished Argentina's hard-fought win over Cape Verde with a bruised forehead after a heavy collision with a defender. Moments later, the same Cape Verde players who had spent 120 minutes trying to stop him queued up for photographs with the Argentine legend."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-equals-roger-federer-wimbledon-match-wins-2940213-2026-07-03",
       "headline": "Djokovic throws Federer cheeky challenge after equalling Wimbledon recordNovak Djokovic matched Roger Federer's record of men's singles wins at Wimbledon before cheekily challenging the Swiss legend to a winner-takes-all showdown after beating Arthur Rinderknech in four sets."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-debut-delayed-morne-morkel-backs-abhishek-sharma-sanju-samson-2940135-2026-07-03",
-      "headline": "Why India are delaying Vaibhav Sooryavanshi debut? India bowling coach explainsIndia bowling coach Morne Morkel has defended the decision to delay Vaibhav Sooryavanshi's debut, saying it would be unfair to drop in-form openers Abhishek Sharma and Sanju Samson."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-sam-curran-england-plan-second-t20i-manchester-2940082-2026-07-03",
-      "headline": "Vaibhav Sooryavanshi flying high, but England have plans to stop him: Sam CurranSam Curran praised Vaibhav Sooryavanshi's fearless rise but said England are ready with plans to stop him, adding that handling the pressure of representing India will be the teenager's toughest challenge."
     }
   ],
   "education": [
