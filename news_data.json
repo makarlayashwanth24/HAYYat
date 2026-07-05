@@ -104,6 +104,51 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-jalsa-hit-by-mumbai-rains-flooding-outside-bungalow-goes-viral-2940960-2026-07-05",
+      "headline": "Big B's Jalsa hit by Mumbai rains, flooding outside bungalow goes viral Amitabh Bachchan's iconic bungalow, Jalsa, was surrounded by floodwater as heavy monsoon rains lashed Mumbai, with videos from outside the residence going viral online. It remains unclear whether the actor's customary Sunday darshan will be affected by the waterlogging."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-gauri-spratt-wedding-actor-marries-longtime-friend-in-private-bandra-ceremony-2940961-2026-07-05",
+      "headline": "Aamir Khan and Gauri Spratt are now married Aamir Khan and Gauri Spratt got married in a private ceremony at his Bandra home. Their wedding followed a 25-year association and a relationship that began two years ago."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-books-entire-theatre-for-alia-bhatt-sharvari-alpha-invites-250-fans-2940945-2026-07-05",
+      "headline": "Samay Raina books entire theatre for Alia-Sharvari's Alpha, invites 250 fans Samay Raina has booked an entire Mumbai theatre for an Alpha screening after Alia Bhatt and Sharvari appeared on India's Got Latent. The gesture comes as the film draws mixed reviews, early box office chatter and support from Karan Johar."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/naseeruddin-shah-box-office-data-hyper-masculinity-hit-films-india-2940490-2026-07-05",
+      "headline": "3 years, multiple blockbusters: Testing Naseeruddin Shah's hyper-masculinity claim A viral clip has revived Naseeruddin Shah's critique of hyper-masculine Indian cinema. Box office figures from 2024 to mid-2026 show alpha heroes still dominate, though softer films have also found audiences."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/alpha-box-office-day-2-alia-bhatts-film-inches-closer-to-rs-40-crore-worldwide-2940921-2026-07-05",
+      "headline": "Alpha box office Day 2: Alia Bhatt's film inches closer to Rs 40 crore worldwide Alia Bhatt's Alpha has inched closer to the Rs 40-crore mark worldwide after registering a modest jump in collections on its first Saturday. The YRF Spy Universe film has now grossed Rs 37.90 crore globally in two days."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-jana-nayagan-how-delay-before-release-added-to-the-hype-2939815-2026-07-05",
+      "headline": "Vijay's Jana Nayagan: How delay before release has added to the hype Vijay's Jana Nayagan has kept returning to the spotlight over the months despite getting stuck with censor woes. The delay has only added an element of intrigue."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/pandavani-legend-teejan-bai-dies-at-70-pm-modi-pays-tribute-2940910-2026-07-05",
+      "headline": "Pandavani legend Teejan Bai dies at 70, PM Modi pays tribute Teejan Bai, Chhattisgarh's foremost Pandavani singer, died in Raipur after a prolonged illness. Prime Minister Narendra Modi condoled her death on X."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/kyunki-saas-bhi-kabhi-bahu-thi-cast-reunites-after-26-years-smriti-irani-joins-celebration-tv-news-2940904-2026-07-05",
+      "headline": "Kyunki Saas... cast reunites after 26 years; Smriti Irani joins celebration. Pics The original cast of Kyunki Saas Bhi Kabhi Bahu Thi, including Smriti Irani, reunited to celebrate the show's 26th anniversary. Hosted by Hiten Tejwani and Gauri Pradhan, the nostalgic get-together delighted fans as the revival series nears its finale."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/akansha-chamola-blasts-shreya-kalra-after-she-reveals-her-bisexuality-on-lock-upp-2940888-2026-07-05",
+      "headline": "Akansha Chamola blasts Shreya Kalra after she reveals her bisexuality on Lock Upp Akanksha Chamola confronted Shreya Kalra on Lock Upp after learning her secret had been shared with Sufi Motiwala. The fallout cost her a lifeline and sparked strong support from viewers online."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-2-sufi-motiwala-opens-up-about-the-emotional-weight-of-coming-out-2940870-2026-07-05",
       "headline": "Lock Upp 2: Sufi Motiwala opens up about the emotional weight of coming out Speaking on Lock Upp Season 2, influencer Sufi Motiwala laid bare the emotional reality of coming out in India. The 21-year-old also reflected on parental expectations, the fear of rejection and why acceptance often takes time."
     },
@@ -151,58 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-why-harshad-chopda-remark-on-gay-men-is-bigger-than-any-reality-tv-row-2940510-2026-07-04",
       "headline": "Lock Upp: Why Harshad Chopda's remark on gay men is bigger than any reality TV row Harshad Chopda's remarks about gay men on Lock Upp have triggered criticism online. The row has widened into a debate on homophobia, accountability and the show's response."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/so-ji-sub-agent-kim-reactivated-becomes-2026s-biggest-k-drama-2940489-2026-07-04",
-      "headline": "So Ji-sub's Agent Kim Reactivated becomes 2026's biggest K-drama The newly released K-drama Agent Kim Reactivated has rapidly become 2026's highest-rated Korean show. Featuring So Ji-sub's stellar performance, the series is garnering strong viewership and global buzz."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/maatrubhumi-cbfc-clearance-row-salman-khan-film-not-submitted-makers-say-2940452-2026-07-04",
-      "headline": "Salman Khan's Maatrubhumi not facing certification delay, clarify makers Maatrubhumi's makers have denied reports that the film has hit a CBFC hurdle. The statement shifts attention to the film's pending certification submission and unresolved release date."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/chandrachur-singh-gurugram-demolition-ramp-dlf-home-2940435-2026-07-04",
-      "headline": "Actor Chandrachur Singh reacts as bulldozer reaches his Gurugram home Officials demolished a ramp outside actor Chandrachur Singh's Gurugram home during a DLF drive against illegal structures. The actor's calm exchange with the team went viral as the department said more action will follow."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-wedding-fans-react-madison-square-garden-2940410-2026-07-04",
-      "headline": "Swifties can't keep calm after Taylor Swift's wedding. Here's how fans reacted Taylor Swift and Travis Kelce married in a grand ceremony at Madison Square Garden as fans tracked every update online. The billboard reveal, Dior outfits and celebrity guest list drove a fresh wave of reactions across social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/alpha-box-office-collection-day-1-detailed-report-alia-bhatt-spy-thriller-opens-bigger-than-raazi-jigra-2940389-2026-07-04",
-      "headline": "Alpha box office Day 1: Alia Bhatt's spy thriller opens bigger than Raazi, Jigra Alia Bhatt and Sharvari's Alpha had a decent opening day at the box office, with collections nearing the Rs 10 crore benchmark in India and Rs 16 crore worldwide. Check the detailed business report."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-laughs-off-sunil-pals-fake-rs-25-lakh-claim-calls-it-fake-news-2940379-2026-07-04",
-      "headline": "Samay Raina laughs off Sunil Pal's Rs 25 lakh claim, calls it fake news Samay Raina has denied Sunil Pal's claim that he offered him Rs 25 lakh for India's Got Latent. The exchange has reignited their public feud as the show's second season rolls on."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swifts-first-wedding-photos-go-viral-fans-arent-convinced-2940366-2026-07-04",
-      "headline": "Taylor Swift's 'first wedding photos' go viral, fans aren't convinced A purported first wedding photo of Taylor Swift and Travis Kelce surfaced online after the JusT&T Married announcement. Fans questioned whether the image was real, while some suggested it may have been AI-generated."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/india-watched-game-of-thrones-and-hotd-is-it-ready-for-incest-on-big-screen-2939857-2026-07-04",
-      "headline": "India watched Game of Thrones and HOTD. Is it ready for incest on big screen? Shows like Game of Thrones and House of the Dragon have made incest a recurring storytelling device that audiences have accepted as fiction. But could a similar narrative ever find a place in Indian theatres? Filmmakers explain why the answer is far more complicated."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/blake-lively-ryan-reynolds-absent-from-taylor-swift-travis-kelce-wedding-2940342-2026-07-04",
-      "headline": "Blake Lively skipped Taylor Swift's wedding. Here's where she was Blake Lively and Ryan Reynolds missed Taylor Swift and Travis Kelce's wedding and rehearsal dinner. Their absence came as Swift and Lively's friendship remained strained amid the Justin Baldoni legal dispute."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-ev-policy-petrol-two-wheelers-registration-ban-2028-rekha-gupta-pollution-2940736-2026-07-05",
-      "headline": "When will Delhi's air be pollution-free? Rekha Gupta answersThe Delhi government has notified a new EV policy. According to the Rekha Gupta government, the main objective of the policy is to achieve a minimum 30% electrification of Delhi's vehicle fleet by March 31, 2030, when the policy rolls out."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-rains-tree-falls-on-shop-63-year-old-man-killed-2941005-2026-07-05",
+      "headline": "Mumbai rains claim another life, 63-year-old man killed after tree falls on shopMumbai rains turned deadly after a tree fell on a shop and killed a 63-year-old man. The incident adds to the toll of rain-related emergencies in the city."
     },
     {
       "sentiment": "positive",
@@ -210,14 +210,14 @@
       "headline": "Never submit to tyranny: Amid war, Karbala message resonates at Khamenei funeralAt Ayatollah Ali Khamenei's funeral in Tehran, mourners linked his death to Imam Hussain's legacy of martyrdom and resistance. Their chants, red flags and invocations of Karbala cast the moment as a living expression of Shia defiance against tyranny."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/trump-on-ali-khamenei-funeral-says-can-take-remaining-iran-leadership-with-one-shot-2940836-2026-07-05",
-      "headline": "Can take them out with one shot: Trump on Iranian leaders at Khamenei funeralTrump said the US could strike Iran's leadership gathered for Ali Khamenei's funeral but chose not to. He said avoiding such a move would preserve nuclear negotiations with Iran."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-gauri-spratt-wedding-actor-marries-longtime-friend-in-private-bandra-ceremony-2940961-2026-07-05",
+      "headline": "Aamir Khan and Gauri Spratt are now marriedAamir Khan and Gauri Spratt got married in a private ceremony at his Bandra home. Their wedding followed a 25-year association and a relationship that began two years ago."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/lahore-gangrape-case-crypto-dispute-surfaces-pakistan-deputy-pm-ishaq-dar-relative-2940831-2026-07-05",
-      "headline": "Crypto dispute surfaces in gangrape case involving Pakistan Deputy PM's relativeDuring the probe, police have said, it emerged that Muhammad Raza Dar, reportedly a grandson of Pakistani Deputy PM Ishaq Dar, met the two women in Singapore last year, and they were partners in a cryptocurrency venture. He arranged business visas for them for their visit to Pakistan."
+      "url": "https://www.indiatoday.in/world/story/iran-slams-donald-trump-over-one-shot-threat-at-ali-khamenei-funeral-2940942-2026-07-05",
+      "headline": "Neither civilization, nor honour: Iran hits back after Trump's 'one-shot' threatAli Khamenei's body is currently lying in state in Tehran, where mourners and foreign dignitaries are paying their last respects. The former Supreme Leader, who was killed in a US-Israeli airstrike on February 28, will be buried in Mashhad on July 9 after a week-long funeral procession through Tehran, Qom, Najaf and Karbala."
     },
     {
       "sentiment": "positive",
@@ -226,48 +226,48 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-us-relations-1991-reforms-narasimha-rao-pokhran-test-kargil-bill-clinton-vajpayee-2940516-2026-07-05",
-      "headline": "How Narasimha Rao reset India-US ties in the post-Cold War eraThe year 1991 transformed India in more ways than one. As the country battled an unprecedented economic crisis and adapted to the end of the Cold War, New Delhi simultaneously rewrote its economic policies and foreign policy priorities. The decade that followed witnessed a dramatic shift in India\u2013US relations."
+      "url": "https://www.indiatoday.in/india/story/bhutan-e20-fuel-ethanol-import-india-says-no-export-proposal-made-2940974-2026-07-05",
+      "headline": "Government fact-checks reports of Bhutan rejecting India's E20 petrol offerE20 petrol row: The clarification comes days after a report in The Bhutanese claimed that the Bhutan government had asked India to continue supplying conventional petrol for as long as it remained available in the Indian market."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/shopian-encounter-kashmir-zakir-ahmad-ganie-two-terrorists-lashkar-trapped-2940759-2026-07-04",
+      "headline": "2 terrorists cornered in orchard in J&K's Shopian, Army plugs escape routesAccording to sources, the gunfight broke out around 7:45 pm in Chanpora village after security forces launched a coordinated anti-terror operation in the area. The Army, police and CRPF tightened the cordon and intensified searches to prevent the terrorists from escaping."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/e20-protest-in-delhi-sunday-police-permission-limit-auto-experts-press-conference-tehseen-poonwalla-reaction-2940765-2026-07-04",
-      "headline": "Police asking us to limit E20 protest, we'll expose govt lies: Tehseen PoonawallaOrganisers of Sunday's anti-E20 protest at Jantar Mantar say that the Delhi Police, while giving verbal permission, has imposed a 200-person cap. Entrepreneur Tehseen Poonwalla, who is leading the agitation, has criticised the cops' decision and also warned to expose lies by government-backed auto industry experts."
+      "url": "https://www.indiatoday.in/opinion/story/tamil-nadu-chief-minister-vijay-tvk-government-narendra-modi-central-reset-federalism-relationship-2939713-2026-07-04",
+      "headline": "Suave in Delhi, steadfast in Chennai: Vijay's quiet federal resetCM Vijay's first two months in office suggest that Tamil Nadu's politics might be entering a new federal phase. While the state's positions on issues such as NEET, language and fiscal devolution remain unchanged, its engagement with the Prime Minister Narendra Modi-led Central government has become markedly more pragmatic."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-gautam-gambhir-chat-video-viral-ind-vs-eng-2940846-2026-07-05",
-      "headline": "Gambhir consoles Samson in long chat after dropping star from T20I teamIND vs ENG: India head coach Gautam Gambhir was seen having a long chat with star opener Sanju Samson during India's 2nd T20I against England. The team management decided to rest Samson after three straight failures and give his spot to the prodigiously talented Vaibhav Sooryavanshi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/germany-italy-football-downfall-fifa-world-cup-2940840-2026-07-05",
-      "headline": "How the mighty have fallen: What went wrong for Germany and ItalyOnce football's gold standard, Germany and Italy are no longer setting the benchmark. Germany lost its edge. Italy lost its way. Both have watched the rest of the football world overtake them. The climb back to the top will demand far more than another man in the dugout."
+      "url": "https://www.indiatoday.in/trending-news/story/south-korean-president-pays-instantly-after-first-lady-asks-item-price-at-market-2940935-2026-07-05",
+      "headline": "South Korean First Lady asks price at roadside stall. President's move goes viralSouth Korean president Lee Jae-myung and First Lady Kim Hye-kyung drew attention during a surprise visit to Suwon's Paldalmun Market."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-gauri-spratt-wedding-live-updates-mumbai-intimate-home-ceremony-2940855-2026-07-05",
-      "headline": "Aamir Khan-Gauri Spratt Wedding Live: Couple to marry in intimate ceremony todayAamir Khan-Gauri Spratt Wedding Live: Actor Aamir Khan is all set to marry his longtime partner Gauri Spratt in his Mumbai residence on Sunday. Khan was previously married to Reena Dutta and later Kiran Rao."
+      "headline": "Aamir Khan-Gauri Spratt Wedding Live: Couple get married, celebrations beginAamir Khan-Gauri Spratt Wedding Live: Aamir Khan got married to longtime partner Gauri Spratt in an intimate ceremony at his Mumbai home on Sunday. With the wedding now complete, the celebrations have officially begun, with the reception scheduled for later today."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/netanyahu-knows-who-the-boss-is-trump-hints-at-white-house-talks-with-israeli-pm-next-week-2940799-2026-07-04",
-      "headline": "Netanyahu knows who is boss: Trump says Israeli PM requested White House meetDonald Trump says Benjamin Netanyahu has sought a White House meeting that could happen as early as next week, even as reports point to growing tensions between the two leaders over the Middle East."
+      "url": "https://www.indiatoday.in/education-today/news/story/mothers-notes-help-jee-advanced-aspirant-overcome-a-collapsed-lung-and-earn-iit-delhi-admission-2940861-2026-07-05",
+      "headline": "Collapsed lung threatened his JEE dream, but mother's notes helped him reach IIT DelhiWhen Gunjan Kumar was bedridden with pneumothorax before JEE Advanced, his mother attended online classes and made notes for him. Her quiet intervention, alongside his resolve and teachers' guidance, helped the Kota student overcome illness and severe vision loss to move towards IIT Delhi."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-dares-tmc-rebels-to-join-bjp-vows-july-21-rally-ptag-2940697-2026-07-04",
-      "headline": "Traitors, join BJP and fight me: Mamata Banerjee's blistering attack on rebelsMamata Banerjee attacked the rebel TMC faction, accused it of working with the BJP and vowed to hold the July 21 rally. Her remarks underlined a fight for control of the party as resignations, symbol claims and defections intensified the crisis."
+      "url": "https://www.indiatoday.in/india/story/government-orders-meta-to-remove-child-abuse-ads-on-instagram-seeks-response-within-7-days-sources-2940931-2026-07-05",
+      "headline": "Govt orders Meta to remove child abuse ads on Instagram, seeks reply in 7 daysIssuing a \"stern\" notice to Meta over paid Instagram ads allegedly promoting child sexual abuse content, the government ordered their removal and sought a detailed explanation from the tech giant within seven days, per ANI sources."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/video/how-iran-is-preparing-for-a-new-leadership-era-2940811-2026-07-04",
-      "headline": "How Iran is preparing for a new leadership eraThe death of Iran's Supreme Leader Ayatollah Ali Khamenei has marked a historic turning point for the Islamic Republic. In this special report from Tehran, India Today brings exclusive on-ground coverage of Khamenei's massive state funeral, attended by millions of mourners and delegations from nearly 100 countries"
+      "url": "https://www.indiatoday.in/movies/bollywood/story/naseeruddin-shah-box-office-data-hyper-masculinity-hit-films-india-2940490-2026-07-05",
+      "headline": "3 years, multiple blockbusters: Testing Naseeruddin Shah's hyper-masculinity claimA viral clip has revived Naseeruddin Shah's critique of hyper-masculine Indian cinema. Box office figures from 2024 to mid-2026 show alpha heroes still dominate, though softer films have also found audiences."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/imd-five-weather-systems-india-monsoon-2026-forecast-heavy-rain-mumbai-gujarat-alert-2940695-2026-07-05",
-      "headline": "Monsoon mayhem: How 5 weather systems ganged up over India to bring rainFive weather systems, led by a well-marked low pressure area over the Bay of Bengal, are keeping India's monsoon active, says the IMD. Extremely heavy rain is likely over Konkan, Gujarat, Maharashtra and Odisha over the next few days."
+      "url": "https://www.indiatoday.in/india/story/delhi-ev-policy-petrol-two-wheelers-registration-ban-2028-rekha-gupta-pollution-2940736-2026-07-05",
+      "headline": "When will Delhi's air be pollution-free? Rekha Gupta answersThe Delhi government has notified a new EV policy. According to the Rekha Gupta government, the main objective of the policy is to achieve a minimum 30% electrification of Delhi's vehicle fleet by March 31, 2030, when the policy rolls out."
     },
     {
       "sentiment": "positive",
@@ -276,13 +276,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/el-nino-2026-nasa-sentinel-6-kelvin-wave-pacific-warm-water-super-el-nino-india-2940512-2026-07-04",
-      "headline": "A 14,500-km monster wave is crossing the Pacific, and El Nino is backA monster wave of warm water close to 14,500 km across is crossing the Pacific, tracked by Nasa's Sentinel-6 satellite. Noaa has declared El Nino, with a 63 per cent chance it turns very strong by winter."
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-fourth-of-july-speech-third-term-joke-walks-back-2940933-2026-07-05",
+      "headline": "In Fourth of July speech, Trump jokes about a third term, then walks it backAddressing the gathering, Trump hailed the achievements of the US military during his tenure and highlighted his administration's efforts to rebuild the country's military capabilities."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-2-sufi-motiwala-opens-up-about-the-emotional-weight-of-coming-out-2940870-2026-07-05",
-      "headline": "Lock Upp 2: Sufi Motiwala opens up about the emotional weight of coming outSpeaking on Lock Upp Season 2, influencer Sufi Motiwala laid bare the emotional reality of coming out in India. The 21-year-old also reflected on parental expectations, the fear of rejection and why acceptance often takes time."
+      "url": "https://www.indiatoday.in/trending-news/story/why-listening-to-your-own-voice-notes-makes-you-cringe-2940013-2026-07-05",
+      "headline": "Why listening to your own voice notes makes you cringeIf hearing your own voice notes makes you uncomfortable, or even cringe, you're not alone. Here's the psychological reason behind the awkward feeling."
     },
     {
       "sentiment": "positive",
@@ -291,36 +291,61 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/male-fertility-age-decline-men-seek-help-shared-responsibility-2940011-2026-07-05",
-      "headline": "When are you becoming a father? His biological clock is ticking tooHandcrafted ByOur Editors Doctors say more men are seeking fertility assessment as age and lifestyle affect sperm health. The shift is recasting infertility as a shared responsibility and prompting earlier evaluation for both partners."
+      "url": "https://www.indiatoday.in/jobs/story/computer-science-graduate-turns-rapido-rider-after-500-job-applications-amid-tough-job-market-educ-2940906-2026-07-05",
+      "headline": "Over 500 applications, no job: Engineering grad turns Rapido rider to make ends meetA first-division Computer Science graduate's story has gone viral after he revealed he became a Rapido rider despite submitting more than 500 job applications. The story has sparked fresh discussion about India's slowing hiring market and the challenges facing new graduates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/isro-satellite-captures-twin-monster-monsoon-rain-systems-drenching-maharashtra-west-bengal-2940914-2026-07-05",
+      "headline": "Satellite captures twin monster systems drenching Maharashtra, West BengalISRO satellite images showed two powerful monsoon systems driving intense rain over Maharashtra and West Bengal. The twin systems have strengthened the southwest monsoon but also raised flood and disruption risks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/society/story/loneliness-is-booming-and-so-is-the-business-around-it-2940335-2026-07-05",
+      "headline": "Loneliness is booming and so is the business around itHandcrafted ByOur Editors Loneliness is no longer just a feeling. It's becoming content, community and commerce. As creators build audiences around solitary lives and businesses promise connection, is modern loneliness finally being seen?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/germany-italy-football-downfall-fifa-world-cup-2940840-2026-07-05",
+      "headline": "How the mighty have fallen: What went wrong for Germany and ItalyOnce football's gold standard, Germany and Italy are no longer setting the benchmark. Germany lost its edge. Italy lost its way. Both have watched the rest of the football world overtake them. The climb back to the top will demand far more than another man in the dugout."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-peace-talks-qatar-live-updates-donald-trump-mojtaba-khamenei-agreement-lebanon-framework-strait-of-hormuz-middle-east-tensions-2938737-2026-07-02",
+      "headline": "Live: Ali Khamenei's 3 sons attend funeral prayers, Mojtaba skipsUS-Iran Conflict Live Updates: Thousands of mourners gathered in Tehran on Saturday as Iran commenced the funeral ceremony for its late Supreme Leader, Ayatollah Ali Khamenei, with several foreign leaders and senior officials attending one of the country's most significant state events in decades. The first day of the programme at Tehran's Grand Mosalla complex drew high-ranking delegations from across the Middle East and beyond, including heads of state, government representatives and senior diplomats, underscoring Khamenei's influence across the region. Among those who paid their respects were senior officials from allied countries, while messages of condolence continued to pour in from governments around the world. Iran's top political and military leadership was present for the ceremony, including President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and Foreign Minister Abbas Araghchi. Emotional scenes unfolded during the proceedings as Ghalibaf and Araghchi were seen breaking down in tears while paying their final respects to the late Supreme Leader. The ceremony was held under tight security, with authorities imposing extensive traffic restrictions across the capital as thousands of mourners streamed into the Grand Mosalla complex. Many walked several kilometres to reach the venue, while long queues formed outside metro stations from the early hours of the morning. Catch all the live updates at Indiatoday.in."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/man-finds-rain-soaked-diary-on-roadside-every-page-tells-a-heartwarming-story-2940387-2026-07-04",
       "headline": "Man finds rain-soaked diary on roadside, every page tells a heartwarming storyA man found a rain-soaked diary found on a roadside and appealed for help tracing its owner. The handwritten keepsake stirred viewers, who hoped the damaged memories could still be recovered."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/indore/story/madhya-pradesh-khajrana-civil-hospital-indore-delay-staff-posted-despite-six-year-hold-up-2940650-2026-07-04",
-      "headline": "No building, zero beds, yet 87 staff: Indore's hospital that exists only on paperA delay in building Indore's proposed Khajrana Civil Hospital has sparked a political row after staff postings continued. The government says employees were adjusted elsewhere pending land allotment, while the Congress has demanded an inquiry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ketan-agarwal-pune-murder-siya-goyal-snapchat-texts-friend-viral-2940458-2026-07-04",
-      "headline": "Wedding jo hone nahi wali: Siya Goyal's Snapchat text to friend goes viralA purported screenshot of a Snapchat chat allegedly involving Siya Goyal and her friend has surfaced. It adds a fresh twist to the case linked to the killing of businessman Ketan Agarwal, who was allegedly pushed from Pune's Lohagad Fort by Siya and her boyfriend Chetan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/woman-travelling-in-mumbai-local-at-1230-am-shares-why-she-doesnt-feel-unsafe-2940530-2026-07-04",
-      "headline": "Woman travelling in Mumbai local at 12:30 am shares why she doesn't feel unsafeIn an Instagram video, a woman described feeling at ease while moving around Mumbai after midnight. Her remarks sparked a wider conversation on women's safety, public transport and the city's late-night atmosphere."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/imd-monsoon-rain-alert-extremely-heavy-rainfall-gujarat-odisha-konkan-july-5-2940679-2026-07-04",
-      "headline": "Monsoon fury: Extremely heavy rain to lash these states todayThe IMD has warned of extremely heavy rainfall over Gujarat, Odisha, Konkan and Maharashtra on July 5 as a well-marked low-pressure area moves inland from the Bay of Bengal. Delhi is set for light rain, thunderstorms and below-normal temperatures."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/grigor-dimitrov-rewrites-wimbledon-script-to-beat-matteo-berrettini-2940989-2026-07-05",
+      "headline": "Ghost banished: Grigor Dimitrov rewrites Wimbledon script to beat Berrettini Grigor Dimitrov beat Matteo Berrettini in five sets to reach the Wimbledon fourth round. The win completed his comeback from last year's tearful injury exit and revived his hopes of reaching a Slam quarterfinal for the first time in two years."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/brazil-vs-norway-fifa-world-cup-head-to-head-time-2940966-2026-07-05",
+      "headline": "Brazil play Norway in Round of 16. Will strangest World Cup curse strike again? Brazil are playing Norway in their Round of 16 clash in the FIFA World Cup. The 5-time champions will face a steep test against Erling Haaland and Martin Odegaard's side."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-pakistan-test-captaincy-sack-shan-masood-2940937-2026-07-05",
+      "headline": "Shan Masood sacked, Babar Azam back: Pakistan's cricket musical chair on again Babar Azam returns as Pakistan's Test captain for the upcoming tours of the West Indies and England, despite a prolonged lean patch. He replaces the sacked Shan Masood, who paid the price for a dismal run of 12 defeats in 16 Tests."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/why-are-india-losing-t20i-matches-shreyas-iyer-vaibhav-sooryavanshi-2940920-2026-07-05",
+      "headline": "India's mini-slump in T20Is: What's gone wrong with Shreyas Iyer's team? India slumped to their third loss in four matches under the captaincy of Shreyas Iyer. After their defeat in Manchester, Ishan Kishan said that it was important for the team to band together right now."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-test-retirement-kapil-dev-john-mcenroe-aggression-2940919-2026-07-05",
+      "headline": "Like McEnroe: Kapil Dev's candid take on Virat Kohli's aggression, Test retirement Kapil Dev reveals his disappointment over Virat Kohli's Test retirement, suggesting it was fuelled by anger. The 1983 World Cup-winning captain also compared the star batsman's fiery on-field aggression to tennis icon John McEnroe's legendary combative genius."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/germany-italy-football-downfall-fifa-world-cup-2940840-2026-07-05",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/paraguay-vs-france-live-score-fifa-world-cup-2026-round-of-16-mbappe-dembele-olise-2940826-2026-07-05",
-      "headline": "PAR 0-1 FRA Highlights: Mbappe's spot kick seals win for France in Philadelphia Paraguay vs France Highlights, FIFA World Cup 2026: (PAR 0-1 FRA) Mbappe scores from the spot to give France the lead in Philadelphia in a game which had remained deadlocked until the foul on Doue in the box."
+      "headline": "PAR 0-1 FRA Highlights: Mbappe's spot kick seals win for France in PhiladelphiaParaguay vs France Highlights, FIFA World Cup 2026: (PAR 0-1 FRA) Mbappe scores from the spot to give France the lead in Philadelphia in a game which had remained deadlocked until the foul on Doue in the box."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-morocco-vs-canada-jesse-marsch-proud-despite-3-0-defeat-2940825-2026-07-05",
-      "headline": "I'd rather be us than them: Jesse Marsch defiant despite Canada's World Cup exit FIFA World Cup 2026: Canada's FIFA World Cup 2026 campaign ended with a 3-0 Round-of-16 defeat to Morocco, though Jesse Marsch praised his side's attacking intent despite the result. Morocco advanced to the quarter-finals after a strong second-half display that punished Canada's missed chances."
+      "headline": "I'd rather be us than them: Jesse Marsch defiant despite Canada's World Cup exitFIFA World Cup 2026: Canada's FIFA World Cup 2026 campaign ended with a 3-0 Round-of-16 defeat to Morocco, though Jesse Marsch praised his side's attacking intent despite the result. Morocco advanced to the quarter-finals after a strong second-half display that punished Canada's missed chances."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/morocco-beat-canada-fifa-world-cup-match-report-round-of-16-ounahi-jesse-marsch-2940823-2026-07-05",
-      "headline": "Morocco shakes off first-half slumber, ends Canada's dream run to reach quarters Canada vs Morocco, FIFA World Cup Round of 16: Azzedine Ounahi struck twice before Soufiane Rahimi added a late third as Morocco shook off a sluggish first half to beat Canada 3-0, ending the co-hosts' historic World Cup run and booking a second straight quarter-final berth."
+      "headline": "Morocco shakes off first-half slumber, ends Canada's dream run to reach quartersCanada vs Morocco, FIFA World Cup Round of 16: Azzedine Ounahi struck twice before Soufiane Rahimi added a late third as Morocco shook off a sluggish first half to beat Canada 3-0, ending the co-hosts' historic World Cup run and booking a second straight quarter-final berth."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-backs-ravi-bishnoi-praises-vaibhav-sooryavanshi-after-india-loss-2940815-2026-07-05",
-      "headline": "Shreyas Iyer backs Ravi Bishnoi after costly meltdown in Manchester T20I ENG vs IND, 2nd T20I: Ravi Bishnoi had an off day after he leaked 29 runs in the 17th over India lost to England by four wickets on Sunday in Manchester to go 0-1 down in the series."
+      "headline": "Shreyas Iyer backs Ravi Bishnoi after costly meltdown in Manchester T20IENG vs IND, 2nd T20I: Ravi Bishnoi had an off day after he leaked 29 runs in the 17th over India lost to England by four wickets on Sunday in Manchester to go 0-1 down in the series."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/alexandra-eala-vs-iga-swiatek-wimbledon-champion-crashes-out-third-round-2940803-2026-07-04",
-      "headline": "Iga Swiatek on shock exit after losing to Alexandra Eala: S**t happens Defending champion Iga Swiatek's Wimbledon title defence ended in stunning fashion after a straight-sets defeat to Alexandra Eala, with the Pole admitting that she struggled in the big moments."
+      "headline": "Iga Swiatek on shock exit after losing to Alexandra Eala: S**t happensDefending champion Iga Swiatek's Wimbledon title defence ended in stunning fashion after a straight-sets defeat to Alexandra Eala, with the Pole admitting that she struggled in the big moments."
     },
     {
       "sentiment": "positive",
@@ -450,31 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-vs-england-2nmd-t20i-preview-2940376-2026-07-04",
       "headline": "Let Vaibhav Sooryavanshi debut in peaceEngland vs India: Vaibhav Sooryavanshi's debut has become a daily debate before every India game, and it needs to stop. Morne Morkel's comments in Manchester show why the wait was never really about doubting the teenager, and why the noise around it does him no favours."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-vs-cape-verde-injury-head-most-assists-2940369-2026-07-04",
-      "headline": "Cape Verde defenders leave Messi with bruised head. Pose for photos post-matchLionel Messi finished Argentina's hard-fought win over Cape Verde with a bruised forehead after a heavy collision with a defender. Moments later, the same Cape Verde players who had spent 120 minutes trying to stop him queued up for photographs with the Argentine legend."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-cryptic-instagram-post-india-debut-england-2940367-2026-07-04",
-      "headline": "India debut on the cards? Vaibhav Sooryavanshi's cryptic post fuels speculationVaibhav Sooryavanshi's Instagram post has sparked speculation that his India debut could come in the second T20I against England in Bristol on Saturday. After spending the first three matches of India's tour of the United Kingdom on the bench, the 15-year-old opener could finally be set for his senior cap."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-colombia-beat-ghana-1-0-switzerland-round-of-16-2940355-2026-07-04",
-      "headline": "Unbeaten Colombia edge Ghana 1-0, set up Switzerland clash in last 16Jhon Arias scored the only goal as Colombia beat Ghana 1-0 in Kansas City on Friday to secure a place in the FIFA World Cup Round of 16, where they will face Switzerland in Vancouver on Tuesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/argentina-vs-cape-verde-lionel-messi-reaction-press-conference-2940333-2026-07-04",
-      "headline": "Argentina are not perfect. Messi details problems after tough win vs Cape VerdeLionel Messi's Argentina were forced to suffer through Extra Time against 64th ranked Cape Verde. Speaking after the game, Messi detailed the problems that Argentina faced on the pitch in their Round of 32 clash."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cape-verde-coach-bubista-proud-historic-world-cup-run-argentina-identity-2940331-2026-07-04",
-      "headline": "Cape Verde coach bows out of World Cup with head held high after Argentina lossCape Verde coach Bubista said he was immensely proud of his players after the tournament debutants pushed defending champions Argentina to the brink before suffering a 3-2 extra-time defeat in a gripping FIFA World Cup Round of 32 clash on July 4."
     }
   ],
   "education": [
