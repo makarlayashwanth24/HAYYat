@@ -217,7 +217,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/brazil-vs-norway-live-score-fifa-world-cup-2026-updates-round-of-16-neymar-haaland-2941298-2026-07-06",
-      "headline": "BRA 0-0 NOR Live: Norway make attacking changes in 2nd halfBrazil (BRA) vs Norway (NOR) Live, FIFA World Cup: (BRA 0-0 NOR) Norway signal their attacking intent at the start of the second half by bringing on Oscar Bobb and Andreas Schjelderup. With Alexander Sorloth and Antonio Nusa making way, the underdogs are pushing for a decisive breakthrough against Brazil."
+      "headline": "BRA 1-2 NOR Live: Haaland leads Norway to knock Brazil out in R16Brazil (BRA) vs Norway (NOR) Live, FIFA World Cup: (BRA 1-2 NOR) Norway knock Brazil out of the 2026 FIFA World Cup with a famous victory. Erling Haaland's brace and Orjan Nyland's heroics seal a quarter-final spot, while Neymar's late penalty proves only a consolation for the Selecao."
     },
     {
       "sentiment": "positive",
@@ -256,8 +256,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-live-score-day-7-novak-djokovic-sabalenka-osaka-sinner-2941144-2026-07-05",
-      "headline": "Day 7 Highlights: Sinner beats Mochizuki, advances to quarterfinalsWimbledon Day 7 Live Score: Jannik Sinner beat Japan's Shintaro Mochizuki and advanced to the quarterfinals. Earlier, Novak Djokovic beat Roman Safiullin on Centre Court and advanced to the quarters. Aryna Sabalenka has been knocked out after losing to Naomi Osaka."
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-wimbledon-2026-beats-mochizuki-to-reach-quarterfinal-2941308-2026-07-06",
+      "headline": "Jannik Sinner scripts another slice of history, sweeps into Wimbledon quartersDefending champion Jannik Sinner stormed into his fifth consecutive Wimbledon quarterfinal with a dominant straight-sets win over Shintaro Mochizuki, extending his winning streak at the All England Club to 11."
     },
     {
       "sentiment": "positive",
@@ -322,6 +322,16 @@
   ],
   "sports": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/football/story/neymar-in-tears-brazil-vs-norway-shock-exit-fifa-world-cup-video-2941312-2026-07-06",
+      "headline": "Neymar sobs uncontrollably after Brazil's shock World Cup exit vs Norway: Watch Neymar was left inconsolable after Brazil's shock 2-1 defeat to Norway ended their FIFA World Cup campaign. The veteran forward broke down in tears following the final whistle, with footage capturing the heartbreak of another painful exit"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-wimbledon-2026-beats-mochizuki-to-reach-quarterfinal-2941308-2026-07-06",
+      "headline": "Jannik Sinner scripts another slice of history, sweeps into Wimbledon quarters Defending champion Jannik Sinner stormed into his fifth consecutive Wimbledon quarterfinal with a dominant straight-sets win over Shintaro Mochizuki, extending his winning streak at the All England Club to 11."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-last-fifa-world-cup-portugal-vs-spain-round-of-16-2941303-2026-07-06",
       "headline": "Cristiano Ronaldo confirms he's playing his last World Cup Cristiano Ronaldo confirmed the 2026 FIFA World Cup will be the last of his illustrious career, saying he wants to savour every moment of the tournament. The Portugal captain also expressed hope that his side's campaign against Spain will not be his final match."
@@ -334,7 +344,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/brazil-vs-norway-live-score-fifa-world-cup-2026-updates-round-of-16-neymar-haaland-2941298-2026-07-06",
-      "headline": "BRA 0-0 NOR Live: Brazil under pressure after penalty miss Brazil (BRA) vs Norway (NOR) Live, FIFA World Cup: (BRA 0-0 NOR) Norway have rattled Brazil with a disallowed goal and a fearless start, but the Selecao have been handed a lifeline after Orjan Nyland brilliantly saved Bruno Guimaraes' penalty. The knockout clash remains goalless, but it's already delivering plenty of drama."
+      "headline": "BRA 1-2 NOR Live: Haaland leads Norway to knock Brazil out in R16 Brazil (BRA) vs Norway (NOR) Live, FIFA World Cup: (BRA 1-2 NOR) Norway knock Brazil out of the 2026 FIFA World Cup with a famous victory. Erling Haaland's brace and Orjan Nyland's heroics seal a quarter-final spot, while Neymar's late penalty proves only a consolation for the Selecao."
     },
     {
       "sentiment": "positive",
@@ -369,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cupcabo-verde-team-heroes-welcome-51st-independence-day-2941188-2026-07-05",
-      "headline": "Why Cabo Verde's 51st Independence day felt extra special this year FIFA World Cup 2026: Cabo Verde returned home to packed streets and a thunderous airport welcome after their World Cup exit. The reception on the nation's 51st Independence Day showed how this run had become a marker of national pride."
+      "headline": "Why Cabo Verde's 51st Independence day felt extra special this yearFIFA World Cup 2026: Cabo Verde returned home to packed streets and a thunderous airport welcome after their World Cup exit. The reception on the nation's 51st Independence Day showed how this run had become a marker of national pride."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-2027-world-cup-l-sivaramakrishnan-bold-odi-prediction-2941174-2026-07-05",
-      "headline": "Vaibhav Sooryavanshi for 2027 World Cup? Ex-spinner makes bold ODI prediction L Sivaramakrishnan has urged India to consider Vaibhav Sooryavanshi for the 2027 World Cup. The former spinner said the teenager should be backed in white-ball cricket as a long-term match-winner."
+      "headline": "Vaibhav Sooryavanshi for 2027 World Cup? Ex-spinner makes bold ODI predictionL Sivaramakrishnan has urged India to consider Vaibhav Sooryavanshi for the 2027 World Cup. The former spinner said the teenager should be backed in white-ball cricket as a long-term match-winner."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-live-score-day-7-novak-djokovic-sabalenka-osaka-sinner-2941144-2026-07-05",
-      "headline": "Day 7 Live score: Sinner nears victory, Gauff under pressure vs BencicWimbledon Day 7 Live Score: Jannik Sinner is in action in the fourth round against Japan's Shintaro Mochizuki. Earlier, Novak Djokovic beat Roman Safiullin on Centre Court and advanced to the quarters. Aryna Sabalenka has been knocked out after losing to Naomi Osaka."
+      "headline": "Day 7 Highlights: Sinner beats Mochizuki, advances to quarterfinalsWimbledon Day 7 Live Score: Jannik Sinner beat Japan's Shintaro Mochizuki and advanced to the quarterfinals. Earlier, Novak Djokovic beat Roman Safiullin on Centre Court and advanced to the quarters. Aryna Sabalenka has been knocked out after losing to Naomi Osaka."
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-paraguay-vs-france-fifa-world-cup-var-penalty-report-2940830-2026-07-05",
       "headline": "Mbappe settles battle of wills as France edge resilient Paraguay into quartersFIFA World Cup 2026: Kylian Mbappe's second-half penalty finally broke Paraguay's stubborn resistance as France secured a hard-fought 1-0 victory in sweltering conditions to book a World Cup quarter-final against Morocco after an attritional last-16 contest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/paraguay-vs-france-live-score-fifa-world-cup-2026-round-of-16-mbappe-dembele-olise-2940826-2026-07-05",
-      "headline": "PAR 0-1 FRA Highlights: Mbappe's spot kick seals win for France in PhiladelphiaParaguay vs France Highlights, FIFA World Cup 2026: (PAR 0-1 FRA) Mbappe scores from the spot to give France the lead in Philadelphia in a game which had remained deadlocked until the foul on Doue in the box."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-morocco-vs-canada-jesse-marsch-proud-despite-3-0-defeat-2940825-2026-07-05",
-      "headline": "I'd rather be us than them: Jesse Marsch defiant despite Canada's World Cup exitFIFA World Cup 2026: Canada's FIFA World Cup 2026 campaign ended with a 3-0 Round-of-16 defeat to Morocco, though Jesse Marsch praised his side's attacking intent despite the result. Morocco advanced to the quarter-finals after a strong second-half display that punished Canada's missed chances."
     }
   ],
   "education": [
