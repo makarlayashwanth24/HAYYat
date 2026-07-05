@@ -205,14 +205,14 @@
       "headline": "Traitors, join BJP and fight me: Mamata Banerjee's blistering attack on rebelsMamata Banerjee attacked the rebel TMC faction, accused it of working with the BJP and vowed to hold the July 21 rally. Her remarks underlined a fight for control of the party as resignations, symbol claims and defections intensified the crisis."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-paraguay-vs-france-fifa-world-cup-var-penalty-report-2940830-2026-07-05",
+      "headline": "Mbappe settles battle of wills as France edge resilient Paraguay into quartersFIFA World Cup 2026: Kylian Mbappe's second-half penalty finally broke Paraguay's stubborn resistance as France secured a hard-fought 1-0 victory in sweltering conditions to book a World Cup quarter-final against Morocco after an attritional last-16 contest."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/shopian-encounter-kashmir-zakir-ahmad-ganie-two-terrorists-lashkar-trapped-2940759-2026-07-04",
       "headline": "2 terrorists killed in encounter with security forces in J&K's ShopianAccording to sources, the gunfight broke out around 7:45 pm in Chanpora village after security forces launched a coordinated anti-terror operation in the area."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/paraguay-vs-france-live-score-fifa-world-cup-2026-round-of-16-mbappe-dembele-olise-2940826-2026-07-05",
-      "headline": "PAR 0-0 FRA Live: France control 1st half but Paraguay grind it outParaguay vs France live score and updates, FIFA World Cup 2026: Mbappe's appeals are turned away after he goes down under pressure from Caceres inside the box. The referee isn't interested, and France's frustration grows."
     },
     {
       "sentiment": "positive",
@@ -323,8 +323,13 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-paraguay-vs-france-fifa-world-cup-var-penalty-report-2940830-2026-07-05",
+      "headline": "Mbappe settles battle of wills as France edge resilient Paraguay into quarters FIFA World Cup 2026: Kylian Mbappe's second-half penalty finally broke Paraguay's stubborn resistance as France secured a hard-fought 1-0 victory in sweltering conditions to book a World Cup quarter-final against Morocco after an attritional last-16 contest."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/paraguay-vs-france-live-score-fifa-world-cup-2026-round-of-16-mbappe-dembele-olise-2940826-2026-07-05",
-      "headline": "PAR 0-0 FRA Live: France control 1st half but Paraguay grind it out Paraguay vs France live score and updates, FIFA World Cup 2026: Mbappe's appeals are turned away after he goes down under pressure from Caceres inside the box. The referee isn't interested, and France's frustration grows."
+      "headline": "PAR 0-1 FRA Live: Mbappe's spot kick seals the deal for France in Philadelphia Paraguay vs France live score and updates, FIFA World Cup 2026: (PAR 0-1 FRA) Mbappe scores from the spot to give France the lead in Philadelphia in a game which had remained deadlocked until the foul on Doue in the box."
     },
     {
       "sentiment": "positive",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-youngest-india-international-debut-england-second-t20i-2940690-2026-07-04",
-      "headline": "Vaibhav Sooryavanshi promises, but falls cheaply in landmark India debut ENG vs IND, 2nd T20I: 15-year-old Vaibhav Sooryavanshi scored 14 runs off nine balls with two sixes before off-spinner Will Jacks dismissed him at the Old Trafford in Manchester."
+      "headline": "Vaibhav Sooryavanshi promises, but falls cheaply in landmark India debutENG vs IND, 2nd T20I: 15-year-old Vaibhav Sooryavanshi scored 14 runs off nine balls with two sixes before off-spinner Will Jacks dismissed him at the Old Trafford in Manchester."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-video-andres-mieles-venezuela-earthquake-survivor-fifa-world-cup-2940289-2026-07-04",
       "headline": "Ronaldo melts hearts with surprise invite to Venezuela earthquake survivorCristiano Ronaldo sent a personal video message to young Andres Mieles and invited him to a match. The gesture followed a social media campaign after the Venezuelan boy survived an earthquake that killed his family."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/brazil-vs-norway-fifa-world-cup-raphinha-returns-ancelotti-team-selection-2940288-2026-07-04",
-      "headline": "Raphinha returns as Rayan gives Brazil a selection callFIFA World Cup: Raphinha has returned to full training before Brazil's World Cup last-16 match against Norway. His comeback leaves Carlo Ancelotti weighing experience against Rayan's recent impact."
     }
   ],
   "education": [
