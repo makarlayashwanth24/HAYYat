@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/anshula-kapoor-rohan-thakkar-wedding-janhvi-kapoor-khushi-kapoor-perform-sisterly-duties-during-sindoor-ritual-2942077-2026-07-06",
+      "headline": "Viral: Janhvi, Khushi perform sisterly duties during Anshula's sindoor ritual A photo from social media influencer Anshula Kapoor and her husband, writer Rohan Thakkar's wedding shows actors Janhvi and Khushi assisting during the sindoor ritual. The moment, shared by Anshula on Instagram, has since gone viral on social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-green-card-query-us-citizenship-reports-satluj-release-2941957-2026-07-06",
+      "headline": "Diljit Dosanjh reacts to fan's Green Card question amid US citizenship buzz Actor-singer Diljit Dosanjh on Monday reacted after a fan asked him about getting a Green Card amid reports of his US citizenship. He also opened up about his latest film Satluj, its surprise ZEE5 release, and the years-long delays faced by it."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/revathy-asha-kelunni-padmapriya-janakiraman-resign-association-of-malayalam-movie-artists-full-statement-2941980-2026-07-06",
       "headline": "Actors Revathy, Padmapriya resign from Malayalam film body amid internal crisis Actors Revathy Asha Kelunni and Padmapriya Janakiraman resigned from the Association of Malayalam Movie Artists (AMMA). Their exit comes as the Malayalam film body faces internal turmoil."
     },
@@ -145,7 +155,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/ott/story/infuriating-ranvir-shorey-sanjay-gupta-and-others-slam-satlujs-removal-from-ott-2941539-2026-07-06",
-      "headline": "Infuriating: Ranvir Shorey, Sanjay Gupta and others slam Satluj's removal from OTT Actor Diljit Dosanjh's Satluj was taken off from streaming in India days after its delayed release, prompting reactions from actor Ranvir Shorey, directors Sanjay Gupta and Onir. The move has renewed attention on the film's politically sensitive subject and troubled certification journey."
+      "headline": "Infuriating: Anurag Basu, Ranvir Shorey and others slam Satluj's removal from OTT Actor Diljit Dosanjh's Satluj was taken off from streaming in India days after its delayed release, prompting reactions from actor Ranvir Shorey, directors Anurag Basu, Sanjay Gupta and Onir. The move has renewed attention on the film's politically sensitive subject and troubled certification journey."
     },
     {
       "sentiment": "positive",
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/diljit-dosanjh-reacts-as-fan-asks-why-satluj-chose-ott-over-theatres-2941522-2026-07-06",
       "headline": "Diljit Dosanjh reacts as fan asks why Satluj chose OTT over theatres Actor-singer Diljit Dosanjh has revealed why Satluj skipped a theatrical release and premiered directly on ZEE5, saying the team faced years of hurdles and was not even allowed to talk about the film before its release. The actor also reflected on the delays and thanked fans for supporting the project."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/satluj-leaked-online-diljit-dosanjh-film-available-in-hd-after-zee5-removal-2941528-2026-07-06",
-      "headline": "Satluj leaked online: Diljit Dosanjh's film available in HD a day after OTT removal Diljit Dosanjh's film Satluj is being widely shared online after its removal from Zee5. The circulation has intensified debate around censorship, free speech and the reach of digital distribution."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/satluj-movie-review-diljit-dosanjh-honey-trehan-jaswant-singh-khalra-film-democracy-forgets-dead-cinema-remembers-2941510-2026-07-06",
-      "headline": "Satluj review: When a democracy forgets its dead, cinema remembersRelease Date:Fri Jul 03, 2026 Satluj movie review: Diljit Dosanjh's film follows Jaswant Singh Khalra as he traces the disappeared through official records and cremation logs. The film turns that investigation into a stark question about memory, accountability and constitutional rights."
     }
   ],
   "general news": [
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/e20-petrol-engine-damage-pib-fact-check-siam-sought-e10-for-older-vehicles-2941414-2026-07-06",
-      "headline": "E10 should continue or entire vehicle fleet\u2026: Old Niti Aayog report flags concernThe six-year-old roadmap shows that while carmakers' body SIAM backed India's ethanol-blending programme, it also pushed for parallel E10 availability, arguing that existing vehicles would need protection-grade fuel during the transition to higher ethanol blends."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/monsoon-tests-mumbai-pune-missing-link-why-its-so-vulnerable-to-landslides-caving-2941514-2026-07-06",
-      "headline": "Built to beat traffic, lost to monsoon: Why Mumbai-Pune 'missing link' broke downHeavy monsoon rain triggered a landslide near Tunnel 2 and exposed surface defects on the newly opened Mumbai-Pune Expressway missing link. The disruption has turned the project's first monsoon into a key test of its slope stability, drainage and construction quality."
+      "url": "https://www.indiatoday.in/sports/football/story/portugal-vs-spain-live-score-fifa-world-cup-2026-round-of-16-cristiano-ronaldo-updates-2942078-2026-07-06",
+      "headline": "POR vs ESP Live: Rafael Leao benched, Ronaldo hopes to haunt Spain againPortugal (POR) vs Spain (ESP) Live, FIFA World Cup: Spain and Portugal meet at Dallas Stadium in Arlington, Texas, in a blockbuster FIFA World Cup 2026 Round of 16 clash, with a place in the quarter-finals at stake. Cristiano Ronaldo's Portugal face a Spain side yet to concede in the tournament. Will the Spanish ruin Ronaldo's last dance?"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/video-indonesian-f-16-sukhoi-30-jets-welcome-pm-modis-aircraft-in-its-airspace-jakarta-2941924-2026-07-06",
       "headline": "Video: F-16, Sukhoi-30 jets welcome PM's aircraft in Indonesian airspacePrime Minister Narendra Modi's aircraft was escorted by an F-16 and a Sukhoi-30 as it entered Indonesian airspace before landing in Jakarta. The ceremonial welcome set the tone for talks with President Prabowo Subianto on deepening India-Indonesia ties."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/monsoon-tests-mumbai-pune-missing-link-why-its-so-vulnerable-to-landslides-caving-2941514-2026-07-06",
+      "headline": "Built to beat traffic, lost to monsoon: Why Mumbai-Pune 'missing link' broke downHeavy monsoon rain triggered a landslide near Tunnel 2 and exposed surface defects on the newly opened Mumbai-Pune Expressway missing link. The disruption has turned the project's first monsoon into a key test of its slope stability, drainage and construction quality."
     },
     {
       "sentiment": "positive",
@@ -247,12 +247,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-live-score-day-8-alexandra-eala-de-minaur-alexander-zverev-2941807-2026-07-06",
-      "headline": "Day 8 live score: Cobolli beats Minaur in straight sets, Paolini beats EalaWimbledon 2026 Live score Day 8: Alexandra Eala, the rising Filipino star, saw her Wimbledon run come to an end after a spirited battle as Jasmine Paolini prevailed 6-4, 4-6, 6-3 on Centre Court to reach another quarter-final. Meanwhile, Falvio Cobolli ousted fifth seed Minaur 7-5,7-6 (4), 6-3 to advance to quarters."
+      "headline": "Day 8 live score: Fery levels with Dimitrov after Cobolli advances, Eala losesWimbledon 2026 Live score Day 8: After trailing behind Fery has ignited a comeback as he wins the fourth set to push for a decider. Earlier, Alexandra Eala, the rising Filipino star, saw her Wimbledon run come to an end after a spirited battle as Jasmine Paolini prevailed 6-4, 4-6, 6-3 on Centre Court to reach another quarter-final. Meanwhile, Falvio Cobolli ousted fifth seed Minaur 7-5,7-6 (4), 6-3 to advance to quarters."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-tour-of-zimbabwe-t20i-series-bcci-squad-sanju-samson-vaibhav-sooryavanshi-2941870-2026-07-06",
-      "headline": "Sooryavanshi in, Samson out. Rinku back as BCCI announces squad for Zimbabwe T20IsIndia tour of Zimbabwe: Shreyas Iyer will lead a new-look squad for the three-match T20I series in Zimbabwe, starting July 23. While Rinku Singh is back, India have left out Sanju Samson."
+      "url": "https://www.indiatoday.in/india/story/e20-petrol-engine-damage-pib-fact-check-siam-sought-e10-for-older-vehicles-2941414-2026-07-06",
+      "headline": "E10 should continue or entire vehicle fleet\u2026: Old Niti Aayog report flags concernThe six-year-old roadmap shows that while carmakers' body SIAM backed India's ethanol-blending programme, it also pushed for parallel E10 availability, arguing that existing vehicles would need protection-grade fuel during the transition to higher ethanol blends."
     },
     {
       "sentiment": "positive",
@@ -275,14 +275,19 @@
       "headline": "Maharashtra bans Pak-made Goree Beauty Cream over toxic mercury, no expiry dateOfficials in Maharashtra have banned Goree Beauty Cream, a Pakistan-made skin-lightening cream, after tests found toxic mercury and no expiry date on the product. The action followed complaints from Nagpur, where users developed kidney-related ailments."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/2-assam-rifles-soldiers-killed-several-injured-in-ambush-by-militants-in-manipurs-ukhrul-2941877-2026-07-06",
-      "headline": "2 Assam Rifles soldiers killed in ambush by militants in Manipur's UkhrulManipur attack: Preliminary reports suggest that suspected militants had planted three Improvised Explosive Devices (IEDs) on either side of a bridge along the route. As the vehicles crossed the stretch, two IEDs went off, followed by heavy firing from multiple directions.."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-tour-of-zimbabwe-t20i-series-bcci-squad-sanju-samson-vaibhav-sooryavanshi-2941870-2026-07-06",
+      "headline": "Sooryavanshi in, Samson out. Rinku back as BCCI announces squad for Zimbabwe T20IsIndia tour of Zimbabwe: Shreyas Iyer will lead a new-look squad for the three-match T20I series in Zimbabwe, starting July 23. While Rinku Singh is back, India have left out Sanju Samson."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/lucknow-indian-gaurav-srivastava-cia-agent-indonesia-president-prabowo-subianto-billion-dollar-defence-deals-2941658-2026-07-06",
       "headline": "Indian man posed as CIA agent, wooed Indonesian President for defence dealsUS-based businessman Gaurav Srivastava, who was born in Lucknow, allegedly posed as a CIA agent to gain access to Indonesian President Prabowo Subianto and his inner circle, and secure preliminary defence agreements. Investigations said the proposed deals never materialised, while Srivastava denied posing as a CIA operative and rejected all allegations."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/2-assam-rifles-soldiers-killed-several-injured-in-ambush-by-militants-in-manipurs-ukhrul-2941877-2026-07-06",
+      "headline": "2 Assam Rifles soldiers killed in ambush by militants in Manipur's UkhrulManipur attack: Preliminary reports suggest that suspected militants had planted three Improvised Explosive Devices (IEDs) on either side of a bridge along the route. As the vehicles crossed the stretch, two IEDs went off, followed by heavy firing from multiple directions.."
     },
     {
       "sentiment": "positive",
@@ -295,14 +300,14 @@
       "headline": "Satluj review: When a democracy forgets its dead, cinema remembersRelease Date:Fri Jul 03, 2026Satluj movie review: Diljit Dosanjh's film follows Jaswant Singh Khalra as he traces the disappeared through official records and cremation logs. The film turns that investigation into a stark question about memory, accountability and constitutional rights."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/e20-protest-in-delhi-bjp-supporter-challenges-nitin-gadkari-mileage-claims-ethanol-policy-modi-2941154-2026-07-06",
-      "headline": "What was a hardcore BJP supporter doing at E20 petrol protest in Delhi?New Delhi's Jantar Mantar became the ground for the first protest against the Centre's decision to make the sale of 20% ethanol-blended (E20) petrol mandatory. Among the protesters were ardent BJP supporters and a person who said he had been linked to the RSS for decades."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-pm-narendra-modi-state-central-government-relationship-meeting-2938892-2026-07-06",
       "headline": "How Vijay is redefining Opposition politics: Target BJP, but tango with CentreFor C Joseph Vijay, opposing the BJP seemingly does not mean opposing the Centre. Even as he has positioned the BJP as his principal ideological enemy, the Tamil Nadu Chief Minister is pursuing a pragmatic working relationship with the Modi government, separating political battles from administrative priorities."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/e20-protest-in-delhi-bjp-supporter-challenges-nitin-gadkari-mileage-claims-ethanol-policy-modi-2941154-2026-07-06",
+      "headline": "What was a hardcore BJP supporter doing at E20 petrol protest in Delhi?New Delhi's Jantar Mantar became the ground for the first protest against the Centre's decision to make the sale of 20% ethanol-blended (E20) petrol mandatory. Among the protesters were ardent BJP supporters and a person who said he had been linked to the RSS for decades."
     },
     {
       "sentiment": "negative",
@@ -313,14 +318,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/krishna-mohan-appointed-interim-general-secretary-shri-ram-janmabhoomi-trust-2941864-2026-07-06",
       "headline": "Meet Krishna Mohan, former IFS officer leading Ram Mandir Trust for nowKrishna Mohan has been appointed interim General Secretary of the Shri Ram Janmabhoomi Teerth Kshetra Trust after Champat Rai resigned. The retired IFS officer from Hardoi is also the Trust's newest member."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/man-finds-rain-soaked-diary-on-roadside-every-page-tells-a-heartwarming-story-2940387-2026-07-04",
-      "headline": "Man finds rain-soaked diary on roadside, every page tells a heartwarming storyA man found a rain-soaked diary found on a roadside and appealed for help tracing its owner. The handwritten keepsake stirred viewers, who hoped the damaged memories could still be recovered."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/portugal-vs-spain-live-score-fifa-world-cup-2026-round-of-16-cristiano-ronaldo-updates-2942078-2026-07-06",
+      "headline": "POR vs ESP Live: Rafael Leao benched, Ronaldo hopes to haunt Spain again Portugal (POR) vs Spain (ESP) Live, FIFA World Cup: Spain and Portugal meet at Dallas Stadium in Arlington, Texas, in a blockbuster FIFA World Cup 2026 Round of 16 clash, with a place in the quarter-finals at stake. Cristiano Ronaldo's Portugal face a Spain side yet to concede in the tournament. Will the Spanish ruin Ronaldo's last dance?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-flavio-cobolli-beats-alex-de-minaur-world-cup-portugal-cristiano-ronaldo-spain-2942058-2026-07-06",
+      "headline": "Quarterfinal? Will watch Portugal vs Spain with dad: Cobolli after De Minaur win Wimbledon 2026: Flavio Cobolli beat Alex de Minaur in straight sets to reach another Wimbledon quarter-final. The win sustained his sharp Grand Slam rise, even as brutal heat disrupted play and tested everyone on Court One."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-t20-team-sitanshu-kotak-defends-shreyas-iyer-amid-transition-after-defeats-2942008-2026-07-06",
@@ -354,7 +364,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-live-score-day-8-alexandra-eala-de-minaur-alexander-zverev-2941807-2026-07-06",
-      "headline": "Day 8 live score: Cobolli beats Minaur in straight sets, Paolini beats Eala Wimbledon 2026 Live score Day 8: Alexandra Eala, the rising Filipino star, saw her Wimbledon run come to an end after a spirited battle as Jasmine Paolini prevailed 6-4, 4-6, 6-3 on Centre Court to reach another quarter-final. Meanwhile, Falvio Cobolli ousted fifth seed Minaur 7-5,7-6 (4), 6-3 to advance to quarters."
+      "headline": "Day 8 live score: Fery levels with Dimitrov after Cobolli advances, Eala loses Wimbledon 2026 Live score Day 8: After trailing behind Fery has ignited a comeback as he wins the fourth set to push for a decider. Earlier, Alexandra Eala, the rising Filipino star, saw her Wimbledon run come to an end after a spirited battle as Jasmine Paolini prevailed 6-4, 4-6, 6-3 on Centre Court to reach another quarter-final. Meanwhile, Falvio Cobolli ousted fifth seed Minaur 7-5,7-6 (4), 6-3 to advance to quarters."
     },
     {
       "sentiment": "positive",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-wfi-case-delhi-hc-show-cause-notice-two-weeks-asian-games-2941707-2026-07-06",
-      "headline": "Delhi HC sets two-week deadline for WFI to rule on Vinesh Phogat show-cause notice The Delhi High Court has ordered the WFI to decide Vinesh Phogat's show-cause notice within two weeks after giving her a personal hearing. The case keeps alive a larger dispute over exclusionary selection rules, maternity return, and governance in Indian wrestling."
+      "headline": "Delhi HC sets two-week deadline for WFI to rule on Vinesh Phogat show-cause noticeThe Delhi High Court has ordered the WFI to decide Vinesh Phogat's show-cause notice within two weeks after giving her a personal hearing. The case keeps alive a larger dispute over exclusionary selection rules, maternity return, and governance in Indian wrestling."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/uefa-fifa-world-cup-us-player-folarin-balogun-red-card-donald-trump-2941653-2026-07-06",
-      "headline": "Crossed red line: UEFA blasts FIFA's U-turn after Trump's red card intervention FIFA World Cup 2026: European football's governing body has blasted the decision to lift United States striker Folarin Balogun's mandatory suspension for the Belgium clash, warning that political intervention directly threatens the integrity of the game."
+      "headline": "Crossed red line: UEFA blasts FIFA's U-turn after Trump's red card interventionFIFA World Cup 2026: European football's governing body has blasted the decision to lift United States striker Folarin Balogun's mandatory suspension for the Belgium clash, warning that political intervention directly threatens the integrity of the game."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/naomi-osaka-vs-aryna-sabalenka-wimbledon-upset-quarter-finals-2941301-2026-07-06",
       "headline": "Sabalenka vents frustration after Wimbledon exit: Want to get completely drunkAryna Sabalenka admitted she wanted to get completely drunk after her Wimbledon title hopes ended with a straight-sets defeat to Naomi Osaka, who outplayed the World No. 1 to reach her maiden quarter-final at the All England Club."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/brazil-vs-norway-live-score-fifa-world-cup-2026-updates-round-of-16-neymar-haaland-2941298-2026-07-06",
-      "headline": "BRA 1-2 NOR Highlights: Haaland leads Norway to knock Brazil out in R16Brazil (BRA) vs Norway (NOR) Highlights, FIFA World Cup: (BRA 1-2 NOR) Norway knock Brazil out of the 2026 FIFA World Cup with a famous victory. Erling Haaland's brace and Orjan Nyland's heroics seal a quarter-final spot, while Neymar's late penalty proves only a consolation for the Selecao."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/naomi-osaka-beats-aryna-sabalenka-reaches-first-wimbledon-quarter-final-2941287-2026-07-05",
-      "headline": "Aryna Sabalenka crashes out as Naomi Osaka reaches maiden Wimbledon quartersNaomi Osaka defeated World No. 1 Aryna Sabalenka 6-2, 7-6(2) in a statement Centre Court display on Sunday to reach her maiden Wimbledon quarter-final."
     }
   ],
   "education": [
