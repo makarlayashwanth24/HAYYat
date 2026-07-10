@@ -2,8 +2,33 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-impact-salaries-govt-employee-pension-hike-inflation-state-finances-economy-2944845-2026-07-10",
+      "headline": "8th Pay Commission: Why its impact goes far beyond government salariesEconomists say the 8th Pay Commission will affect far more than central government salaries and pensions. Its recommendations could shape consumer demand, state finances, inflation and fiscal planning."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/file-early-stay-relaxed-why-the-income-tax-department-is-sending-sms-alerts-itr-filing-2944905-2026-07-10",
+      "headline": "File Early, Stay Relaxed: Why the Income Tax Department is sending SMS alertsThousands of taxpayers are receiving SMS reminders from the Income Tax Department asking them to file their ITR early. What's behind these messages?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-828-points-higher-nifty-above-24200-ril-it-banking-up-2-2944910-2026-07-10",
+      "headline": "Sensex ends 828 points higher, Nifty above 24,200; RIL up 2%The BSE Sensex surged 827.57 points, or 1.08%, to close at 77,569.39, while the NSE Nifty50 gained 244.10 points, or 1.02%, to settle at 24,206.90."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/pre-ipo-shares-explained-how-investors-buy-stocks-before-an-ipo-opens-risks-profit-2944884-2026-07-10",
+      "headline": "The IPO hasn't opened yet. So how are people already buying the shares?Investors are increasingly turning to the unlisted market to buy shares before an IPO opens. The route offers earlier access to company growth but comes with risks that differ from listed stocks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/itr-7-excel-utility-ay-2026-27-income-tax-e-filing-portal-2944830-2026-07-10",
+      "headline": "Income tax department launches ITR-7 Excel utility for AY 2026-27With the utility now live, eligible taxpayers can download it, fill in the required information offline, validate the details, generate a JSON file and upload it on the Income Tax e-Filing portal to complete the return filing process."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/tcs-hiring-rebound-9000-jobs-q1-results-headcount-cuts-layoffs-what-changed-2944787-2026-07-10",
-      "headline": "How did TCS go from cutting 30,000 jobs to adding 9,000 in just 3 quarters?TCS added 9,279 employees in the April-June quarter after steep headcount declines in late 2025. The shift reflects selective hiring, redeployment and rising demand for AI and digital skills."
+      "headline": "TCS's hiring surprise: Why India's biggest IT firm is adding jobs againTCS added 9,279 employees in the April-June quarter after steep headcount declines in late 2025. The shift reflects selective hiring, redeployment and rising demand for AI and digital skills."
     },
     {
       "sentiment": "negative",
@@ -23,7 +48,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sensex-jumps-700-points-why-stock-market-rising-today-tcs-q1-results-it-stocks-crude-oil-2944608-2026-07-10",
-      "headline": "Sensex jumps 700 points: Why is the stock market rising today?Around 10 am, the BSE Sensex was trading 800.61 points, or 1.04%, higher at 77,542.43, while the NSE Nifty50 gained 247.80 points, or 1.03%, to 24,210.60."
+      "headline": "Sensex jumps 800 points: Why is stock market rising today?Around 10 am, the BSE Sensex was trading 800.61 points, or 1.04%, higher at 77,542.43, while the NSE Nifty50 gained 247.80 points, or 1.03%, to 24,210.60."
     },
     {
       "sentiment": "positive",
@@ -74,38 +99,63 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/old-vs-new-tax-regime-which-one-will-help-you-save-more-tax-2943969-2026-07-09",
       "headline": "Old vs new tax regime: Which one will help you save more tax?Before you click 'Submit' on your ITR, make sure you've chosen the right tax regime. A few minutes spent comparing the old and new regimes could translate into substantial tax savings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/tcs-q1-results-preview-share-price-ai-outlook-deal-wins-market-news-2943882-2026-07-09",
-      "headline": "TCS shares fall 2% ahead of Q1 results. Can it revive investor confidence?TCS enters the June-quarter earnings season with investors braced for weak spending and softer margins. Its commentary on AI, demand and deal wins could shape sentiment across the IT sector."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/sensex-nifty-rise-despite-us-iran-strikes-brent-crude-stays-below-crisis-levels-2943820-2026-07-09",
-      "headline": "Missiles fly, markets rise: Why Sensex is climbing despite US-Iran escalationFresh US strikes on Iran and Tehran's threat have reignited tensions around the Strait of Hormuz, after attacks on commercial shipping. Yet, on Dalal Street, investors are responding with surprising calm."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-rise-market-up-today-why-reason-us-iran-tensions-crude-below-80-fii-buying-2943796-2026-07-09",
-      "headline": "Sensex jumps 600 points despite US-Iran tensions: Why is market rising today?As of 9:40 am, the BSE Sensex was trading 516.15 points higher, or 0.67%, at 77,019.75, while the NSE Nifty50 gained 139.90 points, or 0.59%, to trade at 24,021.95."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-200-points-higher-nifty-nears-24000-despite-us-iran-tension-crude-oil-rise-2943789-2026-07-09",
-      "headline": "Markets recover despite US-Iran tensions; IT stocks under pressureAt 9:40 am, the BSE Sensex was up 516.15 points, or 0.67%, at 77,019.75, while the NSE Nifty50 gained 139.90 points, or 0.59%, to 24,021.95."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-today-stock-market-opening-crude-near-80-tcs-result-trade-setup-nse-bse-us-iran-tensions-2943782-2026-07-09",
-      "headline": "Sensex, Nifty today: Will markets crash again amid rising US-Iran tension?GIFT Nifty futures were trading at 23,995.5 at around 7:50 am, indicating that the NSE Nifty50 could open above Wednesday's closing level of 23,882.05."
     }
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ali-fazal-shares-handwritten-note-to-fans-for-giving-raakh-character-home-in-hearts-2944976-2026-07-10",
+      "headline": "Ali Fazal shares handwritten note to fans for giving Raakh character home in hearts Actor Ali Fazal shared a handwritten note thanking fans for embracing his Raakh character, SI Jayprakash Jatav. The actor said his heart was \"full\" as the series continues to enjoy a strong global response on Prime Video."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-dhamaal-4-confirms-franchise-future-with-dhamaal-5-tease-2944965-2026-07-10",
+      "headline": "Ajay Devgn's Dhamaal 4 confirms franchise future with Dhamaal 5 tease The makers have announced Dhamaal 5 in the final moments of Ajay Devgn's Dhamaal 4. Filmmaker Farhad Samji will direct the next instalment, even as audience reactions remain mixed."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prakash-raj-voter-id-case-bengaluru-court-recalls-warrant-grants-bail-2944935-2026-07-10",
+      "headline": "Prakash Raj gets bail in multiple voter ID case in Bengaluru court Actor Prakash Raj appeared before a Bengaluru court in the voter ID case and sought bail after a non-bailable warrant. The court recalled the warrant after his counsel said summons were never served and granted bail on a cash surety of Rs 4,000."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/r-chezhiyan-dies-at-57-after-prolonged-illness-tamil-cinema-mourns-2944900-2026-07-10",
+      "headline": "National award-winning Tamil director-cinematographer Chezhiyan dies at 57 National Award-winning cinematographer, director and writer R Chezhiyan died in Chennai on Friday after a prolonged illness. Colleagues, actors and fans remembered his realist cinema and lasting contribution to Tamil films."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/idhayam-murali-review-atharvaas-love-story-fails-to-confess-its-own-feelings-2944867-2026-07-10",
+      "headline": "Idhayam Murali review: Atharvaa's love story fails to confess its own feelingsRelease Date:Fri Jul 10, 2026 Idhayam Murali movie review: Atharvaa headlines Idhayam Murali as a man who cannot confess his love. The film lands its biggest laughs through cameos and comedy but struggles to deepen its relationships."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/delhi-high-court-upholds-actor-rajpal-yadavs-conviction-in-cheque-bounce-case-calls-his-conduct-dubious-2944864-2026-07-10",
+      "headline": "Rajpal Yadav gets 3-month jail in cheque bounce case; court calls conduct 'dubious' The Delhi High Court upheld actor Rajpal Yadav's conviction in seven cheque bounce cases and sentenced him to three months' simple imprisonment, with all sentences to run concurrently. The court noted that Yadav repeatedly failed to honour his commitments to settle the dispute despite multiple opportunities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/bts-swim-copyright-lawsuit-bighit-denies-copying-claims-2944854-2026-07-10",
+      "headline": "BTS label denies Swim copyright lawsuit, says song was created independently BigHit Music has rejected a US copyright lawsuit alleging BTS' single Swim copied an unreleased demo by three American songwriters. The dispute centres on claims the demo was circulated within the industry before the chart-topping track's release."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/dhamaal-4-movie-review-in-ajay-devgn-film-you-will-find-buried-treasure-before-you-find-the-comedy-2944823-2026-07-10",
+      "headline": "Dhamaal 4 review: You will find buried treasure before you find the comedyRelease Date:Fri Jul 10, 2026 Dhamaal 4 review: Ajay Devgn's film follows a familiar treasure hunt as more players join the chase. But how far can weak writing, bad AI visuals and dated humour take the franchise's comic spark?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/govinda-lock-upp-promo-ssunita-ahuja-shoot-him-remark-bullet-in-pocket-2944834-2026-07-10",
+      "headline": "Govinda enters Lock Upp with bullet in pocket, dares wife Ssunita to shoot him Actor Govinda made a surprise appearance on Lock Upp: Sach Ya Sazaa and jokingly responded to wife Ssunita Ahuja's earlier remark about shooting him in the chest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/lenin-review-akhil-akkineni-rural-drama-falters-on-execution-2944807-2026-07-10",
+      "headline": "Lenin review: Akhil Akkineni's film confuses a good story with a good movieRelease Date:Fri Jul 10, 2026 Lenin movie review: Akhil Akkineni's Lenin sets up a rural mystery around a prison returnee in Srirampuram. Its ambition and strong moments are undercut by weak character groundwork and shock-driven twists."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-shreya-kalra-says-kushal-tandon-dmed-her-while-dating-shivangi-joshi-2944779-2026-07-10",
-      "headline": "Lock Upp: Shreya Kalra says Kushal Tandon DMed her while dating Shivangi Joshi Lock Upp 2 contestant Shreya Kalra alleged that Kushal Tandon had messaged her while he was dating Shivangi Joshi. She claimed she later showed their chats to Shivangi to clear any misunderstanding."
+      "headline": "Lock Upp: Shreya Kalra claims Kushal Tandon DMed her while dating Shivangi Joshi Lock Upp 2 contestant Shreya Kalra alleged that Kushal Tandon had messaged her while he was dating Shivangi Joshi. She claimed she later showed their chats to Shivangi to clear any misunderstanding."
     },
     {
       "sentiment": "positive",
@@ -146,68 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/reviews/story/moana-review-dwayne-johnson-keeps-disney-live-action-remake-afloat-2944627-2026-07-10",
       "headline": "Moana review: Dwayne Johnson keeps Disney's live-action remake afloatRelease Date:Fri Jul 10, 2026 Moana 2026 movie review: Disney's live-action revisits the beloved animated adventure with Catherine Laga'aia and Dwayne Johnson leading the voyage. The remake delivers spectacle and sincerity, but its safest choices leave Johnson's Maui doing much of the heavy lifting."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/prince-narula-yuvika-chaudhary-marriage-rumours-pregnancy-anxiety-vlog-2944615-2026-07-10",
-      "headline": "We even thought of separating: Prince-Yuvika break silence on marriage rumours Prince Narula and Yuvika Chaudhary recently spoke about the strain their marriage faced during her pregnancy. They said a misread vlog, public scrutiny and anxiety deepened the pressure before they worked through it."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aryan-khan-attends-raghav-juyals-birthday-bash-shehnaaz-gill-joins-amid-dating-buzz-2944584-2026-07-10",
-      "headline": "Aryan Khan attends Raghav Juyal's birthday bash, Shehnaaz joins amid dating buzz Aryan Khan made a rare outing at Raghav Juyal's birthday celebration in Mumbai. Shehnaaz Gill also attended the bash, with their appearance together fuelling ongoing dating buzz after videos from the event surfaced online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/dada-bollywood-biopics-rajkummar-rao-playing-lives-of-others-2944275-2026-07-10",
-      "headline": "Dada of biopics: Rajkummar Rao is living it up playing the lives of others Rajkummar Rao seems to be emerging as Bollywood's go-to actor for biographical roles. His act as Sourav Ganguly in Dada marks the eighth time he'll play a real-life protagonist."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/mother-promise-review-dhananjaya-poornachandra-mysore-kannada-comedy-2944531-2026-07-10",
-      "headline": "Mother Promise review: A smart comedy wrapped in absurdity, chaos and madnessRelease Date:Fri Jul 10, 2026 Mother Promise movie review: Dhananjaya's Mother Promise embraces absurdity with confidence, delivering relentless laughs, quirky characters and enough heart to leave audiences walking out of theatres with a smile."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/akanksha-chamola-lock-upp-revelations-outplay-gaurav-khanna-bigg-boss-2944152-2026-07-10",
-      "headline": "Why Akanksha Chamola is playing the reality TV game better than Gaurav Khanna On Lock Upp, Akanksha Chamola has spoken openly about her separation, her sexuality and her differences with fellow contestants. Her approach stands in contrast to Gaurav Khanna's more guarded run on Bigg Boss 19."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/priyanka-chopra-heads-of-state-emmy-nomination-outstanding-television-movie-2944552-2026-07-10",
-      "headline": "Priyanka Chopra's Heads of State bags Emmy nod for Outstanding Television Movie Actor Priyanka Chopra's Heads of State has been nominated for Outstanding Television Movie at the 78th Primetime Emmy Awards. The film also stars John Cena and Idris Elba in key roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-wimbledon-actor-facetimes-nick-jonas-from-centre-court-karolina-muchova-coco-gauff-2944548-2026-07-10",
-      "headline": "Priyanka Chopra gives Nick Jonas a front-row Wimbledon tour on video call Priyanka Chopra attended Wimbledon solo and video-called Nick Jonas from Centre Court. Several pictures and videos of the global icon from the match have emerged online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rajesh-sharma-hospitalisation-sudipa-chatterjee-post-deleted-aicwa-probe-2944545-2026-07-10",
-      "headline": "Actor Rajesh Sharma's medical statement removed as film body seeks probe The statement shared by actor Sudipa Chatterjee on Rajesh Sharma's medical emergency is no longer available on social media. The development comes as the film workers' body has called for a high-level probe into the circumstances that allegedly led to the actor's hospitalisation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-changes-cbfc-a-certificate-explained-vijay-tvk-reference-dropped-scenes-cut-dialogues-muted-2944431-2026-07-09",
-      "headline": "Jana Nayagan censor cuts explained: TVK reference dropped, cuss words muted The Central Board of Film Certification (CBFC) made several changes before clearing Vijay's Jana Nayagan with an A certificate. Here's a look at every dialogue, visual and reference that was removed, muted or replaced before the film's release."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/actor-sudhanshu-pandey-indirectly-slams-ssunita-ahujas-conduct-on-lock-upp-2-2944442-2026-07-09",
-      "headline": "Actor Sudhanshu Pandey indirectly slams Ssunita Ahuja's conduct on Lock Upp 2 Actor Sudhanshu Pandey questioned the open use of abusive language on reality shows, in remarks seen as an indirect swipe at Ssunita Ahuja on Lock Upp 2. He said normalising insults for entertainment sets a poor example and harms society."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/i-trusted-police-to-control-crowd-yet-i-was-blamed-for-deaths-vijay-in-first-visit-to-karur-as-cm-2944773-2026-07-10",
-      "headline": "I trusted cops, they blamed me for stampede: Vijay in first visit to Karur as CMSpeaking in Karur, Vijay rejected allegations that his party was responsible for last year's deadly stampede, questioning whether the police had adequate crowd control measures in place on the fateful day."
+      "url": "https://www.indiatoday.in/world/story/sheikh-hasina-surrender-with-awami-league-party-workers-in-december-to-bangladesh-2944820-2026-07-10",
+      "headline": "They might kill me: Hasina says will return to Bangladesh, surrender in DecemberFormer Bangladesh Prime Minister Sheikh Hasina said she and her Awami League colleagues would return to their home country in December and surrender to the authorities. Declaring that \"they might kill me\", Hasina said she would return from India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tcs-hiring-rebound-9000-jobs-q1-results-headcount-cuts-layoffs-what-changed-2944787-2026-07-10",
-      "headline": "How did TCS go from cutting 30,000 jobs to adding 9,000 in just 3 quarters?TCS added 9,279 employees in the April-June quarter after steep headcount declines in late 2025. The shift reflects selective hiring, redeployment and rising demand for AI and digital skills."
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-complainanat-abuse-removed-after-alleged-abuse-during-allahabad-high-court-hearing-2944891-2026-07-10",
+      "headline": "You are ordering us? SC judge stunned as petitioner flings papers, shouts abusesA complainant was forcibly removed from the Supreme Court after he shouted abuses and threw documents in the courtroom during a hearing of his petition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/modi-australia-visit-anti-immigrant-far-right-protestor-hugo-lennon-breaks-into-melbourne-hotel-raises-slogans-abuses-2944909-2026-07-10",
+      "headline": "Anti-immigrant protester breaks into Modi's Melbourne hotel, raises slogansJust hours after Prime Minister Narendra Modi arrived in Australia, a far-right anti-immigrant activist breached security at his Melbourne hotel and raised slogans. The same protester resurfaced the next day outside PM Modi's diaspora event, where his demonstration was drowned out by music and cheering crowds."
     },
     {
       "sentiment": "positive",
@@ -221,18 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/ikka-review-sunny-deol-akshaye-khanna-courtroom-thriller-feels-dated-and-predictable-2944747-2026-07-10",
-      "headline": "Ikka review: Sunny Deol, Akshaye Khanna courtroom thriller is two decades lateRelease Date:Fri Jul 10, 2026Ikka movie review: Sunny Deol's Arjun takes up Akshaye Khanna's explosive case after initially refusing it. The courtroom battle ties privilege and justice to a personal family crisis."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/vijay-karur-stampede-black-dress-jobs-victims-families-2944800-2026-07-10",
-      "headline": "How Vijay, in full black attire, made a statement in KarurVijay returned to Karur on Friday as Chief Minister months after a stampede at his rally killed 41 people. Dressed entirely in black, he appeared to signal grief and solidarity with the affected families."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/latest-auto-news/story/e20-debate-sharp-rise-in-premium-petrol-like-xp95-xp100-speed-97-demand-at-delhi-pumps-2944811-2026-07-10",
-      "headline": "E20 concerns drive sharp rise in premium petrol demand at Delhi pumpsDemand for premium petrol such as XP95, XP100 and Speed 97 is rising sharply as owners of older petrol vehicles look for alternatives amid concerns over the impact of E20 fuel on mileage and long-term engine health."
+      "url": "https://www.indiatoday.in/movies/reviews/story/lenin-review-akhil-akkineni-rural-drama-falters-on-execution-2944807-2026-07-10",
+      "headline": "Lenin review: Akhil Akkineni's film confuses a good story with a good movieRelease Date:Fri Jul 10, 2026Lenin movie review: Akhil Akkineni's Lenin sets up a rural mystery around a prison returnee in Srirampuram. Its ambition and strong moments are undercut by weak character groundwork and shock-driven twists."
     },
     {
       "sentiment": "negative",
@@ -241,13 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-karur-stampede-visit-tragedy-handling-tvk-criticism-backlash-election-result-2944634-2026-07-10",
-      "headline": "Vijay the shock absorber: How TVK chief navigated the Karur nightmareIt's nearly a year since 41 people were killed at Vijay's election rally in Karur. Now the Chief Minister, Vijay is visiting Karur, from where he rushed away after the tragedy. He will give letters of compassionate appointments to family members of 32 victims. Here's how Vijay navigated the Karur tragedy with heart and mind."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhamaal-4-movie-release-and-review-live-updates-indra-kumar-ajay-devgn-riteish-deshmukh-arshad-warsi-jaaved-jaaferi-sanjay-mishra-ravi-kishan-2944558-2026-07-10",
-      "headline": "Dhamaal 4 Movie Release and Review Live: Ajay's Drishyam 3 teaser attached to filmDhamaal 4 Movie Review and Release Live Updates: Ajay Devgn's Dhamaal 4 is now playing in theatres. The comedy entertainer, featuring Riteish Deshmukh, Arshad Warsi, Jaaved Jaaferi and an ensemble cast, has finally released, with the first audience reactions and reviews beginning to surface online."
+      "url": "https://www.indiatoday.in/science/story/india-monsoon-to-take-break-imd-july-rainfall-forecast-explained-2944824-2026-07-10",
+      "headline": "Monsoon to take a break: Dry weather will return to these placesThe recent spell of widespread showers changed India's season for the better, but weather patterns are once again evolving, and celebrations might have to be paused. Here's why."
     },
     {
       "sentiment": "positive",
@@ -256,23 +246,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/el-nino-to-take-revenge-after-9-days-of-surplus-rain-monsoon-to-weaken-again-2944270-2026-07-10",
-      "headline": "El Nino's revenge: After 9 days of heavy rain, monsoon to weaken againIndia's monsoon has recovered after nine straight days of above-average rain. Forecasts now point to a fresh lull that could strain newly sown kharif crops."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/australian-woman-italy-holiday-spirals-into-horror-as-she-is-kidnapped-twice-in-a-day-2944664-2026-07-10",
-      "headline": "Woman kidnapped during Italy holiday, not once, but twice in a dayAn Australian woman said she escaped two alleged kidnapping attempts by different men in Sicily within hours. The ordeal left her shaken and forced her to put her plans to buy a house in Italy on hold."
+      "url": "https://www.indiatoday.in/movies/reviews/story/ikka-review-sunny-deol-akshaye-khanna-courtroom-thriller-feels-dated-and-predictable-2944747-2026-07-10",
+      "headline": "Ikka review: Sunny Deol, Akshaye Khanna courtroom thriller is two decades lateRelease Date:Fri Jul 10, 2026Ikka movie review: Sunny Deol's Arjun takes up Akshaye Khanna's explosive case after initially refusing it. The courtroom battle ties privilege and justice to a personal family crisis."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-england-t20i-collapse-analysis-gautam-gambhir-shreyas-iyer-2944561-2026-07-10",
-      "headline": "Rubbish: Gautam Gambhir's oldest insult in England just got a new meaningA year apart, England has once again laid bare Gautam Gambhir's tactical shortcomings. Gambhir is undoubtedly one of the finest T20 coaches around, so why do his teams keep falling apart when the conditions become even slightly challenging?"
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-delimitation-row-vijay-karur-says-state-will-not-accept-fresh-bill-2944847-2026-07-10",
+      "headline": "Tamil Nadu won't accept delimitation: From Karur, Vijay's message to CentreVijay reiterated TVK's long-standing opposition to delimitation, arguing it would weaken southern states' representation and reduce Tamil Nadu's share in Parliament and central funding. Recalling his pre-election stand, he urged the Centre to drop the proposal, saying the state would resist any attempt to revive it."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-india-t20i-slump-review-england-series-devajit-saikia-2944761-2026-07-10",
-      "headline": "BCCI concerned over India's T20I slump, review planned after England seriesAfter back-to-back T20I series defeats against Ireland and England, the BCCI will review India's recent slump, with secretary Devajit Saikia admitting the board is \"deeply concerned\" by the team's performances."
+      "url": "https://www.indiatoday.in/business/story/tcs-hiring-rebound-9000-jobs-q1-results-headcount-cuts-layoffs-what-changed-2944787-2026-07-10",
+      "headline": "TCS's hiring surprise: Why India's biggest IT firm is adding jobs againTCS added 9,279 employees in the April-June quarter after steep headcount declines in late 2025. The shift reflects selective hiring, redeployment and rising demand for AI and digital skills."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/dhamaal-4-movie-review-in-ajay-devgn-film-you-will-find-buried-treasure-before-you-find-the-comedy-2944823-2026-07-10",
+      "headline": "Dhamaal 4 review: You will find buried treasure before you find the comedyRelease Date:Fri Jul 10, 2026Dhamaal 4 review: Ajay Devgn's film follows a familiar treasure hunt as more players join the chase. But how far can weak writing, bad AI visuals and dated humour take the franchise's comic spark?"
     },
     {
       "sentiment": "negative",
@@ -286,33 +276,43 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/anandiben-patel-expert-mother-remark-women-work-caregiving-debate-educ-2944760-2026-07-10",
-      "headline": "If 'expert mother' were a qualification, what jobs would it qualify you for?Every qualification in India comes with a syllabus, an examination and a certificate. Except for one. The title of \"expert mother\" has no curriculum, no assessment and no end. Yet millions of women are expected to earn it before their professional achievements are deemed complete."
+      "url": "https://www.indiatoday.in/lifestyle/society/story/anandiben-patel-expert-mother-remark-women-backlash-2944913-2026-07-10",
+      "headline": "Anandiben Patel's 'expert mothers' remark asks women to qualify for dreams men don'tUttar Pradesh Governor Anandiben Patel suggested women should become expert mothers before aspiring to careers such as IAS or teaching. Of course, women had things to say!"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/australian-woman-italy-holiday-spirals-into-horror-as-she-is-kidnapped-twice-in-a-day-2944664-2026-07-10",
+      "headline": "Woman kidnapped during Italy holiday, not once, but twice in a dayAn Australian woman said she escaped two alleged kidnapping attempts by different men in Sicily within hours. The ordeal left her shaken and forced her to put her plans to buy a house in Italy on hold."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/h1b-visa-google-employee-fired-weeks-after-joining-60-day-us-deadline-2944733-2026-07-10",
-      "headline": "60 days or leave: H-1B visa employee gets fired weeks after joining GoogleA software engineer on an H-1B visa lost his Google job just weeks after joining, triggering a 60-day deadline to find a new employer or leave the US. His story shows the growing uncertainty many foreign tech workers, especially Indians, are facing amid layoffs."
+      "url": "https://www.indiatoday.in/india/law-news/story/delhi-high-court-upholds-actor-rajpal-yadavs-conviction-in-cheque-bounce-case-calls-his-conduct-dubious-2944864-2026-07-10",
+      "headline": "Rajpal Yadav gets 3-month jail in cheque bounce case; court calls conduct 'dubious'The Delhi High Court upheld actor Rajpal Yadav's conviction in seven cheque bounce cases and sentenced him to three months' simple imprisonment, with all sentences to run concurrently. The court noted that Yadav repeatedly failed to honour his commitments to settle the dispute despite multiple opportunities."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-jumps-700-points-why-stock-market-rising-today-tcs-q1-results-it-stocks-crude-oil-2944608-2026-07-10",
-      "headline": "Sensex jumps 700 points: Why is the stock market rising today?Around 10 am, the BSE Sensex was trading 800.61 points, or 1.04%, higher at 77,542.43, while the NSE Nifty50 gained 247.80 points, or 1.03%, to 24,210.60."
+      "url": "https://www.indiatoday.in/jobs/story/what-is-a-forward-deployed-engineer-salary-resume-skills-ai-courses-career-path-educ-2944749-2026-07-10",
+      "headline": "This AI job pays up to $1 million: Why Forward Deployed Engineers are everywhereForward Deployed Engineers, or FDEs, have become one of the fastest-growing AI job roles worldwide. From OpenAI to Cognizant, companies are hiring professionals who can bridge engineering and business. Here's why demand is soaring, what skills you need, how to prepare, and where the opportunities are."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/e20-petrol-row-tehseen-poonawalla-seeks-live-meeting-with-nitin-gadkari-ethanol-blended-petrol-2944216-2026-07-09",
-      "headline": "Gadkari wanted one ethanol victim, we will present six: Protesters on E20 challengeUnion minister Nitin Gadkari dared critics of the E20 rollout to bring him one person whose vehicle had been damaged due to ethanol-blended petrol. Protesters have accepted his challenge and said they will present the minister with not one, but six such car owners. They have sought an appointment with him."
+      "url": "https://www.indiatoday.in/jobs/story/microsoft-layoffs-reveal-the-management-diet-why-companies-want-fewer-managers-educ-2944876-2026-07-10",
+      "headline": "Microsoft layoffs reveal the management diet: Why companies want fewer managersMicrosoft's latest layoffs have put managers under the spotlight, but AI is not replacing them altogether. Instead, companies are cutting unnecessary management layers while redefining what leadership looks like. Experts explain why this shift is happening, what it means for careers, and the skills professionals will need to stay relevant."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/jd-vance-milwaukee-speech-poster-glare-white-house-meidastouch-row-2944638-2026-07-10",
-      "headline": "Did White House accidentally call JD Vance 'dumb a**' after speech gaffe?A White House post calling a journalist a \"dumb a**\" sparked online mockery after footage suggested JD Vance's own handling of a poster -- not an altered video -- had obscured the image, leading critics to say the administration had inadvertently insulted the vice president."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/christopher-nolan-tom-holland-mumbai-the-odyssey-india-premiere-matt-damon-2944791-2026-07-10",
+      "headline": "Christopher Nolan, Tom Holland arrive in Mumbai for The Odyssey premiere. PicsDirector Christopher Nolan and actor Tom Holland arrived in Mumbai for The Odyssey screening. The film is set to have Christopher Nolan's first-ever premiere in India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-australia-uranium-pact-congress-says-deal-predated-modi-ptag-2944642-2026-07-10",
-      "headline": "Not a Modi breakthrough, Australia approved uranium sales to India in 2011: CongressThe Congress criticised the BJP's claim that Australia's uranium supply deal was a Modi-era breakthrough, saying the process began in 2011 after the India-US nuclear agreement under the previous UPA government."
+      "url": "https://www.indiatoday.in/india/story/pm-modi-three-nation-tour-new-zealand-christopher-luxon-greet-prime-minister-narendra-modi-hug-lands-auckland-2944922-2026-07-10",
+      "headline": "Video: New Zealand's Luxon greets PM Modi with warm hug on arrival in AucklandPM Modi's two-day visit to New Zealand aims to deepen bilateral ties, building on Christopher Luxon's March 2025 India visit and the recently signed India-New Zealand Free Trade Agreement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/i-trusted-police-to-control-crowd-yet-i-was-blamed-for-deaths-vijay-in-first-visit-to-karur-as-cm-2944773-2026-07-10",
+      "headline": "I trusted cops, they blamed me for stampede: Vijay in first visit to Karur as CMSpeaking in Karur, Vijay rejected allegations that his party was responsible for last year's deadly stampede, questioning whether the police had adequate crowd control measures in place on the fateful day."
     },
     {
       "sentiment": "negative",
@@ -321,6 +321,26 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shree-charani-test-debut-india-england-first-womens-test-lords-2944903-2026-07-10",
+      "headline": "Shree Charani rewarded for T20 World Cup heroics, earns maiden Test cap at Lord's ENGW vs INDW, Only Test Day 1: Shree Charani made her Test debut at the Lord's after her stupendous campaign in the Women's T20 World Cup where she took 14 wickets from five matches."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-only-test-lords-day-1-updates-harmanpreet-kaur-2944880-2026-07-10",
+      "headline": "Only Women's Test, Day 1: Live Score and Updates from Lord's England vs India, Only Women's Test, Day 1 Live Updates: England have won the toss and opted to field first at the Lord's. Alice Capsey and Mady Villiers are making their Test debuts for the hosts while Shree Charani got her maiden Test cap for India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-t20i-harry-brook-targets-no-1-ranking-series-win-2944837-2026-07-10",
+      "headline": "England chase No.1 T20I ranking after series win vs India, says Harry Brook England captain Harry Brook has targeted the No. 1 spot in the ICC men's T20I rankings after his side wrapped up the series against India, calling it \"definitely a prize\" worth chasing."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/tennis/story/coco-gauff-wimbledon-semi-final-loss-angry-bettors-abuse-motivation-2944826-2026-07-10",
+      "headline": "Coco Gauff hits back at haters after Wimbledon exit: Will tag them when I win Coco Gauff shrugged off the criticism following her Wimbledon heartbreak, saying hate from trolls and bettors will only fuel her motivation to bounce back stronger."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-australia-match-after-bbl-india-announcement-report-claims-bcci-talks-2944802-2026-07-10",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/roger-federer-wimbledon-viral-photo-andy-roddick-reveals-cheeky-royal-box-reply-2944649-2026-07-10",
-      "headline": "Thought Roger Federer was alone at Wimbledon? His cheeky reply says otherwise Roger Federer's appearance in Wimbledon's Royal Box during the Championships sparked widespread discussion, with the image of the Swiss legend quickly going viral on social media. Former world No.1 Andy Roddick has now opened up about the moment."
+      "headline": "Thought Roger Federer was alone at Wimbledon? His cheeky reply says otherwiseRoger Federer's appearance in Wimbledon's Royal Box during the Championships sparked widespread discussion, with the image of the Swiss legend quickly going viral on social media. Former world No.1 Andy Roddick has now opened up about the moment."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-england-t20i-collapse-analysis-gautam-gambhir-shreyas-iyer-2944561-2026-07-10",
-      "headline": "Rubbish: Gautam Gambhir's oldest insult in England just got a new meaning A year apart, England has once again laid bare Gautam Gambhir's tactical shortcomings. Gambhir is undoubtedly one of the finest T20 coaches around, so why do his teams keep falling apart when the conditions become even slightly challenging?"
+      "headline": "Rubbish: Gautam Gambhir's oldest insult in England just got a new meaningA year apart, England has once again laid bare Gautam Gambhir's tactical shortcomings. Gambhir is undoubtedly one of the finest T20 coaches around, so why do his teams keep falling apart when the conditions become even slightly challenging?"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/morocco-coach-mohamed-ouahbi-eyes-world-cup-revenge-after-france-defeat-2944599-2026-07-10",
-      "headline": "Morocco coach eyes World Cup revenge after second straight defeat to France Morocco coach Mohamed Ouahbi vowed his side would return stronger after their World Cup campaign ended with a 2-0 defeat to France, saying the Atlas Lions would target revenge when the two teams meet again on the biggest stage."
+      "headline": "Morocco coach eyes World Cup revenge after second straight defeat to FranceMorocco coach Mohamed Ouahbi vowed his side would return stronger after their World Cup campaign ended with a 2-0 defeat to France, saying the Atlas Lions would target revenge when the two teams meet again on the biggest stage."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/pm-modi-albanese-sports-roadmap-australia-backs-india-2036-olympics-bid-2944585-2026-07-10",
-      "headline": "PM Modi, Albanese lay down sports roadmap between India, Australia at iconic MCG Prime Minister Narendra Modi and Australian Prime Minister Anthony Albanese on Friday unveiled the India-Australia Sports Collaboration Roadmap at the Melbourne Cricket Ground (MCG), as Australia backed India's bid to host the 2036 Olympic Games."
+      "headline": "PM Modi, Albanese lay down sports roadmap between India, Australia at iconic MCGPrime Minister Narendra Modi and Australian Prime Minister Anthony Albanese on Friday unveiled the India-Australia Sports Collaboration Roadmap at the Melbourne Cricket Ground (MCG), as Australia backed India's bid to host the 2036 Olympic Games."
     },
     {
       "sentiment": "positive",
@@ -455,26 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-harshit-rana-injury-2944397-2026-07-09",
       "headline": "Harshit Rana returns from 4-month injury layoff, to be injured againIndia pacer Harshit Rana has been ruled out of the remaining two T20Is against England with a hamstring injury, just weeks after returning from a four-month layoff. Spinner Varun Chakravarthy has also been sidelined with a similar injury."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-live-score-4th-t20i-bristol-vaibhav-sooryavanshi-shreyas-iyer-2944350-2026-07-09",
-      "headline": "4th T20I Highlights: Iyer's Men in Blue get walloped thanks to Brook, SaltIndia (IND) vs England (ENG) Highlights 4th T20I: Shreyas Iyer suffered another series defeat as Harry Brook and Phil Salt powered England to a dominant nine-wicket victory in Bristol. The hosts chased down India's target with ease to seal the series, leaving Iyer still searching for his first title as captain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-sinner-vs-djokovic-match-timing-controversy-2944326-2026-07-09",
-      "headline": "Wimbledon rigged? Djokovic vs Sinner semi-final timing causes major controversyWimbledon's decision to schedule Novak Djokovic and Jannik Sinner's semi-final as the second match on Centre Court has sparked speculation among fans, with many questioning whether the order of play gives the world No.1 an advantage amid London's soaring temperatures."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/arnav-paparkar-wimbledon-2026-jordan-lee-ends-indian-boys-singles-quarterfinal-run-2944264-2026-07-09",
-      "headline": "Arnav Paparkar's dream run ends after quarterfinal defeat to Jordan LeeArnav Paparkar's memorable Wimbledon campaign came to an end with a 6-2, 7-5 quarterfinal defeat to USA's Jordan Lee. Despite the loss, the Indian youngster announced himself on the big stage with a landmark run to the last eight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/portugal-new-coach-jorge-jesus-cristiano-ronaldo-fifa-world-cup-al-nassr-2944256-2026-07-09",
-      "headline": "Portugal set to appoint Ronaldo's favourite coach after World Cup debaclePortugal are set to appoint Jorge Jesus as their new head coach following Roberto Martinez's departure after the FIFA World Cup. The move could see Cristiano Ronaldo reunited with his former manager from Al Nassr."
     }
   ],
   "education": [
