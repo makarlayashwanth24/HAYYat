@@ -104,6 +104,26 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/why-christopher-nolan-chose-mumbai-the-odyssey-india-premiere-2945642-2026-07-11",
+      "headline": "Why Christopher Nolan chose Mumbai? Real reason behind The Odyssey India premiere Director Christopher Nolan has opened up on the real reason behind holding The Odyssey's India premiere in Mumbai, linking the visit to his previous experience of the city's vibrant film culture and audiences."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/matt-damon-shekhar-kapur-collaboration-heartfelt-exchange-the-odyssey-nolan-2945636-2026-07-11",
+      "headline": "I'd give my right arm: Shekhar Kapur to Matt Damon after he recalls missing his film Filmmaker Shekhar Kapur has warmly responded to Matt Damon's wish to collaborate with him. He praised the Oscar-winning actor's emotional depth and says it is finally time for them to work together."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/diljit-dosanjhs-satluj-removed-from-zee5-international-after-india-takedown-2945615-2026-07-11",
+      "headline": "Diljit Dosanjh's Satluj removed from ZEE5 International after India takedown Actor Diljit Dosanjh's film, Satluj has been removed from ZEE5's international library days after its removal in India. The latest move deepens the film's long-running certification and release controversy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/rohit-chandel-arrested-pocso-minor-stalking-mumbai-sairaab-pandya-store-kashibai-bajirao-ballal-2945609-2026-07-11",
+      "headline": "TV actor Rohit Chandel arrested for allegedly stalking and harassing a minor Mumbai Police arrested television actor Rohit Chandel after a 16-year-old girl accused him of alleged stalking, molestation and assault. He has been booked under the POCSO Act and BNS sections, with the investigation continuing."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/matt-damon-shekhar-kapur-actor-wants-collaboration-recalls-missing-the-four-feathers-2945552-2026-07-11",
       "headline": "Matt Damon wants to work with Shekhar Kapur after missing The Four Feathers At a Mumbai press conference for The Odyssey, actor Matt Damon said he wants to work with Shekhar Kapur. He recalled missing The Four Feathers years ago and said the wish has stayed with him."
     },
@@ -176,33 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ali-fazal-shares-handwritten-note-to-fans-for-giving-raakh-character-home-in-hearts-2944976-2026-07-10",
       "headline": "Ali Fazal shares handwritten note to fans for giving Raakh character home in hearts Actor Ali Fazal shared a handwritten note thanking fans for embracing his Raakh character, SI Jayprakash Jatav. The actor said his heart was \"full\" as the series continues to enjoy a strong global response on Prime Video."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-dhamaal-4-confirms-franchise-future-with-dhamaal-5-tease-2944965-2026-07-10",
-      "headline": "Ajay Devgn's Dhamaal 4 confirms franchise future with Dhamaal 5 tease The makers have announced Dhamaal 5 in the final moments of Ajay Devgn's Dhamaal 4. Filmmaker Farhad Samji will direct the next instalment, even as audience reactions remain mixed."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prakash-raj-voter-id-case-bengaluru-court-recalls-warrant-grants-bail-2944935-2026-07-10",
-      "headline": "Prakash Raj gets bail in multiple voter ID case in Bengaluru court Actor Prakash Raj appeared before a Bengaluru court in the voter ID case and sought bail after a non-bailable warrant. The court recalled the warrant after his counsel said summons were never served and granted bail on a cash surety of Rs 4,000."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/r-chezhiyan-dies-at-57-after-prolonged-illness-tamil-cinema-mourns-2944900-2026-07-10",
-      "headline": "National award-winning Tamil director-cinematographer Chezhiyan dies at 57 National Award-winning cinematographer, director and writer R Chezhiyan died in Chennai on Friday after a prolonged illness. Colleagues, actors and fans remembered his realist cinema and lasting contribution to Tamil films."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/idhayam-murali-review-atharvaas-love-story-fails-to-confess-its-own-feelings-2944867-2026-07-10",
-      "headline": "Idhayam Murali review: Atharvaa's love story fails to confess its own feelingsRelease Date:Fri Jul 10, 2026 Idhayam Murali movie review: Atharvaa headlines Idhayam Murali as a man who cannot confess his love. The film lands its biggest laughs through cameos and comedy but struggles to deepen its relationships."
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/boat-carrying-several-indian-tourists-capsizes-near-phu-quoc-island-in-vietnam-2945589-2026-07-11",
-      "headline": "Boat carrying several Indian tourists capsizes near Phu Quoc Island in VietnamThe Indian Embassy said it is coordinating with local authorities after a boat carrying several Indian tourists capsized near Vietnam's Phu Quoc Island, where search and rescue operations remain underway."
+      "headline": "15 Indian tourists killed as speedboat capsizes off Vietnam's Phu Quoc IslandThe Indian Embassy said it is coordinating with local authorities after a boat carrying several Indian tourists capsized near Vietnam's Phu Quoc Island, where search and rescue operations remain underway."
     },
     {
       "sentiment": "positive",
@@ -211,13 +211,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ketan-agarwal-murder-case-siya-goyal-chetan-chaudhary-pune-lohagad-fort-police-evidence-court-proof-2944981-2026-07-11",
-      "headline": "Cops say Siya killed Ketan, proving it will be easier said than donePune Police has alleged that Siya Goyal and Chetan Chaudhary pushed Ketan Agarwal off Lohagad Fort. The case now rests on whether investigators can prove an unbroken chain of circumstantial evidence."
+      "url": "https://www.indiatoday.in/world/story/vietnam-speedboat-accident-15-indians-dead-phu-quoc-tourist-boat-capsize-2945672-2026-07-11",
+      "headline": "How a Vietnam island-hopping tour ended in tragedy for 15 IndiansVietnam Boat Accident: The speedboat overturned about 400 metres off Hon May Rut Ngoai, near Phu Quoc Island, while it was carrying tourists from Hon May Rut Islet to An Thoi Port, according to Vietnamese news outlet VNExpress."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-new-zealand-visit-packed-schedule-busts-nap-break-report-2945527-2026-07-11",
-      "headline": "How PM Modi's New Zealand schedule counters viral 'nap break' reportA viral New Zealand media report claimed India sought 'nap breaks' in PM Modi's Auckland itinerary. However, his jam-packed official schedule busted the claims. Read on to find out how."
+      "url": "https://www.indiatoday.in/india/story/ketan-agarwal-murder-case-siya-goyal-chetan-chaudhary-pune-lohagad-fort-police-evidence-court-proof-2944981-2026-07-11",
+      "headline": "Cops say Siya killed Ketan, proving it will be easier said than donePune Police has alleged that Siya Goyal and Chetan Chaudhary pushed Ketan Agarwal off Lohagad Fort. The case now rests on whether investigators can prove an unbroken chain of circumstantial evidence."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/kerala/story/toddler-dies-following-anaesthesia-after-lip-injury-in-kannur-kerala-news-2945426-2026-07-11",
-      "headline": "Toddler suffers facial injury, dies days later from anaesthesia complicationsThe 18-month-old boy died at a private hospital in Kerala's Kannur district on Friday, July 10. He was his parents' only child and was born nearly eight years after their wedding."
+      "url": "https://www.indiatoday.in/india/story/pm-modi-new-zealand-visit-packed-schedule-busts-nap-break-report-2945527-2026-07-11",
+      "headline": "How PM Modi's New Zealand schedule counters viral 'nap break' reportA viral New Zealand media report claimed India sought 'nap breaks' in PM Modi's Auckland itinerary. However, his jam-packed official schedule busted the claims. Read on to find out how."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/satluj-diljit-soundtrack-gurbani-debate-kabir-hymn-cm-beant-singh-assassination-scene-punjab-2945483-2026-07-11",
+      "headline": "What does the soundtrack in Satluj's CM assassination scene really mean?The film's use of a hymn from Sri Guru Granth Sahib invites a wider discussion about context, interpretation and a practice that has become increasingly familiar in Sikh public life."
     },
     {
       "sentiment": "positive",
@@ -236,23 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-new-zealand-visit-maori-waka-indian-community-address-2945599-2026-07-11",
-      "headline": "Ocean full of opportunities: PM Modi's 'waka' message in New ZealandAddressing the Indian community in Auckland, Prime Minister Narendra Modi invoked the Maori concept of 'waka' to describe India-New Zealand ties. The metaphor cast the upgraded relationship as a shared journey with fresh opportunities in the Asia-Pacific."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/argentina-fifa-favouritism-claims-scaloni-critics-do-not-want-argentina-to-win-2945535-2026-07-11",
       "headline": "Scaloni fires back over FIFA favouritism claims: Some don't want Argentina to winFIFA World Cup 2026: Lionel Scaloni rejected claims FIFA is favouring Argentina after the controversial comeback win over Egypt. He said resentment towards the champions is motivating his squad before the quarter-final against Switzerland."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/sabrina-pasterski-physicist-stephen-hawking-cited-rejected-nasa-bezos-2944988-2026-07-10",
-      "headline": "Sabrina Pasterski built a plane at 12, rejected NASA, now called the next EinsteinSabrina Gonzalez Pasterski built and flew an aircraft at the age of 14, graduated from MIT with a perfect GPA in three years, had her research cited by Stephen Hawking, and turned down offers from NASA, Blue Origin and a reported $1.1 million academic position to pursue some of physics' biggest unanswered questions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/noida/story/man-falls-into-rainwater-filled-drain-after-electric-shock-from-pole-dies-amid-noida-rain-2945532-2026-07-11",
-      "headline": "Video: On way to work, man gets electrocuted and slips into rainwater-filled drainThe man lost his life in the incident, which took place on Thursday, July 9, when Noida and several other parts of the wider NCR region were lashed by incessant rains."
     },
     {
       "sentiment": "positive",
@@ -261,23 +251,33 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-new-zealand-visit-maori-waka-indian-community-address-2945599-2026-07-11",
+      "headline": "Ocean full of opportunities: PM Modi's 'waka' message in New ZealandAddressing the Indian community in Auckland, Prime Minister Narendra Modi invoked the Maori concept of 'waka' to describe India-New Zealand ties. Earlier in the day, India and New Zealand elevated their ties to a strategic partnership."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/sabrina-pasterski-physicist-stephen-hawking-cited-rejected-nasa-bezos-2944988-2026-07-10",
+      "headline": "Sabrina Pasterski built a plane at 12, rejected NASA, now called the next EinsteinSabrina Gonzalez Pasterski built and flew an aircraft at the age of 14, graduated from MIT with a perfect GPA in three years, had her research cited by Stephen Hawking, and turned down offers from NASA, Blue Origin and a reported $1.1 million academic position to pursue some of physics' biggest unanswered questions."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-london-cafe-photos-jordan-cox-privacy-incident-2945509-2026-07-11",
       "headline": "Virat Kohli's privacy invaded in London? England star recalls bizarre cafe incidentJordan Cox said Virat Kohli was unknowingly photographed during a private London cafe meeting before the former's Test debut earlier this year. It highlighted the former India captain's difficulty living normally despite staying low-profile."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-impact-salaries-govt-employee-pension-hike-inflation-state-finances-economy-2944845-2026-07-10",
-      "headline": "8th Pay Commission: Why its impact goes far beyond government salariesEconomists say the 8th Pay Commission will affect far more than central government salaries and pensions. Its recommendations could shape consumer demand, state finances, inflation and fiscal planning."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/kerala/story/toddler-dies-following-anaesthesia-after-lip-injury-in-kannur-kerala-news-2945426-2026-07-11",
+      "headline": "Toddler suffers facial injury, dies days later from anaesthesia complicationsThe 18-month-old boy died at a private hospital in Kerala's Kannur district on Friday, July 10. He was his parents' only child and was born nearly eight years after their wedding."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/lawrence-bishnoi-gang-garinder-dev-arrested-france-canada-deportation-2945531-2026-07-11",
-      "headline": "Bishnoi aide held in France for drug trafficking, another to be deported from CanadaCanadian police said Lawrence Bishnoi gang associate Garinder Dev has been arrested in France and will face extradition proceedings. The arrest and a separate deportation order in Canada came days after US prosecutors indicted Bishnoi and Goldy Brar."
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/sheetal-wrzesien-georgia-shooting-google-killed-us-husband-arrested-2945621-2026-07-11",
+      "headline": "Indian-origin Google techie, 57, killed by husband after dispute in USKirk B Wrzesien has been charged with murder, two counts of aggravated assault and two counts of illegally possessing a firearm while committing a crime."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/delhi-ev-policy-aims-to-tackle-indias-rising-e-waste-problem-2945050-2026-07-11",
-      "headline": "India has an e-waste problem. Delhi has smelled an opportunityAs technology use increases across India, one policy move in the national capital reflects a wider shift in how governments may approach one of the country's fastest-growing waste streams."
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-5th-t20i-preview-team-news-southampton-weather-pitch-2945466-2026-07-11",
+      "headline": "India in desperate search for answers with No.1 T20I ranking on the lineIND vs ENG: India head into the fifth T20I in Southampton under immense pressure amid a disastrous tour of England, with Shreyas Iyer's side still searching for their first win and facing the prospect of losing their No.1 ranking."
     },
     {
       "sentiment": "positive",
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/india-engineering-tuition-crisis-higher-btech-fees-outdated-syllabus-flat-fresher-pay-2944804-2026-07-11",
-      "headline": "Are engineering colleges selling 2015 courses at 2026 prices?Handcrafted ByOur Editors Engineering colleges have added AI, Data Science, Cybersecurity and other future-focused courses to their brochures. But as fees climb sharply, students and recruiters are questioning whether the classroom has evolved at the same pace as the price tag."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/aishe-2023-24-female-enrolment-higher-than-male-for-seven-years-2945073-2026-07-11",
+      "headline": "Women beat men in Indian colleges for seventh year straight, AISHE data showsAISHE 2023-24 data shows Indian women now outpace men in higher education enrolment for the seventh straight year running, with female GER at 31.2 against 28.9 for men and enrolment up 42.2 percent since 2014-15, led by heartland states like Bihar, West Bengal and Kerala."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jammu-kashmir-india-map-row-indian-diplomat-pooja-jha-dhaka-saarc-seminar-bangladesh-2945359-2026-07-11",
-      "headline": "J&K part of India: Indian diplomat flags incorrect map at Bangladesh seminarIndia objected to an incorrect map depicting Jammu and Kashmir during a SAARC seminar in Dhaka, with Indian diplomat Pooja Kumari Jha asserting that the region is an integral and inalienable part of India."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/diljit-dosanjhs-satluj-removed-from-zee5-international-after-india-takedown-2945615-2026-07-11",
+      "headline": "Diljit Dosanjh's Satluj removed from ZEE5 International after India takedownActor Diljit Dosanjh's film, Satluj has been removed from ZEE5's international library days after its removal in India. The latest move deepens the film's long-running certification and release controversy."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/indra-nooyi-yale-struggle-overnight-receptionist-job-fund-education-before-pepsico-ceo-2945540-2026-07-11",
-      "headline": "Before PepsiCo, Indra Nooyi worked as a receptionist to pay for her Yale studiesBefore becoming one of the world's most recognised business leaders, Indra Nooyi was a student balancing classes and overnight shifts. Her Yale journey, filled with financial challenges and long hours, shaped the discipline that later defined her corporate career."
+      "url": "https://www.indiatoday.in/science/story/delhi-ev-policy-aims-to-tackle-indias-rising-e-waste-problem-2945050-2026-07-11",
+      "headline": "India has an e-waste problem. Delhi has smelled an opportunityAs technology use increases across India, one policy move in the national capital reflects a wider shift in how governments may approach one of the country's fastest-growing waste streams."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/sri-lankan-woman-watches-56-year-old-mother-receive-masters-degree-gets-emotional-2945548-2026-07-11",
-      "headline": "Sri Lankan woman watches mother, 56, receive Master's degree; gets emotionalA Sri Lankan woman watched from Dubai as her 56-year-old mother received her Master's degree. The moment underscored years of sacrifice, resilience and dreams pursued later in life."
+      "url": "https://www.indiatoday.in/india/story/jammu-kashmir-india-map-row-indian-diplomat-pooja-jha-dhaka-saarc-seminar-bangladesh-2945359-2026-07-11",
+      "headline": "J&K part of India: Indian diplomat flags incorrect map at Bangladesh seminarIndia objected to an incorrect map depicting Jammu and Kashmir during a SAARC seminar in Dhaka, with Indian diplomat Pooja Kumari Jha asserting that the region is an integral and inalienable part of India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/fssai-swiggy-instamart-notices-expired-contaminated-unsafe-food-complaints-2945503-2026-07-11",
-      "headline": "Swiggy Instamart receives 9 notices from food regulator over quality complaintsFSSAI has issued nine notices to Swiggy Instamart over consumer complaints about expired, spoiled and contaminated food deliveries. The regulator has sought detailed compliance records and warned of legal action if the response is delayed."
+      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-impact-salaries-govt-employee-pension-hike-inflation-state-finances-economy-2944845-2026-07-10",
+      "headline": "8th Pay Commission: Why its impact goes far beyond government salariesEconomists say the 8th Pay Commission will affect far more than central government salaries and pensions. Its recommendations could shape consumer demand, state finances, inflation and fiscal planning."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/shubman-gill-carlos-alcaraz-wimbledon-india-captain-dream-doubles-partner-2945667-2026-07-11",
+      "headline": "Shubman Gill swaps bat for racket, picks Carlos Alcaraz as dream doubles partner Shubman Gill picked Carlos Alcaraz as his dream doubles partner during his visit to Wimbledon, saying the Spaniard's energy on court would make for a fun pairing and backing himself to hold his own in tennis."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-penalties-scaloni-argentina-vs-switzerland-world-cup-2026-2945591-2026-07-11",
@@ -369,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/belgium-vs-spain-courtois-backs-senne-lammens-world-cup-quarter-final-error-2945404-2026-07-11",
-      "headline": "Belgium's Courtois backs Lammens to recover from costly World Cup blunder Belgium goalkeeper Thibaut Courtois threw his support behind Senne Lammens after the young substitute's late mistake proved decisive in Belgium's 2-1 defeat to Spain in the FIFA World Cup quarter-final on Friday."
+      "headline": "Belgium's Courtois backs Lammens to recover from costly World Cup blunderBelgium goalkeeper Thibaut Courtois threw his support behind Senne Lammens after the young substitute's late mistake proved decisive in Belgium's 2-1 defeat to Spain in the FIFA World Cup quarter-final on Friday."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-live-score-semifinal-djokovic-vs-sinner-zverev-vs-arthur-fery-2945059-2026-07-10",
       "headline": "Highlights: Sinner beats Djokovic in straight sets, sets up final vs ZverevWimbledon semifinals Highlights: Novak Djokovic's run at Wimbledon gets cut short by World No.1 Jannik Sinner. The Italian beats Djokovic in straight sets (6-4,6-4, 6-4), booking a place in the final against Zlexander Zverev, who earlier beat British wildcard Arthur Fery in straight games."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shree-charani-test-debut-india-england-first-womens-test-lords-2944903-2026-07-10",
-      "headline": "Shree Charani rewarded for T20 World Cup heroics, earns maiden Test cap at Lord'sENGW vs INDW, Only Test Day 1: Shree Charani made her Test debut at the Lord's after her stupendous campaign in the Women's T20 World Cup where she took 14 wickets from five matches."
     }
   ],
   "education": [
