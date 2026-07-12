@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-rocks-a-rugged-cowboy-avatar-at-bandra-studio-amid-svc-63-buzz-2946384-2026-07-12",
+      "headline": "Salman Khan rocks a rugged cowboy avatar at Bandra studio amid SVC 63 buzz Actor Salman Khan was photographed outside a dubbing studio in Bandra wearing a cowboy-inspired outfit. The appearance has fuelled speculation over his next film with Nayanthara, tentatively titled SVC 63."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/there-is-no-goodbye-s-janakis-granddaughter-at-singers-state-honours-last-rites-2946364-2026-07-12",
+      "headline": "There is no goodbye: S Janaki's granddaughter at singer's state honours last rites S Janaki was laid to rest with full state honours in Mysuru as her granddaughter Apsara Vydyula paid tribute. Apsara said the singer's death was a loss to the world, but her music would endure."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/cm-vijays-jana-nayagan-uk-release-date-out-for-farewell-run-details-here-2946337-2026-07-12",
       "headline": "CM Vijay's Jana Nayagan UK release date out for farewell run. Details here The overseas distributor of Jana Nayagan has announced that the film will open in cinemas in the United Kingdom later this month, with bookings now live. The uncut, 15-rated release has been billed as a farewell outing for Vijay."
     },
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-spotted-california-wedding-after-reported-marriage-2946033-2026-07-12",
       "headline": "Newlyweds Taylor Swift-Travis Kelce make hearts melt at friend's wedding Taylor Swift and Travis Kelce were photographed at JuJu Smith-Schuster and Laura Kruk's wedding in California, marking their first public appearance together since their marriage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/s-janaki-death-pm-modi-president-murmu-pay-tribute-playback-legend-2946008-2026-07-12",
-      "headline": "Irreparable loss: PM Modi, President Murmu pay tribute to playback legend S Janaki Prime Minister Narendra Modi and President Droupadi Murmu paid tribute to playback singer S Janaki after her death in Mysuru at 88. They acknowledged her contribution to music and praised her six-decade legacy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/lenin-box-office-collection-day-2-akhil-akkineni-film-jumps-14-percent-rs-23-4-crore-worldwide-2945994-2026-07-12",
-      "headline": "Lenin box office Day 2: Akhil Akkineni film sees growth, earns Rs 23 crore globally Actor Akhil Akkineni's Lenin recorded a strong jump in collections on its second day in theatres. Rising occupancy and steady overseas numbers underlined solid opening weekend traction."
     }
   ],
   "general news": [
@@ -207,7 +207,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-mens-singles-final-live-score-jannik-sinner-vs-alexander-zverev-2946328-2026-07-12",
-      "headline": "Final Live Updates: Can Alexander Zverev crack the Jannik Sinner code?Wimbledon Final Live Updates: Jannik Sinner is looking to defend his crown in the grass court major when he faces Alexander Zverev in the men's singles final. Zverev, on the other hand, is looking to back his French Open title with a win at SW19."
+      "headline": "Final Live Updates: Alexander Zverev keeps Jannik Sinner on his toes in 2nd setWimbledon Final Live Updates: Alexander Zverev has won the opening set 7-6 against Jannik Sinner in the men's singles final on Centre Court. Sinner is looking to defend his title while Zverev is aiming to back his French Open title with a win at SW19."
     },
     {
       "sentiment": "positive",
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/look-ma-no-magnets-how-an-indian-startup-is-using-software-to-break-chinas-rare-earth-monopoly-2946039-2026-07-12",
-      "headline": "How an Indian startup is using software to break China's rare earth monopolyHandcrafted ByOur Editors Meet the Bengaluru startup that wants to end China's hold on magnet-powered motors through deep-tech sovereignty and out of the box thinking."
+      "url": "https://www.indiatoday.in/world/story/israel-election-voting-october-27-benjamin-netanyahu-full-four-year-term-2946375-2026-07-12",
+      "headline": "Israel to hold polls on October 27 as Netanyahu prepares to face voters amid warsThe upcoming election on October 27 will be the first to be held on schedule in Israel since 1988. The election is also significant as the Netanyahu-led government will become the first to complete a full four-year term in over 50 years."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-war-live-updates-strait-of-hormuz-middle-east-tensions-ceasefire-donald-trump-west-asia-crisis-2944508-2026-07-10",
+      "headline": "Live: US strikes Iranian missile, air defence systems near Strait of HormuzUS-Iran War Live Updates: The US and Iran exchanged fresh military strikes, deepening their direct confrontation and pushing a fragile three-week-old ceasefire closer to collapse. Iran retaliated by launching missiles and drones at US military infrastructure in Bahrain, Kuwait, Qatar and Jordan after Washington carried out another wave of strikes on Iranian targets, saying the operation was aimed at protecting commercial shipping through the Strait of Hormuz. Tehran accused the US of interfering in the strategic waterway and warned that any further intervention would draw a \"crushing response\", insisting the strait would reopen only under Iranian supervision. The escalation unfolded as Iran buried slain Supreme Leader Ayatollah Ali Khamenei at the Shrine of Imam Reza in Mashhad, where thousands of mourners carrying Iranian flags and portraits of the late leader gathered for his funeral, with some displaying banners reading \"We Will Kill Trump\". Iranian officials said recent US strikes killed 14 people and wounded 78 across five provinces, while fresh explosions were reported in Bushehr and Bandar Abbas, including near the perimeter of Iran's only operational nuclear power plant. Kuwait said it intercepted missiles and drones targeting US military assets, while Jordan reported shooting down several incoming missiles. Qatar condemned attacks on commercial shipping but urged all sides to return to diplomacy, as Turkey and Oman also called for restraint in separate talks with Iranian Foreign Minister Abbas Araqchi. Stay with IndiaToday.in for the latest updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/features/story/look-ma-no-magnets-how-an-indian-startup-is-using-software-to-break-chinas-rare-earth-monopoly-2946039-2026-07-12",
+      "headline": "How an Indian startup is using software to break China's rare earth monopolyHandcrafted ByOur Editors Meet the Bengaluru startup that wants to end China's hold on magnet-powered motors through deep-tech sovereignty and out of the box thinking."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/brendon-mccullum-steps-down-england-test-head-coach-ben-stokes-retirement-2946299-2026-07-12",
       "headline": "End of Bazball as McCullum sacked as Test coach after Ben Stokes retirementBrendon McCullum has been sacked as England's Test head coach, just days after Ben Stokes announced his retirement from international cricket. However, the former New Zealand captain will continue in his role as head coach of England's ODI and T20I sides."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/meet-mana-jampala-12-year-old-founder-who-learnt-python-at-9-and-built-ai-startup-voxa-2945740-2026-07-12",
+      "headline": "Meet 12-year-old Mana Jampala who built an AI startup with clients in 3 countriesMana Jampala is only 12, but she is already running an AI startup with deployments in Canada, India and Cambodia. After learning Python at nine and building AI products by 11, the Grade 7 student has created tools that help businesses automate customer calls and everyday work."
     },
     {
       "sentiment": "negative",
@@ -241,8 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/meet-mana-jampala-12-year-old-founder-who-learnt-python-at-9-and-built-ai-startup-voxa-2945740-2026-07-12",
-      "headline": "Meet 12-year-old Mana Jampala who built an AI startup with clients in 3 countriesMana Jampala is only 12, but she is already running an AI startup with deployments in Canada, India and Cambodia. After learning Python at nine and building AI products by 11, the Grade 7 student has created tools that help businesses automate customer calls and everyday work."
+      "url": "https://www.indiatoday.in/india/story/india-announces-1-day-mourning-after-death-of-ex-qatar-emir-sheikh-hamad-flags-to-fly-at-half-mast-2946368-2026-07-12",
+      "headline": "India announces 1-day mourning after death of ex-Qatar Emir Sheikh HamadThe Ministry of External Affairs (MEA) said the national flag will fly at half-mast across the country on July 13, while official entertainment will remain suspended as a mark of respect for the late ruler."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/indian-parents-send-daughter-in-canada-a-20-kg-parcel-packed-with-aamras-and-love-2946171-2026-07-12",
+      "headline": "Indian parents send daughter in Canada a 20 kg parcel packed with aamras and loveAn Indian woman in Canada shared a video of a 20 kg parcel sent by her parents, unpacking aamras, theplas, clothes and gifts."
     },
     {
       "sentiment": "positive",
@@ -261,8 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/indian-parents-send-daughter-in-canada-a-20-kg-parcel-packed-with-aamras-and-love-2946171-2026-07-12",
-      "headline": "Indian parents send daughter in Canada a 20 kg parcel packed with aamras and loveAn Indian woman in Canada shared a video of a 20 kg parcel sent by her parents, unpacking aamras, theplas, clothes and gifts."
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/akansha-ranjan-wedding-look-arpita-mehta-red-saree-minimal-bridal-style-2946040-2026-07-12",
+      "headline": "Forget the drama. Akansha Ranjan made minimalism the real wedding statementA minimal wedding saree, jewellery that wasn't over the top and a room full of friends and family that mattered, that's how Akansha said 'I do'. In this piece, we decode her wedding look."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-619-10-07-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "positive",
@@ -276,43 +301,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-conflict-gulf-on-high-alert-after-strikes-drone-threats-and-hormuz-closure-2946012-2026-07-12",
-      "headline": "Gulf on edge as Tehran retaliates after US hits 140 Iranian targets in fresh strikes Live UpdatesMissile and drone threats spread across the Gulf after fresh US strikes on Iran, prompting Kuwait, Bahrain, Qatar and the UAE to activate emergency security measures. Iran claimed attacks on multiple US bases in the Gulf and warned that \"the era of one-sided deals is over\" as tensions escalated."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/akansha-ranjan-wedding-look-arpita-mehta-red-saree-minimal-bridal-style-2946040-2026-07-12",
-      "headline": "Forget the drama. Akansha Ranjan made minimalism the real wedding statementA minimal wedding saree, jewellery that wasn't over the top and a room full of friends and family that mattered, that's how Akansha said 'I do'. In this piece, we decode her wedding look."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-619-10-07-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/ncert-paper-procurement-case-dharmendra-pradhan-orders-action-over-delhi-hc-lapse-2945515-2026-07-11",
-      "headline": "Dharmendra Pradhan orders action against NCERT officials in paper procurement caseNCERT's decision to blacklist a paper supplier came under judicial scrutiny after the council failed to appear before the Delhi High Court, prompting Union Education Minister Dharmendra Pradhan to order an inquiry into the matter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shiv-sena-ubt-leader-vinayak-raut-daughter-in-law-alleges-domestic-torture-black-magic-2946123-2026-07-12",
-      "headline": "Forced to drink cow urine: Sena UBT leader's daughter-in-law alleges black magicGirija Raut, the daughter-in-law of former Shiv Sena (UBT) MP Vinayak Raut, has alleged she suffered years of mental and physical harassment by her in-laws, and was forced to drink cow urine and strands of her hair plucked for black magic rituals."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/sitar-piano-jugalbandi-physics-tuning-raga-indian-classical-instrument-western-music-ravi-shankar-violin-science-of-sound-2946093-2026-07-12",
       "headline": "Sitar and piano can share a stage. But a perfect jugalbandi defies physicsA sitar and a piano can share a stage, but they can never truly agree on a single note. One is tuned to the pure ratios of physics, the other to a grid that deliberately breaks them, and here is the arithmetic behind that centuries-old divide."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/monsoon-break-india-imd-subdued-rain-central-peninsular-regions-till-july-17-pause-button-el-nino-2946141-2026-07-12",
-      "headline": "India's July sky looks like April: Why monsoon has hit pause buttonSatellite images of India in mid-July 2026 look eerily like April, with clear seas and bare skies over the core monsoon zone. The IMD explains why the rains have paused, which regions will still get drenched, and when the monsoon is likely to revive."
+      "url": "https://www.indiatoday.in/world/story/us-iran-conflict-gulf-on-high-alert-after-strikes-drone-threats-and-hormuz-closure-2946012-2026-07-12",
+      "headline": "Gulf on edge as Tehran retaliates after US hits 140 Iranian targets in fresh strikes Live UpdatesMissile and drone threats spread across the Gulf after fresh US strikes on Iran, prompting Kuwait, Bahrain, Qatar and the UAE to activate emergency security measures. Iran claimed attacks on multiple US bases in the Gulf and warned that \"the era of one-sided deals is over\" as tensions escalated."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/bengaluru/story/flipkart-delivery-executive-arrested-flashing-at-woman-home-marathahalli-2946049-2026-07-12",
-      "headline": "Delivery man forcefully enters Bengaluru woman's home, flashes at her; arrestedThe accused flashed the woman after delivering an order at her apartment in Munnekolala area in Bengaluru. The incident came to light after she shared a video of the incident online."
+      "url": "https://www.indiatoday.in/education-today/news/story/ncert-paper-procurement-case-dharmendra-pradhan-orders-action-over-delhi-hc-lapse-2945515-2026-07-11",
+      "headline": "Dharmendra Pradhan orders action against NCERT officials in paper procurement caseNCERT's decision to blacklist a paper supplier came under judicial scrutiny after the council failed to appear before the Delhi High Court, prompting Union Education Minister Dharmendra Pradhan to order an inquiry into the matter."
     },
     {
       "sentiment": "positive",
@@ -324,7 +324,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-mens-singles-final-live-score-jannik-sinner-vs-alexander-zverev-2946328-2026-07-12",
-      "headline": "Final Live Updates: Can Alexander Zverev crack the Jannik Sinner code? Wimbledon Final Live Updates: Jannik Sinner is looking to defend his crown in the grass court major when he faces Alexander Zverev in the men's singles final. Zverev, on the other hand, is looking to back his French Open title with a win at SW19."
+      "headline": "Final Live Updates: Alexander Zverev keeps Jannik Sinner on his toes in 2nd set Wimbledon Final Live Updates: Alexander Zverev has won the opening set 7-6 against Jannik Sinner in the men's singles final on Centre Court. Sinner is looking to defend his title while Zverev is aiming to back his French Open title with a win at SW19."
     },
     {
       "sentiment": "positive",
