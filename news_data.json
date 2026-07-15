@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-batman-2-robert-pattinsons-first-look-revealed-with-new-release-date-2948753-2026-07-15",
+      "headline": "The Batman 2: Robert Pattinson's first look revealed with new release date Actor Robert Pattinson's first look in The Batman 2 has been revealed with the actor in his batsuit. Director Matt Reeves also used the announcement to share the film's revised release date."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/shehnaaz-gill-raghav-juyal-dating-rumours-bhai-tera-star-hai-2948579-2026-07-15",
       "headline": "Actor Shehnaaz Gill cheers for 'good friend' Raghav Juyal, shuts down dating rumours Actor Shehnaaz Gill declined to address rumours linking her with Raghav Juyal and instead promoted his upcoming Bhai Tera Star Hai. The speculations about their relationship started"
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/vijays-jana-nayagan-to-release-on-july-23-2948388-2026-07-15",
       "headline": "Vijay's Jana Nayagan, 'built for history', finally gets worldwide release date Vijay's much-anticipated film Jana Nayagan is all set for a grand release worldwide after overcoming a prolonged legal battle and certification hurdles. Fans eagerly await this historic film, which is expected to be Vijay's final cinematic venture."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/netflix-lock-upp-madhuri-grover-lock-upp-eviction-shreya-kalra-friendship-ram-kapoor-rumours-2948318-2026-07-15",
-      "headline": "Lock Upp: Madhuri Grover addresses link-up rumours with Ram Kapoor After her eviction from Lock Upp: Sach Ya Sazaa, Madhuri Grover, in an interview, dismissed rumours about her link-ups with Ram Kapoor. She also spoke about her friendship with Shreya Kalra."
     }
   ],
   "general news": [
@@ -210,14 +210,14 @@
       "headline": "I spent a night as a cockroach at CJP's Jantar Mantar protest. This is what I sawI stayed overnight at the Cockroach Janta Party (CJP) protest site at New Delhi's Jantar Mantar without revealing my identity. I spoke to the participants, ate the food being served and overheard the conversations around fasting activist Sonam Wangchuk. I also noticed the unease over absent CJP leaders."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/utah-mall-stabbing-muslim-man-attacked-valley-fair-suspect-targeted-religion-2948673-2026-07-15",
-      "headline": "Are you Muslim? Indian man survives after being stabbed 15 times at US mallAn Indian Muslim man was stabbed inside a Utah shopping mall after being questioned about his religion. Police said the suspect admitted targeting him because of his religion and warned that he posed a serious threat to the public."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-crypto-fatwa-taqi-usmani-declares-bitcoin-tokens-stablecoins-haram-ptag-2945721-2026-07-11",
+      "headline": "Crypto is haram: Top Pakistani cleric issues fatwa amid Trump's digital asset pushThe fatwa comes at a challenging time for Islamabad, which has been moving aggressively to develop a regulatory framework for the cryptocurrency sector. More than 20 million Pakistanis are estimated to be involved in cryptocurrency-related activities, with transactions worth billions of dollars reported in recent years."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-crypto-fatwa-taqi-usmani-declares-bitcoin-tokens-stablecoins-haram-ptag-2945721-2026-07-11",
-      "headline": "Crypto is haram: Pakistani cleric issues fatwa as Trump-led policies fuel adoptionThe fatwa comes at a challenging time for Islamabad, which has been moving aggressively to develop a regulatory framework for the cryptocurrency sector. More than 20 million Pakistanis are estimated to be involved in cryptocurrency-related activities, with transactions worth billions of dollars reported in recent years."
+      "url": "https://www.indiatoday.in/sports/football/story/england-vs-argentina-live-score-messi-fifa-world-cup-semi-final-bellingham-kane-updates-2948777-2026-07-15",
+      "headline": "ENG vs ARG Live: Line-ups out, Messi faces England for first timeEngland (ENG) vs Argentina (ARG) Live, FIFA World Cup 2026 semi-final: Nearly four decades after the Hand of God changed football history, England and Argentina meet again with a place in the FIFA World Cup final at stake. This time, Lionel Messi and Jude Bellingham carry the hopes of two nations."
     },
     {
       "sentiment": "positive",
@@ -225,14 +225,14 @@
       "headline": "The Odyssey review: A timeless epic reborn through Christopher Nolan's geniusRelease Date:Fri Jul 17, 2026Director Christopher Nolan's The Odyssey reimagines Odysseus' journey home as a vast modern epic. The film pairs mythic scale with the emotional toll of war, family separation and survival."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-tmc-warns-centre-as-neet-protest-turns-critical-ptag-2948497-2026-07-15",
-      "headline": "Sonam Wangchuk extremely critical, Centre responsible if anything happens: TMCTrinamool urged Union Education Minister Dharmendra Pradhan to open talks with fasting activist Sonam Wangchuk, claiming his health had become critical after 18 days of hunger strike."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/utah-mall-stabbing-muslim-man-attacked-valley-fair-suspect-targeted-religion-2948673-2026-07-15",
+      "headline": "Are you Muslim? Indian man survives after being stabbed 15 times at US mallAn Indian Muslim man was stabbed inside a Utah shopping mall after being questioned about his religion. Police said the suspect admitted targeting him because of his religion and warned that he posed a serious threat to the public."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/england-vs-argentina-semi-final-fifa-world-cup-lionel-messi-diego-maradona-hand-of-god-preview-2946450-2026-07-15",
-      "headline": "England vs Argentina semifinal guide: Messi steps into football's fiercest rivalryEngland vs Argentina semi-final: England and Argentina do not meet as ordinary opponents. Rooted in Maradona's infamous 1986 quarter-final, this rivalry carries weight few international fixtures can match. Now Messi faces the one team that has always eluded him with a spot in the final against Spain up for grabs."
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-tmc-warns-centre-as-neet-protest-turns-critical-ptag-2948497-2026-07-15",
+      "headline": "Sonam Wangchuk extremely critical, Centre responsible if anything happens: TMCTrinamool urged Union Education Minister Dharmendra Pradhan to open talks with fasting activist Sonam Wangchuk, claiming his health had become critical after 18 days of hunger strike."
     },
     {
       "sentiment": "positive",
@@ -246,6 +246,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/dharavi-redevelopment-digital-twin-adani-maps-homes-jobs-lanes-before-mumbai-revamp-3d-lidar-2948501-2026-07-15",
+      "headline": "As Dharavi is set to disappear, a digital twin will ensure it survivesDharavi is being preserved in a detailed digital twin before redevelopment starts in full swing and reshapes the settlement, which is India's largest slum in Mumbai. The 3D archive is expected to guide relocation and planning while preserving a record of the neighbourhood that future generations will never experience."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/mamata-banerjee-nephew-abhishek-banerjee-trinamool-congress-organisational-crisis-west-bengal-madan-mitra-2948660-2026-07-15",
       "headline": "He's fighting like a tiger: Mamata Banerjee backs Abhishek amid growing TMC revoltAddressing party workers on Facebook Live, Mamata Banerjee accused the BJP of engineering defections, apologised \"on behalf of the traitors\", and strongly backed Abhishek Banerjee for resisting intimidation."
     },
@@ -256,23 +261,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-ready-captain-india-historic-womens-test-win-lords-2948322-2026-07-15",
-      "headline": "I am ready: Smriti Mandhana prepared to replace Harmanpreet as India captainSmriti Mandhana says she is ready to captain India in Harmanpreet Kaur's absence, with the vice-captain boasting an impressive record of 15 wins in 22 matches across T20Is and ODIs."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/health/story/intermittent-fasting-autophagy-sonali-bendre-18-20-hour-fast-doctors-risks-benefits-2948694-2026-07-15",
       "headline": "Sonali Bendre credits autophagy after cancer: What fasting for 18-20 hours really doesSonali Bendre's 18\u201320-hour fasting routine has sparked a debate around intermittent fasting and autophagy after the actor opened up about her post-cancer lifestyle. Doctors say fasting may support healthy habits, but it should not be mistaken for a cancer treatment or a universal health solution."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/uk-news/story/uk-news-peterborough-hindu-temple-sold-to-islamic-group-mosque-indians-in-the-uk-high-court-2948475-2026-07-15",
-      "headline": "UK Hindu temple fights for survival after complex sold to Islamic group for mosqueFounded by Indian families fleeing to the UK from Uganda, the city of Peterborough's only Hindu temple is battling to save its home after the Labour-led city council sold the complex housing it to an Islamic group planning to build a mosque. The dispute is now before the UK High Court."
+      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-ready-captain-india-historic-womens-test-win-lords-2948322-2026-07-15",
+      "headline": "I am ready: Smriti Mandhana prepared to replace Harmanpreet as India captainSmriti Mandhana says she is ready to captain India in Harmanpreet Kaur's absence, with the vice-captain boasting an impressive record of 15 wins in 22 matches across T20Is and ODIs."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/madan-mitra-exit-biggest-setback-mamata-banerjee-trinamool-2948594-2026-07-15",
-      "headline": "Madan Mitra's exit the final nail in coffin for Mamata?In a shock move, TMC MLA Madan Mitra quit Mamata Banerjee's camp and joined the rebel Trinamool faction, blaming Abhishek Banerjee for the crisis. The move carries symbolic weight because Mitra had stood by Mamata through the party's rise and setbacks."
+      "url": "https://www.indiatoday.in/world/uk-news/story/uk-news-peterborough-hindu-temple-sold-to-islamic-group-mosque-indians-in-the-uk-high-court-2948475-2026-07-15",
+      "headline": "UK Hindu temple fights for survival after complex sold to Islamic group for mosqueFounded by Indian families fleeing to the UK from Uganda, the city of Peterborough's only Hindu temple is battling to save its home after the Labour-led city council sold the complex housing it to an Islamic group planning to build a mosque. The dispute is now before the UK High Court."
     },
     {
       "sentiment": "negative",
@@ -286,6 +286,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/madan-mitra-exit-biggest-setback-mamata-banerjee-trinamool-2948594-2026-07-15",
+      "headline": "Madan Mitra's exit the final nail in coffin for Mamata?In a shock move, TMC MLA Madan Mitra quit Mamata Banerjee's camp and joined the rebel Trinamool faction, blaming Abhishek Banerjee for the crisis. The move carries symbolic weight because Mitra had stood by Mamata through the party's rise and setbacks."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/monsoon-revival-india-bay-of-bengal-low-pressure-rainfall-july-2948384-2026-07-15",
       "headline": "Monsoon warming up in Bay of Bengal after power nap. When will it rain?Something brewing in the Bay of Bengal is expected to revive the monsoon in coming days, bringing widespread rain to several states. Read when rain will arrive and where."
     },
@@ -296,13 +301,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/neet-aspirant-suicide-rajasthan-behror-kamakshi-exam-stress-probe-2948668-2026-07-15",
-      "headline": "NEET aspirant dies by suicide after anxiety over exam performance in RajasthanFollowing the incident, police reached the hospital, took custody of the body and sent it for post-mortem. The body was handed over to the family later in the evening after the post-mortem examination."
+      "url": "https://www.indiatoday.in/auto/cars/story/kia-syros-ev-unveiled-with-526km-range-bookings-open-at-rs-25000-2948546-2026-07-15",
+      "headline": "Kia Syros EV unveiled with 526km range, bookings open at Rs 25,000Kia's second mass-market electric SUV promises a segment-leading 526km certified range, 39-minute fast charging, lifetime battery warranty and Level 2 ADAS as the automaker looks to accelerate EV adoption in India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/kia-syros-ev-unveiled-with-526km-range-bookings-open-at-rs-25000-2948546-2026-07-15",
-      "headline": "Kia Syros EV unveiled with 526km range, bookings open at Rs 25,000Kia's second mass-market electric SUV promises a segment-leading 526km certified range, 39-minute fast charging, lifetime battery warranty and Level 2 ADAS as the automaker looks to accelerate EV adoption in India."
+      "url": "https://www.indiatoday.in/india/story/neet-aspirant-suicide-rajasthan-behror-kamakshi-exam-stress-probe-2948668-2026-07-15",
+      "headline": "NEET aspirant dies by suicide after anxiety over exam performance in RajasthanFollowing the incident, police reached the hospital, took custody of the body and sent it for post-mortem. The body was handed over to the family later in the evening after the post-mortem examination."
     },
     {
       "sentiment": "positive",
@@ -311,16 +316,16 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dharavi-redevelopment-digital-twin-adani-maps-homes-jobs-lanes-before-mumbai-revamp-3d-lidar-2948501-2026-07-15",
-      "headline": "As Dharavi is set to disappear, a digital twin will ensure it survivesDharavi is being preserved in a detailed digital twin before redevelopment starts in full swing and reshapes the settlement, which is India's largest slum in Mumbai. The 3D archive is expected to guide relocation and planning while preserving a record of the neighbourhood that future generations will never experience."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/icc-world-cup-formats-new-odi-super-7-and-t20-super-10-changes-explained-2948455-2026-07-15",
       "headline": "IPL-style eliminator, Super 7: ICC announces major changes to ODI, T20 World CupsThe ICC's major tournament revamp introduces a unified Super 7 round-robin stage for the men's ODI World Cup and brings high-stakes, IPL-style crossover eliminators to an expanded Super 10 phase in the T20 World Cup. We have tried to explain the new formats. Read on."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/england-vs-argentina-live-score-messi-fifa-world-cup-semi-final-bellingham-kane-updates-2948777-2026-07-15",
+      "headline": "ENG vs ARG Live: Line-ups out, Messi faces England for first time England (ENG) vs Argentina (ARG) Live, FIFA World Cup 2026 semi-final: Nearly four decades after the Hand of God changed football history, England and Argentina meet again with a place in the FIFA World Cup final at stake. This time, Lionel Messi and Jude Bellingham carry the hopes of two nations."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-durham-return-england-retirement-one-day-cup-2948759-2026-07-15",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/argentina-vs-england-world-cup-semi-final-superstition-harry-kane-2948209-2026-07-15",
-      "headline": "Freeze Kane: Argentina fans pin hopes on bizarre superstition before England clash Argentina fans are sticking to their cherished cabalas ahead of the World Cup semi-final against England, believing rituals such as freezing Harry Kane's name and repeating matchday routines can help the defending champions reach another final."
+      "headline": "Freeze Kane: Argentina fans pin hopes on bizarre superstition before England clashArgentina fans are sticking to their cherished cabalas ahead of the World Cup semi-final against England, believing rituals such as freezing Harry Kane's name and repeating matchday routines can help the defending champions reach another final."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-closing-ceremony-tom-cruise-ishowspeed-jennifer-hudson-2947957-2026-07-14",
       "headline": "Tom Cruise to IShowSpeed headline FIFA World Cup 2026 closing ceremonyFIFA has confirmed Tom Cruise, IShowSpeed and a string of music stars for the World Cup 2026 closing ceremony in New York New Jersey. The pre-match show is set to cap the first 48-team tournament before the final decides the champions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-odi-gurnoor-brar-injury-bowling-2947858-2026-07-14",
-      "headline": "Another injury scare for India? Gurnoor Brar taken off in 1st ODIIndia suffered another injury scare during the first ODI against England after fast bowler Gurnoor Brar limped off the field while attempting to bowl his final over. The right-arm pacer had earlier sparked England's collapse with two quick wickets."
     }
   ],
   "education": [
