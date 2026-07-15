@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/russia-sanctions-bill-us-cuts-tariff-to-100-india-china-relief-oil-buying-trump-2948104-2026-07-15",
+      "headline": "Russia sanctions bill: US cuts tariff to 100%, offering relief to India, ChinaThe US Senate has updated a Russia sanctions bill by cutting the proposed tariff on buyers of Russian oil and gas. The change could ease pressure on major importers while giving Donald Trump room to waive penalties."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/commodities/story/the-changing-face-of-indias-gold-craze-2947760-2026-07-15",
+      "headline": "The changing face of India's gold crazeGold still holds a special place in Indian homes, but the reasons for buying it are quietly evolving. Is the yellow metal becoming less about tradition and more about investment?"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/ibm-shares-plunge-26-as-ai-spending-shift-hits-software-business-2947841-2026-07-14",
       "headline": "IBM shares plunge 26% as AI spending shift hits software businessThe company has been trying to reduce its reliance on the cyclical mainframe business by focusing on its software unit including its high-margin Red Hat business, which helps firms run applications across different cloud providers."
@@ -89,19 +99,39 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/cryptocurrency-sanctions-evasion-russia-iran-north-korea-104-billion-chainalysis-report-2947215-2026-07-14",
       "headline": "Russia, Iran, North Korea moved $104 billion in crypto to bypass sanctions: ReportChainalysis says Russia, Iran and North Korea used cryptocurrencies to keep funds moving under sanctions in 2025. The report points to a fast-growing digital route for sanctions evasion, theft and restricted transactions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/bsnl-q1-fy27-core-services-revenue-rises-10-enterprise-business-growth-2947174-2026-07-13",
-      "headline": "BSNL's core services revenue rises 10% in Q1FY27 as govt pushes for its turnaroundBSNL's core services revenue rose to Rs 4,418 crore in Q1FY27 from 4,017 crore in the corresponding quarter last year, driven largely by growth in its Enterprise Business and Consumer Mobility segments."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-us-trade-deal-framework-ready-talks-progress-amid-tariff-uncertainty-2947027-2026-07-13",
-      "headline": "India-US trade deal framework ready as talks progress amid tariff uncertaintyIn February, the two sides agreed to 18% tariffs on Indian goods in exchange for New Delhi lowering trade barriers and buying more American goods. But a final deal has been clouded by the U.S. Supreme Court ruling invalidating President Donald Trump's sweeping global tariffs."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/doesnt-hold-your-hand-matt-damon-on-nolans-approach-to-films-interstellar-days-2947809-2026-07-15",
+      "headline": "Doesn't hold your hand: Matt Damon on Nolan's approach to films, Interstellar days Actor Matt Damon praised Christopher Nolan's unique filmmaking style in an exclusive interview. He recalled how the director preferred to keep shooting instead of celebrating a perfect take during Interstellar."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/a-guide-to-christopher-nolan-why-the-hype-and-where-to-begin-before-the-odyssey-2947579-2026-07-15",
+      "headline": "A guide to Christopher Nolan: Why the hype, and where to begin before The Odyssey The countdown to The Odyssey has begun, and so has the Christopher Nolan obsession. Here's why everyone loves his films, and where you should start."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/christopher-nolan-the-odyssey-controversy-4-reasons-why-2947657-2026-07-15",
+      "headline": "Christopher Nolan's The Odyssey is courting controversy. Here are 4 reasons why From casting call to dialogues and from location choice to peak detailing, Christopher Nolan's new film, The Odyssey, has triggered its share of outrage."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhamaal-4-box-office-day-5-ajay-devgns-film-nears-rs-100-crore-mark-in-india-2948084-2026-07-15",
+      "headline": "Dhamaal 4 box office Day 4: Ajay Devgn's film ends first Tuesday on a high note Actor Ajay Devgn's Dhamaal 4 held its ground on Day 5 as Tuesday offers helped draw more audiences to theatres. The film is now closing in on a big box office milestone."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nick-jonas-priyanka-chopra-first-twitter-message-revealed-hey-jonas-podcast-joe-jonas-kevin-jonas-2948082-2026-07-15",
+      "headline": "Nick Jonas reveals first message that sparked his romance with Priyanka Chopra Singer Nick Jonas opened up about the first X (then Twitter) message he sent to his wife, actor Priyanka Chopra. The couple revisited their awkward first DM exchange on the Hey Jonas podcast."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/matt-damon-tom-holland-cant-get-over-indias-rock-concert-movie-culture-the-odyssey-2947798-2026-07-15",
+      "headline": "Why Matt Damon and Tom Holland can't get over India's 'rock concert' movie culture Actors Matt Damon and Tom Holland spoke about their admiration for Indian cinema and its audiences in an interview with India Today. Damon praised the joy of song and dance in Indian films, while Holland said cinema-going in India feels like a concert."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/india-needs-you-shabana-azmi-urges-sonam-wangchuk-to-end-his-hunger-strike-2948029-2026-07-15",
@@ -166,39 +196,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-hemanth-m-rao-film-imdb-listing-sparks-buzz-over-untitled-project-2947470-2026-07-14",
       "headline": "Yash's next with Sapta Saagaradaache Ello director? IMDb page sparks buzz A viral IMDb page has sparked speculation about Yash's next project after Toxic and Ramayana. The page links the actor's next project with Sapta Saagaradaache Ello director Hemanth M Rao."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rao-bahadur-sandeep-reddy-vanga-praises-venkatesh-maha-satyadev-2947421-2026-07-14",
-      "headline": "Give it three hours: Sandeep Reddy Vanga urges audiences to watch Rao Bahadur Director Sandeep Reddy Vanga praised Telugu film Rao Bahadur on X and urged audiences to watch it. His endorsement comes as the film holds its theatrical run amid box office competition."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/supreme-court-fines-comedian-samay-raina-rs-10-lakh-says-he-made-false-statements-before-the-court-2947581-2026-07-14",
-      "headline": "Samay Raina has taken court for a ride: Supreme Court fines comic Rs 3 lakh The Supreme Court has imposed a Rs 3 lakh fine on Samay Raina and four other comedians, saying he \"took the court for a ride\" in the disability jokes case. The top court said the comedian failed to honour assurances made during earlier hearings, accepting the Cure SMA Foundation's submissions before directing him to pay the penalty within two weeks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/satluj-released-on-ott-illegally-government-mulling-action-sources-2947571-2026-07-14",
-      "headline": "Centre asks states to take action over Diljit Dosanjh's Satluj screenings: Sources The government is contemplating legal action over OTT release and public screenings of the Diljit Dosanjh-starrer Satluj, which lacked certification from the CBFC. Despite the film's removal from Zee5, community groups continue to screen it in gurdwaras, while a PIL seeks its restoration on the platform."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/we-need-you-naseeruddin-shah-salutes-sonam-wangchuk-urges-him-to-stop-fasting-2947544-2026-07-14",
-      "headline": "We need you: Naseeruddin Shah salutes Sonam Wangchuk, urges him to stop fasting Actor Naseeruddin Shah has urged Sonam Wangchuk to end his indefinite hunger strike, saying, \"We need you\" for the longer battle ahead. In a joint statement, he praised Wangchuk's courage while expressing concern over his deteriorating health."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranbir-kapoor-buys-25-7-acres-pune-mulshi-rs-16-42-crore-2947527-2026-07-14",
-      "headline": "After Ayodhya, Ranbir Kapoor buys 25.7 acres of land in Pune Actor Ranbir Kapoor has bought nearly 25.7 acres in Pune's Mulshi taluka for Rs 16.42 crore. The purchase follows his recent Ayodhya land deal as he prepares for Ramayana: Part 1."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/angelina-jolie-brad-pitt-daughter-zahara-seeks-to-drop-pitt-from-surname-2947484-2026-07-14",
-      "headline": "Angelina Jolie, Brad Pitt's daughter Zahara seeks to drop 'Pitt' from surname Angelina Jolie and Brad Pitt's daughter, Zahara, has legally moved closer to dropping 'Pitt' from her surname. This follows a trend among their children, including Maddox and Shiloh, who have also distanced themselves from the 'Pitt' surname amid ongoing family tensions."
     }
   ],
   "general news": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/russia-sanctions-bill-us-cuts-tariff-to-100-india-china-relief-oil-buying-trump-2948104-2026-07-15",
+      "headline": "US eases tariff threat against India, China for Russian oil buysThe US Senate has updated a Russia sanctions bill by cutting the proposed tariff on buyers of Russian oil and gas. The change could ease pressure on major importers while giving Donald Trump room to waive penalties."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/spain-vs-france-fifa-world-cup-semi-final-mbappe-yamal-oyarzabal-match-report-2948071-2026-07-15",
@@ -206,53 +211,58 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-drops-20-hormuz-toll-plan-says-gulf-investments-will-replace-reimbursement-fee-2947891-2026-07-14",
-      "headline": "Trump drops 20% Hormuz fee plan in favour of investment deals with Gulf statesDonald Trump said the Strait of Hormuz was now open to global shipping, except for vessels linked to Iran, and credited the US military for securing one of the world's most important maritime routes."
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-fda-suspends-shalimar-noor-mohammadi-rahmania-hygiene-lapses-2948031-2026-07-14",
+      "headline": "Maharashtra FDA suspends licences of 3 Mumbai restaurants over hygiene lapsesThe latest crackdown comes shortly after the FDA ordered the closure of the iconic K Rustom ice cream parlour near Churchgate railway station after a surprise inspection allegedly found rats, flies and expired flavouring agents at the premises."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/e20-petrol-in-india-brazil-ethanol-blending-flex-fuel-cars-ford-volkswagen-fiat-e100-2947293-2026-07-15",
+      "headline": "Ethanol fact: India is trying to do with a jolt what Brazil achieved in decadesIndia's sprint to achieve 20% ethanol-blended petrol five years ahead of schedule has left people scrambling. While ministers keep citing the example of Brazil, the country took several decades to replace pure petrol while transitioning to flex-fuel vehicles. Here's the lesson from Brazil's transition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/matt-damon-tom-holland-cant-get-over-indias-rock-concert-movie-culture-the-odyssey-2947798-2026-07-15",
+      "headline": "Why Matt Damon and Tom Holland can't get over India's 'rock concert' movie cultureActors Matt Damon and Tom Holland spoke about their admiration for Indian cinema and its audiences in an interview with India Today. Damon praised the joy of song and dance in Indian films, while Holland said cinema-going in India feels like a concert."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/gandhinagar-murder-gujarat-couple-arrested-after-student-allegedly-blackmailed-woman-2947486-2026-07-14",
+      "headline": "Woman pins student down as husband strangles him with scarf over video blackmailLured to the couple's home, the 20-year-old was allegedly ambushed in a pre-planned attack. Police said the husband, who had pretended to leave for work, returned secretly, pinned the student down by sitting on his chest while his wife restrained his hands, before strangling him with a scarf and then a cable."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/france-vs-spain-mbappe-dembele-olise-did-not-turn-up-patrick-vieira-2948076-2026-07-15",
+      "headline": "Mbappe, Dembele, Olise didn't turn up for France: Patrick Vieira on Spain defeatPatrick Vieira tore into France after their 2-0 World Cup semi-final defeat to Spain. He said the team's biggest players failed collectively as Spain's discipline exposed them."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-july-21-programme-congress-quitting-party-mistake-ptag-2947944-2026-07-14",
+      "headline": "Bengal Congress invites Mamata to July 21 event, asks her to admit 'mistake'West Bengal Congress chief Subhankar Sarkar invited Mamata Banerjee to the party's July 21 programme at Shahid Minar. The appeal revives a battle over the 1993 movement's legacy and her split from the Congress."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/phd-holder-earns-rs-30000-as-contract-lecturer-at-presidency-college-drives-cab-to-support-family-educ-2947474-2026-07-14",
+      "headline": "PhD holder earns Rs 30,000 as contract lecturer, drives cab to support familyThe viral story of Presidency College contract lecturer Dr E Tirumalai Raja has put the spotlight on India's contract faculty crisis. Despite a PhD and extensive teaching experience, he drives a cab to supplement his income, raising concerns over low salaries and academic job insecurity."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/indian-passport-citizenship-proof-debate-mea-regulates-departure-ptag-2947792-2026-07-15",
+      "headline": "Passport regulates departure of citizens, less than 8% Indians have one: CentreThe government clarified that an Indian passport is issued to regulate the departure of Indian citizens after due verification under the Passports Act, while noting that it is primarily a travel document and fewer than 8% of Indians hold one."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-france-vs-spain-fifa-world-cup-semi-final-defeat-didier-deschamps-reaction-2948078-2026-07-15",
+      "headline": "Kylian Mbappe owns up to France's poor display vs Spain in World Cup semifinalKylian Mbappe admitted France were second best after a 2-0 World Cup semi-final defeat to Spain, saying Les Bleus fell short tactically and technically. France will now face the third-place playoff, Didier Deschamps' final match before his expected departure."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-military-carries-out-more-airstrikes-against-iran-irgc-claims-attacks-on-weapons-depots-in-bahrain-kuwait-2948060-2026-07-15",
-      "headline": "US launches fresh airstrikes on Iran, IRGC hits military sites in Bahrain, KuwaitA US official told Reuters that American forces launched additional strikes against military targets in Iran to eliminate what were described as \"emerging threats\"."
+      "headline": "US carries out more strikes on Iran, reimposes naval blockade Live UpdatesDonald Trump confirms that US has resumed the blockade on Iranian ports and coastal areas after lifting it under last month's agreement. He also warns that US is prepared to expand its military campaign if Iran does not return to the negotiating table."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-backs-sacntions-bill-that-could-hit-india-with-500-tariffs-over-russian-oil-trade-2948034-2026-07-14",
-      "headline": "Trump backs bill that could hit India with 500% tariffs over Russian oil tradeDonald Trump has backed a US sanctions bill that could penalise countries buying Russian oil, including India and China. Asked about the issue, he said,\" We have to look. That hasn't been discussed yet.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/the-odyssey-mumbai-premiere-matt-damon-tom-holland-on-nolan-and-indian-films-2947917-2026-07-14",
-      "headline": "Matt Damon, Tom Holland's India diaries: Bollywood dreams, Nolan and The OdysseyIn an exclusive interview, actors Matt Damon and Tom Holland spoke about The Odyssey and working with Christopher Nolan while promoting the film in Mumbai. The conversation also turned to India, fan culture and Tom's interest in doing an Indian film."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-1st-odi-match-report-axar-patel-jasprit-bumrah-rohit-kohli-2948025-2026-07-14",
-      "headline": "Bumrah's sorcery, Axar's resilience hand India first win on UK tourIndia won their first match of the tour of United Kingdom on Tuesday, 14 July. Jasprit Bumrah, returning to the ODI team for the first time since November 2023, once again set the tone with his opening spell of the match."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/anil-menon-iss-mission-nasa-astronaut-docks-space-station-eight-month-science-stint-2948042-2026-07-14",
-      "headline": "Nasa's Anil Menon reaches Space Station, set to begin big science opsAnil Menon has arrived at the International Space Station after Soyuz MS-29 successfully docked. Here's what happens next and the scientific research he will carry out during his eight-month mission."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-saudi-arabia-houthis-yemen-conflict-defence-pact-2947660-2026-07-14",
-      "headline": "Saudi-Houthi conflict hots up. Will Pakistan step in?Saudi Arabia and Yemen's Houthis have accused each other of fresh attacks, threatening to open a new front in the Middle East. The flare-up has renewed focus on whether Pakistan will be pressed to honour its defence pact with Riyadh."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/should-prenups-become-legal-in-india-2947699-2026-07-14",
-      "headline": "Should prenups become legal in India?When Celina Jaitly touched upon the idea of prenups, she wasn't just sharing personal advice, she was reopening a conversation about the importance of a financial document, one that India has probably long avoided."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/thailand-keeps-visa-free-entry-for-indians-cuts-stay-to-30-days-2947769-2026-07-14",
-      "headline": "Thailand keeps visa-free entry for Indians, but cuts stay to 30 daysThailand has dropped its plan to end visa-free entry for Indian tourists after seeing a decline in arrivals from India even before the proposal came into effect."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/us-iran-war-seven-indian-vessels-with-148-seafarers-stranded-in-persian-gulf-amid-hormuz-crisis-2947730-2026-07-14",
-      "headline": "13 Indians killed, 3 missing since February 28 as US-Iran war batters Gulf regionSeven Indian-flagged vessels with 148 Indian seafarers have remained inside the Persian Gulf amid renewed US-Iran fighting. The escalation has followed deadly tanker strikes and deepened risks to commercial shipping."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/christopher-nolan-the-odyssey-controversy-4-reasons-why-2947657-2026-07-15",
+      "headline": "Christopher Nolan's The Odyssey is courting controversy. Here are 4 reasons whyFrom casting call to dialogues and from location choice to peak detailing, Christopher Nolan's new film, The Odyssey, has triggered its share of outrage."
     },
     {
       "sentiment": "positive",
@@ -261,38 +271,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/beed-bridge-viral-video-rs-48-lakh-railing-collapses-probe-maharashtra-2948009-2026-07-14",
-      "headline": "Viral video exposes Rs 48 lakh bridge as railing comes off with one pushVillagers have alleged that the bridge was constructed using substandard materials and have demanded a thorough investigation into the work."
+      "url": "https://www.indiatoday.in/india/story/leptospirosis-outbreak-mumbai-why-monsoon-fever-during-heavy-rains-needs-caution-flu-symptoms-2947791-2026-07-15",
+      "headline": "Is every second person ill in Mumbai? Why monsoons bring a dangerous disease backSome doctors are noticing a wave of influenza and respiratory illnesses in Mumbai. Health experts warn that not every monsoon fever is just a viral. The next time you step through ankle-deep floodwater and feel unwell, remember, it could be leptospirosis. Here's why one should seek a doctor's advice."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pok-protests-india-urges-global-accountability-for-pakistan-rights-abuses-kashmir-2947739-2026-07-14",
-      "headline": "Why POK is on the boil: India blames Pakistan's decades-long systemic exploitationThe government said India expects the global community to take note of the situation and hold Pakistan responsible for what he termed 'egregious abuses and misdeeds' in POK."
+      "url": "https://www.indiatoday.in/science/story/anil-menon-iss-mission-nasa-astronaut-docks-space-station-eight-month-science-stint-2948042-2026-07-14",
+      "headline": "Nasa's Anil Menon reaches Space Station, set to begin big science opsAnil Menon has arrived at the International Space Station after Soyuz MS-29 successfully docked. Here's what happens next and the scientific research he will carry out during his eight-month mission."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-bans-biggest-paraquat-herbicide-poison-agricultural-paddy-wheat-2947601-2026-07-14",
-      "headline": "India bans paraquat, weeds out biggest poison from its agricultural fieldsParaquat, the herbicide with no known antidote, survived years of scrutiny in India even as much of the world banned it over its toxicity. A draft notification by the Ministry of Agriculture on Tuesday imposed a nationwide prohibition on the chemical banned in over 70 countries."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/a-guide-to-christopher-nolan-why-the-hype-and-where-to-begin-before-the-odyssey-2947579-2026-07-15",
+      "headline": "A guide to Christopher Nolan: Why the hype, and where to begin before The OdysseyThe countdown to The Odyssey has begun, and so has the Christopher Nolan obsession. Here's why everyone loves his films, and where you should start."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-iran-war-live-updates-strait-of-hormuz-middle-east-tensions-ceasefire-donald-trump-west-asia-crisis-2948065-2026-07-15",
+      "headline": "Live: Trump vows more Iran strikes as IRGC claims attack on US Fifth Fleet in BahrainUS-Iran War Live Updates: US-Iran tensions escalated further on Wednesday as American forces launched another round of airstrikes on military targets inside Iran, saying the strikes were aimed at eliminating \"emerging threats\" and degrading capabilities used to attack commercial shipping in the Strait of Hormuz. The fresh operation came ahead of a renewed US naval blockade on Iranian ports and coastal areas. Tehran responded by claiming it had struck military targets in Bahrain and Kuwait, including weapons depots and a drone launch ramp at Kuwait's Ali Al Salem Air Base, calling the attacks retaliation for recent US strikes. Kuwait later said it intercepted one ballistic missile, five cruise missiles and 33 drones, accusing Iran of targeting vital civilian and military facilities. One Kuwaiti Navy vessel was hit and four service members were injured. Iran also hardened its stance on the Strait of Hormuz, with the Islamic Revolutionary Guard Corps warning that \"not a drop of oil and gas will be exported\" from the region as long as US forces remain there, while a deputy foreign minister declared, \"We will exercise our sovereignty on the Strait of Hormuz whatever that costs.\" Amid the military escalation, US President Donald Trump reversed his proposal to charge a 20 per cent fee on cargo transiting the strategic waterway just a day after announcing it. Follow IndiaToday.in for live updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-war-live-updates-strait-of-hormuz-middle-east-tensions-ceasefire-donald-trump-west-asia-crisis-2946436-2026-07-13",
-      "headline": "Highlights: Iran says US projectile hit Qeshm Island as tensions escalates in Gulf regionUS-Iran War Highlights: As fighting intensified across the Gulf, the Strait of Hormuz remained at the centre of the US-Iran confrontation on Tuesday, with fresh military action, retaliatory strikes and a dramatic policy reversal by President Donald Trump unfolding within hours. The US launched another round of airstrikes on military targets inside Iran, saying they were aimed at degrading capabilities used to threaten commercial shipping and eliminating \"emerging threats\", ahead of the resumption of a naval blockade on Iranian ports. Tehran responded by claiming it had targeted military sites in Bahrain and Kuwait, including weapons depots and a drone launch ramp at Kuwait's Ali Al Salem Air Base. Kuwait later said it intercepted one ballistic missile, five cruise missiles and 33 drones, accusing Iran of attacking key civilian and military facilities. One naval vessel was hit and four service members were injured. Iran also doubled down on its position over the strategic waterway, with the IRGC warning that \"not a drop of oil and gas will be exported\" from the region while US forces remain there. A deputy foreign minister added, \"We will exercise our sovereignty on the Strait of Hormuz whatever that costs.\" Meanwhile, Trump abandoned his controversial proposal to charge a 20 per cent fee on cargo passing through the Strait of Hormuz, just a day after unveiling it. Instead, he said Gulf nations had agreed to make \"massive\" trade and investment commitments to the United States, adding that the strait would remain open to all shipping except vessels linked to Iran. Iran mocked the reversal, with Foreign Minister Abbas Araghchi remarking, \"20 per cent is of course too much. We will be fair.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/standpoint/story/kangana-rejected-bollywoods-boys-club-then-why-back-anandibens-kitchen-politics-2947467-2026-07-14",
-      "headline": "Kangana rejected Bollywood's boys' club. So why back Anandiben's kitchen politics?Kangana Ranaut once told women they were more than wives, mothers and daughters. Her latest endorsement of Anandiben Patel's remarks raises one uncomfortable question: What changed?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-nagercoil-custodial-death-gutka-accused-sabarivarman-found-dead-cctv-probe-2947789-2026-07-14",
-      "headline": "Disabled man caught selling gutka dies after custody assault; DMK attacks VijayThe custodial death of a physically disabled gutka sale accused has sparked outrage in Tamil Nadu, with the DMK demanding action against police personnel and answers from Chief Minister Vijay, who also holds the Home portfolio."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sourav-joshi-vlogs-mercedes-e20-row-car-piyush-youtube-crorepati-story-2947167-2026-07-14",
-      "headline": "How Sourav Joshi made his MercA decade ago, Sourav Joshi watched luxury cars roll into other people's driveways while helping his father at construction sites. Today, the Mercedes he drives has sparked a row after India's most popular YouTuber raised concerns over E20-blended petrol. This is what his journey was powered by. Certainly not E20."
+      "url": "https://www.indiatoday.in/business/commodities/story/the-changing-face-of-indias-gold-craze-2947760-2026-07-15",
+      "headline": "The changing face of India's gold crazeGold still holds a special place in Indian homes, but the reasons for buying it are quietly evolving. Is the yellow metal becoming less about tradition and more about investment?"
     },
     {
       "sentiment": "positive",
@@ -300,27 +300,67 @@
       "headline": "Meet the IAS officer leading Maharashtra's toughest food safety crackdownMaharashtra's FDA has launched a statewide drive against milk adulteration under commissioner Tukaram Mundhe. The action has exposed synthetic milk units, disrupted supplies and sparked calls for compliance time."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/west-bengal-forest-department-crackdown-illegal-logging-vacancies-sapling-drive-ptag-2947398-2026-07-14",
-      "headline": "Suvendu Adhikari orders crackdown on illegal logging in West BengalSuvendu Adhikari asked forest officials to curb illegal logging, fill vacancies and act transparently. He linked stronger staffing and mass tree planting to better conservation and reduced conflict."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/matt-damon-tom-holland-wants-to-star-in-bollywood-film-christopher-nolan-the-odyssey-mumbai-premiere-2947787-2026-07-14",
+      "headline": "Would jump at the opportunity: Matt Damon, Tom Holland ready for Bollywood breakActors Matt Damon and Tom Holland said in Mumbai that they would gladly do a Bollywood film with the right story. The two even highlighted their admiration for Indian cinema's joy and audience energy."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/e20-petrol-mileage-nitin-gadkari-car-owners-authorised-dealers-2947244-2026-07-14",
-      "headline": "Average car owner can't check mileage on their own: Nitin Gadkari amid E20 rowThe minister said car owners cannot accurately measure mileage themselves and should depend on readings taken at authorised dealers. His remarks came amid growing complaints over the government's ethanol blending mandate."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/taslima-nasrin-to-likely-visit-kolkata-after-20-years-for-anti-fundamentalism-event-on-august-1-2947523-2026-07-14",
-      "headline": "Taslima Nasrin likely to return to Kolkata after 20 years for August 1 eventThe author has been invited by Secular Mission and the Human Rights and Bangladesh Freedom Fighters Foundation (HRBFF). The organisers said the invitation is in recognition of her long-standing stand against fundamentalism and her advocacy of freedom of expression."
+      "url": "https://www.indiatoday.in/jobs/story/noida-woman-kirans-success-journey-from-librarian-earning-rs-15000-to-rs-36000-as-a-maid-2947445-2026-07-14",
+      "headline": "Noida woman earned Rs 15,000 in a library job, now makes Rs 36,000 as househelpAfter losing her school library job during the lockdown, Kiran turned to digital domestic work platforms in Noida. She now earns more than double her earlier salary, showing how gig work can expand access to income."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/slovak-leaders-reaction-after-tasting-bihari-thekua-gifted-by-pm-modi-goes-viral-2947492-2026-07-14",
-      "headline": "Slovak leader's reaction after tasting Bihari Thekua gifted by PM Modi goes viralSlovak National Council Chairman Richard Ra\u0161i received a gift of Bihari Thekua from Prime Minister Narendra Modi during his Slovakia visit. He then shared a video of him unboxing and tasting the sweet."
+      "url": "https://www.indiatoday.in/india/story/beed-bridge-viral-video-rs-48-lakh-railing-collapses-probe-maharashtra-2948009-2026-07-14",
+      "headline": "Viral video exposes Rs 48 lakh bridge as railing comes off with one pushVillagers have alleged that the bridge was constructed using substandard materials and have demanded a thorough investigation into the work."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/2026-el-nino-growing-into-a-godzilla-set-to-become-most-powerful-in-150-years-2947414-2026-07-14",
+      "headline": "2026 El Nino on path to become most powerful event in last 150 yearsClimate models indicate the 2026-27 El Nino could outstrip every event recorded since 1877. Scientists say its unusual speed and scale could disrupt weather worldwide, including India's monsoon."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/gianni-infantino-fifa-under-ioc-scrutiny-balogun-ban-reversal-2948101-2026-07-15",
+      "headline": "FIFA chief Infantino under IOC scrutiny over Balogun World Cup ban reversal The International Olympic Committee (IOC) has received a complaint seeking an investigation into FIFA president Gianni Infantino's alleged role in reversing Folarin Balogun's World Cup suspension. It also accuses Infantino of repeatedly breaching political neutrality rules through his support for US President Donald Trump."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/argentina-vs-england-world-cup-semi-final-scaloni-reaction-messi-kane-2948087-2026-07-15",
+      "headline": "Argentina vs England: Coach Scaloni outlines formula to reach World Cup final Argentina coach Lionel Scaloni has urged his players to combine their trademark grit with their attacking quality when they take on England in the FIFA World Cup semi-final on Wednesday, insisting that determination alone will not be enough to secure a place in the final."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/england-vs-argentina-semi-final-fifa-world-cup-lionel-messi-diego-maradona-hand-of-god-preview-2946450-2026-07-15",
+      "headline": "England vs Argentina semifinal: Messi finally faces the one team that eluded him England vs Argentina semi-final: England and Argentina do not meet as ordinary opponents. Rooted in Maradona's infamous 1986 quarter-final, this rivalry carries weight few international fixtures can match. Now Messi faces the one team that has always eluded him."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/messi-favourite-referee-ismail-elfath-argentina-vs-england-world-cup-semi-final-2948085-2026-07-15",
+      "headline": "Lionel Messi's perfect-record referee to officiate Argentina vs England semi-final FIFA has appointed Ismail Elfath to officiate Argentina's World Cup semi-final against England in Atlanta. Messi has been unbeaten in all five matches involving the Moroccan-American referee."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/spain-fifa-world-cup-final-pedri-lamine-yamal-instagram-post-manifestation-2948081-2026-07-15",
+      "headline": "How Pedri and Lamine Yamal manifested Spain's World Cup final into existence Pedri and Lamine Yamal's old Instagram post has resurfaced after Spain reached the World Cup final on 19 July. What once seemed cheeky now reflects the belief driving Spain's young side into a record-chasing title match."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/spain-vs-france-fifa-world-cup-2026-de-la-fuente-2010-spirit-back-2948079-2026-07-15",
+      "headline": "Spain have found their 2010 World Cup spirit: De La Fuente after France win Spain beat France 2-0 in Dallas to reach the 2026 World Cup final, after which Luis de la Fuente said his side had rediscovered the spirit of 2010. The coach said the squad's unity, humility and collective mindset have put La Roja one win from a second world title."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-france-vs-spain-fifa-world-cup-semi-final-defeat-didier-deschamps-reaction-2948078-2026-07-15",
+      "headline": "Kylian Mbappe owns up to France's poor display vs Spain in World Cup semifinal Kylian Mbappe admitted France were second best after a 2-0 World Cup semi-final defeat to Spain, saying Les Bleus fell short tactically and technically. France will now face the third-place playoff, Didier Deschamps' final match before his expected departure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/france-vs-spain-mbappe-dembele-olise-did-not-turn-up-patrick-vieira-2948076-2026-07-15",
+      "headline": "Mbappe, Dembele, Olise didn't turn up for France: Patrick Vieira on Spain defeat Patrick Vieira tore into France after their 2-0 World Cup semi-final defeat to Spain. He said the team's biggest players failed collectively as Spain's discipline exposed them."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/france-vs-spain-didier-deschamps-referee-bigger-michael-olise-2948074-2026-07-15",
@@ -339,42 +379,42 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-1st-odi-match-report-axar-patel-jasprit-bumrah-rohit-kohli-2948025-2026-07-14",
-      "headline": "Bumrah's sorcery, Axar's resilience hand India first win on UK tour India won their first match of the tour of United Kingdom on Tuesday, 14 July. Jasprit Bumrah, returning to the ODI team for the first time since November 2023, once again set the tone with his opening spell of the match."
+      "headline": "Bumrah's sorcery, Axar's resilience hand India first win on UK tourIndia won their first match of the tour of United Kingdom on Tuesday, 14 July. Jasprit Bumrah, returning to the ODI team for the first time since November 2023, once again set the tone with his opening spell of the match."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/yastika-bhatia-india-vs-england-lords-century-exclusive-dream-come-true-2948016-2026-07-14",
-      "headline": "Lord's century is a dream come true: Yastika Bhatia relishing historic 100 Yastika Bhatia called her historic unbeaten 113 at Lord's a \"dream come true\" after becoming the first woman to score a Test century at the iconic venue. The landmark knock capped an inspiring comeback from the ACL injury that sidelined her in late 2025."
+      "headline": "Lord's century is a dream come true: Yastika Bhatia relishing historic 100Yastika Bhatia called her historic unbeaten 113 at Lord's a \"dream come true\" after becoming the first woman to score a Test century at the iconic venue. The landmark knock capped an inspiring comeback from the ACL injury that sidelined her in late 2025."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/france-vs-spain-live-score-fifa-world-cup-semi-final-mbappe-lamine-yamal-updates-2947931-2026-07-14",
-      "headline": "FRA 0-2 ESP: Spain outplay France to make it to World Cup final France (FRA) vs Spain (ESP) Highlights, FIFA World Cup 2026 semi-final: (FRA 0-2 ESP) Spain make another double substitution as Marcos Llorente replaces Pedro Porro and Nico Williams comes on for Alex Baena. With an 82nd-minute 2-0 lead, La Roja are freshening up their side as they close in on the World Cup final."
+      "headline": "FRA 0-2 ESP: Spain outplay France to make it to World Cup finalFrance (FRA) vs Spain (ESP) Highlights, FIFA World Cup 2026 semi-final: (FRA 0-2 ESP) Spain make another double substitution as Marcos Llorente replaces Pedro Porro and Nico Williams comes on for Alex Baena. With an 82nd-minute 2-0 lead, La Roja are freshening up their side as they close in on the World Cup final."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-closing-ceremony-tom-cruise-ishowspeed-jennifer-hudson-2947957-2026-07-14",
-      "headline": "Tom Cruise to IShowSpeed headline FIFA World Cup 2026 closing ceremony FIFA has confirmed Tom Cruise, IShowSpeed and a string of music stars for the World Cup 2026 closing ceremony in New York New Jersey. The pre-match show is set to cap the first 48-team tournament before the final decides the champions."
+      "headline": "Tom Cruise to IShowSpeed headline FIFA World Cup 2026 closing ceremonyFIFA has confirmed Tom Cruise, IShowSpeed and a string of music stars for the World Cup 2026 closing ceremony in New York New Jersey. The pre-match show is set to cap the first 48-team tournament before the final decides the champions."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-odi-gurnoor-brar-injury-bowling-2947858-2026-07-14",
-      "headline": "Another injury scare for India? Gurnoor Brar taken off in 1st ODI India suffered another injury scare during the first ODI against England after fast bowler Gurnoor Brar limped off the field while attempting to bowl his final over. The right-arm pacer had earlier sparked England's collapse with two quick wickets."
+      "headline": "Another injury scare for India? Gurnoor Brar taken off in 1st ODIIndia suffered another injury scare during the first ODI against England after fast bowler Gurnoor Brar limped off the field while attempting to bowl his final over. The right-arm pacer had earlier sparked England's collapse with two quick wickets."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-edgbaston-viral-popcorn-moment-young-fan-india-vs-england-odi-2947833-2026-07-14",
-      "headline": "Watch: MS Dhoni melts hearts with sweet gesture for kid in stands at Edgbaston MS Dhoni stole the spotlight during the first ODI between India and England at Edgbaston, sharing a heartwarming moment with a young fan who offered him popcorn from the stands."
+      "headline": "Watch: MS Dhoni melts hearts with sweet gesture for kid in stands at EdgbastonMS Dhoni stole the spotlight during the first ODI between India and England at Edgbaston, sharing a heartwarming moment with a young fan who offered him popcorn from the stands."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-ryan-ten-doeschate-wants-to-leave-gambhir-2947781-2026-07-14",
-      "headline": "Promises unfulfilled, Ryan ten Doeschate wants to quit India coaching job Ryan ten Doeschate is keen to leave the Indian cricket team after the England tour. According to sources, he is unhappy that he never received the specialist fielding coach's role he was promised."
+      "headline": "Promises unfulfilled, Ryan ten Doeschate wants to quit India coaching jobRyan ten Doeschate is keen to leave the Indian cricket team after the England tour. According to sources, he is unhappy that he never received the specialist fielding coach's role he was promised."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/japan-open-badminton-sat-chi-satwik-shoulder-injury-2947742-2026-07-14",
-      "headline": "Shoulder injury continues to plague Sat-Chi as duo retire from Japan Open Satwiksairaj Rankireddy and Chirag Shetty retired after the opening game of their Japan Open opener as Rankireddy's shoulder injury flared up again. The setback will make them skip the China tournament, while PV Sindhu gave India brighter news by moving into the second round."
+      "headline": "Shoulder injury continues to plague Sat-Chi as duo retire from Japan OpenSatwiksairaj Rankireddy and Chirag Shetty retired after the opening game of their Japan Open opener as Rankireddy's shoulder injury flared up again. The setback will make them skip the China tournament, while PV Sindhu gave India brighter news by moving into the second round."
     },
     {
       "sentiment": "positive",
@@ -435,46 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/france-vs-spain-fifa-world-cup-2026-semi-final-mbappe-yamal-prediction-preview-2947203-2026-07-14",
       "headline": "France vs Spain: Mbappe and Yamal headline World Cup semi-final showdownFIFA World Cup 2026: France and Spain meet in the World Cup semi-final in Dallas after contrasting runs to the last four. The tie pits Mbappe's direct attacking threat against Spain's control, with a place in the final at stake."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/harry-kane-thomas-tuchel-england-rift-rumours-before-argentina-world-cup-semi-final-2947258-2026-07-14",
-      "headline": "Harry Kane blames English mentality for rumours of rift before Argentina semifinalFIFA World Cup: Harry Kane has dismissed suggestions of a rift between Thomas Tuchel and the England squad following Jude Bellingham's emotional post-match remarks after the quarter-final win over Norway, insisting the camp remains united as focus shifts to the World Cup semi-final against Argentina."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/japan-open-2026-pv-sindhu-satwik-chirag-lakshya-sen-world-championships-tune-up-2947249-2026-07-14",
-      "headline": "PV Sindhu, Lakshya Sen and Sat-Chi begin tune-up for World ChampionshipsPV Sindhu and Sat-Chi lead India's Japan Open campaign in Tokyo. The Super 750 offers World Championships preparation as Sat-Chi return from injury and India chase a first elusive title."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-today-odi-match-preview-team-news-birmingham-2947243-2026-07-14",
-      "headline": "1st ODI preview: India rely on comeback men Rohit, Virat to lift dampened spiritsEngland vs India, 1st ODI preview: India will look to seal their first win on the tour after a disastrous T20I series in England. The return of Virat Kohli, Rohit Sharma and Jasprit Bumrah adds firepower to the side, led by Shubman Gill."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-fifa-world-cup-why-fans-want-champions-to-lose-2947067-2026-07-14",
-      "headline": "Why the football world has turned against ArgentinaFIFA World Cup 2026: Argentina's rise from Messi's tragic nearly-men to world champions has changed how football fans view them. Their success now attracts suspicion, backlash and scrutiny that often follows title-winning sides."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-vs-arshad-nadeem-commonwealth-games-2026-glasgow-javelin-final-2947112-2026-07-13",
-      "headline": "Arshad Nadeem confirms participation in CWG 2026, set to face Neeraj ChopraThe Neeraj Chopra-Arshad Nadeem rivalry is set for another chapter after the Pakistan star confirmed his participation in the Commonwealth Games 2026. Nadeem will defend the gold medal he won in Birmingham, while Chopra returns to the Games after missing the previous edition through injury."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/andy-flower-england-test-head-coach-rcb-ipl-2947088-2026-07-13",
-      "headline": "RCB coach Andy Flower will not leave IPL to join England Test team: KarthikRCB head coach Andy Flower is one of the early favourites to become the head coach of the England Test team. However, former India cricketer, Dinesh Karthik believes that there is one small problem which would stop the coach from switching sides to England."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-series-brendon-mccullum-comments-2947023-2026-07-13",
-      "headline": "Brendon McCullum breaks silence after sacking from England Test coach roleBrendon McCullum said he was disappointed after losing the England Test job and apologised to supporters. He said that Bazball changed the side's identity, but failures in the Ashes and against India proved decisive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-test-lords-harmanpreet-kaur-2947015-2026-07-13",
-      "headline": "Harmanpreet calls for more women's Test matches after historic win at Lord'sIndia captain Harmanpreet Kaur has called for more women's Test matches after leading her side to a historic 270-run victory over England at Lord's. Speaking after India's massive win, she hoped that the team gets \"ten more Test matches\" to continue proving themselves in the longest format."
     }
   ],
   "education": [
