@@ -2,8 +2,33 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-nifty-close-higher-crude-oil-west-asia-tensions-profit-booking-it-shares-ibm-2948421-2026-07-15",
+      "headline": "Sensex recovers but profit booking wipes out most gains amid oil concernsThe S&P BSE Sensex settled 130.49 points, or 0.17%, higher at 77,185.43 after climbing more than 500 points during the session. The NSE Nifty50 also erased a large part of its intraday gains to close 27.70 points, or 0.11%, higher at 24,078.50."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/semicon-2-0-cabinet-approval-rs-1-lakh-crore-india-semiconductor-mission-explained-ai-capability-2948399-2026-07-15",
+      "headline": "Centre approves Semicon 2.0 with Rs 1.27 lakh crore outlayThe Union Cabinet has approved Semicon 2.0 with a Rs 1.27 lakh crore outlay for chip design and manufacturing. The move seeks to expand India's role in the global semiconductor supply chain and reduce import dependence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/kudankulam-nuclear-plant-data-breach-anil-ambani-reliance-blueprint-leak-2948376-2026-07-15",
+      "headline": "Files linked to Kudankulam N-power plant exposed in data breach: ReutersA ransomware group has published a large cache of stolen data on the dark web, claiming it includes blueprints of parts of India's largest nuclear power plant Kudankulam. The hackers said the data was obtained from Anil Ambani's Reliance Group, a contractor at the plant."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/ibm-share-crash-impact-on-indian-it-tcs-infosys-wipro-hcltech-wipro-ai-spending-2948359-2026-07-15",
+      "headline": "IBM lost over $100 billion in just 42 days. Should Indian IT investors worry?IBM's $100 billion market value erosion in 42 days has jolted technology stocks and raised questions for Indian IT. The sell-off reflects a wider shift towards AI infrastructure spending, though recent Indian IT earnings remain steadier."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/bihar-to-offer-doorstep-property-registration-for-citizens-aged-75-and-above-2948340-2026-07-15",
+      "headline": "Bihar to offer doorstep property registration for citizens aged 75 and aboveSenior citizens who wish to use the service must first book an appointment through Bihar's official e-registration portal."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/a-trade-deal-built-for-indias-real-economy-2948298-2026-07-15",
-      "headline": "A trade deal built for India's real economyCETA is India's most ambitious trade agreement to date, and the details show a government that negotiated for the parts of the economy that need it most."
+      "headline": "A trade deal built for India's real economyFor most trade agreements, that gap between signature and implementation is a routine administrative window. For CETA, it has been the period in which the government has assembled the ground-level architecture that will determine whether the agreement delivers on its promise."
     },
     {
       "sentiment": "positive",
@@ -74,34 +99,39 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/tata-india-most-valuable-brand-adani-enters-top-10-brand-finance-india-100-2026-2947487-2026-07-14",
       "headline": "Tata is still India's No.1 brand. But there's a new entrant in the top 10Tata Group retained its place as India's most valuable brand for the 18th straight year, while Adani Group entered the top 10 for the first time. The Brand Finance India 100 2026 report also showed stronger gains for companies investing in AI, digital infrastructure and renewable energy."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/commodities/story/brent-crude-oil-rises-to-a-1-month-high-above-86-will-petrol-and-diesel-prices-increase-too-2947475-2026-07-14",
-      "headline": "Crude oil rises to a 1-month-high above $86: Will petrol and diesel prices increase too?At the time of writing, Brent Crude was trading at $86.07 per barrel, up around 3.33% during the day."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/have-you-recieved-this-total-tds-message-from-the-income-tax-department-heres-what-it-means-itr-filing-2947440-2026-07-14",
-      "headline": "Have you recieved this 'total TDS' message? Here's what it meansThe Income Tax Department has started sending 'Total TDS' SMS alerts to taxpayers across the country. Why are you receiving this message, and what does it mean for your ITR? Have a look."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/india-retail-inflation-17-month-high-food-prices-crude-oil-rise-us-iran-rbi-target-2947428-2026-07-14",
-      "headline": "Inflation jumps from 2.74% to 4.38% in 6 months: Why did it rise so sharply?Food inflation climbed to 5.32% from 4.78% a month earlier. Since food carries the highest weight in the inflation basket, higher food prices had the biggest impact on overall inflation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/why-south-koreas-kospi-the-worlds-best-performing-stock-market-suddenly-crashing-samsung-sk-hynix-2947386-2026-07-14",
-      "headline": "Why South Korea's KOSPI, world's best-performing stock market, is suddenly crashingSouth Korea's KOSPI has slipped into a bear market after a record AI-driven surge led by Samsung Electronics and SK Hynix. The reversal has exposed heavy retail leverage, foreign outflows and regulator concerns over single-stock products."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/epfo-simplifies-pf-transfers-what-the-new-rule-means-for-job-switchers-2947368-2026-07-14",
-      "headline": "EPFO simplifies PF transfers: What the new rule means for job switchersThe change has been introduced after EPFO shifted to its Centralised IT Enabled Services (CITES) platform, which is designed to bring member records and services onto a single centralised system."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/vijays-jana-nayagan-to-release-on-july-23-2948388-2026-07-15",
+      "headline": "Vijay's Jana Nayagan to release on July 23, producers say film built for history Actor Vijay's much-awaited film Jana Nayagan is all set for a grand release on July 23 after overcoming a prolonged legal battle and certification hurdles. Fans eagerly await this historic film, which is expected to be Vijay's final cinematic venture."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/netflix-lock-upp-madhuri-grover-lock-upp-eviction-shreya-kalra-friendship-ram-kapoor-rumours-2948318-2026-07-15",
+      "headline": "Lock Upp: Madhuri Grover addresses link-up rumours with Ram Kapoor After her eviction from Lock Upp: Sach Ya Sazaa, Madhuri Grover, in an interview, dismissed rumours about her link-ups with Ram Kapoor. She also spoke about her friendship with Shreya Kalra."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/priyanka-chopra-varanasi-update-ss-rajamouli-film-slow-motion-action-scenes-2948350-2026-07-15",
+      "headline": "Priyanka Chopra hypes up SS Rajamouli's Varanasi, teases slow-motion action Priyanka Chopra described SS Rajamouli's Varanasi as an epic action adventure where she has many slow-motion action sequences. Her comments, made on Hey Jonas podcast, sharpened interest in the film as it heads towards its April 2027 release."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/jennifer-winget-william-ishmael-private-uk-wedding-july-16-2948302-2026-07-15",
+      "headline": "Jennifer Winget to marry William Ishmael in UK tomorrow Jennifer Winget is reportedly set to marry William Ishmael on Thursday in a private ceremony in the United Kingdom. The reported wedding marks a new personal chapter as she remains active across television and OTT projects."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/zaid-darbar-reveals-gauahar-khans-advice-on-kushal-tandon-before-alliance-entry-2948317-2026-07-15",
+      "headline": "Zaid Darbar reveals Gauahar Khan's advice on Kushal Tandon before Alliance entry Content creator Zaid Darbar opened up about sharing screen space with Kushal Tandon on Alliance despite their past connection through Gauahar Khan. He also revealed what his wife had told him about the actor before the show."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-ruth-prabhu-babymoon-photos-hua-hin-thailand-raj-nidimoru-2948310-2026-07-15",
+      "headline": "Samantha's babymoon photo dump is all about wellness, downtime with Raj Nidimoru Samantha Ruth Prabhu shared photos from her Hua Hin babymoon with Raj Nidimoru. The post also captured her maternity break and Maa Inti Bangaaram's box office milestone."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/alia-bhatt-tumbbad-2-casting-sequel-star-power-debate-2948157-2026-07-15",
@@ -140,7 +170,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-nick-jonas-bollywood-gossip-celebrity-breakups-2948178-2026-07-15",
-      "headline": "Nick Jonas knows every Bollywood gossip, break-up before Priyanka Chopra does On the Jonas Brothers' podcast, actor Priyanka Chopra said her singer-husband Nick Jonas often updates her on Bollywood gossip and celebrity break-ups. The chat turned playful as Nick admitted he ghost-follows unnamed gossip pages."
+      "headline": "Nick Jonas is a true-blue Bollywood buff, beats Priyanka to the gossip On the Jonas Brothers' podcast, actor Priyanka Chopra said her singer-husband Nick Jonas often updates her on Bollywood gossip and celebrity break-ups. The chat turned playful as Nick admitted he ghost-follows unnamed gossip pages."
     },
     {
       "sentiment": "positive",
@@ -166,48 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kriti-sanon-kabir-bahia-india-vs-england-odi-birmingham-rumoured-boyfriend-viral-pics-2948128-2026-07-15",
       "headline": "Kriti Sanon cheers for Team India with rumoured boyfriend Kabir Bahia. Pics Actor Kriti Sanon enjoyed the India vs England ODI from the stands with her rumoured boyfriend, entrepreneur Kabir Bahia. Photos from the stadium quickly went viral on social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/so-ji-sub-agent-kim-reactivated-became-2026-biggest-surprise-hit-2948112-2026-07-15",
-      "headline": "Why So Ji-sub's K-drama Agent Kim Reactivated is 2026's biggest surprise hit Agent Kim Reactivated has crossed 22 per cent ratings on SBS, with So Ji-sub driving its rise at home and on Netflix in India. The drama's success underscores the pull of emotionally rooted action and the trust viewers place in a long-established star."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-rejects-love-jihad-tag-neither-gauri-spratt-reena-dutta-nor-kiran-rao-converted-2948111-2026-07-15",
-      "headline": "Neither Gauri, Reena nor Kiran converted: Aamir Khan rejects 'love jihad' tag Aamir Khan has rejected 'love jihad' allegations and said his interfaith marriages involved no conversions. He married Gauri Spratt in an intimate ceremony at his Mumbai home on July 5."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/doesnt-hold-your-hand-matt-damon-on-nolans-approach-to-films-interstellar-days-2947809-2026-07-15",
-      "headline": "Doesn't hold your hand: Matt Damon on Nolan's approach to films, Interstellar days Actor Matt Damon praised Christopher Nolan's unique filmmaking style in an exclusive interview. He recalled how the director preferred to keep shooting instead of celebrating a perfect take during Interstellar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/a-guide-to-christopher-nolan-why-the-hype-and-where-to-begin-before-the-odyssey-2947579-2026-07-15",
-      "headline": "Beginner's guide to Christopher Nolan's films: How to decode his complex worlds The countdown to The Odyssey has begun, and so has the Christopher Nolan obsession. Here's why everyone loves his films, and where you should start."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/christopher-nolan-the-odyssey-controversy-4-reasons-why-2947657-2026-07-15",
-      "headline": "Christopher Nolan's The Odyssey is courting controversy. Here are 4 reasons why From casting call to dialogues and from location choice to peak detailing, Christopher Nolan's new film, The Odyssey, has triggered its share of outrage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhamaal-4-box-office-day-5-ajay-devgns-film-nears-rs-100-crore-mark-in-india-2948084-2026-07-15",
-      "headline": "Dhamaal 4 box office Day 4: Ajay Devgn's film ends first Tuesday on a high note Actor Ajay Devgn's Dhamaal 4 held its ground on Day 5 as Tuesday offers helped draw more audiences to theatres. The film is now closing in on a big box office milestone."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sharad-pawars-ncp-to-back-nda-govts-controversial-delimitation-bill-breaks-ranks-with-opposition-sources-2948225-2026-07-15",
-      "headline": "Sharad Pawar's NCP may back NDA's delimitation bill, breaking ranks with OppositionThe Sharad Pawar-led NCP is likely to back the NDA's Delimitation Bill if it guarantees a uniform 50% increase in Lok Sabha seats across all states, a move that could see the party break ranks with the Opposition."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indian-sailor-who-went-missing-after-iran-strike-on-cyprus-flagged-ship-is-dead-father-in-law-to-reuters-2948275-2026-07-15",
-      "headline": "Indian sailor missing since Sunday in Hormuz strike is dead: Father-in-lawThe Cyprus-flagged GFS Galaxy, carrying 24 crew members including 11 Indians, was hit off the coast of Oman. The death is the second of an Indian seafarer in three days, deepening concerns over the safety of Indian crews operating around the Strait of Hormuz."
+      "url": "https://www.indiatoday.in/business/story/kudankulam-nuclear-plant-data-breach-anil-ambani-reliance-blueprint-leak-2948376-2026-07-15",
+      "headline": "Files linked to Kudankulam N-power plant exposed in data breach: ReutersA ransomware group has published a large cache of stolen data on the dark web, claiming it includes blueprints of parts of India's largest nuclear power plant Kudankulam. The hackers said the data was obtained from Anil Ambani's Reliance Group, a contractor at the plant."
     },
     {
       "sentiment": "positive",
@@ -215,14 +210,24 @@
       "headline": "I spent a night as a cockroach at CJP's Jantar Mantar protest. This is what I sawI stayed overnight at the Cockroach Janta Party (CJP) protest site at New Delhi's Jantar Mantar without revealing my identity. I spoke to the participants, ate the food being served and overheard the conversations around fasting activist Sonam Wangchuk. I also noticed the unease over absent CJP leaders."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rath-yatra-puri-security-jagannath-temple-covid-stampede-lessons-2948287-2026-07-15",
-      "headline": "2025 stampede memories, Covid scare: How Puri is gearing up for Rath YatraWith memories of last year's stampede still fresh, Odisha has left no stone unturned to make sure this year's Rath Yatra passes without a hitch. An elaborate security plan has been put in place. However, Covid scare in neighbouring Andhra has come as an added concern."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-iran-war-live-updates-strait-of-hormuz-middle-east-tensions-ceasefire-donald-trump-west-asia-crisis-2948065-2026-07-15",
+      "headline": "Live: US launches new strikes on Iran, Bahrain thwarts Iranian drone attackUS-Iran War Live Updates: US-Iran tensions escalated further on Wednesday as American forces launched another round of airstrikes on military targets inside Iran, saying the strikes were aimed at eliminating \"emerging threats\" and degrading capabilities used to attack commercial shipping in the Strait of Hormuz. The fresh operation came ahead of a renewed US naval blockade on Iranian ports and coastal areas. Tehran responded by claiming it had struck military targets in Bahrain and Kuwait, including weapons depots and a drone launch ramp at Kuwait's Ali Al Salem Air Base, calling the attacks retaliation for recent US strikes. Kuwait later said it intercepted one ballistic missile, five cruise missiles and 33 drones, accusing Iran of targeting vital civilian and military facilities. One Kuwaiti Navy vessel was hit and four service members were injured. Iran also hardened its stance on the Strait of Hormuz, with the Islamic Revolutionary Guard Corps warning that \"not a drop of oil and gas will be exported\" from the region as long as US forces remain there, while a deputy foreign minister declared, \"We will exercise our sovereignty on the Strait of Hormuz whatever that costs.\" Amid the military escalation, US President Donald Trump reversed his proposal to charge a 20 per cent fee on cargo transiting the strategic waterway just a day after announcing it. Follow IndiaToday.in for live updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/zendaya-christopher-nolan-tom-holland-rare-perfect-the-odyssey-2948208-2026-07-15",
-      "headline": "When Zendaya got a rare 'perfect' from Nolan: What Tom Holland told India TodayActor Tom Holland reacted to his co-star, wife Zendaya receiving Christopher Nolan's rare 'perfect' on The Odyssey set during an exclusive chat with India Today in Mumbai. He said Nolan's appreciation for his performance was all the validation he needed."
+      "url": "https://www.indiatoday.in/india/story/sharad-pawars-ncp-to-back-nda-govts-controversial-delimitation-bill-breaks-ranks-with-opposition-sources-2948225-2026-07-15",
+      "headline": "Sharad Pawar's NCP may back NDA's delimitation bill, breaking ranks with OppositionThe Sharad Pawar-led NCP is likely to back the NDA's Delimitation Bill if it guarantees a uniform 50% increase in Lok Sabha seats across all states, a move that could see the party break ranks with the Opposition."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/opinion/story/pakistan-hardball-britain-shabir-ahmed-deportation-grooming-gang-2948344-2026-07-15",
+      "headline": "Why is Pakistan playing hardball with Britain over a child rapist?The Shabir Ahmed deportation issue is widely seen in the UK as a test of the government's will and ability to deliver justice to victims of grooming gangs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-ready-captain-india-historic-womens-test-win-lords-2948322-2026-07-15",
+      "headline": "Smriti Mandhana prepared to replace Harmanpreet Kaur as India captainSmriti Mandhana says she is ready to captain India in Harmanpreet Kaur's absence, with the vice-captain boasting an impressive record of 15 wins in 22 matches across T20Is and ODIs."
     },
     {
       "sentiment": "positive",
@@ -231,38 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/sonam-wangchuk-hunger-strike-petition-delhi-high-court-2948145-2026-07-15",
-      "headline": "Lost 8.5 kg, may die in 2 days: Plea seeks force-feeding of Sonam WangchukA petition has been filed before the Delhi High Court seeking medical aid for activist Sonam Wangchuk, whose hunger strike demanding the resignation of the Union Education Minister entered its 18th day on Wednesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/france-nuclear-reactors-french-heatwave-rivers-cooling-india-nuclear-plants-risk-electricity-science-news-2948280-2026-07-15",
-      "headline": "France shut its nuclear reactors as rivers boiled. Is India next?France switched off three nuclear reactors and cut output at several more this week, after rivers meant to cool them grew too warm to use safely. India's coastal and inland reactors face a different risk."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/from-iit-to-millionaire-meet-siddhartha-saxena-who-earned-rs-77-crore-in-a-single-day-educ-2948110-2026-07-15",
-      "headline": "From IIT to millionaire: Meet Siddhartha Saxena who earned Rs 77 crore in a single dayFrom IIT Kanpur to building a fast-growing AI startup, Siddhartha Saxena's journey is defined by innovation and calculated risk. The Merlin co-founder says he earned nearly Rs 77 crore (USD 8 million) in a single day, becoming a millionaire at just 26."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-helped-stop-putin-from-using-nukes-in-ukraine-claims-polish-minister-2948160-2026-07-15",
-      "headline": "PM Modi helped stop Putin from using nukes in Ukraine, claims Polish ministerPoland's deputy foreign minister said PM Modi helped dissuade Vladimir Putin from using tactical nuclear weapons in Ukraine in late 2022. He said Modi remains among the few leaders able to influence Putin."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/ibm-shares-crash-biggest-single-day-60-years-ai-infrastructure-spending-shift-missed-deals-2948141-2026-07-15",
-      "headline": "IBM's $70 billion wipeout: What triggered its worst stock crash in 58 years?IBM just suffered its worst stock crash in nearly six decades. What went wrong, and what does it reveal about the winners and losers of the AI race?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-three-language-policy-supreme-court-questions-if-english-can-be-considered-an-indigenous-language-2948114-2026-07-15",
-      "headline": "CBSE 3-language policy: SC questions if English can be considered indigenous languageThe Supreme Court refused to stay CBSE's Class 6 three-language policy while hearing challenges to its rollout. The bench's remarks on English and indigenous languages sharpened the wider debate over multilingual education and implementation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-rejects-love-jihad-tag-neither-gauri-spratt-reena-dutta-nor-kiran-rao-converted-2948111-2026-07-15",
-      "headline": "Neither Gauri, Reena nor Kiran converted: Aamir Khan rejects 'love jihad' tagAamir Khan has rejected 'love jihad' allegations and said his interfaith marriages involved no conversions. He married Gauri Spratt in an intimate ceremony at his Mumbai home on July 5."
+      "url": "https://www.indiatoday.in/india/law-news/story/patna-high-court-ruling-salwar-removal-chest-pressing-not-attempt-to-rape-2948413-2026-07-15",
+      "headline": "Removing salwar, pressing chest not enough for attempt to rape: Patna High CourtThe Patna High Court ruled that removing a woman's salwar and pressing her chest, without evidence of penetration or an unequivocal overt act towards rape, does not constitute an attempt to rape under the IPC."
     },
     {
       "sentiment": "positive",
@@ -271,13 +246,58 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pok-protests-jaac-38-point-charter-electricity-prices-rights-2948373-2026-07-15",
+      "headline": "Power, prices, politics: Why POK protesters are up in arms against PakistanThe protesters' 38-point charter goes beyond immediate economic concerns, seeking sweeping reforms in governance, political representation, healthcare, education and policing. With talks yielding no breakthrough, demonstrations continue across POK as the Joint Awami Action Committee insists the agitation will not end until its demands are accepted."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/companies/story/what-fairfaxs-proposed-57-billion-idbi-bank-acquisition-means-for-india-2948205-2026-07-15",
       "headline": "Inside Fairfax's proposed $5.5 billion IDBI Bank acquisition and what's at stakeIf the proposed transaction goes through, it could be worth around $5.5 billion-$5.7 billion, making it one of the largest foreign investments ever in an Indian bank and one of the government's most significant privatisation deals in recent years."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/satluj-was-never-about-jaswant-singh-khalra-politics-director-honey-trehan-defends-film-2948265-2026-07-15",
-      "headline": "Satluj was never about Khalra's politics: Director Honey Trehan defends filmDirector Honey Trehan defended his portrayal of Jaswant Singh Khalra, rejecting criticism that the film omitted the activist's political views. He said the film focussed on Khalra's work exposing human rights violations."
+      "url": "https://www.indiatoday.in/science/story/monsoon-revival-india-bay-of-bengal-low-pressure-rainfall-july-2948384-2026-07-15",
+      "headline": "Monsoon warming up in Bay of Bengal after power nap. When will it rain?Something brewing in the Bay of Bengal is expected to revive the monsoon in coming days, bringing widespread rain to several states. Read when rain will arrive and where."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/france-nuclear-reactors-french-heatwave-rivers-cooling-india-nuclear-plants-risk-electricity-science-news-2948280-2026-07-15",
+      "headline": "France shut its nuclear reactors as rivers boiled. Is India next?France switched off three nuclear reactors and cut output at several more this week, after rivers meant to cool them grew too warm to use safely. India's coastal and inland reactors face a different risk."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/vijays-jana-nayagan-to-release-on-july-23-2948388-2026-07-15",
+      "headline": "Vijay's Jana Nayagan, 'built for history', finally gets worldwide release dateVijay's much-anticipated film Jana Nayagan is all set for a grand release worldwide after overcoming a prolonged legal battle and certification hurdles. Fans eagerly await this historic film, which is expected to be Vijay's final cinematic venture."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/noida/story/noida-building-fire-ev-battery-2-dead-48-families-evacuated-probe-2948391-2026-07-15",
+      "headline": "2 killed in Noida building fire, cops say spark from charging EV triggered blazeOn receiving the alert, seven fire tenders, a hydraulic platform, the Chief Fire Officer and local police teams rushed to the spot and launched a rescue operation. The blaze was later brought under control."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/from-iit-to-millionaire-meet-siddhartha-saxena-who-earned-rs-77-crore-in-a-single-day-educ-2948110-2026-07-15",
+      "headline": "From IIT to millionaire: Meet Siddhartha Saxena who earned Rs 77 crore in a single dayFrom IIT Kanpur to building a fast-growing AI startup, Siddhartha Saxena's journey is defined by innovation and calculated risk. The Merlin co-founder says he earned nearly Rs 77 crore (USD 8 million) in a single day, becoming a millionaire at just 26."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-rejects-love-jihad-tag-neither-gauri-spratt-reena-dutta-nor-kiran-rao-converted-2948111-2026-07-15",
+      "headline": "Neither Gauri, Reena nor Kiran converted: Aamir Khan rejects 'love jihad' tagAamir Khan has rejected 'love jihad' allegations and said his interfaith marriages involved no conversions. He married Gauri Spratt in an intimate ceremony at his Mumbai home on July 5."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-gautam-gambhir-india-england-second-odi-2948355-2026-07-15",
+      "headline": "Rohit Sharma gets coach Gautam Gambhir's backing amid ODI World Cup speculationIndia head coach Gautam Gambhir has backed Rohit Sharma to continue playing his natural game, with the team management keen to free the veteran opener from any pressure over his future."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/supreme-court-english-indigenous-language-cbse-three-language-policy-explained-2948285-2026-07-15",
+      "headline": "CBSE's 3-language policy has a problem: Nobody knows if English is \"Indian\"The Supreme Court, hearing petitions against CBSE's three-language rollout, questioned whether English can be considered indigenous to India. The remark has brought a long-unresolved legal and policy gap to the centre of the education debate."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/fresh-blow-to-mamata-banerjee-as-tmc-veteran-madan-mitra-joins-rebel-camp-2948353-2026-07-15",
+      "headline": "Madan Mitra, Mamata's trusted lieutenant, joins rebel Trinamool campMadan Mitra, once seen as Mamata Banerjee's foremost trusted lieutenant who stood beside her when she broke away from the Congress and formed the Trinamool, resigned from all posts on Wednesday."
     },
     {
       "sentiment": "positive",
@@ -286,41 +306,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-announces-1-day-mass-hunger-strike-sonam-wangchuk-students-dharmendra-pradhan-resign-2948271-2026-07-15",
-      "headline": "CJP announces 1-day mass hunger strike in solidarity with Sonam WangchukThe Cockroach Janta Party has been staging a sit-in at Delhi's Jantar Mantar for the past 25 days, demanding the resignation of Education Minister Dharmendra Pradhan over the NEET paper leak."
+      "url": "https://www.indiatoday.in/cities/gurugram/story/gurugram-domestic-worker-killed-thar-society-parking-woman-detained-2948358-2026-07-15",
+      "headline": "Woman reversing SUV kills domestic help sleeping in Gurugram parking lotA domestic worker was killed after a woman reversing a Thar ran over her while she was sleeping in the parking area of a Gurugram housing society."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lamine-yamal-spain-vs-france-world-cup-semi-final-win-2948181-2026-07-15",
-      "headline": "Teenage swagger: At 19, Lamine Yamal walks the talk, escapes the trolls in styleLamine Yamal's pre-match swagger was vindicated as Spain beat France 2-0 in the World Cup semi-final. His sharp display and Spain's control left the pre-tournament favourites chasing shadows."
+      "url": "https://www.indiatoday.in/health/story/after-18-days-of-fasting-can-sonam-wangchuk-be-force-fed-doctors-weigh-in-2948334-2026-07-15",
+      "headline": "After 18 days of fasting, can Sonam Wangchuk be force-fed? Doctors weigh inAs concerns grow over Sonam Wangchuk's prolonged hunger strike, doctors say the greatest danger is not only the fast itself but also how the body is fed afterwards. Here's what happens inside the body during a long fast and why restarting food must be done carefully."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/e20-petrol-in-india-brazil-ethanol-blending-flex-fuel-cars-ford-volkswagen-fiat-e100-2947293-2026-07-15",
-      "headline": "Ethanol fact: India is trying to do with a jolt what Brazil achieved in decadesIndia's sprint to achieve 20% ethanol-blended petrol five years ahead of schedule has left people scrambling. While ministers keep citing the example of Brazil, the country took several decades to replace pure petrol while transitioning to flex-fuel vehicles. Here's the lesson from Brazil's transition."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/zendaya-isnt-just-playing-athena-in-the-odyssey-she-dressed-like-one-too-2948227-2026-07-15",
-      "headline": "Zendaya isn't just playing Athena in The Odyssey. She dressed like her tooZendaya plays goddess Athena in Christopher Nolan's The Odyssey, and guess what, she embraced the character at the New York premiere of the film as well."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-capgemini-creche-abuse-case-daycare-alleges-videos-staged-for-extortion-2948164-2026-07-15",
-      "headline": "Capgemini daycare operator alleges extortion plot, claims videos were stagedThe management of the Capgemini daycare in Bengaluru claimed the viral child abuse videos were deliberately staged by terminated employees as part of an extortion conspiracy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-fast-shashi-tharoor-jantar-mantar-neet-protest-parliament-cockroach-janata-party-dipke-2948232-2026-07-15",
-      "headline": "Shashi Tharoor writes open letter to Jantar Mantar protesters, Sonam WangchukShashi Tharoor urged Sonam Wangchuk to end his indefinite fast, saying the protest had already stirred the nation's conscience and that students' concerns should now be raised in Parliament. He also appealed to the Centre to open a dialogue with protesters, even as Wangchuk refused to call off his fast."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/irctc-is-launching-new-website-it-will-make-tatkal-bookings-faster-full-details-here-2948273-2026-07-15",
-      "headline": "IRCTC is launching new website, it will make Tatkal bookings faster: Full details hereIRCTC is launching a redesigned ticket-booking website promising significant improvement over the previous one. Here are all the ways it can change your ticket-booking experience."
+      "url": "https://www.indiatoday.in/health/story/cyclospora-outbreak-us-doctors-avoid-fresh-produce-cdc-probes-cases-salad-greens-lettuce-taco-bell-2948266-2026-07-15",
+      "headline": "Cyclospora outbreak: Why US doctors want people to avoid fresh produceThe CDC is investigating more than 5,000 Cyclospora cases in the US. Doctors are urging people to avoid certain fresh produce as officials trace the source of contamination."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/england-vs-argentina-world-cup-2026-semi-final-time-live-streaming-india-2948425-2026-07-15",
+      "headline": "How to watch England vs Argentina World Cup semis: Date, time, streaming details England and Argentina will renew one of football's fiercest rivalries in the FIFA World Cup 2026 semi-final in Atlanta, with the winners advancing to face Spain in Sunday's final."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-gautam-gambhir-india-england-second-odi-2948355-2026-07-15",
+      "headline": "Rohit Sharma gets coach Gautam Gambhir's backing amid ODI World Cup speculation India head coach Gautam Gambhir has backed Rohit Sharma to continue playing his natural game, with the team management keen to free the veteran opener from any pressure over his future."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-ready-captain-india-historic-womens-test-win-lords-2948322-2026-07-15",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/argentina-vs-england-world-cup-semi-final-scaloni-reaction-messi-kane-2948087-2026-07-15",
-      "headline": "Argentina vs England: Coach Scaloni outlines formula to reach World Cup final Argentina coach Lionel Scaloni has urged his players to combine their trademark grit with their attacking quality when they take on England in the FIFA World Cup semi-final on Wednesday, insisting that determination alone will not be enough to secure a place in the final."
+      "headline": "Argentina vs England: Coach Scaloni outlines formula to reach World Cup finalArgentina coach Lionel Scaloni has urged his players to combine their trademark grit with their attacking quality when they take on England in the FIFA World Cup semi-final on Wednesday, insisting that determination alone will not be enough to secure a place in the final."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/england-vs-argentina-semi-final-fifa-world-cup-lionel-messi-diego-maradona-hand-of-god-preview-2946450-2026-07-15",
-      "headline": "England vs Argentina semifinal: Messi finally faces the one team that eluded him England vs Argentina semi-final: England and Argentina do not meet as ordinary opponents. Rooted in Maradona's infamous 1986 quarter-final, this rivalry carries weight few international fixtures can match. Now Messi faces the one team that has always eluded him."
+      "headline": "England vs Argentina semifinal: Messi finally faces the one team that eluded himEngland vs Argentina semi-final: England and Argentina do not meet as ordinary opponents. Rooted in Maradona's infamous 1986 quarter-final, this rivalry carries weight few international fixtures can match. Now Messi faces the one team that has always eluded him."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/erling-haaland-raccoon-viral-norway-star-brings-750-taxidermy-souvenir-from-texas-2947465-2026-07-14",
       "headline": "Erling Haaland returns from the US with a raccoon, breaks the internetDespite Norway's heartbreaking World Cup exit, Erling Haaland has stolen the global spotlight by returning home with a bizarre, whiskey-clutching taxidermied raccoon. Now, the internet is completely obsessed with his viral new Texas travel companion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-1st-odi-live-score-birmingham-virat-kohli-rohit-sharma-2947456-2026-07-14",
-      "headline": "1st ODI Highlights: Washington, Axar guiding India towards victoryEngland (ENG) vs India (IND), 1st ODI Highlights: India are inching towards a win in the first ODI of the series. Washington Sundar and Axar Patel keep the innings steady after two quick dismissals of KL Rahul and Shreyas Iyer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-ajit-agarkar-friction-karthik-warns-india-after-uk-t20i-defeats-2947444-2026-07-14",
-      "headline": "Friction between Gambhir and Agarkar? India urged to clear confusion after UK disasterDinesh Karthik said Gautam Gambhir and Ajit Agarkar appear out of sync after India's T20 defeats in Ireland and England. India lost T20I series in England and Ireland without even winning a game."
     }
   ],
   "education": [
