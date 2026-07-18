@@ -104,6 +104,21 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/batwara-1947-teaser-2-sunny-deol-takes-a-stand-amid-partitions-horror-and-chaos-2950778-2026-07-18",
+      "headline": "Batwara 1947 teaser 2 : Sunny Deol takes a stand amid partition's horror and chaos The second teaser of Batwara 1947 has been released, offering a gripping glimpse into the horrors of Partition with Sunny Deol's powerful performance and an emotional voiceover."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-rajesh-sharma-discharged-from-hospital-after-health-scare-on-fauji-set-2950711-2026-07-18",
+      "headline": "Actor Rajesh Sharma discharged from hospital after health scare on Fauji set Actor Rajesh Sharma has recovered after being hospitalised due to complications from an insect bite suffered while shooting for Fauji. FWICE President BN Tiwari confirmed that the actor has returned to Mumbai and is expected to resume work in the next few days."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/national-film-awards-2024-winners-announcement-today-after-two-week-delay-2950708-2026-07-18",
+      "headline": "National Film Awards 2026 winners to be announced today The Ministry of Information and Broadcasting will announce the 72nd National Film Awards in New Delhi today. The ceremony will live stream on PIB's YouTube channel."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/the-india-story-trailer-kajal-aggarwal-shreyas-talpade-pesticide-farming-crisis-2950642-2026-07-18",
       "headline": "The India Story trailer: Kajal Aggarwal, Shreyas Talpade battle pesticide crisis The trailer of The India Story: Slow Poison in Progress is out. Starring Shreyas Talpade and Kajal Aggarwal, the film follows a father and a lawyer confronting the fallout of pesticide farming."
     },
@@ -181,43 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/oscar-winning-actor-brenda-fricker-known-for-her-roles-in-home-alone-2-and-my-left-foot-dies-at-81-2950169-2026-07-17",
       "headline": "Oscar-winning actor Brenda Fricker, known for Home Alone 2, dies at 81 Oscar-winning Irish actor Brenda Fricker, best known for My Left Foot, Home Alone 2 and Casualty, died at the age of 81. She made history in 1990 as the first Irish female actor to win an Academy Award."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/internet-reacts-as-aamir-khan-says-sonam-wangchuk-didnt-inspire-3-idiots-phunshuk-wangdu-2950134-2026-07-17",
-      "headline": "A new low: Internet reacts as Aamir says Wangchuk didn't inspire 3 Idiots' Wangdu Actor Aamir Khan's denial that Phunsukh Wangdu in 3 Idiots was inspired by Sonam Wangchuk has sparked a heated debate online. Social media users pointed to Wangchuk's old interviews and questioned the actor's claim that the filmmakers did not know the activist while making the film."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/he-wanted-akshay-out-of-film-omg-2-makers-shred-paresh-rawal-over-story-theft-claim-2950111-2026-07-17",
-      "headline": "He wanted Akshay out of film: OMG 2 makers shred Paresh Rawal over story-theft claim The controversy around the story credit for OMG 2 intensified as producer Ashwin Varde refuted Paresh Rawal's claims. Varde accused Rawal of attempting to create a version of OMG without Akshay Kumar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/cm-vijay-birthday-cake-chennai-baker-sells-300-400-cm-cake-orders-in-two-weeks-2950015-2026-07-17",
-      "headline": "CM Vijay's birthday cake becomes a hit in Chennai, 400 sold in 2 weeks: Baker A cake from Tamil Nadu Chief Minister Vijay's 52nd birthday celebration has become a hit in Chennai. The baker says she has sold 300 to 400 mango vanilla cakes, now popularly known as the 'CM Cake', after a birthday photo shared by Trisha drew attention to it."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-jantar-mantar-protest-delhi-police-shifted-to-safdarjung-hospital-2950643-2026-07-18",
+      "headline": "Inside Delhi Police's 3-layer op to remove Sonam Wangchuk from Jantar MantarSonam Wangchuk was removed from the Jantar Mantar protest site during a Delhi Police operation and taken to Safdarjung Hospital."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/skyroot-vikram-1-launched-first-private-rocket-isro-satellite-deployment-space-mission-2950588-2026-07-18",
       "headline": "India gets a new rocket: Skyroot's Vikram-1 performs textbook launch on first tryStanding nearly seven storeys tall, Vikram-1 is an all-carbon composite, multi-stage launch vehicle capable of placing payloads weighing up to 350 kilograms into Low Earth Orbit."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/asatya-hinsa-modi-govts-core-tenets-rahul-gandhi-after-sonam-wangchuks-removal-from-jantar-mantar-2950725-2026-07-18",
+      "headline": "Asatya, Hinsa Modi govt's core tenets: Rahul Gandhi on Sonam Wangchuk's removalRahul Gandhi sharpened his attack on the Modi government after climate activist Sonam Wangchuk was removed from Jantar Mantar during his hunger strike. The Congress MP said students raising issues such as paper leaks, education costs and suicides could not be silenced through force."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/vikram-1-launch-pm-modi-congratulates-skyroot-founders-2950607-2026-07-18",
       "headline": "Skyroot founders call PM Modi after Vikram-1 launch. Here's what he saidPM Modi, during a telephonic conversation with Skyroot Aerospace's founders, said the successful launch of Vikram-1 had vindicated the government's decision to open India's space sector to private players, while adding that he was especially heartened to see such a young team accomplish the historic feat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-jantar-mantar-protest-delhi-police-shifted-to-safdarjung-hospital-2950643-2026-07-18",
-      "headline": "Inside Delhi Police's 3-layer dawn op to remove Sonam Wangchuk from Jantar MantarSonam Wangchuk was removed from the Jantar Mantar protest site in a pre-dawn Delhi Police operation and taken to Safdarjung Hospital."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/maharashtra-bjp-sharad-pawar-ncp-reunion-nda-entry-condition-2950583-2026-07-18",
-      "headline": "Sharad Pawar faction-NCP merger before NDA entry: Inside BJP's big planSources said the BJP wants Sharad Pawar's NCP faction to reunite with Sunetra Pawar's camp before joining the NDA. The talks have gained weight after the NCP(SP) signalled a softer stand on the proposed delimitation bill."
     },
     {
       "sentiment": "positive",
@@ -227,17 +227,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-taken-hospital-jantar-mantar-protest-cjp-cockroach-janta-party-hunger-strike-2950495-2026-07-18",
-      "headline": "Live: Woman throws ink on CJP's Abhijit Dipke at Jantar Mantar protest siteJantar Mantar Protest Live: Activist Sonam Wangchuk, who has been on a hunger strike at Delhi's Jantar Mantar for the past 20 days, was shifted to Safdarjung Hospital by the Delhi Police on Saturday morning after his health reportedly deteriorated. According to sources, Wangchuk has been admitted to the emergency ward. He is conscious and his vital parameters are stable. In a statement, the Delhi Police said Wangchuk was moved to the hospital for \"essential medical care\" following expert medical advice and in compliance with the directions of the Delhi High Court. Following Wangchuk's hospitalisation, the Delhi Police appealed to protesters gathered at Jantar Mantar to vacate the protest site peacefully at the earliest. A heavy deployment of Delhi Police personnel was seen at Jantar Mantar after Wangchuk was taken to the hospital. Stay tuned with indiatoday.in for all live updates."
+      "headline": "Live: You may say yes or no but hold talks with Sonam Wangchuk, Anna Hazare urges CentreJantar Mantar Protest Live: Climate activist Sonam Wangchuk was admitted to Delhi's Safdarjung Hospital on Saturday after completing 20 days without solid food during his hunger strike, with doctors reporting dehydration, low potassium levels, metabolic imbalance and rising ketone levels that point to a worsening condition. Despite medical advice, the 59-year-old has refused intravenous fluids, oral rehydration solutions and medicines, and remains under close observation. As concerns over his health mounted, veteran social activist Anna Hazare urged the Centre to initiate dialogue with Wangchuk and clearly respond to his demands. Congress leader Rahul Gandhi criticised the activist's removal from Jantar Mantar, alleging the government was suppressing peaceful protests. Meanwhile, sources said the Cockroach Janta Party (CJP) had neither sought nor obtained Delhi Police permission for its proposed Parliament march. Wangchuk's physician, Dr Nitin Dighe, questioned aspects of his hospitalisation, alleging a lack of transparency in medical reports and saying efforts were underway to shift him to another hospital. Separately, CJP founder Abhijit Dipke was attacked with ink at the protest site in Delhi. Stay tuned with indiatoday.in for all live updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tarun-tejpal-sexual-assault-case-defence-complainant-chats-de-niro-episode-2950644-2026-07-18",
-      "headline": "Let us pose for a pic: Tarun Tejpal cites Robert De Niro episode in sex assault caseThe lawyer of Tehelka founder Tarun Tejpal told the Bombay High Court that the complainant had a 'propensity to lie' and her testimony was inconsistent. The woman has alleged that Tejpal sexually assaulted her in the elevator of a five-star resort in Goa in 2013."
+      "url": "https://www.indiatoday.in/india/story/abhijeet-dipke-ink-attack-jantar-mantar-protest-sonam-wangchuk-fasting-removal-2950731-2026-07-18",
+      "headline": "Video: Woman throws ink at Abhijeet Dipke; blue is my colour, CJP founder quipsCockroach Janata Party (CJP) founder Abhijeet Dipke was addressing a gathering at Jantar Mantar when a woman standing to his right suddenly threw blue ink at him."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-malad-west-lift-dog-scare-cctv-sheth-irene-highrise-muzzle-2950647-2026-07-18",
-      "headline": "60 seconds of horror in Mumbai lift as muzzled dog lunges at three girlsCCTV footage showed a pet dog lunging at three girls inside a Malad West high-rise lift. The viral clip has renewed concern over handling dogs in shared residential spaces."
+      "url": "https://www.indiatoday.in/movies/story/national-film-awards-72nd-live-updates-2026-winners-best-actor-best-actress-best-film-mammootty-prithviraj-amaran-vijay-sethupathy-meiyazhagan-2950738-2026-07-18",
+      "headline": "National Film Awards 2026 Live: Who will emerge as the big winners?National Film Awards Live Updates: The winners of the 72nd National Film Awards will be announced on Saturday at 5.30 pm, with Malayalam cinema expected to be among the frontrunners once again following its dominant showing at last year's awards. Catch the live updates here."
     },
     {
       "sentiment": "positive",
@@ -246,18 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-pressure-handling-novak-djokovic-fanatics-fest-fifa-world-cup-final-2950652-2026-07-18",
-      "headline": "Djokovic asks Messi about handling pressure. Argentina star's response is goldAt Fanatics Fest in Manhattan, Novak Djokovic asked Lionel Messi how he handles pressure. The answer from the Argentina superstar won hearts and showed how Messi remained true to himself throughout his footballing journey."
+      "url": "https://www.indiatoday.in/india/story/8-killed-in-ahmedabad-firecracker-factory-blast-unit-operated-despite-licence-cancellation-2950804-2026-07-18",
+      "headline": "8 killed in Ahmedabad firecracker factory blast; unit operated despite licence cancellationPolice identified the factory operator as Mehul Dodiya. Investigators said the unit's licence had already been cancelled, but manufacturing activities were allegedly continuing despite the revocation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-shifted-safdarjung-delhi-police-remove-from-jantar-mantar-neet-paper-leak-protest-abhijeet-dipke-2950552-2026-07-18",
-      "headline": "Sonam Wangchuk's weak, needs constant monitoring: Hospital on activist's healthFollowing the climate activist's removal from the Jantar Mantar protest site, Safdarjung Hospital said that he is weak due to fasting and dehydration but was stable as his health was under continuous watch."
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-malad-west-lift-dog-scare-cctv-sheth-irene-highrise-muzzle-2950647-2026-07-18",
+      "headline": "60 seconds of horror in Mumbai lift as muzzled dog lunges at three girlsCCTV footage showed a pet dog lunging at three girls inside a Malad West high-rise lift. The viral clip has renewed concern over handling dogs in shared residential spaces."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-final-argentina-vs-spain-lionel-scaloni-story-2950226-2026-07-18",
-      "headline": "The other Lionel: How Scaloni made Argentina great againLionel Messi's Argentina are in the FIFA World Cup final once again. But behind this golden era stands the other Lionel - Lionel Scaloni, the accidental manager who rebuilt Argentina, brought Messi back from the brink, and returned the glory days to the Albiceleste."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/hyderabad-woman-oman-abuse-case-muscat-embassy-shelter-housemaid-job-ordeal-rescue-2950730-2026-07-18",
+      "headline": "15-hour workdays, 4 months without pay: Hyderabad woman seeks rescue from OmanShabnam Begum from Hyderabad has sought help from the Indian Embassy in Muscat after alleging abuse by her employer in Oman. Her family has sought her safe return and action against the agent who allegedly sent her on false promises."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-polymer-currency-notes-india-rs-10-rs-20-pilot-next-year-2950496-2026-07-18",
-      "headline": "India may get Rs 10 and 20 plastic currency notes from next year. Here's whyThe Reserve Bank of India has begun preparations for a pilot of polymer banknotes by inviting global bids for substrate supply. The trial, likely to start with Rs 10 and Rs 20 notes, will shape any wider rollout."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-office-demolition-notice-pasted-in-amtala-over-illegal-construction-claim-2950623-2026-07-18",
-      "headline": "Abhishek Banerjee's 'illegally built' MP office demolished, heavy force deployedAuthorities began demolishing Trinamool Congress MP Abhishek Banerjee's office in South 24 Parganas after alleging it was an illegally constructed building, with heavy police deployment and security at the site."
+      "url": "https://www.indiatoday.in/india/story/maharashtra-bjp-sharad-pawar-ncp-reunion-nda-entry-condition-2950583-2026-07-18",
+      "headline": "Sharad Pawar faction-NCP merger before NDA entry: Inside BJP's big planSources said the BJP wants Sharad Pawar's NCP faction to reunite with Sunetra Pawar's camp before joining the NDA. The talks have gained weight after the NCP(SP) signalled a softer stand on the proposed delimitation bill."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/immersive/skyroot-aerospace-vikram-i-launch-vehicle-factory-space-isro-small-satellite-launch",
-      "headline": "Vikram-1 in space: A day inside India's first private rocket factoryVikram-I, named after Vikram Sarabhai, has launched into space. The moment shifts attention to India's emerging private rocket ecosystem."
+      "url": "https://www.indiatoday.in/india/story/tarun-tejpal-sexual-assault-case-defence-complainant-chats-de-niro-episode-2950644-2026-07-18",
+      "headline": "Let us pose for a pic: Tarun Tejpal cites Robert De Niro episode in sex assault caseThe lawyer of Tehelka founder Tarun Tejpal told the Goa bench of the Bombay High Court that the complainant had a 'propensity to lie' and her testimony was inconsistent. The woman has alleged that Tejpal sexually assaulted her in the elevator of a five-star resort in Goa in 2013."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-pressure-handling-novak-djokovic-fanatics-fest-fifa-world-cup-final-2950652-2026-07-18",
+      "headline": "Djokovic asks Messi about handling pressure. Argentina star's response is goldAt Fanatics Fest in Manhattan, Novak Djokovic asked Lionel Messi how he handles pressure. The answer from the Argentina superstar won hearts and showed how Messi remained true to himself throughout his footballing journey."
     },
     {
       "sentiment": "positive",
@@ -291,8 +291,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dont-administer-him-anything-without-my-consent-wangchuks-wife-after-hes-hospitalised-on-day-21-of-fast-2950523-2026-07-18",
-      "headline": "No treatment underway, hospital not giving reports: Wangchuk's wife's big claimGitanjali Angmo also disputed Delhi Police's claim that her husband was removed from the site of his hunger strike at New Delhi's Jantar Mantar in accordance with Delhi High Court's orders. She also asserted that there is no need for any further intervention by the Centre."
+      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-air-2-panshul-bansal-jee-main-99-5-percentile-2950664-2026-07-18",
+      "headline": "99.5 percentile in JEE Main, AIR 2 in NEET 2026: Meet Pranshul, the new academic starFaridabad student Panshul Bansal secured AIR 2 in NEET UG 2026 after scoring 715 out of 720. His result came after a 99.5 percentile in JEE Main 2026, highlighting his disciplined preparation and love for Biology."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/lawrence-bishnois-brother-threatens-aamit-khan-over-love-jihad-remarks-says-will-make-him-pay-2950543-2026-07-18",
-      "headline": "Lawrence Bishnoi's brother threatens Aamir Khan over 'love jihaad' remarksGangster Lawrence Bishnoi's brother Arzoo Bishnoi has issued a warning to actor Aamir Khan over his remarks and views on 'love jihad'. In a purported audio clip, Arzoo claimed that the actor's actions were against the culture and warned of consequences."
+      "url": "https://www.indiatoday.in/cities/gurugram/video/11000-volt-power-line-snaps-on-gurugram-highway-triggers-5-km-traffic-jam-nh-48-2950798-2026-07-18",
+      "headline": "11,000-volt power line snaps on Gurugram highway, triggers 5-km traffic jamA broken 11,000-volt high-tension power line near Narsinghpur on Gurugram's National Highway 48 triggered massive traffic congestion on Saturday, bringing traffic to a halt on both the Delhi\u2013Jaipur and Jaipur\u2013Delhi carriageways."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/up-man-killed-death-staged-snakebite-police-uncover-murder-plot-wife-lover-meerut-rs-20-lakh-insurance-2950714-2026-07-18",
+      "headline": "UP man killed, death staged as snakebite; cops uncover murder plot by wife, loverPolice in Meerut have arrested a woman, her alleged lover and two others over the death of her husband, initially reported as a snakebite. Investigators say the case points to a carefully planned murder tied to an affair and insurance money."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/gurgaon-man-quits-rs-25000-supervisor-job-reveals-how-much-he-earns-driving-auto-2950650-2026-07-18",
-      "headline": "Gurgaon man quits Rs 25,000 supervisor job, reveals how much he earns driving autoA ride with an auto driver led Zypp India CEO Akash Gupta to discuss the driver's income and work journey. The exchange drew attention online to gig work, earnings flexibility and his effort to educate three children."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-news-maulana-fazlur-rehman-afghan-taliban-sharia-law-field-marshal-asim-munir-2949845-2026-07-18",
-      "headline": "Who is the pro-Taliban maulana challenging Asim Munir: Drop uniform, join politicsPakistan's powerful military is no stranger to criticism, but few senior leaders have challenged its supremacy as directly as Maulana Fazlur Rehman. The veteran Islamist politician, known for his pro-Taliban views and advocacy of Sharia law, is now openly daring Asim Munir to trade his uniform for the ballot box. Here's all you need to know about the maulana challenging the Field Marshal."
+      "url": "https://www.indiatoday.in/business/story/rbi-polymer-currency-notes-india-rs-10-rs-20-pilot-next-year-2950496-2026-07-18",
+      "headline": "India may get Rs 10 and 20 plastic currency notes from next year. Here's whyThe Reserve Bank of India has begun preparations for a pilot of polymer banknotes by inviting global bids for substrate supply. The trial, likely to start with Rs 10 and Rs 20 notes, will shape any wider rollout."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/mirabai-chanu-lovlina-borgohain-flagbearers-india-2026-commonwealth-games-glasgow-2950769-2026-07-18",
+      "headline": "Mirabai Chanu, Lovlina Borgohain to lead India at CWG 2026 opening ceremony Olympic medallists Mirabai Chanu and Lovlina Borgohain will lead India's 126-member contingent at the opening ceremony of the 2026 Commonwealth Games in Glasgow on July 23. The honour adds another milestone to the decorated careers of two of India's biggest sporting stars."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/thomas-tuchel-donald-trump-harry-kane-row-england-loss-argentina-world-cup-2950719-2026-07-18",
+      "headline": "You use Donald Trump as a witness? Thomas Tuchel hits back at England tactics dig Thomas Tuchel dismissed Donald Trump's criticism of his use of Harry Kane before England's third-place play-off. Trump trolled Tuchel for his defensive tactics during the semi-final loss to Argentina."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/slavko-vincic-world-cup-final-referee-sex-party-raid-argentina-vs-spain-2950680-2026-07-18",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/france-vs-england-third-place-playoff-deschamps-tuchel-bronze-medal-miami-2950506-2026-07-18",
-      "headline": "Chocolate medal: France, England have no interest in playing 3rd place tie France and England go into the third-place play-off admitting neither side wants it. Didier Deschamps and Thomas Tuchel made their feelings clear that it is just business for them at the moment, and they would rather play the final."
+      "headline": "Chocolate medal: France, England have no interest in playing 3rd place tieFrance and England go into the third-place play-off admitting neither side wants it. Didier Deschamps and Thomas Tuchel made their feelings clear that it is just business for them at the moment, and they would rather play the final."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-japan-open-final-chen-yufei-hamstring-injury-tokyo-2950489-2026-07-18",
-      "headline": "Japan Open 2026: Fiery PV Sindhu storms into first final in 2 years A fiery PV Sindhu produced one of her best performances in recent times as she beat arch-nemesis Chen Yufei to storm into the final of the Japan Open 2026. This ended a two-year wait for Sindhu, who last played a final in 2024."
+      "headline": "Japan Open 2026: Fiery PV Sindhu storms into first final in 2 yearsA fiery PV Sindhu produced one of her best performances in recent times as she beat arch-nemesis Chen Yufei to storm into the final of the Japan Open 2026. This ended a two-year wait for Sindhu, who last played a final in 2024."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/zimbabwe-vs-bangladesh-2nd-t20i-live-updates-bulawayo-2949957-2026-07-17",
       "headline": "2nd T20I: Live Score and Updates from BulawayoZIM vs BAN, 2nd T20I: Zimbabwe have won the toss and opted to bowl first in Bulawayo. The hosts are unchanged after winning the series opener while Bangladesh have brought in Rishad Hossain for Nasum Ahmed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/india-womens-hockey-world-cup-2026-squad-salima-tete-leads-unchanged-20-player-team-2949944-2026-07-17",
-      "headline": "No surprises as India bank on proven names for Women's Hockey World Cup 2026India have retained the same 20-player squad for the Women's Hockey World Cup, with Salima Tete to captain the side. India have opted for a perfect blend for youth and experience as they head to the Netherlands and Belgium."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/keyne-yamal-lamine-yamal-brother-spain-viral-world-cup-mascot-argentina-final-2949925-2026-07-17",
-      "headline": "Meet Keyne Yamal: Lamine's younger brother stealing the World Cup spotlightWhile Lamine Yamal prepares to face Lionel Messi in the World Cup final, his younger brother Keyne has become Spain's breakout figure from the stands. The three-year-old's antics and obvious bond with Lamine have made him the team's unofficial mascot during the tournament."
     }
   ],
   "education": [
