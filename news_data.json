@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/companies/story/jpmorgan-record-profit-biggest-bank-assets-market-value-how-big-comparison-india-world-2950612-2026-07-18",
+      "headline": "JPMorgan just posted record profit. How big is the world's biggest bank, really?JPMorgan Chase posted a record second-quarter 2026 profit as revenue rose across every business line. The results renewed focus on the bank's vast scale, from market value to daily payment flows."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/rbi-polymer-currency-notes-india-rs-10-rs-20-pilot-next-year-2950496-2026-07-18",
       "headline": "India may get Rs 10 and 20 plastic currency notes from next year. Here's whyThe Reserve Bank of India has begun preparations for a pilot of polymer banknotes by inviting global bids for substrate supply. The trial, likely to start with Rs 10 and Rs 20 notes, will shape any wider rollout."
     },
@@ -94,14 +99,29 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/tata-sons-sp-group-share-swap-talks-tata-sons-stake-explained-7-percent-rs-60000-crore-debt-2949681-2026-07-17",
       "headline": "Tata, SP Group in fresh talks on Tata Sons stake swapTata Sons and the SP Group are exploring a share swap to monetise part of the latter's stake. The talks matter because they could reduce SP Group debt, though valuation and structure remain unresolved."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-400-points-higher-nifty-above-24100-it-stocks-rally-infosys-tcs-tech-mahindra-2949677-2026-07-17",
-      "headline": "Markets open higher as IT stocks surge; Reliance rises before Q1 resultsThe S&P BSE Sensex climbed 456.40 points, or 0.59%, to 77,643.27, while the NSE Nifty50 gained 120.90 points, or 0.50%, to 24,193.65 as of 9:30 am."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/the-india-story-trailer-kajal-aggarwal-shreyas-talpade-pesticide-farming-crisis-2950642-2026-07-18",
+      "headline": "The India Story trailer: Kajal Aggarwal, Shreyas Talpade battle pesticide crisis The trailer of The India Story: Slow Poison in Progress is out. Starring Shreyas Talpade and Kajal Aggarwal, the film follows a father and a lawyer confronting the fallout of pesticide farming."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/saif-ali-khan-haiwaan-boldest-reinvention-career-blind-action-hero-priyadarshan-akshay-kumar-2949824-2026-07-18",
+      "headline": "Why Haiwaan could be Saif Ali Khan's boldest reinvention yet Haiwaan reunites actor Saif Ali Khan with director Priyadarshan as he plays a visually challenged protagonist. The role could recast the mainstream Hindi action hero through vulnerability, instinct and empathy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/satluj-controversy-annu-kapoor-backs-removal-asks-makers-to-approach-supreme-court-diljit-dosanjh-honey-trehan-2950620-2026-07-18",
+      "headline": "Why cry? Annu Kapoor backs Satluj takedown, urges makers to seek legal route Actor Annu Kapoor has backed the government's stand on Diljit Dosanjh's Satluj and said the makers should move the Supreme Court. His remarks come as the film's removal from ZEE5 has intensified debate over censorship and creative freedom."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/priyanka-chopra-varanasi-first-look-mandakini-birthday-reveal-ss-rajamouli-mahesh-babu-prithviraj-sukumaran-2950585-2026-07-18",
+      "headline": "Varanasi: Priyanka Chopra's fierce look as Mandakini revealed on birthday SS Rajamouli unveiled Priyanka Chopra's first look as Mandakini from Varanasi on her birthday. The reveal underlines her central role in the globe-spanning epic."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/cillian-murphy-the-odyssey-actor-says-missing-christopher-nolan-film-was-a-gift-2950535-2026-07-18",
@@ -176,43 +196,38 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/cm-vijay-birthday-cake-chennai-baker-sells-300-400-cm-cake-orders-in-two-weeks-2950015-2026-07-17",
       "headline": "CM Vijay's birthday cake becomes a hit in Chennai, 400 sold in 2 weeks: Baker A cake from Tamil Nadu Chief Minister Vijay's 52nd birthday celebration has become a hit in Chennai. The baker says she has sold 300 to 400 mango vanilla cakes, now popularly known as the 'CM Cake', after a birthday photo shared by Trisha drew attention to it."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/farah-khan-lock-upp-strict-jailer-kiran-bedi-interview-2949968-2026-07-17",
-      "headline": "They should have brought Kiran Bedi: Farah Khan on being called 'soft jailer' on Lock Upp Farah Khan said she is bound to get emotionally involved as Lock Upp's jailer. Her remarks came as she addressed bias allegations, praised contestants' honesty and underlined the show's emotional pull."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/old-video-of-rajkumar-hirani-saying-ftii-man-inspired-3-idiots-role-goes-viral-2949979-2026-07-17",
-      "headline": "Old video of Rajkumar Hirani saying FTII man inspired 3 Idiots role goes viral An old video of filmmaker Rajkumar Hirani has gone viral after Aamir Khan denied that 3 Idiots' Phunsukh Wangdu was based on Sonam Wangchuk. In the resurfaced clip, Hirani says the character was inspired by a man who secretly studied at FTII using another person's admission."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rrr-zohran-mamdani-rental-rip-off-report-new-york-city-hall-2949953-2026-07-17",
-      "headline": "RRR echoes at New York City Hall as Zohran Mamdani presents Rental Rip-off report Zohran Mamdani referenced SS Rajamouli's RRR while unveiling New York's Rental Rip-off Report at City Hall. The remark drew laughs in the room and prompted a reaction from the film's official X handle."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/amid-aamir-khan-remark-sonam-wangchuks-clip-on-india-pakistan-film-pitch-to-actor-resurfaces-2949834-2026-07-17",
-      "headline": "Old Sonam Wangchuk video surfaces after Aamir Khan says he didn't know him in 2009 An old video of activist Sonam Wangchuk recalling his 2008 meeting with Aamir Khan has resurfaced. The clip showed up after the actor denied any connection between Wangchuk and his 3 Idiots character Phunsukh Wangdu."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/vikram-1-rocket-launch-live-updates-skyroot-aerospace-sriharikota-india-private-orbital-class-rocket-2950084-2026-07-17",
-      "headline": "LIVE: Vikram-1 rocket enters internal hold five minutes before liftoffVikram-1 Rocket Launch Live Updates: India is on the verge of a major space milestone as Hyderabad-based Skyroot Aerospace prepares to launch and deploy satellite aboard Vikram-1, the country's first privately developed orbital rocket."
+      "url": "https://www.indiatoday.in/science/story/skyroot-vikram-1-launched-first-private-rocket-isro-satellite-deployment-space-mission-2950588-2026-07-18",
+      "headline": "India gets a new rocket: Skyroot's Vikram-1 performs textbook launch on first tryStanding nearly seven storeys tall, Vikram-1 is an all-carbon composite, multi-stage launch vehicle capable of placing payloads weighing up to 350 kilograms into Low Earth Orbit."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-taken-hospital-jantar-mantar-protest-cjp-cockroach-janta-party-hunger-strike-2950495-2026-07-18",
-      "headline": "Live: Two doctors, as many paramedics assigned for Wangchuk's care at hospitalJantar Mantar Protest Live: Activist Sonam Wangchuk, who has been on a hunger strike at Delhi's Jantar Mantar for the past 20 days, was shifted to Safdarjung Hospital by the Delhi Police on Saturday morning after his health reportedly deteriorated. According to sources, Wangchuk has been admitted to the emergency ward. He is conscious and his vital parameters are stable. In a statement, the Delhi Police said Wangchuk was moved to the hospital for \"essential medical care\" following expert medical advice and in compliance with the directions of the Delhi High Court. Following Wangchuk's hospitalisation, the Delhi Police appealed to protesters gathered at Jantar Mantar to vacate the protest site peacefully at the earliest. A heavy deployment of Delhi Police personnel was seen at Jantar Mantar after Wangchuk was taken to the hospital. Stay tuned with indiatoday.in for all live updates."
+      "url": "https://www.indiatoday.in/science/story/vikram-1-launch-pm-modi-congratulates-skyroot-founders-2950607-2026-07-18",
+      "headline": "Skyroot founders call PM Modi after Vikram-1 launch. Here's what he saidPM Modi, during a telephonic conversation with Skyroot Aerospace's founders, said the successful launch of Vikram-1 had vindicated the government's decision to open India's space sector to private players, while adding that he was especially heartened to see such a young team accomplish the historic feat."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-delhi-police-shift-activist-to-hospital-day-21-2950484-2026-07-18",
-      "headline": "Wife's visit and an appeal for Wangchuk hours before cops took him to hospitalA day before Delhi Police removed Sonam Wangchuk from the Jantar Mantar protest site, the activist's wife visited him amid growing concerns over his deteriorating health and appealed to him to end his indefinite hunger strike."
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-jantar-mantar-protest-delhi-police-shifted-to-safdarjung-hospital-2950643-2026-07-18",
+      "headline": "Inside Delhi Police's 3-layer dawn op to remove Sonam Wangchuk from Jantar MantarSonam Wangchuk was removed from the Jantar Mantar protest site in a pre-dawn Delhi Police operation and taken to Safdarjung Hospital."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/maharashtra-bjp-sharad-pawar-ncp-reunion-nda-entry-condition-2950583-2026-07-18",
+      "headline": "Sharad Pawar faction-NCP merger before NDA entry: Inside BJP's big planSources said the BJP wants Sharad Pawar's NCP faction to reunite with Sunetra Pawar's camp before joining the NDA. The talks have gained weight after the NCP(SP) signalled a softer stand on the proposed delimitation bill."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/sonam-wangchuks-father-fasted-for-ladakh-1984-indira-gandhi-came-to-leh-2950568-2026-07-18",
+      "headline": "Sonam Wangchuk's father fasted for Ladakh in 1984. Then Indira Gandhi came to LehSonam Wangchuk's hunger strike has brought Ladakh's demands back into the national spotlight. But decades earlier, his father Sonam Wangyal fasted for the region's Scheduled Tribe demand. Indira Gandhi visited Leh at the time, and in 1989, a constitutional order formally recognised eight Ladakhi tribal communities as STs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/dont-administer-him-anything-without-my-consent-wangchuks-wife-after-hes-hospitalised-on-day-21-of-fast-2950523-2026-07-18",
+      "headline": "No treatment underway, hospital not giving reports: Wangchuk's wife's big claimGitanjali Angmo also disputed Delhi Police's claim that her husband was removed from the site of his hunger strike at New Delhi's Jantar Mantar in accordance with Delhi High Court's orders. She also asserted that there is no need for any further intervention by the Centre."
     },
     {
       "sentiment": "positive",
@@ -221,68 +236,53 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/tarun-tejpal-sexual-assault-case-defence-complainant-chats-de-niro-episode-2950644-2026-07-18",
+      "headline": "Let us pose for a pic: Tarun Tejpal cites Robert De Niro episode in sex assault caseThe lawyer of Tehelka founder Tarun Tejpal told the Bombay High Court that the complainant had a 'propensity to lie' and her testimony was inconsistent. The woman has alleged that Tejpal sexually assaulted her in the elevator of a five-star resort in Goa in 2013."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/pawan-chandana-skyroot-aerospace-journey-51-maths-indias-biggest-private-rocket-plant-2928865-2026-07-18",
+      "headline": "51 in maths, IIT, ISRO and rockets: The story of Pawan Kumar ChandanaToday is a big day for India's space ambitions. The launch of Vikram-I this morning was successful. Now, the man behind the launch, an IITian, a former ISRO scientist, and an ambitious entrepreneur who gave India's space journey a new direction, has emerged from the ground to become a sensation and an inspiration for many youngsters. It is a story you must know."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-office-demolition-notice-pasted-in-amtala-over-illegal-construction-claim-2950623-2026-07-18",
+      "headline": "Abhishek Banerjee's 'illegally built' MP office demolished, heavy force deployedAuthorities began demolishing Trinamool Congress MP Abhishek Banerjee's office in South 24 Parganas after alleging it was an illegally constructed building, with heavy police deployment and security at the site."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-malad-west-lift-dog-scare-cctv-sheth-irene-highrise-muzzle-2950647-2026-07-18",
+      "headline": "60 seconds of horror in Mumbai lift as muzzled dog lunges at three girlsCCTV footage showed a pet dog lunging at three girls inside a Malad West high-rise lift. The viral clip has renewed concern over handling dogs in shared residential spaces."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/young-minds-new-rocket-vikram-1s-success-a-generational-leap-for-indias-space-exploration-2950618-2026-07-18",
+      "headline": "How Skyroot's Vikram-1 success is a generational leap for Indian space programSkyroot Aerospace successfully launched Vikram-1 from Sriharikota in its maiden orbital-class mission. The mission highlighted how young private teams are extending Isro's legacy with a new public-facing approach."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-final-argentina-vs-spain-lionel-scaloni-story-2950226-2026-07-18",
       "headline": "The other Lionel: How Scaloni made Argentina great againLionel Messi's Argentina are in the FIFA World Cup final once again. But behind this golden era stands the other Lionel - Lionel Scaloni, the accidental manager who rebuilt Argentina, brought Messi back from the brink, and returned the glory days to the Albiceleste."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/what-is-skyroot-vikram-1-india-first-private-orbital-rocket-2950028-2026-07-18",
-      "headline": "Watch Live: India's first private rocket Vikram-1 loaded for space launchIndia's private space sector is attempting a mission that has been years in the making. Watch Skyroot Aerospace's Vikram-1 make history with maiden launch."
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-shifted-safdarjung-delhi-police-remove-from-jantar-mantar-neet-paper-leak-protest-abhijeet-dipke-2950552-2026-07-18",
+      "headline": "Sonam Wangchuk's weak, needs constant monitoring: Hospital on activist's healthFollowing the climate activist's removal from the Jantar Mantar protest site, Safdarjung Hospital said that he is weak due to fasting and dehydration but was stable as his health was under continuous watch."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-news-maulana-fazlur-rehman-afghan-taliban-sharia-law-field-marshal-asim-munir-2949845-2026-07-18",
-      "headline": "Who is the pro-Taliban maulana challenging Asim Munir: Drop uniform, join politicsPakistan's powerful military is no stranger to criticism, but few senior leaders have challenged its supremacy as directly as Maulana Fazlur Rehman. The veteran Islamist politician, known for his pro-Taliban views and advocacy of Sharia law, is now openly daring Asim Munir to trade his uniform for the ballot box. Here's all you need to know about the maulana challenging the Field Marshal."
+      "url": "https://www.indiatoday.in/interactive/immersive/skyroot-aerospace-vikram-i-launch-vehicle-factory-space-isro-small-satellite-launch",
+      "headline": "Vikram-1 in space: A day inside India's first private rocket factoryVikram-I, named after Vikram Sarabhai, has launched into space. The moment shifts attention to India's emerging private rocket ecosystem."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/france-vs-england-third-place-playoff-deschamps-tuchel-bronze-medal-miami-2950506-2026-07-18",
-      "headline": "Chocolate medal: France, England have no interest in playing 3rd place tieFrance and England go into the third-place play-off admitting neither side wants it. Didier Deschamps and Thomas Tuchel made their feelings clear that it is just business for them at the moment, and they would rather play the final."
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-taken-hospital-jantar-mantar-protest-cjp-cockroach-janta-party-hunger-strike-2950495-2026-07-18",
+      "headline": "Live: No permission likely for CJP's Parliament march due to Monsoon SessionJantar Mantar Protest Live: Activist Sonam Wangchuk, who has been on a hunger strike at Delhi's Jantar Mantar for the past 20 days, was shifted to Safdarjung Hospital by the Delhi Police on Saturday morning after his health reportedly deteriorated. According to sources, Wangchuk has been admitted to the emergency ward. He is conscious and his vital parameters are stable. In a statement, the Delhi Police said Wangchuk was moved to the hospital for \"essential medical care\" following expert medical advice and in compliance with the directions of the Delhi High Court. Following Wangchuk's hospitalisation, the Delhi Police appealed to protesters gathered at Jantar Mantar to vacate the protest site peacefully at the earliest. A heavy deployment of Delhi Police personnel was seen at Jantar Mantar after Wangchuk was taken to the hospital. Stay tuned with indiatoday.in for all live updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-delhi-police-shifted-safdarjung-hospital-2950511-2026-07-18",
-      "headline": "White sheets, human chain: How police removed Sonam Wangchuk from protest siteA coordinated Delhi Police operation at Jantar Mantar saw plainclothes and uniformed personnel form a human chain, surround Sonam Wangchuk with white bedsheets and remove him from his protest site within minutes, with organisers alleging that the activist was forcibly dragged away."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dont-administer-him-anything-without-my-consent-wangchuks-wife-after-hes-hospitalised-on-day-21-of-fast-2950523-2026-07-18",
-      "headline": "Don't administer anything to him without my consent, says Sonam Wangchuk's wifeSonam Wangchuk was removed by the police from the Jantar Mantar protest site in New Delhi early Saturday, the 21st day of his hunger strike. Questioning the decision to hospitalise the activist, his wife claimed he appeared fine the day before."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/lawrence-bishnois-brother-threatens-aamit-khan-over-love-jihad-remarks-says-will-make-him-pay-2950543-2026-07-18",
-      "headline": "Lawrence Bishnoi's brother threatens Aamir Khan over 'love jihaad' remarksGangster Lawrence Bishnoi's brother Arzoo Bishnoi has issued a warning to actor Aamir Khan over his remarks and views on 'love jihad'. In a purported audio clip, Arzoo claimed that the actor's actions were against the culture and warned of consequences."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-recalls-lamine-yamal-bathtub-photo-before-argentina-vs-spain-world-cup-final-2950528-2026-07-18",
-      "headline": "Messi reacts to viral bathtub pic with baby Lamine Yamal. Here's what he saidLionel Messi told Tom Brady the story of his iconic bathtub photoshoot with Lamine Yamal ahead of facing the Spanish prodigy in the World Cup 2026 final. Messi met baby Yamal almost 20 years ago during a photoshoot for UNICEF."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/christopher-nolan-the-odyssey-imax-india-why-the-country-still-lacks-true-imax-screens-2948538-2026-07-18",
-      "headline": "What is IMAX, how does it work? The maths you didn't know behind Nolan's The OdysseyChristopher Nolan's India visit for The Odyssey has revived questions about what IMAX really means in the country. The debate centres on the gap between India's commercial screens and the true IMAX format his films are designed for."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/climate-activist-sonam-wangchuk-on-hunger-strike-for-20-days-taken-to-hospital-by-delhi-police-2950483-2026-07-18",
-      "headline": "Wangchuk, on hunger strike for 20 days, taken to Safdarjung Hospital by copsThe activist had been on a hunger strike at New Delhi's Jantar Mantar since June 28. The Delhi Police said the action was taken in accordance with the orders of the Delhi High Court and expert medical advice concerning the 59-year-old's deteriorating health condition."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-tribute-sir-garfield-sobers-death-mourning-2950537-2026-07-18",
-      "headline": "Kohli leads with touching tribute as cricketing world mourns Sir Garfield SobersVirat Kohli paid an emotional tribute to Sir Garfield Sobers after the West Indies legend passed away at the age of 89 on Thursday, July 17."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-school-fir-islamic-homework-hindu-student-teacher-booked-ptag-2949983-2026-07-18",
-      "headline": "Everyone should read Kalma: Case against teacher over homework for Hindu studentHyderabad police filed a case after a private school allegedly asked a Hindu child to read Kalma as homework. The incident sparked political outrage and raised questions over religious instruction in schools."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/christopher-nolans-the-odyssey-was-odysseus-a-real-king-history-has-no-answer-2950220-2026-07-17",
-      "headline": "Was Odysseus real? The king behind The Odyssey may be history's greatest mysteryChristopher Nolan's The Odyssey brings Homer's legendary king back into the spotlight. But was Odysseus a real ruler of Ithaca or history's greatest fictional hero? Archaeology has found ancient places and traditions linked to him, yet no proof of the man himself. The answer lies between myth and memory."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/the-india-story-trailer-kajal-aggarwal-shreyas-talpade-pesticide-farming-crisis-2950642-2026-07-18",
+      "headline": "The India Story trailer: Kajal Aggarwal, Shreyas Talpade battle pesticide crisisThe trailer of The India Story: Slow Poison in Progress is out. Starring Shreyas Talpade and Kajal Aggarwal, the film follows a father and a lawyer confronting the fallout of pesticide farming."
     },
     {
       "sentiment": "positive",
@@ -291,36 +291,51 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-news-maulana-fazlur-rehman-afghan-taliban-sharia-law-field-marshal-asim-munir-2949845-2026-07-18",
+      "headline": "Who is the pro-Taliban maulana challenging Asim Munir: Drop uniform, join politicsPakistan's powerful military is no stranger to criticism, but few senior leaders have challenged its supremacy as directly as Maulana Fazlur Rehman. The veteran Islamist politician, known for his pro-Taliban views and advocacy of Sharia law, is now openly daring Asim Munir to trade his uniform for the ballot box. Here's all you need to know about the maulana challenging the Field Marshal."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/travel/story/india-literary-tourism-travel-trend-rabindranath-tagore-ruskin-bond-landour-santiniketan-kolkata-satyajit-ray-2950181-2026-07-18",
+      "headline": "We're home to Tagore and Ruskin Bond. So why is literary tourism missing in India?Handcrafted ByOur Editors Just as Zindagi Na Milegi Dobara inspired Indians to travel to Spain, and Yeh Jawaani Hai Deewani made trekking with friends a bucket-list experience, books, too, leave us with places we long to visit."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/christopher-nolan-the-odyssey-imax-india-why-the-country-still-lacks-true-imax-screens-2948538-2026-07-18",
+      "headline": "What is IMAX, how does it work? The maths you didn't know behind Nolan's The OdysseyChristopher Nolan's India visit for The Odyssey has revived questions about what IMAX really means in the country. The debate centres on the gap between India's commercial screens and the true IMAX format his films are designed for."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-delhi-police-shifted-safdarjung-hospital-2950511-2026-07-18",
+      "headline": "White sheets, human chain: How police removed Sonam Wangchuk from protest siteA coordinated Delhi Police operation at Jantar Mantar saw plainclothes and uniformed personnel form a human chain, surround Sonam Wangchuk with white bedsheets and remove him from his protest site within minutes, with organisers alleging that the activist was forcibly dragged away."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-recalls-lamine-yamal-bathtub-photo-before-argentina-vs-spain-world-cup-final-2950528-2026-07-18",
+      "headline": "Messi reacts to viral bathtub pic with baby Lamine Yamal. Here's what he saidLionel Messi told Tom Brady the story of his iconic bathtub photoshoot with Lamine Yamal ahead of facing the Spanish prodigy in the World Cup 2026 final. Messi met baby Yamal almost 20 years ago during a photoshoot for UNICEF."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/other-sports/story/national-rifle-shooter-damayanti-sen-missing-howrah-police-investigation-2950458-2026-07-18",
-      "headline": "15-year-old shooter selected for national trials goes missing in BengalFifteen-year-old national rifle shooter Damayanti Sen has gone missing from Howrah under mysterious circumstances. Police have launched an investigation after the teenager, who recently qualified for national team trials, failed to return home."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/hyderabad-food-safety-raids-uncover-unhygienic-conditions-at-sweet-biscuit-units-2950473-2026-07-18",
-      "headline": "Hyderabad food safety raids find pest infestation at sweet, biscuit unitsH-FAST and Food Safety Officer Dyvanidhi inspected sweet, cake, cookie and Osmania biscuit units across Hyderabad. The raids found unhygienic conditions and pest infestation, prompting action against violators."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/can-toddlers-remember-childhood-trauma-psychologist-explains-2949785-2026-07-18",
-      "headline": "Can toddlers remember childhood trauma when they grow up? Psychologist explainsA child may be too young to explain fear or trauma, but that does not mean the experience is forgotten. A clinical psychologist explains how early distress can shape behaviour, why it may resurface years later, and the signs parents should never ignore."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tareekh-pe-tareekh-cant-define-justice-allahabad-high-court-on-25-year-trial-delay-2950370-2026-07-18",
-      "headline": "Justice can't be 'tareekh pe tareekh': Allahabad High Court on 25-year trial delayThe Allahabad High Court granted anticipatory bail to two accused in a 2001 kidnapping case. It said a 25-year pendency mocked the right to a speedy and fair trial under Article 21."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mumbai-ahmedabad-bullet-train-project-japan-minister-blames-india-for-delays-shinkansen-hideki-makihara-2949895-2026-07-17",
-      "headline": "India to blame for Bullet Train delay? Govt junks Japan ex-minister's claimFormer Japanese minister Hideki Makihara accused Indian authorities over the alleged delay in the Mumbai-Ahmedabad Bullet Train project. The minister in-charge of the negotiations was especially awful, alleged Makihara. India's foreign ministry rejected the allegations, saying talks were progressing well."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/el-nino-has-disrupted-monsoon-rain-clouds-blanket-india-but-downpour-uneven-2950157-2026-07-18",
-      "headline": "El Nino has disrupted Monsoon: Rain clouds blanket India, but downpour unevenEl Ni\u00f1o is disrupting the southwest monsoon, leaving India under widespread cloud cover but uneven rainfall. The pattern is raising flood risks in some states while others remain hot, humid and relatively dry."
+      "headline": "Bengal teen shooter goes missing, found after 48 hours, blames extreme stressFifteen-year-old national rifle shooter Damayanti Sen who went missing from Howrah under mysterious circumstances, has been found after 48 hours. The 15-year-old shooter blamed severe stress as the reason behind her fleeing from home."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-odi-world-cup-2027-lionel-messi-mohammed-kaif-2950635-2026-07-18",
+      "headline": "Look at Messi: Ex-cricketer explains why India need Ro-Ko at World Cup 2027 Mohammed Kaif said India should take Virat Kohli and Rohit Sharma to the 2027 ODI World Cup, using Lionel Messi as his example. He argued that experience will matter in South African conditions even as questions persist over Rohit's form and the pair's long-term place in the squad."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-birthday-jemimah-rodrigues-heartfelt-message-friendship-2950616-2026-07-18",
+      "headline": "Smriti Mandhana turns 30, Jemimah celebrates their bond in emotional birthday note Smriti Mandhana celebrated her 30th birthday with an emotional message from Jemimah Rodrigues, who reflected on the deep bond they have built over the years."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/icc-2027-odi-world-cup-format-associate-captains-criticism-super-series-2950576-2026-07-18",
+      "headline": "ODI World Cup: Associate captains fear ICC is closing doors on emerging teams The ICC's revamped format for the 2027 ODI World Cup has drawn sharp criticism from Associate captains Scott Edwards, Gerhard Erasmus, and Richie Berrington, who believe it makes qualification even tougher for emerging nations."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/france-vs-england-preview-world-cup-deschamps-mbappe-tuchel-2950474-2026-07-18",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-final-argentina-vs-spain-lionel-scaloni-story-2950226-2026-07-18",
-      "headline": "The other Lionel: How Scaloni made Argentina great again Lionel Messi's Argentina are in the FIFA World Cup final once again. But behind this golden era stands the other Lionel - Lionel Scaloni, the accidental manager who rebuilt Argentina, brought Messi back from the brink, and returned the glory days to the Albiceleste."
+      "headline": "The other Lionel: How Scaloni made Argentina great againLionel Messi's Argentina are in the FIFA World Cup final once again. But behind this golden era stands the other Lionel - Lionel Scaloni, the accidental manager who rebuilt Argentina, brought Messi back from the brink, and returned the glory days to the Albiceleste."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/other-sports/story/national-rifle-shooter-damayanti-sen-missing-howrah-police-investigation-2950458-2026-07-18",
-      "headline": "15-year-old shooter selected for national trials goes missing in Bengal Fifteen-year-old national rifle shooter Damayanti Sen has gone missing from Howrah under mysterious circumstances. Police have launched an investigation after the teenager, who recently qualified for national team trials, failed to return home."
+      "headline": "Bengal teen shooter goes missing, found after 48 hours, blames extreme stressFifteen-year-old national rifle shooter Damayanti Sen who went missing from Howrah under mysterious circumstances, has been found after 48 hours. The 15-year-old shooter blamed severe stress as the reason behind her fleeing from home."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/video/argentina-will-struggle-to-make-a-messy-game-vs-spain-in-world-cup-final-2950430-2026-07-17",
-      "headline": "Argentina will struggle to make a messy game vs Spain in World Cup final India Today's Consulting Editor Rajdeep Sardesai joins football experts Karim Bencherifa, Ranjeet Bajaj, Siddhant Aney and host Nikhil Naz for a special FIFA World Cup final preview. Can Lionel Messi inspire Argentina to glory, or will Spain's young stars complete their fairytale run? The panel discusses it all in this roundtable session."
+      "headline": "Argentina will struggle to make a messy game vs Spain in World Cup finalIndia Today's Consulting Editor Rajdeep Sardesai joins football experts Karim Bencherifa, Ranjeet Bajaj, Siddhant Aney and host Nikhil Naz for a special FIFA World Cup final preview. Can Lionel Messi inspire Argentina to glory, or will Spain's young stars complete their fairytale run? The panel discusses it all in this roundtable session."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-odi-future-parthiv-patel-backs-him-for-lords-decider-vs-england-2949847-2026-07-17",
       "headline": "Parthiv Patel backs Rohit Sharma to bow out in style amid retirement talkFormer India wicketkeeper Parthiv Patel backed Rohit Sharma to silence his critics with a century at Lord's amid growing speculation that the series decider against England could be his final ODI appearance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/jude-bellingham-england-world-cup-exit-bus-driver-note-argentina-loss-2949814-2026-07-17",
-      "headline": "Bellingham shares team bus driver's letter with England fans after WC exitJude Bellingham thanked England supporters after the World Cup semi-final loss to Argentina, sharing a handwritten note from the team bus driver. Bellingham promised the fans that the team would bounce back and win major tournaments in the future."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-odi-world-cup-eng-vs-ind-retirement-speculation-india-2949781-2026-07-17",
-      "headline": "Rohit Sharma's retirement speculation explained: Indian cricket set for messy weekendRohit Sharma's dream of playing one last ODI World Cup appears to have been cut short. Reports have emerged out of England that the selectors have decided to move on from the former India captain. But with Shubman Gill publicly backing Rohit just days earlier, Indian cricket finds itself caught in another messy episode of mixed messaging."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-final-lionel-messi-argentina-vs-spain-slavko-vincic-referee-2949783-2026-07-17",
-      "headline": "Vincic, referee for World Cup final, has a shocking past with Messi, ArgentinaFIFA has appointed Slavko Vincic to referee the World Cup final between Argentina and Spain. But the announcement will have the Albiceleste fans sweating as Vincic was the official for one of Argentina's shocking losses in recent times in the tournament."
     }
   ],
   "education": [
