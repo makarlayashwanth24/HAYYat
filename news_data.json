@@ -104,6 +104,21 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajamouli-chiranjeevi-mahesh-babu-over-the-moon-as-skyroots-vikram-1-soars-2951158-2026-07-19",
+      "headline": "Rajamouli, Chiranjeevi, Mahesh Babu over the moon as Skyroot's Vikram-1 soars SS Rajamouli, Chiranjeevi and Mahesh Babu congratulated Skyroot on the successful Vikram-1 rocket launch. Their public messages put the spotlight on India's historic space journey."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/katrina-kaif-birthday-photos-actor-shares-intimate-moments-with-vicky-kaushal-son-vihaan-2951159-2026-07-19",
+      "headline": "Katrina Kaif's birthday album with Vicky Kaushal and son Vihaan is pure joy Actor Katrina Kaif shared beautiful moments from her 43rd birthday celebrations with Vicky Kaushal and son Vihaan. The post offered fans a rare look at her low-key family celebration."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/national-film-awards-2024-dhanush-mammootty-raayan-brahmayugam-captain-miller-kalki-2898-ad-2951128-2026-07-19",
+      "headline": "National Film Awards: Dhanush, Mammootty celebrate Raayan and Brahmayugam wins Actors Dhanush and Mammootty shared posts on social media after winning major honours at the 72nd National Film Awards. They celebrated their win and congratulated other winners as well."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sonam-wangchuk-protest-sonakshi-sinha-dia-mirza-back-students-after-police-action-2951114-2026-07-19",
       "headline": "Sonakshi Sinha, Dia Mirza stand with Sonam Wangchuk, urge peace and unity Sonakshi Sinha and Dia Mirza backed Sonam Wangchuk and the students protesting at Jantar Mantar after police moved him from the site. Their support came as his health intensified calls for accountability, dialogue and education reforms."
     },
@@ -181,28 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/the-india-story-trailer-kajal-aggarwal-shreyas-talpade-pesticide-farming-crisis-2950642-2026-07-18",
       "headline": "The India Story trailer: Kajal Aggarwal, Shreyas Talpade battle pesticide crisis The trailer of The India Story: Slow Poison in Progress is out. Starring Shreyas Talpade and Kajal Aggarwal, the film follows a father and a lawyer confronting the fallout of pesticide farming."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/saif-ali-khan-haiwaan-boldest-reinvention-career-blind-action-hero-priyadarshan-akshay-kumar-2949824-2026-07-18",
-      "headline": "Why Haiwaan could be Saif Ali Khan's boldest reinvention yet Haiwaan reunites actor Saif Ali Khan with director Priyadarshan as he plays a visually challenged protagonist. The role could recast the mainstream Hindi action hero through vulnerability, instinct and empathy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/satluj-controversy-annu-kapoor-backs-removal-asks-makers-to-approach-supreme-court-diljit-dosanjh-honey-trehan-2950620-2026-07-18",
-      "headline": "Why cry? Annu Kapoor backs Satluj takedown, urges makers to seek legal route Actor Annu Kapoor has backed the government's stand on Diljit Dosanjh's Satluj and said the makers should move the Supreme Court. His remarks come as the film's removal from ZEE5 has intensified debate over censorship and creative freedom."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/priyanka-chopra-varanasi-first-look-mandakini-birthday-reveal-ss-rajamouli-mahesh-babu-prithviraj-sukumaran-2950585-2026-07-18",
-      "headline": "Varanasi: Priyanka Chopra's fierce look as Mandakini revealed on birthday SS Rajamouli unveiled Priyanka Chopra's first look as Mandakini from Varanasi on her birthday. The reveal underlines her central role in the globe-spanning epic."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-bloc-walkout-rebel-tmc-mps-seating-row-all-party-meeting-monsoon-session-2951167-2026-07-19",
+      "headline": "Seat at the table for TMC rebels at all-party meeting, INDIA bloc MPs walk outAfter briefly walking out of the meeting, leaders of the INDIA bloc returned and rejoined the discussions, describing their exit as a symbolic protest against the government's decision to provide separate seating to the rebel Trinamool Congress MPs."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-first-message-from-safdarjung-hospital-urges-to-make-cjp-parliament-march-a-success-2951121-2026-07-19",
       "headline": "Make Parliament march a success: Sonam Wangchuk's first message from hospitalSonam Wangchuk said from hospital that his removal from Jantar Mantar amounted to illegal detention. He framed the CJP campaign as India's 2nd Freedom Movement seeking freedom from fear and injustice."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-japan-open-title-akane-yamaguchi-end-drought-2951154-2026-07-19",
+      "headline": "Vintage PV Sindhu beats world champion to win Japan Open crown, ends title droughtPV Sindhu beat Akane Yamaguchi to become the first Indian to win the Japan Open. The victory ended her seven-year wait for a major title on the tour. It comes a month before the world championships in New Delhi."
     },
     {
       "sentiment": "positive",
@@ -211,28 +221,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-activist-refuses-iv-fluids-treatment-safdarjung-hospital-2950728-2026-07-18",
-      "headline": "Sonam Wangchuk weak, dehydrated after fast but refusing treatment: HospitalSonam Wangchuk was admitted to Safdarjung Hospital after a 20-day hunger strike and refused fluids and medicines. The standoff has deepened concerns over his health as doctors counsel treatment and his family seeks discharge."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/england-vs-france-fifa-world-cup-third-place-saka-hat-trick-mbappe-goal-record-2951074-2026-07-19",
-      "headline": "Too little, too late? England and France save their best for 3rd place thrillerFIFA World Cup 2026: Nobody wanted to play for third place, yet England and France produced the World Cup's most entertaining match. Bukayo Saka's hat-trick sealed a breathless 6-4 win, while Kylian Mbappe rewrote the record books despite finishing on the losing side."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sunday-special/story/india-mini-republics-gated-townships-communities-thrive-urban-infrastructure-failures-civic-issues-rwa-2950249-2026-07-19",
       "headline": "India's mini-republic townships are selling what Delhi, Mumbai, Bengaluru cannotIndia's gated townships are like mini-republics. They are not replacing cities, but they are filling the gaps left by failing civic infrastructure. The question they pose is not why people are buying into them, but why so many feel they have to."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-software-engineer-death-police-question-mother-search-pond-for-temple-idol-2950839-2026-07-18",
-      "headline": "Hyderabad techie enters temple naked, takes idol, jumps into pond; diesPolice probing the death of a Hyderabad software engineer claim she ran naked to a nearby temple, picked up an idol of Goddess Ammavaru and then jumped into a pond while carrying it."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/law-news/story/sonam-wangchuk-transfer-private-hospital-gitanjali-angmo-delhi-high-court-petition-safdarjung-hunger-strike-2951129-2026-07-19",
+      "headline": "Lost faith in hospital: Sonam Wangchuk's wife goes to court over 'illegal detention'Sonam Wangchuk's wife Gitanjali Angmo has moved the Delhi High Court seeking his transfer from Safdarjung Hospital to a private hospital, claiming she has no trust in the government facility. The plea alleges his continued confinement is illegal, seeks an urgent hearing, and demands his immediate release or discharge."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-airstrikes-iran-jordan-attack-two-service-members-killed-centcom-2951071-2026-07-19",
-      "headline": "US hits Iran with fresh airstrikes after two American troops killed in Jordan Live UpdatesThe US launched fresh airstrikes on Iran early on Sunday after two service members were killed in Jordan. CENTCOM said the operation targeted IRGC-linked threats to shipping and answered the Jordan attack."
+      "url": "https://www.indiatoday.in/education-today/news/story/international-chemistry-olympiad-2026-india-wins-four-golds-shares-top-rank-2951168-2026-07-19",
+      "headline": "India wins 4 golds, finishes top at 58th International Chemistry OlympiadIndia won four gold medals at the 58th International Chemistry Olympiad in Tashkent. The result gave the country its best finish yet and a joint top rank."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/zohran-mamdani-weighing-israel-pm-benjamin-netanyahu-arrest-in-new-york-city-2951139-2026-07-19",
+      "headline": "He's a war criminal: What Zohran Mamdani said on arresting Netanyahu in NYCAt the same time, however, Mamdani also admitted he was unsure if he had the legal authority to order the New York Police Department, which he oversees, to take a foreign leader into custody."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-metlife-stadium-world-cup-final-argentina-redemption-2951084-2026-07-19",
+      "headline": "Messi's greatest triumph could come where he once walked away from ArgentinaSpain vs Argentina Final: In 2016, Messi announced his retirement at MetLife Stadium, devastated by another heartbreak with Argentina. Now a decade later, that same ground could host his greatest moment in international football."
     },
     {
       "sentiment": "positive",
@@ -241,28 +251,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/why-ranbir-kapoor-ramayana-needs-to-conquer-china-win-box-office-war-2950088-2026-07-19",
-      "headline": "Why Ranbir Kapoor's Ramayana needs to conquer China to win the box office warBuzz around Ramayana Part 1 exploring the massive China market is growing. If the makers crack the deal, it will take the Ranbir Kapoor film's box office game to a new level."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-resign-rebel-tmc-mps-mlas-return-mamata-banerjee-lok-sabha-2950894-2026-07-18",
-      "headline": "Return to Mamata, I'll resign in an hour: Abhishek Banerjee challenges TMC rebelsTMC leader Abhishek Banerjee challenged rebel MPs and MLAs to return to Mamata Banerjee, saying he would resign within an hour if they did, rejecting claims that he was the reason behind the rebellion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/japan-open-final-pv-sindhu-vs-akane-yamaguchi-live-score-tokyo-2951090-2026-07-19",
-      "headline": "Japan Open final live: Sindhu wins 1st game 21-17 vs YamaguchiPV Sindhu vs Akane Yamaguchi live, Japan Open 2026 final: PV Sindhu has won the opening game 21-17. She went on a relentless attacking spree to edge ahead of the World No. 3 in the closing stages of the first game. Can Sindhu win it in straight games?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/lakhimpur-kheri-boy-confronts-dm-over-family-property-dispute-uttar-pradesh-2951101-2026-07-19",
-      "headline": "Unlock my home now: 13-year-old confronts District Magistrate, video goes viralAt a public grievance hearing in Lakhimpur Kheri, a 13-year-old boy challenged the district magistrate over a family property dispute. His blunt appeal highlighted his family's financial strain and frustration over ignored complaints. The conversation soon went viral."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/elon-musk-promised-it-this-5-million-indian-startup-built-it-but-can-it-beat-china-2951092-2026-07-19",
-      "headline": "Elon Musk promised it, this $5 million Indian startup built it. But can it beat China?Handcrafted ByOur Editors An Indian startup just beat Tesla to magnet-free motors. Now comes the real test. India Today Tech reports."
+      "url": "https://www.indiatoday.in/india/story/rajouri-flash-floods-hundreds-evacuated-after-overnight-rain-ptag-2951091-2026-07-19",
+      "headline": "10 dead, many missing as heavy rain triggers flash floods in J&K's Rajouri, PoonchTorrential rain triggered flash floods and landslides across Rajouri and Poonch, killing at least 10 people, leaving several others missing, damaging homes and vehicles, and forcing large-scale rescue and evacuation operations."
     },
     {
       "sentiment": "positive",
@@ -271,18 +261,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/andrew-tristan-tate-arrested-miami-uk-38-rape-trafficking-charges-2951080-2026-07-19",
-      "headline": "Andrew Tate, his brother arrested in Miami over rape, sex trafficking chargesUS Marshals arrested Andrew and Tristan Tate in Miami after British prosecutors announced 38 additional charges. The new case includes allegations of rape, trafficking for sexual exploitation and offences linked to indecent images of a child."
+      "url": "https://www.indiatoday.in/lifestyle/food/story/wengers-what-do-mf-husain-indira-gandhi-sheila-dikshit-gautam-gambhir-have-in-common-2951165-2026-07-19",
+      "headline": "Wenger's is 100. Delhi has changed. Its appetite for the bakery hasn'tHandcrafted ByOur Editors Wenger's, naam toh suna hi hoga. As the iconic Delhi bakery turns 100, we revisit the stories, celebrities and generations of customers that have made it a part of the capital's cultural memory."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/chennai-gcc-corruption-seven-officials-suspended-cm-vijay-tvk-crackdown-2950991-2026-07-18",
-      "headline": "7 Chennai officials suspended as TVK's anti-corruption crusade continuesThe latest action comes days after six other GCC officials were suspended over allegations of bribery, fake billing and a cash-for-jobs racket."
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-software-engineer-death-police-question-mother-search-pond-for-temple-idol-2950839-2026-07-18",
+      "headline": "Hyderabad techie enters temple naked, takes idol, jumps into pond; diesPolice probing the death of a Hyderabad software engineer claim she ran naked to a nearby temple, picked up an idol of Goddess Ammavaru and then jumped into a pond while carrying it."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/pawan-chandana-skyroot-aerospace-journey-51-maths-indias-biggest-private-rocket-plant-2928865-2026-07-18",
-      "headline": "51 in maths, IIT, ISRO and rockets: The story of Pawan Kumar ChandanaSaturday was a big day for India's space ambitions. The launch of Vikram-I this morning was successful. Now, the man behind the launch, an IITian, a former ISRO scientist, and an ambitious entrepreneur who gave India's space journey a new direction, has emerged from the ground to become a sensation and an inspiration for many youngsters."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/katrina-kaif-birthday-photos-actor-shares-intimate-moments-with-vicky-kaushal-son-vihaan-2951159-2026-07-19",
+      "headline": "Katrina Kaif's birthday album with Vicky Kaushal and son Vihaan is pure joyActor Katrina Kaif shared beautiful moments from her 43rd birthday celebrations with Vicky Kaushal and son Vihaan. The post offered fans a rare look at her low-key family celebration."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/chennai/story/amma-canteens-chennai-footfall-up-55-after-tamil-nadu-cm-vijay-2951115-2026-07-19",
+      "headline": "Chennai's Amma canteens see 55% surge in footfall after CM Vijay's revamp pushDaily footfall at Chennai's 383 Amma Canteens has risen from 67,164 in April to over 1.04 lakh after the Tamil Nadu government launched a renovation and modernisation drive."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/do-influencers-even-have-a-life-2949954-2026-07-19",
+      "headline": "Do influencers even have a life?Be it Instagram, YouTube or any other social media platform, many influencers seem to feel the pressure to vlog every moment of their day. Pressure, because views. Just for the sake of views. But is it necessary?"
     },
     {
       "sentiment": "positive",
@@ -291,28 +291,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bhopal-ritual-sees-donkeys-fed-gulab-jamuns-imd-predicts-rainy-spell-2951073-2026-07-19",
-      "headline": "Donkeys fed gulab jamuns for rain in Bhopal. Here's what happened nextResidents fed gulab jamuns to donkeys and offered prayers on Bhopal's Kolar Road on Saturday. The ritual came as 35 Madhya Pradesh districts reported below-normal monsoon rainfall, though a wet spell is expected from Sunday."
+      "url": "https://www.indiatoday.in/science/story/isro-satellite-images-india-cloud-cover-insat-monsoon-imd-2026-rain-science-news-2951126-2026-07-19",
+      "headline": "Isro satellite images show clouds over nearly two-thirds of India: What to expectIsro's INSAT-3DR satellite images show clouds covering nearly two-thirds of India on July 19 as the monsoon turns active. Here is how satellites measure cloud cover and what cloud top temperatures reveal about storms."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-2026-air-2-panshul-bansal-jee-main-99-5-percentile-2950664-2026-07-18",
-      "headline": "99 percentile in JEE, AIR 2 in NEET: Meet Panshul, the new academic starFaridabad student Panshul Bansal secured AIR 2 in NEET UG 2026 after scoring 715 out of 720. His result came after a 99.5 percentile in JEE Main 2026, highlighting his disciplined preparation and love for Biology."
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-mom-praises-flipkart-rider-for-not-ringing-the-doorbell-heres-why-2951150-2026-07-19",
+      "headline": "Bengaluru mom praises Flipkart rider for not ringing the doorbell. Here's whyA Bengaluru woman said a Flipkart delivery partner called her instead of ringing the bell after noticing she had ordered baby diapers. The gesture stood out because he wanted to avoid waking a baby he had never met."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-wwe-entrance-nba-three-pointers-fanatics-fest-new-york-2951105-2026-07-19",
-      "headline": "WWE debut, NBA audition. Novak Djokovic leaves fans speechless in New YorkNovak Djokovic turned Fanatics Fest in New York into his own crossover stage with a WWE-style entrance, clean three-pointers and a UFC power test. Djokovic interviewed Lionel Messi on Day one of the event."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-lords-3rd-odi-preview-streaming-guide-rohit-sharma-2951144-2026-07-19",
+      "headline": "Rohit Sharma eyes defining Lord's innings as retirement rumours grow louderENG vs IND, 3rd ODI preview: The speculation over Rohit Sharma playing his final ODI at Lord's is not refusing to end, but the Indian team's focus is now shifting to the series decider in London. Here's all that you need to know about the third ODI."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/the-odyssey-box-office-collection-day-2-christopher-nolan-film-nears-rs-40-crore-india-matt-damon-tom-holland-2951096-2026-07-19",
-      "headline": "The Odyssey box office Day 2: Saturday rush takes Nolan film near Rs 40 croreDirector Christopher Nolan's The Odyssey posted a strong jump at the Indian box office on its second day. Positive word-of-mouth, IMAX demand and a solid English-language response kept its momentum intact."
+      "url": "https://www.indiatoday.in/education-today/news/story/pawan-chandana-skyroot-aerospace-journey-51-maths-indias-biggest-private-rocket-plant-2928865-2026-07-18",
+      "headline": "51 in maths, IIT, ISRO and rockets: The story of Pawan Kumar ChandanaSaturday was a big day for India's space ambitions. The launch of Vikram-I this morning was successful. Now, the man behind the launch, an IITian, a former ISRO scientist, and an ambitious entrepreneur who gave India's space journey a new direction, has emerged from the ground to become a sensation and an inspiration for many youngsters."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/anna-hazare-urges-centre-to-hold-talks-with-sonam-wangchuk-over-neet-protest-2951028-2026-07-18",
-      "headline": "Don't test Wangchuk's limits, hold talks: Anna Hazare's message to govtIn a video message, Anna Hazare urged the government to hold talks with Sonam Wangchuk, who has been on indefinite hunger strike."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/my-iit-my-story-iit-madras-phd-scholar-campus-life-research-deer-midnight-tea-jee-main-gate-2948940-2026-07-19",
+      "headline": "My IIT, My Story:Deer, deep research and midnight chai shape life at IIT MadrasHandcrafted ByOur Editors For most people, IIT Madras is known for JEE ranks and placements. But for PhD scholar Anagha Manohar, the campus is a place where interdisciplinary research, quiet mornings, wildlife and late-night conversations define everyday life."
     },
     {
       "sentiment": "negative",
@@ -321,6 +321,36 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-retirement-rumours-indina-spokesperson-opinion-2951202-2026-07-19",
+      "headline": "The problem of the spokesperson in Indian cricket Indian cricket's biggest problem may not be selection, succession or retirement. It is that the wrong people keep answering the biggest cricketing questions, while those entrusted with the game's decisions remain conspicuously silent."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-womens-cricket-team-lords-journey-heartbreak-history-2951186-2026-07-19",
+      "headline": "Tears, heartbreak, history: How Lord's became India women's emotional home The Indian women's team has shared a turbulent relationship with Lord's, enduring the heartbreak of the 2017 ODI World Cup final before scripting history with a landmark victory in the first-ever women's Test at the Home of Cricket."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-emotional-message-world-cup-2026-final-argentina-farewell-2951153-2026-07-19",
+      "headline": "Is this Messi's last World Cup game? Emotional post fuels farewell talk Lionel Messi sent an emotional message to Argentina's squad before the World Cup final against Spain. However, fans started to speculate it was his final match in Argentina colours, atleast at the World Cup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-japan-open-title-akane-yamaguchi-end-drought-2951154-2026-07-19",
+      "headline": "Vintage PV Sindhu beats world champion to win Japan Open crown, ends title drought PV Sindhu beat Akane Yamaguchi to become the first Indian to win the Japan Open. The victory ended her seven-year wait for a major title on the tour. It comes a month before the world championships in New Delhi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-lords-3rd-odi-preview-streaming-guide-rohit-sharma-2951144-2026-07-19",
+      "headline": "Rohit Sharma eyes defining Lord's innings as retirement rumours grow louder ENG vs IND, 3rd ODI preview: The speculation over Rohit Sharma playing his final ODI at Lord's is not refusing to end, but the Indian team's focus is now shifting to the series decider in London. Here's all that you need to know about the third ODI."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-metlife-stadium-world-cup-final-argentina-redemption-2951084-2026-07-19",
+      "headline": "Messi's greatest triumph could come where he once walked away from Argentina Spain vs Argentina Final: In 2016, Messi announced his retirement at MetLife Stadium, devastated by another heartbreak with Argentina. Now a decade later, that same ground could host his greatest moment in international football."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/argentina-spain-messi-vs-yamal-fifa-world-cup-final-preview-barcelona-link-2951088-2026-07-19",
@@ -334,7 +364,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/japan-open-final-pv-sindhu-vs-akane-yamaguchi-live-score-tokyo-2951090-2026-07-19",
-      "headline": "Japan Open final live: Sindhu wins 1st game 21-17 vs Yamaguchi PV Sindhu vs Akane Yamaguchi live, Japan Open 2026 final: PV Sindhu has won the opening game 21-17. She went on a relentless attacking spree to edge ahead of the World No. 3 in the closing stages of the first game. Can Sindhu win it in straight games?"
+      "headline": "Japan Open final highlights: Sindhu beats world champion Yamaguchi to win title PV Sindhu vs Akane Yamaguchi highlights, Japan Open 2026 final: PV has become the first Indian shuttler to win the prestigious Japan Open title. It's her first major title in seven years. The Indian shuttler beats world champion Akane Yamaguchi 21-17, 21-17 to clinch the memorable win."
     },
     {
       "sentiment": "positive",
@@ -349,32 +379,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/thomas-tuchel-england-first-step-closing-gap-france-world-cup-bronze-2951075-2026-07-19",
-      "headline": "England's win over France is first step towards football's elite: Thomas Tuchel Thomas Tuchel believes England's dramatic 6-4 win over France is the first major step towards closing the gap on international football's elite. The England boss praised his players' mentality after securing the World Cup bronze medal."
+      "headline": "England's win over France is first step towards football's elite: Thomas TuchelThomas Tuchel believes England's dramatic 6-4 win over France is the first major step towards closing the gap on international football's elite. The England boss praised his players' mentality after securing the World Cup bronze medal."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/england-vs-france-fifa-world-cup-third-place-saka-hat-trick-mbappe-goal-record-2951074-2026-07-19",
-      "headline": "Too little, too late? England and France save their best for 3rd place thriller FIFA World Cup 2026: Nobody wanted to play for third place, yet England and France produced the World Cup's most entertaining match. Bukayo Saka's hat-trick sealed a breathless 6-4 win, while Kylian Mbappe rewrote the record books despite finishing on the losing side."
+      "headline": "Too little, too late? England and France save their best for 3rd place thrillerFIFA World Cup 2026: Nobody wanted to play for third place, yet England and France produced the World Cup's most entertaining match. Bukayo Saka's hat-trick sealed a breathless 6-4 win, while Kylian Mbappe rewrote the record books despite finishing on the losing side."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/france-vs-england-live-3rd-place-fifa-world-cup-mbappe-kane-tuchel-2951059-2026-07-19",
-      "headline": "FRA 4-6 ENG Highlights: Bellingham ends goal-fest as England win bronze France vs England Highlights, FIFA World Cup 3rd place play-off: (FRA 4-5 ENG) England defeat France 6-4 in a breathtaking third-place playoff as Bukayo Saka scores a hat-trick and Jude Bellingham seals victory in stoppage time."
+      "headline": "FRA 4-6 ENG Highlights: Bellingham ends goal-fest as England win bronzeFrance vs England Highlights, FIFA World Cup 3rd place play-off: (FRA 4-5 ENG) England defeat France 6-4 in a breathtaking third-place playoff as Bukayo Saka scores a hat-trick and Jude Bellingham seals victory in stoppage time."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-tribute-didier-deschamps-france-vs-england-fifa-world-cup-2951057-2026-07-19",
-      "headline": "Should've offered you a better ending but we failed: Mbappe's tribute to Deschamps Hours before France's World Cup third-place playoff against England, Kylian Mbappe paid an emotional tribute to outgoing coach Didier Deschamps, saying Les Bleus had \"failed\" to give him the farewell he deserved after 14 years at the helm."
+      "headline": "Should've offered you a better ending but we failed: Mbappe's tribute to DeschampsHours before France's World Cup third-place playoff against England, Kylian Mbappe paid an emotional tribute to outgoing coach Didier Deschamps, saying Les Bleus had \"failed\" to give him the farewell he deserved after 14 years at the helm."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-rooney-haaland-rowing-challenge-2951045-2026-07-18",
-      "headline": "World Cup: Rooney keeps Haaland's promise, rows across Hudson like a Viking Wayne Rooney has finally paid up after losing a playful FIFA World Cup bet to Erling Haaland. The former England captain swapped the BBC studio for a rowing boat on New York's Hudson River, honouring a promise he made after doubting Norway's chances of reaching the quarter-finals."
+      "headline": "World Cup: Rooney keeps Haaland's promise, rows across Hudson like a VikingWayne Rooney has finally paid up after losing a playful FIFA World Cup bet to Erling Haaland. The former England captain swapped the BBC studio for a rowing boat on New York's Hudson River, honouring a promise he made after doubting Norway's chances of reaching the quarter-finals."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/badminton-pv-sindhu-japan-open-livestream-channel-match-2951041-2026-07-18",
-      "headline": "PV Sindhu in first final in 2 years: When and where to watch Japan Open PV Sindhu has entered the final of Japan Open. This is Sindhu's first final appearance in two years. Want to know when and where to watch her match against Akane Yamaguchi? Check out all the details here."
+      "headline": "PV Sindhu in first final in 2 years: When and where to watch Japan OpenPV Sindhu has entered the final of Japan Open. This is Sindhu's first final appearance in two years. Want to know when and where to watch her match against Akane Yamaguchi? Check out all the details here."
     },
     {
       "sentiment": "positive",
@@ -445,36 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/france-vs-england-preview-world-cup-deschamps-mbappe-tuchel-2950474-2026-07-18",
       "headline": "France vs England, 3rd place preview: The heavyweight clash no one wantedA clash worthy of a World Cup final, but with only bronze on the line. France and England meet in Miami as Didier Deschamps says goodbye, Thomas Tuchel looks for answers and Kylian Mbappe's availability remains in the spotlight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-tribute-sir-garfield-sobers-death-mourning-2950537-2026-07-18",
-      "headline": "Kohli leads with touching tribute as cricketing world mourns Sir Garfield SobersVirat Kohli paid an emotional tribute to Sir Garfield Sobers after the West Indies legend passed away at the age of 89 on Thursday, July 17."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-recalls-lamine-yamal-bathtub-photo-before-argentina-vs-spain-world-cup-final-2950528-2026-07-18",
-      "headline": "Messi reacts to viral bathtub pic with baby Lamine Yamal. Here's what he saidLionel Messi told Tom Brady the story of his iconic bathtub photoshoot with Lamine Yamal ahead of facing the Spanish prodigy in the World Cup 2026 final. Messi met baby Yamal almost 20 years ago during a photoshoot for UNICEF."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/france-vs-england-third-place-playoff-deschamps-tuchel-bronze-medal-miami-2950506-2026-07-18",
-      "headline": "Chocolate medal: France, England have no interest in playing 3rd place tieFrance and England go into the third-place play-off admitting neither side wants it. Didier Deschamps and Thomas Tuchel made their feelings clear that it is just business for them at the moment, and they would rather play the final."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-japan-open-final-chen-yufei-hamstring-injury-tokyo-2950489-2026-07-18",
-      "headline": "Japan Open 2026: Fiery PV Sindhu storms into first final in 2 yearsA fiery PV Sindhu produced one of her best performances in recent times as she beat arch-nemesis Chen Yufei to storm into the final of the Japan Open 2026. This ended a two-year wait for Sindhu, who last played a final in 2024."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/donald-trump-mocks-thomas-tuchel-harry-kane-england-argentina-semi-final-loss-2950482-2026-07-18",
-      "headline": "Donald Trump trolls Tuchel over Harry Kane call in England's semi-final lossDonald Trump mocked Thomas Tuchel's decision to drop Harry Kane into a defensive role during England's semi-final defeat to Argentina. Tuchel came under heavy criticism for his tactics during England's loss in the semi-final."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/spain-vs-argentina-fifa-world-cup-2026-aymeric-laporte-referees-physicality-var-2950479-2026-07-18",
-      "headline": "Spain's Aymeric Laporte feels referees should stop Argentina's physical approachSpain defender Aymeric Laporte has urged referees to keep Argentina's physical approach under control in the FIFA World Cup final. Speaking to Marca, Laporte said officials must ensure the match remains about football and not reckless challenges."
     }
   ],
   "education": [
