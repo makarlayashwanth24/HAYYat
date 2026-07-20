@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/swara-bhasker-reacts-as-mumbai-police-arrests-husband-fahad-from-cjp-protest-site-2952254-2026-07-20",
+      "headline": "Swara Bhasker reacts as Mumbai police arrests husband Fahad from CJP protest site Swara Bhasker shared a video showing Mumbai Police detaining Fahad Ahmad at the Chaityabhoomi protest in Mumbai. The clip and her post drew attention to the detentions, reported injuries and the wider CJP mobilisation in Delhi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-vijay-h-vinoth-cm-vijay-first-film-july-23-release-2952196-2026-07-20",
+      "headline": "This is not Thalapathy's last film, it's CM Vijay's first: H Vinoth on Jana Nayagan Ahead of Jana Nayagan's release, director H Vinoth said the film should be viewed as Chief Minister Vijay's first rather than the actor's farewell film."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/avengers-doomsday-trailer-unveils-robert-downey-jr-doctor-doom-chris-evans-surprise-return-watch-2952193-2026-07-20",
       "headline": "Avengers: Doomsday trailer unveils Doctor Doom, Chris Evans' surprise return. Watch Marvel Studios has released the first full trailer for Avengers: Doomsday, with Robert Downey Jr unveiled as Doctor Doom. The footage also teases Chris Evans' surprise appearance and sets up a major Avengers showdown."
     },
@@ -186,33 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-trailer-launch-bengaluru-august-8-yash-film-release-august-26-2951893-2026-07-20",
       "headline": "After Ramayana, Yash's Toxic gears up for grand trailer launch in Bengaluru Yash's Toxic: A Fairytale for Grown-Ups is reportedly set to kick off its promotions, with the makers planning a grand trailer launch event in Bengaluru on August 8. This comes weeks after the trailer launch of Ramayana."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/naresh-actor-mahesh-babu-stepbrother-slams-e20-fuel-rollout-i-am-not-anti-national-2951883-2026-07-20",
-      "headline": "I'm not anti-national: Mahesh Babu's stepbrother and actor Naresh slams E20 fuel Telugu veteran actor Naresh Vijaya Krishna questioned the rapid rollout of E20 petrol, citing repair and affordability concerns. His remarks, alongside questions raised by Kamal Haasan in Parliament, have sharpened the debate over compatibility, costs and fuel choice."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-indias-got-latent-mock-clinic-neet-paper-leak-joke-annkit-sharma-2951877-2026-07-20",
-      "headline": "Samay Raina sets up mock clinic for Latent contestant, cracks NEET joke Comedian Samay Raina turned contestant Annkit Sharma's candid revelation on India's Got Latent 2 into a mock clinic with a doctor from the audience. The moment, followed by a NEET-linked joke, made the act in episode three a major online talking point."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/4-indians-killed-1-critically-injured-in-attack-on-cargo-ship-departing-ukraines-odesa-govt-condemns-attack-2952277-2026-07-20",
+      "headline": "4 Indians killed in attack on cargo ship leaving Ukraine; govt condemns strikeThe Ministry of External Affairs said the Guinea-Bissau-flagged vessel MV Golden Leo came under attack on the evening of July 19 as it sailed out of Odesa with 17 crew members on board, including five Indians. Ukraine blames Russian cruise missiles for the attack."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cjp-protest-delhi-violence-70-detained-50-police-injured-buses-attacked-2952212-2026-07-20",
+      "headline": "5 IPS officers among 50 cops hurt, shops vandalised as CJP protest turns violent  Live updatesTwo police buses were attacked, shops on Janpath were allegedly vandalised and more than 50 security personnel were injured. Now, multiple FIRs and a possible conspiracy probe are widening the investigation."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/wangchuks-release-pradhans-exit-rs-1-crore-compensation-for-neet-suicides-cjps-3-demands-to-jp-nadda-2952048-2026-07-20",
-      "headline": "Free Wangchuk, sack Pradhan, Rs 1 crore for each NEET death: CJP's 3 demands Live updatesA CJP delegation met Health Minister JP Nadda and submitted a memorandum listing three key demands \u2013 the release of activist Sonam Wangchuk from the hospital, the removal of Education Minister Dharmendra Pradhan, and Rs 1 crore compensation for families of NEET aspirants who allegedly died by suicide following the NEET paper leak."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/hunger-strike-will-continue-till-youth-leaders-meet-mps-sonam-wangchuk-slams-brutality-against-protesters-2952174-2026-07-20",
-      "headline": "Hunger strike will continue till youth leaders meet MPs: Sonam WangchukWangchuk issued a handwritten statement through his wife, Gitanjali Angmo, saying he would continue his fast, now in its 23rd day. He criticised the police action against peaceful protesters and urged the government to allow student representatives to present their grievances before Parliament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tripura-dgp-anurag-dhankar-found-dead-in-agartala-phq-office-2951867-2026-07-20",
-      "headline": "Tripura top cop Anurag Dhankar found hanging in office, suicide suspectedTripura DGP Anurag Dhankar was declared dead at 12:48 pm on Monday despite nearly 48 minutes of CPR after being brought to hospital without vital signs. Authorities have launched an investigation, while the exact cause of death will be determined after a post-mortem examination."
+      "headline": "Free Wangchuk, sack Pradhan, Rs 1 crore for each NEET death: CJP's 3 demandsA CJP delegation met Health Minister JP Nadda and submitted a memorandum listing three key demands \u2013 the release of activist Sonam Wangchuk from the hospital, the removal of Education Minister Dharmendra Pradhan, and Rs 1 crore compensation for families of NEET aspirants who allegedly died by suicide following the NEET paper leak."
     },
     {
       "sentiment": "negative",
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-protest-in-delhi-live-updates-cjp-sonam-wangchuk-abhijeet-dipike-parliament-march-2951604-2026-07-20",
-      "headline": "Live: Over 50 cops injured, 70 detained as Delhi Police files multiple FIRsCJP Protest in Delhi Live Updates: Senior leaders of the Cockroach Janta Party (CJP) met Union Minister J.P. Nadda on Monday and submitted a charter of demands, even as thousands of protesters took part in the outfit's 'Chalo Sansad' march amid unprecedented security in the national capital. The march began from Jantar Mantar in the morning, with protesters attempting to make their way towards Parliament. Clashes broke out at several locations as police stopped the march, prompting security personnel to resort to lathicharge and tear gas to disperse the crowd. Authorities have enforced prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) across the New Delhi district as part of elaborate security arrangements. The CJP has organised the march to protest alleged irregularities in the NEET examination, demand sweeping education reforms and seek the resignation of Union Education Minister Dharmendra Pradhan. Follow IndiaToday.in for the latest updates on the CJP's 'Chalo Sansad' march."
+      "url": "https://www.indiatoday.in/india/story/tripura-dgp-anurag-dhankar-found-dead-in-agartala-phq-office-2951867-2026-07-20",
+      "headline": "Tripura top cop Anurag Dhankar found hanging in office, suicide suspectedTripura DGP Anurag Dhankar was declared dead at 12:48 pm on Monday despite nearly 48 minutes of CPR after being brought to hospital without vital signs. Authorities have launched an investigation, while the exact cause of death will be determined after a post-mortem examination."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/hunger-strike-will-continue-till-youth-leaders-meet-mps-sonam-wangchuk-slams-brutality-against-protesters-2952174-2026-07-20",
+      "headline": "Hunger strike will continue till youth leaders meet MPs: Sonam WangchukWangchuk issued a handwritten statement through his wife, Gitanjali Angmo, saying he would continue his fast, now in its 23rd day. He criticised the police action against peaceful protesters and urged the government to allow student representatives to present their grievances before Parliament."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/abhijeet-dipke-cjp-protest-key-moments-wangchuk-sansad-chalo-jp-nadda-demands-pradhan-2952032-2026-07-20",
-      "headline": "Abhijeet Dipke: Man of the moment, missing from every big moment?Activist Sonam Wangchuk's fast gave the CJP protest its defining moments. CJP founder Abhijeet Dipke, meanwhile, seemed to reappear after each defining moment. Whether it was Wangchuk's detention, the march to the Parliament on Monday or the confusion over his own alleged detention."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/government-says-no-proposal-to-scrap-long-term-capital-gains-tax-on-equities-2951882-2026-07-20",
-      "headline": "Government says no proposal to scrap LTCG tax on equitiesThe government has ruled out scrapping the long-term capital gains tax on listed equities, Finance MoS Pankaj Chaudhary told the Lok Sabha. The government also said LTCG tax collections rose 78% year-on-year, highlighting its growing contribution to revenue."
+      "headline": "How Abhijeet Dipke pulls a Houdini, each time, every timeActivist Sonam Wangchuk's fast gave the CJP protest its defining moments. CJP founder Abhijeet Dipke, meanwhile, seemed to reappear after each defining moment. Whether it was Wangchuk's detention, the march to the Parliament on Monday or the confusion over his own alleged detention."
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/students-beaten-paper-leak-culprits-roaming-free-rahul-gandhi-calls-pm-modi-most-youth-hostile-pm-2952141-2026-07-20",
-      "headline": "Students beaten, paper leak culprits roaming free: Rahul Gandhi slams PM ModiGandhi claimed that 152 leaked examination papers have affected 7.5 crore students, alleging that no one responsible for the irregularities has been punished so far."
+      "url": "https://www.indiatoday.in/business/story/government-says-no-proposal-to-scrap-long-term-capital-gains-tax-on-equities-2951882-2026-07-20",
+      "headline": "Government says no proposal to scrap LTCG tax on equitiesThe government has ruled out scrapping the long-term capital gains tax on listed equities, Finance MoS Pankaj Chaudhary told the Lok Sabha. The government also said LTCG tax collections rose 78% year-on-year, highlighting its growing contribution to revenue."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-protest-in-delhi-live-updates-cjp-sonam-wangchuk-abhijeet-dipike-parliament-march-2951604-2026-07-20",
+      "headline": "Live: Delhi Police probe Pak-linked Social Media handles over violence claimsCJP Protest in Delhi Live Updates: Senior leaders of the Cockroach Janta Party (CJP) met Union Minister J.P. Nadda on Monday and submitted a charter of demands, even as thousands of protesters took part in the outfit's 'Chalo Sansad' march amid unprecedented security in the national capital. The march began from Jantar Mantar in the morning, with protesters attempting to make their way towards Parliament. Clashes broke out at several locations as police stopped the march, prompting security personnel to resort to lathicharge and tear gas to disperse the crowd. Authorities have enforced prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) across the New Delhi district as part of elaborate security arrangements. The CJP has organised the march to protest alleged irregularities in the NEET examination, demand sweeping education reforms and seek the resignation of Union Education Minister Dharmendra Pradhan. Follow IndiaToday.in for the latest updates on the CJP's 'Chalo Sansad' march."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ketan-agarwal-engagement-video-resurfaces-siya-goyal-viral-death-case-2952177-2026-07-20",
+      "headline": "He is very caring and kind: Siya's engagement video with Ketan resurfacesAn old engagement video shows Siya Goyal calling Ketan Agarwal very caring and kind. The clip has resurfaced amid the alleged murder case, drawing intense reactions online."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-trailer-yash-ravana-outshines-ranbir-kapoor-lord-ram-2951787-2026-07-20",
+      "headline": "Ramayana trailer belongs to Yash: How Ravana emerges as its biggest forceYash's Ravana was unveiled as Ramayana's most commanding force during a special trailer screening in Delhi. Here's why the actor's presence could shape the film's early buzz before the trailer debuts online on July 24."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/bit-mesra-rocketry-department-indias-first-space-engineering-lab-shaped-early-rockets-2951351-2026-07-20",
+      "headline": "1964: How NASA helped build India's first Rocketry InstituteIt was 1964. ISRO had not yet been established, but in Ranchi, India's first rocketry department was already taking shape. Built with support from NASA and backed by Homi J Bhabha and Vikram Sarabhai, it laid the foundation for India's early space research. Today, the department continues to produce space engineers, with four BIT Mesra alumni playing a key role in Skyroot Aerospace's successful Vikram-I mission."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prakash-raj-waves-constitution-rallies-crowd-at-cjps-sansad-chalo-march-video-2952027-2026-07-20",
+      "headline": "Prakash Raj waves Constitution, rallies crowd at CJP's Sansad Chalo march. VideoPrakash Raj joined the CJP's Chalo Sansad march in Delhi and waved the Constitution after addressing protesters over alleged NEET irregularities. The protest drew support from actors and students as police action and detention allegations intensified the agitation."
     },
     {
       "sentiment": "positive",
@@ -261,8 +286,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-trailer-yash-ravana-outshines-ranbir-kapoor-lord-ram-2951787-2026-07-20",
-      "headline": "Ramayana trailer belongs to Yash: How Ravana emerges as its biggest forceYash's Ravana was unveiled as Ramayana's most commanding force during a special trailer screening in Delhi. Here's why the actor's presence could shape the film's early buzz before the trailer debuts online on July 24."
+      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-pradesh-anantapur-drought-heatwave-borampalli-frog-wedding-rain-prayer-2951793-2026-07-20",
+      "headline": "Video: Drought-hit Andhra villagers hold frog wedding to pray for rainVillagers caught two frogs from a nearby pond to serve as bride and groom, adorned them with turmeric and saffron and solemnised their wedding in the presence of village elders."
     },
     {
       "sentiment": "positive",
@@ -270,34 +295,14 @@
       "headline": "UK skilled workers visa used by kebab shops, mosques, gurdwaras. But how?Introduced after Brexit to attract highly skilled professionals, the UK's Skilled Worker visa is facing growing scrutiny. British media reports and politicians claim sponsor licences issued to corner shops, restaurants, kebab shops and even religious organisations are being used to recruit workers for roles that they say fall outside the scheme's original purpose."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/startup-of-28-year-olds-not-some-56-year-old-pm-modis-dig-as-he-celebrates-skyroots-rocket-launch-2951729-2026-07-20",
-      "headline": "28-year-olds led Skyroot launch, not young 56-year-old: PM's dig at Rahul GandhiPM Modi lauded Skyroot Aerospace's successful rocket launch by its team of 28-year-olds while taking an apparent swipe at 56-year-old Congress leader Rahul Gandhi."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/punjab-farmers-head-delhi-july-21-mahapanchayat-protest-india-us-trade-deal-2951952-2026-07-20",
+      "headline": "Punjab farmers head to Delhi for July 21 Mahapanchayat against US trade dealPunjab farmers are heading to Delhi for a July 21 Mahapanchayat against the proposed India-US trade agreement. Farm leaders say the pact could hurt small cultivators, traders and jobs, and have warned of a bigger agitation."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/houthis-declare-naval-blockade-against-saudi-arabia-cite-eye-for-an-eye-retaliation-2952123-2026-07-20",
       "headline": "Houthis declare naval blockade on Saudi Arabia, cite 'eye for an eye' retaliationThe Houthis have announced an immediate naval blockade against Saudi Arabia, calling it \"an eye for an eye\" response to Riyadh's years-long siege of Yemen."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-pradesh-anantapur-drought-heatwave-borampalli-frog-wedding-rain-prayer-2951793-2026-07-20",
-      "headline": "Video: Drought-hit Andhra villagers hold frog wedding to pray for rainVillagers caught two frogs from a nearby pond to serve as bride and groom, adorned them with turmeric and saffron and solemnised their wedding in the presence of village elders."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-crisis-balochistan-insurgency-ttp-attacks-pok-protests-afghanistan-border-2950229-2026-07-20",
-      "headline": "Trouble for Pak on four fronts. Is a new nation on the horizon?From Balochistan and Khyber Pakhtunkhwa to POK and the Afghan border, Pakistan is facing four distinct but increasingly interconnected crises. Together, they reveal the erosion of state authority and the limits of Asim Munir's security-first approach. A former Afghan leader suggests that a new country might be taking shape."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-marc-cucurella-world-cup-final-row-spain-argentina-2951805-2026-07-20",
-      "headline": "Great to cheap? Messi under fire for shocking attempt to get Cucurella sent offLionel Messi faces fierce criticism for a cynical attempt to get Spain's Marc Cucurella sent off during the World Cup final on Sunday. Argentina's defeat ended in an ugly post-match brawl."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/bit-mesra-rocketry-department-indias-first-space-engineering-lab-shaped-early-rockets-2951351-2026-07-20",
-      "headline": "1964: How NASA helped build India's first Rocketry InstituteIt was 1964. ISRO had not yet been established, but in Ranchi, India's first rocketry department was already taking shape. Built with support from NASA and backed by Homi J Bhabha and Vikram Sarabhai, it laid the foundation for India's early space research. Today, the department continues to produce space engineers, with four BIT Mesra alumni playing a key role in Skyroot Aerospace's successful Vikram-I mission."
     },
     {
       "sentiment": "positive",
@@ -311,16 +316,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/andy-burnham-to-replace-keir-starmer-as-uk-pm-seventh-in-10-years-2951871-2026-07-20",
-      "headline": "Andy Burnham to replace Keir Starmer as UK PM, seventh in 10 yearsAfter Keir Starmer makes his farewell speech outside 10 Downing Street and formally tenders his resignation to King Charles, the monarch will receive Burnham to ask him to be prime minister."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-election-2027-ram-mandir-donation-ayodhya-theft-case-akhilesh-yadav-congress-bjp-yogi-agenda-2951330-2026-07-20",
-      "headline": "How BJP got Congress, SP to fight on its Sanatan plankJust months ahead of the 2027 UP polls, the alleged Ram Mandir donation theft has given the Congress and Samajwadi Party a potent weapon. But in trying to corner the BJP over Ram and the Ayodhya temple, the Opposition is fighting on the issue that the saffron party turned mainstream."
+      "url": "https://www.indiatoday.in/world/story/pakistan-crisis-balochistan-insurgency-ttp-attacks-pok-protests-afghanistan-border-2950229-2026-07-20",
+      "headline": "Trouble for Pak on four fronts. Is a new nation on the horizon?From Balochistan and Khyber Pakhtunkhwa to POK and the Afghan border, Pakistan is facing four distinct but increasingly interconnected crises. Together, they reveal the erosion of state authority and the limits of Asim Munir's security-first approach. A former Afghan leader suggests that a new country might be taking shape."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-rankings-spain-reclaim-top-spot-world-cup-win-argentina-morocco-2952298-2026-07-20",
+      "headline": "FIFA Rankings: Spain reclaim No. 1 spot after World Cup triumph, Argentina second World Cup champions Spain returned to the summit of the FIFA men's rankings on Monday, reclaiming the No. 1 spot after their 1-0 extra-time victory over Argentina in the 2026 World Cup final."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/uefa-president-aleksander-ceferin-boycotts-world-cup-final-protest-fifa-balogun-row-2952252-2026-07-20",
+      "headline": "UEFA president boycotts World Cup final in protest against FIFA over Balogun saga UEFA president Aleksander Ceferin stayed away from the FIFA World Cup final as tensions with world football's governing body escalated over the controversial suspension of Folarin Balogun's one-match ban."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/commonwealth-games-glasgow-india-athletics-boxing-lead-funding-2952255-2026-07-20",
+      "headline": "India spends over Rs 53 crore on preparations ahead of Glasgow Games The Sports Ministry has spent over Rs 53 crore on preparing Indian athletes for the Glasgow Commonwealth Games, with athletics, boxing and weightlifting receiving the biggest share of the funding."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/rudi-garcia-belgium-coach-exit-world-cup-quarter-final-2952200-2026-07-20",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-rohit-sharma-virat-kohli-odi-future-yuvraj-singh-bcci-clarity-2951854-2026-07-20",
-      "headline": "Back Rohit Sharma, Virat Kohli or move on: Yuvraj Singh's strong message to BCCI Yuvraj Singh has urged the BCCI and team management to give Rohit Sharma and Virat Kohli clarity over their ODI futures, saying the selectors must clearly communicate whether the veteran duo remain part of India's plans for the 2027 World Cup."
+      "headline": "Back Rohit Sharma, Virat Kohli or move on: Yuvraj Singh's strong message to BCCIYuvraj Singh has urged the BCCI and team management to give Rohit Sharma and Virat Kohli clarity over their ODI futures, saying the selectors must clearly communicate whether the veteran duo remain part of India's plans for the 2027 World Cup."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-marc-cucurella-world-cup-final-row-spain-argentina-2951805-2026-07-20",
-      "headline": "Great to cheap? Messi under fire for shocking attempt to get Cucurella sent off Lionel Messi faces fierce criticism for a cynical attempt to get Spain's Marc Cucurella sent off during the World Cup final on Sunday. Argentina's defeat ended in an ugly post-match brawl."
+      "headline": "Great to cheap? Messi under fire for shocking attempt to get Cucurella sent offLionel Messi faces fierce criticism for a cynical attempt to get Spain's Marc Cucurella sent off during the World Cup final on Sunday. Argentina's defeat ended in an ugly post-match brawl."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/spain-world-cup-final-win-alcaraz-nadal-celebrate-argentina-defeat-2951810-2026-07-20",
-      "headline": "Watch: Carlos Alcaraz, Rafael Nadal erupt in joy after Spain's World Cup glory Carlos Alcaraz and Rafael Nadal celebrated on social media after Spain beat Argentina in the FIFA World Cup final. Ferran Torres's extra-time winner capped Spain's title run and triggered jubilation across the country."
+      "headline": "Watch: Carlos Alcaraz, Rafael Nadal erupt in joy after Spain's World Cup gloryCarlos Alcaraz and Rafael Nadal celebrated on social media after Spain beat Argentina in the FIFA World Cup final. Ferran Torres's extra-time winner capped Spain's title run and triggered jubilation across the country."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/world-cup-final-lisandro-martinez-aggression-injury-man-united-fans-reaction-2951620-2026-07-20",
       "headline": "World Cup final: Lisandro Martinez's fiery display ends in injury, sparks frenzy among Man United fansArgentina defender Lisandro Martinez's combative World Cup final came to a painful end after he was forced off injured moments after receiving the first yellow card of the match. The setback sparked concern among Manchester United fans ahead of the new season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-retirement-rumours-shubman-gill-reaction-lords-odi-hundred-2951615-2026-07-20",
-      "headline": "Shubman Gill breaks silence on Rohit retirement rumours after Lord's hundredIndia vs England: India captain Shubman Gill dismissed speculation over Rohit Sharma's ODI future after the defeat to England at Lord's, saying there had been no discussion within the team about the veteran opener's retirement despite reports linking the 39-year-old with an international exit after the England series."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-3rd-odi-rohit-sharma-138-win-series-2-1-2951606-2026-07-20",
-      "headline": "Rohit Sharma 138 not enough as England clinch series 2-1 at Lord'sRohit Sharma's magnificent 138 was not enough as England overcame fighting half-centuries from Shubman Gill (77) and Virat Kohli (74) to beat India by 27 runs in the third ODI at Lord's on Sunday and seal the series 2-1."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-lords-century-retirement-speculation-india-england-3rd-odi-2951569-2026-07-19",
-      "headline": "No helmet off, no celebration: Rohit Sharma lets his Lord's hundred do the talkingIndia vs England: Rohit Sharma answered the retirement rumours in the best way he knows, with a magnificent century at Lord's on Sunday that kept India alive in their daunting chase of 388 against England in the series-deciding third ODI."
     }
   ],
   "education": [
