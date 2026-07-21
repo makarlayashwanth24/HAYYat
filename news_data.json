@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/who-does-warren-buffett-credit-for-his-extraordinary-success-2952623-2026-07-21",
+      "headline": "Who does Warren Buffett credit for his extraordinary success?Buffett bought his first shares at the age of 11, purchasing three shares of Cities Service for $38 each. That small investment marked the beginning of a career that would eventually turn him into one of the world's most successful investors."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/sbi-funds-management-lists-at-nearly-7-premium-should-you-buy-sell-or-hold-2952581-2026-07-21",
+      "headline": "SBI Funds Management lists at nearly 7% premium: Should you buy, sell or hold?SBI Funds Management listed at a modest premium after its heavily subscribed IPO. The debut beat the issue price but fell short of grey market expectations, leaving investors split on booking gains or holding."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/why-farmers-are-protesting-marching-delhi-india-us-trade-deal-before-any-pact-is-signed-2952525-2026-07-21",
+      "headline": "Why are farmers marching to Delhi? Key reasons behind the protestThe protest, organised under the banner of the 'Desh Bachao Morcha', will see farmers from Punjab, Haryana, Rajasthan and Himachal Pradesh assemble at Kisan Ghat. Farmer unions say the proposed agreement could hurt India's agriculture sector by opening the door to cheaper American farm products."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-open-lower-hdfc-bank-losses-it-stocks-limit-downside-2952500-2026-07-21",
       "headline": "Sensex, Nifty open lower as HDFC Bank drags; IT stocks cap lossesThe S&P BSE Sensex fell 54.36 points to 77,654.16, while the NSE Nifty50 slipped 8.70 points to 24,229.80 as of 9:25 am."
     },
@@ -84,24 +99,69 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/spicejet-dark-patterns-fine-ccpa-rs-1-lakh-pre-ticked-consent-2950251-2026-07-17",
       "headline": "SpiceJet fined Rs 1 lakh for misleading consent tactics, loyalty programme opt-insA consumer watchdog finds SpiceJet's booking interface nudged users into loyalty enrolment and promotional consent, raising fresh questions over how digital platforms secure customer approval."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/reliance-q1-profit-falls-22-despite-25-jump-in-revenue-heres-why-2950232-2026-07-17",
-      "headline": "Reliance Q1 profit falls 22% despite 25% jump in revenue. Here's whyReliance Industries posted a 22% drop in first-quarter net profit even as revenue rose sharply."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/founders-life-is-hard-12-billion-fintech-ceo-says-bank-rejected-home-loan-pravin-jadhav-2949977-2026-07-17",
-      "headline": "Founder's life is hard: $1.2 billion fintech CEO says bank rejected home loanDespite a long relationship with the lender, a strong credit score and significant assets, a fintech founder said a leading private sector bank rejected his home loan application."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/apple-overtakes-nvidia-to-become-worlds-most-valuable-company-again-2950201-2026-07-17",
-      "headline": "Apple beats Nvidia to become world's most valuable companyApple's market capitalisation stood at around $4.88 trillion on Friday as its shares remained largely steady. Nvidia, meanwhile, slipped to around $4.86 trillion after its shares fell 3.5%."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kartik-aaryan-visits-mahakaleshwar-temple-after-first-national-award-win-2952612-2026-07-21",
+      "headline": "After National Award win, Kartik Aaryan offers prayers at Mahakaleshwar. Videos Days after winning his first National Award, Kartik Aaryan visited the Mahakaleshwar Temple in Ujjain with his parents and took part in the aarti."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rang-de-basanti-to-yuva-bollywood-films-that-showed-dissent-isnt-anti-national-2952532-2026-07-21",
+      "headline": "Rang De Basanti to Yuva: Bollywood films that showed dissent isn't anti-national As young people gather at Delhi's Jantar Mantar for the Cockroach Janta Party protest, Hindi cinema offers a timely mirror. Films like Rang De Basanti, Yuva, No One Killed Jessica, Sardar Udham and Main Azaad Hoon have long portrayed protest as an essential part of a vibrant democracy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/jaaved-jaaferi-life-in-a-metro-munna-bhai-mbbs-roles-he-nearly-missed-2952589-2026-07-21",
+      "headline": "Jaaved Jaaferi reveals he was considered for Life in a... Metro, Munna Bhai MBBS Actor Jaaved Jaaferi recalled coming close to key roles in Life in a... Metro, Munna Bhai MBBS and Parinda. He said the near misses stayed with him, but he accepted them as fate."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prabhas-spirit-40-percent-shoot-complete-sandeep-reddy-vanga-update-2951804-2026-07-21",
+      "headline": "Director Sandeep Reddy Vanga shared Prabhas Spirit update at US event. Sandeep Reddy Vanga said at the TTA convention that nearly 40 per cent of Spirit has been shot. The update reinforces the film's March 5, 2027 release plan after recent delay rumours."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/farhan-akhtar-shibani-dandekar-wedding-video-sparks-trolling-amid-don-3-row-2952578-2026-07-21",
+      "headline": "Farhan Akhtar sings Meri Laundry at wedding, gets rinsed by the internet Actors Farhan Akhtar and Shibani Dandekar were trolled after a wedding performance video went viral. The clip drew criticism over their on-stage coordination while Farhan remains in focus over the Don 3 controversy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/karan-patel-ott-vs-television-daily-soaps-have-lost-importance-yeh-hai-mohabbatein-2952572-2026-07-21",
+      "headline": "Actor Karan Patel on OTT vs television: Daily soaps have lost their importance Actor Karan Patel said OTT and binge-watching have weakened the hold daily soaps once had on family routines. He also revisited Yeh Hai Mohabbatein's legacy and said its long-form storytelling cannot be easily rebooted for the web."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/anurag-kashyap-questions-police-action-after-clashes-delhi-neet-ug-2026-protest-2952569-2026-07-21",
+      "headline": "Did they sell their soul?: Anurag Kashyap slams Delhi police action against students Protest over education irregularities and the NEET-UG 2026 paper leak in Delhi turned violent, leading to police lathi charge and teargas, sparking widespread criticism. Filmmaker Anurag Kashyap condemned the Delhi Police's action, questioning their moral stance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/history-wont-forgive-it-prakash-raj-to-celebs-silent-on-cjps-students-protest-2952565-2026-07-21",
+      "headline": "History won't forgive it: Prakash Raj to celebs silent on CJP's students protest Prakash Raj used the CJP's Chalo Sansad march to question the film industry's silence on the student-led protests in New Delhi. He said such moments reveal who stands with people and warned history would judge those who stayed quiet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rang-de-basanti-scene-viral-amid-jantar-mantar-student-protests-delhi-2952471-2026-07-21",
+      "headline": "Rang De Basanti scene goes viral amid CJP protest. Here's why A Rang De Basanti scene is trending on social media amid nationwide protest over NEET irregularities and the demand for education reforms. The iconic dialogue on change and responsibility has resonated with many social media users online."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/txt-yeonjun-kpop-tomorrow-x-together-no-labels-part-02-interview-all-rounder-tag-indian-fans-exclusive-2952531-2026-07-21",
+      "headline": "Exclusive | TXT's Yeonjun on the 'all-rounder' tag, NO LABELS: PART 02, Indian fans In an exclusive interview with India Today, TXT's Yeonjun reflects on NO LABELS: PART 02, balancing perfection with vulnerability and finding his own artistic identity. He also shares his thoughts on Indian fans."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/naseeruddin-shah-jantar-mantar-protest-video-fact-check-theatre-event-2952556-2026-07-21",
+      "headline": "Did Naseeruddin Shah join CJP's New Delhi protest? The truth behind viral video A viral video falsely claimed Naseeruddin Shah had joined the student protest at Jantar Mantar with his sons. However, the original video is of the actor at a theatre event."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sonakshi-sinha-shares-cjp-protest-photos-backs-sonam-wangchuk-2952529-2026-07-21",
+      "headline": "A whole nation's heart broke: Sonakshi Sinha shares CJP protest photos Sonakshi Sinha shared photographs from the July 20 CJP protest and renewed her support for Sonam Wangchuk. Her post came after police removed Wangchuk from Jantar Mantar and added to calls for education reform and accountability."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sonu-sood-vir-das-and-dia-mirza-rally-behind-youth-led-cjp-protest-at-jantar-mantar-2952470-2026-07-21",
@@ -136,83 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/shabana-azmis-health-deteriorates-during-cjp-protest-volunteers-help-her-rest-2952389-2026-07-20",
       "headline": "Shabana Azmi's health deteriorates during CJP protest, volunteers help her rest Veteran actor Shabana Azmi felt unwell during the Cockroach Janata Party's protest at Jantar Mantar. Her presence and call for peaceful demonstration inspired many as thousands gathered in Delhi backing the cause."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/cjp-sansad-chalo-protest-bhumi-pednekar-huma-qureshi-condemn-police-force-2952343-2026-07-20",
-      "headline": "Bhumi Pednekar to Huma Qureshi, celebs back Delhi CJP protest, question use of force Actors and filmmakers backed the CJP's Sansad Chalo protest in Delhi and condemned the use of force against peaceful marchers. Their posts turned attention to student anxiety, access to education and demands for accountability."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/tara-sutaria-toxic-second-single-deleted-instagram-story-sparks-buzz-2952231-2026-07-20",
-      "headline": "Tara Sutaria asks, 'is monogamy the law of the heart?' in Toxic post, then deletes it Tara Sutaria's deleted Instagram Story has fuelled speculation about Toxic's second single. The post has intensified buzz around the film ahead of its August release."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/swara-bhasker-reacts-as-mumbai-police-arrests-husband-fahad-from-cjp-protest-site-2952254-2026-07-20",
-      "headline": "Swara Bhasker reacts as Mumbai police arrests husband Fahad from CJP protest site Swara Bhasker shared a video showing Mumbai Police detaining Fahad Ahmad at the Chaityabhoomi protest in Mumbai. The clip and her post drew attention to the detentions, reported injuries and the wider CJP mobilisation in Delhi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-vijay-h-vinoth-cm-vijay-first-film-july-23-release-2952196-2026-07-20",
-      "headline": "This is not Thalapathy's last film, it's CM Vijay's first: H Vinoth on Jana Nayagan Ahead of Jana Nayagan's release, director H Vinoth said the film should be viewed as Chief Minister Vijay's first rather than the actor's farewell film."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/avengers-doomsday-trailer-unveils-robert-downey-jr-doctor-doom-chris-evans-surprise-return-watch-2952193-2026-07-20",
-      "headline": "Avengers: Doomsday trailer unveils Doctor Doom, Chris Evans' surprise return. Watch Marvel Studios has released the first full trailer for Avengers: Doomsday, with Robert Downey Jr unveiled as Doctor Doom. The footage also teases Chris Evans' surprise appearance and sets up a major Avengers showdown."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shabana-azmi-protest-actor-joins-parliament-march-backs-peaceful-demonstration-2952178-2026-07-20",
-      "headline": "Shabana Azmi shares video from CJP protest, says salute to all fellow protestors Shabana Azmi joined thousands of protesters marching towards Parliament after backing the CJP agitation at Jantar Mantar. She said the demonstrators were exercising their constitutional right to a peaceful protest as the Monsoon Session began."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-promo-vijay-police-uniform-leak-censor-row-2952149-2026-07-20",
-      "headline": "Jana Nayagan gets iconic hand-slash gesture, CM title card in new promo. Watch The new Jana Nayagan promo features Vijay's hand-slashing gesture similar to former CM Stalin's, stirring political and fan excitement. The film marks Vijay's farewell to cinema with a global release planned on July 23."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-maatrubhumi-poster-confirms-2026-release-omits-director-credit-2952124-2026-07-20",
-      "headline": "Salman Khan's Maatrubhumi to release in 2026, new poster dismisses delay reports A new poster for Salman Khan's Maatrubhumi has indicated the film will arrive in 2026 despite delay reports. The film directed by Apoorva Lakhia, also stars Chitrangda Singh in a key role."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prakash-raj-waves-constitution-rallies-crowd-at-cjps-sansad-chalo-march-video-2952027-2026-07-20",
-      "headline": "Prakash Raj waves Constitution, rallies crowd at CJP's Sansad Chalo march. Video Prakash Raj joined the CJP's Chalo Sansad march in Delhi and waved the Constitution after addressing protesters over alleged NEET irregularities. The protest drew support from actors and students as police action and detention allegations intensified the agitation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/after-the-odyssey-christopher-nolan-says-next-film-is-at-least-3-years-away-2952081-2026-07-20",
-      "headline": "After The Odyssey, Christopher Nolan says next film is at least 3 years away Director Christopher Nolan has said he will wait at least three years before directing again after The Odyssey. He said the all-IMAX production pushed his team to the limit and showed why Hollywood must still take risks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/cjp-chalo-sansad-protest-hema-malini-urges-dialogue-as-neet-march-clashes-with-police-in-delhi-2952010-2026-07-20",
-      "headline": "What will they gain?: Actor and BJP MP Hema Malini reacts to CJP protests in Delhi The first day of Parliament's Monsoon Session witnessed an intense protest by the Cockroach Janta Party in central Delhi, leading to clashes with security forces. BJP MP Hema Malini urged for dialogue over disruption and assured that the government will take appropriate action on the issues raised."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/arijit-singh-awarapan-2-song-yeh-awarapan-july-21-release-after-retirement-2952016-2026-07-20",
-      "headline": "Arijit Singh to return from retirement for Emraan Hashmi's Awarapan 2? Singer Arijit Singh has reportedly sung Yeh Awarapan for Awarapan 2, starring Emraan Hashmi. The track could mark his first playback release since announcing he would stop taking new assignments."
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/cjp-protest-abhijeet-dipke-march-to-parliament-today-will-continue-delhi-jantar-mantar-2952421-2026-07-21",
-      "headline": "Exclusive: March to Parliament will continue today, says CJP's Dipke Live UpdatesA march to Parliament on Monday saw one of the most violent confrontations in Delhi between police and protesters. Scores were left injured. Cockroach Janta Party's Abhijeet Dipke told India Today Digital that the march would continue on Tuesday."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/cockroach-party-parliament-monsoon-session-first-day-cjp-protest-security-scare-talks-delhi-2952462-2026-07-21",
-      "headline": "Behind the barricades: Inside Parliament as CJP protest shook DelhiThe opening day of Parliament unfolded as a tense parallel contest. Massive protests and heightened security outside, while inside the government and Opposition pursued strategy, negotiations and political messaging on a day of disruption and uncertainty."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-lathicharge-on-students-cjp-protest-un-indian-pm-modi-apologise-2952608-2026-07-21",
+      "headline": "Un-Indian, PM must apologise: Rahul Gandhi on cops beating students at CJP stirCongress leader Rahul Gandhi has questioned Prime Minister Narendra Modi's silence on the police crackdown on students at the CJP protest march, while demanding that he apologises for the act."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indus-waters-treaty-india-says-revival-needs-new-pact-pakistan-must-end-terror-2952451-2026-07-21",
-      "headline": "Indus Waters Treaty can't resume as is, future hinges on Pak ending terror: IndiaIndia said the Indus Waters Treaty cannot be revived in its current form, asserting that any future water-sharing arrangement will require a revised framework and be contingent on Pakistan ending cross-border terrorism against India."
+      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-protest-in-delhi-live-updates-abhijeet-dipike-sonam-wangchuk-cjp-parliament-march-2952476-2026-07-21",
+      "headline": "Live: Rahul Gandhi visits RML Hospital to meet students injured during CJP protestCJP Protest in Delhi Live: A day after clashes erupted during the Cockroach Janta Party's march towards Parliament, political leaders continued to visit those injured in the violence. Union Health Minister JP Nadda, Congress leaders Rahul Gandhi and Priyanka Gandhi Vadra visited Delhi's Ram Manohar Lohia (RML) Hospital to meet the injured protesters and police personnel. Several protesters and police personnel were injured during Monday's clashes between demonstrators and security forces. Security remains heightened across the national capital as authorities monitor the situation. Follow India Today for the latest updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-neet-paper-leak-a-grave-sin-at-nda-parliamentary-meet-vows-strict-punishment-for-accused-2952539-2026-07-21",
+      "headline": "NEET paper leak a grave sin, can't happen again: PM Modi as protests rageAt the NDA Parliamentary Party meeting, Prime Minister Narendra Modi termed the NEET paper leak a \"ghor paap\", said 13 accused have been arrested, and urged strict action and state cooperation to prevent future leaks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/uday-krishna-reddy-hospitalised-hyderabad-ips-trainee-complaint-2952489-2026-07-21",
+      "headline": "She kissed me without consent: IPS trainee accused of harassment attempts suicideA case was registered against Uday Krishna Reddy after a fellow IPS trainee at the National Police Academy accused him of stalking, assault, harassment and secretly recording a private video."
     },
     {
       "sentiment": "positive",
@@ -221,23 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-joseph-vijay-niti-aayog-investment-report-chennai-airport-sewage-challenge-2951907-2026-07-21",
-      "headline": "Will CM Vijay take up airports, sewage challenge thrown by Niti report?The Niti Aayog's first-ever Investment Friendliness Index ranks Tamil Nadu third in India and praises its strengths. But it also flags areas such as airport capacity, treated sewage water, and port connectivity as key gaps. The challenge now is whether CM Vijay can turn these shortcomings into opportunities and make Tamil Nadu India's most investment-friendly state."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/uday-krishna-reddy-hospitalised-hyderabad-ips-trainee-complaint-2952489-2026-07-21",
-      "headline": "She kissed me without consent: IPS trainee accused of harassment attempts suicideA case was registered against Uday Krishna Reddy after a fellow IPS trainee at the National Police Academy accused him of stalking, assault, harassment, and secretly recording a private video."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-neet-protests-students-treated-wrongly-authorities-must-listen-anti-national-tag-2952488-2026-07-21",
-      "headline": "I'll be called anti-national again: Diljit Dosanjh supports youth-led CJP protestDiljit Dosanjh backed students protesting over alleged NEET irregularities and said he expected to be labelled anti-national again for speaking out. The actor-singer also recalled the backlash he faced after supporting the farmers' protest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-joins-four-way-tug-of-war-over-bengal-shahid-diwas-martyrs-day-sushanta-chatterjee-commission-report-2952371-2026-07-21",
-      "headline": "Publishing Mamata-era report, BJP joins four-way tug-of-war over Shahid DiwasFor decades, the July 21 Shahid Diwas or Martyrs' Day was the Trinamool Congress's biggest annual show of strength. This year, the Shahid Diwas has turned into a four-way tug-of-war. The three TMC camps and the Congress are staking claim, while the Bengal BJP government has joined in by releasing a long-pending report."
+      "url": "https://www.indiatoday.in/world/story/indian-students-abroad-news-more-students-going-to-universities-in-europe-for-international-students-us-news-2952068-2026-07-21",
+      "headline": "Why Indian students are ditching the US, flocking to European universitiesFor decades, the US was the dream destination for Indian students. But rising costs, tougher visa rules under the second Donald Trump administration and a new India-EU mobility framework are prompting many to look towards Europe. European universities are offering cheaper education, clearer post-study pathways and greater certainty."
     },
     {
       "sentiment": "positive",
@@ -246,18 +236,68 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-protest-in-delhi-live-updates-abhijeet-dipike-sonam-wangchuk-cjp-parliament-march-2952476-2026-07-21",
-      "headline": "Live: Govt willing to spill students' blood to protect Dharmendra Pradhan, says DipkeCJP Protest in Delhi Live: The 'Chalo Sansad' will continue on Tuesday, Cockroach Janta Party (CJP) founder Abhijeet Dipke has told India Today Digital after one of the violent clashes between protesters and cops kept New Delhi on edge throughout Monday. Nearly 70 protesters were detained and over 60 sustained injuries, with CJP national spokesperson Ashutosh Ranka alleging that some of them suffered severe skull and rib injuries. More than 118 police personnel, including several senior officers, were also injured. In a statement, Delhi Police mentioned these persons and their accounts, accusing them of displaying \"unruly, aggressive and violent behaviour\" during the protest and attacking security personnel, damaging government vehicles and public property. An FIR is also going to be registered under relevant sections of the Bharatiya Nyaya Sanhita and other applicable laws for rioting, assault on public servants, damage to public property, and other offences committed during the stir. Meanwhile, senior CJP leaders met Union Minister JP Nadda and submitted a charter of demands. However, Ranka claimed that they had not received any response from the Centre. Security has been tightened at Jantar Mantar this morning as the protest is expected to continue. The CJP organised the march to protest irregularities in the NEET examination, demand sweeping education reforms and seek the resignation of Union Education Minister Dharmendra Pradhan. Follow IndiaToday.in for the latest updates on the CJP's march."
+      "url": "https://www.indiatoday.in/health/story/sonam-wangchuk-hospitalisation-safdarjung-rda-seeks-president-murmu-intervention-2952602-2026-07-21",
+      "headline": "Doctors seek Murmu's intervention in Wangchuk hospital rowSafdarjung Hospital's resident doctors have sought President Draupadi Murmu's intervention over Sonam Wangchuk's continued hospitalisation. They said the developments raised concerns about patient rights, medical ethics and the independence of public hospitals."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indus-waters-treaty-india-accelerates-jammu-and-kashmir-hydel-hydroelectric-power-projects-exit-option-open-pahalgam-operation-sindoor-2952446-2026-07-21",
-      "headline": "India speeds up Indus projects, rebuts Pak's victim card over treaty suspensionIndia has accelerated Indus basin projects and revived the Tulbul Navigation Project as it counters Pakistan's victimhood campaign over New Delhi's suspension of the Indus Waters Treaty. Officials said that any review of the suspension hinges on Islamabad credibly ending support for cross-border terrorism."
+      "url": "https://www.indiatoday.in/science/story/yellowstone-rainbow-spring-bacteria-tourists-walking-thermal-crust-restricted-area-science-grand-prismatic-spring-america-2952559-2026-07-21",
+      "headline": "Viral video: Tourists walk on Yellowstone's rainbow. It is alive, and can kill youTourists were filmed walking in a restricted area of Yellowstone's Grand Prismatic Spring, and the video has been viewed millions of times. Here is the science of why the rainbow colours are made of living bacteria, and why a single footprint can scar the spring for decades."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/punjab-farmers-head-delhi-july-21-mahapanchayat-protest-india-us-trade-deal-2951952-2026-07-20",
-      "headline": "Mahapanchayat against US trade deal today, Punjab farmers head to DelhiPunjab farmers are heading to Delhi for a July 21 Mahapanchayat against the proposed India-US trade agreement. Farm leaders say the pact could hurt small cultivators, traders and jobs, and have warned of a bigger agitation."
+      "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-2026-live-updates-day-2-rajya-sabha-lok-sabha-2952472-2026-07-21",
+      "headline": "Live: Speaker told us he has to ask govt for discussion on NEET, says Rahul GandhiParliament Monsoon Session Live Updates: Today is the second day of Parliament's Monsoon Session, which began on Monday with a stormy start. As soon as the houses were reconvened, both the Lok Sabha and the Rajya Sabha witnessed heated Opposition protests over the NEET paper leak and the theft of donations at the Ram Mandir. The government is expected to press ahead with key legislative business and unveil its strategy to counter the Opposition. The Bill seeking to make insults to Vande Mataram a punishable offence is also likely to be taken up in the Rajya Sabha today. With the CJP announcing that it will continue its 'Chalo Parliament' march, the fallout from the priest's remarks is also expected to echo inside Parliament. Stay tuned to IndiaToday.in for the latest updates and developments from Parliament throughout the day."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/why-farmers-are-protesting-marching-delhi-india-us-trade-deal-before-any-pact-is-signed-2952525-2026-07-21",
+      "headline": "Why are farmers marching to Delhi? Key reasons behind the protestThe protest, organised under the banner of the 'Desh Bachao Morcha', will see farmers from Punjab, Haryana, Rajasthan and Himachal Pradesh assemble at Kisan Ghat. Farmer unions say the proposed agreement could hurt India's agriculture sector by opening the door to cheaper American farm products."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/cockroach-party-parliament-monsoon-session-first-day-cjp-protest-security-scare-talks-delhi-2952462-2026-07-21",
+      "headline": "Behind the barricades: Inside Parliament as CJP protest shook DelhiThe opening day of Parliament unfolded as a tense parallel contest. Massive protests and heightened security outside, while inside the government and Opposition pursued strategy, negotiations and political messaging on a day of disruption and uncertainty."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/russian-woman-tries-rs-97-face-massage-at-delhi-mens-salon-indians-warn-her-2952482-2026-07-21",
+      "headline": "Russian woman tries Rs 97 face massage at Delhi men's salon. Indians warn herA Russian woman entered a men's salon in Delhi and tried a face massage during her walk through the city. The video of the Rs 96.47 treatment went viral, with many urging her to stay safe."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/russian-envoy-summoned-after-4-indians-die-in-attack-on-merchant-ship-off-ukraine-coast-pti-quoting-sources-2952535-2026-07-21",
+      "headline": "Govt summons Russian envoy after 4 Indians die in merchant ship attack in UkraineIndia summoned the Russian envoy and lodged a strong protest over the killing of four Indian crew members in the alleged Russian missile strike on the cargo vessel off Ukraine's Odesa coast."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/your-next-upi-payment-may-not-need-the-internet-at-all-2952573-2026-07-21",
+      "headline": "Your next UPI payment may not need the internet at allA new UPI feature in development could let users make payments without any internet by using NFC instead, says a new report."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/south/story/kerala-merchant-navy-officer-akhil-joyan-killed-in-russian-cargo-ship-attack-off-ukraine-odesa-engaged-wedding-parents-only-child-2952542-2026-07-21",
+      "headline": "Kerala sailor killed in Russian ship attack was only child, got engaged 3 months agoAkhil Joyan, 26, was among four Indians who were killed on Sunday after a Russian attack on a cargo ship as it was departing Ukraine's Port of Odesa."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/woman-scratches-flaky-foot-then-eats-with-same-hand-on-cruise-viewers-horrified-2952571-2026-07-21",
+      "headline": "Woman scratches flaky foot, then eats with same hand on cruise; viewers horrifiedThe videos were recorded by Instagram user @lucky_charmedcourt, who claimed the woman appeared to be scratching what looked like a fungal infection or dry, flaky skin on her foot while having lunch."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/farmers-protest-in-delhi-live-updates-shambhu-border-india-us-trade-deal-2952512-2026-07-21",
+      "headline": "Live: Punjab farmers en route to Delhi stopped at Khanauri, Shambhu bordersFarmers from Punjab, Haryana and several other states are heading to Delhi for a Mahapanchayat at Kisan Ghat against the proposed India-US trade deal. Haryana Police have stepped up security at key border points, stopping farmer convoys at Khanauri and Bastara while maintaining heavy barricading at the Shambhu border. Prohibitory orders under Section 163 of the Bharatiya Nyaya Sanhita (BNS) remain in force in parts of Haryana. Follow India Today for the latest live updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-joseph-vijay-niti-aayog-investment-report-chennai-airport-sewage-challenge-2951907-2026-07-21",
+      "headline": "Will CM Vijay take up airports, sewage challenge thrown by Niti report?The Niti Aayog's first-ever Investment Friendliness Index ranks Tamil Nadu third in India and praises its strengths. But it also flags areas such as airport capacity, treated sewage water, and port connectivity as key gaps. The challenge now is whether CM Vijay can turn these shortcomings into opportunities and make Tamil Nadu India's most investment-friendly state."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bjp-joins-four-way-tug-of-war-over-bengal-shahid-diwas-martyrs-day-sushanta-chatterjee-commission-report-2952371-2026-07-21",
+      "headline": "Publishing Mamata-era report, BJP joins four-way tug-of-war over Shahid DiwasFor decades, the July 21 Shahid Diwas or Martyrs' Day was the Trinamool Congress's biggest annual show of strength. This year, the Shahid Diwas has turned into a four-way tug-of-war. The three TMC camps and the Congress are staking claim, while the Bengal BJP government has joined in by releasing a long-pending report."
     },
     {
       "sentiment": "positive",
@@ -266,61 +306,51 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-2026-live-updates-day-2-rajya-sabha-lok-sabha-2952472-2026-07-21",
-      "headline": "Live: Opposition seeks NEET discussion, Vande Mataram bill likely in Rajya SabhaParliament Monsoon Session Live Updates: Today is the second day of Parliament's Monsoon Session, which began on Monday with a stormy start. Both the Lok Sabha and the Rajya Sabha are likely to witness heated Opposition protests over the alleged NEET paper leak and the alleged theft of donations at the Ram Mandir, while the government is expected to press ahead with key legislative business and unveil its strategy to counter the Opposition. The Bill seeking to make insults to Vande Mataram a punishable offence is also likely to be taken up in the Rajya Sabha today. With the CJP announcing that it will continue its 'Chalo Parliament' march, the fallout from the priest's remarks is also expected to echo inside Parliament. Stay tuned to IndiaToday.in for the latest updates and developments from Parliament throughout the day."
+      "url": "https://www.indiatoday.in/india/story/cjp-protest-ashutosh-ranka-jp-nadda-talks-centre-no-assurance-on-three-demands-2952513-2026-07-21",
+      "headline": "CJP calls NEET protest talks with govt useless, accuses JP Nadda of lyingThe Centre refused to commit to the Cockroach Janata Party's three key demands during two rounds of talks with Health Minister JP Nadda, instead urging protesters to end their agitation. The CJP dismissed the discussions as a waste of time, while the government defended its handling of the NEET paper leak."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rajasthan-leopard-attacks-two-employees-in-tonk-liquor-shop-locked-inside-2952481-2026-07-21",
-      "headline": "Video: Leopard sneaks into Rajasthan liquor shop, pounces on shopkeeperA leopard, believed to have strayed from a nearby forest, quietly entered a liquor shop in Todaraisingh and attacked a salesman checking the cash before injuring another employee. Both workers managed to escape after the sudden assault."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/abhijeet-dipke-cjp-protests-political-void-india-youth-opinion-sansad-chalo-news-sonam-wangchuk-2951909-2026-07-20",
-      "headline": "Abhijeet Dipke is the leader of the vacuumThe Cockroach Janta Party is not about Abhijeet Dipke. It is about the vacancy he filled."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/cjp-sansad-chalo-protest-bhumi-pednekar-huma-qureshi-condemn-police-force-2952343-2026-07-20",
-      "headline": "Bhumi Pednekar to Huma Qureshi, celebs back Delhi CJP protest, question use of forceActors and filmmakers backed the CJP's Sansad Chalo protest in Delhi and condemned the use of force against peaceful marchers. Their posts turned attention to student anxiety, access to education and demands for accountability."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/at-least-7-workers-killed-several-trapped-after-explosion-in-sikkim-tunnel-rescue-ops-on-2952447-2026-07-21",
-      "headline": "7 workers killed, several trapped after explosion in Sikkim tunnel, rescue ops onA suspected build-up of methane gas about 1.5 km inside the tunnel is believed to have exploded during a venting attempt, triggering a landslide that sealed the entrance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-launches-fresh-strikes-on-iran-blasts-reported-in-bandar-abbas-2952435-2026-07-21",
-      "headline": "US strikes Iran's Chabahar, Bandar Abbas as Trump vows payback for troop deaths Live UpdatesIranian media reported multiple explosions in the strategic southeastern cities of Chabahar and Konarak after the US launched fresh strikes on Iran. The reports follow explosions in Bandar Abbas and air defence activation near Bushehr, signalling a widening regional military escalation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-canada-tariffs-50-percent-section-338-trade-law-2952444-2026-07-21",
-      "headline": "US slaps additional 50% tariffs on Canada, cites discriminatory treatmentDonald Trump has announced 50% tariffs on a broad range of Canadian imports under Section 338 of the Tariff Act of 1930. Canada has said it wants intensive talks to resolve the dispute as the move opens a new front in trade tensions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/abhijeet-dipke-cjp-protest-key-moments-wangchuk-sansad-chalo-jp-nadda-demands-pradhan-2952032-2026-07-20",
-      "headline": "How Abhijeet Dipke pulls a Houdini, each time, every timeActivist Sonam Wangchuk's fast gave the CJP protest its defining moments. CJP founder Abhijeet Dipke, meanwhile, seemed to reappear after each defining moment. Whether it was Wangchuk's detention, the march to the Parliament on Monday or the confusion over his own alleged detention."
+      "url": "https://www.indiatoday.in/india/story/indus-waters-treaty-india-says-revival-needs-new-pact-pakistan-must-end-terror-2952451-2026-07-21",
+      "headline": "Indus Waters Treaty can't resume as is, future hinges on Pak ending terror: IndiaIndia said the Indus Waters Treaty cannot be revived in its current form, asserting that any future water-sharing arrangement will require a revised framework and be contingent on Pakistan ending cross-border terrorism against India."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/cm-vijay-surprise-inspection-chennai-bio-cng-plant-scientific-waste-management-2952403-2026-07-20",
       "headline": "Video: CM Vijay's surprise inspection of India's first bio-CNG plant in ChennaiTamil Nadu Chief Minister Vijay made a surprise visit to India's first bio-CNG plant in Chennai. He used the inspection to press for stronger scientific waste management and wider replication of such projects across Tamil Nadu."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/4-indians-killed-1-critically-injured-in-attack-on-cargo-ship-departing-ukraines-odesa-govt-condemns-attack-2952277-2026-07-20",
-      "headline": "4 Indians killed in attack on cargo ship leaving Ukraine; govt condemns strikeThe Ministry of External Affairs said the Guinea-Bissau-flagged vessel MV Golden Leo came under attack on the evening of July 19 as it sailed out of Odesa with 17 crew members on board, including five Indians. Ukraine blames Russian cruise missiles for the attack."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/water-explosion-energy-mystery-indian-physicist-yogendra-srivastava-green-energy-science-news-2951522-2026-07-20",
-      "headline": "Water's greatest mystery solved? India-born physicist's science-defying discoveryHandcrafted ByOur Editors For over a century, electric sparks fired into water have produced explosions stronger than science can explain. An 84-year-old Indian-origin physicist claims he has finally solved the mystery, and says the answer points to clean energy from ordinary water."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-batting-position-srikkanth-slams-gambhir-after-india-lose-odi-series-2952606-2026-07-21",
+      "headline": "Gambhir bashed for KL Rahul call: Like Samson, Sooryavanshi, you screwed him up Krishnamachari Srikkanth criticised Gautam Gambhir and the team management for sending KL Rahul in at No. 6 during India's chase at Lord's. His remarks have revived questions over Rahul's role after India lost the ODI series to England."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/falklands-banner-row-argentina-premier-league-stars-uk-visas-2952600-2026-07-21",
+      "headline": "Falklands banner backlash: Do Argentina stars face a Premier League ban? Argentina players sparked a row after displaying a Falklands banner following their World Cup win over England. However, any move to revoke Premier League work visas would be highly unlikely."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-world-cup-final-spain-beat-argentina-metlife-stadium-feature-2952554-2026-07-21",
+      "headline": "Thank You, Lionel Messi, for giving the world one last bit of magic Lionel Messi may have possibly signed off from the international football like a veteran magician leaving his stage for the final time. During the last two World Cup campaigns, Messi showed how he was able to galvanise the Argentina team for a common goal."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/argentina-world-cup-runners-up-heroes-welcome-ezeiza-buenos-aires-2952540-2026-07-21",
+      "headline": "Who needs trophies? Loyal Argentina fans give hero's welcome to losing finalists Argentina's beaten World Cup finalists arrived in Buenos Aires on Monday. Thousands greeted them with flares, drums and chants, underscoring loyalty that outlasted the missing trophy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-bangladesh-tests-pat-cummins-josh-hazlewood-nathan-lyon-return-2952538-2026-07-21",
+      "headline": "Pat Cummins returns as Australia pick full-strength squad for Bangladesh Tests AUS vs BAN: Pat Cummins, Josh Hazlewood and Nathan Lyon have returned to Australia's 13-man squad for the two-Test World Test Championship series against Bangladesh in Darwin and Mackay."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/spain-world-cup-champions-turn-djs-for-2-million-fans-at-madrid-street-party-2952508-2026-07-21",
+      "headline": "Inside Spain's World Cup party in Madrid: Footballers turn DJs for 2 million fans Spain's FIFA World Cup winners turned Madrid's Cibeles celebration into a giant DJ-led street party. The homecoming fused state ceremony, football folklore and viral fan moments before nearly two million supporters."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-finals-boring-spain-vs-argentina-debate-2952477-2026-07-21",
@@ -349,32 +379,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/chennai-grand-masters-arjun-erigaisi-beats-gukesh-joint-lead-2952385-2026-07-20",
-      "headline": "Arjun Erigaisi beats world champion Gukesh with black to jump to joint lead India's Arjun Erigaisi outplayed world champion D Gukesh to move into the joint lead after the fifth round of the fourth edition of the Chennai Grand Masters on Monday."
+      "headline": "Arjun Erigaisi beats world champion Gukesh with black to jump to joint leadIndia's Arjun Erigaisi outplayed world champion D Gukesh to move into the joint lead after the fifth round of the fourth edition of the Chennai Grand Masters on Monday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/video/baichung-bhutia-world-cup-final-spain-argentina-messi-2952369-2026-07-20",
-      "headline": "Messi's tears suggest World Cup final was his last for Argentina: Baichung Bhutia Indian football legend Bhaichung Bhutia said he was \"sad to see Messi cry\" after Argentina's World Cup final defeat to Spain, adding that the tournament could mark the end of Lionel Messi's international career. In an exclusive conversation with Rajdeep Sardesai, Bhutia reflected on Messi's legacy, Argentina's campaign, Spain's World Cup triumph and what the Argentine great has meant to football across generations."
+      "headline": "Messi's tears suggest World Cup final was his last for Argentina: Baichung BhutiaIndian football legend Bhaichung Bhutia said he was \"sad to see Messi cry\" after Argentina's World Cup final defeat to Spain, adding that the tournament could mark the end of Lionel Messi's international career. In an exclusive conversation with Rajdeep Sardesai, Bhutia reflected on Messi's legacy, Argentina's campaign, Spain's World Cup triumph and what the Argentine great has meant to football across generations."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/kevin-keegan-dies-at-75-england-legend-liverpool-icon-2952328-2026-07-20",
-      "headline": "England legend and Liverpool icon Kevin Keegan dies at 75 Former Liverpool and England star Kevin Keegan has died at the age of 75 following a battle with cancer. Keegan made 323 appearances for Liverpool between 1971 and 1977, scoring 100 goals."
+      "headline": "England legend and Liverpool icon Kevin Keegan dies at 75Former Liverpool and England star Kevin Keegan has died at the age of 75 following a battle with cancer. Keegan made 323 appearances for Liverpool between 1971 and 1977, scoring 100 goals."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-rankings-spain-reclaim-top-spot-world-cup-win-argentina-morocco-2952298-2026-07-20",
-      "headline": "FIFA Rankings: Spain reclaim No. 1 spot after World Cup triumph, Argentina second World Cup champions Spain returned to the summit of the FIFA men's rankings on Monday, reclaiming the No. 1 spot after their 1-0 extra-time victory over Argentina in the 2026 World Cup final."
+      "headline": "FIFA Rankings: Spain reclaim No. 1 spot after World Cup triumph, Argentina secondWorld Cup champions Spain returned to the summit of the FIFA men's rankings on Monday, reclaiming the No. 1 spot after their 1-0 extra-time victory over Argentina in the 2026 World Cup final."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/uefa-president-aleksander-ceferin-boycotts-world-cup-final-protest-fifa-balogun-row-2952252-2026-07-20",
-      "headline": "UEFA president boycotts World Cup final in protest against FIFA over Balogun saga UEFA president Aleksander Ceferin stayed away from the FIFA World Cup final as tensions with world football's governing body escalated over the controversial suspension of Folarin Balogun's one-match ban."
+      "headline": "UEFA president boycotts World Cup final in protest against FIFA over Balogun sagaUEFA president Aleksander Ceferin stayed away from the FIFA World Cup final as tensions with world football's governing body escalated over the controversial suspension of Folarin Balogun's one-match ban."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/commonwealth-games-glasgow-india-athletics-boxing-lead-funding-2952255-2026-07-20",
-      "headline": "India spends over Rs 53 crore on preparations ahead of Glasgow Games The Sports Ministry has spent over Rs 53 crore on preparing Indian athletes for the Glasgow Commonwealth Games, with athletics, boxing and weightlifting receiving the biggest share of the funding."
+      "headline": "India spends over Rs 53 crore on preparations ahead of Glasgow GamesThe Sports Ministry has spent over Rs 53 crore on preparing Indian athletes for the Glasgow Commonwealth Games, with athletics, boxing and weightlifting receiving the biggest share of the funding."
     },
     {
       "sentiment": "positive",
@@ -445,36 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/luis-de-la-fuente-marc-cucurella-tattoo-vow-after-spain-world-cup-win-2951736-2026-07-20",
       "headline": "I am not that ugly: Spain boss De la Fuente says it is tattoo time for CucurellaMarc Cucurella promised to tattoo Luis de la Fuente's face if Spain won the World Cup, and now the coach expects him to follow through. Spain defeated Argentina 1-0 in the World Cup final on Sunday, July 19"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-vs-spain-fifa-world-cup-final-no-shots-on-target-2951693-2026-07-20",
-      "headline": "Messy, not Messi: 0 shots, 0 spark as Argentina great goes missing in finalFIFA World Cup 2026: Spain did not stop Lionel Messi with brute force or relentless man-marking. They simply denied him the spaces where he has spent two decades deciding football matches."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/keyne-yamal-spain-world-cup-win-viral-celebration-lamine-yamal-argentina-2951678-2026-07-20",
-      "headline": "Lamine hug, paparazzi poses: How Keyne Yamal celebrated Spain's World Cup winKeyne Yamal marked Spain's World Cup triumph with a hug for Lamine, camera poses and kickabouts on the pitch. His playful presence has turned him into an unlikely mascot for Spain and a viral sensation throughout the tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-scaloni-argentina-coach-exit-world-cup-final-loss-spain-new-york-2951679-2026-07-20",
-      "headline": "Scaloni unlikely to continue as Argentina coach after World Cup heartbreakLionel Scaloni said he is likely to step aside as Argentina coach at the end of his current contract following the World Cup final defeat to Spain. Scaloni left the decision in the hands of the Argentina football federation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-final-shoaib-akhtar-messi-ronaldo-debate-world-cup-panel-cricket-fans-reaction-2951647-2026-07-20",
-      "headline": "Shoaib Akhtar enters Messi-Ronaldo GOAT debate. Cricket fans ask whyShoaib Akhtar used a World Cup final panel to argue that Cristiano Ronaldo is football's biggest brand but Lionel Messi the better player. But the cricket fans asked a simple question. Why was the Pakistan legend present on the panel of a football show?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-scaloni-breaks-down-world-cup-final-defeat-spain-argentina-messi-reaction-2951638-2026-07-20",
-      "headline": "Argentina coach in tears, leaves press meet midway after World Cup final defeatArgentina coach Lionel Scaloni broke down during his post-match press conference after Spain ended his side's World Cup title defence. Scaloni praised Lionel Messi and his players while admitting the defeat \"hurts our souls\" after the 1-0 final loss."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/ferran-torres-reaction-world-cup-final-spain-vs-argentina-written-in-stars-2951635-2026-07-20",
-      "headline": "World Cup was written in the stars for Spain: Ferran Torres after beating ArgentinaFerran Torres said Spain's World Cup triumph over Argentina was \"written in the stars\" after scoring the extra-time winner in the final. The forward admitted Lionel Messi always brings nerves but hailed Spain's commitment to their style of football."
     }
   ],
   "education": [
