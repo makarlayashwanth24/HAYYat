@@ -2,13 +2,38 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/why-are-hcltech-shares-rising-even-as-the-stock-market-trades-in-the-red-today-2955169-2026-07-24",
+      "headline": "Why are HCLTech shares rising even as the stock market trades in the red today?At the time of writing, HCL Technologies shares were trading at Rs 1,268.60, up 1.92%."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/why-is-russia-importing-petrol-from-india-despite-being-an-oil-giant-2955123-2026-07-24",
+      "headline": "Why is Russia importing petrol from India despite being an oil giant?Russia has started importing petrol by sea from India to tackle shortages caused by Ukrainian attacks on Russian oil refineries and energy facilities, mentioned a report."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-delhi-consultations-august-7-10-pension-hike-govt-employee-latest-update-2955111-2026-07-24",
+      "headline": "8th Pay Commission to hold Delhi consultations on Aug 7 & 10. What's next?The 8th Central Pay Commission has scheduled fresh Delhi consultations on August 7 and 10 for eligible employee associations that have already submitted memorandums. The move shows the panel is still gathering stakeholder views before framing recommendations on pay, pensions and allowances."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/will-the-july-31-itr-filing-deadline-be-extended-rumours-vs-reality-income-tax-2955070-2026-07-24",
+      "headline": "Will the July 31 ITR filing deadline be extended? Rumours vs realityWith only a few days left to file income tax returns, speculation over a possible extension is once again gathering pace. But is there any truth to the rumours?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/flipkart-to-launch-food-delivery-service-soon-taking-on-zomato-and-swiggy-2955042-2026-07-24",
+      "headline": "Flipkart to launch food delivery service soon, taking on Zomato and SwiggyFlipkart Group CEO Kalyan Krishnamurthy confirmed that the company will launch its food delivery service within the next few weeks."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/infosys-tech-mahindra-tcs-fall-wall-street-ai-selloff-brent-crude-it-stocks-2954991-2026-07-24",
       "headline": "Infosys, Tech Mahindra, TCS fall up to 3%: Why are IT stocks falling todayIT stocks fell in early trade as the Wall Street technology selloff spread to Dalal Street. Rising crude, higher US yields and geopolitical worries added to expectations of near-term volatility."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/sensex-down-500-points-why-market-falling-brent-crude-wall-street-spill-ai-spending-weak-q1-earnings-2954951-2026-07-24",
-      "headline": "Sensex down over 800 points: 3 reasons why the stock market is falling todayBenchmark indices extended their losses in early trade, with the BSE Sensex plunging 902.48 points, or 1.18%, to 75,488.91, while the NSE Nifty50 dropped 256.15 points, or 1.07%, to 23,613.45 around 10:20 am, as rising crude oil prices and weak global cues continued to weigh heavily on investor sentiment."
+      "headline": "Sensex down over 500 points: 3 reasons why the stock market is falling todayBenchmark indices extended their losses in early trade, with the BSE Sensex plunging 902.48 points, or 1.18%, to 75,488.91, while the NSE Nifty50 dropped 256.15 points, or 1.07%, to 23,613.45 around 10:20 am, as rising crude oil prices and weak global cues continued to weigh heavily on investor sentiment."
     },
     {
       "sentiment": "negative",
@@ -74,34 +99,49 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/fifa-world-cup-2026-real-winner-revenue-15-billion-business-model-spain-messi-2954347-2026-07-23",
       "headline": "How FIFA turned the football World Cup into a $15 billion money machineFIFA used the expanded World Cup, higher ticket prices and new sales channels to drive record revenue. The tournament showed how nearly every part of football's biggest event is now being monetised."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/jpmorgan-to-add-1000-tech-jobs-across-india-gccs-despite-ai-driven-workforce-changes-busc-2954226-2026-07-23",
-      "headline": "JPMorgan to add 1,000 tech jobs across India GCCs despite AI-driven workforce changesThe new hiring will be aimed at technology specialists with expertise in cloud architecture, cybersecurity and AI data pipelines."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/dont-click-submit-yet-these-3-last-minute-itr-checks-are-a-must-2954165-2026-07-23",
-      "headline": "Don't click 'submit' yet! These 3 last-minute ITR checks are a mustFiling your ITR before the deadline is important, but filing it correctly is even more important. These three last-minute checks can help you avoid costly errors."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/alakh-pandey-physics-wallah-cjp-jantar-mantar-protest-neet-students-government-talks-2954142-2026-07-23",
-      "headline": "Physics Wallah founder Alakh Pandey joins Jantar Mantar protestAlakh Pandey joined the CJP protest at Jantar Mantar and urged the government to speak with students. His intervention came after criticism over his silence and widened the row beyond NEET to education and recruitment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/uber-layoffs-10-percent-customer-service-jobs-ai-adoption-job-cut-2954119-2026-07-23",
-      "headline": "Uber layoffs: Company cuts 10% of customer service jobs as AI adoption growsUber has cut 10% of jobs in its customer service division and asked some remote staff to relocate to office hubs. The move marks the company's clearest link yet between AI adoption, organisational simplification and workforce changes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/adani-group-seeks-rule-change-launch-airline-challenge-indigo-air-india-duopoly-2954100-2026-07-23",
-      "headline": "Adani seeks rule change to launch airline, challenge IndiGo-Air India duopolyAdani Group has asked the government to relax a rule that limits airport operators' stakes in scheduled airlines. The proposal could open the door to a new carrier even as officials weigh safeguards and existing airlines raise conflict concerns."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/what-to-watch-on-ott-this-week-exciting-new-releases-netflix-prime-hotstar-sony-liv-2955119-2026-07-24",
+      "headline": "What to watch on OTT this week: Exciting new releases on Netflix, Prime and more Are you up for some amazing content on OTT? This week, digital platforms are bringing a binge-worthy mix of thrill, romance, comedy and drama, ensuring your watchlist stays packed and your popcorn bowl stays busy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/the-india-story-review-food-safety-courtroom-drama-shreyas-talpade-kajal-aggarwal-2955159-2026-07-24",
+      "headline": "The India Story review: A relevant issue lost in an underwhelming courtroom dramaRelease Date:Fri Jul 24, 2026 The India Story movie review: The India Story follows a grieving father and a novice lawyer as they challenge toxic food practices in court. The film keeps the food safety debate in focus, but its drama rarely matches the issue's urgency."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/horse-riding-knives-guns-inside-vijay-deverakondas-brutal-training-for-ranabaali-2955130-2026-07-24",
+      "headline": "Horse riding, knives, guns: Inside Vijay Deverakonda's brutal training for Ranabaali Vijay Deverakonda underwent months of horse-riding, weapons and combat training for his next period drama, Ranabaali. The preparation was designed to make his action sequences look authentic on screen. India Today Digital has exclusive details."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/only-6-sunny-deol-films-got-an-a-rating-in-last-26-years-batwara-1947-is-the-7th-2955110-2026-07-24",
+      "headline": "Only 6 Sunny Deol films got an A rating in last 26 years. Batwara 1947 is the 7th Sunny Deol's Batwara 1947 has received an A certificate from the censor board. The rating underlines the film's Partition setting and its un-softened portrayal of violence and loss. It is also a rare film in Deol's career spanning 43 years."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ayesha-khan-neet-protests-actor-hits-back-at-troll-after-mumbai-detention-2955092-2026-07-24",
+      "headline": "Spine over career: Actor Ayesha Khan to troll warning her against protest support Dhurandhar actor Ayesha Khan was recently detained in Mumbai while trying to join students protesting over NEET irregularities. Her reply to a warning about losing Bollywood work has drawn further attention to her public support for the movement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/musafir-cafe-review-vikrant-massey-leads-soulful-tale-of-love-and-longing-2954949-2026-07-24",
+      "headline": "Musafir Cafe review: Vikrant Massey leads soulful tale of love and longingRelease Date:Fri Jul 24, 2026 Director Ruchir Arun's Musafir Cafe follows Chander, Sudha and Preeti through a shifting, unresolved love story. Its old-school emotional pull and lived-in performances give familiar tropes fresh weight. Does the show do justice to Divya Prakash Dubey's novel? Here is our review."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-actor-anandhi-in-tears-after-all-her-scenes-are-cut-from-vijay-film-2955074-2026-07-24",
+      "headline": "Jana Nayagan actor Anandhi in tears after all her scenes are cut from Vijay's film Actor Anandhi Ajay, who reportedly had a role in Jana Nayagan, said her scenes were removed from Vijay's film after nearly a year-long association. Her emotional video drew support online as the Vijay-starrer opened strongly at the box office."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-trailer-postponed-namit-malhotra-san-diego-comic-con-2026-2955020-2026-07-24",
+      "headline": "Did Ramayana trailer announcement carry a hidden message about students' protest? Producer Namit Malhotra postponed the global release of the Ramayana trailer minutes before the film's San Diego Comic-Con panel. The move surprised fans and drew online speculation as student protests in Delhi remained in focus."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-first-day-first-show-vijay-fans-tears-farewell-film-2954905-2026-07-24",
@@ -110,7 +150,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-release-trisha-krishnan-vijay-rohini-theatre-visit-2954986-2026-07-24",
-      "headline": "Trisha can't stop smiling after watching Vijay's Jana Nayagan on opening day Actor Trisha Krishnan attended the first day-first show of Vijay's Jana Nayagan at Chennai's Rohini Theatre. Her post-screening glimpse and the crowd outside quickly drew fan attention online."
+      "headline": "Trisha can't stop smiling after watching Vijay's Jana Nayagan on opening day Actor Trisha Krishnan attended the first day-first show of Vijay's Jana Nayagan at Chennai's Rohini Theatre. Her post-screening glimpse and the crowd outside quickly drew fans' attention online."
     },
     {
       "sentiment": "positive",
@@ -156,68 +196,48 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-box-office-collection-day-1-vijay-final-film-worldwide-opening-h-vinoth-2954863-2026-07-24",
       "headline": "Jana Nayagan box office Day 1: Vijay's farewell roar earns Rs 41 crore Thalapathy Vijay's Jana Nayagan opened strongly in India and overseas on day one. The start comes with added focus as it is his final theatrical release before he shifts to full-time politics."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/neet-protest-shahid-kapoor-questions-youth-trust-in-education-system-2954861-2026-07-24",
-      "headline": "Shahid Kapoor backs student protests, questions youth's fading faith in education Actor Shahid Kapoor has backed the student protests over the NEET-UG paper leak with an Instagram post questioning the education system. His remarks added to wider calls for accountability, reforms and restoring young people's faith in education."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sohail-khan-uses-keyboard-for-first-time-on-alliance-internet-calls-him-privileged-2954826-2026-07-24",
-      "headline": "Sohail Khan uses keyboard for first time on Alliance; internet calls him privileged Actor Sohail Khan's candid confession of never having used a keyboard before joining The Alliance has taken social media by surprise. Many reacted to the clip on Instagram, labelling him 'privileged'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-alia-bhatt-to-ananya-panday-bollywood-rallies-behind-protesting-students-2954756-2026-07-23",
-      "headline": "Salman, Alia Bhatt to Ananya Panday: Bollywood rallies behind protesting students The ongoing student protests over the NEET-UG paper leak have garnered widespread support from the Indian film industry, with celebrities urging for accountability and peaceful demonstrations. Salman Khan, Alia Bhatt, Ananya Panday, and Varun Dhawan, among others have joined the list."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/saanvie-tallwar-alleges-on-set-assault-karan-kundrra-he-abused-me-my-family-kissed-me-slapped-me-2954615-2026-07-23",
-      "headline": "He abused me: TV actor Saanvie Tallwar alleges on-set assault by Karan Kundrra TV actor Saanvie Tallwar has accused former co-star Karan Kundrra of harassment and assault during the shooting of Yeh Kahan Aa Gaye Hum. Kundrra has not responded, and Tallwar says the incident left the set atmosphere toxic."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-urges-cjp-protest-students-to-return-home-offers-home-cooked-food-to-sonam-wangchuk-2954626-2026-07-23",
-      "headline": "Don't extend protest, will send food from home: Salman Khan to 'bro' Wangchuk Salman Khan has urged students protesting the NEET-UG paper leak to return home, assuring their safety and expressing confidence in strict action against the culprits. He also appealed to social activist Sonam Wangchuk to end his hunger strike, offering to send him home-cooked food."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/did-rajkummar-rao-really-comment-being-under-pressure-amid-students-protest-2954450-2026-07-23",
-      "headline": "Did Rajkummar Rao really comment being 'under pressure' amid students' protest? After backing students protesting the alleged NEET-UG paper leak, actor Rajkummar Rao's alleged, now-deleted reply to a comment about the 'Modi Hai Toh Mumkin Hai' song sparked fresh debate. His mention of \"pressure\" prompted widespread speculation, though he did not clarify what he meant."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/we-watched-jana-nayagan-every-political-reference-we-saw-and-didnt-in-vijay-film-2954233-2026-07-23",
-      "headline": "We watched Jana Nayagan: Every political reference we saw, and didn't in Vijay film Vijay's Jana Nayagan reached theatres after months of censor changes that removed or muted TVK references. The final cut keeps its political undertones while adding markers of Vijay's rise from actor to Chief Minister."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/we-owe-it-to-them-kareena-says-students-deserve-better-backs-nationwide-protests-2954530-2026-07-23",
-      "headline": "We owe it to them: Kareena says students deserve better, backs nationwide protests Kareena Kapoor has backed students protesting across India over the NEET paper leak and education reforms. Her statement adds a prominent film voice to demands for accountability and a credible merit-based system."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prime-minister-narendra-modi-neet-paper-leak-late-night-video-gen-z-fast-track-courts-law-2954963-2026-07-24",
-      "headline": "With midnight selfie video, how PM spoke to Gen Z in their own languageIn his late-night selfie video, PM Modi focused on reassuring students by promising swift legal action, fast-track courts and tougher anti-paper leak laws."
+      "url": "https://www.indiatoday.in/india/story/government-sought-time-till-tomorrow-to-respond-to-dharmendra-pradhan-resignation-demand-cjp-after-talks-2955200-2026-07-24",
+      "headline": "Government sought time till tomorrow to respond to Dharmendra Pradhan resignation demand: CJP after talksGovernment sought time till tomorrow to respond to Dharmendra Pradhan resignation demand: CJP after talks"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-nationwide-protest-live-updates-cjp-abhijeet-dipike-sonam-wangchuk-2954869-2026-07-24",
+      "headline": "Live: 2 out 3 demands met, talks again tomorrow, says CJP after meeting Union MinistersCockroach Janta Party Nationwide Protest Live Updates: The meeting between the Cockroach Janta Party (CJP) delegation and government representatives is currently underway at the Constitution Club of India in New Delhi. This came after the CJP's continued insistence that any dialogue with the government should only happen at a \"neutral venue.\" Moreover, CJP called for a nationwide protest today (July 24), urging people to hold demonstrations in every district. The Abhijeet Dipke-led movement also said PM Modi's announcement on action against paper leaks did not address the issue of accountability or its main demand of Union Education Minister Dharmendra Pradhan's resignation over the NEET-related irregularities. The CJP appeared firm in its stance to continue its agitation even as Sonam Wangchuk finally broke his fast after being on a hunger strike for 26 days. The 59-year-old activist announced the end of his fast after Union Ministers JP Nadda and Jitendra Singh met him at the Medanta Hospital in Gurugram around Thursday midnight and conveyed the government's assurances about meeting his demands. Follow IndiaToday.in for live updates on the CJP protest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cjp-student-protest-government-24-hours-modi-message-wangchuk-fast-2955008-2026-07-24",
+      "headline": "How government scrambled in 24 hours to douse student angerWith student anger refusing to die down, the Modi government opened talks with CJP leaders and announced fast-track courts. The outreach came as the speed and scale of the unrest caught the government off guard."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-ends-centre-assurance-neet-ug-reforms-2955000-2026-07-24",
-      "headline": "How Amit Shah's 4-hour meeting got Sonam Wangchuk to end his hunger strikeSources told India Today that a meeting chaired by Amit Shah with Union ministers resulted in the Centre offering Sonam Wangchuk written assurances, including a assurance to introduce a new anti-paper leak Bill in Parliament next week, ultimately persuading the activist to end his hunger strike."
+      "headline": "How Amit Shah's 4-hour meeting got Sonam Wangchuk to end his hunger strikeSources told India Today TV that a meeting chaired by Amit Shah with Union ministers resulted in the Centre offering Sonam Wangchuk written assurances, including an assurance to introduce a new anti-paper leak bill in Parliament next week, ultimately persuading the activist to end his hunger strike."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cockroach-party-delhi-neet-paper-leak-protest-cjp-calls-nationwide-district-sonam-wangchuk-ends-fast-parliament-2954870-2026-07-24",
-      "headline": "CJP's nationwide protest today, 2nd round of talks with Centre at 12.30 pm  Live UpdatesThe Cockroach Party said it aims to 'create a Jantar Mantar' in every district as part of its nationwide protest. A party delegation is also scheduled to meet the Union Ministers today."
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/the-meme-is-mightier-than-the-sword-inside-the-art-of-cjp-protest-2955080-2026-07-24",
+      "headline": "The meme is mightier than the sword: Inside the art of CJP protestAt the CJP protest in Delhi's Janpath, memes, placards and painted banners have become central to the demonstration. The memes can be new, but art has always been an integral part of activism."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-india-day-2-live-updates-boxing-lawn-bowls-powerlifting-glasgow-2955132-2026-07-24",
+      "headline": "Commonwealth Games 2026, Day 2 Live: India begin medal hunt with gymnasticsCommonwealth Games 2026, Day 2 Live updates: India will look to add to its Commonwealth Games 2026 medal tally on Friday as action unfolds across multiple disciplines, with para powerlifting leading the medal hopes while gymnasts, swimmers, boxers and lawn bowlers also take centre stage in Glasgow."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/saudi-prince-london-hotel-death-inquest-misadventure-drug-alcohol-2954902-2026-07-24",
       "headline": "Saudi prince found dead at luxury London hotel after party drugs, alcohol overdoseInvestigators found potentially fatal levels of gamma-hydroxybutyrate (GHB), commonly known as a party drug, along with traces of cannabis, Xanax and other anti-anxiety medications in therapeutic quantities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/neet-ug-paper-leak-case-supreme-court-asks-centre-for-detailed-affidavit-on-prevention-measures-2955112-2026-07-24",
+      "headline": "Can't let it go on like this, Supreme Court tells Centre on NEET paper leak rowThe Supreme Court has sought an affidavit from the Centre detailing measures to prevent NEET paper leaks, while stating that it will closely monitor the investigation. The move shifts attention to permanent exam safeguards and restoring students' trust."
     },
     {
       "sentiment": "positive",
@@ -226,38 +246,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cjp-student-protest-government-24-hours-modi-message-wangchuk-fast-2955008-2026-07-24",
-      "headline": "How government scrambled in 24 hours to douse student angerThe Modi government opened talks with CJP leaders and announced fast-track courts after student protests intensified. The outreach came as Delhi faced disruptions, pressure mounted over police action, and Sonam Wangchuk ended his fast."
+      "url": "https://www.indiatoday.in/india/story/prime-minister-narendra-modi-neet-paper-leak-late-night-video-gen-z-fast-track-courts-law-2954963-2026-07-24",
+      "headline": "With midnight selfie video, how PM spoke to Gen Z in their own languageIn his late-night selfie video, PM Modi focused on reassuring students by promising swift legal action, fast-track courts and tougher anti-paper leak laws."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-celebration-explained-record-t20i-fifty-zimbabwe-vs-india-2954972-2026-07-24",
-      "headline": "Vaibhav Sooryavanshi's mystery celebration decoded after historic fiftyVaibhav Sooryavanshi has explained the reason behind his mystery celebration after his historic knock during the first T20I against Zimbabwe. Sooryavanshi went past Sachin Tendulkar with his blitz that helped India win the match."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-down-500-points-why-market-falling-brent-crude-wall-street-spill-ai-spending-weak-q1-earnings-2954951-2026-07-24",
-      "headline": "Sensex down over 500 points: 3 reasons why the stock market is falling todayBenchmark indices extended their losses in early trade, with the BSE Sensex plunging 902.48 points, or 1.18%, to 75,488.91, while the NSE Nifty50 dropped 256.15 points, or 1.07%, to 23,613.45 around 10:20 am, as rising crude oil prices and weak global cues continued to weigh heavily on investor sentiment."
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-police-clarifies-row-after-viral-video-shows-male-cop-apparently-manhandlingshowing-male-policeman-2955127-2026-07-24",
+      "headline": "Mumbai MP claims cop manhandled woman protester, shares video, police countersReferring to the backlash over the video, the Mumbai Police rejected the allegations in a post on X, saying an 'extremely irresponsible and incorrect' interpretation was being made of their employee's behaviour."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/how-gen-z-transformed-cjp-protests-around-india-into-a-content-creation-festival-2954988-2026-07-24",
-      "headline": "How Gen Z transformed CJP protests around India into a content creation festivalAt the CJP protests, Gen Z brought content creation to the streets, recording GRWMs, dance reels, clashes and personal stories from the ground."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/musafir-cafe-review-vikrant-massey-leads-soulful-tale-of-love-and-longing-2954949-2026-07-24",
+      "headline": "Musafir Cafe review: Vikrant Massey leads soulful tale of love and longingRelease Date:Fri Jul 24, 2026Director Ruchir Arun's Musafir Cafe follows Chander, Sudha and Preeti through a shifting, unresolved love story. Its old-school emotional pull and lived-in performances give familiar tropes fresh weight. Does the show do justice to Divya Prakash Dubey's novel? Here is our review."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/5-to-10-years-jail-term-up-to-rs-1-crore-fine-centres-steps-to-tighten-paper-leak-laws-2954981-2026-07-24",
-      "headline": "Govt looks to increase jail terms, fines to make exam leak laws tougherPrime Minister Narendra Modi on Thursday vowed to tighten laws aimed at preventing question paper leaks. The announcement came amid Cockroach Janta Party's agitation demanding Union Education Minister Dharmendra Pradhan's resignation over NEET-related irregularities."
+      "url": "https://www.indiatoday.in/india/story/delhi-cjp-protest-journalist-harassment-crowd-safety-questions-2954127-2026-07-24",
+      "headline": "What I faced as a woman reporter covering the CJP protestPublic protests are the lifeblood of democracy, but women's safety is just as fundamental. My experience at Jantar Mantar shows that while the cause deserves attention, so do better crowd management, trained volunteers and stronger safety measures."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/bikes/story/honda-unveils-10-model-lineup-for-india-adv160-rebel-twins-xr300-rally-qc3-and-more-2955024-2026-07-24",
+      "headline": "Honda unveils 10-model lineup for India: ADV160, Rebel twins, XR300 Rally, QC3 and moreSeven all-new products and three refreshed CB350 models showcased; portfolio spans ICE, EV and flex-fuel technologies as Honda doubles down on localisation"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/neet-protests-delhi-metro-news-station-closed-today-cjp-connaught-place-commercial-shutdown-jantar-mantar-protest-news-2954806-2026-07-24",
+      "headline": "No Metro: A nightmare for Delhi commuters but protesters find a cheat codeSeventeen Metro stations in Central Delhi have been shut on Friday over security concerns amid the Cockroach Janta Party's protest at Jantar Mantar. While demonstrators found ways around the curbs on Thursday, Delhi's office-goers and daily commuters were left navigating a traffic nightmare."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/psychology-says-people-who-check-their-phone-immediately-after-waking-up-arent-just-addicted-2954586-2026-07-24",
-      "headline": "Psychology says people who check their phone immediately after waking up aren't just addictedBefore your feet touch the floor, your hand reaches for your phone. For millions of people, this has become the first ritual of the day. Psychology suggests this habit is not always about phone addiction. It may also be driven by habit loops, curiosity, uncertainty and the brain's desire to reconnect with the world."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/monsoon-floods-india-41-dead-assam-gujarat-heavy-rain-2954971-2026-07-24",
-      "headline": "Monsoon turns fatal: Floods kill at least 41 in Assam; Gujarat faces extreme rainIndia's monsoon has taken a dangerous turn; killing people, making rivers rise, bringing record-breaking rainfall, and affecting millions in parts of the country."
+      "headline": "Psychology says checking your phone first thing is more than addictionBefore your feet touch the floor, your hand reaches for your phone. For millions of people, this has become the first ritual of the day. Psychology suggests this habit is not always about phone addiction. It may also be driven by habit loops, curiosity, uncertainty and the brain's desire to reconnect with the world."
     },
     {
       "sentiment": "positive",
@@ -266,43 +286,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-protest-pellet-gun-injuries-cjp-march-jantar-mantar-chalo-sansad-police-brutality-2954556-2026-07-23",
-      "headline": "Pellet guns used against protesters in Delhi. Wounds, medical papers reveal truthPellet guns, mostly associated with Jammu and Kashmir, have been used in New Delhi, claim protesters. India Today Digital spoke to a protester whose medico-legal document says he was hit by pellets. He was hit during the CJP's march to Parliament when security personnel allegedly used excessive force."
+      "url": "https://www.indiatoday.in/education-today/news/story/maharashtra-mbbs-bond-service-abolished-after-20-years-what-changes-now-2955046-2026-07-24",
+      "headline": "Why Maharashtra scrapped its 20-year MBBS bond rule for newly qualified doctorsMaharashtra has abolished the compulsory one-year MBBS bond service that had been in place since 2006. The decision comes after a sharp rise in medical graduates left thousands waiting for government postings, delaying postgraduate admissions and careers. Here's what changes, who benefits and why the state reversed the policy."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/maruti-suzuki-brezza-facelift-to-launch-today-heres-everything-coming-for-the-first-time-2954958-2026-07-24",
-      "headline": "Maruti Suzuki Brezza facelift to launch today: Here's everything coming for the first timeMaruti Suzuki is launching the 2026 Brezza facelift today with major upgrades, including new powertrain options, the brand's first six-speed manual, enhanced features, refreshed styling and a five-star Bharat NCAP safety rating."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/ibm-earnings-disappoint-ceo-arvind-krishna-reveals-how-much-software-ai-can-replace-2954897-2026-07-24",
-      "headline": "IBM earnings disappoint, CEO Arvind Krishna reveals how much software AI can replaceIBM's latest earnings report has made investors concerned about the impact of AI on the company. But IBM CEO Arvind Krishna insists that only a part of its software might be replaced by AI, the rest, he says, could actually help people get AI ready."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/new-school-education-secretary-t-k-anil-kumar-india-nep-2020-school-dropouts-challenges-2954948-2026-07-24",
-      "headline": "India has a new School Education Secretary. Here's what must change firstNew School Education Secretary, TK Anil Kumar has taken charge at a crucial time for India's classrooms. From unfinished NEP reforms and board exam changes to teacher shortages and learning gaps, several pressing issues are waiting on the new secretary's desk."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-nationwide-protest-live-updates-cjp-abhijeet-dipike-sonam-wangchuk-2954869-2026-07-24",
-      "headline": "Live: Delhi Police cancels leaves for all personnel amid CJP protestCockroach Janta Party Nationwide Protest Live Updates: The Cockroach Janta Party (CJP) has given a call for a nationwide protest today (July 24), urging people to hold demonstrations in every district. Moreover, a delegation of the outfit is scheduled to meet government representatives at 12.30 pm today at the Constitution Club of India in New Delhi. This came after the CJP's continued insistence that any dialogue with the government should only happen at a \"neutral venue.\" The Abhijeet Dipke-led movement also said Prime Minister Narendra Modi's announcement on action against paper leaks did not address the issue of accountability or its main demand of Union Education Minister Dharmendra Pradhan's resignation over the NEET-related irregularities. The CJP appeared firm in its stance to continue its agitation even as Sonam Wangchuk finally broke his fast after being on a hunger strike for 26 days. The 59-year-old activist announced the end of his fast after Union Ministers JP Nadda and Jitendra Singh met him at the Medanta Hospital in Gurugram around Thursday midnight and conveyed the government's assurances about meeting his demands. Follow IndiaToday.in for live updates on the CJP protest."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/flipkart-iphone-14-pro-refund-case-mumbai-court-orders-payout-over-beard-oil-delivery-ptag-2954960-2026-07-24",
-      "headline": "Mumbai man who received oil instead of iPhone from Flipkart to get Rs 1.8 lakhThe court ruled that both Flipkart and the seller, International Value Retail Pvt Ltd, were jointly and severally liable, while dismissing the complaint against Apple India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-events-cut-wrestling-shooting-cricket-glasgow-2954898-2026-07-24",
-      "headline": "Commonwealth Games Lite: Why 10 sports were axed from Glasgow 2026As the 2026 Commonwealth Games get underway in Glasgow, a drastically reduced sports list tests a new, low-cost formula to save the event\u2014while taking away India's biggest medal-winning events."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/govt-promised-not-to-file-case-against-protesting-cjp-students-youth-sonam-wangchuk-1st-message-after-ending-hunger-strike-2954873-2026-07-24",
-      "headline": "Govt assured paper leak accountability will be discussed: Wangchuk after ending fastSonam Wangchuk, who had been on a hunger strike since June 28, ended his fast after the Centre assured him that Parliament would discuss the NEET-UG paper leak and examination reforms, and that no legal action would be taken against peaceful protesters."
+      "url": "https://www.indiatoday.in/india/story/5-to-10-years-jail-term-up-to-rs-1-crore-fine-centres-steps-to-tighten-paper-leak-laws-2954981-2026-07-24",
+      "headline": "5-10 years in jail, Rs 1 crore fine: How govt aims to tighten paper leak lawsPM Modi on Thursday vowed to tighten laws aimed at preventing question paper leaks. The announcement came amid Cockroach Janta Party's agitation demanding Union Education Minister Dharmendra Pradhan's resignation over NEET-related irregularities."
     },
     {
       "sentiment": "positive",
@@ -311,16 +301,51 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/jantar-mantar-protests-may-invite-legal-action-affect-academic-future-delhi-university-to-students-faculty-2954723-2026-07-23",
-      "headline": "Jantar Mantar protests may invite legal action, DU warns students, facultyAs protests continue at Jantar Mantar, Delhi University has cautioned students and faculty against participating in unauthorised demonstrations. The advisory warns that violations could invite disciplinary and legal action, with implications for students' academic future."
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-celebration-explained-record-t20i-fifty-zimbabwe-vs-india-2954972-2026-07-24",
+      "headline": "Vaibhav Sooryavanshi's mystery celebration decoded after historic fiftyVaibhav Sooryavanshi has explained the reason behind his mystery celebration after his historic knock during the first T20I against Zimbabwe. Sooryavanshi went past Sachin Tendulkar with his blitz that helped India win the match."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/relationship/story/jantar-mantar-protest-date-gen-z-delhi-protests-2954895-2026-07-24",
-      "headline": "Wanna go on a 'protest date'? Gen Z says see you at Jantar MantarYoung couples are swapping cafe and movie dates for protest dates - showing up for a cause they deeply believe in, alongside someone they care about."
+      "url": "https://www.indiatoday.in/science/story/monsoon-gujarat-maharashtra-mumbai-ahmedabad-southwest-monsoon-heavy-rain-flood-2955027-2026-07-24",
+      "headline": "LIVE: Monsoon mayhem in Gujarat, Western Railways ops severely hitWeather in India Live Updates: After a slow start and prolonged lull over parts of western India, the southwest monsoon has made a prominent comeback. Gujarat is battling record-breaking rainfall, flash floods and widespread disruption, while heavy showers continue to lash Maharashtra, inundating low-lying areas and swelling rivers. The India Meteorological Department (IMD) has warned that the wet spell is far from over, with more heavy to very heavy rainfall expected across both states in the coming days. Follow live updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-saudi-nuclear-deal-president-donald-trump-pakistan-nuclear-weapons-israel-news-2954155-2026-07-24",
+      "headline": "Why US-Saudi nuclear pact has Pakistan hopeful, and Israel waryThe US-Saudi nuclear deal approved by American President Donald Trump could allow Riyadh to domestically enrich uranium without several key safeguards Washington has traditionally demanded. The deal has alarmed Israel, and revived questions over whether Saudi Arabia will draw on the nuclear expertise of its long-time strategic partner Pakistan should it decide to go for the bomb."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-metro-17-central-stations-closed-cjp-protest-jantar-mantar-2954788-2026-07-23",
+      "headline": "New Delhi Metro station added to closure list as total reaches 18 amid CJP protestsDelhi Metro will shut 18 stations in central Delhi from Friday morning because of security advisories linked to the CJP protest at Jantar Mantar. The move extends a second day of disruption and is expected to hit commuters as demonstrations continue in the capital."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-india-day-2-live-updates-boxing-lawn-bowls-powerlifting-glasgow-2955132-2026-07-24",
+      "headline": "Commonwealth Games 2026, Day 2 Live: India begin medal hunt with gymnastics Commonwealth Games 2026, Day 2 Live updates: India will look to add to its Commonwealth Games 2026 medal tally on Friday as action unfolds across multiple disciplines, with para powerlifting leading the medal hopes while gymnasts, swimmers, boxers and lawn bowlers also take centre stage in Glasgow."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-fifty-india-vs-zimbabwe-first-t20i-mayank-yadav-2955063-2026-07-24",
+      "headline": "Mayank Yadav in awe of Vaibhav Sooryavanshi's 'unbelievable' batting Mayank Yadav believes 15-year-old Vaibhav Sooryavanshi has the talent to reach the very top after watching him hammer his maiden international fifty. The India pacer called the teenager's fearless stroke-play \"unbelievable.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/viswanathan-anand-interim-fide-president-eu-sanctions-arkady-dvorkovich-2955054-2026-07-24",
+      "headline": "Viswanathan Anand becomes interim FIDE president after EU sanctions Dvorkovich Viswanathan Anand has taken over as interim FIDE president after EU sanctions hit Arkady Dvorkovich. Anand was working as the deputy FIDE chief after Dvorkovich came into power."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/formula-1-india-return-fmsci-sports-ministry-recognition-2028-2955051-2026-07-24",
+      "headline": "Formula 1 return to India nears as FMSCI gets key government nod India's Formula 1 ambitions received a major boost after the Sports Ministry granted provisional NSF recognition to FMSCI. The move strengthens the governing body's role as the government targets an F1 return by 2028."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/italy-coach-pep-guardiola-carlo-ancelotti-approach-paolo-maldini-2955030-2026-07-24",
+      "headline": "Italy tried to appoint Ancelotti for manager before approaching Guardiola Italy's coaching search began with an ambitious move for Carlo Ancelotti before the FIGC turned to Pep Guardiola after Brazil ruled out the veteran's departure. Paolo Maldini says the federation wanted to start with \"the best in the world.\""
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/mirabai-chanu-commonwealth-games-2026-asian-games-90kg-snatch-2955007-2026-07-24",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-opening-ceremony-king-charles-open-mirabai-lovlina-lead-india-2954850-2026-07-24",
-      "headline": "Commonwealth Games declared open as Mirabai, Lovlina lead India at Parade of Nations Olympic medallists Mirabai Chanu and Lovlina Borgohain led India into the Commonwealth Games 2026 opening ceremony to a thunderous reception as King Charles III officially declared the Games open at the OVO Hydro in Glasgow on Wednesday."
+      "headline": "Commonwealth Games declared open as Mirabai, Lovlina lead India at Parade of NationsOlympic medallists Mirabai Chanu and Lovlina Borgohain led India into the Commonwealth Games 2026 opening ceremony to a thunderous reception as King Charles III officially declared the Games open at the OVO Hydro in Glasgow on Wednesday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mayank-yadav-reaction-injury-comeback-india-vs-zimbabwe-harare-t20i-2954842-2026-07-24",
-      "headline": "Childhood dream kept me motivated: Mayank Yadav 2.0 impresses on injury comeback India pacer Mayank Yadav has opened up on the mental toll of his two-year injury layoff, describing the prolonged absence from international cricket as the toughest phase of his young career after making an impressive return against Zimbabwe in the first T20I on Thursday."
+      "headline": "Childhood dream kept me motivated: Mayank Yadav 2.0 impresses on injury comebackIndia pacer Mayank Yadav has opened up on the mental toll of his two-year injury layoff, describing the prolonged absence from international cricket as the toughest phase of his young career after making an impressive return against Zimbabwe in the first T20I on Thursday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-live-updates-opening-ceremony-india-mirabai-chanu-lovlina-borgohain-2954785-2026-07-23",
-      "headline": "Highlights: Lovlina, Mirabai lead India's contingent in style Commonwealth Games 2026 Highlights: The Commonwealth Games 2026 began with a star-studded opening ceremony at Glasgow's OVO Hydro Arena. Around 3,000 athletes from 74 nations, including a strong Indian contingent led by Mirabai Chanu, will mark the start of the 11-day spectacle."
+      "headline": "Highlights: Lovlina, Mirabai lead India's contingent in styleCommonwealth Games 2026 Highlights: The Commonwealth Games 2026 began with a star-studded opening ceremony at Glasgow's OVO Hydro Arena. Around 3,000 athletes from 74 nations, including a strong Indian contingent led by Mirabai Chanu, will mark the start of the 11-day spectacle."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-student-protests-cjp-post-jantar-mantar-2954736-2026-07-23",
-      "headline": "Our generation deserves every opportunity to learn: Shubman Gill on NEET protests Shubman Gill shared a message calling for compassion, mutual respect and greater opportunities for young people as student protests continue, while stressing the importance of education and peaceful expression."
+      "headline": "Our generation deserves every opportunity to learn: Shubman Gill on NEET protestsShubman Gill shared a message calling for compassion, mutual respect and greater opportunities for young people as student protests continue, while stressing the importance of education and peaceful expression."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-hits-out-china-open-scheduling-after-chen-yufei-loss-2954716-2026-07-23",
-      "headline": "PV Sindhu calls out China Open scheduling after Chen Yufei ends her campaign PV Sindhu questioned the China Open scheduling after her second-round exit on Thursday, highlighting the disparity in recovery time between players with a tongue-in-cheek post on social media following her defeat to home favourite Chen Yufei."
+      "headline": "PV Sindhu calls out China Open scheduling after Chen Yufei ends her campaignPV Sindhu questioned the China Open scheduling after her second-round exit on Thursday, highlighting the disparity in recovery time between players with a tongue-in-cheek post on social media following her defeat to home favourite Chen Yufei."
     },
     {
       "sentiment": "positive",
@@ -445,31 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/cjp-protests-shikhar-dhawan-narendra-modi-government-delhi-2954227-2026-07-23",
       "headline": "Keep faith in government: Dhawan urges patience from students amid protestsShikhar Dhawan asked protesting students to stay patient and trust the government amid the CJP protests in Delhi. The statement comes after the demonstrations over the alleged NEET-UG 2026 paper leak and examination irregularities have continued to garner nationwide attention."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/argentina-fans-petition-fifa-to-replay-2026-world-cup-final-after-spain-defeat-2954175-2026-07-23",
-      "headline": "Argentina fans launch petition to replay the World Cup 2026 final. Here's whyArgentina supporters have launched a petition asking FIFA to replay the 2026 World Cup final after the loss to Spain. The campaign attacks the officiating of referee Slavko Vincic, calling it biased."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/cjp-student-protests-abhinav-bindra-jantar-mantar-education-tweet-2954182-2026-07-23",
-      "headline": "Olympic gold medallist Abhinav Bindra backs students amid protestsOlympic gold medalist Abhinav Bindra shared a message on the ongoing student protests at Delhi's Jantar Mantar, urging India to strengthen its education system. His remarks come as nationwide demonstrations over the alleged NEET-UG paper leak continue to intensify."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-final-lionel-messi-trolled-sergio-ramos-trophy-pic-2954137-2026-07-23",
-      "headline": "Ramos takes a jibe at Messi by recreating Argentina star's iconic World Cup picAfter Spain beat Argentina in the 2026 World Cup final, Sergio Ramos recreated Lionel Messi's viral trophy-sleeping photo to take a light-hearted jibe at the Argentina captain. Messi and Co. were beaten by Spin 1-0 in the showdown in New York."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/rodri-back-surgery-spain-fifa-world-cup-winner-manchester-city-real-madrid-2954139-2026-07-23",
-      "headline": "Rodri set for surgery after Spain's World Cup win as Real Madrid links persistSpain's World Cup-winning captain Rodri is set to undergo back surgery after a stellar tournament that earned him the Golden Ball. The latest injury setback comes as uncertainty continues over his Manchester City future, with contract talks unresolved and Real Madrid links refusing to fade."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/inter-miami-casemiro-mls-investigation-transfer-tampering-la-galaxy-discovery-rights-2954128-2026-07-23",
-      "headline": "Messi's Inter Miami faces MLS investigation over alleged Casemiro deal tamperingInter Miami's signing of Casemiro has quickly come under scrutiny after MLS launched a tampering investigation into the transfer. The probe centres on discovery rights, reviving questions over the club's transfer dealings despite securing another marquee signing alongside Lionel Messi."
     }
   ],
   "education": [
