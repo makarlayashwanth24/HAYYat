@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aamirs-daughter-ira-has-no-opinion-on-students-protest-she-doesnt-look-at-news-2955502-2026-07-24",
+      "headline": "Aamir's daughter Ira has no opinion on students' protest, she doesn't 'look at news' Actor Aamir Khan's daughter Ira Khan said she did not comment on the student protests because she avoids news and social media. She said looking away is a privilege and that she is still figuring out the most helpful role aligned with her values."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/ben-and-casey-afflecks-mother-chris-dies-at-83-following-pancreatic-cancer-2955452-2026-07-24",
       "headline": "Ben and Casey Affleck's mother, Chris, dies at 83 after battling pancreatic cancer Chris Anne Affleck, mother of actors Ben and Casey Affleck, died on June 2 after pancreatic cancer. Her final wish to see her grandson Atticus graduate was fulfilled two days earlier."
     },
@@ -191,33 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-first-day-first-show-vijay-fans-tears-farewell-film-2954905-2026-07-24",
       "headline": "Tears, whistles and nostalgia: How India celebrated Thalapathy Vijay's Jana Nayagan Fans walked into theatres expecting one final celebration with Thalapathy Vijay. They walked out emotional, as Jana Nayagan transformed a festival-like first-day-first-show into a moment of reflection."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-release-trisha-krishnan-vijay-rohini-theatre-visit-2954986-2026-07-24",
-      "headline": "Trisha can't stop smiling after watching Vijay's Jana Nayagan on opening day Actor Trisha Krishnan attended the first day-first show of Vijay's Jana Nayagan at Chennai's Rohini Theatre. Her post-screening glimpse and the crowd outside quickly drew fans' attention online."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dharmendra-pradhan-resignation-demand-neet-ug-protests-jantar-mantar-2955420-2026-07-24",
-      "headline": "Is Dharmendra Pradhan's resignation in zone of consideration?From a flat no to seeking a day's time, this is the first time that the issue of Union Education Minister Dharmendra Pradhan's resignation has come closest to the zone of consideration."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/law-news/story/i-was-misquoted-cji-surya-kant-says-supreme-court-never-refuses-to-hear-any-issue-amid-neet-protests-2955491-2026-07-24",
+      "headline": "Misquoted: CJI on 'don't have time to watch videos' remark amid protest crackdownChief Justice of India Surya Kant said he was \"misquoted\" in media reports amid the CJP protest controversy, reiterating that the Supreme Court is open to all and never refuses to hear cases, while stressing that judicial procedures must be followed."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/story/govt-plans-major-nta-overhaul-47-officials-to-be-removed-sources-2955479-2026-07-24",
-      "headline": "Govt plans biggest NTA reset yet after NEET row, 47 officials may be removed: SourcesThe Centre is preparing a major overhaul of the National Testing Agency following the NEET-UG controversy. Sources say around 47 officials may be removed, outsourcing practices will change, and structural and technological reforms will be introduced to create a leak-proof examination system for national entrance tests."
+      "headline": "Govt plans biggest NTA reset yet after NEET row, 47 officials removed: SourcesThe Centre is preparing a major overhaul of the National Testing Agency following the NEET-UG controversy. Sources say around 47 officials have been removed, outsourcing practices will change, and structural and technological reforms will be introduced to create a leak-proof examination system for national entrance tests."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/union-minister-of-state-for-railways-ravneet-singh-bittu-resigns-2955551-2026-07-24",
+      "headline": "Union Minister of State for Railways Ravneet Singh Bittu resignsUnion Minister of State for Railways, Ravneet Singh Bittu has resigned from the Union Council of Ministers, with President Droupadi Murmu accepting his resignation with immediate effect, according to a press communique issued by Rashtrapati Bhavan on Friday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/dharmendra-pradhan-will-not-resign-and-run-away-from-responsibility-govt-sources-2955308-2026-07-24",
       "headline": "Dharmendra Pradhan won't quit, we'll deliver on people's mandate: Govt sourcesThere is \"no question\" of Education Minister Dharmendra Pradhan resigning over the NEET-UG paper leak row, government sources said, asserting that stepping down would be the easiest option and amount to running away from responsibility."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/raf-launches-probe-into-forces-actions-during-delhi-protests-amid-claims-of-pellet-gun-use-news-agency-pti-2955364-2026-07-24",
-      "headline": "RAF to probe claims about use of excess force, pellet gun during Delhi protestsThe Rapid Action Force has begun a verification exercise into allegations of excessive force and pellet gun use during the July 20 CJP protest in Delhi. A formal Court of Inquiry will be considered after the verification, according to sources."
     },
     {
       "sentiment": "positive",
@@ -227,27 +227,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-india-day-2-live-updates-boxing-lawn-bowls-powerlifting-glasgow-2955132-2026-07-24",
-      "headline": "CWG 2026, Day 2 Live: India women powerlifters eye medal after Ashok misses podiumCommonwealth Games 2026, Day 2 Live updates: India's Ashok finished fourth in para powerlifting despite her best efforts. Earlier, RVVBK Budigina and Ali Iman qualified for the final of the 100m Freestyle S13 event. Srihari Natraj, advanced to the semifinals of the 50m men's backstroke. Indian gymnasts are currently in action in men's subdivision 2."
+      "headline": "CWG Day 2 Live: Indian bowlers win two in two, Women para-lifters miss medalCommonwealth Games 2026, Day 2 Live updates: India's Rupa Rani Tirkey and Pinki Singh defeated South Africa 2-0 in the women's pairs, while para powerlifters Jaspreet Kaur and Suman Devi missed out on medals after finishing sixth and seventh, respectively."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/i-was-misquoted-cji-surya-kant-says-supreme-court-never-refuses-to-hear-any-issue-amid-neet-protests-2955491-2026-07-24",
-      "headline": "I was misquoted: CJI Surya Kant says Supreme Court never refuses to hear any issue amid NEET protestsI was misquoted: CJI Surya Kant says Supreme Court never refuses to hear any issue amid NEET protests"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/13-dead-as-massive-boulder-crushes-moving-tata-sumo-in-himachals-chamba-2955300-2026-07-24",
-      "headline": "13 dead as massive boulder crushes moving Tata Sumo in Himachal's ChambaThe accident took place on the Killar\u2013Udaipur road in the tribal Pangi valley when a huge section of the hillside reportedly gave way, crushing the vehicle. Bharmour-Pangi MLA Dr Janak Raj confirmed that all 13 occupants of the SUV died in the incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/delhi/story/jantar-mantar-protest-four-visits-show-how-the-movement-grew-in-delhi-2953689-2026-07-24",
-      "headline": "What changed at Jantar Mantar after July 20? I visited the site 6 timesMy six visits to Jantar Mantar changed my perspective on what a protest can become. I marked July 1, July 10, July 15, July 19, July 21 and July 23 to visit the site and witness its evolution firsthand. In recent memory, few demonstrations have reached this scale. What began as an ordinary protest on Day 1 looked completely different by July 23, after the chaos of July 20. Young people from all walks of life arrived in solidarity, looking after one another and taking ownership of the movement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/neet-ug-paper-leak-dipke-warns-students-may-seek-pm-modi-resignation-if-pradhan-stays-2955436-2026-07-24",
-      "headline": "Dharmendra Pradhan's resignation is in govt's best interest: CJP's Abhijeet Dipke Live updatesCJP founder Abhijeet Dipke said it was in the government's best interest to remove Education Minister Dharmendra Pradhan amid NEET protests, warning that the agitation would intensify nationwide if he didn't resign."
+      "url": "https://www.indiatoday.in/india/story/dharmendra-pradhan-resignation-demand-neet-ug-protests-jantar-mantar-2955420-2026-07-24",
+      "headline": "Is Dharmendra Pradhan's resignation in zone of consideration?From a flat no to seeking a day's time, this is the first time that the issue of Union Education Minister Dharmendra Pradhan's resignation has come closest to the zone of consideration."
     },
     {
       "sentiment": "positive",
@@ -256,23 +241,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/2026-maruti-suzuki-brezza-launched-at-rs-740-lakh-gets-a-new-turbo-petrol-engine-2955536-2026-07-24",
+      "headline": "2026 Maruti Suzuki Brezza launched at Rs 7.40 lakh, gets a new turbo-petrol engineMaruti Suzuki has launched the 2026 Brezza in India at Rs 7.40 lakh, introducing a turbo-petrol engine, six-speed manual gearbox, upgraded features, refreshed styling and enhanced safety for buyers."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/raf-launches-probe-into-forces-actions-during-delhi-protests-amid-claims-of-pellet-gun-use-news-agency-pti-2955364-2026-07-24",
+      "headline": "RAF to probe claims about use of excess force, pellet gun during Delhi protestsThe Rapid Action Force has begun a verification exercise into allegations of excessive force and pellet gun use during the July 20 CJP protest in Delhi. A formal Court of Inquiry will be considered after the verification, according to sources."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/delhi/story/jantar-mantar-protest-four-visits-show-how-the-movement-grew-in-delhi-2953689-2026-07-24",
+      "headline": "What changed at Jantar Mantar after July 20? I visited the site 6 timesMy six visits to Jantar Mantar changed my perspective on what a protest can become. I marked July 1, July 10, July 15, July 19, July 21 and July 23 to visit the site and witness its evolution firsthand. In recent memory, few demonstrations have reached this scale. What began as an ordinary protest on Day 1 looked completely different by July 23, after the chaos of July 20. Young people from all walks of life arrived in solidarity, looking after one another and taking ownership of the movement."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/history-of-it/story/pokhran-nuclear-test-1995-smiling-buddha-1998-us-spy-satellites-india-abort-us-saudi-nuclear-deal-2954767-2026-07-24",
       "headline": "US spy satellites made India abort nuclear test. Then, Buddha smiled againTwo decades after the Pokhran-I nuclear test in 1974, India was ready to test again in 1995. But American spy satellites spotted unusual activity at Pokhran before it could. This is why PM PV Narasimha Rao withheld the final clearance, and the move helped pave the way for the successful Pokhran-II tests three years later."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-cjp-protest-journalist-harassment-crowd-safety-questions-2954127-2026-07-24",
-      "headline": "What I faced as a woman reporter covering the CJP protestPublic protests are the lifeblood of democracy, but women's safety is just as fundamental. My experience at Jantar Mantar shows that while the cause deserves attention, so do better crowd management, trained volunteers and stronger safety measures."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-nationwide-protest-live-updates-cjp-abhijeet-dipike-sonam-wangchuk-2954869-2026-07-24",
-      "headline": "Live: Education Ministry to announce major NTA reforms at 8 pmCockroach Janta Party Nationwide Protest Live Updates: After a day of high political drama, the CJP-led agitation over the alleged NEET paper leak remains on edge as the Centre is set to announce major NTA reforms at 8 pm while another round of talks with protesters is scheduled for Saturday. CJP leaders claimed the government was positive on demands related to compensation and withdrawal of FIRs but sought more time to decide on Education Minister Dharmendra Pradhan's resignation. Meanwhile, Rahul Gandhi demanded the Prime Minister apologise over alleged pellet gun injuries to students, several opposition leaders rallied behind the protests, and the CJP warned that any attempt to detain its leaders ahead of the weekend would only intensify the movement. Follow IndiaToday.in for live updates on the CJP protest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-president-mohammed-shahabuddin-resigns-leaving-sheikh-hasina-without-ally-in-top-office-2955401-2026-07-24",
-      "headline": "Bangladesh President Mohammed Shahabuddin resigns, Hasina loses key ally in officeBangladesh President Mohammed Shahabuddin resigned on Friday, citing serious health issues, including autonomic neuropathy that causes occasional loss of consciousness."
     },
     {
       "sentiment": "positive",
@@ -281,8 +266,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/the-meme-is-mightier-than-the-sword-inside-the-art-of-cjp-protest-2955080-2026-07-24",
-      "headline": "The meme is mightier than the sword: Inside the art of CJP protestAt the CJP protest in Delhi's Janpath, memes, placards and painted banners have become central to the demonstration. The memes can be new, but art has always been an integral part of activism."
+      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-nationwide-protest-live-updates-cjp-abhijeet-dipike-sonam-wangchuk-2954869-2026-07-24",
+      "headline": "Live: Delhi metro reopens entry gates at Mandi House, Central Secretariat stationsCockroach Janta Party Nationwide Protest Live Updates: After a day of high political drama, the CJP-led agitation over the alleged NEET paper leak remains on edge as the Centre is set to announce major NTA reforms at 8 pm while another round of talks with protesters is scheduled for Saturday. CJP leaders claimed the government was positive on demands related to compensation and withdrawal of FIRs but sought more time to decide on Education Minister Dharmendra Pradhan's resignation. Meanwhile, Rahul Gandhi demanded the Prime Minister apologise over alleged pellet gun injuries to students, several opposition leaders rallied behind the protests, and the CJP warned that any attempt to detain its leaders ahead of the weekend would only intensify the movement. Follow IndiaToday.in for live updates on the CJP protest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/neet-ug-paper-leak-dipke-warns-students-may-seek-pm-modi-resignation-if-pradhan-stays-2955436-2026-07-24",
+      "headline": "Dharmendra Pradhan's resignation is in govt's best interest: CJP's Abhijeet Dipke Live updatesCJP founder Abhijeet Dipke said it was in the government's best interest to remove Education Minister Dharmendra Pradhan amid NEET protests, warning that the agitation would intensify nationwide if he didn't resign."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/pellet-gun-injuries-student-protests-july-20-crackdown-2955470-2026-07-24",
+      "headline": "Pellet wound reports spark fresh row over student protest crackdownReports of pellet injuries during the July 20 student protest crackdown have intensified scrutiny of the security response. With no official confirmation of pellet gun use, medical findings and past experience have renewed questions over crowd-control tactics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/delhi-cjp-protest-journalist-harassment-crowd-safety-questions-2954127-2026-07-24",
+      "headline": "What I faced as a woman reporter covering the CJP protestPublic protests are the lifeblood of democracy, but women's safety is just as fundamental. My experience at Jantar Mantar shows that while the cause deserves attention, so do better crowd management, trained volunteers and stronger safety measures."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/13-dead-as-massive-boulder-crushes-moving-tata-sumo-in-himachals-chamba-2955300-2026-07-24",
+      "headline": "13 dead as massive boulder crushes moving Tata Sumo in Himachal's ChambaThe accident took place on the Killar\u2013Udaipur road in the tribal Pangi valley when a huge section of the hillside reportedly gave way, crushing the vehicle. Bharmour-Pangi MLA Dr Janak Raj confirmed that all 13 occupants of the SUV died in the incident."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-president-mohammed-shahabuddin-resigns-leaving-sheikh-hasina-without-ally-in-top-office-2955401-2026-07-24",
+      "headline": "Bangladesh President Mohammed Shahabuddin resigns, Hasina loses key ally in officeBangladesh President Mohammed Shahabuddin resigned on Friday, citing serious health issues, including autonomic neuropathy that causes occasional loss of consciousness."
     },
     {
       "sentiment": "positive",
@@ -291,23 +301,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/government-sought-time-till-tomorrow-to-respond-to-dharmendra-pradhan-resignation-demand-cjp-after-talks-2955200-2026-07-24",
-      "headline": "CJP firm on Pradhan resignation demand, says govt sought time till tomorrowThe resignation of Education Minister Dharmendra Pradhan has been at the core of the month-long Cockroach Janta Party (CJP) protests. The CJP said the government agreed to two of their demands. Read on to find the details."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/saudi-prince-london-hotel-death-inquest-misadventure-drug-alcohol-2954902-2026-07-24",
-      "headline": "Saudi prince found dead at luxury London hotel after party drugs, alcohol overdoseInvestigators found potentially fatal levels of gamma-hydroxybutyrate (GHB), commonly known as a party drug, along with traces of cannabis, Xanax and other anti-anxiety medications in therapeutic quantities."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/fashion/story/india-couture-week-2026-anamika-khanna-show-postponement-calls-backlash-2955339-2026-07-24",
       "headline": "India Couture Week 2026 begins with Anamika Khanna show. But why the backlash?The fashion week has begun amid a debate over whether it is appropriate to proceed with the event as protests in Delhi intensified."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-celebration-explained-record-t20i-fifty-zimbabwe-vs-india-2954972-2026-07-24",
-      "headline": "Vaibhav Sooryavanshi's mystery celebration decoded after historic fiftyVaibhav Sooryavanshi has explained the reason behind his mystery celebration after his historic knock during the first T20I against Zimbabwe. Sooryavanshi went past Sachin Tendulkar with his blitz that helped India win the match."
     },
     {
       "sentiment": "positive",
@@ -316,11 +311,26 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/maruti-suzuki-brezza-facelift-launch-live-updates-price-specifications-engine-option-features-2955234-2026-07-24",
+      "headline": "Maruti Suzuki Brezza facelift launch highlights: Price, features, design and all you need to knowMaruti Suzuki has launched the 2026 Brezza facelift today, bringing significant upgrades including new powertrain options, the brand's first six-speed manual gearbox, refreshed styling, enhanced features and a five-star Bharat NCAP safety rating."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/bengaluru-ceo-rides-scooty-inside-office-to-celebrate-companys-amazing-quarter-2954294-2026-07-23",
       "headline": "Bengaluru CEO rides scooter inside office to celebrate company's 'amazing quarter'A Bengaluru-based CEO rode a scooty through the NoBroker office while celebrating his Packers and Movers team's record quarter, before handing it to the winning employee in a now-viral video."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/cwg-2026-ashok-malik-misses-para-powerlifting-medal-after-fourth-place-finish-2955526-2026-07-24",
+      "headline": "Fourth-place curse strikes as Ashok Malik misses powerlifting medal Ashok Malik missed a Commonwealth Games para powerlifting medal despite a personal best 200kg lift in Glasgow on Friday. His fourth-place finish revived a familiar Indian sporting anguish."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mayank-yadav-ashok-sharma-india-fast-bowling-pool-sunil-joshi-zimbabwe-2nd-t20i-2955521-2026-07-24",
+      "headline": "Mayank Yadav, Ashok Sharma good additions to India's fast-bowling pool: Sunil Joshi Stand-in bowling coach Sunil Joshi hailed Mayank Yadav and Ashok Sharma as key additions to India's fast-bowling pool ahead of the second T20I against Zimbabwe, highlighting the importance of building pace depth amid workload management."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/jurgen-klopp-germany-coach-family-privacy-warning-quit-media-2955435-2026-07-24",
@@ -349,7 +359,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-india-day-2-live-updates-boxing-lawn-bowls-powerlifting-glasgow-2955132-2026-07-24",
-      "headline": "CWG 2026, Day 2 Live: Ashok misses powerlifting medal, but records personal best Commonwealth Games 2026, Day 2 Live updates: India's Ashok finished fourth in para powerlifting despite her best efforts. Earlier, RVVBK Budigina and Ali Iman qualified for the final of the 100m Freestyle S13 event, which will take place during the second half of the day. Srihari Natraj, advanced to the semifinals of the 50m men's backstroke. Indian gymnasts are currently in action in men's subdivision 2."
+      "headline": "CWG Day 2 Live: Indian bowlers win two in two, Women para-lifters miss medal Commonwealth Games 2026, Day 2 Live updates: India's Rupa Rani Tirkey and Pinki Singh defeated South Africa 2-0 in the women's pairs, while para powerlifters Jaspreet Kaur and Suman Devi missed out on medals after finishing sixth and seventh, respectively."
     },
     {
       "sentiment": "positive",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/italy-coach-pep-guardiola-carlo-ancelotti-approach-paolo-maldini-2955030-2026-07-24",
-      "headline": "Italy tried to appoint Ancelotti for manager before approaching Guardiola Italy's coaching search began with an ambitious move for Carlo Ancelotti before the FIGC turned to Pep Guardiola after Brazil ruled out the veteran's departure. Paolo Maldini says the federation wanted to start with \"the best in the world.\""
+      "headline": "Italy tried to appoint Ancelotti for manager before approaching GuardiolaItaly's coaching search began with an ambitious move for Carlo Ancelotti before the FIGC turned to Pep Guardiola after Brazil ruled out the veteran's departure. Paolo Maldini says the federation wanted to start with \"the best in the world.\""
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/mirabai-chanu-commonwealth-games-2026-asian-games-90kg-snatch-2955007-2026-07-24",
-      "headline": "No all-out push at CWG 2026: Mirabai Chanu prioritises Asian Games Mirabai Chanu said she will not chase a 90kg snatch at the Commonwealth Games, keeping her build-up intact for the Asian Games. Chanu is aiming to secure her third consecutive gold medal at the CWG."
+      "headline": "No all-out push at CWG 2026: Mirabai Chanu prioritises Asian GamesMirabai Chanu said she will not chase a 90kg snatch at the Commonwealth Games, keeping her build-up intact for the Asian Games. Chanu is aiming to secure her third consecutive gold medal at the CWG."
     },
     {
       "sentiment": "positive",
@@ -465,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-zim-1st-t20i-playing-11-ashok-sharma-debut-mayank-yadav-return-2954441-2026-07-23",
       "headline": "IND vs ZIM: Ashok Sharma earns maiden India cap, Mayank Yadav returns after 21 monthsIND vs ZIM, 1st T20I Playing XIs: Ashok Sharma's impressive rise from IPL sensation to India international continued as the Rajasthan pacer made his T20I debut against Zimbabwe. India also welcomed back express quick Mayank Yadav after a 21-month injury-enforced absence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ashes-schedule-2027-schedule-announced-england-vs-australia-2954378-2026-07-23",
-      "headline": "Ashes 2027 schedule announced, Trent Bridge returns to host series openerThe ECB has scheduled the men's and women's Ashes to run in parallel again in 2027. Trent Bridge and Headingley will serve as the openers for the men's and women's Ashes respectively."
     }
   ],
   "education": [
