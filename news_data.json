@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-hugs-vamshi-paidipally-on-his-birthday-sparks-svc63-excitement-2957678-2026-07-28",
+      "headline": "Salman Khan hugs Vamshi Paidipally on his birthday, sparks SVC63 excitement Actor Salman Khan joined director Vamshi Paidipally's birthday celebration on the sets of SVC63. The viral set photos have intensified excitement over the film and its title announcement."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/riteish-deshmukh-evicts-yogesh-rawat-on-lock-upp-2-over-arrogant-trp-remark-2957631-2026-07-27",
       "headline": "We don't need you: Riteish Deshmukh pulls up Yogesh Rawat on Lock Upp 2 Actor Riteish Deshmukh confronted Lokk Upp 2 contestant Yogesh Rawat after the latter claimed the show's TRP fell following his eviction. The exchange turned Yogesh's comeback episode into a row over responsibility, attitude and credit."
     },
@@ -191,18 +196,33 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-health-update-actor-undergoes-successful-wrist-surgery-begins-recovery-2957239-2026-07-27",
       "headline": "Ram Charan health update: Actor undergoes successful wrist surgery, begins recovery Ram Charan underwent successful right wrist surgery at Ganga Hospital in Coimbatore after the injury worsened during Peddi shooting. He will now undergo rehabilitation and return to work only after medical clearance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/nikhil-chinapa-alliance-eviction-integrity-not-image-conscious-2957210-2026-07-27",
-      "headline": "Alliance's Nikhil Chinapa reacts to 'image-conscious' tag: I care about integrity After his eviction from Alliance, Nikhil Chinapa said he played openly and stood by his integrity. He also said Mini Mathur strengthened his game and hoped a woman would win the show."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-live-updates-july-27-india-medal-tally-weightlifting-gurindervir-tejaswin-sarvesh-2957123-2026-07-27",
+      "headline": "CWG Live: Medal rush for India, para-athletes script historyCommonwealth Games 2026 Live, July 27: Valluri Ajaya Babu put up a sensational display in the men's 79kg weightlifting final to win silver medal. Meanwhile, Sarvesh Kushare wins silver in men's high jump. The 31-year-old national record holder does the country proud. In addition, Sharmila became the first Indian athlete to win a gold medal in para-athletics at the Commonwealth Games. She won gold in women's F57 shot put."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/neet-paper-leak-bill-lok-sabha-debate-om-birla-breaks-deadlock-anti-cheating-2957686-2026-07-28",
+      "headline": "Anti-paper leak Bill to be debated today as Parliament ends week-long deadlockThe Lok Sabha is set to take up the anti-paper leak amendment Bill after Speaker Om Birla's outreach helped break the impasse. The debate comes amid Opposition demands for a statement on police action against protesting students and after Dharmendra Pradhan's resignation."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/uk-news/story/ex-uk-minister-priti-patel-says-nirav-modi-should-be-in-prison-in-india-government-felt-demoralised-working-with-us-2957689-2026-07-28",
+      "headline": "India felt demoralised working with UK, Nirav Modi should be in prison: Ex-ministerPriti Patel, who approved Nirav Modi's extradition order in April 2021 after British courts found a prima facie case against him, said she remains \"appalled and horrified\" that the diamond merchant is still in the UK despite exhausting multiple legal challenges."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/mohammad-irfan-jantar-mantar-cjp-protest-viral-interview-lallantop-rahul-gandhi-meets-2957429-2026-07-27",
       "headline": "Md Irfan, not Dipke, is rare find from CJP stir: Speaks for unheard IndiaAt the CJP protest at Jantar Mantar, hawker Mohammad Irfan stunned The Lallantop's Rajat Pandey with his remarks on democracy, dignity and labour rights. The focus then turned to his life in a Delhi slum and how the unlettered 35-year-old used Google voice command to inform himself on the Constitution, democracy and labour rights."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/neet-ug-paper-leak-protest-meghnad-claims-cjp-abandoned-jantar-mantar-protesters-2957395-2026-07-27",
+      "headline": "CJP leaders partied, volunteers were left abandoned and starving, says activistFollowing Dharmendra Pradhan's resignation, as CJP leaders danced and celebrated the incident as a \"victory\", one of its earliest backers, Meghnad S, accused the leadership of abandoning and starving the very volunteers who kept the month-long protest alive."
     },
     {
       "sentiment": "positive",
@@ -221,13 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/neet-ug-paper-leak-protest-meghnad-claims-cjp-abandoned-jantar-mantar-protesters-2957395-2026-07-27",
-      "headline": "CJP leaders partied, volunteers were left abandoned and starving, says activistFollowing Dharmendra Pradhan's resignation, as CJP leaders danced and celebrated the incident as a \"victory\", one of its earliest backers, Meghnad S, accused the leadership of abandoning and starving the very volunteers who kept the month-long protest alive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-live-updates-july-27-india-medal-tally-weightlifting-gurindervir-tejaswin-sarvesh-2957123-2026-07-27",
-      "headline": "CWG Live, July 27: Sarvesh in high jump medal race, Tejaswin retires hurtCommonwealth Games 2026 Live, July 27: India's Tejaswin Shankar retired hurt after a failed first attempt, while Sarvesh Anil Kushare remains in contention. Ajaya Babu, meanwhile, is in action in men's weightlifting final."
+      "url": "https://www.indiatoday.in/trending-news/story/viral-cjp-content-creators-instagram-suspended-after-soaring-to-635k-followers-2957203-2026-07-27",
+      "headline": "Creator who went viral at CJP protest loses Instagram account with 635K followersDelhi-based content creator Abhinav Bisht's Instagram account was suspended after his CJP protest reels went viral. He has launched a new page which has already racked up 130k followers."
     },
     {
       "sentiment": "positive",
@@ -236,18 +251,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/neet-paper-leak-bill-lok-sabha-debate-om-birla-breaks-deadlock-anti-cheating-2957686-2026-07-28",
-      "headline": "Anti-paper leak Bill to be debated today as Parliament ends week-long deadlockThe Lok Sabha is set to take up the anti-paper leak amendment Bill after Speaker Om Birla's outreach helped break the impasse. The debate comes amid Opposition demands for a statement on police action against protesting students and after Dharmendra Pradhan's resignation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/viral-cjp-content-creators-instagram-suspended-after-soaring-to-635k-followers-2957203-2026-07-27",
-      "headline": "Creator who went viral at CJP protest loses Instagram account with 635K followersDelhi-based content creator Abhinav Bisht's Instagram account was suspended after his CJP protest reels went viral. He has launched a new page which has already racked up 130k followers."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/kerala/story/tg-mohandas-neet-protest-remarks-kerala-aisf-police-complaint-2957553-2026-07-27",
       "headline": "Would have shot them: RSS ideologue's remarks on CJP protesters spark rowTG Mohandas's remarks triggered widespread criticism on social media, with several users accusing the RSS ideologue of advocating violence against protesters, especially women."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-missile-stockpiles-iran-strikes-trump-denies-shortage-blames-biden-ukraine-aid-2957687-2026-07-28",
+      "headline": "Trump says US isn't running out of missiles, blames Biden for Ukraine arms drainDonald Trump rejected reports that US missile shortages had delayed possible strikes on Iran and said supplies remain strong. The dispute has sharpened focus on interceptor stocks, Ukraine aid and the pressure of recent operations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/talking-points/story/gen-z-is-bad-at-digital-hygiene-cjp-protests-show-indian-government-is-worse-2957380-2026-07-27",
+      "headline": "Gen Z is bad at digital hygiene, CJP protests show Indian government is worseCJP protesters might have \"won\" but a close look at the saga makes it clear that neither Gen Z nor the Indian government, as shown by the Bitchat episode, are any good at using tech in a politically-sensitive environment."
     },
     {
       "sentiment": "positive",
@@ -261,18 +276,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/talking-points/story/gen-z-is-bad-at-digital-hygiene-cjp-protests-show-indian-government-is-worse-2957380-2026-07-27",
-      "headline": "Gen Z is bad at digital hygiene, CJP protests show Indian government is worseCJP protesters might have \"won\" but a close look at the saga makes it clear that neither Gen Z nor the Indian government, as shown by the Bitchat episode, are any good at using tech in a politically-sensitive environment."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/madras-hc-cancels-tamil-nadus-jobs-order-for-karur-stampede-victims-families-says-cbi-probe-underway-2957358-2026-07-27",
       "headline": "Blow to Vijay govt, High Court cancels jobs order for Karur victims' familiesOn July 10, Vijay made his first visit to Karur since assuming office and handed over government appointment orders on compassionate grounds to 32 members of the victims' families. Under the relief package, one eligible member from each affected family was offered a government job."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jr-ntr-suffers-shoulder-injury-advised-6-to-8-weeks-rest-as-team-issues-statement-2957585-2026-07-27",
+      "headline": "Jr NTR suffers shoulder injury, advised 6-8 weeks of complete restActor Jr NTR sustained a shoulder injury during an activity and underwent medical evaluation soon after. His team issued a statement regarding the actor's recovery."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/patna-bandh-violence-video-arrested-man-asks-mother-if-she-has-eaten-2957535-2026-07-27",
       "headline": "'Have you eaten?' Patna protester comforts crying mother from police vanA young man arrested in the Patna bandh violence asked his mother if she had eaten and tried to calm her from a prisoner vehicle. The exchange surfaced as police widened their crackdown, with the video drawing wide attention online."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-metro-huskur-road-death-disrupts-yellow-line-services-journalist-suicide-2957692-2026-07-28",
+      "headline": "Former journalist dies after jumping before train at Bengaluru metro stationA 37-year-old former journalist died after an incident on the tracks at Huskur Road Metro station on Monday evening. The case disrupted Yellow Line services for nearly two hours as rescue, clearance and safety checks continued."
     },
     {
       "sentiment": "positive",
@@ -281,8 +301,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jr-ntr-suffers-shoulder-injury-advised-6-to-8-weeks-rest-as-team-issues-statement-2957585-2026-07-27",
-      "headline": "Jr NTR suffers shoulder injury, advised 6-8 weeks of complete restActor Jr NTR sustained a shoulder injury during an activity and underwent medical evaluation soon after. His team issued a statement regarding the actor's recovery."
+      "url": "https://www.indiatoday.in/education-today/news/story/rajesh-gopakumar-iit-jee-air-1-chose-physics-and-became-top-theoretical-physicist-2957433-2026-07-27",
+      "headline": "He was IIT-JEE AIR 1 in 1987, rejected CS, now leads a top research instituteRajesh Gopakumar, the IIT-JEE 1987 AIR 1, chose Physics at IIT Kanpur over engineering. That decision had taken him to Princeton and later took him back to India to lead India's top research institute in Bengaluru."
     },
     {
       "sentiment": "positive",
@@ -296,31 +316,16 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nda-bjp-mangal-milan-meeting-tmc-ncpi-invite-parliamentary-party-2957674-2026-07-27",
-      "headline": "MPs from Trinamool's breakaway faction invited to NDA parliamentary meetIf the NCPI participates, it will mark its first appearance at an NDA Parliamentary Party meeting since 20 breakaway Trinamool Congress (TMC) MPs announced their merger with the little-known party and extended support to the BJP-led alliance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/rajesh-gopakumar-iit-jee-air-1-chose-physics-and-became-top-theoretical-physicist-2957433-2026-07-27",
-      "headline": "He was IIT-JEE AIR 1 in 1987, rejected CS, now leads a top research instituteRajesh Gopakumar, the IIT-JEE 1987 AIR 1, chose Physics at IIT Kanpur over engineering. That decision had taken him to Princeton and later took him back to India to lead India's top research institute in Bengaluru."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bihar-neet-protest-patna-siwan-violence-ak-47-firing-400-arrests-bhagalpur-sitamarhi-2957182-2026-07-27",
-      "headline": "AK-47 fired, 400+ in custody: The fiery protests in Bihar that people missedWhile the nation was fixated on the agitation at New Delhi's Jantar Mantar, Bihar witnessed one of the most violent chapters of the NEET-UG agitation. Dozens of police personnel, including two SPs, were injured, over 400 people were detained, thousands were named in FIRs, and an AK-47 was fired at the crowd. But the scale of the violence drew national attention only two days later."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dharmendra-pradhan-street-fighter-remark-parliament-jairam-ramesh-resignation-2957257-2026-07-27",
-      "headline": "I am a street fighter: Dharmendra Pradhan hits back at Congress MP in ParliamentThe brief exchange with Jairam Ramesh was seen by BJP leaders as a signal that Dharmendra Pradhan remains politically confident despite stepping down from the Cabinet and is ready to take on his next assignment."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/bengal-familys-12-year-wait-for-electricity-ends-in-12-days-after-janata-darbar-plea-2956978-2026-07-27",
       "headline": "Bengal family gets electricity after 12 years, 12 days after Janata Darbar pleaA Purulia family received an electricity connection 12 days after approaching Janata Darbar. The intervention ended a 12-year wait that had disrupted daily life and a child's education."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-sharmila-shotput-f57-para-athletics-gold-medal-shilpa-shyla-drama-bronze-2957697-2026-07-28",
+      "headline": "CWG: Sharmila ends India's 20-year para athletics wait in dramatic double Sharmila Dhankar ended India's 20-year Commonwealth Games para athletics medal wait with a historic shot put gold, while Shilpa Shyla's bronze after a dramatic protest completed India's first-ever double podium finish in the sport at the Games."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/video/mirabai-chanu-exclusive-commonwealth-games-gold-hattrick-asian-games-target-2957676-2026-07-27",
@@ -369,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-live-updates-july-27-india-medal-tally-weightlifting-gurindervir-tejaswin-sarvesh-2957123-2026-07-27",
-      "headline": "CWG Live, July 27: Sarvesh in high jump medal race, Tejaswin retires hurt Commonwealth Games 2026 Live, July 27: India's Tejaswin Shankar retired hurt after a failed first attempt, while Sarvesh Anil Kushare remains in contention. Ajaya Babu, meanwhile, is in action in men's weightlifting final."
+      "headline": "CWG Live: Medal rush for India, para-athletes script history Commonwealth Games 2026 Live, July 27: Valluri Ajaya Babu put up a sensational display in the men's 79kg weightlifting final to win silver medal. Meanwhile, Sarvesh Kushare wins silver in men's high jump. The 31-year-old national record holder does the country proud. In addition, Sharmila became the first Indian athlete to win a gold medal in para-athletics at the Commonwealth Games. She won gold in women's F57 shot put."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/jhandu-kumar-commonwealth-games-2026-bronze-medal-delhi-grand-welcome-india-2957106-2026-07-27",
-      "headline": "Jhandu Kumar returns to hero's welcome in India after historic CWG 2026 bronze Jhandu Kumar returned to Delhi to a rousing welcome after winning bronze in para powerlifting at the Commonwealth Games. The medal opened India's account in Glasgow, even as he spoke of missing gold after a technical error."
+      "headline": "Jhandu Kumar returns to hero's welcome in India after historic CWG 2026 bronzeJhandu Kumar returned to Delhi to a rousing welcome after winning bronze in para powerlifting at the Commonwealth Games. The medal opened India's account in Glasgow, even as he spoke of missing gold after a technical error."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-vs-zimbabwe-teen-star-t20i-sweep-2956890-2026-07-26",
       "headline": "Vaibhav Sooryavanshi basks in double delight after Zimbabwe heroicsVaibhav Sooryavanshi capped a dream Zimbabwe tour by winning the Player of the Match and Player of the Series awards after guiding India to a 3-0 T20I series sweep. The 15-year-old finished with 151 runs, including a match-winning 81, continuing his remarkable rise in 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/mirabai-chanu-commonwealth-games-2026-weightlifting-gold-glasgow-2956866-2026-07-26",
-      "headline": "Mirabai Chanu powers India to 1st CWG 2026 gold with weightlifting three-peatMirabai Chanu delivered on her promise and got India's its first gold medal at the Commonwealth Games 2026 in Glasgow on Sunday, July 26."
     }
   ],
   "education": [
@@ -504,7 +504,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
@@ -552,21 +552,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
       "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
-      "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
-      "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
-      "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     }
   ]
 }
