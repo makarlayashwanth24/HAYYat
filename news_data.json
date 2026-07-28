@@ -2,6 +2,36 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/paytm-payments-bank-winding-up-operations-delhi-high-court-rbi-licence-cancellation-2958113-2026-07-28",
+      "headline": "End of the road for Paytm Payments Bank as court orders winding upThe Delhi High Court has ordered Paytm Payments Bank to be wound up after the RBI cancelled its licence. The move begins formal liquidation and closes a regulatory crackdown that ran for over four years."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/we-are-done-renting-why-go-zero-will-no-longer-hire-influencers-2958094-2026-07-28",
+      "headline": "We are done renting: Why Go Zero will no longer hire influencersShah explained that while the company was running around 30 influencer collaborations at a time, it was difficult to measure the return on the money being spent."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/tata-sons-gets-12-less-in-fy26-biggest-tcs-payout-drop-since-covid-2958070-2026-07-28",
+      "headline": "Tata Sons gets 12% less in FY26: Biggest TCS payout drop since CovidAccording to Tata Sons' annual report, the holding company received Rs 28,291 crore in dividends from TCS in FY26, down 12% from a record Rs 32,184 crore in FY25."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-slips-70-points-nifty-below-24000-it-stocks-cushion-market-fall-tcs-infosys-coforge-rise-2958056-2026-07-28",
+      "headline": "Sensex, Nifty ends marginally lower as IT stocks cushion market fallThe BSE Sensex settled 69.86 points, or 0.09%, lower at 76,765.92, while the NSE Nifty50 slipped 10.60 points, or 0.04%, to close at 23,985.35 after trading above the 24,000 mark during the session."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/changed-jobs-and-yet-to-file-your-itr-heres-everything-you-should-keep-ready-2958037-2026-07-28",
+      "headline": "Changed jobs and yet to file your ITR? Here's everything you should keep readyThink one Form 16 is enough after switching jobs? Not always. Here's a simple checklist to help you file your ITR accurately and on time."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-lpg-imports-us-2027-middle-east-supply-risks-crude-oil-supply-2957995-2026-07-28",
+      "headline": "India plans to source up to 25% of LPG imports from US in 2027India plans to source up to a quarter of its LPG imports from the United States in 2027, according to Reuters. The shift follows supply disruptions in the Middle East and could also support trade talks with Washington."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/new-currency-notes-polymer-banknotes-rbi-trial-centre-clears-rs-10-rs-20-field-test-2957958-2026-07-28",
       "headline": "Centre clears RBI field trial of 2 billion polymer Rs 10, Rs 20 currency notesThe Centre has cleared the RBI's proposal to test 2 billion polymer Rs 10 and Rs 20 notes in field trials. The move keeps paper notes in circulation while assessing durability, costs and any impact on payments."
     },
@@ -69,39 +99,44 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/trading-in-crypto-heres-your-last-minute-itr-checklist-before-july-31-2957308-2026-07-27",
       "headline": "Trading in crypto? Here's your last-minute ITR checklist before July 31If you've bought, sold or traded cryptocurrencies this year, don't rush to file your ITR just yet. A few simple checks now could help you avoid costly mistakes later."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/fssai-orders-pepsi-red-bull-and-others-to-drop-energy-drink-label-in-90-days-2957266-2026-07-27",
-      "headline": "FSSAI orders Pepsi, Red Bull and others to drop 'energy drink' label in 90 daysIndia's energy drinks market has grown rapidly over the past few years, especially after Pepsi introduced Sting in 2017. The affordable drink became popular among teenagers and young adults, as well as consumers in rural areas."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/market-closing-bell-sensex-ends-776-points-higher-nifty-nears-24000-it-stocks-rally-crude-oil-below-usd-88-2957256-2026-07-27",
-      "headline": "Sensex ends 776 points higher, Nifty nears 24,000; IT stocks rallyThe BSE Sensex climbed 776.01 points, or 1.02%, to close at 76,835.78, while the NSE Nifty50 gained 228.50 points, or 0.96%, to settle at 23,995.95."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rust-in-india-corrosion-costs-economy-rs-14-lakh-crore-a-year-nomura-report-2957223-2026-07-27",
-      "headline": "India's hidden Rs 14 lakh crore problem: How rust is hurting the economyA Nomura report says corrosion is costing India about Rs 14.15 lakh crore a year across key sectors. It says stronger, climate-specific protection standards could lift productivity and improve asset safety."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/rs-5000-penalty-and-more-heres-what-happens-if-you-miss-july-31-itr-deadline-2957191-2026-07-27",
-      "headline": "Rs 5,000 penalty and more: Here's what happens if you miss July 31 ITR deadlineThinking of filing your ITR after July 31? Are you aware of the penalties, interest and other setbacks that may follow? Let's have a look."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/bank-of-baroda-data-leak-online-1-tb-is-your-money-safe-what-customers-should-do-now-2957190-2026-07-27",
-      "headline": "Bank of Baroda data leak: If you are a BoB customer, here are 10 things to knowReports say nearly 1TB of Bank of Baroda customer-linked data has surfaced online, and the bank is investigating the claims. Experts say the bigger immediate risk is phishing, urging customers to tighten security and stay alert."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/why-idfc-first-bank-shares-are-soaring-over-5-today-2957160-2026-07-27",
-      "headline": "Why IDFC First Bank shares are soaring over 5% todayIDFC First Bank reported a profit after tax (PAT) of Rs 1,075 crore for the June quarter, its highest-ever quarterly profit."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-traitors-2-shweta-tiwari-fukra-insaan-kullu-karan-johar-show-2958077-2026-07-28",
+      "headline": "The Traitors 2 confirmed list: Shweta Tiwari, Fukra Insaan, Kullu in KJo's show Karan Johar has unveiled the first promo of The Traitors 2 as fresh contestant names emerge. The line-up widens the celebrity mix for another season built on strategy and deception."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/spider-man-brand-new-day-first-reviews-call-tom-hollands-film-a-marvel-reset-2958088-2026-07-28",
+      "headline": "Spider-Man: Brand New Day first reviews call Tom Holland's film a Marvel reset Spider-Man: Brand New Day's first reviews are in, and critics are calling it the much-needed Marvel reset fans have been waiting for. From Tom Holland's best performance yet to a grounded, emotional story, here's why the film is winning over reviewers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rs-134-crore-5-days-vijays-jana-nayagan-is-hit-but-not-historic-his-last-5-films-2957918-2026-07-28",
+      "headline": "Rs 134 crore, 5 days: Vijay's Jana Nayagan is hit but not historic. His last 5 films Vijay's Jana Nayagan has collected Rs 134.90 crore nett in India in its first five days, emerging as the actor's third-biggest five-day performer despite a piracy setback ahead of its release. But has it lived up to the enormous expectations surrounding Vijay's final film?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/spider-man-exclusive-tom-holland-recalls-feeling-left-out-by-zendaya-and-jacob-batalon-2958046-2026-07-28",
+      "headline": "Spider-Man Exclusive: Tom Holland recalls feeling 'left out' by Zendaya and Jacob Tom Holland told India Today that playing an isolated Peter Parker in Spider-Man: Brand New Day felt different, but not emotionally taxing. The actor joked he felt left out while Zendaya and Jacob Batalon had fun filming together."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anna-konidala-pawan-kalyan-wife-legal-name-request-2958017-2026-07-28",
+      "headline": "Not Anna Lezhneva: Pawan Kalyan's Russian-born wife says, 'Call me Anna Konidala' Anna Lezhneva said in an Instagram post that she has been Anna Konidala since marrying Pawan Kalyan in 2013. Shared ahead of her birthday, she requested everyone to address her by her real name."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/batwara-1947-trailer-launch-sunny-deol-rajkumar-santoshi-reunion-first-film-with-shabana-azmi-2957994-2026-07-28",
+      "headline": "Sunny Deol tears up at Batwara 1947 trailer launch: Here's what moved him Actor Sunny Deol became emotional while speaking at the trailer launch of Batwara 1947. The film, directed by Rajkumar Santoshi, is set against the Partition and features Shabana Azmi, Preity Zinta and Ali Fazal."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/tiger-shroff-professional-footballer-dream-may-come-true-mumbay-fc-durand-cup-2957948-2026-07-28",
+      "headline": "Tiger Shroff wanted to be a professional footballer. Now, that dream may come true After 14 films and a career spanning 12 years, actor Tiger Shroff is set to fulfil his long-time football dream with Mumbay FC in the Durand Cup. Here's how the actor's passion for the sport and years of training brought him to this point."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/batwara-1947-trailer-sunny-deol-shabana-azmi-partition-human-cost-2957976-2026-07-28",
@@ -135,7 +170,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-fan-flirting-video-father-of-two-comment-deepika-padukone-second-pregnancy-2957886-2026-07-28",
-      "headline": "Woman flirts with Ranveer, he reminds her he's 'father of two' in playful exchange Actor Ranveer Singh playfully told a flirting fan he was about to be a father of two at a recent promotional event. The remark gained traction online as he and his actor-wife Deepika Padukone await their second child."
+      "headline": "Woman flirts with Ranveer, he reminds her he'll soon be 'father of two'. Video Actor Ranveer Singh playfully told a flirting fan he was about to be a father of two at a recent promotional event. The remark gained traction online as he and his actor-wife Deepika Padukone await their second child."
     },
     {
       "sentiment": "positive",
@@ -161,58 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-shares-malti-marie-watching-gunday-song-during-hyderabad-shoot-2957795-2026-07-28",
       "headline": "Priyanka Chopra's little fan Malti watches Tune Maari Entriyaan song at Home Actor Priyanka Chopra shared a picture of daughter Malti Marie watching her song Tune Maari Entriyaan. The post offered a personal glimpse into her family time in Hyderabad during the Varanasi shoot."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/tribeca-festival-data-leak-jennifer-lawrence-robert-de-niro-contacts-exposed-2957790-2026-07-28",
-      "headline": "Tribeca Festival data leak exposed Jennifer Lawrence, Robert De Niro contacts A reported Tribeca Festival data leak exposed hundreds of thousands of records, including celebrity-linked contacts. The festival disputed that stars' personal details were revealed, while the researcher warned of phishing risks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-box-office-collection-day-5-vijay-film-sees-steep-monday-drop-after-rs-200-crore-run-2957744-2026-07-28",
-      "headline": "Jana Nayagan box office Day 5: Vijay film sees 68% drop after Rs 200-crore run Tamil Nadu Chief Minister Vijay's Jana Nayagan earned Rs 10.15 crore nett in India on its first Monday. The fall from Sunday still pushed Vijay's final film past Rs 230 crore worldwide in five days."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-deleted-scenes-vijay-h-vinoth-youtube-release-2957755-2026-07-28",
-      "headline": "Jana Nayagan director confirms plans for six deleted scenes, but not just yet Director H Vinoth said six deleted scenes from Vijay's Jana Nayagan may be released from next week. With fresh censor clearance needed for theatres, the footage is more likely to reach YouTube."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/indias-got-latent-season-2-bonus-episode-samay-raina-raghav-juyal-members-only-munawar-faruqui-2957729-2026-07-28",
-      "headline": "Raghav Juyal, Munawar Faruqui's Latent episode leaked? Here's the truth Comedian Samay Raina unveiled a members-only bonus episode of India's Got Latent Season 2 featuring Raghav Juyal, Munawar Faruqui, Niharika NM and Rohan Joshi. Clips from the episode have gone viral."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-is-wild-unapologetic-and-will-blow-everybodys-mind-yash-at-comic-con-2957719-2026-07-28",
-      "headline": "Toxic is wild, unapologetic and will blow everybody's mind: Yash at Comic-Con At San Diego Comic-Con, Yash spoke about Toxic while promoting Ramayana. He said the film's action is driven by emotion and will leave audiences stunned."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/ram-kapoor-lock-upp-father-cancer-relapse-final-wish-2957706-2026-07-28",
-      "headline": "Helped my father plan his death: Ram Kapoor's emotional Lock Upp revelation Actor Ram Kapoor left everyone emotional on Lock Upp Season 2 after revealing that he helped his father through his final moments when the latter chose not to fight relapsed pancreatic cancer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/isha-rikhi-badshah-marriage-rumours-actor-speaks-on-fear-silence-and-survival-2957700-2026-07-28",
-      "headline": "Felt overwhelmed by husband's power: Badshah's wife Isha Rikhi amid split rumours Actor Isha Rikhi shared an emotional Instagram note amid speculation around her marriage to rapper Badshah. In her post, Rikhi reflected on her battles and wrote about choosing \"courage over fear\"."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-2026-live-updates-paper-leak-bill-debate-rajya-sabha-lok-sabha-2957708-2026-07-28",
-      "headline": "Live: NTA chief linked to Sangh, that's why he is being saved, says Gaurav GogoiParliament Monsoon Session Live Updates: After six consecutive days of disruptions over the NEET exam controversy and police action against student protesters, Parliament on Tuesday took up the Anti-Paper Leak Bill in the Lok Sabha. The Opposition agreed to participate in the debate after Speaker Om Birla reached out to floor leaders to break the deadlock. The Lok Sabha has allotted at least six hours for debate on the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026, while the Rajya Sabha is also expected to witness intense deliberations on the legislation. Stay tuned to IndiaToday.in for the latest updates from the Monsoon Session of Parliament."
+      "headline": "Live: Priyanka Gandhi should apologise, says govt over remarks on Pralhad JoshiParliament Monsoon Session Live Updates: After six consecutive days of disruptions over the NEET exam controversy and police action against student protesters, Parliament on Tuesday took up the Anti-Paper Leak Bill in the Lok Sabha. The Opposition agreed to participate in the debate after Speaker Om Birla reached out to floor leaders to break the deadlock. The Lok Sabha has allotted at least six hours for debate on the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026, while the Rajya Sabha is also expected to witness intense deliberations on the legislation. Stay tuned to IndiaToday.in for the latest updates from the Monsoon Session of Parliament."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/case-made-out-of-high-powered-probe-sc-issues-interim-orders-on-pleas-against-action-on-student-protesters-2957888-2026-07-28",
-      "headline": "Release minors, those without criminal past: SC's big order on student protestersThe Supreme Court ordered that no coercive action be taken in connection with any FIRs lodged against the students involved in the Cockroach Janta Party-led protests in Jantar Mantar and other states."
+      "url": "https://www.indiatoday.in/world/story/pok-news-pakistan-occupied-kashmir-election-day-protests-police-firing-jaac-pakistan-news-2958011-2026-07-28",
+      "headline": "Mayhem in POK: 14 killed in police firing during march on election dayViolence erupted in Pakistan-Occupied Kashmir as the outlawed JAAC activists clashed with security forces during a long march on the day the region went to the polls. The JAAC alleged that indiscriminate firing by security personnel killed at least 14 of its members. The authorities disputed the claims and said the casualties could not be verified."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mohammad-irfan-cjp-protest-rahul-gandhi-meeting-pm-modi-education-labourers-2957850-2026-07-28",
-      "headline": "Will oppose you too: What CJP protest sensation Md Irfan told Rahul GandhiMohammad Irfan, a hawker, became an unlikely internet sensation after videos of him at the Cockroach Janta Party protest went viral. In a wide-ranging interview with The Lallantop, Irfan opened up about his interaction with Rahul Gandhi and why he would first meet Amit Shah before PM Modi."
+      "url": "https://www.indiatoday.in/india/story/you-saved-a-pradhan-mantri-by-removing-a-pradhan-akhilesh-yadavs-jibe-in-parliament-2958020-2026-07-28",
+      "headline": "You saved Pradhan Mantri by removing Pradhan: Akhilesh Yadav's jibe in Parliament  Live updatesTaking a dig at the government, SP chief Akhilesh Yadav said the Centre \"saved the Pradhan Mantri by removing a Pradhan\", linking former Education Minister Dharmendra Pradhan's resignation to the NEET paper leak protests."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/padilla-bill-green-card-path-h1b-long-term-us-residents-ptag-2957869-2026-07-28",
+      "headline": "US lawmaker revives bill offering Green Card pathway for H-1B visa holdersCalifornia Senator Alex Padilla renewed his push for a Bill that would allow more than eight million long-term US residents, including H-1B visa holders, to apply for green cards after seven years of continuous residence."
     },
     {
       "sentiment": "positive",
@@ -221,88 +226,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/cjp-protest-pakistan-news-dharmendra-pradhan-resignation-news-balochistan-news-pok-protests-2957230-2026-07-28",
-      "headline": "Why Pak can't have its own Gen Z movement; FOMO grips its FOMO generationIndia's Gen Z protests are the latest in a series of youth-led movements that have shaken governments across South Asia. But despite facing many of the same pressures, Pakistan has remained conspicuously absent from the region's wave of student-driven political upheavals."
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-live-updates-july-28-india-medal-tally-boxing-weightlifting-jadumani-2957983-2026-07-28",
+      "headline": "CWG Live, July 28: Nataraj qualifies for swimming semis, Vishal into 400m semisCommonwealth Games 2026 Live, July 28: India's Vishal TK advanced to the 400m semifinals. Srihari Natraj also went through to the men's 100m backstroke. Karthik Budigina and Ali Imam made their way through to the final of the men's 50m freestyle S13 event. irupama Devi Seram will take part in India's first medal event of the day in 63kg final in weightlifting."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/gitanjali-angmo-sanatana-dharma-posts-row-interview-subramanian-swamy-aisf-left-sonam-wangchuk-2957956-2026-07-28",
+      "headline": "Sonam Wangchuk's wife triggers Sanatana Dharma debate, critics play old interviewX posts by Gitanjali Angmo, wife of activist Sonam Wangchuk, invoking Sanatana Dharma to praise Gen Z protesters triggered a political row. Wangchuk had been the face of the CJP protest. The backlash against Angmo intensified with critics circulating clips of an interview with her views about secularism and Hindu Rashtra."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-effect-reservation-hatao-copycat-campaigns-2958102-2026-07-28",
+      "headline": "CJP effect? Reservation Hatao has 5.6 mn followers. Copycat campaigns riseFollowing the rise of the Cockroach Janta Party, Reservation Hatao Andolan has rapidly gained traction online with its campaign against caste-based reservation. It is just one of several issue-based campaigns that have sprouted online."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/meet-iit-kanpur-professor-hc-verma-who-changed-how-millions-learned-physics-2957858-2026-07-28",
+      "headline": "HC Verma didn't ask why students were failing. He asked why physics was failing themHC Verma's journey proves that great education begins with understanding how students learn, not just what they learn. By writing Concepts of Physics, he transformed physics education in India, helping millions of JEE and NEET aspirants replace fear with confidence and curiosity."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/johnson-and-johnson-5-5-billion-baby-powder-cancer-lawsuit-settlement-2957827-2026-07-28",
       "headline": "Johnson & Johnson to pay $5.5 billion to settle baby powder cancer lawsuitsJohnson & Johnson has agreed to a proposed $5.5 billion deal to settle about 76,000 baby powder ovarian cancer claims in the United States. The agreement could close a decade-long talc litigation battle if 95% of claimants accept it."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/padilla-bill-green-card-path-h1b-long-term-us-residents-ptag-2957869-2026-07-28",
-      "headline": "US lawmaker revives bill offering Green Card pathway for H-1B visa holdersCalifornia Senator Alex Padilla renewed his push for a Bill that would allow more than eight million long-term US residents, including H-1B visa holders, to apply for green cards after seven years of continuous residence."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/karnataka/story/bagalkot-woman-murder-husband-filmed-final-moments-called-parents-2957961-2026-07-28",
-      "headline": "Karnataka man hangs wife, video-calls her parents, forces them to watch her dieThe accused assaulted his wife with a wooden stick before hanging her at their home, then video-called her parents, forcing them to witness their daughter's final moments, and recorded the incident to later share the clip with relatives, police said."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-war-pakistan-news-saudi-pakistan-mutual-defence-pact-kuwait-defence-deal-islamabad-2957465-2026-07-28",
-      "headline": "Battered by Iran, Kuwait looks to join Pakistan's Nato-like deal with Saudi ArabiaA year after Islamabad and Riyadh signed a Nato-like mutual defence pact, Kuwait is exploring a similar arrangement with Pakistan. But fears of being dragged into the US-Iran War could limit Pakistan's willingness to extend its security commitments in the Middle East."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dharmendra-pradhan-resignation-cjp-rejects-centre-offer-on-ministry-change-2957751-2026-07-28",
-      "headline": "Baseless: BJP rejects report that govt proposed middle ground to CJP on PradhanReports had claimed that the Centre offered the CJP a change in Dharmendra Pradhan's portfolio instead of his removal, but BJP spokesperson Sambit Patra rejected the claim as \"baseless, imaginary and unfounded\". Earlier accounts said the CJP had refused to accept any alternative to Pradhan's resignation, including a change of portfolio."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/heavy-rain-today-two-giant-monsoon-systems-to-collide-over-india-see-satellite-pics-imd-isro-2957363-2026-07-28",
-      "headline": "Heavy rain alert: Two giant monsoon systems to collide over India. See picsA monsoon circulation over the Tibetan Plateau is interacting with a deep depression from the Bay of Bengal. The alignment is expected to widen heavy rain and thunderstorm activity while raising flood risks in vulnerable areas."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/jantar-mantar-protest-up-professor-alleges-fired-by-bareilly-college-2957855-2026-07-28",
-      "headline": "UP assistant professor alleges he was fired for joining Jantar Mantar protestCommerce faculty member at a Bareilly college claims he was terminated a day after returning from the student protest in Delhi; college management cites repeated complaints and warns against political activities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/ram-kapoor-lock-upp-controversy-shreya-kalra-farah-khan-silence-2957847-2026-07-28",
-      "headline": "Ram Kapoor made women uncomfortable on Lock Upp. Why is Farah Khan silent?On Lock Upp: Sach Ya Sazaa, Shreya Kalra and Apoorva Makhija voiced discomfort over Ram Kapoor's behaviour. The show's silence, despite repeated incidents on screen, has sharpened questions around consent and accountability."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-reaction-cockroach-janta-party-celebration-videos-viral-2957758-2026-07-28",
-      "headline": "What Sonam Wangchuk said on Cockroach Janta Party's viral celebration videosActivist Sonam Wangchuk called on supporters to celebrate \"with dignity, restraint, and responsibility,\" adding that maintaining respect and humility is as important as achieving success."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/saransh-jain-india-vs-sri-lanka-maiden-test-call-up-domestic-cricket-2957814-2026-07-28",
-      "headline": "Who is Saransh Jain, the 33-year-old who finally earned an India Test call-up?India have rewarded years of domestic excellence by handing Saransh Jain his maiden Test call-up at the age of 33. Here's everything you need to know about the Madhya Pradesh all-rounder and the journey that brought him to the national team."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/bank-of-baroda-data-leak-if-you-are-bob-account-holder-dont-worry-here-are-5-things-you-must-know-2957457-2026-07-28",
-      "headline": "Bank of Baroda data leak: 5 things to know if you are BoB userBank of Baroda has been hacked, and data of thousands if not lakhs of customers is now available online for free. But if you are a Bank of Baroda customer, don't worry, here are 5 things that you should know about this data breach."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/batwara-1947-trailer-sunny-deol-shabana-azmi-partition-human-cost-2957976-2026-07-28",
-      "headline": "Batwara 1947 trailer: Sunny Deol, Shabana Azmi explore the human cost of PartitionThe trailer of Batwara 1947 introduces a family torn apart by Partition-era violence and displacement. It emphasises the human cost of 1947 through resilience, compassion and separation. The film stars Shabana Azmi, Sunny Deol and Preity Zinta."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/tiger-shroff-mumbay-fc-durand-cup-2957895-2026-07-28",
-      "headline": "Tiger Shroff named in Durand Cup squad, likely to make professional debutTiger Shroff could be set to make his professional football debut at the Durand Cup. The actor has been named in Mumbay FC's squad for the tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/meta-apologises-for-brief-removal-of-pm-modis-selfie-video-govt-likely-to-summon-officials-2957818-2026-07-28",
-      "headline": "Meta apologises for brief removal of PM's selfie video; govt summons global headSources said the government is taking the brief disappearance of PM Modi's selfie-style video from Facebook \"very seriously\" and has already sent summons to the global heads of Meta and Instagram."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bihar-man-brings-live-cobra-that-bit-him-to-hospital-chaos-follows-2957967-2026-07-28",
-      "headline": "Bihar man brings live cobra that bit him to hospital. Chaos followsA man reached a hospital in Bihar carrying the live baby cobra that had bitten him. The incident sparked panic inside the ward and prompted doctors to warn people."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/sharmila-dhankar-cwg-bronze-domestic-abuse-womens-shot-put-glasgow-2957972-2026-07-28",
-      "headline": "Sharmila Dhankar, once victim of domestic abuse, now has a CWG bronzeSharmila Dhankar's CWG bronze is more than a sporting milestone. It is the story of a woman who overcame childhood polio and domestic abuse to rewrite her life through para athletics."
     },
     {
       "sentiment": "positive",
@@ -311,16 +256,81 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/71-magnitude-earthquake-strikes-japan-tsunami-warning-issued-2957929-2026-07-28",
-      "headline": "7.1-magnitude earthquake jolts Japan; several injured, buildings collapseA powerful 7.1-magnitude earthquake struck Japan's southern Kumamoto region on Tuesday, leaving several people injured and collapsing many buildings."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/batwara-1947-trailer-sunny-deol-shabana-azmi-partition-human-cost-2957976-2026-07-28",
+      "headline": "Batwara 1947 trailer: Sunny Deol, Shabana Azmi explore the human cost of PartitionThe trailer of Batwara 1947 introduces a family torn apart by Partition-era violence and displacement. It emphasises the human cost of 1947 through resilience, compassion and separation. The film stars Shabana Azmi, Sunny Deol and Preity Zinta."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-shooting-pul-prahladpur-mohammad-irshad-alam-killed-farooq-injured-2957954-2026-07-28",
-      "headline": "Delhi man's throat slit, then shot dead; attackers flee after spraying bulletsA late-night attack in Delhi's Pul Prahladpur area left Mohammad Irshad Alam dead and Mohammad Farooq injured. Police have launched a manhunt for the assailants."
+      "url": "https://www.indiatoday.in/india/story/bihar-nalanda-man-drags-girlfriend-on-bike-after-marriage-dispute-video-2958115-2026-07-28",
+      "headline": "Video: Man drags girlfriend on bike after she forces him to marry, beaten by localsA shocking video from Bihar's Nalanda has gone viral, showing a woman screaming for help as she is dragged for nearly 100 metres by a moving motorcycle driven by her boyfriend after she insisted that he marry her following their five-year relationship, a demand he refused."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/mohammad-irfan-jantar-mantar-lallantop-cjp-protest-viral-clip-rajdeep-sardesai-interview-2957933-2026-07-28",
+      "headline": "Not Irfan, but Mohammad Irfan: I will have to speak the truth with this nameFor Mohammad Irfan, insisting on his full name wasn't about religion. It was about acknowledging the reality he believes shapes how his words are received. The hawker from the CJP protest site who has gone viral explains why speaking the truth is inseparable from the identity he carries."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/features/story/bank-of-baroda-data-leak-if-you-are-bob-account-holder-dont-worry-here-are-5-things-you-must-know-2957457-2026-07-28",
+      "headline": "Bank of Baroda data leak: 5 things to know if you are BoB userBank of Baroda has been hacked, and data of thousands if not lakhs of customers is now available online for free. But if you are a Bank of Baroda customer, don't worry, here are 5 things that you should know about this data breach."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/jantar-mantar-protest-up-professor-alleges-fired-by-bareilly-college-2957855-2026-07-28",
+      "headline": "UP assistant professor alleges he was fired for joining Jantar Mantar protestCommerce faculty member at a Bareilly college claims he was terminated a day after returning from the student protest in Delhi; college management cites repeated complaints and warns against political activities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-war-pakistan-news-saudi-pakistan-mutual-defence-pact-kuwait-defence-deal-islamabad-2957465-2026-07-28",
+      "headline": "Battered by Iran, Kuwait looks to join Pakistan's Nato-like deal with Saudi ArabiaA year after Islamabad and Riyadh signed a Nato-like mutual defence pact, Kuwait is exploring a similar arrangement with Pakistan. But fears of being dragged into the US-Iran War could limit Pakistan's willingness to extend its security commitments in the Middle East."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/case-made-out-of-high-powered-probe-sc-issues-interim-orders-on-pleas-against-action-on-student-protesters-2957888-2026-07-28",
+      "headline": "Release minors, those without criminal past: SC's big order on student protestersThe Supreme Court ordered that no coercive action be taken in connection with any FIRs lodged against the students involved in the Cockroach Janta Party-led protests in Jantar Mantar and other states."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/karnataka/story/bagalkot-woman-murder-husband-filmed-final-moments-called-parents-2957961-2026-07-28",
+      "headline": "Karnataka man hangs wife, video-calls her parents, forces them to watch her dieThe accused assaulted his wife with a wooden stick before hanging her at their home, then video-called her parents, forcing them to witness their daughter's final moments, and recorded the incident to later share the clip with relatives, police said."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/arpita-mehtas-icw-debut-collection-is-built-for-the-whole-bridal-gang-not-just-the-bride-2958034-2026-07-28",
+      "headline": "Arpita Mehta's ICW debut collection is built for the whole bridal gang, not just the brideAt Hyundai India Couture Week 2026, designer Arpita Mehta presented her debut couture collection and reintroduced Indian ceremonial dressing as something you live in, not something you admire from a distance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/updated-2026-toyota-hilux-to-be-launched-today-price-features-engine-and-more-2957863-2026-07-28",
+      "headline": "Updated 2026 Toyota Hilux to be launched today: Price, features, engine and moreToyota is set to launch the updated 2026 Hilux in India today with a refreshed design, upgraded cabin, new technology and the possibility of a 48V mild-hybrid diesel powertrain, while retaining its rugged off-road credentials."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/china-manufacturing-world-share-28-percent-india-global-manufacturing-share-3-2957943-2026-07-28",
+      "headline": "China accounts for 28% of global manufacturing. Where does India rank?More than one in every four manufactured goods produced globally now comes from China, underlining the country's dominance in sectors ranging from electronics and electric vehicles to industrial machinery."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/zinedine-zidane-france-new-coach-four-year-contract-world-cup-2958007-2026-07-28",
+      "headline": "Zinedine Zidane announced as France coach, begins new era after Deschamps exitAfter years of speculation, Zinedine Zidane has finally taken charge of the France national team. The World Cup winner and Real Madrid great now begins his biggest challenge yet\u2014bringing another major trophy home for Les Bleus."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/taiwan-raids-nvidia-office-detains-employee-in-china-ai-chip-smuggling-case-2958083-2026-07-28",
+      "headline": "Taiwan raids Nvidia office, detains employee in China AI chip smuggling caseTaiwanese prosecutors detained an Nvidia employee after raiding his home and workplace in Taipei as part of an alleged AI chip smuggling investigation."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/zinedine-zidane-france-new-coach-four-year-contract-world-cup-2958007-2026-07-28",
+      "headline": "Zinedine Zidane announced as France coach, begins new era after Deschamps exit After years of speculation, Zinedine Zidane has finally taken charge of the France national team. The World Cup winner and Real Madrid great now begins his biggest challenge yet\u2014bringing another major trophy home for Les Bleus."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/southern-brave-hemang-badani-the-hundred-2026-delhi-capitals-pressure-2957998-2026-07-28",
+      "headline": "Hemang Badani can't catch a break as Southern Brave makes horror Hundred start Hemang Badani's difficult run as head coach has continued after Delhi Capitals-owned Southern Brave lost their first three matches of The Hundred 2026, leaving them seventh in the standings."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/sharmila-dhankar-cwg-bronze-domestic-abuse-womens-shot-put-glasgow-2957972-2026-07-28",
@@ -329,7 +339,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-live-updates-july-28-india-medal-tally-boxing-weightlifting-jadumani-2957983-2026-07-28",
-      "headline": "CWG Live, July 28: Boxers, weightlifters continue medal charge Commonwealth Games 2026 Live, July 28: India's medal charge yesterday got them to 10 in this edition's CWG in Glasgow. Tuesday offers India more opportunities to increase their medal tally. Boxers and weightlifters will be in focus, with the action beginning at 3:30 pm."
+      "headline": "CWG Live, July 28: Nataraj qualifies for swimming semis, Vishal into 400m semis Commonwealth Games 2026 Live, July 28: India's Vishal TK advanced to the 400m semifinals. Srihari Natraj also went through to the men's 100m backstroke. Karthik Budigina and Ali Imam made their way through to the final of the men's 50m freestyle S13 event. irupama Devi Seram will take part in India's first medal event of the day in 63kg final in weightlifting."
     },
     {
       "sentiment": "positive",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-squad-sri-lanka-test-tour-bumrah-injury-sai-sudharsan-2957764-2026-07-28",
-      "headline": "No Nitish, Harshit as injury-marred India name Test squad vs Sri Lanka An injury-marred Indian team have named their Test squad for the 2-match Test series against Sri Lanka. India are without several of their regulars, while many in the existing squad await fitness clearance."
+      "headline": "No Nitish, Harshit as injury-marred India name Test squad vs Sri LankaAn injury-marred Indian team have named their Test squad for the 2-match Test series against Sri Lanka. India are without several of their regulars, while many in the existing squad await fitness clearance."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/tejaswin-shankar-knee-injury-glasgow-high-jump-withdrawal-2957759-2026-07-28",
-      "headline": "Tejaswin Shankar out of Glasgow high jump after knee injury Tejaswin Shankar broke down in tears after a knee injury ruled him out of the men's high jump final. The Birmingham 2022 bronze medallist had arrived in Glasgow believing he could win gold. Instead, his Commonwealth Games campaign was over after just one jump."
+      "headline": "Tejaswin Shankar out of Glasgow high jump after knee injuryTejaswin Shankar broke down in tears after a knee injury ruled him out of the men's high jump final. The Birmingham 2022 bronze medallist had arrived in Glasgow believing he could win gold. Instead, his Commonwealth Games campaign was over after just one jump."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-rohit-sharma-shubman-gill-farokh-engineer-odi-call-2957098-2026-07-27",
       "headline": "Vaibhav Sooryavanshi should open with Rohit Sharma in ODIs, Gill at 4: Ex-India starFarokh Engineer has backed 15-year-old Vaibhav Sooryavanshi to open with Rohit Sharma in India's ODI side. He said the move could sharpen India's build-up to the 2027 World Cup while allowing Shubman Gill to strengthen the middle order."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/yash-dayal-chhattisgarh-domestic-season-up-suspension-legal-pocso-cases-2957066-2026-07-27",
-      "headline": "Yash Dayal switches to Chhattisgarh for domestic season amid ongoing POCSO caseYash Dayal is set to restart his domestic career with Chhattisgarh after leaving Uttar Pradesh, with the move coming as criminal proceedings against the fast bowler continue. The left-arm pacer has already joined his new state's pre-season camp ahead of the 2026-27 domestic campaign."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-gianni-infantino-criticism-hits-back-instagram-post-2957047-2026-07-27",
-      "headline": "FIFA president Gianni Infantino blasts World Cup critics in 15-page noteFIFA president Gianni Infantino has hit back at critics following the 2026 World Cup, urging them to \"pray or watch football\" instead of spreading negativity. The FIFA chief defended the tournament's legacy despite a series of controversies on and off the pitch."
     }
   ],
   "education": [
