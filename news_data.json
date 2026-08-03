@@ -2,6 +2,26 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/mv-electrosystems-ipo-vs-juniper-green-energy-ipo-subscription-gmp-key-risks-2962019-2026-08-03",
+      "headline": "Two IPOs close today: Why MV Electrosystems is outshining Juniper GreenWhile the Rs 290-crore MV Electrosystems IPO has witnessed strong demand across investor categories, the much larger Rs 1,800-crore Juniper Green Energy IPO is yet to receive full subscription, highlighting the contrasting sentiment towards the two public issues."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/oil-gas-companies-45-billion-q2-profits-oxfam-heatwaves-emissions-2961946-2026-08-03",
+      "headline": "Oil and gas giants eye bigger profits as their emissions worsen heatwavesBig Oil is set to pocket $45 billion in profits in the April-June quarter, even as new analysis links the historical emissions of major oil giants to conditions behind roughly one in four global heatwaves since 2000. As temperatures soar and profits surge, experts weigh who should bear the cost of a warming planet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/juniper-green-ipo-closes-today-key-risks-gmp-price-band-subscription-view-2961974-2026-08-03",
+      "headline": "Juniper Green closes today: Should you subscribe? Here are the key risksThe IPO is entirely a fresh issue of 8 crore equity shares priced between Rs 214 and Rs 225 apiece. At the upper end of the price band, a retail investor needs to invest at least Rs 14,850 for one lot of 66 shares."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/from-godrej-steel-lockers-to-sips-how-indias-first-salary-story-has-changed-2961970-2026-08-03",
+      "headline": "From Godrej lockers to SIPs: How India's first salary story has changedEvery first salary comes with a story, but those stories have changed with time. From Godrej lockers to SIPs, how have India's money habits evolved over the decades? Let's find out here."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/capital-one-trump-organization-accounts-closed-after-aml-review-bank-tells-court-2961963-2026-08-03",
       "headline": "Closed Trump Organisation accounts after anti-money laundering probe: Capital OneCapital One has told a federal court it closed more than 300 Trump Organisation accounts after an anti-money laundering review. The filing places the dispute at the centre of a wider US row over alleged politically motivated debanking."
     },
@@ -79,29 +99,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/why-it-stocks-are-falling-today-tcs-infosys-hcltech-ai-rally-profit-booking-2960314-2026-07-31",
       "headline": "TCS, Infosys, HCLTech fall up to 4%: Why IT stocks are under pressure todayThe Nifty IT index had rallied sharply over the past five sessions as investors rotated into Indian technology services companies amid a selloff in AI-linked semiconductor and hardware stocks globally."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/pwc-ai-reports-fabricated-citations-big-four-scrutiny-artificial-intelligence-adoption-kpmg-ey-deloitte-2960306-2026-07-31",
-      "headline": "Big Four's AI troubles grow as PwC joins KPMG, EY in latest blunderPwC Middle East has come under scrutiny after an investigation found fabricated citations, broken links and doubtful references in its research reports. The findings deepen concerns over how major consulting firms are checking AI-generated material before publication."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-opening-bell-sensex-nifty-flat-bajaj-finance-bajaj-finserv-rally-it-stocks-fall-2960307-2026-07-31",
-      "headline": "Sensex, Nifty trade flat as Bajaj twins rally; IT stocks snap winning streakAt 9:21 am, the BSE Sensex was up 19.50 points, or 0.03%, at 77,947.65, while the NSE Nifty50 gained 26.70 points, or 0.11%, to trade at 24,343.85."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/indian-consumers-global-payouts-class-action-gaps-compensation-india-johnson-and-johnson-apple-2960289-2026-07-31",
-      "headline": "Johnson & Johnson ready to pay billions in US. Why doesn't same happen in India?Global companies often pay large overseas settlements, but Indian consumers rarely receive similar compensation. Experts say weaker collective redress, modest damages and procedural hurdles limit relief in India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/rbi-bank-deposit-rates-rules-bulk-deposit-rates-public-10-am-october-1-2026-2960259-2026-07-31",
-      "headline": "RBI changes the rules on bank deposit rates: What it means for you from October 1The Reserve Bank of India has changed deposit rate rules from October 1, 2026. The move makes bulk deposit pricing more transparent while ending preferential rates for similar deposits."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/sonu-nigam-recalls-being-banned-by-t-series-zee-music-over-copyright-issue-2962021-2026-08-03",
+      "headline": "Sonu Nigam recalls being banned by T-Series, Zee Music over copyright issue Sonu Nigam said that T-Series and Zee Music stopped working with him after he raised copyright and royalty issues. He said the industry has since become more open to singers' royalties and his ties with the labels have warmed."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/sonam-wangchuk-wife-gitanjali-angmo-odyssey-christopher-nolan-bollywood-neglecting-indian-epics-2961991-2026-08-03",
+      "headline": "Sitting on treasure: Sonam Wangchuk's wife says Bollywood is neglecting Indian epics Gitanjali Angmo praised Christopher Nolan's The Odyssey and said Indian cinema should revisit epic storytelling. Her remarks revived debate around Sonam Wangchuk's protest and Bollywood's response."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/ariana-grande-step-back-after-eternal-sunshine-tour-amid-health-scrutiny-2961990-2026-08-03",
+      "headline": "Ariana Grande to step away from public life amid 'endless scrutiny' Ariana Grande will step back from public visibility after her London tour finale. The move follows intensified scrutiny over her health and body, and a break from public-facing work."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/harry-styles-mexico-city-concert-singer-slips-on-rain-soaked-stage-keeps-performing-2961987-2026-08-03",
+      "headline": "Harry Styles slips on rain-soaked Mexico City stage, recovers quickly. Video Harry Styles slipped on a rain-soaked stage during his second Mexico City show but kept singing. The rain delayed the concert, cancelled Jorja Smith's opening set and drew cheers from fans who stayed."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-harshad-chopda-becomes-first-finalist-shivangi-joshi-faces-elimination-2961986-2026-08-03",
+      "headline": "Lock Upp: Harshad Chopda becomes first finalist, Shivangi Joshi faces elimination Harshad Chopda became Lock Upp 2's first finalist after Shivangi Joshi stepped out during a tense task. The emotional sacrifice was followed by a shock twist as Shreya Kalra chose Shivangi for elimination."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/women-will-have-the-last-laugh-huma-qureshi-backs-kiara-advani-over-tabaahi-song-2961964-2026-08-03",
@@ -171,48 +196,103 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/spider-man-brand-new-day-box-office-collection-day-3-tom-holland-beats-pathaan-tiger-3-2961622-2026-08-02",
       "headline": "Spider-Man: Brand New Day box office Day 3: Tom Holland beats Pathaan, Tiger 3 Spider-Man: Brand New Day has collected Rs 5,725 crore worldwide in three days, with India contributing Rs 215.48 crore gross. A strong Saturday rebound and competition from The Odyssey have set up a major weekend for Hollywood films in India."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nick-jonas-sums-up-july-with-priyanka-chopra-malti-marie-cowboy-hats-to-family-hugs-2961594-2026-08-02",
-      "headline": "Cowboy hats to family hugs: Nick Jonas sums up July with Priyanka Chopra, Malti Singer Nick Jonas shared a family photo dump from July, featuring actor-wife Priyanka Chopra and daughter Malti Marie. The post offered a glimpse into their beach outing, family meals and candid moments together."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/vincent-pastore-the-sopranos-actor-dies-at-80-in-new-york-tributes-pour-in-2961583-2026-08-02",
-      "headline": "The Sopranos actor Vincent Pastore dies at 80 in New York, tributes pour in Actor Vincent Pastore, known for his role in The Sopranos, has died at 80. He was found at his New York home after not being heard from for several days."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-slams-hrithik-roshan-amid-viral-trend-stop-adding-fuel-to-fire-2961534-2026-08-01",
-      "headline": "Stop adding fuel to fire: Kangana Ranaut slams Hrithik Roshan amid viral trend Actor-politician Kangana Ranaut hit back after actor Hrithik Roshan urged people not to follow social media narratives amid the viral 'Sorry Hrithik' trend. Their latest exchange has revived focus on the actors' long-running 2016 dispute."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/randeep-hooda-visits-flood-ravaged-sivasagar-in-assam-joins-relief-work-2961504-2026-08-01",
-      "headline": "Actor Randeep Hooda visits flood-ravaged Sivasagar in Assam, joins relief work Actor Randeep Hooda visited flood-hit Sivasagar and met affected families and relief volunteers. The visit highlighted ongoing aid work in Upper Assam as displaced residents rebuild their lives."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-weighs-in-on-sorry-hrithik-trend-amid-kangana-ranaut-backlash-2961487-2026-08-01",
-      "headline": "Hrithik Roshan weighs in on 'Sorry Hrithik' trend amid Kangana Ranaut backlash Actor Hrithik Roshan responded to the viral 'Sorry Hrithik' trend with a call to focus on facts. His comment came as fresh backlash against actor-politician Kangana Ranaut revived attention on their 2016 dispute."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2030-ahmedabad-neeraj-chopra-pt-usha-cwg-flag-glasgow-closing-ceremony-2961980-2026-08-03",
-      "headline": "India receive CWG flag, baton passed to Amdavad in stunning closing ceremonyNeeraj Chopra, PT Usha and Harsh Sanghavi received the Commonwealth Games flag as Glasgow handed over the baton to Ahmedabad in a glittering closing ceremony for CWG 2026."
+      "url": "https://www.indiatoday.in/india/story/abhijeet-dipke-scholarship-education-loan-rti-family-finances-cjp-funding-2962006-2026-08-03",
+      "headline": "Check my scholarship letter: Dipke counters RTI activist over US education rowAbhijeet Dipke said a Boston University scholarship and an education loan funded his studies in the US after an RTI activist sought a probe into his family's finances. The exchange came as questions over the Cockroach Janta Party's funding, legal status and protest support sharpened."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/5-killed-15-injured-in-explosion-in-suspected-suicide-bombing-in-northwestern-pakistan-2961903-2026-08-02",
-      "headline": "14 killed, over 20 injured in suicide bombing outside Pakistan police stationThe bombing was confirmed as a suicide attack, with police and rescue teams rushing to the scene as security forces launched an investigation. Rescue teams shifted the injured to nearby hospitals, while police and other law enforcement agencies cordoned off the area."
+      "url": "https://www.indiatoday.in/india/story/delhi-police-no-case-against-minor-in-pm-modi-abuse-video-2961993-2026-08-03",
+      "headline": "After PM's forgiveness, Delhi Police drops case against minor who abused himDelhi Police have decided not to pursue a case against the 15-year-old girl seen abusing Prime Minister Narendra Modi in a viral protest video, citing her age, apology, and appeals for leniency. The decision also follows PM Modi's public statement that he had forgiven the \"misguided children.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/will-dharmendra-pradhan-be-odisha-cm-resignation-education-minister-bjp-2961415-2026-08-03",
+      "headline": "Why Pradhan's homecoming has set the cat among pigeons in OdishaDharmendra Pradhan's resignation as a Union minister and a hero's welcome in Bhubaneswar have reignited speculation over his next political move. Will one of the most formidable leaders of the BJP become the CM? Experts suggest that the road ahead depends on several factors."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/by-election-result-2026-live-updates-bankipur-datia-manjalpur-assembly-bypolls-bihar-madhya-pradesh-gujarat-2961995-2026-08-03",
+      "headline": "Live: Vote count for 3 assembly bypolls underway; Prashant Kishor faces big testBankipur, Datia, Manjalpur By-Election Result 2026 Live: The counting of votes for the bypolls conducted in three assembly constituencies across as many states on July 30 is set to begin at 8 am today. In Bihar's Bankipur seat, Jan Suraaj Party founder Prashant Kishor has challenged decades of BJP dominance in his electoral debut. The constituency witnessed abysmally low voter turnout of just over 34 per cent in the by-election held on July 30. While the result is unlikely to impact the NDA government's stability in Bihar, the Bankipur contest is a crucial test of the BJP's prestige, as the seat fell vacant after its chief, Nitin Nabin, was elected to the Rajya Sabha earlier this year. Like Bankipur, a meagre turnout was also recorded in the Manjalpur Assembly constituency in Gujarat, with only 37.5 per cent of eligible voters actually showing up to cast their votes. In the Datia Assembly constituency in Madhya Pradesh, a voter turnout of 71.44 per cent was recorded on polling day. Follow IndiaToday.in for all the updates on bypoll results."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-who-won-india-medals-neeraj-chopra-gulveer-athletics-2961998-2026-08-03",
+      "headline": "Out of Neeraj's shadow: What India's CWG 2026 athletics haul really tells usGulveer Singh's 10,000m-5000m double was the headline in Glasgow, but the real story sits in the small print: 10 athletics medals against genuinely stacked fields, and an Indian track and field team that no longer needs Neeraj Chopra to do the heavy lifting."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-hits-back-at-rti-activist-questioning-abhijeet-dipkes-us-education-2961992-2026-08-03",
+      "headline": "Probe PM CARES Fund, Modi ji will forgive you: CJP takes swipe at RTI activistThe Cockroach Janta Party has attacked an RTI activist who sought probes into founder Abhijeet Dipke's family finances and the outfit's funding. The exchange has sharpened questions over the group's legal status, donations and a Rs 1 crore legal aid fund."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/indians-in-thailand-bangkok-news-thailand-kidnapping-prostitution-pattaya-scam-centres-in-myanmar-2961550-2026-08-03",
+      "headline": "Indians kidnapping Indians in Thailand. Are such cases on the rise?Thailand has emerged as a major destination for Indian tourists and workers, but it has also witnessed a rise in Indians being kidnapped and held for ransom or forced into criminal enterprises. In several cases, the perpetrators have turned out to be none other than Indians themselves."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/sridhar-vembu-warns-it-companies-have-stopped-creating-new-jobs-ai-costs-are-now-out-of-control-2962022-2026-08-03",
+      "headline": "Sridhar Vembu warns IT companies have stopped creating new jobs, AI costs are now out of controlZoho founder Sridhar Vembu has accepted that India's IT sector, including Zoho, are not creating new jobs. Vembu says that all the funding is now going into AI investment. His comments come at a time when the industry is facing layoffs as companies try to cut costs elsewhere."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/india-script-best-ever-para-commonwealth-games-campaign-jhandu-rana-2961876-2026-08-03",
+      "headline": "Seven medals, countless stories: India's para athletes come of age at CWG 2026India's para athletes rewrote history in Glasgow. A 28-member contingent left the 2026 Commonwealth Games with seven medals: three gold, two silver and two bronze, matching everything the country had won across all previous editions of the Games combined."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/taslima-nasreen-cjp-protests-bangladesh-2024-unrest-warning-india-sheikh-hasina-return-2961837-2026-08-02",
       "headline": "Taslima Nasreen draws parallels between CJP protests and 2024 Bangladesh unrestDays after the CJP protests in Delhi, Taslima Nasreen said the events in Bangladesh in 2024 and afterwards should serve as a warning for India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-iran-talks-monday-strait-of-hormuz-israel-warning-gulf-kuwait-saudi-iraq-2961985-2026-08-03",
+      "headline": "Iran attack would've been biggest since World War 2: Trump as talks set to beginUS President Donald Trump said Iran talks will begin on Monday afternoon, saying he halted what he called the biggest planned attack since World War Two in favour of diplomacy. He said a deal could save lives and declined to set a deadline for negotiations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ramesh-bidhuri-jantar-mantar-protest-puncture-repairers-gen-z-neet-bjp-delhi-2961917-2026-08-02",
+      "headline": "More puncture repairers than students: Ramesh Bidhuri's dig at Delhi protestersFormer BJP MP Ramesh Bidhuri said there were more \"puncture repairers\" and \"key makers\" than students at the Jantar Mantar protest. He also alleged that anti-social elements misled Gen Z over NEET and sought to create unrest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/broad-peak-pok-avalanche-nims-purja-six-nepali-climbers-dead-2961851-2026-08-02",
+      "headline": "A generation lost: The Broad Peak avalanche tragedy that claimed Nepal's finestAn avalanche on Broad Peak killed renowned mountaineer Nirmal Purja, five other Nepali guides and four foreign climbers during a multinational expedition. The tragedy has dealt a severe blow to Nepal's mountaineering industry, wiping out decades of high-altitude expertise, leadership and experience that cannot be quickly replaced."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/oil-gas-companies-45-billion-q2-profits-oxfam-heatwaves-emissions-2961946-2026-08-03",
+      "headline": "Oil and gas giants eye bigger profits as their emissions worsen heatwavesBig Oil is set to pocket $45 billion in profits in the April-June quarter, even as new analysis links the historical emissions of major oil giants to conditions behind roughly one in four global heatwaves since 2000. As temperatures soar and profits surge, experts weigh who should bear the cost of a warming planet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/cauvery-dispute-karnataka-urges-no-bandh-rainfall-deficit-drinking-water-priority-2961994-2026-08-03",
+      "headline": "Karnataka rules out Cauvery bandh, DK Shivakumar says state will protect interestsAfter an all-party meeting, DK Shivakumar urged parties and Kannada groups not to call a bandh over the Cauvery dispute. He said Karnataka would protect its interests through legal channels while prioritising drinking water amid a sharp rainfall deficit."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/former-bjp-mp-rebati-tripura-returns-to-teaching-after-political-setbacks-pension-security-2961800-2026-08-02",
+      "headline": "Gives security of pension: Ex-BJP MP returns to teaching after political setbacksFormer BJP MP Rebati Tripura has returned to teaching at a government school in Agartala after his political career stalled, citing a lack of party responsibilities and the security of a pension."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/from-godrej-steel-lockers-to-sips-how-indias-first-salary-story-has-changed-2961970-2026-08-03",
+      "headline": "From Godrej lockers to SIPs: How India's first salary story has changedEvery first salary comes with a story, but those stories have changed with time. From Godrej lockers to SIPs, how have India's money habits evolved over the decades? Let's find out here."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-deploys-250-chinese-sh-15-howitzers-along-india-border-2961878-2026-08-02",
+      "headline": "Pakistan deploys 250 Chinese howitzers along India border; can strike up to 72 kmPakistan has deployed 250 Chinese-made SH-15 truck-mounted self-propelled howitzers along its border with India in a major boost to its artillery capabilities, top intelligence sources told India Today."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2030-ahmedabad-neeraj-chopra-pt-usha-cwg-flag-glasgow-closing-ceremony-2961980-2026-08-03",
+      "headline": "India receive CWG flag, baton passed to Ahmedabad in stunning closing ceremonyNeeraj Chopra, PT Usha and Harsh Sanghavi received the Commonwealth Games flag as Glasgow handed over the baton to Ahmedabad in a glittering closing ceremony for CWG 2026."
     },
     {
       "sentiment": "positive",
@@ -231,100 +311,25 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ramesh-bidhuri-jantar-mantar-protest-puncture-repairers-gen-z-neet-bjp-delhi-2961917-2026-08-02",
-      "headline": "More puncture repairers than students: Ramesh Bidhuri's dig at Delhi protestersFormer BJP MP Ramesh Bidhuri said there were more \"puncture repairers\" and \"key makers\" than students at the Jantar Mantar protest. He also alleged that anti-social elements misled Gen Z over NEET and sought to create unrest."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/chinmoy-krishna-das-bail-bangladesh-high-court-two-cases-no-immediate-release-ptag-2961895-2026-08-02",
-      "headline": "Bangladesh court grants bail to Hindu monk Chinmoy Das, release still unlikelyAccording to Chinmoy Krishna Das' lawyer, Apurba Kumar Bhattacharya, a two-judge High Court bench approved his bail petitions in two cases involving allegations of attempted murder, vandalism and obstructing public officials from carrying out their duties, reported news agency PTI."
+      "url": "https://www.indiatoday.in/movies/story/sonam-wangchuk-wife-gitanjali-angmo-odyssey-christopher-nolan-bollywood-neglecting-indian-epics-2961991-2026-08-03",
+      "headline": "Sitting on treasure: Sonam Wangchuk's wife says Bollywood is neglecting Indian epicsGitanjali Angmo praised Christopher Nolan's The Odyssey and said Indian cinema should revisit epic storytelling. Her remarks revived debate around Sonam Wangchuk's protest and Bollywood's response."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/broad-peak-pok-avalanche-nims-purja-six-nepali-climbers-dead-2961851-2026-08-02",
-      "headline": "A generation lost: The Broad Peak avalanche tragedy that claimed Nepal's finestAn avalanche on Broad Peak killed renowned mountaineer Nirmal Purja, five other Nepali guides and four foreign climbers during a multinational expedition. The tragedy has dealt a severe blow to Nepal's mountaineering industry, wiping out decades of high-altitude expertise, leadership and experience that cannot be quickly replaced."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/ghaziabad-psychiatrist-death-dr-hemika-agrawal-fall-raj-nagar-extension-probe-suicide-depression-2961965-2026-08-03",
-      "headline": "Woman psychiatrist falls to death from fifth floor in Ghaziabad high-riseA 40-year-old woman psychiatrist died after allegedly falling from her fifth-floor flat in Ghaziabad on Sunday evening. Police have termed the death suspicious and are examining all angles as forensic findings and the post-mortem report are awaited."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sheikh-hasina-first-public-appearance-in-india-set-to-reveal-bangladesh-return-plans-two-years-after-ouster-2961819-2026-08-02",
-      "headline": "Two years after ouster, Sheikh Hasina to make first public appearance in IndiaNearly two years after being ousted from power, former Bangladesh Prime Minister Sheikh Hasina is set to address a virtual programme in New Delhi on August 5, where she will speak about her political roadmap and proposed return to Dhaka."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/pappu-yadav-delhi-attack-shoe-hurled-knife-threat-allegation-2961843-2026-08-02",
-      "headline": "Pappu Yadav attacked with shoe in Delhi, MP claims attacker pulled out knifeIndependent MP from Bihar's Purnea, Pappu Yadav, was attacked after a man identified as Sumit from Bulandshahr allegedly hurled a shoe at him during a press conference in Delhi, sparking chaos and a scuffle."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nirmal-purja-broad-peak-avalanche-last-image-shows-team-before-tragedy-2961619-2026-08-02",
-      "headline": "Haunting image shows mountaineer Nirmal Purja and team moments before disasterA picture taken from base camp is believed to be the last visual of mountaineer Nirmal Purja and his expedition climbing Broad Peak before a deadly avalanche struck. Purja was declared dead, while a search is on for the rest of the team."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uniform-civil-code-taslima-nasreen-backs-ucc-womens-rights-kolkata-pakistan-bangladesh-ptag-2961947-2026-08-02",
-      "headline": "Taslima Nasreen backs UCC, says India, Bangladesh, Pakistan need itTaslima Nasreen backed a Uniform Civil Code during her return visit to Kolkata. She said equal laws are essential for women's rights and defended free expression after a felicitation disruption."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/india-script-best-ever-para-commonwealth-games-campaign-jhandu-rana-2961876-2026-08-03",
-      "headline": "Seven medals, countless stories: India's para athletes come of age at CWG 2026India's para athletes rewrote history in Glasgow. A 28-member contingent left the 2026 Commonwealth Games with seven medals: three gold, two silver and two bronze, matching everything the country had won across all previous editions of the Games combined."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/glasgow-restaurant-apologises-correct-india-map-lovlina-northeast-omission-2961764-2026-08-02",
-      "headline": "Glasgow restaurant to correct India map after Lovlina flags Northeast omissionIndian boxer Lovlina Borgohain told India Today that the popular Indian restaurant in Glasgow had apologised and assured the Indian contingent that it would correct a map of India displayed on its premises after she pointed out that the Northeast was missing from it."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/indian-government-websites-irctc-railone-ugc-net-rti-epfo-umang-glitches-2939953-2026-08-02",
-      "headline": "Why India's govt websites are stuck in the 1990sFrom booking Tatkal train tickets and filing RTIs to accessing EPF claims and court records, millions in India rely on government websites every day. Yet many users say these portals remain slow, glitchy and difficult to navigate. We tested some of these websites and spoke to users and experts to understand why."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/greece-wildfire-helicopter-crash-kills-two-as-europe-fires-spread-ptag-2961942-2026-08-02",
-      "headline": "Greek firefighting chopper crash kills two as Europe wildfires intensifyTwo firefighting helicopters collided over a wildfire west of Athens, killing two crew members. The crash underscored Europe's escalating fire crisis as fierce winds and evacuations stretched responders."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-linked-gang-foxtrot-recruits-teens-for-violent-attacks-across-europe-norwegian-teen-johannes-natland-convicted-2961957-2026-08-02",
-      "headline": "How Iran-linked gang recruits teens as hitmen for violent attacks across EuropeA Norwegian teenager was convicted in Britain for a Foxtrot Network contract killing plot after travelling to England for the attack. The case has renewed scrutiny of the gang's recruitment of vulnerable teenagers for cross-border violence."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/jharkhand/story/sujit-sinha-encounter-jharkhand-gangster-killed-during-jail-transfer-near-jamtara-2961978-2026-08-03",
-      "headline": "Rifle snatched, bullets fired, Jharkhand gangster killed in police encounterGangster Sujit Sinha was killed in a police encounter after an alleged escape bid during his transfer from Sahibganj Divisional Jail to Dhanbad Jail. Police have sealed the site and said standard legal procedures are under way."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-sends-friendship-day-wishes-to-gen-z-after-generation-gutter-row-2961956-2026-08-03",
-      "headline": "Kangana Ranaut sends Friendship Day wishes to Gen Z after 'Generation Gutter' rowDays after sparking outrage with her 'Generation Gutter' remarks, actor-politician Kangana Ranaut shared a gym interaction with two Gen Z girls to extend her Friendship Day wishes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-police-constable-exam-boycott-alleged-mismanagement-vijayapura-centre-2961937-2026-08-02",
-      "headline": "Video: Aspirants push past barricades amid chaos at Karnataka police exam centreCandidates alleged that the question papers, scheduled to be distributed at 10.30 am, were handed out nearly 30 minutes late. They also claimed there were mismatches between the question papers and OMR sheets, while some aspirants received only one of the two."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/former-bjp-mp-rebati-tripura-returns-to-teaching-after-political-setbacks-pension-security-2961800-2026-08-02",
-      "headline": "Gives security of pension: Ex-BJP MP returns to teaching after political setbacksFormer BJP MP Rebati Tripura has returned to teaching at a government school in Agartala after his political career stalled, citing a lack of party responsibilities and the security of a pension."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-deploys-250-chinese-sh-15-howitzers-along-india-border-2961878-2026-08-02",
-      "headline": "Pakistan deploys 250 Chinese howitzers along India border; can strike up to 72 kmPakistan has deployed 250 Chinese-made SH-15 truck-mounted self-propelled howitzers along its border with India in a major boost to its artillery capabilities, top intelligence sources told India Today."
+      "url": "https://www.indiatoday.in/science/story/monsoon-firing-on-all-cylinders-active-phase-in-east-india-rain-deficit-to-dip-2961849-2026-08-03",
+      "headline": "Monsoon firing on all cylinders: East India to be drenched this weekFresh weather systems are building over eastern India even as the last monsoon depression weakens. The overlap is set to keep rain going, aiding kharif fields but raising local flood risks."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-who-won-india-medals-neeraj-chopra-gulveer-athletics-2961998-2026-08-03",
+      "headline": "Out of Neeraj's shadow: What India's CWG 2026 athletics haul really tells us Gulveer Singh's 10,000m-5000m double was the headline in Glasgow, but the real story sits in the small print: 10 athletics medals against genuinely stacked fields, and an Indian track and field team that no longer needs Neeraj Chopra to do the heavy lifting."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2030-ahmedabad-neeraj-chopra-pt-usha-cwg-flag-glasgow-closing-ceremony-2961980-2026-08-03",
-      "headline": "India receive CWG flag, baton passed to Amdavad in stunning closing ceremony Neeraj Chopra, PT Usha and Harsh Sanghavi received the Commonwealth Games flag as Glasgow handed over the baton to Ahmedabad in a glittering closing ceremony for CWG 2026."
+      "headline": "India receive CWG flag, baton passed to Ahmedabad in stunning closing ceremony Neeraj Chopra, PT Usha and Harsh Sanghavi received the Commonwealth Games flag as Glasgow handed over the baton to Ahmedabad in a glittering closing ceremony for CWG 2026."
     },
     {
       "sentiment": "positive",
@@ -369,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/glasgow-restaurant-apologises-correct-india-map-lovlina-northeast-omission-2961764-2026-08-02",
-      "headline": "Glasgow restaurant to correct India map after Lovlina flags Northeast omission Indian boxer Lovlina Borgohain told India Today that the popular Indian restaurant in Glasgow had apologised and assured the Indian contingent that it would correct a map of India displayed on its premises after she pointed out that the Northeast was missing from it."
+      "headline": "Glasgow restaurant to correct India map after Lovlina flags Northeast omissionIndian boxer Lovlina Borgohain told India Today that the popular Indian restaurant in Glasgow had apologised and assured the Indian contingent that it would correct a map of India displayed on its premises after she pointed out that the Northeast was missing from it."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/jamshedpur-fc-players-urge-tata-group-to-reconsider-isl-2026-27-exit-2961510-2026-08-01",
       "headline": "Watch: Jamshedpur FC players plead to owners Tata to rethink ISL exitJamshedpur FC players have appealed to Tata Group to reconsider the club's withdrawal from ISL 2026-27. Players Pratik Chaudhari and Pronay Halder made the appeal to the Jamshedpur FC owners on behalf of the players."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/cwg-boxing-sakshi-choudhary-priya-ghanghas-family-double-india-gold-2961508-2026-08-01",
-      "headline": "Family affair at CWG: Cousins Sakshi and Priya win boxing goldsCousins Sakshi Choudhary and Priya Ghanghas won Commonwealth Games boxing golds in Glasgow, adding to India's tally. Their victories, following titles for Preeti Pawar and Jaismine Lamboria, highlighted Haryana's enduring influence on Indian boxing again."
     }
   ],
   "education": [
@@ -499,7 +499,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
@@ -559,19 +559,9 @@
       "headline": "The brave new totsTutotials teaching children how to take on a highly competitive world are mushrooming in the city "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
-      "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/magazine/education/story/19921015-st-stephens-college-rules-come-under-fire-766987-2012-12-26",
-      "headline": "Courting ChristiansSt Stephen's College rules come under fire."
     }
   ]
 }
