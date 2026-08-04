@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/spacex-earnings-revenue-jumps-92-starlink-ai-growth-nvidia-deal-2963731-2026-08-05",
+      "headline": "SpaceX revenue jumps 92% in first public earnings, signs Nvidia dealSpaceX reported its first quarterly results as a public company, with revenue rising 92% and a new Nvidia chip partnership. The update beat estimates but renewed focus on share unlock pressure, AI spending and lofty market expectations."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/8th-pay-commission-announces-jaipur-meetings-are-you-eligible-to-attend-2963397-2026-08-04",
       "headline": "8th Pay Commission announces Jaipur meetings: Are you eligible to attend?The Commission will meet eligible employee associations and unions from Rajasthan at the end of August as part of its ongoing exercise to gather suggestions before finalising its recommendations."
     },
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/why-sensex-up-nifty-down-closing-auction-session-explained-anomaly-2962928-2026-08-04",
       "headline": "Explained: Why Sensex is rising while Nifty is falling todaySensex traded higher while Nifty fell sharply after Monday's closing auction distortion. Analysts said the divergence reflected a technical adjustment rather than changing fundamentals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tax-bill-2026-manufacturing-tax-benefits-fpi-reit-data-centre-relief-2962906-2026-08-04",
-      "headline": "Govt planning major tax overhaul to boost manufacturing and foreign investmentThe Centre is set to table the Taxation and Other Laws (Amendment) Bill, 2026 with a broad package of tax changes. The proposals aim to support manufacturing, foreign investment and strategic sectors through a more predictable framework."
     }
   ],
   "entertainment": [
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/upi-payments-above-rs-2000-may-soon-attract-a-fee-under-proposed-law-change-2963366-2026-08-04",
-      "headline": "UPI payments above Rs 2,000 may soon attract a fee under proposed law changeThe government has proposed changes to the law that could allow merchant charges on select UPI payments in the future. If approved, high-value transactions above Rs 2,000 made to large businesses may be the first to attract an MDR, while consumers are likely to remain unaffected."
+      "url": "https://www.indiatoday.in/india/story/supreme-court-no-insurance-no-fuel-pilot-petrol-pumps-2963705-2026-08-04",
+      "headline": "No insurance, no fuel? Supreme Court proposes pilot project at petrol pumpsA major road safety push could make insurance checks routine at fuel stations, while ANPR cameras, police apps and longer insurance cover for new vehicles are also proposed."
     },
     {
       "sentiment": "negative",
@@ -230,14 +230,14 @@
       "headline": "Pakistan imposes sweeping curbs on foreign media after criticism over POK crackdownPakistan has introduced new rules requiring foreign journalists to secure prior approval for reporting across most of the country. The move comes amid scrutiny over its crackdown in Pakistan-occupied Kashmir and expands official control over media access."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/spacex-earnings-revenue-jumps-92-starlink-ai-growth-nvidia-deal-2963731-2026-08-05",
+      "headline": "SpaceX revenue jumps 92% in first public earnings, signs Nvidia dealSpaceX reported its first quarterly results as a public company, with revenue rising 92% and a new Nvidia chip partnership. The update beat estimates but renewed focus on share unlock pressure, AI spending and lofty market expectations."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/tvk-govt-treated-me-like-a-terrorist-udhayanidhi-stalin-after-being-released-in-trisha-remarks-case-2963572-2026-08-04",
       "headline": "Vijay govt treated me like terrorist: Stalin Jr says no intention to insult womenDMK leader Udhayanidhi Stalin accused the TVK government of treating him \"like a terrorist\" after his detention in the Trisha remarks case, alleging a political vendetta and insisting he never made derogatory comments about women."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-amir-ipl-eligibility-british-citizenship-psl-overseas-player-2963339-2026-08-04",
-      "headline": "Mohammad Amir opens up on IPL participation after securing British citizenshipFormer Pakistan pacer Mohammad Amir has kept the door open for a future IPL stint after gaining British citizenship, saying he is yet to decide whether he will enter the tournament."
     },
     {
       "sentiment": "positive",
@@ -251,13 +251,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/central-secretariat-club-delhi-high-court-plea-derecognition-eviction-order-2963644-2026-08-04",
-      "headline": "Delhi's 107-year-old Central Secretariat Club approaches HC against eviction orderThe Central Secretariat Club has moved the Delhi High Court against its derecognition and eviction. The petition says the orders threaten a 107-year-old institution and were issued arbitrarily."
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-amir-ipl-eligibility-british-citizenship-psl-overseas-player-2963339-2026-08-04",
+      "headline": "Mohammad Amir opens up on IPL participation after securing British citizenshipFormer Pakistan pacer Mohammad Amir has kept the door open for a future IPL stint after gaining British citizenship, saying he is yet to decide whether he will enter the tournament."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/supreme-court-no-insurance-no-fuel-pilot-petrol-pumps-2963705-2026-08-04",
-      "headline": "No insurance, no fuel? Supreme Court proposes pilot project at petrol pumpsA major road safety push could make insurance checks routine at fuel stations, while ANPR cameras, police apps and longer insurance cover for new vehicles are also proposed."
+      "url": "https://www.indiatoday.in/india/story/neet-paper-leak-protest-cjp-nationwide-youth-listening-tour-2962266-2026-08-03",
+      "headline": "CJP eyes next chapter after NEET agitation, announces nationwide listening tourThe Cockroach Janta Party will also hold a two-day strategy meeting in Maharashtra's Chhatrapati Sambhajinagar on Wednesday and Thursday to finalise its future roadmap. CJP founder Abhijeet Dipke, spokespersons and organisational leaders will be in attendance."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/story/whatsapp-tests-optional-age-verification-in-india-ahead-of-dpdp-compliance-ptag-2963387-2026-08-04",
-      "headline": "WhatsApp tests age check in India; here's what it means for usersWhatsApp is testing optional age confirmation prompts for users in India ahead of new legal requirements. The move reflects tighter child data safeguards under the DPDP regime even as the platform faces separate scrutiny over usernames."
+      "url": "https://www.indiatoday.in/technology/news/story/upi-payments-above-rs-2000-may-soon-attract-a-fee-under-proposed-law-change-2963366-2026-08-04",
+      "headline": "UPI payments above Rs 2,000 may soon attract a fee under proposed law changeThe government has proposed changes to the law that could allow merchant charges on select UPI payments in the future. If approved, high-value transactions above Rs 2,000 made to large businesses may be the first to attract an MDR, while consumers are likely to remain unaffected."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-food-adulteration-surveillance-team-25-tonnes-adulterated-spices-seizure-citywide-raids-2963669-2026-08-04",
-      "headline": "Hyderabad food watchdog seizes 25,000 kg of adulterated spices in citywide raidsThe inspection drive was launched after public complaints of spice adulteration, aiming to stop harmful chemical use, enforce food safety standards and protect public health across Hyderabad."
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-council-chairman-basavaraj-horatti-dk-shivakumar-resign-row-ptag-2963718-2026-08-05",
+      "headline": "Karnataka Council chair row: Basavaraj Horatti says Shivakumar asked him to resignCouncil Chairman Basavaraj Horatti said Chief Minister D K Shivakumar asked him to resign. He said only the House can decide the post, sharpening a fresh constitutional row."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/new-sainik-schools-ppp-model-rahul-gandhi-rss-allegations-selection-process-2963672-2026-08-04",
-      "headline": "Transparent selection process: Govt on Rahul's RSS control claim on Sainik SchoolsThe clarification came after a heated exchange during a meeting of the Parliamentary Standing Committee on Defence, where Gandhi alleged that Sainik Schools were being \"privatised\" and their management entrusted to RSS-linked organisations."
+      "url": "https://www.indiatoday.in/science/story/monsoon-to-stay-active-for-next-two-weeks-as-indian-ocean-signals-begin-to-change-2962535-2026-08-04",
+      "headline": "Monsoon to stay active for two weeks, Indian Ocean countering El NinoIndia is set for a more active southwest monsoon phase over the next fortnight as conditions over the Indian Ocean and Bay of Bengal turn favourable for widespread rain. Meteorologists are closely tracking the neutral IOD, El Nino and the MJO as they shape the rest of the 2026 season."
     },
     {
       "sentiment": "positive",
@@ -286,18 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/maharashtra-politics-gungi-gudiya-congress-remark-sunetra-pawar-triggers-political-storm-ncp-workers-protest-mumbai-office-video-2963404-2026-08-04",
-      "headline": "Congress leader calls Sunetra Pawar 'gungi gudiya', regrets making remark after rowCongress expressed regret over its \"gungi gudiya\" remark on Maharashtra Deputy CM Sunetra Pawar, calling it a result of \"miscommunication\", after the comment triggered protests by NCP workers and sharp criticism from the ruling alliance."
+      "url": "https://www.indiatoday.in/technology/story/whatsapp-tests-optional-age-verification-in-india-ahead-of-dpdp-compliance-ptag-2963387-2026-08-04",
+      "headline": "WhatsApp tests age check in India; here's what it means for usersWhatsApp is testing optional age confirmation prompts for users in India ahead of new legal requirements. The move reflects tighter child data safeguards under the DPDP regime even as the platform faces separate scrutiny over usernames."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-army-whatsapp-ban-wechat-switch-officers-china-defence-ties-2963344-2026-08-04",
-      "headline": "Ditch WhatsApp, switch to WeChat: Pakistan Army's diktat to officersPakistan Army officers and staff have been told to shift official communications from WhatsApp to WeChat. The move underlines deeper digital and defence coordination between Pakistan and China."
+      "url": "https://www.indiatoday.in/india/story/central-secretariat-club-delhi-high-court-plea-derecognition-eviction-order-2963644-2026-08-04",
+      "headline": "Delhi's 107-year-old Central Secretariat Club approaches HC against eviction orderThe Central Secretariat Club has moved the Delhi High Court against its derecognition and eviction. The petition says the orders threaten a 107-year-old institution and were issued arbitrarily."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-demands-sheikh-hasina-extradition-day-before-new-delhi-event-says-let-her-return-face-the-law-2963554-2026-08-04",
-      "headline": "Let her return: Bangladesh seeks Sheikh Hasina's extradition day before Delhi eventBangladesh renewed its extradition demand for Sheikh Hasina ahead of her Delhi address. India said the event was private while Dhaka insisted she must return and face the law."
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-food-adulteration-surveillance-team-25-tonnes-adulterated-spices-seizure-citywide-raids-2963669-2026-08-04",
+      "headline": "Hyderabad food watchdog seizes 25,000 kg of adulterated spices in citywide raidsThe inspection drive was launched after public complaints of spice adulteration, aiming to stop harmful chemical use, enforce food safety standards and protect public health across Hyderabad."
     },
     {
       "sentiment": "negative",
@@ -305,14 +305,14 @@
       "headline": "Rocket to crash into Moon at 8,700 kmph: Will it be visible from Earth?A piece of SpaceX's Falcon 9 rocket is set to strike the Moon on August 5 at about 8,700 kmph. Scientists say the impact may not be visible from Earth, though telescopes could catch a brief dust plume."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-pakistan-mediator-name-skip-us-iran-war-middle-east-confilct-uae-qatar-2963190-2026-08-04",
-      "headline": "Trump skips Pak as Iran talks mediator, but Islamabad still trying its tricksUS President Donald Trump skipped Pakistan while naming Saudi Arabia, the UAE and Qatar as mediators in the Iran war. Islamabad and Tehran swiftly moved to reclaim Pakistan's diplomatic role, with the civil-military leadership inviting Iran's top leadership for urgent consultations."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/nathan-thomas-worlds-youngest-male-professor-breaks-306-year-old-guinness-record-2962924-2026-08-04",
+      "headline": "18-year-old becomes world's youngest male professor, breaks 306-year-old recordNathan Thomas became the world's youngest male professor at 18 years and 346 days after joining Miami Dade College as an engineering instructor. The Guinness World Records title ended a mark that had stood for 306 years and underscored his unusual academic rise from child student to teacher."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/himachal-pradesh-biggest-heroin-haul-2026-shimla-police-seize-drugs-worth-rs-six-crore-shoghi-border-2963509-2026-08-04",
-      "headline": "Himachal's biggest heroin haul of 2026 as Shimla cops seize drugs worth Rs 6 croreA 22-year-old man from Haryana was arrested after Shimla Police intercepted a suspected interstate drug consignment near the Shoghi border. Investigators are now probing the wider trafficking network behind the Rs 6-crore heroin haul."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/new-sainik-schools-ppp-model-rahul-gandhi-rss-allegations-selection-process-2963672-2026-08-04",
+      "headline": "Transparent selection process: Govt on Rahul's RSS control claim on Sainik SchoolsThe clarification came after a heated exchange during a meeting of the Parliamentary Standing Committee on Defence, where Gandhi alleged that Sainik Schools were being \"privatised\" and their management entrusted to RSS-linked organisations."
     },
     {
       "sentiment": "positive",
@@ -499,7 +499,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
@@ -550,13 +550,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
+      "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/19920930-toddlers-learn-social-graces-and-sophisticated-airs-in-calcutta-to-remain-competitive-766952-2012-12-31",
       "headline": "The brave new totsTutotials teaching children how to take on a highly competitive world are mushrooming in the city "
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
+      "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
-      "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
+      "url": "https://www.indiatoday.in/magazine/education/story/19921015-st-stephens-college-rules-come-under-fire-766987-2012-12-26",
+      "headline": "Courting ChristiansSt Stephen's College rules come under fire."
     }
   ]
 }
