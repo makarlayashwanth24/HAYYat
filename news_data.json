@@ -1,6 +1,31 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-lpg-natural-gas-crude-oil-levy-fuel-reserve-usd-42-billion-reserve-2964866-2026-08-06",
+      "headline": "Govt may charge cooking gas, natural gas users to build $42 billion fuel reserveIndia could weigh new levies on LPG and natural gas users to fund strategic fuel reserves. The proposal underscores supply risks after Middle East disruptions and the country's dependence on fuel imports."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/zepto-bookmyshow-indigo-among-9-platforms-fined-rs-20-lakh-for-using-dark-patterns-2964923-2026-08-06",
+      "headline": "Zepto, BookMyShow among 9 platforms fined Rs 20 lakh for using dark patternsThe Prevention and Regulation of Dark Patterns Guidelines, 2023 identify 13 types of misleading online practices designed to influence consumer choices. These include false urgency, basket sneaking, drip pricing, subscription traps, confirm shaming and trick questions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/missed-life-insurance-premium-what-happens-policy-lapse-grace-period-revival-2964907-2026-08-06",
+      "headline": "Missed your life insurance premium? Here's what happens to your policyA missed premium doesn't always kill your life cover immediately, but waiting too long can. Here's how grace periods, lapses and revival work, and what policyholders should check."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/commodities/story/gold-prices-hit-7-week-high-is-it-a-good-time-to-buy-2964894-2026-08-06",
+      "headline": "Gold prices hit 7-week high: Is it a good time to buy?Gold has regained momentum after weeks of ups and downs. So, is now a good time to buy the yellow metal, or should investors stay on the sidelines?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/lic-share-stake-sale-government-raises-usd-3-3-billion-in-secret-dilution-bankers-unaware-2964867-2026-08-06",
+      "headline": "A mystery meeting, hours' notice: Inside government's Rs 31,500-crore LIC saleA banker summoned without explanation, advisers kept guessing and traders left no time to react. Inside the secrecy behind the government's massive Rs 31,500-crore LIC stake sale."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/can-married-central-government-employees-claim-hra-while-living-in-official-housing-2964860-2026-08-06",
       "headline": "Can married central government employees claim HRA while living in official housing?Can both spouses working for the Central Government claim HRA while staying in Government accommodation? A recent reply in Parliament has made the position clear."
@@ -74,34 +99,59 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/lic-investment-june-quarter-portfolio-bharti-airtel-maruti-top-buys-coal-india-biggest-sell-2963971-2026-08-05",
       "headline": "LIC June quarter buys: Bharti Airtel, Maruti top picks; Coal India biggest sellLIC reshuffled its June quarter equity portfolio, emerging a net buyer as it added to select large-caps and cut others. Even as its holdings value rose, its share in the NSE-listed market slipped to a record low."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-sanjay-malhotra-leaves-repo-rate-unchanged-will-banks-increase-fd-interest-rates-now-2963914-2026-08-05",
-      "headline": "RBI leaves repo rate unchanged: Will banks increase FD interest rates now?Planning to park your money in a fixed deposit after the RBI's latest policy decision? Will banks now offer higher FD interest rates?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/spider-man-teams-up-with-pulse-candy-for-a-nationwide-360-degree-campaign-2963891-2026-08-05",
-      "headline": "Spider-Man teams up with Pulse Candy for a nationwide 360-degree campaignand New DayThe campaign will remain active until August 30 and will be visible across digital platforms, social media, cinema halls, retail outlets and outdoor advertising locations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/rbi-repo-rate-5-25-unchanged-home-loan-emis-impact-steady-after-august-mpc-2963866-2026-08-05",
-      "headline": "RBI MPC: Repo rate steady at 5.25%. How does it impact home buyers?The RBI kept the repo rate unchanged at 5.25% in its August policy review after assessing domestic and global conditions. The decision keeps home loan EMIs steady for borrowers while developers watch for better rate transmission and stronger credit flow."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-sanjay-malhotra-keeps-repo-rate-unchanged-525-will-your-hoem-loan-emis-get-cheaper-now-2963869-2026-08-05",
-      "headline": "RBI keeps repo rate unchanged: Will your EMIs get cheaper now?Were you expecting lower EMIs after the RBI's policy announcement? Here's what the decision to keep the repo rate unchanged means for your home loan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-el-nino-risk-sanjay-malhotra-inflation-agriculture-repo-rate-unchanged-2963853-2026-08-05",
-      "headline": "RBI's new worry is El Nino: What Governor Sanjay Malhotra said and why it mattersRBI Governor Sanjay Malhotra flagged El Ni\u00f1o as a major risk while holding the repo rate at 5.25%. The warning puts monsoon-linked inflation and farm output at the centre of future policy decisions."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mahesh-babu-varanasi-leak-viral-ghat-action-clip-surfaces-before-birthday-update-2964953-2026-08-06",
+      "headline": "Another Varanasi leak? Viral Mahesh Babu action video surfaces online A viral video allegedly from Varanasi's ghat action sequence has leaked online ahead of Mahesh Babu's birthday. The fresh leak has intensified attention on SS Rajamouli film's repeated online security breaches."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/mini-mathur-alliance-winner-beating-younger-contestants-physical-finale-2964967-2026-08-06",
+      "headline": "Alliance winner Mini Mathur: Call me manipulative, but my strategy worked Alliance winner Mini Mathur said winning the show without joining camps or fuelling kalesh made her victory sweeter. She said beating younger contestants in physical tasks and challenging stereotypes around women over 45 were the real highs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sold-my-soul-actor-susmita-mukherjee-on-working-in-c-grade-films-to-clear-debt-2964924-2026-08-06",
+      "headline": "Sold my soul: Actor Susmita Mukherjee on working in C-grade films to clear debt Actor Susmita Mukherjee said she took up C-grade films after her production company had to repay Rs 1 crore loan. She said debt, young children at home and her daughter's costly studies abroad drove those choices."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-sach-ya-sazaa-netflix-what-worked-what-did-not-shreya-kalra-2964941-2026-08-06",
+      "headline": "Did Lock Upp Season 2 live up to the hype? A look at what worked and what didn't Lock Upp Season 2 ended with strong chatter on Netflix as contestants drove drama and conflict. The reboot widened the show's reach but also revived questions over predictability and lost rawness."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/how-brand-new-day-rebuilds-mcu-via-broken-heroes-redemption-arcs-2964281-2026-08-06",
+      "headline": "How Brand New Day rebuilds MCU via broken heroes' redemption arcs Spider-Man: Brand New Day brings Yelena, Frank Castle and Jean Grey into Peter Parker's orbit. Their redemption arcs give Marvel's next chapter a more hopeful, human centre."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nikhil-nagesh-bhat-jamie-foxx-deadlocked-kill-director-hollywood-debut-prime-video-2964844-2026-08-06",
+      "headline": "Kill director Nikhil Nagesh Bhat to make Hollywood debut with Jamie Foxx thriller Nikhil Nagesh Bhat is set to direct Deadlocked, an action thriller starring Jamie Foxx for Amazon MGM Studios. The film marks his first English-language feature and expands his career after Kill."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/mini-mathur-wins-alliance-beats-aly-goni-and-ruhee-dosani-for-rs-50-lakh-2964888-2026-08-06",
+      "headline": "Mini Mathur wins Alliance Season 1, takes home Rs 50 lakh Mini Mathur beat Aly Goni and Ruhee Dosani to win Alliance and take home the Rs 50 lakh prize. She emerged victorious after a season marked by sharp strategy and consistent performances."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/rupali-ganguly-pm-modi-dictator-post-backlash-neet-protest-2964878-2026-08-06",
+      "headline": "I wish he was a dictator: Rupali Ganguly's post on PM triggers online backlash Rupali Ganguly's controversial post wishing PM Modi was a dictator has ignited a fierce debate on social media, drawing sharp criticism for her remarks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/shreya-kalra-lock-upp-2-winner-villain-ran-the-show-2964846-2026-08-06",
+      "headline": "Lock Upp 2's Shreya Kalra: The villain everyone rooted for Shreya Kalra emerged as the winner of Lock Upp 2, becoming the villain everyone secretly rooted for with her bold, unfiltered gameplay. Her journey proved that authenticity, backed by sharp strategy, can be just as powerful as playing the hero on Indian reality TV."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/awarapan-2-trailer-emraan-hashmi-disha-patani-set-for-dark-revenge-saga-2964854-2026-08-06",
+      "headline": "Awarapan 2 trailer: Emraan Hashmi, Disha Patani set for dark revenge saga The trailer for Awarapan 2, featuring actors Emraan Hashmi and Disha Patani was unveiled on August 6. The promo positions the sequel as a darker chapter shaped by revenge, redemption and unresolved consequences."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-harshad-chopda-says-sorry-after-saving-shivangi-joshi-on-lock-upp-2964833-2026-08-06",
@@ -146,78 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/awarapan-2-ua-16-plus-certificate-after-9-cbfc-edits-august-14-2026-release-2964716-2026-08-06",
       "headline": "Censor clears Emraan Hashmi's Awarapan 2 with U/A 16+, orders 9 modifications Awarapan 2 has been cleared by the CBFC with a UA 16+ certificate after nine edits. The changes included violence cuts, drug disclaimers and subtitle clean-ups before its August 14, 2026 release."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rashmika-mandanna-hip-injury-recovery-routine-mysaa-dance-shoot-2964706-2026-08-06",
-      "headline": "Rashmika says slowing down isn't all that bad, shares health update after injury Rashmika Mandanna offered fans a glimpse into her recovery routine after suffering a hip injury during the shoot of Mysaa. In a new social media update, the actor shared how she is embracing slower days at home as she recuperates."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/pradeep-rawat-death-son-recalls-final-moments-blood-cancer-battle-2964704-2026-08-06",
-      "headline": "Everything changed in weeks: Pradeep Rawat's son recalls actor's final moments At Pradeep Rawat's last rites in Mumbai, his son Vikramaditya recalled the actor's final moments in hospital. He said the family was shattered by the sudden diagnosis of a rare aggressive blood cancer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mallika-sherawat-on-why-bigg-boss-never-appealed-to-her-reveals-traitors-pay-2964703-2026-08-06",
-      "headline": "Mallika Sherawat on why Bigg Boss never appealed to her, reveals Traitors pay Mallika Sherawat says she chose The Traitors 2 for its psychological game, not reality TV fame. She also ruled out Bigg Boss and said knowing her worth matters in every deal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-season-2-grand-winner-shreya-kalra-after-party-rishabh-jaiswal-celebrates-win-emotional-speech-2964636-2026-08-05",
-      "headline": "Lock Upp: Shreya Kalra celebrates win with loved ones, gives emotional speech Social media influencer Shreya Kalra celebrated her victory on Lock Upp Season 2 with her friends and family after the grand finale aired. She dedicated the trophy to those who stood by her throughout her journey and defended her outside the show."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/ted-sarandos-meets-pm-modi-unveils-netflixs-big-india-storytelling-initiative-2964594-2026-08-05",
-      "headline": "Ted Sarandos meets PM Modi, unveils Netflix's big India storytelling push Ted Sarandos met Prime Minister Narendra Modi as Netflix launched a new India storytelling initiative. The plan focusses on skilling, accessibility and building a stronger creative talent pipeline."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-season-2-grand-finale-highlights-shreya-kalra-shivangi-joshi-farah-khan-riteish-deshmukh-yogesh-rawat-ram-kapoor-shilpa-shinde-2964537-2026-08-05",
-      "headline": "Lock Upp 2 finale: How Shreya Kalra beat the odds to lift the trophy Lock Upp Season 2 ended with dramatic tasks, a public jury round and emotional moments on stage. Here are the biggest highlights from the grand finale, where Shreya Kalra emerged as the winner."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-season-2-shreya-kalra-lifts-trophy-wins-rs-1-crore-prize-money-2964195-2026-08-05",
-      "headline": "Lock Upp Season 2: Shreya Kalra lifts trophy, wins Rs 1 crore prize money Social media influencer Shreya Kalra won Lock Upp 2 and took home Rs 1 crore. Her victory came in a grand finale that also featured Shivangi Joshi, Ram Kapoor, Yogesh Rawat and Shilpa Shinde."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rest-in-peace-brother-salman-khan-mourns-baaghi-co-star-pradeep-rawats-death-2964388-2026-08-05",
-      "headline": "Rest in peace, brother: Salman Khan mourns Baaghi co-star Pradeep Rawat's death Actor Salman Khan paid tribute to co-actor Pradeep Rawat, who died at 74 in Bhiwandi. Reminiscing about their shared moments, Khan bid a heartfelt farewell to his friend."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/jiyaa-shankar-engagement-fiance-kaaran-sunset-proposal-photos-2964375-2026-08-05",
-      "headline": "Actor Jiyaa Shankar introduces fiance Kaaran in romantic engagement reveal Actor Jiyaa Shankar announced her engagement to fianc\u00e9 Kaaran with dreamy proposal photos and a heartfelt note on Instagram. The announcement came months after she dismissed dating rumours with Abhishek Malhan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/raakh-to-off-campus-8-prime-video-shows-for-every-mood-2964366-2026-08-05",
-      "headline": "Raakh to Off Campus: 8 Prime Video shows and films for every mood Prime Video's 2026 originals range from school comedy and rural drama to crime, reality and romance. The line-up suggests the platform's strongest response has come from stories rooted in recognisable Indian settings."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/bombay-high-court-convcits-tarun-tejpal-in-2013-sexual-assault-case-overturns-trial-courts-verdict-2964830-2026-08-06",
-      "headline": "Tarun Tejpal, Tehelka founder, convicted for raping employee at 2013 work eventThe Bombay High Court overturned the acquittal of Tehelka magazine founder Tarun Tejpal and convicted him of rape in the 2013 case. The Goa government had appealed against Tejpal's acquittal."
+      "headline": "Tarun Tejpal, Tehelka founder, gets 10-year jail for raping employee in 2013The Bombay High Court overturned the acquittal of Tehelka magazine founder Tarun Tejpal and convicted him of rape in the 2013 case. The Goa government had appealed against Tejpal's acquittal."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/fcra-bill-delimitation-bjp-risks-losing-dmk-ncp-sp-support-2964728-2026-08-06",
-      "headline": "BJP's Catch-22: With FCRA bill, it risks losing delimitation backersFor the passage of the delimitation bill, the government would need supporters beyond its NDA partners. However, many of these potential backers are vehemently opposed to the FCRA amendment bill."
+      "url": "https://www.indiatoday.in/india/story/tarun-tejpal-acquittal-hearing-live-updates-rape-case-bombay-goa-high-court-2964712-2026-08-06",
+      "headline": "Live: HC gives Tarun Tejpal 2 weeks to surrender after 10-year rape sentenceTarun Tejpal Case Live Updates: The Goa bench of the Bombay High Court has convicted former Tehelka editor Tarun Tejpal in the 2013 sexual assault case, overturning the trial court's acquittal. The court convicted him under Sections 376(2)(f), 376(2)(k), 354A and 354B of the IPC and said it would hear arguments on the quantum of sentence later today. The case stems from allegations by Tejpal's junior colleague that he sexually assaulted her in the elevator of a luxury hotel in Goa during an event hosted by the magazine. Follow this space for all the live updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/tarun-tejpal-rape-case-bombay-high-court-convicts-ex-tehelka-editor-overturns-acquittal-2964859-2026-08-06",
-      "headline": "Tarun Tejpal faces life term: The charges that led to his rape convictionTehelka founder Tarun Tejpal has been convicted of aggravated rape, sexual harassment and assault with intent to disrobe a colleague during a 2013 Goa event."
+      "url": "https://www.indiatoday.in/business/story/lic-share-stake-sale-government-raises-usd-3-3-billion-in-secret-dilution-bankers-unaware-2964867-2026-08-06",
+      "headline": "A mystery meeting, hours' notice: Inside government's Rs 31,500-crore LIC saleA banker summoned without explanation, advisers kept guessing and traders left no time to react. Inside the secrecy behind the government's massive Rs 31,500-crore LIC stake sale."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/anti-reservation-protests-karni-sena-rajasthan-nagpur-rha-harsh-dubey-quota-campaign-2964502-2026-08-06",
-      "headline": "Rage over caste reservation spills onto streets; Karni Sena vows no voteFrom Nagpur to Lucknow to Jaipur and Visakhapatnam, anti-reservation protests are being reported from several cities even as a parallel campaign against caste-based quotas is gathering pace online. With several Assembly elections approaching, the growing chorus against reservation could reopen India's most politically sensitive fault lines."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/gangster-atiq-ahmeds-son-aban-on-way-to-meet-jailed-brother-killed-in-jhansi-road-accident-2964916-2026-08-06",
+      "headline": "Gangster Atiq Ahmed's son, on way to meet jailed brother, killed in road accidentAban Ahmed died in a road accident in Jhansi while travelling to meet his jailed brother Ali. Police said the vehicle hit a highway divider, leaving another occupant dead and three people injured."
     },
     {
       "sentiment": "positive",
@@ -226,33 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-pm-shehbaz-sharif-full-term-mohsin-naqvi-system-collapse-2964810-2026-08-06",
-      "headline": "Will Pakistan PM complete term? Naqvi clears air on 'system collapse' remarkPakistan's all-powerful interior minister Mohsin Naqvi, who has close ties with Asim Munir, cleared the air on speculation over the survival of the Shehbaz Sharif government and his remark that the governance system has 'collapsed'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/lic-share-stake-sale-government-raises-usd-3-3-billion-in-secret-dilution-bankers-unaware-2964867-2026-08-06",
-      "headline": "How the government quietly pulled off its $3.3 billion LIC share saleThe Centre executed LIC's $3.3 billion stake sale with unusual speed and secrecy this week. The tactic helped avoid pressure on the share price and enabled the offer to be expanded."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/press-release/story/eyewitness-to-a-nation-documentary-to-release-in-pvr-inox-cinemas-on-7-august-2958148-2026-07-28",
-      "headline": "India Today's documentary 'Eyewitness to a Nation' to release in cinemas on August 7India Today Group has partnered with PVR INOX for the theatrical release of its documentary, Eyewitness to a Nation. The film marks India Today's Golden Jubilee and revisits modern India's defining moments through archival journalism."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/air-india-ai2379-turbulence-phuket-delhi-flight-drops-300-feet-17-injured-minister-ram-mohan-naidu-2964727-2026-08-06",
-      "headline": "Air India turbulence lasted 5 minutes, crew suffered spinal injuries: MinisterAn Air India flight from Phuket to Delhi encountered severe mid-air turbulence, briefly losing around 300 feet in altitude and leaving 17 people injured on Thursday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/im-62-and-i-believe-im-a-victim-tarun-tejpal-urges-leniency-after-conviction-in-2013-sex-assault-case-2964838-2026-08-06",
-      "headline": "I'm 62, and I'm a victim: Tarun Tejpal seeks leniency after rape convictionThe Bombay High Court set aside a trial court judgment that had acquitted Tarun Tejpal of sexually assaulting a former colleague in a hotel elevator. Ahead of the sentencing, the journalist sought leniency from the court, saying he has two daughters and a wife."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/arvind-kejriwal-meta-instagram-account-restricted-in-india-pm-modi-2964805-2026-08-06",
-      "headline": "Arvind Kejriwal claims his Insta account restricted, asks Meta not to bow down to PMArvind Kejriwal claimed his Instagram account had been restricted in India without explanation and accused Meta of 'bowing down' to PM Modi."
+      "url": "https://www.indiatoday.in/india/story/fcra-bill-delimitation-bjp-risks-losing-dmk-ncp-sp-support-2964728-2026-08-06",
+      "headline": "BJP's Catch-22: With FCRA bill, it risks losing delimitation backersFor the passage of the delimitation bill, the government would need supporters beyond its NDA partners. However, many of these potential backers are vehemently opposed to the FCRA amendment bill."
     },
     {
       "sentiment": "positive",
@@ -261,33 +236,68 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/i-am-a-heart-surgeon-i-tell-my-patients-that-a-normal-ecg-is-not-a-clean-chit-2964122-2026-08-06",
-      "headline": "I am a heart surgeon: I tell my patients that a normal ECG is not a clean chitMany people believe that a normal ECG and cholesterol report mean their heart is perfectly healthy. As a heart lung transplant surgeon, I explain why these tests are only one part of the picture and why looking at your overall cardiac risk can save lives."
+      "url": "https://www.indiatoday.in/press-release/story/eyewitness-to-a-nation-documentary-to-release-in-pvr-inox-cinemas-on-7-august-2958148-2026-07-28",
+      "headline": "India Today's documentary 'Eyewitness to a Nation' to release in cinemas on August 7India Today Group has partnered with PVR INOX for the theatrical release of its documentary, Eyewitness to a Nation. The film marks India Today's Golden Jubilee and revisits modern India's defining moments through archival journalism."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-delhi-venue-indira-gandhi-stadium-facelift-bai-2964567-2026-08-05",
-      "headline": "After bird poop drama, Delhi venue gets Rs 20-crore facelift for BWF WorldsSeven months after the India Open drew criticism, a nearly Rs 20-crore revamp is underway at Delhi's Indira Gandhi Indoor Stadium. With 12 days to go before the BWF World Championships, early signs from the venue are encouraging."
+      "url": "https://www.indiatoday.in/india/story/anti-reservation-protests-karni-sena-rajasthan-nagpur-rha-harsh-dubey-quota-campaign-2964502-2026-08-06",
+      "headline": "Rage over caste reservation spills onto streets; Karni Sena vows no voteFrom Nagpur to Lucknow to Jaipur and Visakhapatnam, anti-reservation protests are being reported from several cities even as a parallel campaign against caste-based quotas is gathering pace online. With several Assembly elections approaching, the growing chorus against reservation could reopen India's most politically sensitive fault lines."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/typhoon-dolphin-raging-in-pacific-ocean-could-hit-monsoon-rain-in-india-imd-2964381-2026-08-06",
-      "headline": "Indian monsoon eyeing new threat: A raging typhoon in Pacific OceanSuper Typhoon Dolphin is moving towards Japan while weather scientists track its possible effect on India's monsoon. The storm may briefly suppress Bay of Bengal systems and reduce rainfall over parts of the country."
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/kanpur-lucknow-expressway-toll-suspended-nhai-road-slippage-repairs-uttar-pradesh-toll-suspended-2964766-2026-08-06",
       "headline": "Rs 4,200-crore UP expressway sinks within weeks of opening, road dug up againThe NHAI has suspended toll collection, ordered extensive repairs and initiated action against the concessionaire and officials after multiple defects emerged on the newly opened Kanpur-Lucknow Expressway."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/sheikh-hasina-delhi-exile-speech-tests-india-bangladesh-relations-2964806-2026-08-06",
-      "headline": "Hasina's voice from exile: A new test for India-Bangladesh relationsSheikh Hasina used her first public address from New Delhi to vow a return to Bangladesh and challenge the post-2024 political order. Her re-emergence sharpens political polarisation in Dhaka while posing a diplomatic test for India."
+      "url": "https://www.indiatoday.in/technology/features/story/sanjay-ghemawat-grew-up-in-kota-and-helped-build-google-now-he-is-suddenly-leaving-2964908-2026-08-06",
+      "headline": "Sanjay Ghemawat grew up in Kota and helped build Google, now he is suddenly leavingGoogle saw some high-profile exits on Wednesday, including that of Sanjay Ghemawat. Considered a rockstar in the world of tech, Sanjay grew up in Kota. Now, he is suddenly leaving Google after spending 27 years at the company."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/tarun-tejpal-news-goa-resort-rape-case-five-point-explainer-bombay-high-court-conviction-2964842-2026-08-06",
+      "headline": "What is the Tarun Tejpal Goa resort rape case? Explained in 5 pointsTehelka founder-editor Tarun Tejpal has been convicted in a rape case by the Goa bench of the Bombay High Court. The HC overturned an earlier trial court order in a case pertaining to the sexual assault of a junior team member by Tejpal in an elevator of a Goa resort in 2013."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/i-am-a-heart-surgeon-i-tell-my-patients-that-a-normal-ecg-is-not-a-clean-chit-2964122-2026-08-06",
+      "headline": "I am a heart surgeon: I tell my patients that a normal ECG is not a clean chitMany people believe that a normal ECG and cholesterol report mean their heart is perfectly healthy. As a heart lung transplant surgeon, I explain why these tests are only one part of the picture and why looking at your overall cardiac risk can save lives."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/air-india-ai2379-turbulence-phuket-delhi-flight-drops-300-feet-17-injured-minister-ram-mohan-naidu-2964727-2026-08-06",
+      "headline": "Air India turbulence lasted 5 minutes, crew suffered spinal injuries: MinisterAn Air India flight from Phuket to Delhi encountered severe mid-air turbulence, briefly losing around 300 feet in altitude and leaving 17 people injured on Thursday."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/story/chandigarh-district-court-summons-salman-khan-his-sister-in-alleged-cheating-case-linked-to-being-human-2964799-2026-08-06",
-      "headline": "Salman Khan, his sister summoned in Rs 3-crore fraud case linked to Being HumanA Chandigarh court has summoned Salman Khan and his sister, Alvira Khan Agnihotri, in connection with a cheating complaint linked to a Being Human jewellery showroom. The two have been asked to appear on October 5 to respond to allegations made by businessman Arun Gupta."
+      "url": "https://www.indiatoday.in/trending-news/story/electric-fans-brought-in-to-dry-up-expressway-after-it-sinks-weeks-after-opening-2964934-2026-08-06",
+      "headline": "Electric fans brought in to dry UP expressway after it sinks weeks after openingElectric fans were deployed to dry the damaged Kanpur-Lucknow Expressway stretch after heavy rain caused a road cave-in. The repair effort has brought traffic diversion, safety concerns and a wider probe into construction quality."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/arvind-kejriwal-meta-instagram-account-restricted-in-india-pm-modi-2964805-2026-08-06",
+      "headline": "Arvind Kejriwal claims his Insta account restricted, asks Meta not to bow down to PMArvind Kejriwal claimed his Instagram account had been restricted in India without explanation and accused Meta of 'bowing down' to PM Modi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/before-ranbir-kapoor-ramayana-salman-khan-sonali-bendre-played-ram-sita-in-shelved-film-2964764-2026-08-06",
+      "headline": "When Salman Khan played Lord Ram and Sonali Bendre was Sita in unreleased filmActors Salman Khan and Sonali Bendre were cast as Lord Ram and Goddess Sita in actor-director Sohail Khan's shelved Ramayana. The film was halted after off-screen developments involving Pooja Bhatt brought production to a standstill."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-pm-shehbaz-sharif-full-term-mohsin-naqvi-system-collapse-2964810-2026-08-06",
+      "headline": "Will Pak PM Shehbaz Sharif complete term? Naqvi's big remark amid rift buzzPakistan's all-powerful interior minister Mohsin Naqvi, who has close ties with Asim Munir, cleared the air on speculation over the survival of the Shehbaz Sharif government and his remark that the governance system has 'collapsed'."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-news-uk-grooming-gang-enquiry-pok-elections-pakistanis-in-uk-manchester-police-2964850-2026-08-06",
+      "headline": "On bail in UK child rape case, former Pak minister wins polls in POKA politician being investigated by UK police in child rape and trafficking has been elected to the Pakistan-Occupied Kashmir (POK) Assembly. Rushkar Ahmed, a former minister in POK, is out on bail and had been earlier linked to a Pakistani grooming gang that operated in the UK."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-man-proves-auto-driver-wrong-makes-him-apologise-after-road-showdown-2964892-2026-08-06",
+      "headline": "Bengaluru man proves auto driver wrong, makes him apologise after road showdownA Bengaluru man confronted an auto driver for driving on a one-way service road from the wrong side and asked him to apologise after showing the signboard."
     },
     {
       "sentiment": "positive",
@@ -296,23 +306,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/giant-10-foot-long-pythons-rescue-turns-into-a-tug-of-war-at-maharashtra-airport-2964769-2026-08-06",
-      "headline": "Giant 10-foot-long python's rescue turns into a tug of war at Maharashtra airportA nearly 10-foot python was found in bushes near Amravati Airport's departure area and safely rescued. The swift response prevented panic, kept operations unaffected and ensured the reptile was released into the wild."
+      "url": "https://www.indiatoday.in/india/law-news/story/im-62-and-i-believe-im-a-victim-tarun-tejpal-urges-leniency-after-conviction-in-2013-sex-assault-case-2964838-2026-08-06",
+      "headline": "I'm 62, and I'm a victim: Tarun Tejpal seeks leniency after rape convictionThe Bombay High Court set aside a trial court judgment that had acquitted Tarun Tejpal of sexually assaulting a former colleague in a hotel elevator. Ahead of the sentencing, the journalist sought leniency from the court, saying he has two daughters and a wife."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/meet-the-us-class-8-student-who-used-200-ants-to-unlock-a-navigation-secret-2964755-2026-08-06",
-      "headline": "Meet the US teen whose curiosity about 200 ants led to an award-winning discoveryWhat began as a simple question about ants led teenager Seungah Chung to an award-winning scientific discovery. Using a custom-built maze and 200 red harvester ants, she found that the insects rely on visual landmarks to find food and return home, offering new insight into their remarkable navigation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tarun-tejpal-acquittal-hearing-live-updates-rape-case-bombay-goa-high-court-2964712-2026-08-06",
-      "headline": "Live: Bombay HC to pronounce Tarun Tejpal's sentence at 2.30 pmTarun Tejpal Case Live Updates: The Goa bench of the Bombay High Court has convicted former Tehelka editor Tarun Tejpal in the 2013 sexual assault case, overturning the trial court's acquittal. The court convicted him under Sections 376(2)(f), 376(2)(k), 354A and 354B of the IPC and said it would hear arguments on the quantum of sentence later today. The case stems from allegations by Tejpal's junior colleague that he sexually assaulted her in the elevator of a luxury hotel in Goa during an event hosted by the magazine. Follow this space for all the live updates."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/nagpur-kidnapping-case-accused-demands-pizza-in-custody-refuses-passwords-2964785-2026-08-06",
-      "headline": "Rape accused demands pizza, premium meals, comfortable bed in police lock-upA Nagpur teen arrested in an abduction and rape case has demanded pizza, premium meals and comfortable bed in police custody while refusing to cooperate with investigators, leaving the probe at a standstill."
+      "url": "https://www.indiatoday.in/india/law-news/story/tarun-tejpal-rape-case-bombay-high-court-convicts-ex-tehelka-editor-overturns-acquittal-2964859-2026-08-06",
+      "headline": "Tarun Tejpal convicted for rape: Charges and punishment announcedTehelka founder Tarun Tejpal has been convicted and sentenced to 10 years in jail for aggravated rape, sexual harassment and assault with intent to disrobe a colleague during a 2013 event in Goa."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,31 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mitchell-starc-kapil-dev-test-wickets-record-australia-bangladesh-series-2965005-2026-08-06",
+      "headline": "Mitchell Starc nears Kapil Dev's Test tally but isn't getting carried away Mitchell Starc is just one wicket away from equalling Kapil Dev's tally of 434 Test wickets. Ahead of Australia's series against Bangladesh, the veteran pacer said it was special to be mentioned alongside the game's greats but insisted he isn't looking too far ahead."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sl-vs-ind-tests-gautam-gambhir-blunt-message-india-sri-lanka-video-bcci-2964938-2026-08-06",
+      "headline": "Gautam Gambhir sets the tone with blunt message ahead of Sri Lanka Tests SL vs IND: Gautam Gambhir has urged India to leave nothing to chance ahead of the Sri Lanka Test series, calling on his players to \"tick all the boxes\" during the warm-up match as they prepare for the spin challenge awaiting them in Galle."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/tanvi-sharma-korea-masters-quarterfinals-golden-run-2964913-2026-08-06",
+      "headline": "Tanvi Sharma continues golden run, storms into Korea Masters quarterfinals India's teenage badminton star Tanvi Sharma continued her remarkable run by reaching the Korea Masters Super 300 quarterfinals. Fresh from her maiden BWF World Tour title in Taipei, the 17-year-old will next face compatriot Rakshitha Sree fo"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jos-buttler-vaibhav-sooryavanshi-t20-highest-run-scorer-kieron-pollard-2964911-2026-08-06",
+      "headline": "Someone will break my T20 record. It'll probably be Vaibhav Sooryavanshi: Buttler Jos Buttler became T20 cricket's highest run-scorer after surpassing Kieron Pollard, but it was his praise for India's teenage sensation Vaibhav Sooryavanshi that stole the spotlight. The England star believes the 15-year-old can one day."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-inter-miami-vs-atletico-san-luis-leagues-cup-opener-2964885-2026-08-06",
+      "headline": "World Cup heartbreak in the past, Lionel Messi unleashes magic for Inter Miami Lionel Messi scored twice and helped Inter Miami beat Atletico San Luis 4-2 in their Leagues Cup opener. The magical display came weeks after Argentina lost the FIFA World Cup final to Spain in the United States."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/aiff-kalyan-chaubey-tata-group-jamshedpur-fc-isl-exit-football-2964857-2026-08-06",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-centre-of-excellence-vizag-foundation-seven-sport-hub-2964645-2026-08-05",
-      "headline": "PV Sindhu lays foundation for Centre Of Excellence named after her in Vizag PV Sindhu and Nara Lokesh laid the foundation stone for a multi-sport centre in Vizag. The project broadens Sindhu's legacy from medals to building a pathway for future Olympians."
+      "headline": "PV Sindhu lays foundation for Centre Of Excellence named after her in VizagPV Sindhu and Nara Lokesh laid the foundation stone for a multi-sport centre in Vizag. The project broadens Sindhu's legacy from medals to building a pathway for future Olympians."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-west-indies-second-test-pakistan-end-three-year-away-test-drought-2964635-2026-08-05",
-      "headline": "Babar Azam ends Pakistan's wait for away Test win, saves series vs West Indies Pakistan ended a three-year wait for an away Test victory after defeating the West Indies by eight wickets in the second Test, levelling the two-match series 1-1 under Babar Azam's captaincy. The win snapped an eight-match overseas losing streak and marked Pakistan's first Test triumph in the Caribbean in five years."
+      "headline": "Babar Azam ends Pakistan's wait for away Test win, saves series vs West IndiesPakistan ended a three-year wait for an away Test victory after defeating the West Indies by eight wickets in the second Test, levelling the two-match series 1-1 under Babar Azam's captaincy. The win snapped an eight-match overseas losing streak and marked Pakistan's first Test triumph in the Caribbean in five years."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/korea-masters-super-300-tanvi-sharma-advances-kidambi-srikanth-exits-2964634-2026-08-05",
-      "headline": "Korea Masters: Tanvi Sharma continues fine form, Srikkanth out in round 1 Tanvi Sharma led a strong Indian showing in the women's singles first round at the Korea Masters, while Kidambi Srikanth exited in three games. The results left India with encouraging momentum in women's singles but an early setback in men's singles."
+      "headline": "Korea Masters: Tanvi Sharma continues fine form, Srikkanth out in round 1Tanvi Sharma led a strong Indian showing in the women's singles first round at the Korea Masters, while Kidambi Srikanth exited in three games. The results left India with encouraging momentum in women's singles but an early setback in men's singles."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shakib-al-hasan-house-attack-magura-bangladesh-political-tensions-2964600-2026-08-05",
-      "headline": "Petrol bomb attack at Shakib Al Hasan's home hours after joining Hasina's presser Former Bangladesh captain Shakib Al Hasan's home in Magura was attacked and stones were thrown by unidentified individuals on Wednesday evening. The incident came hours after Shakib took part in former Bangladesh prime minister Sheikh Hasina's press conference."
+      "headline": "Petrol bomb attack at Shakib Al Hasan's home hours after joining Hasina's presserFormer Bangladesh captain Shakib Al Hasan's home in Magura was attacked and stones were thrown by unidentified individuals on Wednesday evening. The incident came hours after Shakib took part in former Bangladesh prime minister Sheikh Hasina's press conference."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-delhi-venue-indira-gandhi-stadium-facelift-bai-2964567-2026-08-05",
-      "headline": "After bird poop drama, Delhi venue gets Rs 20-crore facelift for BWF Worlds Seven months after the India Open drew criticism, a nearly Rs 20-crore revamp is underway at Delhi's Indira Gandhi Indoor Stadium. With 12 days to go before the BWF World Championships, early signs from the venue are encouraging."
+      "headline": "After bird poop drama, Delhi venue gets Rs 20-crore facelift for BWF WorldsSeven months after the India Open drew criticism, a nearly Rs 20-crore revamp is underway at Delhi's Indira Gandhi Indoor Stadium. With 12 days to go before the BWF World Championships, early signs from the venue are encouraging."
     },
     {
       "sentiment": "positive",
@@ -445,31 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/r-praggnanandhaa-st-louis-rapid-blitz-grand-chess-tour-finals-2963989-2026-08-05",
       "headline": "R Praggnanandhaa tops St. Louis Rapids to boost Grand Chess Tour Finals hopesR Praggnanandhaa topped the rapid section of the St. Louis Rapid & Blitz with 12 points from nine rounds, taking a crucial step towards qualifying for the Grand Chess Tour Finals. The Indian now heads into the decisive 18-game blitz segment with a one-point lead."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-no-practice-games-in-india-border-gavaskar-trophy-series-2027-2963933-2026-08-05",
-      "headline": "Australia reveal unique blueprint to conquer India for Border-Gavaskar series in 2027Australia have unveiled an unconventional blueprint for the 2027 Border-Gavaskar Trophy, opting against a practice match in favour of a specialised camp in India-like conditions as they bid to crack the subcontinent challenge."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-jordan-football-president-attack-gianni-infantino-2963840-2026-08-05",
-      "headline": "FIFA is blackmailing us: Jordan football launch public attack on InfantinoJordan Football Association president, Ali bin Al Hussein, has accused FIFA president Gianni Infantino of \"blackmail\". Hussein has alleged that support for his federation was made conditional on endorsing the FIFA chief."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-pulls-out-cincinnati-open-injury-return-doubts-2963856-2026-08-05",
-      "headline": "Carlos Alcaraz's comeback put on hold as he pulls out of Cincinnati OpenCarlos Alcaraz has withdrawn from the Cincinnati Open, delaying his expected return to competitive tennis ahead of the US Open. Tournament organisers confirmed the pullout but did not disclose a reason, raising fresh questions over his preparations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-sl-vs-ind-tests-spin-practise-damp-pitch-explained-2963824-2026-08-05",
-      "headline": "Explained: Why KL Rahul practised vs spin on damp pitch ahead of Sri Lanka TestsKL Rahul's latest Instagram video showed the India vice-captain training on a damp, muddy pitch in Mumbai ahead of the Sri Lanka Tests. The unusual drill was aimed at replicating the sharp turn and uneven bounce expected in the island nation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-tests-gills-side-return-to-extend-unbeaten-series-run-2963750-2026-08-05",
-      "headline": "The island India conquered: A look at their Test dominance in Sri LankaSL vs IND: India return to Sri Lanka for their first Test series on the island in nine years, carrying an unbeaten bilateral series record there since 2008."
     }
   ],
   "education": [
@@ -547,11 +547,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
       "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
-      "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
     {
       "sentiment": "positive",
