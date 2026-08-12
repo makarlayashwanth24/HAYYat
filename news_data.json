@@ -201,13 +201,13 @@
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jantar-mantar-season-two-begin-soon-cjp-founder-abhijeet-dipke-hints-fresh-protest-delhi-meeting-venue-bjp-pressure-2969576-2026-08-12",
-      "headline": "Jantar Mantar Season 2 to begin soon: CJP's Abhijeet Dipke hints at fresh protestThe CJP, which recently ended its 36-day Jantar Mantar protest over the NEET paper leak issue, said it will now launch a nationwide \"listening tour\" focused on education and public grievances."
+      "url": "https://www.indiatoday.in/world/story/prolong-war-until-next-presidency-irgc-adviser-on-irans-strategy-against-the-us-2969884-2026-08-13",
+      "headline": "Iran may keep war going until Trump's term ends, says IRGC adviserAn IRGC adviser said Iran could prolong its conflict with the US until Donald Trump leaves office. He said the strategy was meant to impose costs, build deterrence and signal Iran's staying power."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/prolong-war-until-next-presidency-irgc-adviser-on-irans-strategy-against-the-us-2969884-2026-08-13",
-      "headline": "Iran may keep war going until Trump's term ends, says IRGC adviserAn IRGC adviser said Iran could prolong its conflict with the US until Donald Trump leaves office. He said the strategy was meant to impose costs, build deterrence and signal Iran's staying power."
+      "url": "https://www.indiatoday.in/india/story/jantar-mantar-season-two-begin-soon-cjp-founder-abhijeet-dipke-hints-fresh-protest-delhi-meeting-venue-bjp-pressure-2969576-2026-08-12",
+      "headline": "Jantar Mantar Season 2 to begin soon: CJP's Abhijeet Dipke hints at fresh protestThe CJP, which recently ended its 36-day Jantar Mantar protest over the NEET paper leak issue, said it will now launch a nationwide \"listening tour\" focused on education and public grievances."
     },
     {
       "sentiment": "negative",
@@ -221,8 +221,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/total-solar-eclipse-2026-today-timings-live-stream-india-2969530-2026-08-12",
-      "headline": "Watch LIVE: Moon bites into the Sun, sends Europe into brief darknessThe only total solar eclipse of 2026 is taking place today, August 12. Check eclipse timings, visibility, live streams and how Indians can watch it"
+      "url": "https://www.indiatoday.in/science/story/europes-first-total-solar-eclipse-since-1999-brings-rare-midday-darkness-2969901-2026-08-13",
+      "headline": "Total solar eclipse sweeps across Europe, bringing rare midday darknessA total solar eclipse swept across parts of Europe and the Northern Hemisphere on August 12. The event marked mainland Europe's first totality since 1999 and gave scientists a rare view of the corona."
     },
     {
       "sentiment": "positive",
@@ -567,6 +567,11 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
+      "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
     {
       "sentiment": "positive",
