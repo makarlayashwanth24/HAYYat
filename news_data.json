@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/emraan-hashmi-awarapan-2-is-no-cash-grab-no-distributor-backed-it-producer-vishesh-bhatt-2972716-2026-08-16",
+      "headline": "Awarapan 2 is no cash grab, no distributor backed it: Producer Vishesh Bhatt Producer Vishesh Bhatt said Awarapan 2 was not designed as a cash grab and had no initial distributor support. He said the film's strong opening shows why audiences must back such releases in cinemas."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-revisits-rashmika-mandanna-2017-mr-showoff-comment-i-am-who-i-am-2972676-2026-08-16",
       "headline": "I am who I am: Yash revisits Rashmika Mandanna's 2017 'Mr Showoff' comment Yash revisited Rashmika Mandanna's 2017 'Mr Showoff' controversy during a recent interview. He also spoke about his fans' reaction to the old remark and how he views it today."
     },
@@ -191,43 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/deepika-padukone-baby-bump-mumbai-airport-ranveer-singh-backseat-2972203-2026-08-15",
       "headline": "Pregnant Deepika Padukone makes rare appearance, Ranveer drops her at airport. Video Deepika Padukone was seen at Mumbai airport while Ranveer Singh dropped her off from their car. The sighting has renewed interest in the actor-couple's second pregnancy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/saif-ali-khan-sister-saba-pataudi-reveals-sharmila-tagore-did-convert-guide-her-kids-in-islam-2972189-2026-08-15",
-      "headline": "Amma did convert: Saba Pataudi on mother Sharmila Tagore, Islamic upbringing Saba Pataudi said her mother and actor Sharmila Tagore converted to Islam after marrying Mansoor Ali Khan Pataudi and taught her children the faith. She said religion was never imposed at home, where festivals across faiths were celebrated."
     }
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/karnataka-forest-firing-tamil-nadu-vijay-seeks-probe-into-deaths-of-three-tamils-2972723-2026-08-16",
+      "headline": "CM Vijay condemns 'massacre' of 3 Tamilians in Karnataka forest firingCM Vijay's intervention added to the political reactions in Tamil Nadu, where the DMK and PMK have also condemned the deaths and questioned the claim that the three men were poachers."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/dimagi-naxal-row-chidambaram-proud-remark-kiren-rijiju-three-point-reply-2972648-2026-08-16",
       "headline": "Chidambaram's 'proud to be a dimagi naxal' dig gets Kiren Rijiju's 3-point listP Chidambaram said he was proud to be a 'dimagi naxal' after Prime Minister Narendra Modi used the term in his Independence Day speech. Kiren Rijiju replied that Modi was not targeting opposition leaders and set out three categories he said the remark referred to."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/sheikh-hasina-extradition-bangladesh-ties-tarique-rahman-india-visit-2972495-2026-08-16",
-      "headline": "Bangladesh links Tarique Rahman's India visit to Hasina extradition demandBangladesh has said Prime Minister Tarique Rahman's proposed India visit depends on a propitious environment. Dhaka has asked New Delhi to act on Sheikh Hasina's extradition and awaits a response."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nlsiu-convocation-row-students-oppose-cji-surya-kant-bci-chief-over-nalsar-action-ptag-2972305-2026-08-16",
-      "headline": "Bengaluru law students oppose CJI, Bar Council chief attending their convocationNLSIU students and alumni have opposed CJI Surya Kant and BCI Chairman Manan Kumar Mishra attending the university's convocation, citing the BCI's withdrawn order against NALSAR graduates. They demanded an apology from the BCI and expressed solidarity with NALSAR students."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-congress-mla-ny-gopalakrishna-andhra-merger-remark-molakalmuru-2972651-2026-08-16",
-      "headline": "Karnataka Congress MLA says merge constituency with Andhra. Then, clarifies remarkHours later, Gopalakrishna said he had sought better irrigation facilities and a special development package for Molakalmuru, not its merger with Andhra Pradesh."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/geomagnetic-storm-to-hit-earth-on-monday-it-erupted-from-the-sun-on-august-14-2972645-2026-08-16",
-      "headline": "Brace for impact: Geomagnetic storm from the Sun to hit Earth on MondayA coronal mass ejection triggered by an August 14 solar eruption is expected to brush Earth's magnetic field on Monday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/indian-bureaucracy-corruption-why-officers-like-tukaram-mundhe-and-ashok-khemka-are-rare-2971221-2026-08-16",
-      "headline": "What stops babus from being Tukaram Mundhe or Ashok Khemka?IAS officer Tukaram Mudhe has shaken up the system as the Maharashtra FDA Commissioner. If bureaucrats win so much praise and adulation for just doing their job, why don't all of them serve honestly? Serving and retired officers shared what makes babus give in, and why integrity carries a personal cost."
     },
     {
       "sentiment": "positive",
@@ -236,13 +216,43 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-hints-at-retirement-last-year-playing-football-2972674-2026-08-16",
-      "headline": "Ronaldo hints at retirement: It will probably be my last year playing footballCristiano Ronaldo has admitted that his playing career could be entering its final season, with the Portugal captain revealing that this will \"probably\" be his last year as a professional footballer."
+      "url": "https://www.indiatoday.in/world/story/iran-bounty-us-soldiers-amir-hatami-offers-30000-dollars-doubles-reward-women-2972708-2026-08-16",
+      "headline": "Financial Jihad: Iran to offer $30,000 bounty for killing, capturing US soldiersThe Iranian Army chief also claimed that the conflict has shattered Washington's military dominance and prompted countries to explore other ways of ensuring their security."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/geomagnetic-storm-to-hit-earth-on-monday-it-erupted-from-the-sun-on-august-14-2972645-2026-08-16",
+      "headline": "Brace for impact: Geomagnetic storm from the Sun to hit Earth on MondayA coronal mass ejection triggered by an August 14 solar eruption is expected to brush Earth's magnetic field on Monday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/sheikh-hasina-extradition-bangladesh-ties-tarique-rahman-india-visit-2972495-2026-08-16",
+      "headline": "Bangladesh links Tarique Rahman's India visit to Hasina extradition demandBangladesh has said Prime Minister Tarique Rahman's proposed India visit depends on a propitious environment. Dhaka has asked New Delhi to act on Sheikh Hasina's extradition and awaits a response."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/gaza-peace-plan-arab-countries-turkey-pakistan-condemn-israel-rejection-2972721-2026-08-16",
+      "headline": "Arab countries, Turkey, Pak condemn Israel's rejection of Trump's Gaza peace planNine countries, including several Arab states, Turkey, Pakistan and Indonesia, condemned Israel's rejection of Donald Trump's Gaza plan. They said the move could weaken renewed diplomatic efforts to end the war."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sunday-special/story/indian-bureaucracy-corruption-why-officers-like-tukaram-mundhe-and-ashok-khemka-are-rare-2971221-2026-08-16",
+      "headline": "What stops babus from being Tukaram Mundhe or Ashok Khemka?IAS officer Tukaram Mudhe has shaken up the system as the Maharashtra FDA Commissioner. If bureaucrats win so much praise and adulation for just doing their job, why don't all of them serve honestly? Serving and retired officers shared what makes babus give in, and why integrity carries a personal cost."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/ukraine-attack-russia-822-drones-intercepted-wildberries-warehouse-hit-moscow-strikes-zelenskyy-hometown-2972632-2026-08-16",
       "headline": "Ukraine launches its biggest attack of 2026, Russia strikes Zelenskyy's hometownRussia's Defence Ministry said 822 Ukrainian drones were shot down or neutralised across the country. The attacks were reported across 17 regions, with much of the activity concentrated in southern and western Russia."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/bengal-cjp-protesters-father-beaten-to-death-eight-arrested-2972641-2026-08-16",
+      "headline": "Cockroach Janta Party protester's father beaten to death in Bengal, 8 arrestedA group of assailants attacked Sheikh Abdul Hafiz's family in Bankura after his school inspection visit, fatally injuring his father. The death triggered tension in the area, led to a murder case and resulted in eight arrests."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-congress-mla-ny-gopalakrishna-andhra-merger-remark-molakalmuru-2972651-2026-08-16",
+      "headline": "Karnataka Congress MLA says merge constituency with Andhra. Then, clarifies remarkHours later, Gopalakrishna said he had sought better irrigation facilities and a special development package for Molakalmuru, not its merger with Andhra Pradesh."
     },
     {
       "sentiment": "negative",
@@ -251,18 +261,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-engineer-builds-ai-app-that-spots-potholes-finds-who-should-fix-them-2972385-2026-08-16",
-      "headline": "Bengaluru engineer builds AI app that spots potholes, finds who should fix themAn engineer from Bengaluru built an AI-powered system that could detect potholes, pinpoint their location and identify the contractor responsible for the road."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/delhi-metro-passengers-grab-cisf-personnels-collar-after-woman-says-he-took-her-pics-2972456-2026-08-16",
       "headline": "Delhi Metro passengers grab CISF jawan's collar after woman says he took her picsA woman confronted a CISF personnel inside a Delhi Metro coach over photographs found on his phone. The argument escalated into a scuffle and panic among passengers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/antonello-da-messina-artworks-stolen-from-museo-regionale-di-messina-italy-2972491-2026-08-16",
-      "headline": "4 artworks of 17th century painter Antonello da Messina stolen from Italy museumThe theft has stripped Messina of parts of a rare Renaissance masterpiece that remained in the painter's hometown, along with another Antonello da Messina work acquired by the Sicilian Region two decades ago."
     },
     {
       "sentiment": "positive",
@@ -271,13 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/amit-shah-attacks-sonia-gandhi-vande-mataram-congress-event-sin-shameless-2972381-2026-08-16",
-      "headline": "Sin won't be forgiven: Amit Shah slams Sonia Gandhi over Vande Mataram rowAmit Shah alleged that Sonia Gandhi asked party leaders to stop the national song Vande Mataram midway during the Independence Day programme at Congress headquarters and called her action a \"sin\" that would never be forgiven."
+      "url": "https://www.indiatoday.in/india/story/nlsiu-convocation-row-students-oppose-cji-surya-kant-bci-chief-over-nalsar-action-ptag-2972305-2026-08-16",
+      "headline": "Bengaluru law students oppose CJI, Bar Council chief attending their convocationNLSIU students and alumni have opposed CJI Surya Kant and BCI Chairman Manan Kumar Mishra attending the university's convocation, citing the BCI's withdrawn order against NALSAR graduates. They demanded an apology from the BCI and expressed solidarity with NALSAR students."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/nainar-nagendran-complaint-remarks-cm-vijay-mother-tamil-nadu-2972350-2026-08-16",
-      "headline": "Complaint against Tamil Nadu BJP chief over 'ask your mother' jibe at CM VijayAfter facing political backlash over his derogatory remarks against CM C Joseph Vijay and his mother, BJP state president Nainar Nagendran now also faces a complaint over the remarks."
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-engineer-builds-ai-app-that-spots-potholes-finds-who-should-fix-them-2972385-2026-08-16",
+      "headline": "Bengaluru engineer builds AI app that spots potholes, finds who should fix themAn engineer from Bengaluru built an AI-powered system that could detect potholes, pinpoint their location and identify the contractor responsible for the road."
     },
     {
       "sentiment": "positive",
@@ -291,8 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-pm-video-call-after-historic-test-win-over-australia-in-darwin-2972499-2026-08-16",
-      "headline": "Bangladesh PM congratulates team on video call after historic Test win over AustraliaBangladesh Prime Minister Tarique Rahman congratulated Najmul Hossain Shanto and his teammates on a video call after their historic nine-wicket Test win over Australia in Darwin. The victory gave Bangladesh their first Test win on Australian soil and put them 1-0 ahead in the two-Test series."
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-hints-at-retirement-last-year-playing-football-2972674-2026-08-16",
+      "headline": "Ronaldo hints at retirement: It will probably be my last year playing footballCristiano Ronaldo has admitted that his playing career could be entering its final season, with the Portugal captain revealing that this will \"probably\" be his last year as a professional footballer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/amit-shah-attacks-sonia-gandhi-vande-mataram-congress-event-sin-shameless-2972381-2026-08-16",
+      "headline": "Sin won't be forgiven: Amit Shah slams Sonia Gandhi over Vande Mataram rowAmit Shah alleged that Sonia Gandhi asked party leaders to stop the national song Vande Mataram midway during the Independence Day programme at Congress headquarters and called her action a \"sin\" that would never be forgiven."
     },
     {
       "sentiment": "positive",
@@ -301,30 +306,25 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/dim-torka-how-this-humble-dal-with-an-egg-became-comfort-food-in-eastern-india-2972248-2026-08-16",
-      "headline": "Who put an egg in the dal? The curious story of dim torkaDim torka, a dal topped with scrambled egg, is a beloved roadside staple across parts of eastern India. Its murky origins and regional journey reveal how dishes travel, adapt and become markers of home."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/nainar-nagendran-complaint-remarks-cm-vijay-mother-tamil-nadu-2972350-2026-08-16",
+      "headline": "Complaint against Tamil Nadu BJP chief over 'ask your mother' jibe at CM VijayAfter facing political backlash over his derogatory remarks against CM C Joseph Vijay and his mother, BJP state president Nainar Nagendran now also faces a complaint over the remarks."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/two-people-injured-after-air-india-passengers-gun-goes-off-at-varanasi-airport-2972308-2026-08-16",
-      "headline": "Air India Express passenger's gun goes off at Varanasi airport, two staffers shotAn Air India Express passenger's pistol went off during a weapons check at Varanasi airport on Sunday, injuring two staffers: a woman and man. The bullet first hit the ground before striking the staffers, who were taken to a private hospital."
+      "url": "https://www.indiatoday.in/jobs/story/iit-graduate-interview-mocked-over-rs-40000-data-analyst-role-success-story-educ-2972500-2026-08-16",
+      "headline": "IIT tag became a burden: Graduate recalls painful job interview after UPSC attemptAn IIT graduate recalled being mocked during a 2019 job interview for applying for an entry-level role after quitting UPSC preparation. He says the IIT tag can create pressure to constantly prove one's worth."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/cami-clark-jeffrey-epstein-emails-eddice-investment-pitch-wsj-2972261-2026-08-16",
-      "headline": "Anthropic CEO's wife asked Epstein to invest in her porn business, emails revealAnthropic CEO's wife approached Jeffrey Epstein seeking investment in Eddice, her \"luxury porn\" venture. She shared the company's funding requirements and proposed film projects with him, but Epstein ultimately declined, replying, \"Can't do TV sex.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-day-2-match-report-devdutt-padikkal-dhruv-jurel-rishabh-pant-2972566-2026-08-16",
-      "headline": "Padikkal, Jurel steer India into dominant position on rain-marred Day 2Batters Devdutt Padikkal and Dhruv Jurel steered India to a strong position on Day 2 of the opening Test match against Sri Lanka. India finished the second day at 460/9 despite some disciplined bowling from the spinners."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/aravali-express-seat-dispute-model-attacks-rpf-officer-tc-breaks-coach-window-2972527-2026-08-16",
+      "headline": "Model strips, attacks RPF cops, train official with blade over seat disputeA seat dispute aboard the Aravali Express takes a dramatic turn when a model allegedly pulls out a razor, attacks railway personnel and tries to escape after breaking a coach window."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/arsenal-beat-manchester-city-community-shield-calafiori-odegaard-2972696-2026-08-16",
-      "headline": "Mikel Arteta's Arsenal blow Manchester City away to lift 18th Community Shield Arsenal could hardly have asked for a better start to the new season. Mikel Arteta's side tore Manchester City apart with a 3-0 win in the Community Shield on Sunday, lifting the trophy for the 18th time."
+      "headline": "Mikel Arteta's Arsenal blow Manchester City away to lift 18th Community Shield Arsenal made a statement before the Premier League season had even begun, sweeping aside Manchester City 3-0 to lift the Community Shield and claim the trophy for a record-extending 18th time."
     },
     {
       "sentiment": "positive",
@@ -499,7 +499,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
@@ -562,11 +562,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
-      "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
     {
       "sentiment": "positive",
