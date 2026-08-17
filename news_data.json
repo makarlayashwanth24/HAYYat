@@ -200,14 +200,19 @@
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/cm-soren-announces-cancellation-of-jssc-cgl-says-cid-will-probe-all-exams-held-in-jharkhand-since-2014-2973481-2026-08-17",
-      "headline": "Jharkhand govt cancels JSSC-CGL exam, orders probe into irregularities since 2014CM Hemant Soren said that all examinations conducted by TDPL since 2014 would be investigated by the CID, while a committee headed by a retired judge would conduct a separate enquiry into the irregularities."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/jharkhand/story/jssc-cgl-cancellation-jharkhand-scraps-tdpl-exams-mahato-ends-hunger-strike-2973605-2026-08-18",
+      "headline": "No student should be cheated: Jharkhand's Devendra Mahato after ending hunger strikeStudent leader Devendra Mahato ended his hunger strike after Jharkhand cancelled the JSSC-CGL exam and TDPL recruitment processes. Mahato demanded a law protecting students from fraud. Sonam Wangchuk praised the students and Chief Minister Hemant Soren for accepting their demands."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/bjp-party-new-team-announcemnet-piyush-goyal-named-treasurer-hint-modi-government-cabinet-reshuffle-2973150-2026-08-17",
       "headline": "Piyush Goyal named BJP treasurer. A hint at Modi Cabinet reshuffle?The BJP has named Piyush Goyal, Union Minister of Commerce and Industry, its national treasurer. Is this a signal of a Cabinet reshuffle? The question emerges due to the BJP's unwritten rule of 'one person, one post'. Interestingly, Pyush's father, Ved Prakash Goyal, was also a BJP treasurer."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/cm-soren-announces-cancellation-of-jssc-cgl-says-cid-will-probe-all-exams-held-in-jharkhand-since-2014-2973481-2026-08-17",
+      "headline": "Jharkhand govt cancels JSSC-CGL exam, orders probe into irregularities since 2014CM Hemant Soren said that all examinations conducted by TDPL since 2014 would be investigated by the CID, while a committee headed by a retired judge would conduct a separate enquiry into the irregularities."
     },
     {
       "sentiment": "positive",
@@ -216,18 +221,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-says-us-not-seeking-to-extend-interim-peace-deal-with-iran-as-60-day-deadline-passes-2973598-2026-08-18",
-      "headline": "Trump rules out interim Iran peace deal extension as 60-day deadline expiresThe interim peace agreement was intended to end the war and pave the way for talks on Iran's nuclear programme, while also reopening the Strait of Hormuz and lifting a US blockade. However, negotiations have stalled, with no breakthrough on Hormuz or detailed nuclear discussions."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/e20-petrol-ethanol-blending-konda-vishweshwar-reddy-internal-combustion-engine-bjp-news-2970583-2026-08-17",
       "headline": "BJP's engineer MP explains E20 petrol benefits with external combustionAmid protests in India over E20 petrol, BJP's engineer MP Konda Vishweshwar Reddy has sought to settle the controversy with a simple experiment, burning petrol and ethanol in steel tumblers. But does that actually tell us how the two fuels will actually perform inside a car engine? Here's the fact."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-says-us-not-seeking-to-extend-interim-peace-deal-with-iran-as-60-day-deadline-passes-2973598-2026-08-18",
+      "headline": "Trump rules out interim Iran peace deal extension as 60-day deadline expiresThe interim peace agreement was intended to end the war and pave the way for talks on Iran's nuclear programme, while also reopening the Strait of Hormuz and lifting a US blockade. However, negotiations have stalled, with no breakthrough on Hormuz or detailed nuclear discussions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/karunanidhi-row-tamil-nadu-cm-vijay-apologises-in-assembly-after-dmk-protest-ptag-2973385-2026-08-17",
+      "headline": "I apologise on his behalf: Vijay after minister names Karunanidhi without titleTamil Nadu Chief Minister C Joseph Vijay apologised in the Assembly after a minister referred to M Karunanidhi without honorifics. The intervention calmed DMK protests and underscored Tamil Nadu's strict legislative decorum."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/bjp-national-team-reshuffle-nitin-nabin-bets-new-faces-retaining-experienced-ones-new-general-secretaries-morcha-chiefs-2973405-2026-08-17",
       "headline": "Nitin Nabin's BJP shake-up: Veterans stay, new faces take key organisational rolesBJP president Nitin Nabin has unveiled a 65-member national team with wide-ranging changes across key posts. The reshuffle retains core organisational figures while creating space for newer leaders and more women."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-independence-nishan-e-imtiaz-indian-winners-muhammad-ali-jinnah-tuberculosis-partition-2973118-2026-08-17",
+      "headline": "Bombay Parsi doctors who kept Jinnah's illness secret get Pak's top civilian awardJinnah's failing health was one of the closely guarded secrets of the final days before Partition. Now, 78 years later, Pakistan is honouring two Parsi doctors from Bombay who treated the founder of the country and kept his terminal illness hidden at a pivotal moment in history."
     },
     {
       "sentiment": "positive",
@@ -241,13 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-independence-nishan-e-imtiaz-indian-winners-muhammad-ali-jinnah-tuberculosis-partition-2973118-2026-08-17",
-      "headline": "Bombay Parsi doctors who kept Jinnah's illness secret get Pak's top civilian awardJinnah's failing health was one of the closely guarded secrets of the final days before Partition. Now, 78 years later, Pakistan is honouring two Parsi doctors from Bombay who treated the founder of the country and kept his terminal illness hidden at a pivotal moment in history."
+      "url": "https://www.indiatoday.in/india/story/vande-mataram-row-congress-kharge-sings-first-two-stanzas-in-goa-2973450-2026-08-17",
+      "headline": "Kharge on dais, Congress sticks to first two stanzas of Vande Mataram at Goa eventCongress sticks to two stanzas of Vande Mataram at Kharge's Goa event, defying the new law mandating its full rendition."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/vande-mataram-row-congress-kharge-sings-first-two-stanzas-in-goa-2973450-2026-08-17",
-      "headline": "Kharge on dais, Congress sticks to first two stanzas of Vande Mataram at Goa eventCongress sticks to two stanzas of Vande Mataram at Kharge's Goa event, defying the new law mandating its full rendition."
+      "url": "https://www.indiatoday.in/india/story/up-news-muzaffarnagar-court-news-justice-ravi-kumar-diwakar-death-sentence-in-india-2973280-2026-08-17",
+      "headline": "UP judge sentences 22 to death in 4 months. Who is Ravi Kumar Diwakar?In four months, Justice Ravi Kumar Diwakar of Uttar Pradesh's Muzaffarnagar, sentenced 22 people to death across 10 cases. The sentences were handed down between April and August in cases involving murder, robbery and other serious offences."
     },
     {
       "sentiment": "positive",
@@ -261,13 +276,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/up-news-muzaffarnagar-court-news-justice-ravi-kumar-diwakar-death-sentence-in-india-2973280-2026-08-17",
-      "headline": "UP judge sentences 22 to death in 4 months. Who is Ravi Kumar Diwakar?In four months, Justice Ravi Kumar Diwakar of Uttar Pradesh's Muzaffarnagar, sentenced 22 people to death across 10 cases. The sentences were handed down between April and August in cases involving murder, robbery and other serious offences."
+      "url": "https://www.indiatoday.in/india-today-insight/story/nitin-nabins-reset-bjp-builds-for-next-decade-not-post-modi-yet-2973517-2026-08-17",
+      "headline": "Nitin Nabin's reset: BJP builds for next decade, not post-Modi yetThe BJP chief's first team balances continuity with change, keeps the Narendra Modi-Amit Shah machinery intact and takes only a few steps towards a post-Modi landscape"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/nitin-nabins-reset-bjp-builds-for-next-decade-not-post-modi-yet-2973517-2026-08-17",
-      "headline": "Nitin Nabin's reset: BJP builds for next decade, not post-Modi yetThe BJP chief's first team balances continuity with change, keeps the Narendra Modi-Amit Shah machinery intact and takes only a few steps towards a post-Modi landscape"
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/k-annamalai-says-gujarat-centric-development-model-must-change-bjp-too-delhi-centric-2972987-2026-08-17",
+      "headline": "AI, chips, CWG can't all go there: Annamalai attacks 'Gujarat-centric model'K Annamalai said the BJP must move away from Delhi-centric decisions and a Gujarat-focused development model. He also called for more power to state leaders and asked for space to be given to Chief Minister Vijay."
     },
     {
       "sentiment": "positive",
@@ -281,23 +296,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/k-annamalai-says-gujarat-centric-development-model-must-change-bjp-too-delhi-centric-2972987-2026-08-17",
-      "headline": "AI, chips, CWG can't all go there: Annamalai attacks 'Gujarat-centric model'K Annamalai said the BJP must move away from Delhi-centric decisions and a Gujarat-focused development model. He also called for more power to state leaders and asked for space to be given to Chief Minister Vijay."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jharkhand-protests-activist-devendra-mahto-ends-hunger-strike-after-hemant-soren-govt-cancels-jssc-cgl-exam-2973506-2026-08-17",
-      "headline": "Devendra Mahto ends hunger strike after Jharkhand govt cancels JSSC-CGL examReacting to the announcement, Mahato thanked students, parents, the media, police, the Jharkhand government and Chief Minister Hemant Soren for supporting the agitation."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/k-annamalai-bjp-exit-delhi-centric-decisions-tamil-nadu-we-the-leaders-2973076-2026-08-17",
       "headline": "Now you know why Annamalai walked out of BJPFormer BJP Tamil Nadu chief K Annamalai said he had \"severe disagreements\" with the brass over the party's approach in the state. At the India Today Roundtable Tamil Nadu, Annamalai said the BJP's Delhi-centric decision-making, lack of autonomy for state leaders and assigning most projects to Gujarat made him quit the party."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sabarimala-movie-shoot-ban-athimanoharam-row-kerala-minister-2973324-2026-08-17",
-      "headline": "Kerala minister bans movie shoots at Sabarimala after Athimanoharam rowK Muraleedharan has ruled out movie shoots at Sabarimala, saying only Lord Ayyappa-related and religious films can be allowed. His statement comes after the Devaswom Board permitted the makers of Mohanlal-starrer Athimanoharam to shoot there."
     },
     {
       "sentiment": "positive",
@@ -306,13 +306,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/journey-from-karyakarta-to-general-secretary-is-humbling-smriti-iranis-first-reaction-on-new-bjp-role-2973399-2026-08-17",
-      "headline": "Karyakarta to general secretary journey is humbling: Smriti Irani on new BJP roleAfter being appointed BJP national general secretary as part of the party's latest organisational reshuffle, Smriti Irani said she felt humbled by her journey from being a normal worker to holding the new role."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sabarimala-movie-shoot-ban-athimanoharam-row-kerala-minister-2973324-2026-08-17",
+      "headline": "Kerala minister bans movie shoots at Sabarimala after Athimanoharam rowK Muraleedharan has ruled out movie shoots at Sabarimala, saying only Lord Ayyappa-related and religious films can be allowed. His statement comes after the Devaswom Board permitted the makers of Mohanlal-starrer Athimanoharam to shoot there."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/laid-off-after-25-years-at-adobe-us-techie-starts-career-as-school-bus-driver-2973310-2026-08-17",
-      "headline": "Laid off after 25 years at Adobe, US techie starts career as school bus driverJames Strawn said he would begin work as a school bus driver after a long search following his lay-off from Adobe. His LinkedIn post drew reactions from others who described similar struggles in the tech job market."
+      "url": "https://www.indiatoday.in/india/story/journey-from-karyakarta-to-general-secretary-is-humbling-smriti-iranis-first-reaction-on-new-bjp-role-2973399-2026-08-17",
+      "headline": "Karyakarta to general secretary journey is humbling: Smriti Irani on new BJP roleAfter being appointed BJP national general secretary as part of the party's latest organisational reshuffle, Smriti Irani said she felt humbled by her journey from being a normal worker to holding the new role."
     },
     {
       "sentiment": "positive",
