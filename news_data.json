@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/from-threats-to-resilience-sebis-new-2-pronged-cyber-defence-strategy-2973803-2026-08-18",
+      "headline": "From threats to resilience: Sebi's new 2-pronged cyber defence strategyThe regulator launched the Incident Reporting Portal and the Cyber Suraksha Portal on Monday. The move comes as cyberattacks become more complex and increasingly affect not just individual institutions but the wider financial ecosystem."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/shiprocket-ipo-listing-date-gmp-grey-market-premium-expected-profit-allotment-status-2973754-2026-08-18",
       "headline": "Shiprocket IPO to list tomorrow: How much profit can investors expect?Shiprocket is set to list on the NSE and BSE on Wednesday after its IPO drew strong investor demand. The grey market premium suggests possible gains at debut, though the final listing price can still vary."
     },
@@ -94,14 +99,39 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/spicejet-tells-court-it-has-settled-disputes-with-some-lessors-report-2973026-2026-08-17",
       "headline": "SpiceJet tells court it has settled disputes with some lessors: ReportThe airline has reached a settlement with aircraft lessor Aviator ML over a payment dispute involving around Rs 60 crore. However, the settlement did not bring an immediate end to the airline's legal troubles, a report mentioned."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/why-are-zaggle-shares-down-20-today-2973003-2026-08-17",
-      "headline": "Why are Zaggle shares down 20% todayThe SaaS fintech company's consolidated net profit fell 32.9% year-on-year to Rs 17.53 crore in the first quarter ended June 30, 2026."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/kim-kardashian-lewis-hamilton-relationship-holiday-photos-fuel-romance-buzz-2973782-2026-08-18",
+      "headline": "Beach walks to surfing: Inside Kim Kardashian, Lewis Hamilton's cosy vacation pics Beauty mogul Kim Kardashian and Formula 1 champion Lewis Hamilton shared affectionate holiday photos from their summer break. Take a look at the pictures here."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/suriya-vishwanath-and-sons-casual-dating-scene-screen-image-shift-2973801-2026-08-18",
+      "headline": "Suriya gets casual about casual dating in Vishwanath and Sons, and it's refreshing In Vishwanath and Sons, Suriya plays Sanjay Vishwanath, a 40-year-old businessman whose casual dating life becomes a conversation in the family. The scene stands out for treating his dating preference and family acceptance as ordinary adult realities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-corrects-kannada-pronunciation-on-aap-ki-adalat-during-toxic-promotion-2973770-2026-08-18",
+      "headline": "Everybody, it's Kannada not Kannad: Yash corrects interviewer, wins praise Actor-producer Yash's simple correction of \"Kannad\" to Kannada during an interview has struck a chord with fans across the globe. The actor's proud defence of his native language has now gone viral on social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/fact-check-did-nayanthara-shave-her-head-for-tirumala-visit-ahead-of-toxic-release-2973776-2026-08-18",
+      "headline": "Fact check: Did Nayanthara shave her head for Tirumala visit ahead of Toxic release? Viral images claiming actor Nayanthara shaved her head at Tirumala temple ahead of the release of Toxic sparked intense online speculation. However, a comparison with original photos from her April visit quickly set the record straight."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/zaira-wasim-waqf-board-kashmir-school-dance-video-independence-day-2973804-2026-08-18",
+      "headline": "Dangal's Zaira Wasim questions Waqf Board over girls dancing at Kashmir school event Zaira Wasim has questioned the Jammu and Kashmir Waqf Board over a video showing girls dancing at a school Independence Day event. Her post has sparked debate over whether a religious body should endorse such performances."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-loves-aasa-kooda-singer-sai-abhyankkar-says-he-thinks-of-cm-while-composing-2973796-2026-08-18",
+      "headline": "Vijay loves Aasa Kooda: Singer Sai Abhyankkar says he thinks of CM while composing Singer Sai Abhyankkar said CM Vijay once told him he liked his song Aasa Kooda. The composer appeared on India Today's Tamil Nadu Roundtable and said that appreciation mattered deeply as scoring for Vijay remains his unrealised dream."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/video/barbara-mori-ximena-sarinana-were-in-actual-physical-danger-in-mexico-las-azules-bollywood-2973814-2026-08-18",
@@ -166,48 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/awarapan-2-has-no-great-story-or-good-performances-so-why-is-india-watching-it-2973586-2026-08-18",
       "headline": "Awarapan 2 has no great story or good performances. So why is India watching it? Awarapan 2 is minting money despite its familiar story, limited promotions and mixed reviews. So what is pulling audiences to theatres? The answer goes beyond nostalgia and box-office numbers. It lies in the enduring Emraan Hashmi effect and the emotional connect he built with an entire generation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/batwara-1947-review-hema-malini-praises-sunny-deol-films-humanity-message-2973621-2026-08-18",
-      "headline": "Hema Malini praises Sunny Deol's Batwara 1947, says it has a message India needs Actor Hema Malini praised Sunny Deol's Batwara 1947 after watching the film. She said its message of humanity and harmony is the need of the hour."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/zindagi-na-milegi-dobara-sequel-early-stages-zoya-akhtar-says-we-are-on-it-hrithik-roshan-farhan-akhtar-abhay-deol-2973545-2026-08-17",
-      "headline": "Zindagi Na Milegi Dobara sequel in early stages: Zoya Akhtar says 'we are on it' Filmmaker Zoya Akhtar said a sequel to Zindagi Na Milegi Dobara is being considered as the film completes 15 years. The 2011 film starred Hrithik Roshan, Farhan Akhtar and Abhay Deol in the lead roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rhea-chakraborty-recalls-losing-films-father-job-brother-shovik-iim-seat-after-sushant-singh-rajput-death-2973512-2026-08-17",
-      "headline": "Rhea Chakraborty recalls losing films, brother's IIM seat after Sushant's death Rhea Chakraborty told Farah Khan that the fallout after Sushant Singh Rajput's death cost her family work and Shovik his IIM stint. She said the siblings later turned that period into Chapter 2 after feeling shut out by society."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/the-diplomat-4-teaser-keri-russell-rufus-sewell-face-marital-and-political-chaos-2973483-2026-08-17",
-      "headline": "The Diplomat 4 teaser: Keri Russell, Rufus Sewell face marital and political chaos The Diplomat Season 4 teaser shows Kate and Hal Wyler, played by Keri Russell and Rufus Sewell, facing fresh marital and political turmoil. The new footage points to shifting alliances, a US-UK crisis and a rising threat of war."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sunny-deol-rs-55-99-crore-debt-juhu-villa-e-auction-ghayal-returns-loan-2973384-2026-08-17",
-      "headline": "Rs 55.9 crore in debt before Gadar 2, Sunny Deol says he was still 'very happy' Actor Sunny Deol has opened up about the debt that led to an e-auction notice for his Juhu villa, saying the liability stemmed from films he financed himself and never changed the way he lived."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/harshita-gaur-dimpy-pandit-mirzapur-the-movie-engineer-kathak-dancer-2973352-2026-08-17",
-      "headline": "All about Harshita Gaur, Mirzapur's Dimpy Pandit, an engineer and Kathak dancer Harshita Gaur has played Dimpy since Mirzapur premiered in 2018. Ahead of the film's theatrical release on September 4, here's a look at her career and role in the franchise."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/seated-actress-in-front-row-at-i-day-event-exchanged-salutes-shamelessly-dmk-mouthpiece-targets-vijay-trisha-2973780-2026-08-18",
-      "headline": "Shameless spectacle: DMK mouthpiece jabs Vijay-Trisha over I-Day eventIn an editorial in its mouthpiece Murasoli, the DMK censured Vijay for seating an actor in the front row at an official Independence Day event and exchanging salutes with her. Trisha's presence had gone viral and set tongues wagging."
+      "url": "https://www.indiatoday.in/business/story/tata-sons-board-divided-over-n-chandrasekaran-exit-succession-debate-2973658-2026-08-18",
+      "headline": "Chandrasekaran's exit splits Tata Sons board over succession next stepsN Chandrasekaran has told Tata Sons he will not seek reappointment in 2027. The move has split the board between urging him to stay and starting succession."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/delhi-police-denies-excessive-force-during-cjp-student-protest-cites-violence-and-30000-crowd-2973745-2026-08-18",
-      "headline": "Delhi cops deny excessive force during CJP protest; cite 30,000 crowd, violenceIn an affidavit filed before the Supreme Court, Delhi Police said the scale of the crowd during the Jantar Mantar CJP agitation and the violence that followed the breaching of barricades necessitated the use of graded force."
+      "url": "https://www.indiatoday.in/india/story/will-seek-amit-malviyas-guidance-bjps-new-social-media-chief-deepak-mhaskey-praises-predecessor-2973858-2026-08-18",
+      "headline": "Will seek Amit Malviya's guidance: BJP's new social media head Deepak MhaskeyWill seek Amit Malviya's guidance: BJP's new social media chief Deepak Mhaskey praises predecessor"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/seated-actress-in-front-row-at-i-day-event-exchanged-salutes-shamelessly-dmk-mouthpiece-targets-vijay-trisha-2973780-2026-08-18",
+      "headline": "Shameless spectacle: DMK mouthpiece jabs Vijay-Trisha over I-Day eventIn an editorial in its mouthpiece Murasoli, the DMK censured Vijay for seating an actor in the front row at an official Independence Day event and exchanging salutes with her. Trisha's presence had gone viral and set tongues wagging."
     },
     {
       "sentiment": "positive",
@@ -216,18 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-mq-9b-sea-guardian-navy-drone-lease-general-atomics-2973735-2026-08-18",
-      "headline": "Rent now, buy later: Why India is leasing 2 more Sea Guardian dronesThe Ministry of Defence has signed a Rs 1,943-crore contract with General Atomics to lease two MQ-9B Sea Guardian drones for the Indian Navy for 30 months. The move helps the Navy sustain and enhance long-range surveillance across the Indian Ocean until its planned MQ-9B acquisitions begin arriving."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tata-sons-board-divided-over-n-chandrasekaran-exit-succession-debate-2973658-2026-08-18",
-      "headline": "Chandrasekaran's exit splits Tata Sons board over succession next stepsN Chandrasekaran has told Tata Sons he will not seek reappointment in 2027. The move has split the board between urging him to stay and starting succession."
+      "url": "https://www.indiatoday.in/health/story/275-kg-teenager-brought-to-sir-ganga-ram-hospital-undergoes-bariatric-surgery-2973737-2026-08-18",
+      "headline": "275 kg at 16, BMI near 100: Delhi teen undergoes bariatric surgeryA 16-year-old Delhi boy weighing nearly 275 kg and with a BMI approaching 100 underwent a successful laparoscopic sleeve gastrectomy at Sir Ganga Ram Hospital. He was brought to the hospital in a Matador as he could not fit into a conventional car and required nearly two weeks of intensive care before undergoing surgery."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-1st-test-day-4-live-score-updates-rain-shubman-gill-galle-2973666-2026-08-18",
-      "headline": "IND vs SL, Day 4: India wobble as Sri Lanka hit four times before lunchIndia (IND)vs Sri Lanka (SL) live score, 1st Test Day 4: (116/4) India's second innings has lost its early momentum, with Sri Lanka's spinners striking repeatedly to bring the game back into balance. Rishabh Pant's counterattack offers India a route forward, but the hosts now have genuine pressure on their side."
+      "headline": "IND vs SL, Day 4: India build 300-plus lead as Pant, Jadeja steadyIndia (IND)vs Sri Lanka (SL) live score, 1st Test Day 4: (126/5) India remain in the driver's seat despite losing five wickets, with Rishabh Pant and Ravindra Jadeja rebuilding after Sri Lanka's strong start. The hosts need another breakthrough soon before India's advantage becomes increasingly difficult to overturn."
     },
     {
       "sentiment": "positive",
@@ -236,28 +236,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/upsc-civil-services-prelims-2026-cat-notice-8-disputed-gs-paper-1-questions-answer-key-cse-mains-2973682-2026-08-18",
+      "headline": "Exclusive: 8 Prelims questions challenged, tribunal issues notice to UPSCThe Central Administrative Tribunal has asked UPSC to respond to a plea challenging eight questions in the Civil Services Preliminary Examination 2026. The dispute focuses on alleged answer key errors, missing valid options and their effect on candidates' qualifying chances."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/punjab-knee-replacement-aap-bhagwant-mann-tableau-row-bhangra-mann-independence-day-2973771-2026-08-18",
+      "headline": "Babe bhangra paunde ne with knee replacement in Punjab?At the Punjab government's Independence Day event, five elderly men performed bhangra before CM Bhagwant Mann. Part of a tableau, they were introduced as beneficiaries showcasing life after knee-replacement surgery. The bhangra performance triggered a political row, leading to clarification from the Mann administration."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/imran-khan-death-rumours-latest-health-report-pakistan-protests-asim-munir-2973838-2026-08-18",
+      "headline": "Why Imran Khan's latest health report adds fuel to deathbed rumoursThe alarming medical report of Imran Khan, coming amid persistent - and unverified - rumours about his death, has emerged as a fresh rallying point for his family and his supporters demanding his release. It paints a grim picture of the ex-PM's health."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/india-germany-submarine-deal-why-india-must-firewall-usd-9-billion-german-submarine-deal-against-political-risk-2973462-2026-08-18",
       "headline": "Why India needs to firewall its $9-billion German submarine dealGermany's TKMS has emerged as the preferred bidder, with the submarines to be built at Mazagon Dock in Mumbai with technology transfer. The deal comes amid an urgent need to replenish India's ageing conventional submarine fleet, with most of its SSKs having crossed 25 years of service."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/275-kg-teenager-brought-to-sir-ganga-ram-hospital-undergoes-bariatric-surgery-2973737-2026-08-18",
-      "headline": "275 kg at 16, BMI near 100: Delhi teen undergoes bariatric surgeryA 16-year-old Delhi boy weighing nearly 275 kg and with a BMI approaching 100 underwent a successful laparoscopic sleeve gastrectomy at Sir Ganga Ram Hospital. He was brought to the hospital in a Matador as he could not fit into a conventional car and required nearly two weeks of intensive care before undergoing surgery."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rao-inderjit-singh-haryana-bjp-rift-kuldeep-bishnoi-backs-gurugram-event-protest-2973315-2026-08-18",
-      "headline": "How BJP's Partition day event in Gurgaon exposed its Haryana fault linesAt a BJP Partition Horrors Remembrance Day event in Haryana's Gurugram, Union Minister Rao Inderjit Singh objected to being sidelined by the party in his own constituency. A day later, BJP MLA Kuldeep Bishnoi backed Rao, over ignoring senior leaders. This has brought Haryana BJP's fault lines to the fore."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/seeing-increased-sensitivity-from-meta-on-tackling-child-porn-govt-sources-amid-row-with-social-media-giant-2973813-2026-08-18",
-      "headline": "Seeing increased sensitivity from Meta on tackling child porn: Govt sources amid row with social media giantGovernment tells Meta that content moderation must better reflect India's languages, culture and laws, while AI-generated content should be clearly labelled."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/did-you-know-your-mutual-fund-has-a-hidden-cost-here-is-who-gets-a-cut-2973073-2026-08-17",
-      "headline": "Your mutual fund has a cost you may not notice. Here's who gets a cutThe mutual fund you choose may impact what you take home, as regular plans include distribution costs that are paid from the scheme's expenses."
+      "url": "https://www.indiatoday.in/india/story/india-mq-9b-sea-guardian-navy-drone-lease-general-atomics-2973735-2026-08-18",
+      "headline": "Rent now, buy later: Why India is leasing 2 more Sea Guardian dronesThe Ministry of Defence has signed a Rs 1,943-crore contract with General Atomics to lease two MQ-9B Sea Guardian drones for the Indian Navy for 30 months. The move helps the Navy sustain and enhance long-range surveillance across the Indian Ocean until its planned MQ-9B acquisitions begin arriving."
     },
     {
       "sentiment": "positive",
@@ -266,43 +266,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/ai-promised-less-work-developers-say-in-reality-it-is-forcing-them-to-work-more-2973640-2026-08-18",
-      "headline": "AI promised less work, developers say in reality it is forcing them to work moreOne of the promises of AI is that humans will need to work less and hence have more time to focus on higher-level or creative tasks. The reality, however, is different. Developers tell India Today Tech that AI has added to their workload."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/uttar-pradesh-rampur-woman-murder-husband-held-after-electrocution-over-inherited-land-dispute-2973632-2026-08-18",
-      "headline": "Woman refuses to sell land, husband kills her with electric shocks to private partsThe accused, Israr, confessed to the crime and told investigators that he was angry with his wife as she had refused to sell a piece of land that she had inherited from her parents."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-approval-rating-low-iran-war-petrol-oil-prices-survey-middle-east-2973726-2026-08-18",
-      "headline": "Trump's approval plunges to 33%, hits lowest of his presidency amid Iran warTrump's approval rating fell to 33 per cent, its lowest of his presidency, while 80 per cent of Americans said they expect the US-Iran war to continue for an extended period."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-hugs-devdutt-padikkal-india-vs-sri-lanka-1st-test-2973767-2026-08-18",
-      "headline": "Thank you for saving me: KL Rahul hugs Padikkal after unbelievable DRS rescueSL vs IND: KL Rahul survived a close LBW call on Day 4 of the 1st Test, after Devdutt Padikkal convinced him to take a DRS review. After being saved, KL went straight to his partner and hugged him for saving his life at the crease."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-social-media-co-convenors-priti-gandhi-alok-bhatt-posts-unavailable-on-x-2973348-2026-08-17",
-      "headline": "BJP's new social media team: Why did timelines of Priti Gandhi, Alok Bhatt vanish?Neither the BJP nor its newly appointed co-convenors, Priti Gandhi and Alok Bhatt, immediately explained why their posts on X were no longer visible."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/children-becoming-collateral-rising-parent-child-killings-suicides-filicide-2972765-2026-08-18",
-      "headline": "Killer parents: Children becoming silent casualties of deadly family feuds?Over the past few months, a disturbing pattern has been emerging quietly in which children have been killed by their own parents, often as part of a suicide pact. But are these isolated tragedies or signs of a deeper family crisis?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-ayush-shetty-shi-yuqi-analysis-2973626-2026-08-18",
-      "headline": "Ayush Shetty stunned the world No. 1 in Delhi. To two men, it wasn't a surpriseBWF World Championships 2026: Ayush Shetty had lost to Shi Yuqi three times, including a brutal Asian Championships final. In Delhi, the 21-year-old finally solved the World No. 1, with his coaches insisting this day was coming."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/gwyneth-paltrow-just-discovered-besan-chilla-and-indians-have-entered-the-chat-2973755-2026-08-18",
-      "headline": "Gwyneth Paltrow just discovered besan chilla, and Indians have entered the chatGwyneth Paltrow shared a video of herself making besan chilla and serving it with mint-chutney eggs and leftover short ribs. The unusual pairing drew amused, appreciative and critical reactions from Indian food lovers online."
+      "url": "https://www.indiatoday.in/business/personal-finance/story/did-you-know-your-mutual-fund-has-a-hidden-cost-here-is-who-gets-a-cut-2973073-2026-08-17",
+      "headline": "Your mutual fund has a cost you may not notice. Here's who gets a cutThe mutual fund you choose may impact what you take home, as regular plans include distribution costs that are paid from the scheme's expenses."
     },
     {
       "sentiment": "positive",
@@ -311,16 +276,56 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/patna/story/bihar-bank-accounts-rented-out-to-cyber-fraudsters-3-arrested-after-25-crore-transactions-detected-2972891-2026-08-17",
-      "headline": "Bank accounts rented for Rs 3,000 helped route Rs 25 crore in cyber fraud, 3 arrestedCyber crime-related complaints have been lodged against the three accused on the National Cyber Crime Reporting Portal (NCRP) by complainants in several states across the country, said DSP Sangita Kumari, in-charge of the Cyber \u200b\u200bPolice Station in Patna."
+      "url": "https://www.indiatoday.in/technology/features/story/ai-promised-less-work-developers-say-in-reality-it-is-forcing-them-to-work-more-2973640-2026-08-18",
+      "headline": "AI promised less work, developers say in reality it is forcing them to work moreOne of the promises of AI is that humans will need to work less and hence have more time to focus on higher-level or creative tasks. The reality, however, is different. Developers tell India Today Tech that AI has added to their workload."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/e20-petrol-ethanol-blending-konda-vishweshwar-reddy-internal-combustion-engine-bjp-news-2970583-2026-08-17",
-      "headline": "BJP's engineer MP explains E20 petrol benefits with external combustionAmid protests in India over E20 petrol, BJP's engineer MP Konda Vishweshwar Reddy has sought to settle the controversy with a simple experiment, burning petrol and ethanol in steel tumblers. But does that actually tell us how the two fuels will actually perform inside a car engine? Here's the fact."
+      "url": "https://www.indiatoday.in/india/story/rao-inderjit-singh-haryana-bjp-rift-kuldeep-bishnoi-backs-gurugram-event-protest-2973315-2026-08-18",
+      "headline": "How BJP's Partition day event in Gurgaon exposed its Haryana fault linesAt a BJP Partition Horrors Remembrance Day event in Haryana's Gurugram, Union Minister Rao Inderjit Singh objected to being sidelined by the party in his own constituency. A day later, BJP MLA Kuldeep Bishnoi backed Rao, over ignoring senior leaders. This has brought Haryana BJP's fault lines to the fore."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/teesta-water-sharing-agreement-bangladesh-urges-india-to-protect-friendly-ties-ptag-2973743-2026-08-18",
+      "headline": "Bangladesh says it doesn't want friendly ties with India to deteriorate over TeestaBangladesh has urged India to resolve the Teesta water-sharing dispute while preserving its friendly ties. The push gains urgency as Dhaka advances a China-backed Teesta river restoration plan for its northern districts."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-approval-rating-low-iran-war-petrol-oil-prices-survey-middle-east-2973726-2026-08-18",
+      "headline": "Trump's approval plunges to 33%, hits lowest of his presidency amid Iran warTrump's approval rating fell to 33 per cent, its lowest of his presidency, while 80 per cent of Americans said they expect the US-Iran war to continue for an extended period."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/delhi-police-denies-excessive-force-during-cjp-student-protest-cites-violence-and-30000-crowd-2973745-2026-08-18",
+      "headline": "Delhi cops deny excessive force during CJP protest; cite 30,000 crowd, violenceIn an affidavit filed before the Supreme Court, Delhi Police said the scale of the crowd during the Jantar Mantar CJP agitation and the violence that followed the breaching of barricades necessitated the use of graded force."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/workplace-appearance-and-grooming-why-looking-presentable-helps-but-performance-matters-more-educ-2973777-2026-08-18",
+      "headline": "Does looking good help you succeed at work? 7 professionals reveal allDoes looking good help you succeed at work? Seven professionals across HR, fashion, technology, PR, media and hospitality reveal how dressing, grooming and confidence can shape workplace perception, first impressions and everyday interactions. But they agree on one thing: looking polished may help, but it can never replace good work."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/society/story/how-yakult-ladies-in-japan-help-fight-loneliness-2973319-2026-08-18",
+      "headline": "How Yakult Ladies in Japan help fight lonelinessWhy do the elderly in Japan look forward to their weekly deliveries of a gut-health drink? To battle loneliness."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/children-becoming-collateral-rising-parent-child-killings-suicides-filicide-2972765-2026-08-18",
+      "headline": "Killer parents: Children becoming silent casualties of deadly family feuds?Over the past few months, a disturbing pattern has been emerging quietly in which children have been killed by their own parents, often as part of a suicide pact. But are these isolated tragedies or signs of a deeper family crisis?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/uttar-pradesh-rampur-woman-murder-husband-held-after-electrocution-over-inherited-land-dispute-2973632-2026-08-18",
+      "headline": "Woman refuses to sell land, husband kills her with electric shocks to private partsThe accused, Israr, confessed to the crime and told investigators that he was angry with his wife as she had refused to sell a piece of land that she had inherited from her parents."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/serena-williams-venus-match-result-cincinnati-open-tennis-2973855-2026-08-18",
+      "headline": "Serena, Venus dazzle but lose thriller in 1st doubles match in 4 years Serena Williams and sister Venus returned to the doubles court together after a break of 4 years. The Williams sisters dazzled with some brilliant shots but ended up losing a 3-set thriller to Marta Kostyuk and Peyton Stearns."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pratika-rawal-india-women-t20i-call-up-jemimah-rodrigues-injury-selection-gamble-2973772-2026-08-18",
@@ -339,7 +344,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-1st-test-day-4-live-score-updates-rain-shubman-gill-galle-2973666-2026-08-18",
-      "headline": "IND vs SL, Day 4: India wobble as Sri Lanka hit four times before lunch India (IND)vs Sri Lanka (SL) live score, 1st Test Day 4: (116/4) India's second innings has lost its early momentum, with Sri Lanka's spinners striking repeatedly to bring the game back into balance. Rishabh Pant's counterattack offers India a route forward, but the hosts now have genuine pressure on their side."
+      "headline": "IND vs SL, Day 4: India lose five as Sri Lanka keep comeback alive India (IND)vs Sri Lanka (SL) live score, 1st Test Day 4: (120/5) India still hold the advantage, but Sri Lanka have made the visitors sweat. Five wickets are down, with Asitha Fernando and the spinners finding timely breakthroughs as Rishabh Pant and Ravindra Jadeja try to steady the innings."
     },
     {
       "sentiment": "positive",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/jordan-cox-virat-kohli-advice-england-pakistan-tests-2973570-2026-08-17",
-      "headline": "Jordan Cox draws inspiration from Virat Kohli ahead of Pakistan Tests Jordan Cox will draw on Virat Kohli's advice as he takes on a bigger role for England in the Test series against Pakistan. With Jacob Bethell sidelined, Cox has been handed an opportunity to establish himself in England's new-look Test side."
+      "headline": "Jordan Cox draws inspiration from Virat Kohli ahead of Pakistan TestsJordan Cox will draw on Virat Kohli's advice as he takes on a bigger role for England in the Test series against Pakistan. With Jacob Bethell sidelined, Cox has been handed an opportunity to establish himself in England's new-look Test side."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-pv-sindhu-preview-new-delhi-2972777-2026-08-17",
       "headline": "Fitter and still hungry, PV Sindhu chases record sixth medal at homeSeven years after her last World Championships medal, PV Sindhu arrives in Delhi fitter and calmer, chasing a record sixth, backed by a rebuilt sports science team and facing a draw set to test her."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-women-squads-fatima-sana-asia-cup-2026-asian-games-2972733-2026-08-16",
-      "headline": "Pakistan Women name Asia Cup, Asian Games squads, target revival after T20 World CupPakistan Women have named their Asia Cup and Asian Games squads as they look to bounce back from a disappointing T20 World Cup campaign. Fatima Sana returns as captain, with Pakistan also aiming to recover after recently losing the T20I series to Sri Lanka."
     }
   ],
   "education": [
@@ -567,6 +567,11 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
+      "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
     {
       "sentiment": "positive",
