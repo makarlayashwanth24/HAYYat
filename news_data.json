@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/it-may-look-radically-different-zerodhas-nithin-kamath-on-how-ai-could-change-trading-2975942-2026-08-20",
+      "headline": "It may look radically different: Nithin Kamath on how AI could change tradingThe combination of AI, new technologies, evolving regulations and changing market structures could push investing well beyond today's broker-app model, says Kamath."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/china-evergrande-founder-hui-ka-yan-sentenced-life-prison-shenzhen-property-crisis-2975909-2026-08-20",
       "headline": "China Evergrande founder, once Asia's richest man, sentenced to life in prisonA court in Shenzhen sentenced China Evergrande founder Hui Ka Yan to life in prison and ordered all his personal property confiscated. He pleaded guilty in April to eight charges, including misuse of funds, fundraising fraud, illegally taking public deposits, illegally extending loans, fraudulently issuing securities and bribery."
@@ -94,14 +99,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-happiness-salary-rs-20-lakh-income-satiation-not-guaranteed-happiness-report-2973889-2026-08-19",
       "headline": "Can money really buy happiness? A report puts a number to itA latest report estimates India's income satiation level at about Rs 20 lakh a year. The finding suggests extra earnings matter less to life evaluation after that point."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/your-sbi-fixed-deposits-interest-rate-fds-may-earn-less-after-latest-rate-cut-check-new-rates-2974875-2026-08-19",
-      "headline": "Your SBI FDs may earn less after latest rate cut: Check new ratesSBI has cut interest rates by 25 basis points (bps) on domestic bulk term deposits of Rs 3 crore and above for select tenures. The revised rates came into effect on August 15, 2026, according to the bank's website."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-traitors-2-mallika-sherawat-thinks-european-men-are-better-offers-shweta-tiwari-a-nice-one-2975944-2026-08-20",
+      "headline": "The Traitors 2: Mallika thinks European men are better, offers Shweta a 'nice' one On The Traitors 2, Mallika Sherawat told Shweta Tiwari she plans to find her a European man who will cherish and celebrate her. Rhea Chakraborty then asked if they are better than Indian men."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-monster-title-dil-raju-film-nayanthara-eid-2027-2975926-2026-08-20",
+      "headline": "Salman Khan and Nayanthara's film with Dil Raju titled Monster? Actor Salman Khan's upcoming pan-India film with producer Dil Raju is reportedly titled Monster. The film also stars Nayanthara in a key role."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/operation-safed-sagar-amrita-bagchi-alka-ahuja-beyond-grief-2975684-2026-08-20",
+      "headline": "Operation Safed Sagar: Actor Amrita Bagchi traces Alka Ahuja's journey beyond grief Amrita Bagchi says meeting Alka Ahuja reshaped her portrayal in Operation Safed Sagar. She says the series focusses on the human cost of war rather than glamourising combat."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/kaun-banega-crorepati-18-iit-topper-yogesh-sahu-stumped-by-rs-1-crore-question-it-was-wrongly-framed-2975895-2026-08-20",
@@ -181,21 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/prime-video-accidentally-releases-jason-statham-mutiny-in-us-fans-shocked-2975474-2026-08-20",
       "headline": "Prime Video accidentally releases Jason Statham's Mutiny in US, fans shocked Amazon Prime Video briefly showed Jason Statham's Mutiny in full on its US platform before the film's exclusive cinema release. The apparent leak has raised fresh questions about high-profile movie security on major tech platforms."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/operation-safed-sagar-raju-srivastava-tribute-every-episode-2975496-2026-08-20",
-      "headline": "Why Operation Safed Sagar ends every episode with a Raju Srivastav tribute Every episode of Operation Safed Sagar ends with a thank-you note to Raju Srivastav. The tribute reflects his role in backing Kushal Srivastava and the family's journey with the series."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rajpal-yadav-cheque-bounce-case-money-cannot-define-cinema-journey-2975475-2026-08-20",
-      "headline": "No one can buy me: Rajpal Yadav says money can't define his 26-year journey Rajpal Yadav said his financial and legal troubles do not define him as an artist. He said his bond with cinema and theatre remains unchanged despite the dispute."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/anjali-arora-sita-vfx-criticism-mahakavya-shri-ramayan-katha-teaser-respect-adipurush-2975433-2026-08-20",
-      "headline": "Kacha Badam girl Anjali Arora plays Sita in Ramayan Katha, internet not impressed Content creator Anjali Arora's casting as Goddess Sita in Mahakavya Shri Ramayan Katha has stirred online debate, drawing mixed reactions from social media users. While some question the choice and visual effects, others compare the film to Adipurush, highlighting the strong sentiments around this retelling of the epic Ramayana."
     }
   ],
   "general news": [
@@ -206,13 +206,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/jharkhand-high-court-pauses-hemant-soren-governments-order-cancelling-jpsc-examinations-2975783-2026-08-20",
-      "headline": "Jharkhand High Court pauses Hemant Soren govt's order cancelling JPSC examsThe High Court's intervention comes days after the Jharkhand government decided to cancel 22 recruitment examinations and order probes into 23 others conducted since 2014 by the JPSC, Jharkhand Staff Selection Commission (JSSC) and an outsourced agency."
+      "url": "https://www.indiatoday.in/india/story/vijay-tamil-nadu-neet-delimitation-demands-south-meet-amit-shah-2975742-2026-08-20",
+      "headline": "Vijay's two big demands at South CMs' meet with Amit ShahChief Minister Vijay, making his maiden appearance at the Southern Zonal Council meeting, stuck to the two issues that have recently been at the heart of Tamil Nadu politics."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/vijay-tamil-nadu-neet-delimitation-demands-south-meet-amit-shah-2975742-2026-08-20",
-      "headline": "Vijay's two big demands at South CMs' meet with Amit ShahChief Minister Vijay, making his maiden appearance at the Southern Zonal Council meeting, stuck to the two issues that have recently been at the heart of Tamil Nadu politics."
+      "url": "https://www.indiatoday.in/india/law-news/story/jharkhand-high-court-pauses-hemant-soren-governments-order-cancelling-jpsc-examinations-2975783-2026-08-20",
+      "headline": "Jharkhand High Court pauses Hemant Soren govt's order cancelling JPSC examsThe High Court's intervention comes days after the Jharkhand government decided to cancel 22 recruitment examinations and order probes into 23 others conducted since 2014 by the JPSC, Jharkhand Staff Selection Commission (JSSC) and an outsourced agency."
     },
     {
       "sentiment": "positive",
@@ -245,14 +245,14 @@
       "headline": "Khalifa review: Prithviraj Sukumaran walks the walk, but the story stumblesRelease Date:Thu Aug 20, 2026Khalifa movie review: Director Vysakh's Khalifa, starring Prithviraj Sukumaran and Neil Nitin Mukesh, is a template masala entertainer that lacks heart and conviction. The film relies heavily on Prithviraj's swag rather than a compelling story."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/sri-lanka-mass-grave-skeletons-children-babies-tamil-civil-war-2975900-2026-08-20",
-      "headline": "582 skeletons, including children, discovered in Sri Lanka mass graveThe remains are believed to be of civilians who disappeared during Sri Lanka's bloody civil war, which broke out between government forces and the ethnic Tamil rebels, who sought an independent state."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/delhi-protest-pellet-gun-raf-diary-munitions-india-ltd-july-20-parliament-march-firing-2967696-2026-08-20",
       "headline": "Did RAF fire non-existent plastic pellets at CJP protesters?Two cartridges with plastic pellets were fired at protesters by the Rapid Action Force (RAF) of the CRPF during the July 20 Parliament march in New Delhi, said a general diary entry. But no expert has ever seen plastic pellets, heard of them being used, or encountered a victim injured by them. Here's what we got after a month-long chase of the mysterious pellets."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/sri-lanka-mass-grave-skeletons-children-babies-tamil-civil-war-2975900-2026-08-20",
+      "headline": "582 skeletons, including children, discovered in Sri Lanka mass graveThe remains are believed to be of civilians who disappeared during Sri Lanka's bloody civil war, which broke out between government forces and the ethnic Tamil rebels, who sought an independent state."
     },
     {
       "sentiment": "positive",
@@ -266,8 +266,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-master-plan-2047-40-lakh-homes-695-km-metro-yamuna-floodplains-protected-ptag-2975789-2026-08-20",
+      "headline": "Delhi Master Plan 2047 promises 40 lakh new homes, metro expansion to 695 kmThe Centre unveiled Delhi Master Plan 2047 with a major housing and transport expansion roadmap. The blueprint seeks to absorb population growth while protecting ecologically sensitive areas and encouraging investment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/in-sonia-gandhi-defence-when-discomfort-becomes-conscience-vande-mataram-row-revives-congress-1937-stand-full-song-controversy-2975914-2026-08-20",
+      "headline": "Sonia Gandhi is right on Vande Mataram: Patriotism is not about how long you can singDespite mastering the art of managing internal party affairs and running a coalition government, the BJP has worked assiduously to deny Sonia Gandhi the image of a \"Hindustani\" leader, keeping up sustained attacks on her Italian origins. Her silence on this matter has spoken louder than any rebuttal ever could."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/up-basti-gen-alpha-schoolchildren-stop-mla-convoy-over-waterlogged-muddy-road-2975788-2026-08-20",
       "headline": "Schoolchildren stop SP MLA's convoy, demand action on muddy road in UPGen Alpha schoolchildren in Uttar Pradesh stopped Samajwadi Party MLA Rajendra Chaudhary's convoy over a muddy, waterlogged road. The protest pushed the issue into immediate focus, prompting an assurance of early action."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/kia-sorento-revealed-ahead-of-september-4-india-launch-2975839-2026-08-20",
+      "headline": "Kia Sorento revealed ahead of September 4 India launchKia has revealed the Sorento ahead of its September 4 India launch, with local production underway. The premium three-row SUV gets hybrid and diesel powertrains, with the hybrid offering AWD."
     },
     {
       "sentiment": "positive",
@@ -281,13 +296,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/kia-sorento-revealed-ahead-of-september-4-india-launch-2975839-2026-08-20",
-      "headline": "Kia Sorento revealed ahead of September 4 India launchKia has revealed the Sorento ahead of its September 4 India launch, with local production underway. The premium three-row SUV gets hybrid and diesel powertrains, with the hybrid offering AWD."
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-student-spends-3-months-as-rapido-rider-learns-what-gig-work-really-costs-2975399-2026-08-20",
+      "headline": "Bengaluru student spends 3 months as Rapido rider, shares earnings and learningsA college student's three-month stint as a Rapido rider in Bengaluru during his vacation gave him more than just extra money. In a viral Reddit post, he detailed his daily earnings, long hours, delivery hassles and more."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-student-spends-3-months-as-rapido-rider-learns-what-gig-work-really-costs-2975399-2026-08-20",
-      "headline": "Bengaluru student spends 3 months as Rapido rider, shares earnings and learningsA college student's three-month stint as a Rapido rider in Bengaluru during his vacation gave him more than just extra money. In a viral Reddit post, he detailed his daily earnings, long hours, delivery hassles and more."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/why-fans-think-toxic-english-trailer-is-better-than-what-they-released-in-india-2975619-2026-08-20",
+      "headline": "Why fans think Toxic's English trailer is better than what they released in IndiaYash's Toxic English trailer has fans comparing it with the earlier language versions, with many saying the English cut feels more natural and seamless. From Yash's dialogue delivery to the trailer's overall rhythm, viewers feel the English version gives the film a more global feel."
     },
     {
       "sentiment": "positive",
@@ -301,26 +316,16 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/why-fans-think-toxic-english-trailer-is-better-than-what-they-released-in-india-2975619-2026-08-20",
-      "headline": "Why fans think Toxic's English trailer is better than what they released in IndiaYash's Toxic English trailer has fans comparing it with the earlier language versions, with many saying the English cut feels more natural and seamless. From Yash's dialogue delivery to the trailer's overall rhythm, viewers feel the English version gives the film a more global feel."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/south/story/south-council-vijay-shivakumar-chandrababu-naidu-kerala-delimitation-neet-cauvery-telangana-tamil-nadu-amit-shah-2975680-2026-08-20",
-      "headline": "Cauvery, NEET, delimitation dominate South Chief Ministers' meet with Amit ShahSouth CMs made a pitch that the region's economic contribution must be matched by political representation, fiscal fairness, infrastructure support and a greater voice in national policymaking."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/talking-points/story/not-data-ram-is-new-oil-and-sridhar-vembu-rightly-warn-it-is-making-life-expensive-2975653-2026-08-20",
-      "headline": "Not data, RAM is new oil and Sridhar Vembu rightly warns it is making life expensiveThere is a cliche often repeated in India: data is new oil. In 2026 we are learning just how wrong it is. It's not data that is the new scarce, and yet essential, commodity. Instead, it is RAM and, as Zoho boss Sridhar Vembu has noted, it is doing to the world what oil has done for years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/chandigarh-petrol-langar-dates-postponed-rain-rakesh-trehan-promises-three-day-rerun-raja-d-king-2975620-2026-08-20",
-      "headline": "Rain ruins Chandigarh petrol langar, annoys crowd; influencer promises 3-day runA free petrol langar in Chandigarh, announced by influencer Rakesh Trehan, aka Raja D King, drew people out in pouring rain, only for many to return home with empty tanks and feeling anguished. Trehan has now promised a three-day comeback, weather and crowds permitting."
+      "url": "https://www.indiatoday.in/world/story/mirza-fakhrul-islam-alamgir-elected-bangladesh-president-after-long-bnp-career-ptag-2975935-2026-08-20",
+      "headline": "Bangladesh parliament elects BNP veteran Mirza Fakhrul Alamgir presidentBangladesh's parliament elected veteran BNP leader Mirza Fakhrul Islam Alamgir as president on Thursday. The move completes his decades-long journey from student activism and public service to the nation's top constitutional office."
     }
   ],
   "sports": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/badminton/video/ayush-shetty-reflects-on-bwf-world-championships-exit-2975968-2026-08-20",
+      "headline": "Ayush Shetty on BWF World Championships exit: A tough one to digest Ayush Shetty described his BWF World Championships exit as \"a tough one to digest\" after the Indian shuttler lost to familiar foe Alwi Farhan in the pre-quarters."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/ayush-shetty-knocked-out-bwf-world-championships-pre-quarterfinal-loss-alwi-farhan-2975916-2026-08-20",
@@ -369,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/monty-desai-canada-coach-exit-icc-corruption-governance-crisis-2975701-2026-08-20",
-      "headline": "Monty Desai steps down as Canada coach amid corruption scandal Monty Desai has left as interim head coach of Canada after three months in charge. His exit comes with Canada cricket under ICC scrutiny and still chasing World Cup qualification."
+      "headline": "Monty Desai steps down as Canada coach amid corruption scandalMonty Desai has left as interim head coach of Canada after three months in charge. His exit comes with Canada cricket under ICC scrutiny and still chasing World Cup qualification."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-pakistan-world-cup-report-harmanpreet-singh-abhishek-2975177-2026-08-19",
       "headline": "India edge Pakistan in Amstelveen thriller, reach Hockey World Cup 2nd roundIndia held off Pakistan's late charge to win a nerve-shredding match in Amstelveen. The result sent India into the World Cup second round and extended their long unbeaten run against their arch-rivals and eliminated them from medal contention."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/lakshya-sen-loses-to-garret-tan-as-pv-sindhu-and-ayush-shetty-reach-bwf-worlds-pre-quarters-2975168-2026-08-19",
-      "headline": "Lakshya falls to World No. 92, Ayush and Sindhu march into pre-quartersBWF World Championships: Lakshya Sen suffered a shock second-round exit to World No. 92 Garret Tan, while Ayush Shetty and PV Sindhu marched into the pre-quarters on Wednesday. Satwik-Chirag advanced without hitting a shuttle after receiving a walkover."
     }
   ],
   "education": [
@@ -562,6 +562,11 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
+      "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
     {
       "sentiment": "positive",
