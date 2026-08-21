@@ -2,6 +2,46 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-receives-rs-4895-crore-fdi-after-easing-rules-for-neighbouring-countries-2976872-2026-08-21",
+      "headline": "India receives Rs 4,895 crore FDI after easing rules for neighbouring countriesThe government said the investments cover sectors such as information technology, artificial intelligence, manufacturing, pharmaceuticals, data centres and transport services."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/sugar-gets-costlier-ahead-of-festivals-govt-rules-out-ethanol-as-the-reason-2976793-2026-08-21",
+      "headline": "Sugar gets costlier ahead of festivals: Govt rules out ethanol as the reasonAccording to government data, the price of sugar increased from Rs 48.18 per kg on July 20, 2026, to Rs 55.70 per kg on August 20."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/the-next-upi-innovation-wont-be-faster-payments-it-will-be-safer-payments-2976700-2026-08-21",
+      "headline": "The next UPI innovation won't be faster payments, it will be safer paymentsAs fraudsters become more sophisticated, industry experts believe the next phase of UPI's growth will be built around trust, smarter fraud detection and security that works quietly in the background."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-pli-construction-infrastructure-equipment-scheme-usd-1-billion-push-cut-china-import-reliance-2976662-2026-08-21",
+      "headline": "India plans $1.2 billion manufacturing push to reduce China machinery dependenceIndia is finalising a $1.2 billion incentive scheme to spur local production of tunnel boring machines and other construction equipment, aimed at reducing supply risks linked to China while supporting the country's infrastructure build-out."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/sbi-atm-cash-withdrawal-charges-rs-15-after-four-free-transactions-from-october-1-2026-2976694-2026-08-21",
+      "headline": "SBI cash withdrawals to cost more from October 1: What customers need to knowSBI has revised cash withdrawal charges for eligible BSBD accounts opened through branches from October 1, 2026. The change keeps four monthly withdrawals free but raises costs for customers who rely on cash more often."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/real-estate/story/india-housing-home-price-rise-6-percent-bengaluru-hyderabad-lead-q1-fy27-report-2976666-2026-08-21",
+      "headline": "Housing prices rise 6% in India: Check cities which saw the sharpest riseHousing prices across India rose 6% year-on-year in 1QFY27, with Bengaluru and Hyderabad leading the increase. A report underlines how stronger demand, better connectivity and premium housing are pushing up values even as sales volumes grow modestly."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/cognizant-alerts-customers-over-data-breach-offers-1-million-identity-theft-cover-2976645-2026-08-21",
+      "headline": "Cognizant alerts customers over data breach, offers $1 million identity theft coverThe company has asked affected customers to consider filing a police report and placing a security freeze on their credit reports."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-indian-stock-market-flat-financial-stocks-high-crude-bond-yields-2976626-2026-08-21",
+      "headline": "Sensex ends flat as financial stocks offset crude and bond yield concernsThe BSE Sensex ended at 77,540.83, up 3.11 points, or 0.004%, while the Nifty 50 settled at 24,252.00, up just 20 points at the closing bell."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-ai-boom-race-amitabh-kant-says-talent-data-centres-rise-country-as-innovation-hub-2976548-2026-08-21",
       "headline": "Has India lost the AI race? NITI Aayog CEO Amitabh Kant answersFormer NITI Aayog CEO Amitabh Kant said India has not lost the AI race and can build strength through talent and data centres. He said the bigger opportunity lies in applying AI across sectors while reshaping skilling for future jobs."
     },
@@ -59,53 +99,63 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/tata-motors-price-hike-tata-cars-suvs-evs-costlier-up-to-rs-25000-from-september-1-2026-2976301-2026-08-21",
       "headline": "Tata cars to get costlier by up to Rs 25,000 from September 1. Details hereThe price hike will cover both internal combustion engine (ICE) vehicles and electric vehicles (EVs), the company said in a press release on Friday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sebi-fo-derivatives-trading-curbs-cut-participation-average-trader-losses-rose-in-fy26-2976271-2026-08-21",
-      "headline": "Sebi wanted to curb F&O trading. Have its measures actually reduced trader losses?Sebi's latest study shows its F&O curbs reduced individual participation and total losses in FY26. But average losses per trader rose, indicating risky options behaviour remains entrenched."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-allows-duty-free-import-one-million-tonnes-raw-sugar-cool-prices-before-festival-season-2976033-2026-08-20",
-      "headline": "India allows duty-free import of 1 million tonnes of raw sugar to cool pricesIndia has allowed duty-free imports of 1 million metric tons of raw sugar until 31 October. The move aims to ease record domestic prices before the festival season and could lift global sugar benchmarks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/gold-price-today-hits-three-month-high-rs-162-lakh-silver-soars-rs-10000-as-dollar-weakens-2976009-2026-08-20",
-      "headline": "Gold hits 3-month high at Rs 1.62 lakh, silver soars Rs 10,000 as dollar weakensGold rose sharply in Delhi on Thursday, while silver also posted a strong gain. The move came as a weaker US dollar and lower Treasury yields lifted demand for precious metals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/it-may-look-radically-different-zerodhas-nithin-kamath-on-how-ai-could-change-trading-2975942-2026-08-20",
-      "headline": "It may look radically different: Nithin Kamath on how AI could change tradingThe combination of AI, new technologies, evolving regulations and changing market structures could push investing well beyond today's broker-app model, says Kamath."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/china-evergrande-founder-hui-ka-yan-sentenced-life-prison-shenzhen-property-crisis-2975909-2026-08-20",
-      "headline": "China Evergrande founder, once Asia's richest man, sentenced to life in prisonA court in Shenzhen sentenced China Evergrande founder Hui Ka Yan to life in prison and ordered all his personal property confiscated. He pleaded guilty in April to eight charges, including misuse of funds, fundraising fraud, illegally taking public deposits, illegally extending loans, fraudulently issuing securities and bribery."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/forget-mumbai-delhi-this-state-uttar-pradesh-is-now-indias-biggest-crypto-market-bitcoin-coinswitch-2975869-2026-08-20",
-      "headline": "Forget Mumbai, Delhi: This state is now India's biggest crypto marketMumbai and Delhi might be the first names that come to mind when you think of India's financial powerhouses. But the crypto map tells a very different story, with one state emerging ahead of the usual suspects."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/nse-may-allow-its-shares-to-trade-on-its-own-platform-after-bse-listingindiua-2975771-2026-08-20",
-      "headline": "NSE may allow its shares to trade on its own platform after BSE listingUnder the plan, NSE shares could be placed in the exchange's 'permitted to trade' category even though BSE would remain the formal listing venue."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/bitcoin-surges-12-crosses-70000-5-key-drivers-behind-the-rally-2975753-2026-08-20",
-      "headline": "Bitcoin surges 12% crosses $70,000: 5 key drivers behind the rallyThe world's largest cryptocurrency was trading at $71,933.44 at the time of writing, at around 3.15 pm, up 11.8% over the previous 24 hours."
     }
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-ala-bolelo-rajinikanth-shamna-kasim-win-fans-with-onam-banger-2976907-2026-08-21",
+      "headline": "Jailer 2's Ala Bolelo: Rajinikanth, Shamna Kasim win fans with Onam banger Jailer 2's first song Ala Bolelo, featuring Rajinikanth and Shamna Kasim, is out ahead of its October 15 release. Composed and sung by Anirudh Ravichander, the Onam-themed track is winning praise for its festive energy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-provision-store-story-actor-recalls-old-scooter-money-gap-family-support-2976864-2026-08-21",
+      "headline": "Did you know Yash ran a provision store before finding fame in cinema? Actor Yash recalled running a provision store and riding his father's old scooter in college. The actor said those years exposed financial differences but also reinforced the values and support his parents gave him."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/kaun-banega-crorepati-18-ssc-aspirant-ruchita-adhalrao-rs-25-lakh-win-brings-dream-of-buying-a-home-closer-2976801-2026-08-21",
+      "headline": "KBC 18: SSC aspirant's Rs 25 lakh win brings dream of buying a home closer Ruchita Adhalrao won Rs 25 lakh on Kaun Banega Crorepati 18, bringing her closer to her dream of buying a home for her family in Dharavi. The SSC aspirant will return on Friday to attempt the Rs 1 crore question with two lifelines remaining."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/batwara-1947-dhurandhar-rajkumar-santoshi-alpha-male-sunny-deol-ranveer-singh-2976838-2026-08-21",
+      "headline": "Rajkumar Santoshi on Batwara 1947 vs Dhurandhar; praises Sunny's classy macho heroes Director Rajkumar Santoshi compared Batwara 1947 and Dhurandhar while praising Aditya Dhar and Ranveer Singh. He said his idea of the action hero values dignity and purpose over performative violence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-arjun-rampal-marries-long-time-partner-gabriella-demetriades-in-goa-2976800-2026-08-21",
+      "headline": "Arjun Rampal marries longtime partner Gabriella Demetriades in Goa Actor Arjun Rampal and his long-time partner Gabriella Demetriades are now legally married after registering their marriage in Goa. The couple, together since 2018, completed the formalities at the Bardez Sub-Registrar's Office."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/bethlehem-kudumba-unit-review-nivin-pauly-mamitha-baiju-warm-rom-com-2976749-2026-08-21",
+      "headline": "Bethlehem Kudumba Unit review: Nivin, Mamitha power this warm hug of a filmRelease Date:Fri Aug 21, 2026 Bethlehem Kudumba Unit movie review: Director Girish AD's Bethlehem Kudumba Unit, starring Nivin Pauly and Mamitha Baiju, is a wholesome rom-com with several laugh-out-loud moments. The film celebrates the small joys in life while gently exploring grief, love and the mental blocks that hold us back."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/vande-mataram-row-what-sharmila-tagore-said-trigger-kangana-ranaut-2-stanzas-hindu-muslim-controversy-2976543-2026-08-21",
+      "headline": "Vande Mataram row: What Sharmila Tagore really said that upset Kangana Ranaut Veteran actor Sharmila Tagore's recent remarks on Vande Mataram triggered a sharp reaction from Kangana Ranaut. Kangana defended the song's artistic symbolism and called for moving beyond a Hindu-Muslim mindset in understanding the national song."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hema-malini-denies-rift-with-dharmendra-first-family-after-his-death-2976683-2026-08-21",
+      "headline": "Don't believe AI: Hema Malini denies rift with Dharmendra's family after his death Actor Hema Malini dismissed reports of a rift with Dharmendra's first family after his death. She said the families remain united and warned against believing AI-generated claims."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoors-latest-gym-video-sparks-pregnancy-buzz-internet-reacts-2976697-2026-08-21",
+      "headline": "Kareena Kapoor's latest gym video sparks pregnancy buzz, internet reacts A viral video of Kareena Kapoor leaving a gym has sparked fresh pregnancy speculation online, with social media users wondering if the actor is expecting her third child."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ssunita-ahuja-tells-rakhi-sawant-she-got-calls-from-hotels-about-govinda-2976609-2026-08-21",
+      "headline": "Ssunita Ahuja tells Rakhi Sawant she got calls from hotels about Govinda Ssunita Ahuja's phone call with Rakhi Sawant revealed fresh details about her marital troubles with actor-husband Govinda, including reported hotel calls. She also questioned Poonam Pandey and others for speaking on the matter."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/arjun-kapoor-viral-video-actor-questions-fan-for-recording-him-without-permission-2976618-2026-08-21",
-      "headline": "Arjun Kapoor snaps at fan for filming him without permission Actor Arjun Kapoor confronted a fan after noticing he was being recorded instead of photographed. The exchange, captured on video, has since surfaced widely online."
+      "headline": "Arjun Kapoor questions fan for recording him without permission, video goes viral Actor Arjun Kapoor confronted a fan after noticing he was being recorded instead of photographed. The exchange, captured on video, has since surfaced widely online."
     },
     {
       "sentiment": "positive",
@@ -146,63 +196,43 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/taapsee-pannu-gandhari-netflix-release-date-september-3-2026-2976470-2026-08-21",
       "headline": "Gandhari: Taapsee Pannu's action thriller to premiere on Netflix on this date Taapsee Pannu's action thriller Gandhari is set to premiere on Netflix in September. The film follows a mother's dangerous search for her daughter, blending action with survival and resilience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/that-one-poetic-scene-from-awarapan-2-thats-bigger-than-the-film-and-emraan-hashmi-2976422-2026-08-21",
-      "headline": "The one poetic scene from Awarapan 2 that's bigger than the film and Emraan Hashmi One scene in Awarapan 2 is winning the internet, and it's more than a stylish escape sequence. Here's how its music, spirituality and callback to the 2007 original turn Shivam Pandit's journey into a poetic conversation with God."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/pyaar-prema-kalyanam-review-elans-marriage-role-reversal-comedy-asks-sharp-questions-2976400-2026-08-21",
-      "headline": "Pyaar Prema Kalyanam review: Fun, refreshing take on gender roles, with minor flawsRelease Date:Fri Aug 21, 2026 Pyaar Prema Kalyanam movie review: Elan makes his acting debut with a fun, crisp take on gender reversal. Starring Saanve Megghana, the film raises interesting questions about marriage and equality, but falters with a shallow climax."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/shweta-tiwari-questions-raj-thackeray-over-marathi-troll-abuse-2976418-2026-08-21",
-      "headline": "Shweta Tiwari questions Raj Thackeray over online abuse by alleged Marathi trolls Shweta Tiwari questioned Raj Thackeray after sharing posts about abuse aimed at women online. She said the remarks showed how gendered trolling has been normalised, even among men from seemingly respectable families."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/deepika-padukone-10-profit-demand-led-to-prabhas-spirit-fallout-says-producer-pranay-reddy-vanga-2976378-2026-08-21",
-      "headline": "Deepika Padukone's Spirit fallout: Producer Vanga reveals what really went wrong Producer Pranay Reddy Vanga, brother of director Sandeep Reddy Vanga, said Deepika Padukone's fee, timings and other demands led Spirit to move on. He said leaked discussions and false casting narratives later angered the director."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rajkumar-santoshi-says-casting-sunny-deol-as-a-muslim-in-batwara-1947-was-shocker-2976374-2026-08-21",
-      "headline": "Rajkumar Santoshi says casting Sunny Deol as a Muslim in Batwara 1947 was 'shocker' Rajkumar Santoshi said casting Sunny Deol as an Indian Muslim in Batwara 1947 was seen as a risk from the start. He said the film's message on brotherhood and resistance to fanaticism matters more than its box-office setback."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/one-night-only-review-monica-barbaro-callum-turner-absurd-rom-com-2976348-2026-08-21",
-      "headline": "One Night Only review: A ridiculous rom-com that knows exactly how ridiculous it isRelease Date:Fri Aug 21, 2026 One Night Only movie review: One Night Only follows two strangers through New York on the year's only legal night for premarital sex. The film leans into its absurd premise for chaotic laughs, even as its sharper ideas remain mostly unexplored."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/welcome-to-the-jungle-ott-release-jiohotstar-when-where-watch-akshay-kumar-film-2976316-2026-08-21",
-      "headline": "Welcome to the Jungle OTT release: When and where to watch Akshay's multi-starrer Akshay Kumar's Welcome to the Jungle has made its OTT debut on JioHotstar. The release lets viewers catch the ensemble comedy at home after its theatrical run."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/paw-patrol-the-dino-movie-review-marshalls-journey-powers-dinosaur-adventure-2976285-2026-08-21",
-      "headline": "PAW Patrol: The Dino Movie review: Fun dinosaur adventure packed with life lessonsRelease Date:Fri Aug 21, 2026 PAW Patrol: The Dino Movie movie review: The movie sends pups to a dinosaur island where a volcanic eruption sparks another rescue mission. Beneath the spectacle, the film centres Marshall's struggle with self-doubt and resilience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/7-dogs-review-salman-khan-sanjay-dutt-ahmed-ezz-high-octane-action-film-2976288-2026-08-21",
-      "headline": "7 Dogs review: Salman, Sanjay bring swag to Ahmed Ezz's high-octane actionerRelease Date:Fri Aug 21, 2026 7 Dogs movie review: 7 Dogs follows Interpol officer Khalid and criminal Ghali on a global mission against a new drug network. The Saudi Arabian film, which also stars Salman Khan and Sanjay Dutt, leans on relentless spectacle, playful action and brief but striking star turns rather than deeper emotion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rs-10000-fish-dish-rs-188-lakh-champagne-inside-arpita-khan-restuarant-2976259-2026-08-21",
-      "headline": "Rs 10,000 fish dish, Rs 1.88 lakh champagne: Inside Arpita Khan's restaurant Arpita Khan Sharma's Mumbai restaurant Mercii is drawing buzz for its premium menu and plush setting. With a Rs 10,000 fish dish and champagne at Rs 1,88,550, the prices have become part of the spectacle."
     }
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/jantar-mantar-protest-caste-reservation-ugc-norms-ajeet-bharti-savarn-harsh-dubey-delhi-police-2976807-2026-08-21",
+      "headline": "General show of strength: Thousands storm Jantar Mantar over UGC norms, quota reformsThousands gathered at New Delhi's Jantar Mantar in a show of strength by groups opposing the UGC equity norms and seeking reforms in caste-based reservations. The protest by diverse groups, primarily from upper castes, came amid confusion over Delhi Police permission. Protesters said they would leave only after submitting a memorandum to PM Modi."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/delhi-police-fir-sahil-lochab-pellet-injuries-rahul-gandhi-dharna-2976782-2026-08-21",
+      "headline": "Cops file FIR on pellet gun victim's complaint after Rahul Gandhi's dharnaDelhi Police has registered an FIR on Sahil Lochab's complaint over pellet injuries suffered during the July 20 CJP-led protest in Delhi. The move came after Rahul Gandhi staged a dharna at Parliament Street police station, pressing for a case and FIR number."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-aston-martin-crash-mp-son-accused-bharati-mukhi-inorbit-mall-2976634-2026-08-21",
+      "headline": "Video: Andhra MP's son in Aston Martin, bloodied woman, friend's cries after crashThe video of the Hyderabad accident's aftermath shows the woman's bloodied body lying on the road as her colleague cries for help, while bystanders confront the driver and rush her to hospital in the same Aston Martin."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-at-police-station-with-victim-of-alleged-pellet-gun-use-during-gen-z-protest-to-get-fir-filed-2976434-2026-08-21",
-      "headline": "Cops said orders from top: Rahul Gandhi's charge over no FIR in pellet gun case Live UpdatesThe Congress has claimed that pellet guns were used by RAF personnel during the July 20 students' 'Sansad Chalo' march after cases of injuries emerged in subsequent days."
+      "url": "https://www.indiatoday.in/science/story/isro-will-not-make-any-launch-vehicle-all-tech-to-be-handed-to-private-sector-2976849-2026-08-21",
+      "headline": "Isro will not make any launch vehicle, all tech will go to private sectorIN-SPACe chairman Pawan Goenka said Isro is moving launch vehicle and satellite production to industry. The shift will leave the agency focused on research, scientific missions and advanced space infrastructure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-arjun-rampal-marries-long-time-partner-gabriella-demetriades-in-goa-2976800-2026-08-21",
+      "headline": "Arjun Rampal marries longtime partner Gabriella Demetriades in GoaActor Arjun Rampal and his long-time partner Gabriella Demetriades are now legally married after registering their marriage in Goa. The couple, together since 2018, completed the formalities at the Bardez Sub-Registrar's Office."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-us-open-withdrawal-right-knee-injury-2976926-2026-08-21",
+      "headline": "Jannik Sinner pulls out of US Open after failing to recover from knee injuryJannik Sinner has withdrawn from the US Open after failing to recover fully from his right knee injury. The world No. 1 said recent training showed he needed more time to recover, leaving him disappointed to miss the New York major."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/can-sonia-gandhi-throw-parliaments-law-in-dustbin-smriti-irani-hits-out-at-congress-over-vande-mataram-row-2976747-2026-08-21",
+      "headline": "Can Sonia Gandhi throw Parliament's law in dustbin? Smriti Irani on Vande MataramBJP general secretary Smriti Irani attacked the Congress over the Vande Mataram row, questioning its decision to stick to the first two stanzas. She invoked Rajendra Prasad's 1950 statement on the song's equal status, questioned Sonia Gandhi's stance and accused Congress of disregarding national and Hindu sentiments."
     },
     {
       "sentiment": "positive",
@@ -211,38 +241,48 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tamil-nadu-vijay-softens-delimitation-stance-amit-shah-meeting-2976383-2026-08-21",
-      "headline": "Will Rahul call Vijay traitor: TVK's delimitation stand at Amit Shah meet stirs rowIn an apparent recalibration that has set tongues wagging, Tamil Nadu Chief Minister Vijay appears to have softened his hardline position on delimitation, days after the Assembly passed a resolution against the proposed exercise."
+      "url": "https://www.indiatoday.in/technology/news/story/h1-b-visa-lottery-system-becomes-horror-story-for-indian-couple-after-trump-made-changes-to-it-2976674-2026-08-21",
+      "headline": "H1-B visa lottery system becomes horror story for Indian coupleAn Indian Amazon employee has secured an H-1B visa after years of uncertainty, but changing US immigration rules continue to complicate his and his fiancee's plans. With her final H-1B lottery attempt approaching, the couple is delaying major decisions such as buying a home and settling permanently in the US."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/h1b-visa-fees-dhs-proposal-trump-administration-white-house-indians-in-the-us-2976489-2026-08-21",
-      "headline": "New H-1B fee proposal clears White House review. Will it hit Indians?A Trump administration proposal to change H-1B petition fees has cleared White House regulatory review, signalling another potential shift in the US skilled-worker visa programme. The proposal could raise costs for employers hiring Indian nationals, who continue to dominate H-1B approvals."
+      "url": "https://www.indiatoday.in/india/story/cjp-protest-abhijeet-dipke-jaipur-deadline-after-new-delhi-jantar-mantar-ashuthosh-ranka-attacked-2976751-2026-08-21",
+      "headline": "Jaipur after Jantar Mantar? Dipke gives 48-hour deadline after clash over schoolAfter its successful agitation in New Delhi's Jantar Mantar, the Cockorach Janta Party (CJP) is now eyeing Jaipur as its next protest destination. The outfit's founder and convenor, Abhijeet Dipke, has given a 48-hour deadline for the authorities to take necessary actions against the goons who attacked CJP activists."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/news/story/is-tcs-tracking-employee-laptops-what-tcs-says-explained-in-5-points-2976446-2026-08-21",
-      "headline": "Is TCS tracking employee laptops? What TCS says, explained in 5 pointsTCS has denied reports that it is tracking individual employee activity on company-issued laptops, saying its monitoring tools are used for network performance, security and employee experience."
+      "headline": "Is TCS tracking employee laptops? What company says \u2014 Explained in 5 pointsTCS has denied reports that it is tracking individual employee activity on company-issued laptops, saying its monitoring tools are used for network performance, security and employee experience."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/sambhajinagar-hill-tragedy-teen-parents-die-khavdya-hills-rescue-2976707-2026-08-21",
+      "headline": "Teen attempts suicide after row over smartphone, parents try to save him; all 3 dieAn 18-year-old teen who threatened to take his own life at Khavdya Hills died along with his parents during a rescue attempt. The three deaths within minutes left villagers and rescue personnel in shock."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-dharna-congress-mp-displays-pellets-from-cjp-protest-victims-body-2976555-2026-08-21",
-      "headline": "200 lodged in body, 3 in eye: Rahul Gandhi shows pellets from victim's bodyRahul Gandhi staged a dharna outside Parliament Street Police Station with injured protester Sahil Lochab. He displayed pellets said to be removed from Lochab's body as they sought an FIR."
+      "url": "https://www.indiatoday.in/india/video/video-nashik-truck-carrying-gravel-to-fill-potholes-falls-into-one-2976788-2026-08-21",
+      "headline": "Video: Nashik truck carrying gravel to fill potholes falls into oneA truck carrying gravel to fill roadwork-related potholes got stuck in a newly dug section of Nashik's Gangapur Road, with the incident captured on video. The truck was carrying material to fill trenches created during the recent construction of a stormwater drainage line connecting the colony road. However, the road reportedly caved in beneath the vehicle, causing the truck to slide backwards into the pit and leaving its front wheels suspended in the air. The video of the incident has since gone viral on social media, drawing attention to the condition of the road and ongoing repair work."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/7-dogs-review-salman-khan-sanjay-dutt-ahmed-ezz-high-octane-action-film-2976288-2026-08-21",
-      "headline": "7 Dogs review: Salman, Sanjay bring swag to Ahmed Ezz's high-octane actionerRelease Date:Fri Aug 21, 20267 Dogs movie review: 7 Dogs follows Interpol officer Khalid and criminal Ghali on a global mission against a new drug network. The Saudi Arabian film, which also stars Salman Khan and Sanjay Dutt, leans on relentless spectacle, playful action and brief but striking star turns rather than deeper emotion."
+      "url": "https://www.indiatoday.in/india/story/govt-revanth-reddy-us-visit-clearance-denied-mea-uk-visit-approved-2976679-2026-08-21",
+      "headline": "Programme not appropriate: Govt on denying permission to Revanth Reddy for US visitThe MEA denied political clearance for Telangana Chief Minister A Revanth Reddy's proposed US visit, saying the submitted programme was not appropriate to his office and purpose. The decision cancelled his US leg while his delegation presses ahead with planned education and partnership talks."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/vande-mataram-debate-kangana-ranaut-counters-sharmila-tagore-remarks-2976268-2026-08-21",
-      "headline": "Come out of Hindu-Muslim mindset: Kangana slams Sharmila Tagore's Vande Mataram takeKangana Ranaut has strongly criticised Sharmila Tagore's suggestion to limit Vande Mataram to its first two stanzas, urging people to move beyond the Hindu-Muslim mindset. She emphasised the poem's artistic and historical significance as a symbol of India's freedom struggle rather than a religious text."
+      "url": "https://www.indiatoday.in/india/story/tukaram-mundhe-maharashtra-fda-chief-politics-raids-hotels-restaurants-2976765-2026-08-21",
+      "headline": "Will Tukaram Mundhe join politics? 'Singham' Maharashtra FDA chief reactsTukaram Mundhe, appointed as Maharashtra FDA just three months ago, has grabbed the spotlight over his strict crackdown on restaurants, warehouses and food shops in the state. In an interview with Business Today, Mundhe opens up about his goals, raids, and whether he would join politics."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-aston-martin-crash-lingamaneni-sanjush-inorbit-mall-crash-why-jana-sena-mp-son-was-not-arrested-police-bharati-mukhi-2976738-2026-08-21",
+      "headline": "Andhra MP's son wasn't arrested after fatal Aston Martin crash. What cop saidAndhra Pradesh MP's son was identified as the driver of the Aston Martin that killed a woman near a Hyderabad mall, but police did not arrest him and instead served him a notice to appear and cooperate with the investigation. Here's why."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/tamil-nadu-cm-vijay-steps-behind-camera-to-honour-photographers-on-world-photography-day-2976467-2026-08-21",
-      "headline": "Vijay steps behind camera to honour photographers on World Photography DayTamil Nadu Chief Minister Vijay picked up a professional camera and photographed press photographers at the Secretariat on World Photography Day."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoors-latest-gym-video-sparks-pregnancy-buzz-internet-reacts-2976697-2026-08-21",
+      "headline": "Kareena Kapoor's latest gym video sparks pregnancy buzz, internet reactsA viral video of Kareena Kapoor leaving a gym has sparked fresh pregnancy speculation online, with social media users wondering if the actor is expecting her third child."
     },
     {
       "sentiment": "positive",
@@ -251,53 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/indian-education-degree-job-market-skill-crisis-niti-aayog-report-august-2026-nirmala-sitharaman-2975946-2026-08-21",
-      "headline": "Why graduates aren't finding jobs? Niti Aayog report flags a big mismatchIndians are graduating in greater numbers than ever, but only 8.25% are finding jobs related to what they have studied. A new Niti Aayog paper flags the widening gap between India's education system and the skills demanded by the job market."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/udhayanidhi-stalin-rejects-govt-cars-for-dmk-mlas-aadhav-arjuna-calls-it-necessity-2975937-2026-08-21",
+      "headline": "Udhayanidhi Stalin rejects govt cars for DMK MLAs, Aadhav Arjuna calls it necessityUdhayanidhi Stalin said all 59 DMK MLAs will reject government cars, citing financial concerns, while Aadhav Arjuna defended the scheme, calling vehicles a necessity for legislators to travel across constituencies and meet constituents."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/treesa-jolly-gayatri-gopichand-badminton-world-championship-medals-confirmed-quarterfinal-victory-2976509-2026-08-21",
-      "headline": "Gayatri-Treesa stun 4th seeds, assure India women's doubles medal after 15 yearsTreesa Jolly and Gayatri Gopichand ended India's 15-year wait for a women's doubles medal at the BWF World Championships, stunning fourth seeds Jia Yi Fan and Zhang Shu Xian in three games to reach the semi-finals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/tamil-nadu-mlas-car-allowance-vijay-vehicles-rs-1-lakh-monthly-support-2976369-2026-08-21",
-      "headline": "Vijay's car for every MLA move: When the empty treasury finds a full tankTamil Nadu Chief Minister C. Joseph Vijay announced official vehicles and monthly allowances for all 234 MLAs in the state assembly. The move drew visible cross-party enthusiasm while also prompting questions over fiscal priorities and the universal nature of the benefit."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-protest-dharna-delhi-street-police-station-pellet-gun-victim-live-updates-congress-2976461-2026-08-21",
-      "headline": "Live: BJP accuses Rahul Gandhi of 'politics of anarchy' over pellet gun dharnaRahul Gandhi Protest Live Updates: High drama unfolded in Delhi on Friday as Lok Sabha Leader of Opposition Rahul Gandhi staged a dharna outside the Parliament Street Police Station with alleged pellet-gun injury victim Sahil Lochav, demanding an FIR and accountability over the July 20 Jantar Mantar protest. Gandhi met senior Delhi Police officers, including the DCP, as Congress leaders Priyanka Gandhi Vadra, Mallikarjun Kharge and Salman Khurshid backed the demand, while Congress workers raised slogans and some attempted to enter the police station."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/abhijeet-dipke-cjp-campaign-fake-dummy-children-maharashtra-government-school-latur-allegation-2976361-2026-08-21",
-      "headline": "Did school import students ahead of Dipke's surprise raid?During a visit to a government school in Maharashtra, CJP founder Abhijeet Dipke alleged that authorities had brought in students from other institutions to cover up the shortcomings and present a favourable picture. Dipke also alleged that school brought new shiny steel plates for midday meals before the visit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/south/story/udhayanidhi-stalin-challenges-cm-vijay-over-assembly-files-and-proof-demand-ctr-nirmal-kumar-sanghi-minister-2976375-2026-08-21",
-      "headline": "Udhayanidhi calls TVK MLA sanghi, he hits back with '3 hours in bathroom' jibeTamil Nadu Assembly witnessed a heated exchange as Udhayanidhi Stalin called TVK leader CTR Nirmal Kumar a \"Sanghi Minister\", prompting Kumar to hit back with the \"Bathroom Leader\" jibe over Stalin's recent arrest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/indian-comedian-zarna-gargs-hermes-nightmare-trapped-in-restroom-for-over-an-hour-in-berlin-2976522-2026-08-21",
-      "headline": "Zarna Garg's Hermes nightmare: Trapped in restroom for over an hour in BerlinComedian Zarna Garg says she was trapped inside a bathroom at a Hermes store in Berlin for about 80 minutes. She alleges staff refused to call firefighters and offered no apology after she was freed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/delhi-logs-1777-h1n1-cases-159-reported-yesterday-jp-nadda-calls-high-level-meet-amid-8-fold-surge-in-cases-2976483-2026-08-21",
-      "headline": "114 H1N1 cases in Delhi in a day; JP Nadda calls review meet amid 8-fold surgeDelhi recorded 114 fresh H1N1 cases on August 20, taking the 2026 tally to 1,777. Union Health Minister J P Nadda has called a meeting with Delhi health officials to review the rising cases."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cjp-jaipur-government-school-visit-row-cjp-workers-forced-out-ashutosh-ranka-blames-bjp-goons-2976315-2026-08-21",
-      "headline": "Clashes over CJP school inspection in Jaipur, Ashutosh Ranka blames 'BJP goons'CJP workers faced opposition during a planned visit to a government primary school in Jaipur. Co-convenor Ashutosh Ranka accused the BJP of sending \"goons\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/maharashtra-class-6-new-history-textbook-vedic-diet-varna-system-debate-ncert-balbharti-2976409-2026-08-21",
-      "headline": "Meat out, plant-based in: Maharashtra history textbook drops caste link, sparks debateMaharashtra's new Class 6 history textbook has sparked debate over its portrayal of the Vedic period. Historians say key references to meat consumption and caste inequality have been left out."
+      "url": "https://www.indiatoday.in/trending-news/story/tamil-nadu-cm-vijay-steps-behind-camera-to-honour-photographers-on-world-photography-day-2976467-2026-08-21",
+      "headline": "Vijay steps behind camera to honour photographers on World Photography DayTamil Nadu Chief Minister Vijay picked up a professional camera and photographed press photographers at the Secretariat on World Photography Day."
     },
     {
       "sentiment": "positive",
@@ -306,70 +306,130 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/govt-limits-number-of-sim-cards-you-can-have-new-rules-effective-from-august-24-2975993-2026-08-20",
-      "headline": "Govt limits number of SIM cards you can have, new rules effective from August 24The government is tightening enforcement of India's SIM card limits, with telecom operators required to stop issuing new connections to subscribers who have already reached the permitted number from August 24. The DoT will use its Digital Intelligence Platform to help operators identify such customers."
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/indian-comedian-zarna-gargs-hermes-nightmare-trapped-in-restroom-for-over-an-hour-in-berlin-2976522-2026-08-21",
+      "headline": "Zarna Garg's Hermes nightmare: Trapped in restroom for over an hour in BerlinComedian Zarna Garg says she was trapped inside a bathroom at a Hermes store in Berlin for about 80 minutes. She alleges staff refused to call firefighters and offered no apology after she was freed."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/north-india-monsoon-rain-forecast-imd-low-pressure-area-2975889-2026-08-21",
-      "headline": "Rains to continue: Monsoon will stay active across these places in IndiaA weather system over Madhya Pradesh is keeping the monsoon active across north and central India, with the rain set to persist across several states. Here's where it is expected to pour."
+      "url": "https://www.indiatoday.in/world/us-news/story/h1b-visa-fees-dhs-proposal-trump-administration-white-house-indians-in-the-us-2976489-2026-08-21",
+      "headline": "New H-1B fee proposal clears White House review. Will it hit Indians?A Trump administration proposal to change H-1B petition fees has cleared White House regulatory review, signalling another potential shift in the US skilled-worker visa programme. The proposal could raise costs for employers hiring Indian nationals, who continue to dominate H-1B approvals."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/h1n1-cases-in-delhi-ncr-rise-amid-monsoon-doctors-warn-of-severe-symptoms-2976290-2026-08-21",
-      "headline": "H1N1 cases rise in Delhi-NCR; patients report falling oxygen, severe breathing issuesDelhi-NCR is witnessing a rise in H1N1 and other respiratory infections amid humid and changing weather conditions. Several people, including doctors and the head of a Delhi government hospital, have reportedly tested positive, while some patients are experiencing declining oxygen levels."
+      "url": "https://www.indiatoday.in/india/delhi/story/delhi-master-plan-2047-dynamic-parking-charges-brts-select-routes-land-pooling-transport-policy-2976497-2026-08-21",
+      "headline": "Delhi could levy dynamic parking charges, bring back disputed BRTS: MasterplanDelhi's Master Plan 2047 could make parking more expensive in the city's busiest areas and bring back the disputed BRTS on select routes. The policy tries to get people out of private vehicles and make public transport a more attractive option."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-argentina-world-cup-final-punishments-321000-fine-paredes-ban-2976948-2026-08-21",
+      "headline": "FIFA slaps Argentina with hefty fine, punishments after World Cup final chaos FIFA has sanctioned Argentina after the World Cup final disorder, fining the AFA and banning several team members. Argentina were also punished for multiple disciplinary breaches, including their decision to hold the banner about Falklands."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/mondo-duplantis-gold-song-world-athletics-ultimate-championship-anthem-2976927-2026-08-21",
+      "headline": "Meet Mondo Duplantis. Part-time World record-breaker and full-time musician Mondo Duplantis has released Gold as the official anthem for World Athletics' new Ultimate Championship. The move turns the pole vault star's off-track ambition into part of the sport's latest commercial showpiece."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-us-open-withdrawal-right-knee-injury-2976926-2026-08-21",
+      "headline": "Jannik Sinner pulls out of US Open after failing to recover from knee injury Jannik Sinner has withdrawn from the US Open after failing to recover fully from his right knee injury. The world No. 1 said recent training showed he needed more time to recover, leaving him disappointed to miss the New York major."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/video/bwf-world-championships-how-gayatri-gopichand-treesa-jolly-turned-setbacks-into-glory-coach-sumeth-reddy-reveals-2976873-2026-08-21",
+      "headline": "How Gayatri-Treesa turned setbacks into Worlds glory: Coach Sumeth Reddy reveals Coach Sumeth Reddy, also a former Olympian, believes Gayatri Gopichand and Treesa Jolly's World Championship medal is a huge achievement, especially after their previous silver medals and the disappointment of Gayatri's injury."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/formula-1-dutch-gp-kimi-antonelli-title-race-verstappen-red-bull-commitment-2976835-2026-08-21",
+      "headline": "Five red lights: F1 returns after summer break to Zandvoort for Dutch GP Formula 1 resumes at Zandvoort with Kimi Antonelli leading the title race and Max Verstappen committing to Red Bull until 2030. The restart raises the stakes for Mercedes, Ferrari and McLaren as they look to chase the title."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-satwik-chirag-quarterfinal-loss-report-delhi-2976804-2026-08-21",
+      "headline": "BWF Worlds: Rusty Satwik and Chirag lose quarters, miss out on medal at home Former World No.1 Satwiksairaj Rankireddy and Chirag Shetty didn't look at their brilliant best and went down in straight games to third seed Chinese pairing Chang Wang and Liang Wei Kang on Friday, August 21."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-vs-australia-phil-simmons-focus-2nd-test-mackay-2976756-2026-08-21",
+      "headline": "Bangladesh urged to put Darwin emotions aside, focus on Mackay Test vs Australia Bangladesh coach Phil Simmons has urged his players to put their historic Darwin victory behind them and focus on the second Test in Mackay. With a 1-0 lead, Bangladesh can seal their first-ever Test series win over Australia if they repeat their impressive performance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-india-2976732-2026-08-21",
+      "headline": "Gill takes on left-arm spinners in Colombo nets, Kuldeep, Rahul miss session Shubman Gill spent extra time in Colombo working against left-arm spin after Galle exposed the issue again. Kuldeep Yadav and KL Rahul decided to give the session a miss as they got"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-india-kamil-mishara-sahan-arachchige-second-test-colombo-2976698-2026-08-21",
+      "headline": "Sri Lanka bring in reinforcements for Colombo Test after Galle debacle SL vs IND, 1st Test: Sri Lanka have bolstered their squad with Kamil Mishara and Sahan Arachchige for the must-win Colombo Test after their 165-run defeat to India in Galle."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/magazine/sports/story/20260831-surfing-india-rides-a-new-wave-2976344-2026-08-21",
+      "headline": "Surfing | India rides a new wave Surfing may be just a decade old as a competitive sport in India, but athletes are already looking to make a splash at this year's Asian games"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/video/treesa-jolly-gayatri-gopichand-react-historic-bwf-world-championships-medal-2976702-2026-08-21",
+      "headline": "Came here with a goal: Treesa, Gayatri react after securing historic BWF Worlds medal Treesa Jolly and Gayatri Gopichand reflect on their historic BWF Worlds medal after ending India's 15-year wait for a women's doubles podium finish. The Indian duo stunned fourth seeds Jia Yi Fan and Zhang Shu Xian to reach the semi-finals on home soil."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/treesa-jolly-gayatri-gopichand-bwf-worlds-podium-semi-final-2976652-2026-08-21",
+      "headline": "Not finished yet: Treesa, Gayatri not happy with just a medal at BWF WorldsTreesa Jolly and Gayatri Gopichand have secured India's first women's doubles BWF Worlds medal since 2011, but the Indian duo insist their campaign is not over after stunning the fourth seeds to reach the semi-finals on home soil."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kuldeep-yadav-backed-india-vs-sri-lanka-sairaj-bahutule-colombo-test-2976613-2026-08-21",
-      "headline": "India spin coach backs Kuldeep to bounce back in 2nd Test: He's a match-winner Kuldeep Yadav endured a quiet outing in Galle, but India's spin coach Sairaj Bahutule has backed the wrist-spinner to bounce back in the second Test in Colombo. With India leading the series 1-0, Kuldeep remains firmly in the team's plans despite Manav Suthar and Ravindra Jadeja's impressive returns in the opener."
+      "headline": "India spin coach backs Kuldeep to bounce back in 2nd Test: He's a match-winnerKuldeep Yadav endured a quiet outing in Galle, but India's spin coach Sairaj Bahutule has backed the wrist-spinner to bounce back in the second Test in Colombo. With India leading the series 1-0, Kuldeep remains firmly in the team's plans despite Manav Suthar and Ravindra Jadeja's impressive returns in the opener."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/treesa-jolly-gayatri-gopichand-badminton-world-championship-medals-confirmed-quarterfinal-victory-2976509-2026-08-21",
-      "headline": "Gayatri-Treesa stun 4th seeds, assure India women's doubles medal after 15 years Treesa Jolly and Gayatri Gopichand ended India's 15-year wait for a women's doubles medal at the BWF World Championships, stunning fourth seeds Jia Yi Fan and Zhang Shu Xian in three games to reach the semi-finals."
+      "headline": "Gayatri-Treesa stun 4th seeds, assure India women's doubles medal after 15 yearsTreesa Jolly and Gayatri Gopichand ended India's 15-year wait for a women's doubles medal at the BWF World Championships, stunning fourth seeds Jia Yi Fan and Zhang Shu Xian in three games to reach the semi-finals."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/elena-rybakina-injury-cincinnati-open-retirement-world-no-1-us-open-2976480-2026-08-21",
-      "headline": "Elena Rybakina suffers horrible injury scare before US Open, misses No.1 ranking Elena Rybakina's bid to become world No.1 suffered a major setback after she retired injured against Iga Swiatek in the Cincinnati quarter-finals. With the US Open just days away, Rybakina now faces a race against time to recover from her left ankle injury."
+      "headline": "Elena Rybakina suffers horrible injury scare before US Open, misses No.1 rankingElena Rybakina's bid to become world No.1 suffered a major setback after she retired injured against Iga Swiatek in the Cincinnati quarter-finals. With the US Open just days away, Rybakina now faces a race against time to recover from her left ankle injury."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/marcus-rashford-manchester-united-future-michael-carrick-premier-league-2976372-2026-08-21",
-      "headline": "Marcus Rashford gets Carrick's backing as Man Utd future hangs in the balance Michael Carrick has praised Marcus Rashford's fitness, attitude and return to Manchester United training, but the England forward's future at Old Trafford remains uncertain ahead of the new Premier League season."
+      "headline": "Marcus Rashford gets Carrick's backing as Man Utd future hangs in the balanceMichael Carrick has praised Marcus Rashford's fitness, attitude and return to Manchester United training, but the England forward's future at Old Trafford remains uncertain ahead of the new Premier League season."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ban-2nd-test-matt-renshaw-returns-jake-weatherald-nathan-lyon-mackay-2976387-2026-08-21",
-      "headline": "AUS vs BAN: Renshaw returns as Australia resist dropping Lyon for 2nd Test in Mackay AUS vs BAN 2nd Test: Matt Renshaw returns to Australia's top order for the second Test against Bangladesh in Mackay, with Nathan Lyon retaining his place as the hosts make one change to their XI after losing the opening match of the series."
+      "headline": "AUS vs BAN: Renshaw returns as Australia resist dropping Lyon for 2nd Test in MackayAUS vs BAN 2nd Test: Matt Renshaw returns to Australia's top order for the second Test against Bangladesh in Mackay, with Nathan Lyon retaining his place as the hosts make one change to their XI after losing the opening match of the series."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-2026-india-round-two-preview-schedule-sjoerd-marijne-2976189-2026-08-21",
-      "headline": "India teams clear first hurdle at Hockey World Cups. But what's the road ahead? India's men's and women's teams have negotiated difficult group stages to reach the second phase of their World Cups. Now the margins shrink, with the men chasing lost points and the women facing the tournament's most ruthless attacks."
+      "headline": "India teams clear first hurdle at Hockey World Cups. But what's the road ahead?India's men's and women's teams have negotiated difficult group stages to reach the second phase of their World Cups. Now the margins shrink, with the men chasing lost points and the women facing the tournament's most ruthless attacks."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-series-delay-new-dates-bpl-on-hold-tamim-iqbal-2976365-2026-08-21",
-      "headline": "IND vs BAN series could be pushed back again, says BCB chief Tamim Iqbal India's proposed tour of Bangladesh faces fresh uncertainty with the BCB and BCCI still discussing dates. The six-match series could be moved again, while Bangladesh also weighs skipping this year's BPL."
+      "headline": "IND vs BAN series could be pushed back again, says BCB chief Tamim IqbalIndia's proposed tour of Bangladesh faces fresh uncertainty with the BCB and BCCI still discussing dates. The six-match series could be moved again, while Bangladesh also weighs skipping this year's BPL."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-cristiano-ronaldo-jersey-auction-barcelona-real-madrid-shirt-2976351-2026-08-21",
-      "headline": "Messi's Barcelona kit blows Ronaldo jersey away in auction showdown A Lionel Messi-worn Barcelona shirt has comfortably won the auction battle against a Cristiano Ronaldo jersey from the same collection. The Argentine's signed 2012 shirt fetched more than six times the price of Ronaldo's Real Madrid jersey."
+      "headline": "Messi's Barcelona kit blows Ronaldo jersey away in auction showdownA Lionel Messi-worn Barcelona shirt has comfortably won the auction battle against a Cristiano Ronaldo jersey from the same collection. The Argentine's signed 2012 shirt fetched more than six times the price of Ronaldo's Real Madrid jersey."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/moises-henriques-maiden-t20i-century-portugal-czechia-2976330-2026-08-21",
-      "headline": "Ex-Australia star hits maiden T20I century after switching allegiance to Portugal Former Australia star Moises Henriques smashed his maiden T20I century for Portugal, hitting 111 off 51 balls against Czechia in the T20 World Cup qualifier. His stunning knock helped Portugal secure a fourth straight win."
+      "headline": "Ex-Australia star hits maiden T20I century after switching allegiance to PortugalFormer Australia star Moises Henriques smashed his maiden T20I century for Portugal, hitting 111 off 51 balls against Czechia in the T20 World Cup qualifier. His stunning knock helped Portugal secure a fourth straight win."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mike-hussey-england-ashes-batting-coaching-role-under-stephen-fleming-2976297-2026-08-21",
-      "headline": "Mike Hussey open to joining Stephen Fleming's England for Ashes series After Stephen Fleming's move to England, another CSK coaching figure could follow him, with Mike Hussey open to a batting role. The former Australia batter could now find himself preparing England for an Ashes series against his former team."
+      "headline": "Mike Hussey open to joining Stephen Fleming's England for Ashes seriesAfter Stephen Fleming's move to England, another CSK coaching figure could follow him, with Mike Hussey open to a batting role. The former Australia batter could now find himself preparing England for an Ashes series against his former team."
     },
     {
       "sentiment": "positive",
@@ -410,66 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-pak-joe-root-equal-sachin-tendulkar-test-fifties-record-2976145-2026-08-20",
       "headline": "Joe Root equals Tendulkar's Test record with 66-run knock vs PakistanJoe Root drew level with Sachin Tendulkar's record for most Test fifties after scoring a solid 66 against Pakistan. The England batter looked in control for much of his innings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-consider-balanced-colombo-pitch-for-2nd-test-vs-india-2976135-2026-08-20",
-      "headline": "No spin trap in Colombo Test? Sri Lanka may prepare balanced SSC pitch for IndiaSri Lanka are unlikely to go all-out with a spin-friendly surface at the Sinhalese Sports Club as they look to level the series against India, with the hosts considering a more balanced pitch similar to the one used for the first Test in Galle."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-prize-money-record-108-million-champions-5-5-million-player-support-plan-2976084-2026-08-20",
-      "headline": "US Open jackpot: Champions set for biggest Grand Slam prize everThe United States Tennis Association has raised the US Open prize money to record levels with the champions set for a massive payday. They have also announced a player support programme with input from the newly announced Grand Slam Player Council."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-worlds-satwik-chirag-beat-malaysian-pair-reach-quarter-finals-2976083-2026-08-20",
-      "headline": "Satwik and Chirag survive tricky test to reach quarters, keep medal hopes aliveSatwiksairaj Rankireddy and Chirag Shetty survived a tense three-game battle against Malaysia's Junaidi Arif and Roy Kim Yap to reach the quarter-finals of the BWF World Championships in New Delhi on Thursday."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/swapna-barman-doping-case-nada-suspends-asian-games-champion-despite-retirement-2976000-2026-08-20",
-      "headline": "Asian Games champion Swapna Barman faces doping suspension despite retirementSwapna Barman has been provisionally suspended by NADA after testing positive for Boldenone. Her retirement does not stop the case, and any future comeback would still carry sanctions if she is found guilty."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/video/pv-sindhu-questions-wang-zhi-yi-cramps-bwf-worlds-exit-2976046-2026-08-20",
-      "headline": "Injury or tactic? PV Sindhu questions Wang's cramps in BWF Worlds defeatPV Sindhu was left wondering whether Wang Zhi Yi's cramps were genuine or part of her strategy during her BWF World Championships pre-quarter-final. The Indian star admitted she was unsure whether Wang was actually injured, while acknowledging that she needed to be more patient and focused, particularly towards the end of the match."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-india-vs-england-report-draw-sjoerd-marijne-2976027-2026-08-20",
-      "headline": "Resilient India hold England to draw, make it to round 2 of Women's Hockey World CupThe Indian women's team showed resilience and grit to iron out a 0-0 draw against England to make it to the second round of the women's hockey World Cup 2026 on Thursday, August 20."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-exits-bwf-world-championships-loss-to-china-wang-zhi-yi-2976005-2026-08-20",
-      "headline": "In heartbreaking loss, PV Sindhu doubts Chinese opponent's injury breaksPV Sindhu's bid for a sixth World Championships medal ended in a dramatic three-game defeat to Wang Zhi Yi in New Delhi on Thursday. The Indian shuttler raised questions over breaks that her Chinese opponent took to manage cramps in a thrilling deciding game."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/badminton/video/ayush-shetty-reflects-on-bwf-world-championships-exit-2975968-2026-08-20",
-      "headline": "Ayush Shetty on BWF World Championships exit: A tough one to digestAyush Shetty described his BWF World Championships exit as \"a tough one to digest\" after the Indian shuttler lost to familiar foe Alwi Farhan in the pre-quarters."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/ayush-shetty-knocked-out-bwf-world-championships-pre-quarterfinal-loss-alwi-farhan-2975916-2026-08-20",
-      "headline": "Ayush Shetty loses to familiar foe Alwi Farhan, crashes out in pre-quartersAyush Shetty's BWF World Championships campaign came to an end in the Round of 16 as the World No. 22 suffered a 19-21, 11-21 defeat to familiar foe Alwi Farhan in New Delhi on Thursday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/gianni-infantino-fifa-world-cup-investor-row-fans-petition-resign-2975899-2026-08-20",
-      "headline": "Resign Infantino: Football fans launch petition for sacking of FIFA PresidentFootball supporters' groups worldwide have launched a petition demanding Gianni Infantino's resignation over the proposed sale of future World Cup revenues to private investors. The campaign says the episode laid bare FIFA's opaque governance, concentration of power and collapsing credibility."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sanjay-manjrekar-surprised-ipl-generation-test-cricket-transition-2975837-2026-08-20",
-      "headline": "India's IPL generation playing good Test cricket a mystery, says Sanjay ManjrekarFormer India batter Sanjay Manjrekar said it is a \"mystery\" how the IPL generation has adapted so well to Test cricket, comparing the transition from T20s to the longest format to pop singers attempting classical ragas."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/rodri-barcelona-transfer-deco-denies-real-madrid-snatch-claim-2975816-2026-08-20",
-      "headline": "We didn't snatch Rodri from Real Madrid: Barcelona sporting director DecoDeco said Barcelona did not snatch Rodri from Real Madrid after sealing the midfielder's signing from Manchester City. Rodri completed a move to Barca until 2030."
     }
   ],
   "education": [
