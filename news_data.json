@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sasti-copy-is-out-kangana-ranaut-slams-taapsee-pannu-over-upbringing-remark-2977752-2026-08-23",
+      "headline": "Sasti copy is out: Kangana Ranaut slams Taapsee Pannu over 'upbringing' remark Actor Taapsee Pannu recently stated that she has never met actor-politician Kangana Ranaut despite their public history. The comments drew a sharp social media response from Kangana, reigniting their long-standing 'sasti copy' feud."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/deepika-padukone-would-never-collaborate-with-sandeep-reddy-vanga-claims-source-2977717-2026-08-22",
       "headline": "Deepika Padukone 'would never collaborate' with Sandeep Reddy Vanga, claims source Fresh claims surrounding actor Deepika Padukone's meeting with director Sandeep Reddy Vanga have brought her Spirit exit back into the spotlight. The new revelations reignite a long-running row over her departure from the film."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/awarapan-3-on-cards-writer-bilal-siddiqui-says-there-is-no-story-yet-2977059-2026-08-21",
       "headline": "Awarapan 3 on cards? Writer Bilal Siddiqui says there is no story yet Bilal Siddiqui said the ending of Emraan Hashmi's Awarapan 2 left room for Shivam's journey to continue. He highlighted that Awarapan 3 had no story yet. The writer also discussed fan expectations and the sequel's connection with Gen Z."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/who-is-gabriella-demetriades-meet-arjun-rampals-wife-and-fashion-entrepreneur-2977028-2026-08-21",
-      "headline": "Who is Gabriella Demetriades? Meet Arjun Rampal's wife and fashion entrepreneur Arjun Rampal and Gabriella Demetriades have formalised their relationship with a court marriage in Goa. The wedding has renewed attention on her work as a model, designer and entrepreneur."
     }
   ],
   "general news": [
@@ -300,7 +300,7 @@
       "headline": "Power failure disrupts another NTA exam in Jaipur, 49 candidates affectedA power failure disrupted the AIAPGET 2026 exam at a Jaipur centre on August 22. The NTA has scheduled a fresh test on September 1 for affected candidates."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/news/story/deepinder-goyal-says-temple-is-the-smallest-wearable-launching-by-end-of-2026-2976588-2026-08-21",
       "headline": "Deepinder Goyal says Temple is the smallest wearable, launching by end of 2026Deepinder Goyal's Temple wearable is now less than half the size of its earlier version, with limited-edition pre-orders opening soon. The brain-tracking device is expected to start shipping before the end of 2026."
     },
