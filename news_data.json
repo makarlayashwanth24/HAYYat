@@ -86,7 +86,7 @@
       "headline": "Tempsens Instruments IPO GMP shows 100% gains. Check allotment statusTempsens Instruments IPO allotment is due on August 25 after the issue was subscribed 184.22 times. The \u20b9317 grey market premium has lifted expectations of a strong listing, though actual gains remain uncertain."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/sugar-price-surge-import-rules-revised-government-mandates-refining-sale-2-months-hoarding-ethanol-2979183-2026-08-25",
       "headline": "As sugar price surges, government toughens rules to curb hoardingUnder the revised conditions, imported raw sugar must be converted into refined sugar within two months and the refined sugar must also be sold within the same period, the government said."
     },
@@ -102,6 +102,16 @@
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/27-years-later-how-irumudi-is-rewriting-ravi-teja-box-office-story-2979572-2026-08-25",
+      "headline": "27 years later, how Irumudi is rewriting Ravi Teja's box-office story Ravi Teja's Irumudi is giving his box-office run a much-needed lift. After a strong opening, the film has held firm into the week, signalling a shift in his solo fortunes and raising the bar for what's possible next."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/filmmaker-kuku-kohli-who-launched-ajay-devgn-with-phool-aur-kaante-dies-at-77-after-suffering-heart-attack-2979840-2026-08-25",
+      "headline": "Phool Aur Kaante director Kuku Kohli, 77, dies of heart attack in Mumbai Filmmaker Kuku Kohli died after suffering a massive heart attack in Mumbai on Tuesday. The director, who launched Ajay Devgn with Phool Aur Kaante, is survived by Aruna Irani and two daughters."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/court-restrains-defamatory-coverage-on-yashs-toxic-ahead-of-worldwide-release-2979761-2026-08-25",
@@ -186,28 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/netflix-breaks-silence-tapsee-pannu-gandhari-plagiarism-row-kanika-dhillon-defends-originality-2979413-2026-08-25",
       "headline": "Netflix breaks silence on Gandhari plagiarism row, defends originality of film At the trailer launch of Gandhari, Netflix and Kanika Dhillon rejected writer Kalyan Bandi's plagiarism allegations. The dispute centres on Bandi's claim that the film resembles his 2019 registered story and title."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/ott-sunny-deols-baap-richa-chadha-delhi-2021-harshvardhan-rabe-sila-nayanthara-hi-zee5-has-a-packed-slate-2979412-2026-08-25",
-      "headline": "From Sunny Deol's Baap to Nayanthara's Hi: Check out 14 upcoming releases From Sunny Deol's Baap to Richa Chadha's Delhi 2021 and Nayanthara's Hi, take a look at the upcoming theatrical multilingual 2026-27 slate across Hindi, Marathi, Telugu, Tamil, Gujarati and Kannada titles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vignesh-shivan-kiara-advani-yash-toxic-event-love-insurance-kompany-joke-2979318-2026-08-25",
-      "headline": "Kiara, you're lucky you didn't do it: LIK director takes a dig at his own film Director Vignesh Shivan poked fun at himself while revealing he once narrated a story to Kiara Advani before Kabir Singh. He joked that she was lucky to have passed on the project, which went on to become an underwhelming film upon release."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/canada-announces-20-billion-retaliatory-tariffs-on-us-goods-unveils-support-for-domestic-businesses-2979823-2026-08-25",
-      "headline": "Canada announces $20 billion retaliatory tariffs on US goods as trade war escalatesThe counter-tariffs, worth $19.94 billion, will take effect on September 8 and cover about 700 products imported from the US, with duties ranging from 15 per cent to 50 per cent."
+      "url": "https://www.indiatoday.in/india/story/operation-sindoor-strategy-pakistan-cds-anil-chauhan-strikes-sargodha-kirana-hills-2979818-2026-08-25",
+      "headline": "Did India hit Kirana Hills? Ex-CDS explains what happened during Op SindoorThe disclosure offers fresh details about India's military calculations during the operation, including its approach to escalation and its decision to retain the option of further strikes even after Pakistan sought talks."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/operation-sindoor-strategy-pakistan-cds-anil-chauhan-strikes-sargodha-kirana-hills-2979818-2026-08-25",
-      "headline": "Go ahead: Ex-CDS recalls approving Sargodha strike after Pakistan sought talksThe disclosure offers fresh details about India's military calculations during the operation, including its approach to escalation and its decision to retain the option of further strikes even after Pakistan sought talks."
+      "url": "https://www.indiatoday.in/world/story/canada-announces-20-billion-retaliatory-tariffs-on-us-goods-unveils-support-for-domestic-businesses-2979823-2026-08-25",
+      "headline": "Canada announces $20 billion retaliatory tariffs on US goods as trade war escalatesThe counter-tariffs, worth $19.94 billion, will take effect on September 8 and cover about 700 products imported from the US, with duties ranging from 15 per cent to 50 per cent."
     },
     {
       "sentiment": "positive",
@@ -323,6 +323,16 @@
   "sports": [
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/aita-asian-games-tennis-selection-row-omitted-players-ioa-2979860-2026-08-25",
+      "headline": "AITA hits back at report, says tennis players were formally recommended AITA has rejected reports that it failed to recommend players for the 2026 Asian Games, saying it formally urged the IOA on July 3 to reconsider the exclusion of six players. The tennis body insists its selection committee's choices should be included to ensure India fields its strongest possible contingent and maximises its medal chances."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-confirm-carlos-baleba-signing-brighton-2979847-2026-08-25",
+      "headline": "Manchester United complete midfield overhaul with signing of powerhouse Baleba Manchester United have completed their midfield overhaul with the signing of Carlos Baleba from Brighton & Hove Albion. Baleba has signed a contract until June 2031, with United holding the option to extend his stay by a further year."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/video/sports-is-bigger-than-everything-else-anuj-menon-on-neville-dsouza-ground-stay-ytvd-2979839-2026-08-25",
       "headline": "'Sports Is Bigger Than Everything Else': Anuj Menon On Neville D'Souza Ground Stay Advocate Anuj Menon, representing the Mumbai Football Association (MFA), discussed the Bombay High Court's status quo order regarding Bandra's Neville D'Souza football ground. The site faced conversion into a convention center by MHADA and BMC. Menon highlighted that the ground had been actively used by footballers across age groups for nine years after being granted to the MFA in 2011. He criticized authorities for taking unilateral decisions without consulting the MFA or offering an equivalent alternate ground in Bandra. Dismissing technical claims about the land's past reservation on paper, Menon emphasized that sports is vital for character building and nation-building. Pointing out that a city of twenty million people has only seven full-sized football turfs, he maintained that \"sports is bigger than everything else\" and affirmed that the legal struggle to protect sporting space for young players will persist."
     },
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-east-beat-north-east-reach-semis-west-zone-close-to-win-2979667-2026-08-25",
-      "headline": "East beat North East to reach semis, West Zone close to win vs North East Zone stormed into the Duleep Trophy semi-finals with an innings win over North East Zone, while West Zone closed in on victory against North Zone after Musheer Khan and Ruturaj Gaikwad struck crucial half-centuries."
+      "headline": "East beat North East to reach semis, West Zone close to win vs NorthEast Zone stormed into the Duleep Trophy semi-finals with an innings win over North East Zone, while West Zone closed in on victory against North Zone after Musheer Khan and Ruturaj Gaikwad struck crucial half-centuries."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/anaya-bangar-wbbl-eligibility-elite-womens-cricket-australia-2027-2979661-2026-08-25",
-      "headline": "Anaya Bangar claims she's eligible to play Women's Big Bash League in Australia Anaya Bangar says she is eligible to pursue elite women's cricket in Australia from March 2027, opening a potential pathway to the WBBL. She called the development deeply emotional and now hopes to rebuild her fitness and form before seeking a franchise opportunity."
+      "headline": "Anaya Bangar claims she's eligible to play Women's Big Bash League in AustraliaAnaya Bangar says she is eligible to pursue elite women's cricket in Australia from March 2027, opening a potential pathway to the WBBL. She called the development deeply emotional and now hopes to rebuild her fitness and form before seeking a franchise opportunity."
     },
     {
       "sentiment": "negative",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-pr-sreejesh-hockey-india-craig-fulton-sjoerd-marijne-dilip-tirkey-2979051-2026-08-24",
       "headline": "Does anyone care? PR Sreejesh tears into Hockey India after World Cup flop showPR Sreejesh has ripped into Hockey India after India's failed World Cup campaigns in the Netherlands and Belgium. India's streak of not making it to the semi-finals of both the men's and women's editions continued."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/graeme-dott-convicted-child-sex-abuse-scottish-court-2979009-2026-08-24",
-      "headline": "Former snooker World Champion Graeme Dott convicted of child sex abuseFormer snooker world champion Graeme Dott was convicted in Glasgow of abusing two children over separate periods. Dott will be sentenced next month."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/video/kapil-dev-i-like-to-support-our-friend-on-letter-for-jailed-imran-khan-ytvd-2979018-2026-08-24",
-      "headline": "Kapil Dev: 'I like to support our friend' on Letter for Jailed Imran KhanFormer Indian cricket captain Kapil Dev commented on the joint letter written by 21 international cricket captains to Pakistan Prime Minister Shehbaz Sharif concerning jailed former cricketer and Prime Minister Imran Khan. Dev stated that international players are supporting a friend whose cricketing skills they admired. He emphasized that they do not know the law of Pakistan, but are appealing on humanitarian grounds for proper facilities and medical care for a prisoner who served as a top cricketer and prime minister. Dev remarked, \"We want he should get the best treatment what as we are asking for,\" clarifying that they are making a request rather than demanding a reply."
     }
   ],
   "education": [
@@ -504,7 +504,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
