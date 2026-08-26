@@ -104,6 +104,26 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sandeep-reddy-vanga-confirms-prabhas-spirit-will-get-an-a-certificate-2980347-2026-08-26",
+      "headline": "Sandeep Reddy Vanga confirms Prabhas' Spirit will get an A certificate Sandeep Reddy Vanga confirmed that Prabhas-starrer Spirit will get an A certificate. The director also addressed the Spirit vs Varanasi release clash, saying the 37-day gap is enough."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/standpoint/story/raksha-bandhan-has-no-dress-code-so-why-does-kriti-sanon-bralette-offend-us-2980183-2026-08-26",
+      "headline": "Raksha Bandhan has no dress code. So why does Kriti Sanon's bralette offend us? The controversy over Kriti Sanon's Raksha Bandhan outfit shows the persistent policing of women's clothing under the guise of tradition in India. It questions why cultural respect is measured by attire and calls for an end to imposing dress codes on women during festivals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/daily-wage-worker-earning-rs-50-a-day-about-to-win-rs-50-lakh-on-kbc-18-video-2980270-2026-08-26",
+      "headline": "Daily-wage worker earning Rs 50 a day about to win Rs 50 lakh on KBC 18. Video Contestant Vishal Premchand Rathod won Rs 5 lakh on Kaun Banega Crorepati 18 and will face the Rs 50 lakh question in the next episode. His family's plea for a steady job and his struggles as a daily-wage worker formed the emotional core of Tuesday's episode."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/chumbak-trailer-neena-gupta-deven-bhojani-chembur-colony-comedy-netflix-2980302-2026-08-26",
+      "headline": "Chumbak trailer: Neena Gupta, Deven Bhojani lead chaotic neighbourhood comedy Netflix's Chumbak trailer introduces five Chembur neighbours whose lives keep colliding. Divorce talk, gossip and a stranger's arrival turn private tensions into colony-wide chaos in this series that stars Neena Gupta. Deven Bhojani, Sumeet Raghavan, Helly Shah and Arjun Bijlani."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/rohit-shetty-defends-khatron-ke-khiladi-15-tasks-amid-safety-backlash-2980268-2026-08-26",
       "headline": "Safety first: Rohit Shetty defends Khatron Ke Khiladi 15 tasks amid backlash Rohit Shetty has responded to concerns over Khatron Ke Khiladi 15 tasks after contestants were left injured. His remarks come amid backlash over pain-based stunts and renewed questions around on-set safety."
     },
@@ -176,33 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/avengers-endgame-encore-india-release-september-25-doomsday-footage-2980069-2026-08-26",
       "headline": "Avengers: Endgame returns to theatres with new footage ahead of Doomsday Marvel Studios is re-releasing Avengers: Endgame Encore in Indian cinemas on September 25. The extended cut adds new footage and ties the film to Avengers: Doomsday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/dolly-parton-dies-at-80-taylor-swift-miley-cyrus-beyonce-and-stars-pay-tribute-2980068-2026-08-26",
-      "headline": "Dolly Parton dies at 80: Taylor, Miley, Beyonce mourn the icon whose light lives on Singers like Taylor Swift, Miley Cyrus and Beyonce among others paid tribute after Dolly Parton's death was announced by her nephew Bryan Seaver. Their tributes recalled her generosity, influence and the lasting reach of her music and philanthropy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-toxic-a-fairytale-for-grown-ups-x-twitter-review-geetu-mohandas-internet-divided-over-film-2980063-2026-08-26",
-      "headline": "Toxic X reviews: Fans say Yash is fire, but the film? Not so much Yash's Toxic: A Fairytale For Grown-Ups opened to strong fan buzz and quickly drew sharply mixed reactions on X. The early split centred on praise for Yash and the visuals, and criticism of the writing, intimate scenes and length."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/kyle-chandler-aaron-pierre-lanterns-green-lantern-chemistry-dc-show-2980062-2026-08-26",
-      "headline": "Kyle Chandler, Aaron Pierre on turning Green Lanterns in DC's new show Kyle Chandler and Aaron Pierre spoke about discovering their chemistry while making Lanterns. Their off-screen rapport mirrored Hal Jordan and John Stewart's evolving bond in the DC series."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/video/kyle-chandler-aaron-pierre-talk-green-lanterns-hal-jordan-john-stewart-india-exclusive-2980061-2026-08-26",
-      "headline": "Kyle Chandler & Aaron Pierre Talk Green Lanterns, Hal Jordan & John Stewart, India | EXCLUSIVE Kyle Chandler and Aaron Pierre open up to India Today's Bhavna Agarwal about finding their chemistry, improvising on set, their \"brothers picking on each other\" dynamic \u2014 and why six months together changed how they saw each other. They also talk about India. Lanterns is streaming on Jio Hotstar in India."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/nepal-flash-floods-wash-away-villages-project-sites-near-tibet-border-deaths-feared-2980192-2026-08-26",
-      "headline": "Over 100 Indians missing in Nepal flash floods; Bihar, UP border areas on alert Live UpdatesThe cause of the flash floods remained unclear. Nepal's Flood Forecasting Division said it was unlikely to have been caused by heavy rain in Rasuwa, while satellite imagery showed significant rainfall on the Tibetan side."
+      "headline": "105 Indians missing in Nepal flash flood; 16 killed; Bihar, UP borders on alert Live UpdatesThe cause of the flash floods remained unclear. Nepal's Flood Forecasting Division said it was unlikely to have been caused by heavy rain in Rasuwa, while satellite imagery showed significant rainfall on the Tibetan side."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/nepal-flash-flood-live-updates-bhotekoshi-river-casualties-rescue-operations-indians-missing-deaths-2980279-2026-08-26",
+      "headline": "Live: PM Modi speaks to Balen Shah, offers all possible relief assistanceNepal Flash Flood Live Updates: A massive flash flood in Nepal's Bhote Koshi-Trishuli river basin has killed at least 16 people and injured 36 others after floodwaters surged from the Tibet side into Rasuwa and neighbouring districts on Wednesday. Nepal's Foreign Minister said initial reports suggest an earthquake triggered an avalanche that may have caused the devastating flood, though authorities are still investigating the exact sequence of events. The disaster has also triggered alerts in downstream areas, with Bihar reviewing the potential flood threat and Uttar Pradesh's Maharajganj and Kushinagar administrations put on high alert amid the possibility of rising Gandak-Narayani river levels. In Nepal, Rasuwa, Nuwakot, Dhading, Chitawan and Gorkha remain on alert as rescue operations continue, with helicopters and security personnel deployed to evacuate stranded people. Stay tuned to this live blog for all the latest updates."
     },
     {
       "sentiment": "positive",
@@ -215,9 +220,14 @@
       "headline": "Why Gurugram drowns in rains, but Noida doesn't. 3 key factorsAs always, heavy rain this week left Gurugram's roads submerged, schoolchildren stranded, and commuters wading through waist-deep water. Meanwhile, Delhi's other satellite city, Noida, fared much better. What's behind the contrast?"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bihar-student-protest-six-year-old-boy-police-abhijeet-dipke-aap-react-2980266-2026-08-26",
-      "headline": "Video shows 6-year-old removed by Bihar cops from protest site, Dipke reactsA video of the six-year-old boy being removed by Bihar police from the protest site has drawn widespread criticism, with the Cockroach Janta Party slamming the cops for 'detaining' a child."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/nepal-tibet-border-floods-kill-nine-destroy-roads-bridges-power-projects-2980314-2026-08-26",
+      "headline": "Viral: Wall of mud and water crashes into buildings in Nepal amid flash flood furyTorrential floods hit the Himalayan border areas of Nepal and Tibet on Wednesday, killing at least 16 people and damaging roads, bridges and power projects."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-live-score-2nd-test-day-4-colombo-weather-prasidh-suthar-jadeja-gill-2980051-2026-08-26",
+      "headline": "Day 4 Live: Rain forces early stumps with India in commandIndia (IND) vs Sri Lanka (SL) Live Score 2nd Test Day 4: Sri Lanka (290, 229/6) lead India by 16 runs (F/O). Rain has forced early stumps in Colombo with Sri Lanka leading by 14 runs. India are on top after Manav Suthar and Saransh Jain took quick wickets after tea."
     },
     {
       "sentiment": "positive",
@@ -225,49 +235,9 @@
       "headline": "What's behind CIA chief's secretive Russia visit? Linked to N-attack, Iran crisis?CIA Director John Ratcliffe's unannounced trip to Moscow has sparked speculation over the reasons behind the visit. The secrecy surrounding the trip has prompted geopolitical voices to float theories. While some link it to concerns over a possible Russian nuclear strike on Ukraine, others see an Iran sanctions angle."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-live-score-2nd-test-day-4-colombo-weather-prasidh-suthar-jadeja-gill-2980051-2026-08-26",
-      "headline": "Day 4 Live: Suthar double strike helps India bounce backIndia (IND) vs Sri Lanka (SL) Live Score 2nd Test Day 4: Sri Lanka (290, 218/6) lead India by 5 runs (F/O). Saransh Jain has taken the wicket of Niroshan Dickwella as Sri Lanka keep losing wickets in heaps in the last session of the day's play."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/sridhar-vembu-reveals-mantra-to-run-successful-business-says-everyone-must-do-it-2980071-2026-08-26",
-      "headline": "Sridhar Vembu reveals mantra to run successful business, says everyone must do itZoho founder Sridhar Vembu says entrepreneurs from technical backgrounds should spend more time on sales calls, face rejection and learn to communicate better if they want to build successful businesses."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/will-only-sing-two-stanzas-of-vande-mataram-karnataka-cm-dk-shivakumar-says-will-stand-by-congress-party-stan-2980127-2026-08-26",
-      "headline": "No more full Vande Mataram in Karnataka: CM Shivakumar stands by Congress stanceDK Shivakumar said he will stick to Congress's decision to sing only the first two stanzas of Vande Mataram at government and public programmes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bihar-fisherman-catches-dolphin-from-kosi-river-to-take-home-arrested-after-3-days-2980204-2026-08-26",
-      "headline": "Bihar fisherman catches dolphin from Kosi river to take home, arrested after 3 daysA fisherman from Bihar was arrested after a viral video showed him taking a dolphin home from the Kosi river. The case has brought focus on legal protection for the endangered Ganges river dolphin in India."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/pakistan-skardu-airbase-operation-sindoor-importance-china-message-2980207-2026-08-26",
-      "headline": "Pakistan's Skardu base was on Op Sindoor hit list. A message for China?Former CDS General Anil Chauhan revealed that Pakistan's Skardu air base was among the targets India had planned to strike during Operation Sindoor. The base, which was bombed in 1971, played a key role during the Kargil War. Why is it so vital to Pakistan?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-vaibhav-sooryavanshi-conduct-row-manjrekar-warning-2980081-2026-08-26",
-      "headline": "ICC, BCCI must not let Sooryavanshi, Yashasvi off for bad behaviour: ManjrekarSL vs IND: Sanjay Manjrekar has questioned the lack of action against young Indian cricketers after Yashasvi Jaiswal and Sri Lanka's Asitha Fernando were punished for their Colombo altercation, drawing parallels with Vaibhav Sooryavanshi's earlier confrontation with Sri Lankan players."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/toxic-review-yash-big-comeback-is-style-over-substance-a-frustrating-let-down-geetu-mohandas-kiara-advani-film-2980142-2026-08-26",
-      "headline": "Toxic review: Yash's big comeback is a frustrating let-down, style over substanceRelease Date:Wed Aug 26, 2026Toxic movie review: Yash returns with an ambitious gangster drama centred almost entirely on his character Raya. However, strong performances, striking visuals and inventive action cannot overcome its tonal confusion and underwritten women."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/how-a-29-year-old-retired-from-corporate-life-with-a-4-step-farm-plan-in-pune-educ-2980162-2026-08-26",
-      "headline": "Woman 'retires' at 29, shares 4-step plan to leave corporate job for farm lifeA woman has gone viral after saying she \"retired\" at 29 and sharing four steps behind her slower, farm-based lifestyle. From buying land and planting fruit trees to growing food and filling the space with flowers, her message centres on self-sufficiency, peace and stepping away from constant pressure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/study-abroad/story/us-visa-appointments-paused-what-latest-h-1b-student-visa-changes-mean-for-indians-2980275-2026-08-26",
-      "headline": "US visa appointments paused: What latest H-1B, student visa changes mean for IndiansThe US has paused or rescheduled visa appointments amid fresh consular training, adding uncertainty for applicants. For Indians, this comes alongside major H-1B changes, tighter screening and proposed F-1 rule changes, raising questions over study, work, relocation timelines and the once predictable pathway to building careers in America for years."
+      "headline": "India wanted to hit Pakistan's Skardu airbase. A message for China?Former CDS General Anil Chauhan revealed that Pakistan's Skardu air base was among the targets India had planned to strike during Operation Sindoor. The base, which was bombed in 1971, played a key role during the Kargil War. Why is it so vital to Pakistan?"
     },
     {
       "sentiment": "positive",
@@ -276,28 +246,58 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/shashi-kumar-akshayakalpa-organic-ex-wipro-architect-farming-youth-income-model-2980238-2026-08-26",
+      "headline": "Bengaluru engineer quits Wipro to build Rs 600-crore farming ventureBefore starting Akshayakalpa Organic, Shashi Kumar had spent over a decade at Wipro, where he served as a chief architect. The Tiptur native left a well-paying job and ventured into organic farming. His journey is both a testament to perseverance and an inspiration for those who feel deeply rooted in their hometowns and aspire to return to their roots."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/sridhar-vembu-reveals-mantra-to-run-successful-business-says-everyone-must-do-it-2980071-2026-08-26",
+      "headline": "Sridhar Vembu reveals mantra to run successful business, says everyone must do itZoho founder Sridhar Vembu says entrepreneurs from technical backgrounds should spend more time on sales calls, face rejection and learn to communicate better if they want to build successful businesses."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/4-indian-based-companies-3-individuals-sanctioned-by-us-over-119-million-iran-oil-trade-2979996-2026-08-26",
       "headline": "US sanctions 4 India-based companies, 3 individuals over Iran oil tradeThe US has sanctioned four India-based companies and three Indian nationals over alleged Iranian oil and petrochemical trade. The latest sanctions are part of what Washington has described as an \"economic onslaught against Tehran's financial connections around the globe\"."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/mg-hector-tomahawk-phev-launched-at-rs-2569-lakh-gets-115km-ev-range-2980196-2026-08-26",
-      "headline": "MG Hector Tomahawk PHEV launched at Rs 25.69 lakh, gets 115km EV rangeThe Hector Tomahawk PHEV is offered exclusively as a seven-seater and combines a 1.5-litre Atkinson-cycle petrol engine with a 20.5kWh battery. MG claims a combined range of over 1,100km."
+      "url": "https://www.indiatoday.in/jobs/story/how-a-29-year-old-retired-from-corporate-life-with-a-4-step-farm-plan-in-pune-educ-2980162-2026-08-26",
+      "headline": "Woman 'retires' at 29, shares 4-step plan to leave corporate job for farm lifeA woman has gone viral after saying she \"retired\" at 29 and sharing four steps behind her slower, farm-based lifestyle. From buying land and planting fruit trees to growing food and filling the space with flowers, her message centres on self-sufficiency, peace and stepping away from constant pressure."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/nepal-flash-flood-what-is-it-and-why-the-himalayan-country-is-so-vulnerable-to-it-2980290-2026-08-26",
+      "headline": "What is a flash flood, and why is Nepal so vulnerable to it?A flash flood in Nepal's Rasuwa district has killed at least nine people and left 105 Indians missing. The disaster has renewed focus on how mountains, monsoon rain and glacial risks can trigger sudden downstream threats."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/south-korea-jeju-island-four-deaths-in-three-days-298-more-under-scanner-honeymoon-paradise-2980248-2026-08-26",
-      "headline": "4 deaths in 3 days in honeymoon paradise Jeju Island puts focus on missing 298South Korea's Jeju Island, a honeymoon paradise, has suddenly become an island of fear for travellers. Four people reported missing were found dead on the island within three days. The deaths have exposed a wider police scandal, with authorities now reviewing 298 missing-person cases closed improperly."
+      "url": "https://www.indiatoday.in/india/karnataka/story/will-only-sing-two-stanzas-of-vande-mataram-karnataka-cm-dk-shivakumar-says-will-stand-by-congress-party-stan-2980127-2026-08-26",
+      "headline": "No more full Vande Mataram in Karnataka: CM Shivakumar stands by Congress stanceDK Shivakumar said he will stick to Congress's decision to sing only the first two stanzas of Vande Mataram at government and public programmes."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/gurugram/story/gurugram-waterlogging-rao-inderjit-singh-congress-old-drains-underground-tunnels-2980042-2026-08-26",
-      "headline": "Gurugram MP calls waterlogging a Congress-era mess. His own tenure began in 2009Gurugram MP Rao Inderjit Singh called measures to tackle the city's chronic waterlogging a band-aid solution and blamed Congress-era development for construction over old drainage channels. The Congress hit back at the BJP government, alleging that Gurugram's infrastructure has \"collapsed\"."
+      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-vaibhav-sooryavanshi-conduct-row-manjrekar-warning-2980081-2026-08-26",
+      "headline": "ICC, BCCI must not let Sooryavanshi, Yashasvi off for bad behaviour: ManjrekarSL vs IND: Sanjay Manjrekar has questioned the lack of action against young Indian cricketers after Yashasvi Jaiswal and Sri Lanka's Asitha Fernando were punished for their Colombo altercation, drawing parallels with Vaibhav Sooryavanshi's earlier confrontation with Sri Lankan players."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kangana-ranaut-rebuts-rahul-gandhi-kriti-sanon-raksha-bandhan-ad-row-patriarchy-2980035-2026-08-26",
-      "headline": "Bro, wait...: Kangana Ranaut's fresh jab at Rahul amid 'smash the patriarchy' rowActor and BJP MP Kangana Ranaut hit back at Rahul Gandhi over his \"smash the patriarchy\" remark, backing a BJP post questioning Congress' record on women's issues."
+      "url": "https://www.indiatoday.in/trending-news/story/bihar-fisherman-catches-dolphin-from-kosi-river-to-take-home-arrested-after-3-days-2980204-2026-08-26",
+      "headline": "Bihar fisherman catches dolphin from Kosi river to take home, arrested after 3 daysA fisherman from Bihar was arrested after a viral video showed him taking a dolphin home from the Kosi river. The case has brought focus on legal protection for the endangered Ganges river dolphin in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/food/story/japans-biryani-man-chef-takamasa-osawa-on-ram-charan-i-didnt-really-know-him-2980215-2026-08-26",
+      "headline": "Japan's biryani man on Ram Charan: 'I didn't really know him'Chef Takamasa Osawa, known for his biryani prowess, cooked for Ram Charan and his family at their Hyderabad home. In an exclusive conversation with India Today Digital, the Michelin-recognised chef shared his experience and how he was unaware of his stardom."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/bihar-student-protest-six-year-old-boy-police-abhijeet-dipke-aap-react-2980266-2026-08-26",
+      "headline": "Video shows 6-year-old removed by Bihar cops from protest site, Dipke reactsA video of the six-year-old boy being removed by Bihar police from the protest site has drawn widespread criticism, with the Cockroach Janta Party slamming the cops for 'detaining' a child."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/toxic-review-yash-big-comeback-is-style-over-substance-a-frustrating-let-down-geetu-mohandas-kiara-advani-film-2980142-2026-08-26",
+      "headline": "Toxic review: Yash's big comeback is a frustrating let-down, style over substanceRelease Date:Wed Aug 26, 2026Toxic movie review: Yash returns with an ambitious gangster drama centred almost entirely on his character Raya. However, strong performances, striking visuals and inventive action cannot overcome its tonal confusion and underwritten women."
     },
     {
       "sentiment": "positive",
@@ -306,13 +306,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/japans-biryani-man-chef-takamasa-osawa-on-ram-charan-i-didnt-really-know-him-2980215-2026-08-26",
-      "headline": "Japan's biryani man on Ram Charan: 'I didn't really know him'Chef Takamasa Osawa, known for his biryani prowess, cooked for Ram Charan and his family at their Hyderabad home. In an exclusive conversation with India Today Digital, the Michelin-recognised chef shared his experience and how he was unaware of his stardom."
+      "url": "https://www.indiatoday.in/opinion/story/chennai-second-airport-parandur-project-cancelled-tamil-nadu-aviation-infrastructure-expansion-2980331-2026-08-26",
+      "headline": "Parandur airport: Vijay keeps a poll promise, good for him. Is it good for Chennai?Cities pay for aviation bottlenecks through international routes that never materialize, air-freight logistics that divert to competing gateways, and global manufacturers that alter their investment calculations. Chennai's second airport cannot be on permanent hold."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/odisha-boy-14-fights-off-wild-boar-in-canal-rescued-after-fierce-struggle-2980179-2026-08-26",
-      "headline": "Odisha boy, 14, fights off wild boar in canal; rescued after fierce struggleA 14-year-old boy in Odisha's Cuttack found himself in a terrifying struggle with a wild boar after it attacked him while he was bathing in the canal."
+      "url": "https://www.indiatoday.in/india/story/kangana-ranaut-rebuts-rahul-gandhi-kriti-sanon-raksha-bandhan-ad-row-patriarchy-2980035-2026-08-26",
+      "headline": "Bro, wait...: Kangana Ranaut's fresh jab at Rahul amid 'smash the patriarchy' rowActor and BJP MP Kangana Ranaut hit back at Rahul Gandhi over his \"smash the patriarchy\" remark, backing a BJP post questioning Congress' record on women's issues."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,16 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sl-vs-ind-manav-suthar-rishabh-pant-pasindu-sooriyabandara-stumping-colombo-test-2980313-2026-08-26",
+      "headline": "SL vs IND: How Suthar-Pant combo set up Pasindu's downfall in Colombo Rishabh Pant spotted Pasindu Sooriyabandara's impatience and Manav Suthar set the trap in Colombo. The Sri Lankan batter missed out on a chance to score his maiden Test hundred as Suthar and Pant outsmarted him."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asian-games-cricket-india-men-september-28-women-japan-september-18-2980291-2026-08-26",
+      "headline": "Asian Games: Indian men's cricket team to open campaign on September 28 The Indian men will open their Asian Games campaign in Japan on September 28, while the women start their tournament against Japan on September 18."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/icc-test-rankings-mitchell-starc-replaces-jasprit-bumrah-no-1-2980212-2026-08-26",
@@ -364,17 +374,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-live-score-2nd-test-day-4-colombo-weather-prasidh-suthar-jadeja-gill-2980051-2026-08-26",
-      "headline": "Day 4 Live: Suthar double strike helps India bounce back India (IND) vs Sri Lanka (SL) Live Score 2nd Test Day 4: Sri Lanka (290, 218/6) lead India by 6 runs (F/O). Saransh Jain has taken the wicket of Niroshan Dickwella as Sri Lanka keep losing wickets in heaps in the last session of the day's play."
+      "headline": "Day 4 Live: Rain stops play in Colombo with India on top India (IND) vs Sri Lanka (SL) Live Score 2nd Test Day 4: Sri Lanka (290, 229/6) lead India by 16 runs (F/O). Rain has stopped play in Colombo with Sri Lanka leading by 14 runs. India, however, are on top after Manav Suthar and Saransh Jain took the quick wickets after tea."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/bruno-fernandes-pfa-player-of-the-year-award-manchester-united-2980044-2026-08-26",
-      "headline": "Bruno Fernandes only 2nd Portuguese after Ronaldo to win PFA Player of the Year Bruno Fernandes has joined Cristiano Ronaldo in an exclusive club after being named the PFA Player of the Year for his outstanding 2025-26 campaign. Bruno is now only the second Portugal player to win this award."
+      "headline": "Bruno Fernandes only 2nd Portuguese after Ronaldo to win PFA Player of the YearBruno Fernandes has joined Cristiano Ronaldo in an exclusive club after being named the PFA Player of the Year for his outstanding 2025-26 campaign. Bruno is now only the second Portugal player to win this award."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/ancy-sojan-asian-games-gold-visualisation-national-record-long-jump-2979801-2026-08-26",
-      "headline": "I can hear the national anthem: Ancy Sojan's Asian Games prep begins with a dream Ancy Sojan is dreaming bigger after rewriting the national record, using visualisation to silence self-doubt. Now, the 25-year-old Kerala jumper has one vivid goal: an Asian Games podium and India's national anthem."
+      "headline": "I can hear the national anthem: Ancy Sojan's Asian Games prep begins with a dreamAncy Sojan is dreaming bigger after rewriting the national record, using visualisation to silence self-doubt. Now, the 25-year-old Kerala jumper has one vivid goal: an Asian Games podium and India's national anthem."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sl-vs-ind-colombo-test-day-3-match-report-prasidh-krishna-manav-suthar-rain-2979646-2026-08-25",
       "headline": "Sri Lanka's resistance fails to loosen India's grip on rain-hit Day 3 in ColomboSri Lanka resisted India's attack through Pasindu Sooriyabandara and Sonal Dinusha, but Prasidh Krishna and Manav Suthar kept chipping away as India remained firmly in control. Rain ended Day 3 early with Sri Lanka on 265/8."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/hong-kong-skills-india-womens-asia-cup-natasha-miles-interview-2979621-2026-08-25",
-      "headline": "Hong Kong ready for test of skills against India in Women's Asia Cup: Natasha MilesIn an interview with India Today, Hong Kong captain Natasha Miles acknowledged India's star power but urged her team to focus on the game rather than reputations. She admitted facing big names like Smriti Mandhana, Renuka Thakur, Deepti Sharma and Harmanpreet Kaur would be a major challenge."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/womens-hockey-india-league-indian-womens-team-salima-tete-world-cup-2979553-2026-08-25",
-      "headline": "Don't kill Women's HIL: India's World Cup heroes make pleaIndia's women's hockey players have urged authorities and team owners to keep the Women's Hockey India League alive. The women's edition of the HIL is in turmoil, with multiple teams considering pulling out of the tournament."
     }
   ],
   "education": [
@@ -544,7 +544,7 @@
       "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
       "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
     },
