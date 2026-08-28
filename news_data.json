@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-sensex-opens-200-points-higher-nifty-above-24100-it-stocks-rally-2981662-2026-08-28",
+      "headline": "Sensex opens 200 points higher, Nifty above 24,100; IT stocks rallySensex opens 200 points higher, Nifty above 24,100; IT stocks rally"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/ai-cybersecurity-agentic-ai-enterprise-business-security-aisdr-2981650-2026-08-28",
+      "headline": "Companies are giving AI more control. Is cybersecurity ready for it?Companies are giving AI systems greater access to enterprise identities, data and tools. That is pushing cybersecurity teams to track AI behaviour, intent and actions in context."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-holiday-today-nse-bse-open-close-on-raksha-bandhan-august-28-2026-2981641-2026-08-28",
+      "headline": "Stock market holiday today: Are NSE, BSE closed on Raksha Bandhan? Check hereStock exchanges will remain open on August 28 despite Raksha Bandhan. The regular trading schedule also applies to commodity markets, with the next holiday due on September 14."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-canada-remittances-easier-payments-indian-students-sitharaman-champagne-2981551-2026-08-27",
       "headline": "India, Canada explore easier cross-border remittances for 4 lakh studentsIndia and Canada are working to ease cross-border remittances and payments, potentially benefiting more than four lakh Indian students in Canada and their families in India. The issue was discussed at the inaugural Economic and Financial Dialogue in Toronto between Finance Minister Nirmala Sitharaman and Canadian Finance Minister Francois-Philippe Champagne, with further talks planned."
     },
@@ -84,24 +99,54 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/india-overtakes-uae-saudi-arabia-as-kenyas-top-petrol-supplier-iran-war-hormuz-russia-2980422-2026-08-26",
       "headline": "India overtakes UAE, Saudi Arabia to become top petrol supplier to KenyaIndia has overtaken Gulf giants like Saudi Arabia and the UAE as Kenya's biggest source of petroleum products amid disruptions caused by the US-Iran war. The shift is part of a wider surge that has made Africa the main market for Indian petroleum products."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/sensex-falls-183-points-nifty-slips-as-it-stocks-drag-market-lower-2980282-2026-08-26",
-      "headline": "Sensex falls 183 points, Nifty slips as IT stocks drag market lowerThe BSE Sensex fell 183.15 points, or 0.24%, to 77,472.94, while the Nifty 50 declined 126.80 points, or 0.52%, to 24,207.75. The Sensex had opened at 77,892.10 and touched an intraday high of 77,986.84 before giving up gains. The Nifty also slipped from its opening level of 24,341.95."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/onion-prices-rise-50-percent-discount-sugar-rates-hike-import-government-intervention-farmers-ethanol-2980256-2026-08-26",
-      "headline": "NAFED sells onions at half price. Why no direct intervention for sugar?To cool onion prices, the government is releasing buffer stocks and selling them at nearly half the prevailing market price. But there is no such administrative intervention to control sugar prices."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/intern-earning-rs-30-lakh-salary-tech-jobs-engineering-students-skill-to-know-trading-algorithm-2980150-2026-08-26",
-      "headline": "Why are firms paying interns Rs 30 lakh a month? The skill behind the big payHigh-frequency trading firms are offering engineering students internship packages running into tens of lakhs. The payouts reflect an intensifying race for quantitative talent as firms chase an edge in faster, data-led markets."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/amaal-mallik-takes-a-break-from-music-says-no-new-film-songs-till-next-year-2981635-2026-08-28",
+      "headline": "Amaal Mallik takes a break from music, says no new film songs till next year Music composer Amaal Mallik has announced a temporary break from Bollywood film music until next year to focus on his health. The composer shared a hospital photo and opened up about personal healing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kharaj-mukherjee-wife-safe-nepal-floods-return-delayed-son-update-2981640-2026-08-28",
+      "headline": "Bengali actor Kharaj Mukherjee, wife stuck in Nepal amid floods; son shares update Bengali actor Kharaj Mukherjee and his wife Pratibha are stranded in Nepal after heavy rain disrupted their shoot and return journey. Their son Tamaghna said they are safe and expected in Kolkata on August 28."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-review-legal-notice-youtuber-suraj-kumar-yash-film-court-injunction-2981630-2026-08-28",
+      "headline": "Toxic takedown? YouTubers, influencers receive legal notice over negative reviews YouTubers and influencers who reviewed Yash's Toxic have received legal notices from the film's producers. The move has sharpened attention on the gap between critical opinion and allegedly false or defamatory content."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/hi-movie-review-kavin-and-nayanthara-lead-a-pleasant-but-forgettable-tamil-rom-com-2981264-2026-08-28",
+      "headline": "Hi review: Kavin, Nayanthara's breezy rom-com is easy to like, hard to loveRelease Date:Fri Aug 28, 2026 Hi movie review: Director Vishnu Edavan's Hi, starring Nayanthara and Kavin, is a harmless romantic comedy that has some delightful stretches. The film aims for low-stakes and achieves them too."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/orry-opens-up-on-difficult-2021-phase-with-sara-ali-khan-mother-amrita-singh-traumatised-me-2981614-2026-08-28",
+      "headline": "Orry says 'dark' 2021 phase involving Amrita Singh 'traumatised' him Orry said a 2021 episode involving Amrita Singh left him traumatised and deeply affected. He said the experience later shaped his resilience amid online hate and his fallout with Sara Ali Khan's family."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/standpoint/story/the-vanga-problem-refuses-to-die-deepika-padukone-left-but-spirit-of-controversy-lives-on-2981296-2026-08-28",
+      "headline": "The Vanga problem refuses to die: Deepika left but spirit of controversy lives on Deepika Padukone left Spirit over a year ago, but the controversy refuses to leave her alone. From the eight-hour workday to the 10 per cent profit-share claim, why is her exit still being dissected? And why does a woman's \"no\" keep needing an explanation?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/babita-singh-reporting-review-nimisha-sajayans-cop-drama-packs-a-feminist-punch-2981612-2026-08-28",
+      "headline": "Babita Singh Reporting review: Nimisha Sajayan's cop drama packs a feminist punchRelease Date:Fri Aug 28, 2026 In Babita Singh Reporting, actor Nimisha Sajayan plays an unconventional cop caught between a murder case and family troubles. The film tackles patriarchy and self-worth but misses its full potential."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-box-office-collection-day-2-detailed-report-yash-film-struggles-to-match-dhurandhar-2-tsunami-2981610-2026-08-28",
+      "headline": "Toxic box office Day 2: Yash's film struggles to match Dhurandhar 2 tsunami Yash's Toxic dropped sharply on its second day at the box office after a huge opening. The fall in collections, shows and occupancy left it trailing the Day 2 pace of major pan-India blockbusters."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-social-reckoning-trailer-2-mikey-madison-jeremy-allen-white-fight-big-tech-2981597-2026-08-28",
+      "headline": "The Social Reckoning trailer 2: Mikey Madison, Jeremy Allen White fight big tech The second trailer for The Social Reckoning follows Frances Haugen as she joins reporter Jeff Horwitz to expose Facebook's internal secrets. The film frames their clash with the company as a wider reckoning over social media's effect on young people and society."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/the-love-hypothesis-trailer-review-reinhart-bateman-spark-intense-chemistry-2981556-2026-08-27",
@@ -151,54 +196,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/what-toxics-worldwide-box-office-opening-means-for-yash-and-kannada-cinema-2981228-2026-08-27",
       "headline": "What Toxic's worldwide box office opening means for Yash and Kannada cinema? Yash's Toxic has crossed the Rs 100-crore mark on Day 1, proving his star power goes beyond KGF and Rocky Bhai. Meanwhile, the opening also underlines Kannada cinema's growing pan-India reach."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-says-shes-a-hugely-desirable-actress-not-a-bjp-puppet-2981104-2026-08-27",
-      "headline": "Hugely desirable actress, not a puppet: Kangana on having an identity beyond BJP Actor-politician Kangana Ranaut said she is not a puppet and mentioned that she has an identity beyond Bhartiya Janta Party. She also said directors still see her as a \"hugely desirable actress,\" even as she weighs politics against a possible film return."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-ending-explained-ticket-death-raya-guilt-final-twist-2980983-2026-08-27",
-      "headline": "Toxic ending explained: The Raya-Ticket twist that changes everything you watched Yash and director Geetu Mohandas's Toxic traces Raya's rise from a brutal childhood to a criminal empire in Goa and Macau. The final reveal around Ticket turns the gangster saga into a story about guilt, trauma and inherited violence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/ankit-baliyan-sang-road-pe-murder-in-his-last-post-was-killed-hours-later-2981072-2026-08-27",
-      "headline": "Ankit Baliyan sang about murder on road in his last post, was killed hours later Ankit Baliyan's final Instagram Reel, in which he sang a verse from his new song Baby Badmash, is going viral after the Haryanvi singer was shot dead outside a gym in Shamli. Around 12 rounds were fired at him on August 26."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-gopal-varma-dhurandhar-post-revives-toxic-box-office-clash-buzz-2980972-2026-08-27",
-      "headline": "RGV is 'watching Dhurandhar again' amid Toxic's negative reviews, internet reacts Filmmaker Ram Gopal Varma's latest post comes after his earlier comparison between Toxic and Dhurandhar. His decision to watch the Ranveer Singh-led film again has now sparked speculations online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/alpha-ott-release-when-and-where-to-watch-alia-bhatt-sharvari-spy-thriller-2981059-2026-08-27",
-      "headline": "Alpha OTT release: When and where to watch Alia Bhatt-Sharvari's spy-thriller Alia Bhatt and Sharvari's Alpha will premiere on Netflix on August 28 after its theatrical run began on July 3. The digital release puts the YRF Spy Universe film back in focus with its secret military programme, serum plot and mixed critical response."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-kriti-sanon-old-national-award-look-resurfaces-amid-ad-row-2981027-2026-08-27",
-      "headline": "Kangana Ranaut's old National Award look goes viral amid Kriti Sanon ad row Old video and photos of Kangana Ranaut receiving the National Award has resurfaced as criticism over her comments on Kriti Sanon's Raksha Bandhan advertisement continues. The comparison has widened the social media debate over cultural standards, festival imagery and women's clothing choices."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ranabaali-release-date-vijay-deverakonda-rashmika-mandanna-october-16-2026-2981039-2026-08-27",
-      "headline": "Vijay-Rashmika's Ranabaali gets Dussehra release after delay due to her injury Vijay Deverakonda and Rashmika Mandanna's Ranabaali is set for a worldwide theatrical release during Dussehra. The new date revives the delayed period drama and renews focus on their on-screen reunion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/court-mein-goli-maarenge-haryanvi-song-at-centre-of-singer-ankit-baliyan-murder-2980995-2026-08-27",
-      "headline": "Court Mein Goli Maarenge: Haryanvi song at centre of singer Ankit Baliyan's murder Bhari Court Mein Goli, late YouTuber Ankit Baliyan's popular Haryanvi track, is back in focus after his murder, for its violent courtroom narrative and striking parallels with the circumstances of his death. The official song video was released in 2025."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-box-office-geetu-mohandas-old-interview-resurfaces-amid-mixed-reviews-2981007-2026-08-27",
-      "headline": "Toxic backlash grows as Geetu's 'I never stick to script' remark resurfaces Director Geetu Mohandas' old comments about her fluid filmmaking process have resurfaced after Toxic received negative reviews. The director had earlier said she does not always stick to the script, sparking fresh discussion about the film's creative execution."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/nepal-tibet-floods-dead-indians-untraceable-barrier-lake-risk-2981566-2026-08-28",
+      "headline": "Nepal toll rises to 469, race to find 1,498 missing amid warning of a 2nd flood Live UpdatesNepal's deadliest floods in years have left hundreds missing, including Indians, while destroyed infrastructure hampers rescue efforts and a rapidly filling barrier lake raises fears of another devastating surge downstream."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/praggnanandhaa-grand-chess-tour-win-caruana-historic-comeback-2981619-2026-08-28",
+      "headline": "Praggnanandhaa scripts history as first Indian to win Grand Chess TourR Praggnanandhaa completed a stunning comeback against Fabiano Caruana to become the first Indian to win the Grand Chess Tour. The historic triumph capped a remarkable 2026 campaign for the Chennai Grandmaster."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-still-going-strong-nda-projected-to-win-326-seats-if-lok-sabha-polls-were-held-today-mood-of-the-nation-2981276-2026-08-27",
@@ -206,13 +216,63 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/nepal-tibet-floods-dead-indians-untraceable-barrier-lake-risk-2981566-2026-08-28",
-      "headline": "Nepal toll nears 400 as another flood threatens, 290 Indians untraceableNepal's deadliest floods in years have left hundreds missing, including Indians, while destroyed infrastructure hampers rescue efforts and a rapidly filling barrier lake raises fears of another devastating surge downstream."
+      "url": "https://www.indiatoday.in/world/story/nepal-flash-flood-viral-video-trishuli-bazaar-devastation-nuwakot-2981637-2026-08-28",
+      "headline": "Video: People scream, run for cover as floods gush through Nepal's Trishuli BazaarA viral video shows floodwaters surging into Nepal's Trishuli Bazaar before mud and debris tore through the town. The footage underlines the scale of destruction in Nuwakot as rescue teams race against fading hopes for the missing."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-india-women-beat-germany-best-finish-fifth-place-2981383-2026-08-27",
-      "headline": "India Women seal best Hockey World Cup finish since 1974, beat Germany 3-1India women beat Germany 3-1 on Thursday in Amstelveen and finished fifth at the 2026 Hockey World Cup. The result marked their best World Cup finish since their fourth-place finish in the inaugural 1974 edition."
+      "url": "https://www.indiatoday.in/history-of-it/story/nepal-tobet-china-disaster-himalayas-62-dams-banqiao-failed-beijing-hid-death-toll-2981479-2026-08-28",
+      "headline": "62 dams crashed in China in one night. Beijing hid 2 lakh deaths for 20 yearsChina reportedly didn't provide early warning to Nepal about the flash floods in the Bhote Koshi-Trishuli river system, which has killed hundreds. In 1975, China hid the news of the collapse of the Banqiao Iron Dam and 61 other dams on a single night, that drowned 26,000 people and led to the deaths of 2.3 lakh more."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ankit-baliyan-killing-cctv-haryanvi-singer-shot-dead-shamli-gym-2981651-2026-08-28",
+      "headline": "25 seconds, 12 bullets: Haryanvi singer Ankit Baliyan's killing caught on CCTVCCTV footage shows Haryanvi singer and YouTuber Ankit Baliyan being followed and shot dead outside a gym in UP's Shamli. The Gogi gang has claimed responsibility for the killing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-china-j10ce-purchase-india-pakistan-operation-sindoor-rafale-example-2981179-2026-08-28",
+      "headline": "Bangladesh to buy China's J-10CE jets, PM's aide gives Op Sindoor, Rafale exampleBangladesh is nearing a $2-billion deal for 20 Chinese J-10CE fighter jets. While sharing the development, Bangladesh Prime Minister's aide Zahed Ur Rahman claimed that the performance of the Chinese aircraft used by Pakistan during Operation Sindoor had helped make the decision."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/nepal-tibet-floods-290-indians-missing-kailash-pilgrims-among-those-untraceable-families-wait-in-fear-case-studies-2981616-2026-08-28",
+      "headline": "A call, then silence: Indians missing after Nepal floods, families wait in fearFlash floods on the Nepal-Tibet route have left 290 Indians missing, with families across several states unable to reach them. As the death toll rises and a barrier lake threatens fresh danger, relatives are waiting for answers from authorities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/hes-16-in-class-12-and-pays-his-father-rs-2-lakh-a-month-meet-keralas-ai-prodigy-2981081-2026-08-27",
+      "headline": "He's 16, in Class 12, and pays his father Rs 2 lakh a month: Meet Kerala's AI prodigyAt 16, while most teenagers are still figuring out what comes after Class 12, Raul John Aju is already running an AI startup and paying Rs 2 lakh a month to his father. But behind the stunning story remains a bigger one defining curiosity, ambition and the humility to keep learning."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-england-lords-test-pcb-complaint-imran-khan-sons-sky-sports-interview-2981603-2026-08-28",
+      "headline": "Pakistan threaten to boycott Lord's Test over interview with Imran Khan's sonsThe Pakistan Cricket Board lodged a formal complaint with Sky Sports after Mike Atherton's interview with Imran Khan's sons was aired during the lunch break on Day 1 of the second Test at Lord's."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/nepal-floods-video-nepal-police-detain-suspects-alleged-looting-victims-body-2981611-2026-08-28",
+      "headline": "Men pull Nepal flood victim by hair, steal gold earrings, bystanders film actA viral video from flood-hit Nepal shows two men dragging a woman's body and stealing her earrings, triggering widespread outrage. Nepal Police said those involved were taken into custody."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-review-legal-notice-youtuber-suraj-kumar-yash-film-court-injunction-2981630-2026-08-28",
+      "headline": "Toxic takedown? YouTubers, influencers receive legal notice over negative reviewsYouTubers and influencers who reviewed Yash's Toxic have received legal notices from the film's producers. The move has sharpened attention on the gap between critical opinion and allegedly false or defamatory content."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/standpoint/story/the-vanga-problem-refuses-to-die-deepika-padukone-left-but-spirit-of-controversy-lives-on-2981296-2026-08-28",
+      "headline": "The Vanga problem refuses to die: Deepika left but spirit of controversy lives onDeepika Padukone left Spirit over a year ago, but the controversy refuses to leave her alone. From the eight-hour workday to the 10 per cent profit-share claim, why is her exit still being dissected? And why does a woman's \"no\" keep needing an explanation?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/watch-live-partial-lunar-eclipse-turns-moon-orange-red-on-august-28-2981624-2026-08-28",
+      "headline": "Watch LIVE: Partial lunar eclipse turns Moon orange, surface goes darkA deep partial lunar eclipse is turning most of the Moon orange-red on August 28. With 96 per cent of the lunar surface in Earth's shadow, the event resembles an almost total blood moon."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/lake-ontario-renamed-lake-america-trump-us-order-canada-trade-tensions-ptag-2981562-2026-08-27",
+      "headline": "Trump signs order renaming Lake Ontario as Lake America in provocation to CanadaDonald Trump signed an order renaming Lake Ontario as Lake America for US official use. Lake Ontario is one of North America's five Great Lakes and forms part of the border between Canada's Ontario province and New York state."
     },
     {
       "sentiment": "positive",
@@ -220,19 +280,29 @@
       "headline": "Vijay among top PM choices, right after Modi and Rahul Gandhi, finds MOTN surveyThe latest India Today-CVoter Mood of the Nation survey places Tamil Nadu Chief Minister C Joseph Vijay among the leading choices for prime minister. Vijay comes in the third spot after PM Narendra Modi and Congress's Rahul Gandhi. Voices within the TVK have suggested that Vijay be pitched as a PM face in 2029."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/story/delhi-ncr-traffic-raksha-bandhan-rakhi-rush-slows-dme-nh-9-noida-ncr-ghaziabad-roads-2981518-2026-08-27",
-      "headline": "Raksha bandhan rush chokes Delhi-NCR as traffic stretches for milesRaksha Bandhan traffic caused major congestion across Delhi-NCR on Thursday evening, with long queues reported on the Delhi-Meerut Expressway, NH-9 and key roads in Ghaziabad, including Lal Kuan and GT Road. Traffic also moved slowly near Noida's Botanical Garden Metro Station as festive travellers and office-goers crowded the roads."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/greater-noida-woman-abuses-society-guards-tries-to-kick-them-over-food-delivery-feud-2981151-2026-08-27",
+      "headline": "Greater Noida woman abuses society guards, tries to kick them over food delivery feudA woman hurled abuses and threatened security guards at a Greater Noida housing society after a delivery rider carrying her order was stopped for verification. She was later arrested by the police."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/nepal-flash-flood-live-updates-bhotekoshi-river-tibet-border-death-toll-casualties-rescue-operations-2981615-2026-08-28",
+      "headline": "Live: Apple to donate for Nepal, Tibet flood relief, says Tim CookNepal Flash Flood Live Updates: The death toll from the catastrophic flash flood that devastated several parts of Nepal earlier this week has risen to at least 469, as of Friday morning. Meanwhile, in Tibet, according to Chinese state media, at least three people died and 558, including 260 foreigners, were missing. Both Nepal and China have warned of fresh risks of flooding in the Himalayas as two lakes that have developed on either side of their border threaten to burst in the area most severely impacted by the natural calamity. Search and rescue operations are still underway in the debris-strewn valleys and hillsides of Nepal, with nearly 1,000 people still missing. Follow indiatoday.in for all the latest updates on the Nepal flood."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/subhash-chandras-office-issues-clarification-on-rs-22000-crore-insolvency-case-2981305-2026-08-27",
+      "headline": "Subhash Chandra's office issues clarification on Rs 22,000-crore insolvency caseSubhash Chandra's office on Thursday clarified reports related to the Zee founder's personal insolvency case before the National Company Law Tribunal (NCLT)."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/nepal-tibet-floods-texas-couple-deepak-madhu-ahuja-missing-kailash-pilgrimage-2981484-2026-08-27",
-      "headline": "We just want them home: Texas sisters search for parents lost in Nepal floodsDeepak and Madhu Ahuja, a Texas-based Indian-origin couple, went missing after flash floods hit the Nepal-Tibet border as they returned from a Mount Kailash pilgrimage. Their daughters have been seeking answers from officials as rescuers search for hundreds still untraced across the disaster zone."
+      "url": "https://www.indiatoday.in/cities/delhi/story/muskan-murder-accused-imran-arrested-after-west-delhi-police-encounter-tilak-nagar-delhi-2981598-2026-08-28",
+      "headline": "Gym trainer accused in Delhi model's murder shot in legs during encounterPolice arrested Imran after an encounter in the Muskan murder case in Delhi's Tilak Nagar. The development ended a manhunt as investigators continued to examine the motive."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-suspends-two-government-school-teachers-over-rss-march-participation-citing-service-rules-yadgir-2981469-2026-08-27",
-      "headline": "Karnataka suspends 2 govt school teachers for participating in RSS marchesYadgir education authorities suspended two government school teachers over alleged participation in RSS marches. The action coincides with Karnataka's push to regulate private use of government premises and public grounds."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/babita-singh-reporting-review-nimisha-sajayans-cop-drama-packs-a-feminist-punch-2981612-2026-08-28",
+      "headline": "Babita Singh Reporting review: Nimisha Sajayan's cop drama packs a feminist punchRelease Date:Fri Aug 28, 2026In Babita Singh Reporting, actor Nimisha Sajayan plays an unconventional cop caught between a murder case and family troubles. The film tackles patriarchy and self-worth but misses its full potential."
     },
     {
       "sentiment": "positive",
@@ -241,86 +311,46 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pakistan-spies-india-s400-operation-sindoor-air-marshal-women-pilots-2980928-2026-08-27",
-      "headline": "Pakistan deployed spies to find S-400s: Air Marshal's big Op Sindoor revealThe revelations on Operation Sindoor by Air Marshal Jeetendra Mishra (retd), who led the Western Air Command during the hostilities with Pakistan, are the most extensive to date."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/mood-of-the-nation/story/modi-government-corruption-price-rise-inflation-biggest-failure-mood-of-the-nationa-survey-2981362-2026-08-27",
-      "headline": "43% say corruption increased under NDA govt; lack of jobs biggest failureThe latest India Today-CVoter Mood of the Nation survey found 43% of respondents believe corruption has increased under the Modi government. The survey also revealed that respondents identified unemployment as India's biggest problem and price rise as the NDA government's top failure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/kathmandu-says-china-warned-barrier-lake-near-nepal-tibet-border-could-result-in-fresh-floods-2981229-2026-08-27",
-      "headline": "Fresh flood likely in 3 days due to barrier lake, China alerts NepalChina has warned Nepal of another possible flood within three days as a barrier lake upstream overflows, following a glacier-triggered flood and mudslide that devastated areas along the border."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/nepal-flood-doald-trump-offers-help-as-toll-nears-400-over-1300-missing-tibet-border-2981590-2026-08-28",
-      "headline": "Anything they want, we'll have: Trump offers Nepal help as flood toll nears 400Donald Trump said the US had offered Nepal any help it needed after flash floods and landslides along the Nepal-Tibet border. The offer came as rescuers searched cut-off areas, with hundreds still missing and fresh flooding risks flagged."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/hes-16-in-class-12-and-pays-his-father-rs-2-lakh-a-month-meet-keralas-ai-prodigy-2981081-2026-08-27",
-      "headline": "He's 16, in Class 12, and pays his father Rs 2 lakh a month: Meet Kerala's AI prodigyAt 16, while most teenagers are still figuring out what comes after Class 12, Raul John Aju is already running an AI startup, and paying his father Rs 2 lakh a month. But behind the startling headline is a bigger story of curiosity, ambition and the humility to keep learning."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jp-nadda-meets-reservation-reform-activists-harsh-dubey-ajeet-bharti-quota-cjp-abhijeet-dipke-poser-2981142-2026-08-27",
-      "headline": "Nadda meets quota-reform activists; plot against General class, says Ajeet BhartiUnion minister JP Nadda met some reservation-reform activists, including Harsh Dubey, on Thursday. Nadda said another meeting with members of the general category will be held soon. Quota reform activist, Ajeet Bharti dismissed the outreach as a staged negotiation that he said ignored the movement's actual demands."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delimitation-parliament-session-kharge-modi-all-party-meet-rijiju-hint-2981135-2026-08-27",
-      "headline": "Kharge writes to PM after Rijiju drops Parliament session hint in India Today interviewHours after Kiren Rijiju hinted at the possibility of a special Parliament session in an exclusive interview with India Today, Mallikarjun Kharge, in a fresh letter to PM Modi, reiterated his demand for an all-party meeting on the government's proposed delimitation exercise."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/subhash-chandras-office-issues-clarification-on-rs-22000-crore-insolvency-case-2981305-2026-08-27",
-      "headline": "Subhash Chandra's office issues clarification on Rs 22,000-crore insolvency caseSubhash Chandra's office on Thursday clarified reports related to the Zee founder's personal insolvency case before the National Company Law Tribunal (NCLT)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/how-shahneel-gill-went-from-being-a-cricketers-sister-to-the-traitors-standout-2980969-2026-08-27",
-      "headline": "How Shahneel Gill went from being a cricketer's sister to The Traitors' standoutShahneel Gill's under-the-radar game drew praise from fellow contestants and made her one of the season's surprise standouts. Before The Traitors 2, she was known as Shubhman Gill's sister and was often seen supporting him in the stands."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/apple-is-launching-iphone-18-pro-on-september-9-here-is-everything-you-can-expect-from-it-2981154-2026-08-27",
-      "headline": "Apple is launching iPhone 18 Pro on September 9, here is everything you can expect from itThe iPhone 18 Pro is shaping up to be far more than another yearly refresh, with a new A20 Pro chip, bigger battery, smarter cameras and a smaller Dynamic Island. Here's what we know so far."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-kolkata-police-clash-tmc-billboards-camac-street-office-2981197-2026-08-27",
-      "headline": "Abhishek Banerjee, Kolkata cops clash as officials arrive to remove TMC billboardsAbhishek Banerjee confronted Kolkata Police and KMC officials who came to remove TMC billboards from his Camac Street office. He said they could not show the authorising order and vowed to move the High Court."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/narendra-modi-next-prime-minister-rahul-gandhi-vijay-mood-of-nation-survey-2981351-2026-08-27",
-      "headline": "Narendra Modi remains India's PM choice at 48.7%, but mood shows a shift: MOTNWhile there has been a marginal dip in Narendra Modi's popularity, the larger picture points to India's continued trust in the prime minister at a time when the world is lurching from one crisis to the next."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/video/flash-floods-nepal-town-trishuli-river-destruction-ghost-town-24-hours-2981190-2026-08-27",
-      "headline": "Video: Flash floods turn bustling Nepal town into a ghostly landscape in 24 hoursIn this video, Ashutosh Mishra from India Today shows how a bustling town in Nepal has been reduced to a landscape of destruction after the Trishuli River surged through the area following the devastating flash flood."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/egg-price-ike-by-40-winter-demand-ethanol-diversion-of-maize-factors-2981020-2026-08-27",
-      "headline": "Egg price hits record high at Rs 14 apiece. Is there an ethanol angle?India's eggs are getting costlier, and a key poultry feed ingredient is at the heart of the problem. As more maize is diverted to ethanol production, poultry farmers are facing higher feed costs. This is raising questions over whether the pressure on egg prices could intensify when winter demand picks up."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/youth-employment-in-india-32-say-not-enough-jobs-biggest-problem-motn-survey-educ-2981330-2026-08-27",
-      "headline": "Gen Z is worried about jobs, wants government to fix it: MOTNThe latest India Today Mood of the Nation survey reveals what young Indians see as their biggest employment concerns, with 32% pointing to a lack of jobs and 63% placing responsibility for improving youth employability on Union and state governments."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/bengaluru-woman-quits-job-over-cigarette-smoke-in-office-resignation-mail-is-viral-2981257-2026-08-27",
       "headline": "Bengaluru woman quits job over cigarette smoke in office, resignation mail is viralA Bengaluru woman shared a screenshot of her resignation email that has gone viral with 5.6 million views so far."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-diamond-league-final-rumesh-pathirage-wins-zurich-92-07m-2981601-2026-08-28",
+      "headline": "Neeraj qualifies for Diamond League Finals, Rumesh wins with 92.07m in ZurichNeeraj Chopra sneaked into the Diamond League Final in Brussels despite skipping three meetings. Rumesh Pathirage underlined his status as the form athlete with a 92.07m win in Zurich Diamond League on Thursday, August 27."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sl-mohammad-kaif-questions-india-tactics-after-sonal-dinusha-colombo-draw-2981648-2026-08-28",
+      "headline": "Ex-India star slams Gill's India after Sonal Dinusha's resistance Mohammad Kaif has questioned Shubman Gill's India over their tactics against Sonal Dinusha. The former batter believes the visitors failed to exploit a weakness they had already identified despite extensive coaching and analytical support."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fc-barcelona-spain-world-cup-tribute-cancelled-catalan-flag-controversy-2981626-2026-08-28",
+      "headline": "FC Barcelona cancel Spain World Cup tribute amid Catalan flag controversy Barcelona cancelled a planned tribute to their Spain World Cup winners before the Athletic Club match. The decision came amid a row over Estelada flags and Joan Laporta's defence of supporters' freedom of expression."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/praggnanandhaa-grand-chess-tour-win-caruana-historic-comeback-2981619-2026-08-28",
+      "headline": "Praggnanandhaa scripts history as first Indian to win Grand Chess Tour R Praggnanandhaa completed a stunning comeback against Fabiano Caruana to become the first Indian to win the Grand Chess Tour. The historic triumph capped a remarkable 2026 campaign for the Chennai Grandmaster."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-2026-schedule-india-squad-live-streaming-dubai-2981338-2026-08-28",
+      "headline": "Women's T20 Asia Cup 2026: Squads, schedule and all you need to know The Women's Asia Cup 2026 begins on August 28, with eight teams battling for continental supremacy in the T20I format. Defending champions Sri Lanka will look to retain the crown, while India aim to bounce back after a disappointing T20 World Cup campaign."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-england-lords-test-pcb-complaint-imran-khan-sons-sky-sports-interview-2981603-2026-08-28",
+      "headline": "Pakistan threaten to boycott Lord's Test over interview with Imran Khan's sons The Pakistan Cricket Board lodged a formal complaint with Sky Sports after Mike Atherton's interview with Imran Khan's sons was aired during the lunch break on Day 1 of the second Test at Lord's."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-diamond-league-final-rumesh-pathirage-wins-zurich-92-07m-2981601-2026-08-28",
+      "headline": "Neeraj qualifies for Diamond League Finals, Rumesh wins with 92.07m in Zurich Neeraj Chopra sneaked into the Diamond League Final in Brussels despite skipping three meetings. Rumesh Pathirage underlined his status as the form athlete with a 92.07m win in Zurich Diamond League on Thursday, August 27."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-pakistan-lords-test-day-1-report-abbas-bad-light-early-stumps-2981570-2026-08-27",
@@ -349,32 +379,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2026-draw-carlos-alcaraz-novak-djokovic-aryna-sabalenka-2981500-2026-08-27",
-      "headline": "Carlos Alcaraz, Novak Djokovic in same half as US Open announces singles draw Carlos Alcaraz and Novak Djokovic have landed in the same half of the 2026 US Open draw, setting up the possibility of a blockbuster semi-final clash. Aryna Sabalenka begins her bid for a historic three-peat, with Elena Rybakina, Coco Gauff and Iga Swiatek among the leading challengers."
+      "headline": "Carlos Alcaraz, Novak Djokovic in same half as US Open announces singles drawCarlos Alcaraz and Novak Djokovic have landed in the same half of the 2026 US Open draw, setting up the possibility of a blockbuster semi-final clash. Aryna Sabalenka begins her bid for a historic three-peat, with Elena Rybakina, Coco Gauff and Iga Swiatek among the leading challengers."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-eyes-india-comeback-hard-work-statement-2981477-2026-08-27",
-      "headline": "Suryakumar Yadav hopeful of India comeback: Putting in all the hard work Former India T20I captain Suryakumar Yadav, who has lost his spot in the national side, said on Thursday that he is putting in all the hard work and hoping things fall into place in the future."
+      "headline": "Suryakumar Yadav hopeful of India comeback: Putting in all the hard workFormer India T20I captain Suryakumar Yadav, who has lost his spot in the national side, said on Thursday that he is putting in all the hard work and hoping things fall into place in the future."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/uefa-criminal-proceedings-gianni-infantino-fifa-world-cup-sale-2981435-2026-08-27",
-      "headline": "UEFA prepares Swiss criminal complaint against Gianni Infantino over World Cup sale UEFA has stepped up its legal challenge against FIFA president Gianni Infantino, seeking evidence that could be used in criminal proceedings over a controversial plan to sell stakes in the governing body's most valuable competitions to private investors."
+      "headline": "UEFA prepares Swiss criminal complaint against Gianni Infantino over World Cup saleUEFA has stepped up its legal challenge against FIFA president Gianni Infantino, seeking evidence that could be used in criminal proceedings over a controversial plan to sell stakes in the governing body's most valuable competitions to private investors."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-india-2nd-test-gary-kirsten-praises-sonal-dinusha-2981396-2026-08-27",
-      "headline": "Sonal thrives in tough situations: Kirsten praises SL batter after gritty draw Sri Lanka vs India: Sonal Dinusha impressed Sri Lanka coach Gary Kirsten with his ability to thrive under pressure after his twin hundreds helped secure a draw against India in Colombo."
+      "headline": "Sonal thrives in tough situations: Kirsten praises SL batter after gritty drawSri Lanka vs India: Sonal Dinusha impressed Sri Lanka coach Gary Kirsten with his ability to thrive under pressure after his twin hundreds helped secure a draw against India in Colombo."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-india-women-beat-germany-best-finish-fifth-place-2981383-2026-08-27",
-      "headline": "India Women seal best Hockey World Cup finish since 1974, beat Germany 3-1 India women beat Germany 3-1 on Thursday in Amstelveen and finished fifth at the 2026 Hockey World Cup. The result marked their best World Cup finish since their fourth-place finish in the inaugural 1974 edition."
+      "headline": "India Women seal best Hockey World Cup finish since 1974, beat Germany 3-1India women beat Germany 3-1 on Thursday in Amstelveen and finished fifth at the 2026 Hockey World Cup. The result marked their best World Cup finish since their fourth-place finish in the inaugural 1974 edition."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-mohammed-siraj-injury-colombo-test-draw-india-sri-lanka-2981333-2026-08-27",
-      "headline": "Siraj not injured: Gill offers bizarre explanation for scratchy Colombo Test show SL vs IND: Shubman Gill defended Mohammed Siraj and India's bowlers after Sri Lanka batted out a draw in the Colombo Test. The result gave India a 1-0 series win but weakened their World Test Championship position."
+      "headline": "Siraj not injured: Gill offers bizarre explanation for scratchy Colombo Test showSL vs IND: Shubman Gill defended Mohammed Siraj and India's bowlers after Sri Lanka batted out a draw in the Colombo Test. The result gave India a 1-0 series win but weakened their World Test Championship position."
     },
     {
       "sentiment": "positive",
@@ -440,36 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/rabindra-dhant-nepal-ufc-dream-kasib-murdoch-road-to-ufc-dana-white-exclusive-2980692-2026-08-27",
       "headline": "From Delhi's daily wage grind to UFC dream: Rabindra Dhant eyes historyFrom working as a daily-wage labourer in Delhi, Rabindra Dhant has now emerged as a national MMA icon in Nepal. Now he aims to become the country's first UFC fighter and is just one step away from achieving the dream."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/vandan-sawai-delhi-teenager-beats-magnus-carlsen-vs-blitz-chesscom-2980899-2026-08-27",
-      "headline": "15-year-old Delhi boy beats Magnus Carlsen, goes to sleep, dad finds out next dayDelhi teenager Vandan Alankar Sawai beat Magnus Carlsen in Chess.com's Titled Tuesday blitz event. The win stood out as he quietly moved on, with his family and coach learning about it later."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/stuart-broad-james-anderson-portrait-unveiled-at-lords-2980880-2026-08-27",
-      "headline": "Stuart Broad, James Anderson reunite at Lord's as England duo get special portraitStuart Broad and James Anderson reunited at Lord's to unveil a joint portrait in the Long Room. The tribute recognises a 17-year partnership that brought England 1,308 Test wickets."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-live-score-2nd-test-day-5-colombo-weather-prasidh-suthar-jadeja-gill-2980859-2026-08-27",
-      "headline": "Day 5 Highlights: Sri Lanka save Colombo Test, but India win series 1-0India (IND) vs Sri Lanka (SL) Highlights 2nd Test Day 5: Sonal Dinusha scored an unbeaten 133 as Sri Lanka managed to save the Colombo Test against India. Following on, the hosts declared at 429 for nine at the Sinhalese Sports Club."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/india-women-vs-germany-hockey-world-cup-fifth-place-preview-livestreaming-head-to-head-2980776-2026-08-27",
-      "headline": "Hockey World Cup: Indian women look to finish on a high vs Schopman's GermanyIndia meet Germany in the fifth-sixth place match to close their Women's Hockey World Cup campaign. India will be up against a familiar face in Janneke Schopman, who will look to prove a point against her former side."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-hat-trick-real-madrid-vs-real-sociedad-jose-mourinho-insane-2980846-2026-08-27",
-      "headline": "Mbappe's 'insane' hattrick extends perfect start for Mourinho's Real MadridKylian Mbappe scored a second-half hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabeu. The win kept Jose Mourinho's side perfect in LaLiga despite first-half boos from home supporters."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/guendouzi-marseille-taunt-fenerbahce-vs-lyon-brawl-uefa-champions-league-2980840-2026-08-27",
-      "headline": "Guendouzi taunts, provokes heated Lyon brawl as Fenerbahce seal UCL returnMatteo Guendouzi was involved in a heated post-match confrontation after Fenerbahce beat Lyon to reach the Champions League league phase. The flashpoint followed taunts towards the home support and could draw disciplinary scrutiny."
     }
   ],
   "education": [
