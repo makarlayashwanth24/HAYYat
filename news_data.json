@@ -104,6 +104,31 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kuku-kohli-prayer-meet-vicky-kaushal-katrina-kaif-anil-kapoor-mumbai-2982710-2026-08-29",
+      "headline": "Kuku Kohli prayer meet: Vicky-Katrina, Asha Parekh, Anil Kapoor pay tribute Film industry members gathered in Mumbai for filmmaker Kuku Kohli's prayer meet. Stars like Vicky Kaushal, Katrina Kaif, Anil Kapoor and others offered their condolences."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kriti-sanon-raksha-bandhan-ad-row-giva-says-commercial-was-withdrawn-over-staff-safety-2982667-2026-08-29",
+      "headline": "Jewellery brand stands by Kriti Sanon and Rakhi campaign, explains why it pulled ad The jewellery brand endorsed by actor Kriti Sanon has withdrawn its Raksha Bandhan ad amid tensions surrounding some of its stores. Brand founder Ishendra Agarwal said the decision was taken after the situation raised safety concerns for employees working at the affected stores."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-last-salute-review-an-old-warhorse-mig-21-gets-a-moving-final-salute-2982028-2026-08-29",
+      "headline": "The Last Salute review: An old warhorse, MiG-21 gets a moving final saluteRelease Date:Wed Aug 26, 2026 The Last Salute review: The Last Salute follows the MiG-21's final days in service through pilots' memories and its Chandigarh farewell. The documentary is heartfelt and revealing, but its soft handling of the jet's crash record leaves its legacy only partly examined."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-sharon-verma-indias-got-latent-bihar-kashmir-jokes-row-2982635-2026-08-29",
+      "headline": "Samay Raina's Bihari vs Kashmiri row: What exactly did the comic say? Comedians Samay Raina and Sharon Verma's exchange on India's Got Latent Season 2 has sparked online controversy. The remarks drew criticism over references to Bihar, Kashmir and the displacement of Kashmiri Pandits."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-sharon-verma-indias-got-latent-bihar-kashmir-jokes-backlash-internet-slams-questions-2982595-2026-08-29",
+      "headline": "How can you laugh? Internet questions Samay Raina's Bihari-Kashmiri Latent banter Comedians Samay Raina and Sharon Verma traded jokes about Bihar and Kashmir on India's Got Latent Season 2. The roast segment drew reactions online over humour and stereotypes."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/who-is-chello-meme-arunachal-influencer-won-rs-1-lakh-indias-got-latent-2-2982535-2026-08-29",
       "headline": "Who Is Chello Meme, Arunachal influencer who won Rs 1 lakh on Latent 2 Influencer Chello Meme's appearance on India's Got Latent 2, including a roast of Samay Raina, has put her back in the spotlight. The renewed attention has revived interest in her rise as an influencer."
     },
@@ -171,34 +196,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-box-office-collection-day-3-detailed-report-yash-film-nears-rs-200-crore-mark-trails-kgf-2-2982234-2026-08-29",
       "headline": "Toxic box office Day 3: Yash's film nears Rs 200 crore mark; trails KGF 2 Yash's Toxic added Rs 26.60 crore nett on Day 3, pushing its India gross to Rs 197.70 crore. The Friday drop widened its three-day gap with KGF: Chapter 2 despite a historic opening."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dil-chahta-hai-turns-25-aamir-khan-saif-ali-khan-and-farhan-akhtar-reunite-akshaye-khanna-gives-a-miss-2982201-2026-08-28",
-      "headline": "Dil Chahta Hai turns 25: Aamir, Saif and Farhan reunite, Akshaye gives a miss Aamir Khan, Saif Ali Khan and Farhan Akhtar reunited in Mumbai to celebrate 25 years of Dil Chahta Hai. Akshaye Khanna's absence drew attention as the gathering revived memories of the cult film."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kichcha-sudeep-on-yashs-toxic-it-takes-guts-amid-negative-audience-response-2982180-2026-08-28",
-      "headline": "Guts to attempt something like this: Kichcha Sudeep defends Yash's Toxic Kichcha Sudeep publicly backed Yash after Toxic drew a largely negative audience response online and in theatres. His remarks shifted attention to the film's experimental approach as discussion around it continued."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ananya-to-alia-bhatt-how-bollywood-celebrated-raksha-bandhan-2026-2982142-2026-08-28",
-      "headline": "Kangana, Ananya to Alia Bhatt: How Bollywood celebrated Raksha Bandhan 2026 Film personalities shared Raksha Bandhan photographs, throwbacks and messages for their siblings online this year. The posts brought together nostalgia, humour and family moments across celebrity feeds."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/exclusive-abhay-verma-on-operation-safed-sagar-industry-love-and-choosing-roles-2981975-2026-08-28",
-      "headline": "Exclusive: Abhay Verma on Operation Safed Sagar, industry love and choosing roles Abhay Verma spoke about the response to Operation Safed Sagar and the praise it has received. He said the series has connected with viewers beyond performance and keeps the audience at the centre of his choices."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-proudly-flaunts-his-colourful-rakhis-outside-sister-alvira-agnihotri-house-2981932-2026-08-28",
-      "headline": "Salman Khan proudly flaunts his colourful rakhis outside sister Alvira's house Salman Khan joined his family at sister Alvira Khan Agnihotri's Mumbai home for Raksha Bandhan, stepping out later with a wrist full of colourful rakhis, a tilak and his signature swag."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/mohan-bhagwats-unity-pitch-at-new-york-event-hindu-muslim-question-2982713-2026-08-29",
+      "headline": "Hindu wanting no Muslims in Bharat may not be Hindu: Mohan Bhagwat in New YorkBhagwat's remarks reiterate the position he outlined during an address in New Delhi in 2018. He had then said that a Hindu Rashtra could not exist without Muslims and that Hindutva embraced universal brotherhood."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/chirag-paswan-asks-jitan-ram-manjhi-resign-reservation-row-nda-rift-2982492-2026-08-29",
@@ -211,13 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/maharashtra-fda-withdraws-cipla-licence-cancellation-after-bombay-hc-rap-2982521-2026-08-29",
-      "headline": "Going overboard: HC raps FDA over Cipla Pune licence cancellation; order withdrawnThe Bombay High Court pulled up the Maharashtra FDA after Cipla challenged the cancellation of its Pune unit's drug sale licence. The regulator withdrew the order, promised a fresh show-cause notice and said it would pass a reasoned decision after hearing the company."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/video/bridges-homes-swept-away-near-nepals-rasuwa-border-as-floods-unleash-destruction-2982339-2026-08-29",
-      "headline": "Bridges swept away, villages cut off: Devastating aftermath of Nepal floodsBetravati village near the Rasuwa border in Nepal has been devastated by the swollen Bhotekoshi River, which has washed away a water project, bridges, farmland, roads and houses."
+      "headline": "Video: Trishuli river tears through Nepal village, washes away roads, hydro projectsBetravati village near the Rasuwa border in Nepal has been devastated by the swollen Bhotekoshi River, which has washed away a water project, bridges, farmland, roads and houses."
     },
     {
       "sentiment": "positive",
@@ -226,13 +226,53 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/nepal-flash-flood-us-american-couple-san-francisco-death-die-recalls-escape-survivors-account-tibet-pilgrimage-2982359-2026-08-29",
+      "headline": "Jumped off bus, climbed 500 steps: How Indian-origin couple survived Nepal floodsAnjana Raja and her partner Pattabiraman Venkatesan were on their first pilgrimage to Tibet when tragedy struck. Inside the tour bus in Nepal's Rasuwa district, a light-hearted environment soon turned into sheer tragedy. There was not much time to comprehend, and they acted on pure adrenalin to stay alive."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-tashkent-visit-uzbek-president-receives-him-ahead-of-mirziyoyev-talks-2982600-2026-08-29",
+      "headline": "PM Modi gets airport welcome from Uzbek President, the two leaders share a ridePrime Minister Narendra Modi arrived in Tashkent, where President Shavkat Mirziyoyev received him at the airport. The visit will focus on reviewing strategic cooperation and setting the agenda for future ties."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/maharashtra-fda-withdraws-cipla-licence-cancellation-after-bombay-hc-rap-2982521-2026-08-29",
+      "headline": "Going overboard: HC raps FDA over Cipla Pune licence cancellation; order withdrawnThe Bombay High Court pulled up the Maharashtra FDA after Cipla challenged the cancellation of its Pune unit's drug sale licence. The regulator withdrew the order, promised a fresh show-cause notice and said it would pass a reasoned decision after hearing the company."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/mandakini-river-floods-ramghat-chitrakoot-all-rescued-sdrf-ndrf-pac-2982615-2026-08-29",
+      "headline": "Bridge swept away, houses inundated: UP town flooded as Mandakini river swellsChief Minister Yogi Adityanath on Saturday reviewed the flood situation and said no flood victim in the state would be allowed to face any hardship."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-sharon-verma-indias-got-latent-bihar-kashmir-jokes-row-2982635-2026-08-29",
+      "headline": "Samay Raina's Bihari vs Kashmiri row: What exactly did the comic say?Comedians Samay Raina and Sharon Verma's exchange on India's Got Latent Season 2 has sparked online controversy. The remarks drew criticism over references to Bihar, Kashmir and the displacement of Kashmiri Pandits."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/gruha-lakshmi-scheme-karnataka-biometric-re-verification-beneficiaries-august-30-ptag-2982571-2026-08-29",
+      "headline": "Karnataka to re-verify Gruha Lakshmi beneficiaries with biometric checksKarnataka will re-verify all Gruha Lakshmi beneficiaries through biometric and facial checks from August 30. The month-long drive aims to remove ineligible recipients after reports of deaths, migration and changed tax status."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/hdfc-bank-ceo-sashidhar-jagdishan-not-seeking-reappointment-to-step-down-when-term-ends-in-october-2982540-2026-08-29",
       "headline": "HDFC Bank CEO Sashidhar Jagdishan to step down when term ends in OctoberThe announcement of Jagdishan's exit comes months after Atanu Chakraborty resigned as the bank's part-time chairman in March, citing ethical differences. His departure had raised concerns among investors over the bank's internal governance."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/greater-noida-child-murder-cctv-leads-police-to-suspect-after-girl-found-in-sack-2982530-2026-08-29",
-      "headline": "6-year-old lured by man, stuffed in sack, strangled; family alleges rape-murderA six-year-old girl who went missing in Greater Noida's Haldoni village was later found dead in a sack, and police detained a suspect after examining CCTV footage. The family has alleged rape and murder, while police say all angles are under investigation."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kriti-sanon-raksha-bandhan-ad-row-giva-says-commercial-was-withdrawn-over-staff-safety-2982667-2026-08-29",
+      "headline": "Jewellery brand stands by Kriti Sanon and Rakhi campaign, explains why it pulled adThe jewellery brand endorsed by actor Kriti Sanon has withdrawn its Raksha Bandhan ad amid tensions surrounding some of its stores. Brand founder Ishendra Agarwal said the decision was taken after the situation raised safety concerns for employees working at the affected stores."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/haldwani-purification-row-rahul-gandhi-bjp-congress-kharge-rally-2982634-2026-08-29",
+      "headline": "Kharge 'purification' row: Rahul demands FIR, BJP hits back with anti-Dalit jibeRahul Gandhi demanded an FIR over an alleged purification ritual after Mallikarjun Kharge's Haldwani rally, calling it untouchability. The BJP denied involvement, accused Congress of exploiting Dalits, and said religious groups performed the ritual after provocative slogans at the rally."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sachin-tendulkar-greatest-indian-cricketer-ashwin-bumrah-kohli-dhoni-2982330-2026-08-29",
+      "headline": "Sachin the best, Bumrah over Kohli: Ashwin rates India cricketersFormer India spinner Ravichandran Ashwin picked Sachin Tendulkar as India's greatest cricketer, with Jasprit Bumrah beating Virat Kohli and Virender Sehwag pipping MS Dhoni in his all-time bracket."
     },
     {
       "sentiment": "negative",
@@ -241,28 +281,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sachin-tendulkar-greatest-indian-cricketer-ashwin-bumrah-kohli-dhoni-2982330-2026-08-29",
-      "headline": "Sachin the best, Bumrah over Kohli: Ashwin rates India cricketersFormer India spinner Ravichandran Ashwin picked Sachin Tendulkar as India's greatest cricketer, with Jasprit Bumrah beating Virat Kohli and Virender Sehwag pipping MS Dhoni in his all-time bracket."
+      "url": "https://www.indiatoday.in/world/story/nepal-floods-safe-looted-29-detained-92-lakh-nepalese-rupees-recovered-2982448-2026-08-29",
+      "headline": "Nepal floods wash bank locker down river, locals break it open and steal Rs 58 lakhNepal Police have yet to determine how much money was originally inside the safe. They are also trying to establish its ownership, the source of the cash and whether others took some of the money before authorities secured the area."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-nitin-nabin-reprimands-three-delhi-mps-over-sajjan-kumar-condolence-visit-2982338-2026-08-29",
-      "headline": "3 Delhi BJP MPs face Nitin Nabin's ire over Sajjan Kumar condolence visitBJP president Nitin Nabin reprimanded three Delhi MPs after they visited Sajjan Kumar's family to offer condolences. The visit drew sharp criticism from HS Phoolka and prompted the party to stress it was a personal act."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/nepal-flash-flood-us-american-couple-san-francisco-death-die-recalls-escape-survivors-account-tibet-pilgrimage-2982359-2026-08-29",
-      "headline": "Jumped off bus, climbed 500 steps: How Indian-origin couple survived Nepal floodsAnjana Raja and her partner Pattabiraman Venkatesan were on their first pilgrimage to Tibet when tragedy struck. Inside the tour bus in Nepal's Rasuwa district, a light-hearted environment soon turned into sheer tragedy. There was not much time to comprehend, and they acted on pure adrenalin to stay alive."
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-635-28-08-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/ai-in-iit-education-manindra-agarwal-says-assignments-are-dead-maths-training-must-grow-2980802-2026-08-29",
-      "headline": "AI is ending assignments at IITs: IIT Kanpur director on the future of educationIIT Kanpur director Manindra Agarwal, in an exclusive interview with India Today Digital, outlined how AI is changing learning at IITs and how his interest in mathematics shaped his research path. He said institutions must move beyond assignments, use new AI tools and build stronger training in mathematics."
+      "url": "https://www.indiatoday.in/india/story/kailash-mansarovar-uk-couple-anal-sanjukta-kar-missing-nepal-floods-2982581-2026-08-29",
+      "headline": "Trying to reach safety: NRI couple's last message before going missing in NepalAnal Kar and his wife, Sanjukta Kar, reached Kathmandu on August 18 after meeting relatives in Kolkata. They were last traced to Timure near the Nepal-Tibet border, according to reports."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/after-kriti-sanon-ad-celina-jaitly-trolled-over-deep-neck-outfit-at-raksha-bandhan-event-2982479-2026-08-29",
-      "headline": "After Kriti Sanon, Celina Jaitly trolled over deep-neck outfit at Rakhi eventActor Celina Jaitly drew criticism online after attending a Raksha Bandhan event in Mumbai in a floral saree and deep-neck blouse. The reaction followed the recent row over Kriti Sanon's festive campaign."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-sharon-verma-indias-got-latent-bihar-kashmir-jokes-backlash-internet-slams-questions-2982595-2026-08-29",
+      "headline": "How can you laugh? Internet questions Samay Raina's Bihari-Kashmiri Latent banterComedians Samay Raina and Sharon Verma traded jokes about Bihar and Kashmir on India's Got Latent Season 2. The roast segment drew reactions online over humour and stereotypes."
     },
     {
       "sentiment": "positive",
@@ -276,51 +311,46 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-data-centres-ai-jobs-employment-outside-server-rooms-how-many-artifcial-intelligence-2982401-2026-08-29",
-      "headline": "Data centres are India's new AI infrastructure. But what's in it for jobs?India is rapidly expanding data-centre capacity to back its AI ambitions. The bigger jobs story may lie in the wider ecosystem these facilities enable."
+      "url": "https://www.indiatoday.in/india/story/bjp-nitin-nabin-reprimands-three-delhi-mps-over-sajjan-kumar-condolence-visit-2982338-2026-08-29",
+      "headline": "3 Delhi BJP MPs face Nitin Nabin's ire over Sajjan Kumar condolence visitBJP president Nitin Nabin reprimanded three Delhi MPs after they visited Sajjan Kumar's family to offer condolences. The visit drew sharp criticism from HS Phoolka and prompted the party to stress it was a personal act."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/up-woman-breaks-open-piggy-bank-after-9-years-then-shows-what-she-saved-up-money-for-2982253-2026-08-29",
-      "headline": "UP woman breaks open piggy bank after 9 years, then shows what she saved up money forAn Uttar Pradesh-based woman showed how years of piggy bank savings helped her buy a plot of land. The Instagram video received praise for choosing property over a depreciating purchase."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-635-28-08-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bombay-high-court-mca-restaurants-fda-withdraws-suspension-after-food-safety-compliance-ptag-2982349-2026-08-29",
-      "headline": "Do you feel you are a lord? HC raps Maharashtra FDA, allows 5 eateries to reopenThe Bombay High Court allowed five MCA premises restaurants to resume services after the FDA agreed to withdraw its suspension order. The judges warned officials of contempt action, saying they had ignored directions and taken a rigid view."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/nepal-china-flood-tibet-gyirong-port-huang-peng-chinese-immigration-police-officer-kailash-mansarovar-2982045-2026-08-29",
-      "headline": "Hero border cop missing, helped people escape as flood swept away Gyirong portAs flash floods hit the Tibet-Nepal border, a CCTV video from Gyirong Port is drawing attention to a police officer's bravery. In the clip, Huang Peng is seen helping people evacuate before disaster struck. Gyirong Port is used by Kailash Mansarovar pilgrims. Hero Huang remains unaccounted for."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ai-crowds-in-indian-films-may-cut-junior-artiste-jobs-bollywood-entry-point-2981364-2026-08-29",
-      "headline": "AI is replacing crowds in films, a junior artiste's first job, entry into BollywoodFilmmakers are increasingly using AI and CGI to build large crowd scenes with fewer junior artistes on set. The shift could reduce one of the film industry's most accessible entry points for aspiring actors."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-fir-kolkata-student-rally-high-court-order-breach-2982423-2026-08-29",
-      "headline": "FIR against Mamata Banerjee for violation of court order during Kolkata rallyAccording to the complaint, the High Court had permitted the foundation day programme on one flank of Cathedral Road. However, the police alleged that TMC workers and supporters also occupied the other flank, causing an obstruction to vehicular movement."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/nepal-flash-floods-bodies-found-in-uttar-pradesh-gandak-river-victims-alert-deaths-2982409-2026-08-29",
-      "headline": "Nepal flood horror reaches UP as 10 bodies recovered from Gandak riverTen bodies were recovered from multiple locations across Uttar Pradesh, with police saying they were found in rivers carrying waters downstream from flood-hit Nepal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/mood-of-the-nation/story/cjp-abhijeet-dipke-pm-choice-aap-arvind-kejriwal-mood-of-the-nation-suvey-2981725-2026-08-28",
-      "headline": "CJP's Dipke beats ex-boss Kejriwal on list of preferred PM: MOTN surveyCockroach Janta Party (CJP) founder and Convenor Abhijeet Dipke is ahead of AAP chief Arvind Kejriwal as the preferred choice for Prime Minister, reveals the latest India Today-CVoter Mood of the Nation (MOTN) survey. Dipke was earlier associated with the AAP."
+      "url": "https://www.indiatoday.in/world/story/nepal-flash-floods-kill-626-after-glacial-collapse-near-china-border-2982257-2026-08-29",
+      "headline": "Nepal flood toll hits 675, over 2,400 still missing as rains hinder search ops Live UpdatesFlash floods tore through Rasuwa and central Nepal after a glacial collapse near the China border. Authorities have warned of renewed flooding as water levels rise again in the Bhotekoshi area."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/womens-hockey-world-cup-final-argentina-shootout-win-netherlands-amstelveen-2982714-2026-08-29",
+      "headline": "Argentina end Netherlands' reign, claim Women's Hockey WC with shootout win Argentina beat the Netherlands 3-1 in a shootout after a 1-1 draw to win the Women's Hockey World Cup. The result ended the Dutch run of titles as Argentina were able to avenge their World Cup 2022 final and Tokyo Olympics losses."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/javagal-srinath-bengaluru-metro-photo-viral-icc-indian-team-2982698-2026-08-29",
+      "headline": "Srinath's Bengaluru Metro pic goes viral, fans praise Ex-IND star's simplicity A photograph of Javagal Srinath travelling on the Bengaluru Metro has gone viral online. Fans quickly praised the former India pacer for his simplicity and humility with some even sharing anecdotes of instances where Srinath showed his class."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-zimbabwe-report-dewald-brevis-windhoek-2982690-2026-08-29",
+      "headline": "After Namibia loss, Brevis powers South Africa to thumping win vs Zimbabwe South Africa bounced back from the Namibia defeat by beating Zimbabwe by seven wickets in Windhoek, driven by Dewald Brevis's unbeaten 75 off 32 balls. The win took shape after their bowlers corrected course, restricting Zimbabwe to 144."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-stars-fitness-tests-bcci-coe-bengaluru-2982675-2026-08-29",
+      "headline": "48 hours after SL series, India's top stars turn up for mandatory fitness tests India's leading contracted cricketers reported in Bengaluru for mandatory pre-season fitness assessments on Saturday. Members of the Indian squad from the victorious Sri Lanka tour were also part of the tests before India's home season got underway."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/anaya-bangar-india-world-cup-bcci-policies-cricket-australia-exclusive-2982662-2026-08-29",
+      "headline": "After getting cricket lifeline, Anaya Bangar dreams of India World Cup win After being handed a lifeline in cricket, Anaya Bangar is now dreaming of playing for India and winning the World Cup with them. Anaya opened up on her journey after gender-affirming surgery and the struggles she faced along the way."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/india-hockey-asian-games-gold-target-harmanpreet-singh-la-olympics-qualification-2982607-2026-08-29",
+      "headline": "India wants to win Asian Games hockey gold, qualify for Olympics: Harmanpreet After India's eighth-place finish, Harmanpreet Singh said the team will now target Asian Games gold and qualify for the Los Angeles Olympics in 2028. India will be aiming to defend their Asian Games crown in Japan."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/prasidh-krishna-impact-player-india-vs-sri-lanka-test-series-2982578-2026-08-29",
@@ -344,27 +374,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-india-t20i-captaincy-sacking-bcci-shreyas-iyer-2982460-2026-08-29",
-      "headline": "Suryakumar on India T20I captaincy sacking: Thought I'd lead for 2 more years Suryakumar Yadav said he expected to lead India in T20Is for two more years before being removed as captain. Suryakumar helped India win the T20 World Cup this year at home but was dropped from the side before the England tour."
+      "headline": "Suryakumar on India T20I captaincy sacking: Thought I'd lead for 2 more yearsSuryakumar Yadav said he expected to lead India in T20Is for two more years before being removed as captain. Suryakumar helped India win the T20 World Cup this year at home but was dropped from the side before the England tour."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-gurnoor-brar-north-zone-auqib-nabi-county-stint-2982440-2026-08-29",
-      "headline": "North Zone add Gurnoor Brar to Duleep squad as Auqib Nabi eyes county stint Gurnoor Brar is set to feature for North Zone in the Duleep Trophy semi-final as selectors continue to give him red-ball exposure. Auqib Nabi, meanwhile, could get a county stint ahead of India's New Zealand tour."
+      "headline": "North Zone add Gurnoor Brar to Duleep squad as Auqib Nabi eyes county stintGurnoor Brar is set to feature for North Zone in the Duleep Trophy semi-final as selectors continue to give him red-ball exposure. Auqib Nabi, meanwhile, could get a county stint ahead of India's New Zealand tour."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/formula-one/story/f1-2026-lando-norris-mclaren-contract-extension-2030-retirement-2982430-2026-08-29",
-      "headline": "Lando Norris signs new McLaren deal, dreams of finishing F1 career with team Lando Norris has signed a new McLaren contract through 2030. Norris, the reigning F1 champion, said that he doesn't mind retiring by being a one-team man."
+      "headline": "Lando Norris signs new McLaren deal, dreams of finishing F1 career with teamLando Norris has signed a new McLaren contract through 2030. Norris, the reigning F1 champion, said that he doesn't mind retiring by being a one-team man."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/imran-khan-imprisonment-javed-miandad-breaks-down-seeks-release-2982402-2026-08-29",
-      "headline": "Miandad breaks down in interview, questions Imran Khan's continued imprisonment Former Pakistan skipper Javed Miandad broke down while defending Imran Khan's integrity, calling his former teammate an honest man and questioning why the 1992 World Cup-winning captain continues to remain behind bars."
+      "headline": "Miandad breaks down in interview, questions Imran Khan's continued imprisonmentFormer Pakistan skipper Javed Miandad broke down while defending Imran Khan's integrity, calling his former teammate an honest man and questioning why the 1992 World Cup-winning captain continues to remain behind bars."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-out-of-asian-games-after-ankle-tear-2026-season-over-2982377-2026-08-29",
-      "headline": "Neeraj Chopra ruled out of Asian Games after ankle ligament tear ends 2026 season Neeraj Chopra has been ruled out of the Asian Games and the rest of the 2026 season after suffering an ankle ligament tear in training. The injury also ends his hopes of competing in the Diamond League Final."
+      "headline": "Neeraj Chopra ruled out of Asian Games after ankle ligament tear ends 2026 seasonNeeraj Chopra has been ruled out of the Asian Games and the rest of the 2026 season after suffering an ankle ligament tear in training. The injury also ends his hopes of competing in the Diamond League Final."
     },
     {
       "sentiment": "positive",
@@ -435,36 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/anaya-bangar-marizanne-kapp-wbbl-criticism-cricket-australia-clearance-2982182-2026-08-28",
       "headline": "Educate yourself: Anaya Bangar slams Marizanne Kapp criticism of playing in WBBLAnaya Bangar has hit back at Marizanne Kapp's criticism of her possible path to the WBBL. Anaya said that people need to educate themselves about the topic before speaking on it."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/namibia-beat-south-africa-t20i-tri-series-windhoek-broadcast-disruption-2982173-2026-08-28",
-      "headline": "Namibia stun South Africa, but broadcast controversy overshadows tri-series openerNamibia defeated South Africa by 18 runs in Windhoek to secure their second successive T20I win over the Proteas. Jan Frylinck, Ruben Trumpelmann, and Jonathan Smit starred for Namibia, while Dewald Brevis' 75 went in vain amid a SuperSport broadcast disruption."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/indian-womens-hockey-team-rs-50-lakh-reward-historic-fifth-world-cup-hi-2982154-2026-08-28",
-      "headline": "HI announces cash reward for women's team after historic 5th at World CupHockey India has announced a Rs 50 lakh cash reward for the Indian women's team after its fifth-place finish at the World Cup. India defeated Germany in their final match to secure the fifth spot."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/anaya-bangar-cricket-australia-womens-community-cricket-bcci-silence-2982140-2026-08-28",
-      "headline": "Anaya Bangar slams BCCI for ignoring plea to continue playing: Served with silenceAnaya has criticised the BCCI for not responding to her plea and urged the board to formulate a policy for transgender athletes. She recently received a pathway back into competitive cricket after Cricket Australia cleared her to play women's community cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asian-games-2026-bcci-unhappy-facilities-b-team-shreyas-iyer-harmanpreet-kaur-2982132-2026-08-28",
-      "headline": "India, Pakistan among cricket boards unhappy with Asian Games 2026 facilitiesIndia and Pakistan are among the boards that are unhappy with the facilities and rooms provided for cricketers for the upcoming Asian Games 2026. The boards are thinking of sending their B teams if the situation doesn't improve."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/sjoerd-marijne-pre-world-cup-leave-india-women-coach-critics-context-2982094-2026-08-28",
-      "headline": "Marijne defends pre-World Cup leave after India finish fifthSjoerd Marijne has defended his pre-World Cup leave, saying India's preparations were fully covered. Marijne helped India finish fifth at the women's hockey World Cup 2026 as they produced an impressive performance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2026-gael-monfils-elina-svitolina-mixed-doubles-semi-final-family-run-2982072-2026-08-28",
-      "headline": "Gael Monfils on US Open doubles with Elina Svitolina: Memory for us and daughterGael Monfils and Elina Svitolina turned their US Open mixed-doubles into a memorable semi-final run. Though they fell short against Belinda Bencic and Flavio Cobolli, the couple cherished playing together for the first and last time, creating a memory their daughter can treasure."
     }
   ],
   "education": [
