@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/subhash-chandra-essel-group-insolvency-rs-43000-crore-repaid-audit-call-2982215-2026-08-29",
+      "headline": "We sold our house: Subhash Chandra says Essel repaid Rs 43,000 CrSubhash Chandra defended his personal insolvency proceedings and disputed the Rs 22,006 crore claims figure. He said the amount arose from personal guarantees for group loans and sought an independent audit of repayments."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/delhi-cng-price-hiked-by-rs-389-to-cost-rs-8698-per-kg-from-august-29-amid-middle-east-crisis-2982210-2026-08-28",
+      "headline": "CNG price hiked by Rs 3.89 in Delhi-NCR. Check new ratesDelhi CNG prices have risen by Rs 3.89 per kg to Rs 86.98 from August 29, as IGL increased rates across all its geographical areas from 6 am amid the ongoing Middle East crisis."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/nepal-floods-infosys-public-services-chief-lax-gopisetty-not-reachable-2982193-2026-08-28",
+      "headline": "Infosys executive Lax Gopisetty missing after deadly Nepal flash floodsInfosys said its Infosys Public Services chief Lax Gopisetty remains unreachable after flash floods in Nepal, where he was visiting personally. The company is working with authorities to locate him and is supporting his family. The MEA said 320 Indians remain missing and 400 stranded on the Chinese side."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/jio-platforms-ipo-sebi-approval-indias-biggest-listing-2982079-2026-08-28",
       "headline": "Sebi clears Rs 37,000 crore Jio IPO, set to become India's biggest listingAt the estimated issue size of about Rs 37,700 crore (USD 3.8 billion), the offering would surpass Hyundai Motor India's USD 3.3 billion-equivalent listing in 2024 and become the largest IPO in India."
     },
@@ -84,24 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-539-points-lower-nifty-below-24100-hdfc-bank-down-2-2981097-2026-08-27",
       "headline": "Sensex ends 539 points lower, Nifty below 24,100; HDFC Bank down 2%The BSE Sensex fell 539.35 points, or 0.70%, to 76,933.59, while the Nifty 50 declined 116.90 points, or 0.48%, to 24,090.85."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/nestle-urges-india-to-consult-food-firms-on-packaging-warning-rules-2981068-2026-08-27",
-      "headline": "Nestle urges India to consult food firms on packaging warning rulesNestle wants manufacturers to have a voice in the process, while health activists argue that companies should not be involved in deciding public health labelling standards."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/onion-prices-in-focus-govt-starts-buffer-stock-sales-ahead-of-festive-season-2981023-2026-08-27",
-      "headline": "Onion prices in focus: Govt starts buffer stock sales ahead of festive seasonThe government has started a calibrated and targeted release of onions from its buffer stock to improve supplies and keep seasonal price pressures under control, says the Ministry of Consumer Affairs, Food & Public Distribution."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/subhash-chandra-nclt-repayment-plan-rs-6-5-crore-rs-22006-crore-claims-vijay-mallya-jairam-2980997-2026-08-27",
-      "headline": "Pay Rs 6.5 cr for Rs 22,000-cr debt: NCLT OKs Subhash Chandra plan, Mallya scoffsThe NCLT has approved Subhash Chandra's repayment plan of Rs 6.5 crore against admitted claims of Rs 22,006.57 crore. The order, opposed by some creditors, drew scrutiny over the scale of lender haircuts and triggered reactions from Jairam Ramesh and Vijay Mallya."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dil-chahta-hai-turns-25-aamir-khan-saif-ali-khan-and-farhan-akhtar-reunite-akshaye-khanna-gives-a-miss-2982201-2026-08-28",
+      "headline": "Dil Chahta Hai turns 25: Aamir, Saif and Farhan reunite, Akshaye gives a miss Aamir Khan, Saif Ali Khan and Farhan Akhtar reunited in Mumbai to celebrate 25 years of Dil Chahta Hai. Akshaye Khanna's absence drew attention as the gathering revived memories of the cult film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kichcha-sudeep-on-yashs-toxic-it-takes-guts-amid-negative-audience-response-2982180-2026-08-28",
+      "headline": "Guts to attempt something like this: Kichcha Sudeep defends Yash's Toxic Kichcha Sudeep publicly backed Yash after Toxic drew a largely negative audience response online and in theatres. His remarks shifted attention to the film's experimental approach as discussion around it continued."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ananya-to-alia-bhatt-how-bollywood-celebrated-raksha-bandhan-2026-2982142-2026-08-28",
@@ -186,38 +196,43 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/amaal-mallik-takes-a-break-from-music-says-no-new-film-songs-till-next-year-2981635-2026-08-28",
       "headline": "Amaal Mallik takes a break from music, says no new film songs till next year Music composer Amaal Mallik has announced a temporary break from Bollywood film music until next year to focus on his health. The composer shared a hospital photo and opened up about personal healing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kharaj-mukherjee-wife-safe-nepal-floods-return-delayed-son-update-2981640-2026-08-28",
-      "headline": "Bengali actor Kharaj Mukherjee, wife stuck in Nepal amid floods; son shares update Bengali actor Kharaj Mukherjee and his wife Pratibha are stranded in Nepal after heavy rain disrupted their shoot and return journey. Their son Tamaghna said they are safe and expected in Kolkata on August 28."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-review-legal-notice-youtuber-suraj-kumar-yash-film-court-injunction-2981630-2026-08-28",
-      "headline": "Toxic takedown? YouTubers, influencers receive legal notice over negative reviews YouTubers and influencers who reviewed Yash's Toxic have received legal notices from the film's producers. The move has sharpened attention on the gap between critical opinion and allegedly false or defamatory content."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/targeted-because-im-dalit-b-nagendra-to-step-down-as-karnataka-minister-amid-corruption-allegations-2982024-2026-08-28",
-      "headline": "In tears, Karnataka minister quits once again over scam allegationsCongress leader B Nagendra has once again resigned from the Karnataka Cabinet amid the controversy over his alleged involvement in the Valmiki Corporation scam case."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/nepal-agrees-foreign-help-flash-flood-search-rescue-allows-india-china-send-teams-2982227-2026-08-29",
+      "headline": "Nepal's U-turn on no foreign help for flood rescue, allows teams from India, ChinaNepal has reversed its decision to reject foreign rescue assistance following international pressure over missing nationals. India, China, Australia and South Korea will provide specialised support for tunnel rescues, DNA testing and forensic identification after devastating flash floods."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/fda-cancels-cipla-pune-units-drug-licence-over-reactin-plus-storage-record-keeping-lapses-2982065-2026-08-28",
-      "headline": "FDA cancels Cipla Pune unit's licence over Reactin Plus violations; firm contestsThe cancellation came into effect on August 27, following an inspection of the company's main warehouse at Wadki in Pune district, according to the FDA."
+      "url": "https://www.indiatoday.in/world/story/nepal-flash-floods-isha-pilgrims-missing-gyirong-death-toll-indian-origin-man-2982170-2026-08-28",
+      "headline": "I was supposed to go: Indian-origin man in tears after wife goes missing in NepalA wall of mud and water swallowed a Nepal-Tibet border immigration centre, leaving 80 Isha Foundation pilgrims missing. Among them is Sridevi Vejella, whose tearful husband said the pilgrimage to Kailash Mansarovar was her \"lifetime dream\" and that he was supposed to join her."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/not-accurate-penguin-india-on-report-of-dispute-with-sonia-gandhi-on-publication-of-her-memoir-2981810-2026-08-28",
-      "headline": "Not accurate: Penguin India on reports it pulled plug on Sonia Gandhi's memoirPenguin India said it is not the publisher of Sonia Gandhi's memoir 'Belonging' and said reports suggesting it decided against publishing the book because the Congress leader declined editorial changes were inaccurate."
+      "url": "https://www.indiatoday.in/business/story/subhash-chandra-essel-group-insolvency-rs-43000-crore-repaid-audit-call-2982215-2026-08-29",
+      "headline": "We sold our house: Subhash Chandra says Essel repaid Rs 43,000 CrSubhash Chandra defended his personal insolvency proceedings and disputed the Rs 22,006 crore claims figure. He said the amount arose from personal guarantees for group loans and sought an independent audit of repayments."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/venezuela-oil-reserves-deal-trump-majority-us-control-2982223-2026-08-29",
+      "headline": "Biggest oil deal in history: Trump as US gains control of Venezuelan reservesDonald Trump announced a deal that allows the US to control 65 billion barrels of Venezuelan oil reserves. Venezuela will also be signing agreements granting new oil exploration and production rights to American firms."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/up-punjab-uttarakhand-yogi-adityanath-bhagwant-maansurvey-voter-anger-mlas-state-governments-2981031-2026-08-29",
+      "headline": "In poll-bound UP, Punjab voters are angrier with MLAs than with the CMTwo surveys in poll-bound states of Uttar Pradesh, Punjab and Uttarakhand reveal voter anger against sitting MLAs. But they also show that the anger might not have transformed into anti-incumbency against the chief minister. The BJP remains competitive in UP and Uttarakhand, and the AAP retains an edge in Punjab."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/video/nepal-flood-crisis-air-rescues-intensive-missing-lists-grow-as-families-wait-for-news-at-ground-zero-frvd-2981980-2026-08-28",
       "headline": "Inside Nepal's flood rescue hub where families search for missing loved onesA report by India Today's Ashutosh Mishra from ground zero in Nepal's Nuwakot airbase captures the ongoing humanitarian crisis following devastating floods that disrupted road connectivity across the region."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/chhattisgarh/story/cbi-arrests-cgst-additional-commissioner-vinay-kanheti-raigad-rs-40-lakh-bribery-case-2982092-2026-08-28",
+      "headline": "CBI arrests IRS officer in Rs 40 lakh bribe case; court calls arrest illegalThe CBI arrested an IRS officer, a CGST superintendent and a private person in an alleged Rs 40 lakh bribery case involving a Rs 1.5 crore demand. However, the Thane Special Court held their arrests illegal, rejected further custodial interrogation and ordered their release on bonds, directing them to cooperate with the ongoing probe."
     },
     {
       "sentiment": "positive",
@@ -226,13 +241,43 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nepal-flash-flood-live-updates-bhotekoshi-river-tibet-border-death-toll-casualties-rescue-operations-2981615-2026-08-28",
-      "headline": "Live: Authorities issue fresh flood alert; 53 Indians cross over from China to NepalNepal Flash Flood Live Updates: The death toll from the catastrophic flash flood that devastated several parts of Nepal earlier this week has risen to at least 475. Meanwhile, in Tibet, according to Chinese state media, at least three people died and 558, including 260 foreigners, were missing. Both Nepal and China have warned of fresh risks of flooding in the Himalayas as two lakes that have developed on either side of their border threaten to burst in the area most severely impacted by the natural calamity. Search and rescue operations are still underway in the debris-strewn valleys and hillsides of Nepal, with nearly 1,000 people still missing. The deadly flash flood originated in the Bhotekoshi River. Follow indiatoday.in for all the latest updates on the Nepal flood."
+      "url": "https://www.indiatoday.in/opinion/story/parliament-disruptions-monsoon-session-2026-bills-passed-without-debate-2982149-2026-08-29",
+      "headline": "Laws sans debateThe 2026 Monsoon Session saw repeated disruptions, low productivity and several Bills passed without debate, renewing concerns over legislative scrutiny and the quality of law-making in Parliament."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/mood-of-the-nation/story/cjp-abhijeet-dipke-pm-choice-aap-arvind-kejriwal-mood-of-the-nation-suvey-2981725-2026-08-28",
-      "headline": "CJP's Dipke beats ex-boss Kejriwal on list of preferred PM: MOTN surveyCockroach Janta Party (CJP) founder and Convenor Abhijeet Dipke is ahead of AAP chief Arvind Kejriwal as the preferred choice for Prime Minister, reveals the latest India Today-CVoter Mood of the Nation (MOTN) survey. Dipke was earlier associated with the AAP."
+      "url": "https://www.indiatoday.in/world/story/nepal-flash-flood-death-toll-rescue-operation-indians-missing-mea-tibet-china-dam-lake-formation-overflow-glacier-2982200-2026-08-28",
+      "headline": "Nepal toll nears 600, search for 2,500 missing continues as 2nd flood threat loomsAt least 579 people have died and nearly 2,500 remain missing on both sides of the Nepal-Tibet border after flash floods swept through central Nepal on Wednesday, triggered by an ice-rock avalanche following a glacial collapse near the border."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/delhi-cng-price-hiked-by-rs-389-to-cost-rs-8698-per-kg-from-august-29-amid-middle-east-crisis-2982210-2026-08-28",
+      "headline": "CNG price hiked by Rs 3.89 in Delhi-NCR. Check new ratesDelhi CNG prices have risen by Rs 3.89 per kg to Rs 86.98 from August 29, as IGL increased rates across all its geographical areas from 6 am amid the ongoing Middle East crisis."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/not-accurate-penguin-india-on-report-of-dispute-with-sonia-gandhi-on-publication-of-her-memoir-2981810-2026-08-28",
+      "headline": "Not accurate: Penguin India on reports it pulled plug on Sonia Gandhi's memoirPenguin India said it is not the publisher of Sonia Gandhi's memoir 'Belonging' and said reports suggesting it decided against publishing the book because the Congress leader declined editorial changes were inaccurate."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/nepal-flood-bodies-hospital-morgues-overflow-identification-crisis-bhotekoshi-flash-flood-2981838-2026-08-28",
+      "headline": "Nepal morgues overflow with bodies washed downstream, police resort to QR codeBodies are turning up hundreds of kilometres downstream in Nepal and morgues are overflowing even as families search desperately for their missing relatives. Authorities are racing to preserve, identify and store bodies while preparing for an even larger recovery operation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asian-games-2026-bcci-unhappy-facilities-b-team-shreyas-iyer-harmanpreet-kaur-2982132-2026-08-28",
+      "headline": "India, Pakistan among cricket boards unhappy with Asian Games 2026 facilitiesIndia and Pakistan are among the boards that are unhappy with the facilities and rooms provided for cricketers for the upcoming Asian Games 2026. The boards are thinking of sending their B teams if the situation doesn't improve."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/nepal-floods-infosys-public-services-chief-lax-gopisetty-not-reachable-2982193-2026-08-28",
+      "headline": "Infosys executive Lax Gopisetty missing after deadly Nepal flash floodsInfosys said its Infosys Public Services chief Lax Gopisetty remains unreachable after flash floods in Nepal, where he was visiting personally. The company is working with authorities to locate him and is supporting his family. The MEA said 320 Indians remain missing and 400 stranded on the Chinese side."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/priyank-kanoongo-schools-should-allow-mehndi-and-rakhis-during-raksha-bandhan-2982214-2026-08-29",
+      "headline": "NHRC member Priyank Kanoongo warns schools against restricting mehndi, rakhisNHRC member Priyank Kanoongo has asked schools not to stop Hindu children from applying mehndi or tying rakhis during Raksha Bandhan. He said these practices are part of religious freedom and warned of action if complaints are received."
     },
     {
       "sentiment": "negative",
@@ -241,86 +286,61 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nepal-flood-bodies-hospital-morgues-overflow-identification-crisis-bhotekoshi-flash-flood-2981838-2026-08-28",
-      "headline": "Nepal morgues overflow with bodies washed downstream, police resort to QR codeBodies are turning up hundreds of kilometres downstream in Nepal and morgues are overflowing even as families search desperately for their missing relatives. Authorities are racing to preserve, identify and store bodies while preparing for an even larger recovery operation."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/karnataka-rss-teachers-suspension-pralhad-joshi-demands-rollback-ptag-2981735-2026-08-28",
-      "headline": "Vindictiveness: Pralhad Joshi on Karnataka suspending 2 teachers over RSS marchUnion Minister Pralhad Joshi accused the Karnataka government of targeting two teachers suspended for participating in an RSS march. He said the move was vindictive and legally untenable."
+      "url": "https://www.indiatoday.in/mood-of-the-nation/story/cjp-abhijeet-dipke-pm-choice-aap-arvind-kejriwal-mood-of-the-nation-suvey-2981725-2026-08-28",
+      "headline": "CJP's Dipke beats ex-boss Kejriwal on list of preferred PM: MOTN surveyCockroach Janta Party (CJP) founder and Convenor Abhijeet Dipke is ahead of AAP chief Arvind Kejriwal as the preferred choice for Prime Minister, reveals the latest India Today-CVoter Mood of the Nation (MOTN) survey. Dipke was earlier associated with the AAP."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-elections-bjp-challenge-upper-castes-ugc-reservation-motn-survey-2981750-2026-08-28",
-      "headline": "Not Gen Z, BJP faces a bigger worry ahead of UP polls, shows MOTNThe latest Mood of the Nation (MOTN) survey predicts a tougher road ahead for the BJP in Uttar Pradesh, which goes to assembly polls next year. Experts said the bigger worry for the BJP may not be the Gen Z, but the generation that raised them. Here's why."
+      "url": "https://www.indiatoday.in/india/karnataka/story/targeted-because-im-dalit-b-nagendra-to-step-down-as-karnataka-minister-amid-corruption-allegations-2982024-2026-08-28",
+      "headline": "In tears, Karnataka minister quits once again over scam allegationsCongress leader B Nagendra has once again resigned from the Karnataka Cabinet amid the controversy over his alleged involvement in the Valmiki Corporation scam case."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/assam-doctor-dies-after-collapsing-during-gym-workout-in-nagaon-2981995-2026-08-28",
-      "headline": "Video: Assam doctor, 47, collapses during gym workout, diesThe incident has again brought attention to sudden deaths during or immediately after exercise, particularly among relatively young people."
+      "url": "https://www.indiatoday.in/education-today/news/story/5-iim-lucknow-friends-reunite-after-34-years-recreate-1992-hostel-photograph-2981412-2026-08-28",
+      "headline": "One friend came home from Sydney. And 34 years later, five IIM friends met againWhen Ajay Varma came to Delhi from Sydney, Manish Maheshwari saw a chance to bring five old IIM Lucknow hostel mates together. A WhatsApp group, one 'White House' reunion and a recreated 1992 photograph later, 34 years seemed to disappear."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/6-year-old-bhubaneswar-girl-holds-2-guinness-world-records-for-book-and-tedx-talk-2981855-2026-08-28",
-      "headline": "6-year-old Bhubaneswar girl holds 2 Guinness World Records for book and TEDx talkAt just 4, Bhubaneswar's Anvi Vishesh Agrawal published a bilingual book about children's \"big emotions\". Now 6, she holds two Guinness World Records as the youngest female person to publish a bilingual book and deliver a TEDx talk. Her journey began with a simple realisation: emotions are okay."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-assembly-cm-vijay-breaks-seating-tradition-sits-with-ministers-2981683-2026-08-28",
+      "headline": "In a first, Vijay ditches his CM chair, sits with ministers in Tamil Nadu AssemblyChief Minister C Joseph Vijay moved from his designated chair and sat beside ministers in the Tamil Nadu Assembly. The unusual shift came amid a discussion on officials' presence in the House and broke with established seating practice."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/nepal-tobet-china-disaster-himalayas-62-dams-banqiao-failed-beijing-hid-death-toll-2981479-2026-08-28",
-      "headline": "62 dams crashed in China in one night. Beijing hid 2 lakh deaths for 20 yearsChina reportedly didn't provide early warning to Nepal about the flash floods in the Bhote Koshi-Trishuli river system, which has killed hundreds. In 1975, China hid the news of the collapse of the Banqiao Iron Dam and 61 other dams on a single night, that drowned 26,000 people and led to the deaths of 2.3 lakh more."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/nepal-flash-flood-death-rescue-ops-tibet-dam-lake-overflow-burst-china-india-missing-2981747-2026-08-28",
-      "headline": "Overflowing lake on Tibet border keeps flood-hit Nepal on edge; toll rises to 587Rescue operations have been suspended in Tibet as a lake formed by glacial debris began overflowing, raising fears of a second flood in Nepal even as teams race to find 1,468 missing people after destructive flash flooding killed hundreds."
+      "url": "https://www.indiatoday.in/world/story/us-embassies-middle-east-diplomats-families-return-after-iran-war-restrictions-ease-ptag-2982216-2026-08-29",
+      "headline": "US diplomats begin phased return to Middle East embassies after Iran war exodusAmerican diplomats and some family members are returning to several US embassies in the Middle East. The phased move reflects expiring evacuation rules and a new staffing system rather than any softer Iran policy."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/nta-releases-ugc-net-2026-final-answer-keys-for-84-subjects-at-ugcnetntanicin-2982109-2026-08-28",
-      "headline": "UGC-NET 2026 final answer keys released for 84 subjectsThe National Testing Agency has released the UGC-NET 2026 final answer keys for 84 subjects. The keys, prepared after reviewing objections to the provisional answers, will guide evaluation ahead of the result and scorecard."
+      "url": "https://www.indiatoday.in/world/story/mohan-bhagwat-visits-iskcon-new-york-temple-joins-100000th-meal-drive-2982219-2026-08-29",
+      "headline": "Mohan Bhagwat visits New York ISKCON temple, stresses Krishna consciousnessMohan Bhagwat visited ISKCON's founding New York temple and joined its 100,000th meal distribution for homeless people. Leaders from the RSS and ISKCON said the visit highlighted cooperation on peace and Krishna consciousness."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-javelin-antitank-missile-system-us-envoy-sergio-gor-2981783-2026-08-28",
-      "headline": "India sets sights on US Javelin anti-tank missile system. What is it?One of the most famous anti-tank weapons in the world, the Javelin missile system uses fire-and-forget technology. It will be a potent addition to India's arsenal after last year's Operation Sindoor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/mumbai-milk-to-cost-rs-102-per-litre-from-september-1-after-rs-9-price-hike-ahead-of-festive-season-2982047-2026-08-28",
-      "headline": "Mumbai milk prices to rise by Rs 9 from September 1 ahead of festive seasonMumbai milk producers have raised tabela milk prices by Rs 9 per litre from September 1, 2026. The increase, ahead of the festive season, is linked to higher cattle, feed and fodder costs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/imran-khan-health-pat-cummins-backs-medical-care-family-access-2981916-2026-08-28",
-      "headline": "Treat Imran Khan with dignity: Pat Cummins joins Sunil Gavaskar, Kapil Dev in pleaAustralia captain Pat Cummins has backed Greg Chappell's concerns over Imran Khan's health, calling for the former Pakistan captain to be treated with dignity and given proper medical care and family access."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-clarifies-drama-remark-on-nepal-flash-floods-backlash-ptag-2981726-2026-08-28",
-      "headline": "Shashi Tharoor's vocab lesson amid flak over 'drama' remark on Nepal floodsA single word sparked backlash against Shashi Tharoor over his Nepal flood post. The Congress leader has now explained why he used \"drama\" and admitted he regretted the choice."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/alliance-air-flight-suffers-tyre-burst-while-landing-at-bilaspur-airport-in-chhattisgarh-all-41-onboard-safe-2982005-2026-08-28",
-      "headline": "Alliance Air flight's tyre bursts on landing in Chhattisgarh, all 41 onboard safeFlight 9I613, operated by Alliance Air, was carrying 37 passengers and four crew members when the incident occurred at around 11 am, according to an official."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-couple-arrested-pak-isi-spy-case-indian-sim-cards-pakistan-2981670-2026-08-28",
-      "headline": "Delhi couple arrested for spying for Pak's ISI, sent SIM cards, sensitive infoThe Special Cell said an ISI-backed espionage network used a Delhi couple to supply Indian SIM cards, recruit operatives and gather sensitive information, with police tracing links to handlers in Pakistan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/anaya-bangar-cricket-australia-wbbl-marizanne-kapp-2981820-2026-08-28",
-      "headline": "Marizanne Kapp slams inclusion of Anaya Banger in WBBL: Absolutely ridiculousMarizanne Kapp has criticised Cricket Australia's decision to clear Anaya Bangar to play the WBBL, calling the move \"absolutely ridiculous\". Kapp is not in favour of Anaya, a transgender woman, playing in the women's league."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/nta-appoints-2-directors-and-joint-director-as-centre-overhauls-exam-system-2981939-2026-08-28",
-      "headline": "NTA gets 2 directors, joint director as Centre reshapes exam agency after NEET rowThe Centre has appointed two directors and a joint director to the National Testing Agency amid continuing scrutiny over NEET and other examinations. The appointments come as the government prepares a major overhaul of NTA's examination system, including a new four-tier paper checking process and changes to its expert panel."
+      "url": "https://www.indiatoday.in/world/story/milo-yiannopoulos-ice-detention-us-deportation-new-orleans-2982222-2026-08-29",
+      "headline": "British far-right commentator Milo Yiannopoulos detained over US immigration statusUS immigration authorities detained Milo Yiannopoulos in New Orleans and moved to deport him. The case carries added scrutiny because he had publicly backed tougher immigration crackdowns."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-india-vs-belgium-shootout-report-harmanpreet-singh-amstelveen-2982209-2026-08-28",
+      "headline": "India men finish Hockey WC campaign in 8th after shootout heartbreak to Belgium The Indian men's team ended their hockey World Cup 2026 with a heartbreaking 3-4 shootout loss to Belgium on Friday, August 28."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-pakistan-second-test-pakistan-collapse-for-110-as-england-lead-by-261-at-lords-2982202-2026-08-28",
+      "headline": "Pakistan endure another batting collapse as England dominate Lord's Test England bowled Pakistan out for 110 after their tail took the first-innings total to 290 at Lord's. That collapse left the hosts 261 ahead by stumps and Pakistan under severe pressure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/anaya-bangar-marizanne-kapp-wbbl-criticism-cricket-australia-clearance-2982182-2026-08-28",
+      "headline": "Educate yourself: Anaya Bangar slams Marizanne Kapp criticism of playing in WBBL Anaya Bangar has hit back at Marizanne Kapp's criticism of her possible path to the WBBL. Anaya said that people need to educate themselves about the topic before speaking on it."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/namibia-beat-south-africa-t20i-tri-series-windhoek-broadcast-disruption-2982173-2026-08-28",
+      "headline": "Namibia stun South Africa, but broadcast controversy overshadows tri-series opener Namibia defeated South Africa by 18 runs in Windhoek to secure their second successive T20I win over the Proteas. Jan Frylinck, Ruben Trumpelmann, and Jonathan Smit starred for Namibia, while Dewald Brevis' 75 went in vain amid a SuperSport broadcast disruption."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/indian-womens-hockey-team-rs-50-lakh-reward-historic-fifth-world-cup-hi-2982154-2026-08-28",
@@ -359,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/imran-khan-health-pat-cummins-backs-medical-care-family-access-2981916-2026-08-28",
-      "headline": "Treat Imran Khan with dignity: Pat Cummins joins Sunil Gavaskar, Kapil Dev in plea Australia captain Pat Cummins has backed Greg Chappell's concerns over Imran Khan's health, calling for the former Pakistan captain to be treated with dignity and given proper medical care and family access."
+      "headline": "Treat Imran Khan with dignity: Pat Cummins joins Sunil Gavaskar, Kapil Dev in pleaAustralia captain Pat Cummins has backed Greg Chappell's concerns over Imran Khan's health, calling for the former Pakistan captain to be treated with dignity and given proper medical care and family access."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/premier-league-buzz-tottenham-seek-unity-zirkzee-nears-manchester-united-exit-2981900-2026-08-28",
-      "headline": "Premier League buzz: Spurs looking for unity, Zirkzee out of Manchester United? Tottenham head into the weekend under pressure to turn expensive talent into a functioning side, while Joshua Zirkzee edges towards an exit from Manchester United. Around them, Villa are wobbling, Liverpool still want reinforcements and the early Premier League noise already says plenty about squad-building and judgement."
+      "headline": "Premier League buzz: Spurs looking for unity, Zirkzee out of Manchester United?Tottenham head into the weekend under pressure to turn expensive talent into a functioning side, while Joshua Zirkzee edges towards an exit from Manchester United. Around them, Villa are wobbling, Liverpool still want reinforcements and the early Premier League noise already says plenty about squad-building and judgement."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/alexandra-eala-us-open-filipino-star-gets-surprise-fan-proposal-in-new-york-2981872-2026-08-28",
-      "headline": "Alexandra Eala gets surprise proposal from fan, right in front of her father Alexandra Eala received a hilarious surprise proposal from a fan armed with a candy ring during a visit to a Nike store in New York, right in front of her father. The Filipino star now turns her attention to the US Open after recently making history by winning her maiden WTA 500 title."
+      "headline": "Alexandra Eala gets surprise proposal from fan, right in front of her fatherAlexandra Eala received a hilarious surprise proposal from a fan armed with a candy ring during a visit to a Nike store in New York, right in front of her father. The Filipino star now turns her attention to the US Open after recently making history by winning her maiden WTA 500 title."
     },
     {
       "sentiment": "positive",
@@ -450,26 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/champions-league-2026-27-full-draw-psg-madrid-bayern-manchester-asenal-2981540-2026-08-27",
       "headline": "PSG to meet Barcelona, Manchester United face Bayern Munich in league stageChampions League: Paris Saint-Germain and Real Madrid have been handed blockbuster fixtures in the 2026-27 league phase, with the defending champions drawn against Barcelona and Manchester City, while the record 15-time winners will face Arsenal and Inter Milan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/india-women-sjoerd-marijne-fifth-hockey-world-cup-win-over-germany-2981535-2026-08-27",
-      "headline": "Chak De: Sjoerd Marijne proud as India women cap Hockey World Cup campaign in styleSjoerd Marijne celebrated India women's historic fifth-place finish at the Hockey World Cup with a spirited \"Chak De India\" after their 3-1 victory over Germany. The Dutch coach praised his young side's achievement while stressing the need for greater consistency ahead of the Asian Games."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-asia-cup-harmanpreet-kaur-asian-teams-improve-2981507-2026-08-27",
-      "headline": "Harmanpreet Kaur expects competitive Asia Cup with Asian teams improving rapidlyIndia captain Harmanpreet Kaur said on Thursday that her team will not single out any opponent at the Women's T20 Asia Cup, with the focus instead on playing good cricket as Asian teams continue to improve."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2026-draw-carlos-alcaraz-novak-djokovic-aryna-sabalenka-2981500-2026-08-27",
-      "headline": "Carlos Alcaraz, Novak Djokovic in same half as US Open announces singles drawCarlos Alcaraz and Novak Djokovic have landed in the same half of the 2026 US Open draw, setting up the possibility of a blockbuster semi-final clash. Aryna Sabalenka begins her bid for a historic three-peat, with Elena Rybakina, Coco Gauff and Iga Swiatek among the leading challengers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-eyes-india-comeback-hard-work-statement-2981477-2026-08-27",
-      "headline": "Suryakumar Yadav hopeful of India comeback: Putting in all the hard workFormer India T20I captain Suryakumar Yadav, who has lost his spot in the national side, said on Thursday that he is putting in all the hard work and hoping things fall into place in the future."
     }
   ],
   "education": [
