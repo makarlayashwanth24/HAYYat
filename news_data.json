@@ -200,14 +200,14 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-strikes-irans-larak-island-over-hormuz-mine-threat-irgc-vows-response-to-attack-state-broadcaster-2983283-2026-08-31",
+      "headline": "Iran retaliates against US forces in Jordan after attack on Larak Island launchersUS forces targeted two Iranian launchers on Larak Island after IRGC forces were seen preparing to launch rockets carrying sea mines into the Strait of Hormuz."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/nepal-flash-flood-77-isha-foundation-pilgrims-missing-near-tibet-border-2983167-2026-08-30",
       "headline": "Wish we went later: Sadhguru on tragic timing of missing Isha Foundation pilgrimsSadhguru said his Kailash pilgrimage group was at Gyirong immigration centre when the flash flood hit. With 77 Isha Foundation pilgrims still unaccounted for, rescue efforts remain urgent amid severed links."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-strikes-irans-larak-island-over-hormuz-mine-threat-irgc-vows-response-to-attack-state-broadcaster-2983283-2026-08-31",
-      "headline": "US strikes Iran's Larak Island over Hormuz mine threat, Tehran vows retaliationThe strike marks the first known US attack inside Iran since late July, when President Donald Trump halted a two-week American military campaign linked to the strait. The latest action has drawn an immediate threat of retaliation from Iran's Islamic Revolutionary Guard Corps (IRGC)."
     },
     {
       "sentiment": "positive",
@@ -236,8 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brij-bhushan-sharan-singh-women-wrestlers-allegations-haryana-remarks-2983245-2026-08-30",
-      "headline": "Not angry with wrestlers, their allegations made me a hero: Brij Bhushan SinghSeveral women wrestlers had accused Brij Bhushan of sexual harassment in 2023, triggering months-long protests by some of India's top wrestlers. A Delhi court acquitted him in the case earlier this month, though the wrestlers have said they will challenge the verdict."
+      "url": "https://www.indiatoday.in/india/story/bsf-seizes-15-6-kg-gold-worth-rs-25-crore-woman-detained-near-bengal-bangladesh-border-2982969-2026-08-30",
+      "headline": "15.6 kg of gold worth Rs 25 crore seized from woman near Bengal-Bangladesh borderBSF personnel detained a woman in Nadia's Banpur border area after a prolonged vigil and recovered 15.607 kg of gold from her. The seizure has triggered a wider probe into the source, recipient and possible cross-border smuggling network."
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/karnataka-minister-basavaraj-rayareddi-islam-remark-bjp-backlash-ptag-2983230-2026-08-30",
-      "headline": "Karnataka minister's 'Islam great religion' remark sparks BJP backlashKarnataka minister Basavaraj Rayareddi praised Islam at a mass marriage programme in Koppal. The remarks triggered a BJP attack, with R Ashoka demanding an apology and removal from the Cabinet."
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-wants-fcc-action-on-nbc-kristen-welker-dig-at-his-endorsement-record-2983284-2026-08-31",
+      "headline": "Trump wants US journo 'punished' after two-word dig at his endorsement recordDonald Trump has demanded possible FCC action after NBC's Kristen Welker described his endorsement record as having mixed results. The row has sharpened questions over media scrutiny, broadcast regulation and the limits of FCC authority."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/brij-bhushan-sharan-singh-women-wrestlers-allegations-haryana-remarks-2983245-2026-08-30",
+      "headline": "Not angry with wrestlers, their allegations made me a hero: Brij Bhushan SinghSeveral women wrestlers had accused Brij Bhushan of sexual harassment in 2023, triggering months-long protests by some of India's top wrestlers. A Delhi court acquitted him in the case earlier this month, though the wrestlers have said they will challenge the verdict."
     },
     {
       "sentiment": "positive",
@@ -256,18 +261,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-thailand-womens-asia-cup-deepti-sharma-shafali-verma-2983250-2026-08-30",
-      "headline": "India survive batting wobble to edge spirited Thailand in Women's Asia CupIndia opened their Women's Asia Cup campaign with a 94-run win over Thailand, despite another batting collapse after a flying start. Shafali Verma starred with the bat, while Deepti Sharma's landmark 150th T20I and record-breaking bowling performance headlined India's dominant victory."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sunday-special/story/why-global-brands-india-differ-uk-us-products-cost-rules-taste-fmcg-fanta-coca-cola-nestle-2981877-2026-08-30",
       "headline": "Why global brands taste and feel different in IndiaIndian consumers are discovering that global food, drink and personal care brands often sell different formulations here. Fanta tastes sweeter and the formula of Head & Shoulders is different. Here's why products by the same brands taste, smell and feel different in India and abroad."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/turkey-saudi-arabia-pakistan-mecca-defence-pact-istanbul-meeting-2983011-2026-08-30",
-      "headline": "Turkey, Saudi Arabia, Pakistan set to hold first defence talks under Mecca pactThe meeting comes six months after the United States and Israel launched the war against Iran, which has disrupted energy supplies and contributed to a global energy crisis."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/karnataka-minister-basavaraj-rayareddi-islam-remark-bjp-backlash-ptag-2983230-2026-08-30",
+      "headline": "Karnataka minister's 'Islam great religion' remark sparks BJP backlashKarnataka minister Basavaraj Rayareddi praised Islam at a mass marriage programme in Koppal. The remarks triggered a BJP attack, with R Ashoka demanding an apology and removal from the Cabinet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-thailand-womens-asia-cup-deepti-sharma-shafali-verma-2983250-2026-08-30",
+      "headline": "India survive batting wobble to edge spirited Thailand in Women's Asia CupIndia opened their Women's Asia Cup campaign with a 94-run win over Thailand, despite another batting collapse after a flying start. Shafali Verma starred with the bat, while Deepti Sharma's landmark 150th T20I and record-breaking bowling performance headlined India's dominant victory."
     },
     {
       "sentiment": "positive",
@@ -276,13 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ravi-kishan-says-gorakhpur-feels-like-spain-yogi-adityanath-laughs-2983272-2026-08-31",
-      "headline": "Gorakhpur feels like Spain: Ravi Kishan's remark leaves Yogi Adityanath in splitsSpeaking at a public event in Gorakhpur, Ravi Kishan said the city felt like Spain. The remark, made before Yogi Adityanath, triggered laughter and quickly spread on social media."
+      "url": "https://www.indiatoday.in/education-today/news/story/airbound-drone-startup-raises-37-million-series-a-greenoaks-2982932-2026-08-30",
+      "headline": "How a Bengaluru teen turned a lockdown drone project into a $37 million startupAirbound has raised $37 million in a Series A led by Greenoaks as founder Naman Pushp expands drone logistics. The journey that started with lockdown when a young boy, out of boredom, chose to build a drone is now making headlines."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/airbound-drone-startup-raises-37-million-series-a-greenoaks-2982932-2026-08-30",
-      "headline": "How a Bengaluru teen turned a lockdown drone project into a $37 million startupAirbound has raised $37 million in a Series A led by Greenoaks as founder Naman Pushp expands drone logistics. The journey that started with lockdown when a young boy, out of boredom, chose to build a drone is now making headlines."
+      "url": "https://www.indiatoday.in/india/story/ravi-kishan-says-gorakhpur-feels-like-spain-yogi-adityanath-laughs-2983272-2026-08-31",
+      "headline": "Gorakhpur feels like Spain: Ravi Kishan's remark leaves Yogi Adityanath in splitsSpeaking at a public event in Gorakhpur, Ravi Kishan said the city felt like Spain. The remark, made before Yogi Adityanath, triggered laughter and quickly spread on social media."
     },
     {
       "sentiment": "negative",
@@ -296,23 +301,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-honest-officers-quitting-up-over-corruption-2983100-2026-08-30",
-      "headline": "Honest officers quitting jobs due to corruption in UP, says Akhilesh YadavAkhilesh Yadav accused the Uttar Pradesh government of corruption and said honest officers were being blocked from working. He linked the charge to Divya Mittal's resignation and widened his attack to law and order, public assets and jobs."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/bengaluru-woman-says-corporate-life-is-school-with-salaries-exams-every-monday-2982895-2026-08-30",
       "headline": "Bengaluru woman says corporate life is school with salaries, exams every MondayAn Instagram video by a Bengaluru-based professional likened corporate life to an endless school examination. Her account of pending work, weekend anxiety and last-minute panic resonated with many viewers online."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-amir-british-citizenship-ends-pakistan-cricket-return-2983107-2026-08-30",
-      "headline": "Mohammad Amir confirms his Pakistan chapter is closed: I am a British local nowMohammad Amir has confirmed that his Pakistan cricket chapter is closed after becoming a British citizen and gaining local-player status in England. The former Pakistan pacer remains open to playing in the PSL as a foreign player while continuing his career in English domestic cricket."
+      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-honest-officers-quitting-up-over-corruption-2983100-2026-08-30",
+      "headline": "Honest officers quitting jobs due to corruption in UP, says Akhilesh YadavAkhilesh Yadav accused the Uttar Pradesh government of corruption and said honest officers were being blocked from working. He linked the charge to Divya Mittal's resignation and widened his attack to law and order, public assets and jobs."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/india-uzbekistan-comprehensive-strategic-partnership-uranium-supply-modi-mirziyoyev-ptag-2982934-2026-08-30",
-      "headline": "India and Uzbekistan elevate strategic ties, plan long-term uranium supplyPrime Minister Narendra Modi announced the decision after talks with Uzbek President Shavkat Mirziyoyev. The move coincides with the 15th anniversary of the strategic partnership between the two countries."
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-amir-british-citizenship-ends-pakistan-cricket-return-2983107-2026-08-30",
+      "headline": "Mohammad Amir confirms his Pakistan chapter is closed: I am a British local nowMohammad Amir has confirmed that his Pakistan cricket chapter is closed after becoming a British citizen and gaining local-player status in England. The former Pakistan pacer remains open to playing in the PSL as a foreign player while continuing his career in English domestic cricket."
     },
     {
       "sentiment": "positive",
