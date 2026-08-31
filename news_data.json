@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-280-points-lower-nifty-tops-24000-hdfc-bank-up-2-2983368-2026-08-31",
+      "headline": "Sensex opens 280 points lower, Nifty tops 24,000; HDFC Bank up 2%The BSE Sensex fell 224.04 points, or 0.29%, to 77,040.47, while the Nifty 50 declined 110.85 points, or 0.46%, to 24,064.80 as of 9:25 a.m. The Sensex opened at 77,130.73, while the Nifty began at 24,117.55."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-opening-today-brent-crude-iran-war-indian-markets-trade-setup-bse-nse-2983360-2026-08-31",
+      "headline": "Will Sensex, Nifty fall today as Iran war escalation pushes crude oil above $90?Markets are set for a cautious start as rising crude prices and renewed US-Iran hostilities weigh on sentiment. MSCI rebalancing and HDFC Bank's looming leadership change could keep trading volatile through the day."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/subhash-chandra-insolvency-essel-guarantees-nclt-plan-2983262-2026-08-31",
       "headline": "My borrowing is zero: Subhash Chandra clarifies on Rs 22,000-crore caseThe controversy pertains to an NCLT order approving a resolution plan under which Subhash Chandra would pay around Rs 6.5 crore against admitted claims of approximately Rs 22,006 crore."
     },
@@ -89,19 +99,49 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/ai-cybersecurity-agentic-ai-enterprise-business-security-aisdr-2981650-2026-08-28",
       "headline": "Companies are giving AI more control. Is cybersecurity ready for it?Companies are giving AI systems greater access to enterprise identities, data and tools. That is pushing cybersecurity teams to track AI behaviour, intent and actions in context."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-holiday-today-nse-bse-open-close-on-raksha-bandhan-august-28-2026-2981641-2026-08-28",
-      "headline": "Stock market holiday today: Are NSE, BSE closed on Raksha Bandhan? Check hereStock exchanges will remain open on August 28 despite Raksha Bandhan. The regular trading schedule also applies to commodity markets, with the next holiday due on September 14."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-canada-remittances-easier-payments-indian-students-sitharaman-champagne-2981551-2026-08-27",
-      "headline": "India, Canada explore easier cross-border remittances for 4 lakh studentsIndia and Canada are working to ease cross-border remittances and payments, potentially benefiting more than four lakh Indian students in Canada and their families in India. The issue was discussed at the inaugural Economic and Financial Dialogue in Toronto between Finance Minister Nirmala Sitharaman and Canadian Finance Minister Francois-Philippe Champagne, with further talks planned."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-raj-nidimoru-fans-have-baby-names-ready-for-them-actor-reply-is-gold-2983362-2026-08-31",
+      "headline": "Samantha and Raj's fans have baby names ready for them. Actor's reply is gold Samantha Ruth Prabhu laughed off a fan's 'Samraj' baby-name suggestion after sharing new pregnancy photos. The actor and her filmmaker, husband Raj Nidimoru, are expecting their first child in December."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-collection-rs-10-lakh-opening-nears-rs-50-crore-gross-2983347-2026-08-31",
+      "headline": "Rs 10 lakh on Day 1, Rs 47 crore in 24 days: Hanuman Ansh's wild box office run Director Vishal Chaturvedi's devotional film, Hanuman Ansh, has surged from a Rs 10 lakh opening to Rs 47.33 crore India gross in 24 days. The late turnaround, driven by word of mouth, has turned the devotional drama into a sleeper hit."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/manasi-parekh-returns-mumbai-after-landslides-during-kailash-mansarovar-trip-2983353-2026-08-31",
+      "headline": "Actor Manasi Parekh returns home safely after Nepal floods, shares ordeal Actor Manasi Parekh has safely returned to Mumbai after a harrowing journey through flood-affected areas in Tibet and Nepal during her Kailash Mansarovar pilgrimage with Sadhguru's Isha Foundation. She shared her emotional ordeal and gratitude for the support received while many others remain missing in the devastating flash floods."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sonam-wangchuk-cheeky-response-to-salman-khans-viral-its-done-bro-remark-2983317-2026-08-31",
+      "headline": "Sonam Wangchuk has a cheeky response to Salman Khan's viral 'it's done bro' remark Remember Salman Khan's 'Sonam, it's done bro' moment? Sonam Wangchuk has now responded to the actor's viral remark, bringing the much-discussed exchange back into the spotlight."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/irumudi-box-office-collection-day-10-ravi-teja-first-150-crore-worldwide-grosser-2983325-2026-08-31",
+      "headline": "Ravi Teja, Tollywood's Mass Maharaja, scores first Rs 150-crore grosser with Irumudi Telugu cinema's Mass Maharaja Ravi Teja's Irumudi crossed the Rs 150-crore mark worldwide within 10 days and reached an estimated Rs 170.95 crore after Day 10. The film's steady second-week run marks a major box-office comeback for the actor."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/daboo-malik-backs-son-amaal-mallik-amid-awarapan-2-row-says-negativity-was-spread-2983294-2026-08-31",
+      "headline": "Daboo Malik backs son Amaal amid Awarapan 2 row, says negativity was spread Daboo Malik has publicly backed son Amaal Mallik after the controversy over Yeh Awarapan from Awarapan 2. His post follows online criticism, Amaal's paid PR claim and his decision to take a temporary break from film music."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/rajkumar-santoshi-counters-shabana-azmi-batwara-1947-flop-sunny-deol-muslim-hero-2983291-2026-08-31",
+      "headline": "Rajkumar Santoshi rejects Shabana Azmi's theory that Batwara failed over Muslim hero Rajkumar Santoshi has rejected Shabana Azmi's claim that Batwara 1947 failed because Sunny Deol plays a Muslim character. Their exchange has renewed focus on audience confusion, faith and the film's weak box office run."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-box-office-collection-day-5-yash-film-nears-rs-300-crore-worldwide-despite-slide-2983290-2026-08-31",
+      "headline": "Toxic box office Day 5: Rs 300 crore in sight, but Yash film loses steam Yash's Toxic: A Fairy Tale For Grown-Ups is nearing Rs 300 crore worldwide after five days, even as its first Sunday saw its lowest India nett collection so far."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-nick-jonas-backstreet-boys-sphere-las-vegas-2983249-2026-08-30",
@@ -156,73 +196,48 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sonam-wangchuk-hits-back-at-aamir-khans-never-met-claim-with-witty-ghajini-jibe-2982866-2026-08-30",
       "headline": "Sonam Wangchuk hits back at Aamir Khan's 'never met' claim with witty Ghajini jibe Activist Sonam Wangchuk has said that he and actor Aamir Khan had met and discussed ideas before 3 Idiots. His Ghajini quip revived the dispute over whether that exchange influenced Phunsuk Wangdu."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/atif-aslam-sings-doorie-from-car-sunroof-after-fans-spot-him-during-late-night-drive-2982838-2026-08-30",
-      "headline": "Atif Aslam sings Doorie from car sunroof after fans spot him during late-night drive Pakistani singer Atif Aslam joined fans in singing Doorie after they spotted him in traffic late at night. The brief roadside jam has gone viral, with social media users reacting to his surprise gesture."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/manoj-bajpayee-addresses-samay-rainas-bihari-joke-asks-people-not-to-take-offence-2982814-2026-08-30",
-      "headline": "Manoj Bajpayee addresses Samay Raina's Bihari joke, asks people not to take offence Actor Manoj Bajpayee reacted to standup comedian Samay Raina India's Got Latent 2 Bihari joke row while promoting his upcoming film Last Man in Tower. He reflected on humour while maintaining mutual respect and not causing offence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rishab-shetty-praises-yash-for-daring-experiment-as-toxic-faces-criticism-2982798-2026-08-30",
-      "headline": "Rishab Shetty praises Yash for 'daring experiment' as Toxic faces criticism Actor-director Rishab Shetty has backed Yash and Toxic: A Fairy Tale For Grown-Ups after the film drew mixed reactions following its August 26 release. He called it a daring experiment and praised Yash for pushing Kannada cinema towards a global stage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-box-office-day-4-yashs-film-hits-rs-254-crore-worldwide-amid-trolling-2982784-2026-08-30",
-      "headline": "Toxic box office Day 4: Yash's film hits Rs 254 crore worldwide amid trolling The mixed reactions surrounding the violent themes and portrayal of female characters in Yash's Toxic: A Fairy Tale For Grown-Ups has done little to stop its worldwide collection from crossing Rs 254 crore. A glimpse at the Day 4 earnings as the gangster film continues its steady run at the box office."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/days-of-thunder-sequel-tom-cruise-anne-hathaway-summer-2028-release-2982745-2026-08-29",
-      "headline": "Tom Cruise announces Days of Thunder sequel with Anne Hathaway after 38 years Actor Tom Cruise has announced a Days of Thunder sequel and confirmed Anne Hathaway will join the film."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kuku-kohli-prayer-meet-vicky-kaushal-katrina-kaif-anil-kapoor-mumbai-2982710-2026-08-29",
-      "headline": "Kuku Kohli prayer meet: Vicky-Katrina, Asha Parekh, Anil Kapoor pay tribute Film industry members gathered in Mumbai for filmmaker Kuku Kohli's prayer meet. Stars like Vicky Kaushal, Katrina Kaif, Anil Kapoor and others offered their condolences."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kriti-sanon-raksha-bandhan-ad-row-giva-says-commercial-was-withdrawn-over-staff-safety-2982667-2026-08-29",
-      "headline": "Jewellery brand stands by Kriti Sanon and Rakhi campaign, explains why it pulled ad The jewellery brand endorsed by actor Kriti Sanon has withdrawn its Raksha Bandhan ad amid tensions surrounding some of its stores. Brand founder Ishendra Agarwal said the decision was taken after the situation raised safety concerns for employees working at the affected stores."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/the-last-salute-review-an-old-warhorse-mig-21-gets-a-moving-final-salute-2982028-2026-08-29",
-      "headline": "The Last Salute review: An old warhorse, MiG-21 gets a moving final saluteRelease Date:Wed Aug 26, 2026 The Last Salute review: The Last Salute follows the MiG-21's final days in service through pilots' memories and its Chandigarh farewell. The documentary is heartfelt and revealing, but its soft handling of the jet's crash record leaves its legacy only partly examined."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-strikes-irans-larak-island-over-hormuz-mine-threat-irgc-vows-response-to-attack-state-broadcaster-2983283-2026-08-31",
-      "headline": "Iran retaliates against US forces in Jordan after attack on Larak Island launchersUS forces targeted two Iranian launchers on Larak Island after IRGC forces were seen preparing to launch rockets carrying sea mines into the Strait of Hormuz."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/nepal-flash-flood-77-isha-foundation-pilgrims-missing-near-tibet-border-2983167-2026-08-30",
-      "headline": "Wish we went later: Sadhguru on tragic timing of missing Isha Foundation pilgrimsSadhguru said his Kailash pilgrimage group was at Gyirong immigration centre when the flash flood hit. With 77 Isha Foundation pilgrims still unaccounted for, rescue efforts remain urgent amid severed links."
+      "url": "https://www.indiatoday.in/india/story/nepal-flash-floods-toll-rescue-hydropower-tunnels-trapped-tibet-xi-jinping-china-river-water-level-missing-2983412-2026-08-31",
+      "headline": "Nepal flood toll jumps to 903, race to free hundreds trapped in hydropower tunnelsNepal's flood and mudslide death toll has risen to 903, with over 2,500 people missing. Indian, Chinese and Nepali rescue teams are searching hydropower tunnels for trapped workers, while China's Xi Jinping has ordered intensified efforts to find survivors."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-owaisi-aimim-sp-pda-up-politics-2982890-2026-08-30",
-      "headline": "Want to become UP CM? Bring Asaduddin Owaisi: AIMIM to Akhilesh YadavAIMIM leader Shadab Chauhan said Akhilesh Yadav would need Asaduddin Owaisi's support to become Uttar Pradesh chief minister. His remarks sharpen the contest among Opposition parties over minority and backward-caste votes in the state."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-open-to-makkah-joint-defence-agreement-says-other-ties-wont-be-hit-ptag-2983238-2026-08-30",
+      "headline": "Bangladesh sees 'no risk' in joining Mecca Pact: Muslim family's internal matterBangladesh says it would positively consider joining the Mecca Joint Defence Agreement if invited. The statement came days after Foreign Minister Khalilur Rahman told Parliament that Bangladesh would positively consider joining the pact if invited, and said it was an internal matter of \"our Muslim family\" with no scope for others to be concerned about it."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/nepal-sought-glacier-data-from-china-before-deadly-nepal-tibet-border-flash-floods-2983307-2026-08-31",
+      "headline": "Nepal saw the risk, sought early warning from China. Disaster struck weeks laterNepal sought more data from China on glacier movements, water levels and extreme events three months before flash floods ravaged its border with Tibet. Beijing said it had shared information in a timely manner, as Kathmandu now seeks more frequent warnings to prepare for future disasters."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-vomits-cries-first-round-exit-navone-2983371-2026-08-31",
+      "headline": "Novak Djokovic loses in Round 1, cries on court before shock exitUS Open: Novak Djokovic's US Open campaign ended in a gruelling five-set defeat to Mariano Navone. The 39-year-old battled heat, illness and exhaustion before breaking down in tears as the Argentine pulled away in the deciding set."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/dimple-yadav-akhilesh-yadav-sp-samajwadi-party-2027-strategy-women-voters-uttar-pradesh-yogi-adityanath-2982390-2026-08-31",
+      "headline": "Why Dimple Yadav could be Akhilesh's biggest weapon against BJP in 2027 UP pollsTo counter allegations of dynastic politics, Samajwadi Party leader Akhilesh Yadav once pledged that his wife Dimple Yadav would not contest another election. Nine years later, Mainpuri MP Dimple is not only in the political game, she is playing a crucial role. Can Dimple become Akhilesh's ace in 2027?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/asaduddin-owaisi-reactc-pm-modi-uzbekistan-award-babur-sangh-parivar-bjp-2983295-2026-08-31",
+      "headline": "Very country Babur came from: Owaisi jabs BJP over PM Modi's Uzbekistan honourOwaisi questioned the Sangh Parivar's repeated references to Babur, urging its supporters to reconsider invoking the Mughal emperor after Uzbekistan, his place of origin, honoured PM Modi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/vijay-pm-survey-row-dmk-congress-slam-tvk-vijay-for-pm-prime-minister-pitch-tamil-nadu-2983387-2026-08-31",
+      "headline": "No limit to imagination: DMK, Congress push back against 'Vijay For PM' pitchThe Congress and DMK hit out at the growing 'Vijay for PM in 2029' narrative, while TVK supporters even put up posters backing his 2029 prime ministerial bid."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/venezuela-oil-deal-trump-refill-us-strategic-petroleum-reserve-2983208-2026-08-30",
-      "headline": "Trump turns to Venezuela oil to replenish US reserve at 44-year low, calls it a giftThe announcement links Trump's new Venezuela oil deal directly to efforts to rebuild America's emergency crude stockpile, which has been drawn down sharply amid wars, supply disruptions and efforts to contain fuel prices."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/video/earthmovers-tear-through-debris-as-rescuers-search-for-survivors-in-buried-settlement-2983062-2026-08-30",
-      "headline": "Earthmovers dig through debris for Nepal flood survivors as rescue ops enter day 5In this India Today report, reporter Ashutosh Mishra brings you visuals of earthmovers tearing into damaged buildings as rescuers search for people feared to be trapped under the rubble. Heavy machines are being used to break through walls and clear debris, giving rescue teams access to the badly damaged structures."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-zafarabad-play-school-child-assault-cctv-boy-tied-pocso-fir-case-2983333-2026-08-31",
+      "headline": "Caught on CCTV: 3-year-old tied to chair, slapped at Delhi playschoolThe CCTV footage showed the 3-year-old child allegedly being tied to a chair for hours, slapped and having his ears pulled at a play school in Delhi."
     },
     {
       "sentiment": "positive",
@@ -230,34 +245,44 @@
       "headline": "Just a chapter, not my entire life: Divya Mittal gets candid on why she quit IASDivya Mittal said her resignation from the IAS was a considered personal decision driven by family and priorities. Her remarks cast the move as a transition towards other interests while formal approval remains pending."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/subhash-chandra-insolvency-essel-guarantees-nclt-plan-2983262-2026-08-31",
-      "headline": "My borrowing is zero: Subhash Chandra clarifies on Rs 22,000-crore caseThe controversy pertains to an NCLT order approving a resolution plan under which Subhash Chandra would pay around Rs 6.5 crore against admitted claims of approximately Rs 22,006 crore."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-bus-rape-case-driver-and-conductor-arrested-after-class-11-student-alleges-assault-2983374-2026-08-31",
+      "headline": "Class 11 student gang-raped in sleeper bus in Delhi after being offered a liftA 16-year-old girl was allegedly raped by a bus driver and conductor inside a sleeper bus in Delhi after offering her a lift to Noida. Police have arrested both men, seized the sleeper bus and sent it for a forensic examination."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bsf-seizes-15-6-kg-gold-worth-rs-25-crore-woman-detained-near-bengal-bangladesh-border-2982969-2026-08-30",
-      "headline": "15.6 kg of gold worth Rs 25 crore seized from woman near Bengal-Bangladesh borderBSF personnel detained a woman in Nadia's Banpur border area after a prolonged vigil and recovered 15.607 kg of gold from her. The seizure has triggered a wider probe into the source, recipient and possible cross-border smuggling network."
+      "url": "https://www.indiatoday.in/education-today/news/story/airbound-drone-startup-raises-37-million-series-a-greenoaks-2982932-2026-08-30",
+      "headline": "How a Bengaluru teen turned a lockdown drone project into a $37 million startupAirbound has raised $37 million in a Series A round led by Greenoaks as founder Naman Pushp expands its drone logistics business. What began during lockdown, when a young Naman built a drone out of boredom, has now grown into a headline-making startup."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bilawal-bhutto-zardari-wedding-princess-rumours-ppp-rejects-austria-trip-speculation-2983104-2026-08-30",
-      "headline": "Bilawal Bhutto getting married to princess in Europe? Amid buzz, PPP leader clarifiesThe speculation has gathered pace after Bilawal's father, Pakistan President Asif Ali Zardari, arrived in Austria for a seven-day private visit."
+      "url": "https://www.indiatoday.in/world/story/us-strikes-irans-larak-island-over-hormuz-mine-threat-irgc-vows-response-to-attack-state-broadcaster-2983283-2026-08-31",
+      "headline": "Iran retaliates against US forces in Jordan after attack on Larak Island launchersUS forces targeted two Iranian launchers on Larak Island after IRGC forces were seen preparing to launch rockets carrying sea mines into the Strait of Hormuz. In response, Iran attacked US bases in Jordan with ballistic missiles."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-wants-fcc-action-on-nbc-kristen-welker-dig-at-his-endorsement-record-2983284-2026-08-31",
-      "headline": "Trump wants US journo 'punished' after two-word dig at his endorsement recordDonald Trump has demanded possible FCC action after NBC's Kristen Welker described his endorsement record as having mixed results. The row has sharpened questions over media scrutiny, broadcast regulation and the limits of FCC authority."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-collection-rs-10-lakh-opening-nears-rs-50-crore-gross-2983347-2026-08-31",
+      "headline": "Rs 10 lakh on Day 1, Rs 47 crore in 24 days: Hanuman Ansh's wild box office runDirector Vishal Chaturvedi's devotional film, Hanuman Ansh, has surged from a Rs 10 lakh opening to Rs 47.33 crore India gross in 24 days. The late turnaround, driven by word of mouth, has turned the devotional drama into a sleeper hit."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brij-bhushan-sharan-singh-women-wrestlers-allegations-haryana-remarks-2983245-2026-08-30",
-      "headline": "Not angry with wrestlers, their allegations made me a hero: Brij Bhushan SinghSeveral women wrestlers had accused Brij Bhushan of sexual harassment in 2023, triggering months-long protests by some of India's top wrestlers. A Delhi court acquitted him in the case earlier this month, though the wrestlers have said they will challenge the verdict."
+      "url": "https://www.indiatoday.in/world/story/nepal-flash-flood-live-updates-tibet-border-death-toll-indian-casualties-rescue-operations-2982767-2026-08-30",
+      "headline": "Live: Death toll reaches 903 as rescue efforts continueNepal Flash Flood Live Updates: Nepal's flood death toll has risen to 903, while 2,426 people remain missing as rescue operations intensify at the Trishuli-3A hydropower project tunnel, where several people are feared trapped. A specialised Silkyara tunnel rescue team has reached Nepal to assist, while Kathmandu has sought technical support for tunnel rescue, transport links, body identification and preservation, and requested Bailey bridges from India and China. Rescue operations have been hampered by rain and grounded helicopters, with authorities also monitoring the Bhote Koshi and Trishuli rivers and a temporary lake near the flood source in Tibet. India has rescued 84 citizens, while around 320 remain missing or uncontactable; 106 tourists from Maharashtra have returned home. Nepal has thanked India for its assistance and said billions of dollars could be required to rebuild infrastructure damaged by the floods, including roads, bridges and hydropower projects."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nicolas-maduro-first-prison-photos-venezuela-us-oil-deal-delcy-rodriguez-trump-2983275-2026-08-31",
-      "headline": "From US prison, Nicolas Maduro says he is standing firm as Venezuela embraces TrumpNicolas Maduro has released photographs from a Brooklyn jail as Delcy Rodriguez moves ahead with a major oil agreement with the Trump administration. The message surfaced as Washington said Venezuelan crude from the arrangement would help refill the US Strategic Petroleum Reserve."
+      "url": "https://www.indiatoday.in/technology/news/story/elon-musk-claims-ai-will-become-superhuman-next-year-will-do-all-things-digital-2983357-2026-08-31",
+      "headline": "Elon Musk claims AI will become superhuman next year, will do all things digitalTech trillionaire Elon Musk believes that AI is going to get better, fast. So much so, Musk says that next year, we may see AI become superhuman when it comes to digital tasks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/two-of-four-shooters-involved-in-haryanvi-singer-ankit-baliyans-murder-killed-in-encounter-with-up-police-2983297-2026-08-31",
+      "headline": "2 accused in Haryanvi singer Ankit Baliyan's killing shot dead in UP encounterTwo shooters involved in Haryanvi singer Ankit Baliyan's murder were killed in an encounter with the UP STF. Police said four shooters and two recce suspects have so far emerged in the investigation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/mba-vs-engineers-the-52-pay-gap-that-could-change-your-career-choice-educ-2982355-2026-08-31",
+      "headline": "52% more pay: Why MBA graduates are earning more than engineers in the job marketThe future of work is moving beyond the old engineering-versus-MBA divide. As AI takes over more technical tasks, the premium is shifting towards people who can connect technology with business, make sound decisions and lead through change. The real advantage may belong to those who can bridge both worlds."
     },
     {
       "sentiment": "positive",
@@ -266,61 +291,86 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/karnataka-minister-basavaraj-rayareddi-islam-remark-bjp-backlash-ptag-2983230-2026-08-30",
-      "headline": "Karnataka minister's 'Islam great religion' remark sparks BJP backlashKarnataka minister Basavaraj Rayareddi praised Islam at a mass marriage programme in Koppal. The remarks triggered a BJP attack, with R Ashoka demanding an apology and removal from the Cabinet."
+      "url": "https://www.indiatoday.in/trending-news/story/rajasthan-family-turns-expressway-into-picnic-spot-sits-down-for-lunch-on-road-2983355-2026-08-31",
+      "headline": "Rajasthan family turns expressway into picnic spot, sits down for lunch on roadA video of a family eating a meal on a Rajasthan expressway has gone viral online. The clip has drawn criticism over civic sense and the use of public infrastructure."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-thailand-womens-asia-cup-deepti-sharma-shafali-verma-2983250-2026-08-30",
-      "headline": "India survive batting wobble to edge spirited Thailand in Women's Asia CupIndia opened their Women's Asia Cup campaign with a 94-run win over Thailand, despite another batting collapse after a flying start. Shafali Verma starred with the bat, while Deepti Sharma's landmark 150th T20I and record-breaking bowling performance headlined India's dominant victory."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-csk-stake-rumours-denied-ipl-2027-future-kasi-viswanathan-2983224-2026-08-30",
-      "headline": "CSK address MS Dhoni stake request rumours, his IPL 2027 futureCSK chief executive Kasi Viswanathan has dismissed reports that MS Dhoni sought an ownership stake in the franchise. He also commented that Dhoni's future still remains unresolved at the moment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/airbound-drone-startup-raises-37-million-series-a-greenoaks-2982932-2026-08-30",
-      "headline": "How a Bengaluru teen turned a lockdown drone project into a $37 million startupAirbound has raised $37 million in a Series A led by Greenoaks as founder Naman Pushp expands drone logistics. The journey that started with lockdown when a young boy, out of boredom, chose to build a drone is now making headlines."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ravi-kishan-says-gorakhpur-feels-like-spain-yogi-adityanath-laughs-2983272-2026-08-31",
-      "headline": "Gorakhpur feels like Spain: Ravi Kishan's remark leaves Yogi Adityanath in splitsSpeaking at a public event in Gorakhpur, Ravi Kishan said the city felt like Spain. The remark, made before Yogi Adityanath, triggered laughter and quickly spread on social media."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/nepal-flash-floods-teacher-rajendra-dadabi-saved-1643-children-trishuli-valley-nuwakot-2982813-2026-08-30",
-      "headline": "How a Nepal teacher's quick thinking saved 1,643 children from monster floodsA Nepal school principal rushed 1,643 children to safety after a warning that muddy floodwaters were surging towards their school. His split-second decision came as a glacier-triggered disaster tore through the region and left hundreds dead."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nepal-floods-missing-indians-families-wait-for-news-five-days-after-kailash-disaster-2983240-2026-08-30",
-      "headline": "5 days of silence: Indian families await word on loved ones missing in Nepal floodsFive days after Nepal's floods, families across India are still searching for relatives missing during the Kailash Mansarovar pilgrimage and at flood-hit work sites. With communication links disrupted and hundreds still uncontactable, they are chasing every lead for proof their loved ones are safe."
+      "url": "https://www.indiatoday.in/india/story/bsf-seizes-15-6-kg-gold-worth-rs-25-crore-woman-detained-near-bengal-bangladesh-border-2982969-2026-08-30",
+      "headline": "15.6 kg of gold worth Rs 25 crore seized from woman near Bengal-Bangladesh borderBSF personnel detained a woman in Nadia's Banpur border area after a prolonged vigil and recovered 15.607 kg of gold from her. The seizure has triggered a wider probe into the source, recipient and possible cross-border smuggling network."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/bengaluru-woman-says-corporate-life-is-school-with-salaries-exams-every-monday-2982895-2026-08-30",
-      "headline": "Bengaluru woman says corporate life is school with salaries, exams every MondayAn Instagram video by a Bengaluru-based professional likened corporate life to an endless school examination. Her account of pending work, weekend anxiety and last-minute panic resonated with many viewers online."
+      "headline": "Bengaluru woman says corporate life is school with salaries, exams every MondayA video shared by a Bengaluru-based professional likened corporate life to an endless school examination. Her account of pending work, weekend anxiety and last-minute panic resonated with many viewers online."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-honest-officers-quitting-up-over-corruption-2983100-2026-08-30",
-      "headline": "Honest officers quitting jobs due to corruption in UP, says Akhilesh YadavAkhilesh Yadav accused the Uttar Pradesh government of corruption and said honest officers were being blocked from working. He linked the charge to Divya Mittal's resignation and widened his attack to law and order, public assets and jobs."
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-bandra-8-year-old-boy-killed-innova-driver-phone-john-baptist-road-2983214-2026-08-30",
+      "headline": "Mumbai woman runs over 8-year-old boy while talking on phone; arrestedAn eight-year-old boy was run over by an Innova Crysta while crossing John Baptist Road in Bandra West on Sunday. Police arrested the driver, Megha Rawal, as investigators examined allegations of speeding and phone distraction."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-amir-british-citizenship-ends-pakistan-cricket-return-2983107-2026-08-30",
-      "headline": "Mohammad Amir confirms his Pakistan chapter is closed: I am a British local nowMohammad Amir has confirmed that his Pakistan cricket chapter is closed after becoming a British citizen and gaining local-player status in England. The former Pakistan pacer remains open to playing in the PSL as a foreign player while continuing his career in English domestic cricket."
+      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-eng-vs-pak-denies-boycott-talk-imran-khan-sons-interview-lords-test-2983296-2026-08-31",
+      "headline": "Babar Azam denies Lord's Test boycott plan over Imran Khan interviewPakistan Test captain Babar Azam has denied knowledge of any discussion about the team refusing to return after lunch at Lord's. His comments came after reports linked the alleged threat to a Sky Sports interview with Imran Khan's sons."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/messi-event-ticket-refund-west-bengal-cm-suvendu-33000-fans-yuva-bharati-2982779-2026-08-30",
-      "headline": "Messi event ticket money will be refunded to 33,000 fans: Suvendu AdhikariWest Bengal CM Suvendu Adhikari said 33,000 fans from the chaotic Messi event at Yuva Bharati Stadium would get refunds. He said the process had begun internally and linked the move to a wider sports-sector overhaul."
+      "url": "https://www.indiatoday.in/world/story/nepal-flash-floods-teacher-rajendra-dadabi-saved-1643-children-trishuli-valley-nuwakot-2982813-2026-08-30",
+      "headline": "How a Nepal teacher's quick thinking saved 1,643 children from monster floodsWith muddy floodwaters racing towards his school, Nepal school principal Rajendra Dawadi had only minutes to act. He sounded the alarm and led 1,643 children to safety, just before glacier-triggered flash floods tore through Trishuli Valley, sweeping away the school and killing hundreds."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-mariano-navone-reaction-beats-novak-djokovic-five-set-epic-2983398-2026-08-31",
+      "headline": "Five sets against GOAT: Navone savours career-defining US Open win vs Djokovic Argentine Mariano Navone was lost for words after pulling off the biggest win of his career, stunning Novak Djokovic 6-7(5), 7-5, 6-4, 2-6, 1-6 in a gruelling five-set first-round clash at the US Open. The defeat ended Djokovic's bid for a record 25th Grand Slam crown."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-novak-djokovic-vomits-cries-first-round-exit-navone-2983371-2026-08-31",
+      "headline": "Novak Djokovic loses in Round 1, cries on court before shock exit US Open: Novak Djokovic's US Open campaign ended in a gruelling five-set defeat to Mariano Navone. The 39-year-old battled heat, illness and exhaustion before breaking down in tears as the Argentine pulled away in the deciding set."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/joe-root-england-celebrate-pakistan-series-win-sensible-grown-up-way-2983350-2026-08-31",
+      "headline": "Root's message to England after Pakistan series win: Keep celebrations sensible England secured their first multi-game Test series win since 2024 by beating Pakistan at Lord's, but Joe Root has urged his teammates to celebrate the achievement in a \"sensible, grown-up way\" and avoid the off-field controversies that have overshadowed some of their recent successes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/tamim-iqbal-bangladesh-t20-world-cup-pullout-india-series-2983332-2026-08-31",
+      "headline": "Tamim Iqbal admits Bangladesh could have handled T20 World Cup issue better Bangladesh Cricket Board president Tamim Iqbal has admitted that the country could have handled the T20 World Cup controversy more carefully, saying the situation involving India and Mustafizur Rahman escalated to a \"point of no return\" far too quickly."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-vs-ipswich-bruno-fernandes-hat-trick-michael-carrick-comeback-win-2983327-2026-08-31",
+      "headline": "Manchester United showed stubbornness: Michael Carrick hails Ipswich comeback Manchester United responded to their opening-weekend defeat with a 5-2 comeback win over Ipswich. Michael Carrick praised the grit shown by his players, while Bruno Fernandes led the way with a decisive hat-trick at Old Trafford."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/real-madrid-vs-malaga-jude-bellingham-jose-mourinho-freedom-role-laliga-win-2983308-2026-08-31",
+      "headline": "Jude Bellingham thriving in freer Real Madrid role under Jose Mourinho Jude Bellingham said he is enjoying the freedom Jose Mourinho has given him at Real Madrid. His display against M\u00e1laga underlined his strong start and the growing fluency in Madrid's attack."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2026-daniil-medvedev-jessica-pegula-win-krejcikova-loss-1st-round-2983300-2026-08-31",
+      "headline": "Daniil Medvedev, Jessica Pegula make winning starts at US Open Daniil Medvedev and Jessica Pegula opened their US Open campaigns with straight-set wins in New York. The results offered Medvedev relief after a poor lead-up and kept Pegula's strong season on track."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-impact-player-rule-bcci-seeks-franchise-feedback-ipl-2027-2983298-2026-08-31",
+      "headline": "IPL to reconsider Impact Player rule after seeking franchises' feedback The BCCI has formally sought feedback from all 10 IPL franchises on the Impact Player rule. The move comes after renewed debate over its effect on the balance between bat and ball during IPL 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-eng-vs-pak-denies-boycott-talk-imran-khan-sons-interview-lords-test-2983296-2026-08-31",
+      "headline": "Babar Azam denies Lord's Test boycott plan over Imran Khan interview Pakistan Test captain Babar Azam has denied knowledge of any discussion about the team refusing to return after lunch at Lord's. His comments came after reports linked the alleged threat to a Sky Sports interview with Imran Khan's sons."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/anaya-bangar-danielle-mcgahey-cricket-australia-womens-cricket-interview-2983067-2026-08-31",
+      "headline": "Anaya Bangar finds support from transgender cricketer who knows the battle Danielle McGahey has backed Anaya Bangar after Cricket Australia cleared a pathway for her to pursue elite women's cricket from March 2027. Speaking to India Today, McGahey urged people to base the transgender participation debate, on evidence while treating Bangar with dignity and respect."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/jessica-pegula-us-open-2026-world-no-1-rankings-race-2983281-2026-08-31",
@@ -329,52 +379,52 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/deepti-sharma-womens-t20i-wickets-record-india-vs-thailand-womens-asia-cup-2983274-2026-08-31",
-      "headline": "Deepti Sharma scripts history, becomes leading wicket-taker in Women's T20Is Deepti Sharma scripted history by becoming the leading wicket-taker in Women's T20Is during India's 94-run win over Thailand in the Women's Asia Cup. The veteran all-rounder produced a stunning 3/0 spell, helping India bowl Thailand out for 65 and make a winning start to their campaign."
+      "headline": "Deepti Sharma scripts history, becomes leading wicket-taker in Women's T20IsDeepti Sharma scripted history by becoming the leading wicket-taker in Women's T20Is during India's 94-run win over Thailand in the Women's Asia Cup. The veteran all-rounder produced a stunning 3/0 spell, helping India bowl Thailand out for 65 and make a winning start to their campaign."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-governing-council-election-arun-dhumal-unopposed-return-2983276-2026-08-31",
-      "headline": "Arun Dhumal set to be re-elected unopposed to IPL Governing Council Arun Singh Dhumal and Khairul Jamal Majumdar are set to be re-elected unopposed to the IPL Governing Council at the BCCI AGM on September 18."
+      "headline": "Arun Dhumal set to be re-elected unopposed to IPL Governing CouncilArun Singh Dhumal and Khairul Jamal Majumdar are set to be re-elected unopposed to the IPL Governing Council at the BCCI AGM on September 18."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/germany-vs-spain-mens-hockey-world-cup-final-michel-struthoff-2983271-2026-08-31",
-      "headline": "Germany claim record-equalling 4th men's hockey WC with 1-0 win over Spain Germany beat Spain 1-0 in a tight men's hockey World Cup final, with Michel Struthoff scoring the winner. The result gave Germany a fourth title and drew them level with Pakistan's tournament record."
+      "headline": "Germany claim record-equalling 4th men's hockey WC with 1-0 win over SpainGermany beat Spain 1-0 in a tight men's hockey World Cup final, with Michel Struthoff scoring the winner. The result gave Germany a fourth title and drew them level with Pakistan's tournament record."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-champions-trophy-2027-india-frontrunner-sri-lanka-loses-hosting-rights-2983270-2026-08-31",
-      "headline": "Women's Champions Trophy to move out of Sri Lanka, India frontrunners to host The inaugural Women's Champions Trophy is set to move out of Sri Lanka, with India emerging as the frontrunner to host the six-team tournament in February 2027. The change comes amid continued governance concerns surrounding Sri Lanka Cricket, with the ICC yet to formally confirm the replacement host."
+      "headline": "Women's Champions Trophy to move out of Sri Lanka, India frontrunners to hostThe inaugural Women's Champions Trophy is set to move out of Sri Lanka, with India emerging as the frontrunner to host the six-team tournament in February 2027. The change comes amid continued governance concerns surrounding Sri Lanka Cricket, with the ICC yet to formally confirm the replacement host."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/premier-league-bruno-fernandes-hat-trick-manchester-united-vs-ipswich-chelsea-vs-brighton-result-2983268-2026-08-30",
-      "headline": "Bruno Fernandes gets Manchester United back on track, Chelsea win again Bruno Fernandes hit a hat-trick as Manchester United came from behind to beat Ipswich 5-2, while Chelsea edged Brighton 4-3 at Stamford Bridge. The wins ease early pressure on United after a horrible start to the Premier League 2026-27 campaign."
+      "headline": "Bruno Fernandes gets Manchester United back on track, Chelsea win againBruno Fernandes hit a hat-trick as Manchester United came from behind to beat Ipswich 5-2, while Chelsea edged Brighton 4-3 at Stamford Bridge. The wins ease early pressure on United after a horrible start to the Premier League 2026-27 campaign."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-pakistan-2nd-test-day-4-report-babar-azam-lords-2983251-2026-08-30",
-      "headline": "Pakistan's humiliation complete as England seal series with win in 2nd Test England beat Pakistan by 194 runs at Lord's to seal the Test series with a match to spare. Ollie Robinson ripped through the Pakistan batting lineup as Saud Shakeel was the only player to offer some resistance."
+      "headline": "Pakistan's humiliation complete as England seal series with win in 2nd TestEngland beat Pakistan by 194 runs at Lord's to seal the Test series with a match to spare. Ollie Robinson ripped through the Pakistan batting lineup as Saud Shakeel was the only player to offer some resistance."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-thailand-womens-asia-cup-deepti-sharma-shafali-verma-2983250-2026-08-30",
-      "headline": "India survive batting wobble to edge spirited Thailand in Women's Asia Cup India opened their Women's Asia Cup campaign with a 94-run win over Thailand, despite another batting collapse after a flying start. Shafali Verma starred with the bat, while Deepti Sharma's landmark 150th T20I and record-breaking bowling performance headlined India's dominant victory."
+      "headline": "India survive batting wobble to edge spirited Thailand in Women's Asia CupIndia opened their Women's Asia Cup campaign with a 94-run win over Thailand, despite another batting collapse after a flying start. Shafali Verma starred with the bat, while Deepti Sharma's landmark 150th T20I and record-breaking bowling performance headlined India's dominant victory."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-new-tattoo-images-viral-left-arm-sleeve-rework-2983202-2026-08-30",
-      "headline": "Virat Kohli adds new tattoo to his collection, images go viral Virat Kohli has added a new tattoo to his left arm, with the images quickly going viral online. Kohli had started adding a new sleeve of tattoos on his left-arm and the new one is a part of it."
+      "headline": "Virat Kohli adds new tattoo to his collection, images go viralVirat Kohli has added a new tattoo to his left arm, with the images quickly going viral online. Kohli had started adding a new sleeve of tattoos on his left-arm and the new one is a part of it."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/video/sri-lanka-to-lose-2027-womens-champions-trophy-hosting-rights-india-frontrunner-to-host-ytvd-2983234-2026-08-30",
-      "headline": "Sri Lanka To Lose 2027 Women's Champions Trophy Hosting Rights; India Frontrunner To Host According to sources, the International Cricket Council is set to strip Sri Lanka of hosting rights for the inaugural Women's Champions Trophy scheduled for February 2027. India is likely to host the tournament in the same window. The decision to move the tournament out of Sri Lanka stems from government interference in Sri Lanka Cricket, where an interim administration called the Transformation Committee was put in place by the government to oversee board and constitutional changes. While India has emerged as the frontrunner to host the tournament, an official announcement is still awaited."
+      "headline": "Sri Lanka To Lose 2027 Women's Champions Trophy Hosting Rights; India Frontrunner To HostAccording to sources, the International Cricket Council is set to strip Sri Lanka of hosting rights for the inaugural Women's Champions Trophy scheduled for February 2027. India is likely to host the tournament in the same window. The decision to move the tournament out of Sri Lanka stems from government interference in Sri Lanka Cricket, where an interim administration called the Transformation Committee was put in place by the government to oversee board and constitutional changes. While India has emerged as the frontrunner to host the tournament, an official announcement is still awaited."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-csk-stake-rumours-denied-ipl-2027-future-kasi-viswanathan-2983224-2026-08-30",
-      "headline": "CSK address MS Dhoni stake request rumours, his IPL 2027 future CSK chief executive Kasi Viswanathan has dismissed reports that MS Dhoni sought an ownership stake in the franchise. He also commented that Dhoni's future still remains unresolved at the moment."
+      "headline": "CSK address MS Dhoni stake request rumours, his IPL 2027 futureCSK chief executive Kasi Viswanathan has dismissed reports that MS Dhoni sought an ownership stake in the franchise. He also commented that Dhoni's future still remains unresolved at the moment."
     },
     {
       "sentiment": "positive",
@@ -425,51 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/auqib-nabi-surrey-county-stint-new-zealand-tour-preparation-bcci-2983024-2026-08-30",
       "headline": "Auqib Nabi signs with Surrey for county stint as part of NZ tour preparationAuqib Nabi has signed for Surrey for a three-match County Championship stint before India's New Zealand tour. The move gives the Jammu and Kashmir seamer exposure to English conditions as the BCCI sharpens his red-ball pathway."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kagiso-rabada-injury-south-africa-australia-tests-2983016-2026-08-30",
-      "headline": "Kagiso Rabada's injury leaves South Africa sweating ahead of Australia TestsSouth Africa are staring at a major setback ahead of their three-Test series against Australia, with pace spearhead Kagiso Rabada facing a race against time to be fit for the home series after suffering a serious right hamstring injury."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-chelsea-sign-emi-martinez-aston-villa-three-year-deal-2982964-2026-08-30",
-      "headline": "Chelsea sign World Cup winner Emi Martinez from Aston Villa on 3-year dealChelsea have signed Emiliano Martinez from Aston Villa on a three-year deal. Martinez will bolster Chelsea's goalkeeping department, which has been an issue in the past few seasons."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-pak-joe-root-sachin-tendulkar-test-records-ricky-ponting-2982910-2026-08-30",
-      "headline": "Joe Root keeps rewriting Test history; Sachin Tendulkar's records under threatEngland's Joe Root moved another step closer to Sachin Tendulkar's long-standing records after adding another major milestone to his remarkable Test career during the second Test against Pakistan at Lord's."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-drs-call-east-zone-stand-in-captain-first-review-right-2982902-2026-08-30",
-      "headline": "Sooryavanshi captains in Duleep Trophy, nails DRS call. His reaction is priceless15-year-old Vaibhav Sooryavanshi got his first taste of captaincy in the Duleep Trophy. He also got his first DRS call right, celebrating the moment with teammates after Central Zone lost a wicket on Sunday in Bengaluru."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/rohit-yadav-profile-javelin-asian-games-90m-neeraj-chopra-2982855-2026-08-30",
-      "headline": "Rohit Yadav: India's next big javelin story is taking shapeRohit Yadav may still be some distance away from the elusive 90m mark, but his rapid rise in 2026 has put him firmly among the world's leading javelin throwers. With Neeraj Chopra sidelined for the Asian Games, the 25-year-old Indian is now chasing something bigger than a personal best: a major medal on the biggest stage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/spurs-huge-spending-premier-league-poor-start-roberto-de-zerbi-mentality-2982837-2026-08-30",
-      "headline": "Tottenham spent big, but De Zerbi questions Spurs' mentality after poor startTottenham Hotspur's big summer spending is yet to translate into results, with manager Roberto De Zerbi saying finding the \"right mentality\" is his biggest challenge after Spurs suffered their second straight Premier League defeat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-day-1-schedule-novak-djokovic-venus-williams-and-jessica-pegula-begin-campaigns-2982826-2026-08-30",
-      "headline": "Day 1 schedule: Veterans Novak Djokovic, Venus Williams begin campaignsUS Open 2026: Veterans Novak Djokovic and Venus Williams will begin their campaigns on Sunday at Arthur Ashe. Djokovic, chasing an elusive 25th Grand Slam title, will take on Mariano Navone, 25, of Argentina in the evening session."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/pr-sreejesh-absence-india-feel-goalkeeping-gap-hockey-world-cup-2982818-2026-08-30",
-      "headline": "India still miss PR Sreejesh, and the Hockey World Cup proved itIndia really felt the absence of PR Sreejesh in goal during the 2026 Hockey World Cup, and it is a reality they will need to accept. But if India are to move forward, they will need to develop new talent rather than simply look for the next Sreejesh."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sunil-gavaskar-wants-fines-for-bowlers-bowling-call-no-ball-errors-tests-2982809-2026-08-30",
-      "headline": "Jadeja's no-ball blunders irk Gavaskar, calls for fining bowlers, bowling coachRavindra Jadeja's repeated no-balls in two-match Test series in Sri Lanka have irked Indian great Sunil Gavaskar, who wants bowlers fined for every overstep and the bowling coach penalised too."
     }
   ],
   "education": [
