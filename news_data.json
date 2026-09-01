@@ -105,7 +105,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/story/samay-raina-roasts-gaurav-munjal-over-unacademy-sale-upgrad-founder-has-a-witty-reply-2984924-2026-09-01",
-      "headline": "Samay Raina roasts Gaurav Munjal over Unacademy sale, founder has a witty reply Comedian Samay Raina joked about Gaurav Munjal after Unacademy's sale to upGrad. Munjal joined the banter as the deal revived attention on the company's valuation slide."
+      "headline": "Samay Raina roasts Gaurav Munjal over Unacademy sale, founder has a witty reply Comedian Samay Raina took a jibe at Gaurav Munjal following Unacademy's sale to upGrad. Munjal joined the banter as the deal revived attention on the company's falling valuation."
     },
     {
       "sentiment": "positive",
@@ -201,8 +201,8 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-forces-strike-irgc-targets-in-iran-after-attacks-on-shipping-american-troops-in-the-region-2984880-2026-09-01",
-      "headline": "Trump warns Iran of 'much harder' attack after US strikes for second time in two daysThe strikes came two days after US forces hit Iranian rocket launchers in the Strait of Hormuz, ending a month-long lull in fighting. Iran called Sunday's operation a deadly attack and retaliated by firing ballistic missiles at US bases in Jordan."
+      "url": "https://www.indiatoday.in/world/story/iran-launches-retaliatory-operation-with-missiles-and-drones-as-us-attacks-continue-2984977-2026-09-02",
+      "headline": "Iran retaliates after US strikes as Trump warns of harsher attackIran has launched a retaliatory missile and drone operation against the US after fresh American strikes on Iranian targets near the Strait of Hormuz."
     },
     {
       "sentiment": "positive",
@@ -210,24 +210,24 @@
       "headline": "What's behind Sergio Gor's gatecrash in Bishkek amid SCO summit?Sergio Gor, the US Ambassador to India, appeared in Bishkek even as the Kyrgyz capital was hosting the SCO Summit, being attended by several leaders, including Russia's Putin and China's Xi. Gor said he went to cheer Team USA for the Nomad Games, but his companion and meetings reveal there was more to his visit."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/panjab-university-student-election-results-abvp-punjab-polls-bjp-sad-aap-congress-2984671-2026-09-01",
+      "headline": "What ABVP's Panjab University win means for 2027 Punjab pollsThe results of the Panjab University students' council polls, coming ahead of the Punjab Assembly elections, are being viewed as an indicator of the political mood among young voters."
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/nepal-floods-death-toll-crosses-1000-kathmandu-seeks-climate-compensation-2984612-2026-09-01",
-      "headline": "163 Indians rescued so far as Nepal floods death toll crosses 1,000-markThe August 26 disaster was triggered after a collapse or avalanche of ice and rock near the Nepal-Tibet border sent a massive surge of water down the Bhotekoshi River."
+      "url": "https://www.indiatoday.in/world/story/iran-us-war-live-updates-strikes-missiles-drones-irgc-trump-strait-of-hormuz-jordan-attack-2984979-2026-09-02",
+      "headline": "Live: Iran claims it killed 'large number' of US forces, Washington deniesUS-Iran War Live Updates: Iran has launched a retaliatory operation against the United States, with missiles and drones fired from Iranian territory after US attacks on the country, as the Islamic Revolutionary Guard Corps (IRGC) said it had launched what it called a \"regretful response to the aggressors\" and claimed it had \"killed a large number of US forces\" in the attack, although there was no immediate US reaction to the claim. Iran's Fars News Agency reported that the retaliatory operation had begun, while the IRGC accused the US of carrying out \"blind and desperate attacks\" on several locations, including civilian areas, saying the strikes had tightened the blockade of the Strait of Hormuz and strengthened the determination of Iranian fighters to confront foreign forces operating in the strategic waterway."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/indian-grand-mufti-kanthapuram-ap-aboobacker-musliyar-sabrimala-temple-case-karnataka-hijab-ban-kerala-news-2984625-2026-09-01",
+      "headline": "Grand Mufti's view is not new, the shock isJust when we were busy smashing the patriarchy, the grand patriarch of a community came and smashed the smashing into smithereens. We play-acted shock."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/indus-waters-treaty-shehbaz-sharif-sco-summit-water-dispute-india-narendra-modi-hague-court-2984507-2026-09-01",
       "headline": "Pak PM repeats old grouse on Indus waters at SCO as India rejects court rulingA day after India rejected a ruling by the Hague-based Court of Arbitration that the 1960 Indus Waters Treaty remains legally binding, Pakistan Prime Minister Shehbaz Sharif raised the issue at the SCO summit, saying water must never be used as a political weapon."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/indian-grand-mufti-kanthapuram-ap-aboobacker-musliyar-sabrimala-temple-case-karnataka-hijab-ban-kerala-news-2984625-2026-09-01",
-      "headline": "Smash the patriarchy, keep women at homeJust when we were busy smashing the patriarchy, the grand patriarch of a community came and smashed the smashing into smithereens. We play-acted shock."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/panjab-university-student-election-results-abvp-punjab-polls-bjp-sad-aap-congress-2984671-2026-09-01",
-      "headline": "What ABVP's Panjab University win means for 2027 Punjab pollsThe results of the Panjab University students' council polls, coming ahead of the Punjab Assembly elections, are being viewed as an indicator of the political mood among young voters."
     },
     {
       "sentiment": "positive",
@@ -246,18 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/kannadiga-services-karnataka-minister-banks-priority-kannada-speaking-hires-2984829-2026-09-01",
-      "headline": "Banking in Kannada, jobs for Kannadigas: Karnataka minister makes language pitchTangadagi's statement comes amid Karnataka's broader push to increase the use of Kannada in administration and commerce."
+      "url": "https://www.indiatoday.in/world/story/us-forces-strike-irgc-targets-in-iran-after-attacks-on-shipping-american-troops-in-the-region-2984880-2026-09-01",
+      "headline": "Trump warns Iran of 'much harder' attack after US strikes for second time in two daysThe strikes came two days after US forces hit Iranian rocket launchers in the Strait of Hormuz, ending a month-long lull in fighting. Iran called Sunday's operation a deadly attack and retaliated by firing ballistic missiles at US bases in Jordan."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shakti-sharma-first-woman-non-medical-officer-air-vice-marshal-iaf-2984775-2026-09-01",
-      "headline": "Shakti Sharma makes history, becomes first woman non-medical Air Vice MarshalAir Vice Marshal Shakti Sharma has previously achieved another distinction by becoming the first woman officer from the Tri-Services to command a Sainik School."
+      "url": "https://www.indiatoday.in/india/story/ankit-baliyan-murder-accused-rakesh-seeks-handcuffs-videography-for-up-police-custody-2984936-2026-09-01",
+      "headline": "Ankit Baliyan murder accused seeks handcuffs, leg-cuffs amid fears over UP custodyRakesh alias Pappu has sought handcuffs, videography and constant security if Uttar Pradesh Police takes him from Karnal jail. The request came before Shamli Police moved for remand and underscores his fear over the proposed custody transfer."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-vladimir-putin-xi-jinping-handshake-moment-sco-summit-family-photo-op-2984399-2026-09-01",
-      "headline": "PM Modi, Putin and Xi make a statement with handshake moment at SCO SummitThe moment between PM Modi, Vladimir Putin and Xi Jinping was captured as the SCO leaders gathered for the official family photograph, a traditional feature of the annual summit."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/nepal-flood-viral-green-house-flood-owner-recalls-family-rescue-in-nuwakot-2984370-2026-09-01",
+      "headline": "How did Nepal's green house withstand monster flood? Owner lives to tell the talePrakash's 40-year-old green house stood largely intact as raging Trishuli River floodwaters swept away nearby buildings, vehicles and belongings."
     },
     {
       "sentiment": "positive",
@@ -266,8 +266,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/divya-mittal-indian-education-mental-health-iit-iim-ias-loneliness-gap-2984431-2026-09-01",
-      "headline": "IIT, IIM, IAS to loneliness: Divya Mittal asks who teaches students to be happyDivya Mittal said her IIT Delhi, IIM Bangalore and IAS journey never taught her to handle loneliness. She, in a post on X in May which has now gone viral, questioned the Indian education system and pointed out what we miss, and why can't a student be taught how to be happy instead of everything else?"
+      "url": "https://www.indiatoday.in/india/karnataka/story/kannadiga-services-karnataka-minister-banks-priority-kannada-speaking-hires-2984829-2026-09-01",
+      "headline": "Banking in Kannada, jobs for Kannadigas: Karnataka minister makes language pitchTangadagi's statement comes amid Karnataka's broader push to increase the use of Kannada in administration and commerce."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/faridabad-school-student-death-family-alleges-four-hour-punishment-before-fall-2984911-2026-09-01",
+      "headline": "Faridabad Class 11 girl dies after fall, family claims 4-hour punishment by teacherThe family alleged that the punishment left her distressed. The circumstances leading to her death, however, remain under investigation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/shakti-sharma-first-woman-non-medical-officer-air-vice-marshal-iaf-2984775-2026-09-01",
+      "headline": "Shakti Sharma makes history, becomes first woman non-medical Air Vice MarshalAir Vice Marshal Shakti Sharma has previously achieved another distinction by becoming the first woman officer from the Tri-Services to command a Sainik School."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/story/samay-raina-roasts-gaurav-munjal-over-unacademy-sale-upgrad-founder-has-a-witty-reply-2984924-2026-09-01",
+      "headline": "Samay Raina roasts Gaurav Munjal over Unacademy sale, founder has a witty replyComedian Samay Raina took a jibe at Gaurav Munjal following Unacademy's sale to upGrad. Munjal joined the banter as the deal revived attention on the company's falling valuation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-vladimir-putin-xi-jinping-handshake-moment-sco-summit-family-photo-op-2984399-2026-09-01",
+      "headline": "PM Modi, Putin and Xi make a statement with handshake moment at SCO SummitThe moment between PM Modi, Vladimir Putin and Xi Jinping was captured as the SCO leaders gathered for the official family photograph, a traditional feature of the annual summit."
     },
     {
       "sentiment": "positive",
@@ -281,8 +301,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/samay-raina-roasts-gaurav-munjal-over-unacademy-sale-upgrad-founder-has-a-witty-reply-2984924-2026-09-01",
-      "headline": "Samay Raina roasts Gaurav Munjal over Unacademy sale, founder has a witty replyComedian Samay Raina joked about Gaurav Munjal after Unacademy's sale to upGrad. Munjal joined the banter as the deal revived attention on the company's valuation slide."
+      "url": "https://www.indiatoday.in/technology/news/story/iphone-fold-to-launch-next-week-alongside-iphone-18-pro-leaked-price-release-date-and-specs-2984565-2026-09-01",
+      "headline": "iPhone Fold to launch next week alongside iPhone 18 Pro: Leaked price and specsApple could finally enter the foldable phone market next week with its first foldable iPhone. Expected to debut alongside the iPhone 18 Pro series, the device is rumoured to feature a 7.8-inch inner display, an ultra-thin design and a price tag of more than $2,000."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/iit-madras-professor-3d-printing-musical-instruments-professor-ramanathan-violin-veena-raga-ai-science-of-sound-2984154-2026-09-01",
+      "headline": "He 3D prints instruments in plastic, and they sing: The IIT Madras professor making music for allAt IIT Madras, Professor Ramanathan and his students 3D print musical instruments in plastic, teach AI to recognise ragas, and explore whether music can heal. Inside a lab where a mathematician is trying to make music affordable for all."
     },
     {
       "sentiment": "positive",
@@ -293,34 +318,29 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-actor-shobinaw-satyaa-neem-karoli-baba-five-hour-audition-2984440-2026-09-01",
       "headline": "Hanuman Ansh: Man playing Neem Karoli Baba wasn't an actor. Then miracle happenedShobinaw Satyaa moved from second assistant director to playing Neem Karoli Baba in Hanuman Ansh after the original lead fell ill and director Vishal Chaturvedi tested him for five hours. The unusual casting choice has drawn praise from viewers, many of whom say he closely resembles Maharaj Ji."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-ncr-sees-heavy-rain-orange-and-yellow-alerts-issued-for-parts-of-national-capital-2984738-2026-09-01",
-      "headline": "Delhi-NCR sees heavy rain, orange and yellow alerts issued for parts of national capitalThe weather department also forecast thunderstorms accompanied by lightning and light to moderate rain over parts of western Uttar Pradesh"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/iphone-fold-to-launch-next-week-alongside-iphone-18-pro-leaked-price-release-date-and-specs-2984565-2026-09-01",
-      "headline": "iPhone Fold to launch next week alongside iPhone 18 Pro: Leaked price and specsApple could finally enter the foldable phone market next week with its first foldable iPhone. Expected to debut alongside the iPhone 18 Pro series, the device is rumoured to feature a 7.8-inch inner display, an ultra-thin design and a price tag of more than $2,000."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/iit-madras-professor-3d-printing-musical-instruments-professor-ramanathan-violin-veena-raga-ai-science-of-sound-2984154-2026-09-01",
-      "headline": "He 3D prints instruments in plastic, and they sing: The IIT Madras professor making music for allAt IIT Madras, Professor Ramanathan and his students 3D print musical instruments in plastic, teach AI to recognise ragas, and explore whether music can heal. Inside a lab where a mathematician is trying to make music affordable for all."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/nepal-flood-viral-green-house-flood-owner-recalls-family-rescue-in-nuwakot-2984370-2026-09-01",
-      "headline": "How did Nepal's green house withstand monster flood? Owner lives to tell the talePrakash's 40-year-old green house stood largely intact as raging Trishuli River floodwaters swept away nearby buildings, vehicles and belongings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/telangana-to-dallas-how-nani-the-paradise-yeshanagula-went-from-folk-song-to-mass-anthem-2984393-2026-09-01",
-      "headline": "Telangana to Dallas: How Paradise's Yeshanagula went from folk song to mass anthemA Telangana folk song featured in The Paradise had crowds dancing in Dallas as Anirudh Ravichander and Nani performed it on stage. Its journey from village performances to a pan-India hit shows how its regional identity travelled without being diluted."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-flavio-cobolli-taylor-fritz-madison-keys-advance-2984976-2026-09-02",
+      "headline": "Flavio Cobolli survives 5-set scare, Taylor Fritz, Madison Keys storm into Round 2 Flavio Cobolli battled back from two sets down to beat Francisco Comesana and book his place in the US Open second round. Taylor Fritz and Madison Keys also advanced, keeping American hopes alive with convincing first-round wins."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-womens-asia-cup-2026-win-over-thailand-india-clash-2984968-2026-09-02",
+      "headline": "Pakistan warm up for India clash after beating Thailand in Women's Asia Cup Fatima Sana's Pakistan began their Women's Asia Cup 2026 campaign with a 35-run win over Thailand in Dubai on Tuesday, with Muneeba Ali's 54 and a superb spin-bowling effort setting up victory."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/wrestling-vinesh-phogat-maternity-policy-plea-wfi-delhi-high-court-2984954-2026-09-01",
+      "headline": "Vinesh Phogat maternity policy plea: Delhi HC asks for centre, WFI response The Delhi High Court has asked the Centre, the wrestling federation of India and the Indian Olympic Association to respond to Vinesh Phogat's plea on maternity return rules. Vinesh's petition calls for a transparent return-to-competition policy that does not put athletes in a disadvantage because they were away from the sport due to maternity"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/video/ricky-ponting-no-doubt-in-my-mind-he-was-the-right-man-ytvd-2984960-2026-09-01",
+      "headline": "Ricky Ponting: 'No Doubt In My Mind He Was The Right Man' In an interview with India Today, former Australian captain and Punjab Kings head coach Ricky Ponting shared his perspectives on India's upcoming Test series against Australia and Shreyas Iyer's leadership of the Indian T20I side. Ponting noted that India must evaluate their home pitches, stating, 'They need to be a bit more thoughtful with the way that they prepare their wickets there.' Backing Iyer amid scrutiny over his initial results as India captain, Ponting emphasized his faith in the cricketer's leadership, observing, 'No doubt in my mind he was the right man for it, and he'll be the right man for that job.'"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-fever-edgbaston-test-pakistan-captain-under-pressure-england-tour-turmoil-2984922-2026-09-01",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/laliga-barcelona-gabriel-jesus-signing-arsenal-transfer-deadline-day-2984753-2026-09-01",
-      "headline": "Barcelona completes deadline day signing of Gabriel Jesus from Arsenal Barcelona have signed Gabriel Jesus from Arsenal on a three-year deal after a fee reported to be 8.6 million pounds. The move ends his four-year Arsenal spell as he becomes the latest player to head to Barca."
+      "headline": "Barcelona completes deadline day signing of Gabriel Jesus from ArsenalBarcelona have signed Gabriel Jesus from Arsenal on a three-year deal after a fee reported to be 8.6 million pounds. The move ends his four-year Arsenal spell as he becomes the latest player to head to Barca."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/taylor-fritz-us-open-2026-american-hope-maiden-grand-slam-title-2984744-2026-09-01",
-      "headline": "I would like to win one: Taylor Fritz carries America's US Open hopes into 2026 Taylor Fritz leads America's charge at the 2026 US Open, hoping to end a 23-year men's singles title drought. The 28-year-old reached the final in New York in 2024 and the quarterfinals last year."
+      "headline": "I would like to win one: Taylor Fritz carries America's US Open hopes into 2026Taylor Fritz leads America's charge at the 2026 US Open, hoping to end a 23-year men's singles title drought. The 28-year-old reached the final in New York in 2024 and the quarterfinals last year."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/asian-games-cricket-accommodation-row-teams-free-to-book-own-hotels-says-japan-ceo-2984718-2026-09-01",
-      "headline": "Asian Games facilities row: Japan cricket CEO says teams free to book hotels Japan Cricket Association CEO Naoki Alex Miyaji said Asian Games cricket teams can use organiser-arranged hotels or book their own. The assurance came as leading boards questioned room sizes, travel distance and temporary facilities before the tournament."
+      "headline": "Asian Games facilities row: Japan cricket CEO says teams free to book hotelsJapan Cricket Association CEO Naoki Alex Miyaji said Asian Games cricket teams can use organiser-arranged hotels or book their own. The assurance came as leading boards questioned room sizes, travel distance and temporary facilities before the tournament."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-east-zone-duleep-trophy-final-after-13-years-2984709-2026-09-01",
-      "headline": "Vaibhav Sooryavanshi inspires East Zone to Duleep Trophy finals after 13 years Vaibhav Sooryavanshi's brisk 40 and Ishan Kishan's unbeaten 39 carried East Zone past Central Zone in Bengaluru. The four-wicket win sent East into their first Duleep Trophy final since 2012-13."
+      "headline": "Vaibhav Sooryavanshi inspires East Zone to Duleep Trophy finals after 13 yearsVaibhav Sooryavanshi's brisk 40 and Ishan Kishan's unbeaten 39 carried East Zone past Central Zone in Bengaluru. The four-wicket win sent East into their first Duleep Trophy final since 2012-13."
     },
     {
       "sentiment": "positive",
@@ -455,26 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/marnus-labuschagne-dropped-australia-odi-squad-zimbabwe-south-africa-tour-2984187-2026-09-01",
       "headline": "Marnus Labuschagne axed from Australia ODI squad for World Cup rehearsalOut-of-form batter Marnus Labuschagne has been dropped from Australia's squad for the ODI series in Zimbabwe and South Africa later this month."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/indian-hockey-crisis-grassroots-failure-hil-world-cup-2983759-2026-09-01",
-      "headline": "Why Indian hockey's crisis begins at the grassroots and bleeds to the topA broken domestic structure and rot at the top make India's World Cup failure no surprise at all. With Hockey India left trying to chase the IPL model, they have forced the domestic system to crumble, directly leading to the national team's struggles on the grand stage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/stan-wawrinka-us-open-farewell-berrettini-ends-final-grand-slam-match-2984167-2026-09-01",
-      "headline": "Stan Wawrinka bids emotional goodbye after final Grand Slam matchStan Wawrinka's final US Open appearance ended in defeat to Matteo Berrettini, but the three-time Grand Slam champion received an emotional farewell from the New York crowd. As he prepares to retire at the end of the season, Wawrinka reflected on two decades of memories at Flushing Meadows."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-us-open-return-wrist-doubts-safiullin-win-new-york-2984159-2026-09-01",
-      "headline": "Carlos Alcaraz admits wrist doubts despite 1st round winCarlos Alcaraz marked his US Open return by beating Roman Safiullin in straight sets after four months out. The defending champion said he still had doubts over whether his wrist and body would last the match."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-iga-swiatek-amanda-anisimova-win-opening-matches-new-york-2984153-2026-09-01",
-      "headline": "Iga Swiatek cruises into US Open second round after beating Wang XiyuUS Open: Iga Swiatek and Amanda Anisimova began their US Open campaigns with convincing straight-sets victories in New York. Both former finalists now move into the second round with early momentum in their title bids."
     }
   ],
   "education": [
