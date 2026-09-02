@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-gdp-figures-subhash-garg-questions-rs-6-lakh-crore-revision-gaurav-vallabh-defends-methodology-2985834-2026-09-03",
+      "headline": "7.8% GDP faceoff: Subhash Garg, Gaurav Vallabh clash over Rs 6 lakh crore revisionSubhash Chandra Garg said the key concern was not the deflator or base-year change, but the sharp drop in current-price GDP estimates from Rs 86 lakh crore to Rs 80 lakh crore."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/gdp-series-2026-base-year-2022-23-double-deflation-gva-deflator-explained-2985752-2026-09-02",
       "headline": "Was GDP revised down to boost 2026 growth? Govt issues FAQs after 7.8% riseThe updated GDP series answers key questions on the 2022-23 base year, double deflation and sectoral deflators. It sets out why manufacturing, agriculture and mining estimates diverged and how revisions are handled."
     },
@@ -94,14 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/irdai-public-insurance-registry-pir-proposal-transparency-competition-mis-selling-fraud-curb-2985022-2026-09-02",
       "headline": "IRDAI proposes public insurance registry to boost transparency and competitionThe regulator has proposed a Public Insurance Registry (PIR), a digital public infrastructure aimed at making insurance-related information more accessible and reducing information gaps between consumers and market participants."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/economy-strong-but-global-risks-remain-sanjeev-sanyal-on-78-gdp-growth-2984760-2026-09-01",
-      "headline": "Economy strong, but global risks remain: Sanjeev Sanyal on 7.8% GDP growthIn an exclusive interview with India Today, Sanjeev Sanyal said the latest growth numbers were supported by several sectors rather than being driven by one part of the economy."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/meena-kumaris-classic-pakeezah-restored-in-4k-for-lyon-london-film-festivals-2985845-2026-09-03",
+      "headline": "Meena Kumari's classic Pakeezah restored in 4K for Lyon, London Film Festivals A 4K restored version of Pakeezah will premiere at Festival Lumiere before a gala screening at the BFI London Film Festival. The restoration draws on original stills and family memories as Film Heritage Foundation extends its festival run."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/travis-kelce-says-adam-sandler-officiating-wedding-with-taylor-swift-was-insane-2985771-2026-09-02",
@@ -191,18 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/standpoint/story/rape-is-forced-jauhar-doesnt-shame-survivors-the-fatal-flaw-in-swara-bhasker-argument-2985135-2026-09-02",
       "headline": "Rape is forced. Jauhar doesn't shame survivors: The fatal flaw in Swara's argument Rape is forced. Jauhar, however tragic, was a choice made in the face of anticipated captivity and violence. So why is Swara Bhasker comparing the two? A closer look at the crucial distinction her argument misses."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/from-being-branded-iron-leg-to-ruling-sandalwood-7-films-that-made-kichcha-sudeep-2985082-2026-09-02",
-      "headline": "From being branded 'iron leg' to ruling Sandalwood: 7 films that made Kichcha Sudeep Kichcha Sudeep's journey from being labelled an \"iron leg\" to becoming a Kannada superstar was shaped by films that showcased his versatility and commercial appeal. This listicle looks at seven films from his first 15 years that defined his stardom and laid the foundation for his pan-Indian presence."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-suggests-renaming-strait-of-hormuz-trump-strait-says-us-control-makes-it-hotter-than-ever-2985787-2026-09-02",
-      "headline": "Trump Strait: US President floats renaming Strait of Hormuz after himselfThe proposal of Donald Trump is striking not simply because of the name he wants to give the strait, but because the waterway is not US territory. The Strait of Hormuz lies between Iran and Oman and is an international maritime passage vital to global energy supplies."
+      "url": "https://www.indiatoday.in/world/story/india-iran-talks-rubio-warns-against-helping-tehran-evade-us-sanctions-modi-pezeshkian-meeting-2985855-2026-09-03",
+      "headline": "No country should help Iran evade sanctions: Rubio on Modi-Pezeshkian meetingMarco Rubio warned India and other countries against helping Iran evade US sanctions after Prime Minister Narendra Modi met Iranian President Masoud Pezeshkian in Bishkek. India and Iran discussed trade, regional tensions and shipping safety."
     },
     {
       "sentiment": "positive",
@@ -216,13 +216,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-news-fcnr-b-deposit-india-forex-reserves-inr-value-in-dollar-non-resident-indian-2985252-2026-09-02",
-      "headline": "NRIs put $100 billion in RBI scheme to take India's forex reserves to record highThe RBI's latest attempt to attract deposits from NRIs has been such a success that the central bank closed the scheme a month early. In just three months, the FCNR(B) has added $100 billion to India's forex reserves amid volatile crude prices and a depreciating rupee."
+      "url": "https://www.indiatoday.in/world/story/trump-suggests-renaming-strait-of-hormuz-trump-strait-says-us-control-makes-it-hotter-than-ever-2985787-2026-09-02",
+      "headline": "Trump Strait: US President floats renaming Strait of Hormuz after himselfThe proposal of Donald Trump is striking not simply because of the name he wants to give the strait, but because the waterway is not US territory. The Strait of Hormuz lies between Iran and Oman and is an international maritime passage vital to global energy supplies."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/swara-bhasker-padmavat-rani-padmini-jauhar-statement-controversy-2985425-2026-09-02",
       "headline": "Swara Bhasker is right, even Rani Padmini would agreeSwara Bhasker is back in the news, for repeating on stage what she wrote in an open letter after watching Padmaavat. She was right about rape survivors and wrong about Jauhar. Then and now. Here's a history lesson with a heavy heart."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/rbi-news-fcnr-b-deposit-india-forex-reserves-inr-value-in-dollar-non-resident-indian-2985252-2026-09-02",
+      "headline": "NRIs put $100 billion in RBI scheme to take India's forex reserves to record highThe RBI's latest attempt to attract deposits from NRIs has been such a success that the central bank closed the scheme a month early. In just three months, the FCNR(B) has added $100 billion to India's forex reserves amid volatile crude prices and a depreciating rupee."
     },
     {
       "sentiment": "positive",
@@ -236,18 +241,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bulandshahr-murder-case-husbands-death-reported-as-suicide-affair-and-property-angles-surface-2985741-2026-09-02",
-      "headline": "Woman, brother-in-law kill husband to continue affair, gain control of propertyA Bulandshahr man's death, initially reported as suicide, is now being treated as murder involving his wife and brother-in-law. The post-mortem findings pointed investigators towards an alleged illicit relationship and property motive."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/gdp-series-2026-base-year-2022-23-double-deflation-gva-deflator-explained-2985752-2026-09-02",
       "headline": "Was GDP revised down to boost 2026 growth? Govt issues FAQs after 7.8% riseThe updated GDP series answers key questions on the 2022-23 base year, double deflation and sectoral deflators. It sets out why manufacturing, agriculture and mining estimates diverged and how revisions are handled."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bulandshahr-murder-case-husbands-death-reported-as-suicide-affair-and-property-angles-surface-2985741-2026-09-02",
+      "headline": "Woman, brother-in-law kill husband to continue affair, gain control of propertyA Bulandshahr man's death, initially reported as suicide, is now being treated as murder involving his wife and brother-in-law. The post-mortem findings pointed investigators towards an alleged illicit relationship and property motive."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-gdp-figures-subhash-garg-questions-rs-6-lakh-crore-revision-gaurav-vallabh-defends-methodology-2985834-2026-09-03",
+      "headline": "7.8% GDP faceoff: Subhash Garg, Gaurav Vallabh clash over Rs 6 lakh crore revisionSubhash Chandra Garg said the key concern was not the deflator or base-year change, but the sharp drop in current-price GDP estimates from Rs 86 lakh crore to Rs 80 lakh crore."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/gods-command-jeetendra-mishra-ram-temple-trust-new-ceo-on-journey-from-operation-sindoor-to-shri-ram-janmabhoomi-teerth-kshetra-2985637-2026-09-02",
       "headline": "God's command: Jeetendra Mishra on journey from Operation Sindoor to Ram TempleRetired Air Marshal Jeetendra Mishra said his appointment as the first CEO of the Shri Ram Janmabhoomi Teerth Kshetra Trust was guided by Lord Ram's will. He said he would consult the trust on the way forward and serve devotees after decades in the Air Force."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/jaipur/story/jaipur-thar-crash-mla-wife-car-e-rickshaw-three-injured-driver-flees-2985809-2026-09-02",
+      "headline": "Video: Speeding Thar jumps red light, crashes into MLA's wife's car in JaipurCCTV footage captures the shocking August 31 crash beneath Jaipur's Mansarovar Metro Station, where a speeding Thar ran a red light, hit an MLA's wife's car and an e-rickshaw, injuring three people before the driver fled the scene."
     },
     {
       "sentiment": "positive",
@@ -261,13 +276,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/jaipur/story/jaipur-thar-crash-mla-wife-car-e-rickshaw-three-injured-driver-flees-2985809-2026-09-02",
-      "headline": "Video: Speeding Thar jumps red light, crashes into MLA's wife's car in JaipurCCTV footage captures the shocking August 31 crash beneath Jaipur's Mansarovar Metro Station, where a speeding Thar ran a red light, hit an MLA's wife's car and an e-rickshaw, injuring three people before the driver fled the scene."
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/tamil-nadu-tasmac-extra-charge-row-60-plus-staff-suspended-over-liquor-bottles-2985744-2026-09-02",
       "headline": "Vijay govt suspends over 60 TASMAC staff for overcharging customers for liquorA heated Assembly debate over extra charges at TASMAC outlets spills into a wider crackdown, with the Tamil Nadu government suspending staff across major cities and trading accusations with the Opposition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-latest-genz-outreach-has-an-avocado-toast-sorry-twist-instagram-reel-tells-how-avocados-moved-imports-indian-farms-cafe-menus-2985747-2026-09-02",
+      "headline": "PM Modi's latest GenZ outreach has an avocado toast. Sorry, twistIn an Instagram reel posted on Tuesday, PM Modi spoke about how the fruit has gradually found its way into Indian kitchens and dining tables, while also drawing attention to farmers who are experimenting with avocado cultivation."
     },
     {
       "sentiment": "positive",
@@ -281,23 +296,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-latest-genz-outreach-has-an-avocado-toast-sorry-twist-instagram-reel-tells-how-avocados-moved-imports-indian-farms-cafe-menus-2985747-2026-09-02",
-      "headline": "PM Modi's latest GenZ outreach has an avocado toast. Sorry, twistIn an Instagram reel posted on Tuesday, PM Modi spoke about how the fruit has gradually found its way into Indian kitchens and dining tables, while also drawing attention to farmers who are experimenting with avocado cultivation."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-parking-rules-paid-parking-no-parking-zones-tax-breaks-vacant-sites-2985756-2026-09-02",
       "headline": "Bengaluru proposes 100% property tax waiver for plots used for car parkingKarnataka has published draft parking rules for Bengaluru that propose paid parking, no-parking restrictions and stricter enforcement. The plan links pricing, tax incentives and penalties to a wider push to ease congestion and protect public road space."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/japan-temple-fires-online-speculation-no-evidence-coordinated-attacks-far-right-allegations-2985341-2026-09-02",
-      "headline": "Fire now burns down 570-year-old temple in Japan, some see migrant conspiracyJapan has seen several devastating fires at temples this year, including one that razed a 573-year-old shrine and another that destroyed a hall housing a 1,200-year-old sacred flame, which was saved. Fire in two more temples were reported in the last two days. These incidents have fuelled claims of involvement of migrants, even as investigations are going on."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/katchatheevu-row-tamil-nadu-assembly-tvk-blames-karunanidhi-dmk-cites-indira-gandhi-2985608-2026-09-02",
-      "headline": "Katchatheevu row in TN Assembly; TVK blames Karunanidhi, DMK accuses Indira GandhiThe Katchatheevu issue sparked a heated TN Assembly debate, with TVK minister Nirmal Kumar blaming M Karunanidhi for the 1974 handover, while the DMK blamed the Indira Gandhi government. Congress MLA Tharahai Cuthbert defended the deal, citing India's gains from the Wadge Bank. The DMK also accused TVK of using the debate for social media 'reels.'"
     },
     {
       "sentiment": "positive",
@@ -306,8 +306,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/food-safety-is-not-punishment-posting-fssai-chief-roots-for-maharashtra-fda-boss-tukaram-mundhe-2985225-2026-09-02",
-      "headline": "FSSAI chief roots for Tukaram Mundhe, says food safety is not punishment postingFSSAI chief said Tukaram Mundhe's enforcement drive has shown that food safety commissioners can make a significant impact even with existing manpower, while stressing the need for dedicated food safety chiefs in every state."
+      "url": "https://www.indiatoday.in/world/story/japan-temple-fires-online-speculation-no-evidence-coordinated-attacks-far-right-allegations-2985341-2026-09-02",
+      "headline": "Fire now burns down 570-year-old temple in Japan, some see migrant conspiracyJapan has seen several devastating fires at temples this year, including one that razed a 573-year-old shrine and another that destroyed a hall housing a 1,200-year-old sacred flame, which was saved. Fire in two more temples were reported in the last two days. These incidents have fuelled claims of involvement of migrants, even as investigations are going on."
     },
     {
       "sentiment": "positive",
@@ -316,8 +316,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/rahul-gandhi-congress-smash-patriarchy-pune-event-gen-z-women-rajdeep-sardesai-2985133-2026-09-02",
-      "headline": "New Rahul, Old Congress: Why the Grand Old Party needs to walk the talkRahul Gandhi's pitch for young women at a Pune event is admirable but stands in contrast with the Congress's reality of faction-ridden, male-dominated politics."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/katchatheevu-row-tamil-nadu-assembly-tvk-blames-karunanidhi-dmk-cites-indira-gandhi-2985608-2026-09-02",
+      "headline": "Katchatheevu row in TN Assembly; TVK blames Karunanidhi, DMK accuses Indira GandhiThe Katchatheevu issue sparked a heated TN Assembly debate, with TVK minister Nirmal Kumar blaming M Karunanidhi for the 1974 handover, while the DMK blamed the Indira Gandhi government. Congress MLA Tharahai Cuthbert defended the deal, citing India's gains from the Wadge Bank. The DMK also accused TVK of using the debate for social media 'reels.'"
     }
   ],
   "sports": [
