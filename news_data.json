@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/subhash-garg-nishikant-dubey-gdp-row-2018-letter-pm-modi-resurfaces-2986667-2026-09-03",
+      "headline": "Amid GDP row, BJP MP's 2018 letter to PM Modi criticising Subhash Garg resurfacesAn old 2018 letter by BJP MP Nishikant Dubey to Prime Minister Narendra Modi criticising Subhash Chandra Garg has resurfaced after Garg questioned the latest GDP figures. The episode has revived Dubey's earlier objections to Garg's fiscal approach and brought their policy clash back into focus."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-gdp-revisions-surjit-bhalla-no-evidence-political-manipulation-2986573-2026-09-03",
+      "headline": "Absolutely no politics: Surjit Bhalla rejects claims of GDP data manipulationIndia's revised GDP numbers have triggered questions over repeated revisions and the 7.8% growth rate. Surjit Bhalla explains why consumption, investment and imports offer a different picture of the data."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/real-estate/story/forget-metros-why-smaller-cities-could-drive-indias-next-home-loan-boom-2986421-2026-09-03",
       "headline": "Small-city home boom: Why Tier 2 and Tier 3 towns are taking offFrom rising incomes to easier digital lending, several factors are putting smaller cities at the centre of India's housing story. Is the country's next home-loan boom already taking shape beyond the metros?"
     },
@@ -89,19 +99,29 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/rbi-news-fcnr-b-deposit-india-forex-reserves-inr-value-in-dollar-non-resident-indian-2985252-2026-09-02",
       "headline": "NRIs put $100 billion in RBI scheme to take India's forex reserves to record highThe RBI's latest attempt to attract deposits from NRIs has been such a success that the central bank closed the scheme a month early. In just three months, the FCNR(B) has added $100 billion to India's forex reserves amid volatile crude prices and a depreciating rupee."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/irdai-public-insurance-registry-how-pir-could-help-consumers-track-policies-claims-2985332-2026-09-02",
-      "headline": "One registry for all your insurance? How IRDAI's PIR could help consumersIRDAI has proposed a Public Insurance Registry to connect and simplify insurance information. If implemented well, it could make policies easier to track, service and understand for consumers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/epfo-opens-one-time-amnesty-for-pf-trusts-who-can-benefit-2985308-2026-09-02",
-      "headline": "EPFO opens one-time amnesty for PF Trusts: Who can benefitUnder the scheme, eligible PF Trusts can get their exemption status regularised for the past period, subject to the applicable process and requirements."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/lollapalooza-india-2027-olivia-dean-limp-bizkit-to-headline-katseye-mumbai-debut-2986650-2026-09-03",
+      "headline": "Lollapalooza India 2027: Olivia Dean, Limp Bizkit to headline, KATSEYE Mumbai debut Lollapalooza India has unveiled its fifth-edition line-up for Mumbai on January 23 and 24, 2027. The bill pairs major international debuts with a broad Indian roster across four stages."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/after-19-years-sequel-to-akshay-kumars-heyy-babyy-to-be-shot-in-australia-again-2986430-2026-09-03",
+      "headline": "After 19 years, sequel to Akshay Kumar's Heyy Babyy to be shot in Australia again Sajid Nadiadwala announced Heyy Babyy 2 during New South Wales Premier Chris Minns's visit to his Mumbai office. The sequel will return to Australia under a three-film collaboration."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-ajith-thanks-cm-vijay-for-motorsports-push-calls-it-giant-leap-for-india-2986525-2026-09-03",
+      "headline": "Actor Ajith thanks CM Vijay for motorsports push, calls it giant leap for India Actor and racer Ajith Kumar thanked Chief Minister C Joseph Vijay for announcing Tamil Nadu sports infrastructure initiatives, including motorsport. Vijay had earlier announced plans for a new Secretariat complex, an Olympic City and a Motor Sports City in Chennai."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/krystle-dsouza-and-rida-tharana-win-the-traitors-2-split-rs-66-lakh-prize-money-2986453-2026-09-03",
+      "headline": "Krystle D'Souza and Rida Tharana win The Traitors 2, split Rs 66 lakh prize money Actor Krystle D'Souza and content creator Rida Tharana won The Traitors 2 after reaching the end together as Traitors. Their final reveal shocked co-contestants Sahil Salathia and Shalini Passi, underlining how well they hid their identities."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/latent-2-samay-raina-trolls-varun-dhawans-viral-smile-medha-shankar-joins-watch-2986292-2026-09-03",
@@ -176,33 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/prasanth-neel-418-cbfc-objections-horror-elements-revising-committee-2985989-2026-09-03",
       "headline": "KGF director-backed 418 hits censor hurdle, team approaches Revising Committee KGF director Prashanth Neel-backed horror film, 418, has approached the Revising Committee after the censor board raised objections. The delay has disrupted its release plans and sparked ironic reactions online over a horror film being flagged for horror elements."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-overseas-release-september-11-neem-karoli-baba-film-2986022-2026-09-03",
-      "headline": "Hanuman Ansh heads overseas after successful India run, releases September 11 Hanuman Ansh, a Hindi devotional drama on Neem Karoli Baba, continues its successful theatrical run in India and is set for an international release on September 11, 2026. Backed by Hombale Films, the film aims to take the spiritual leader's inspiring story to audiences worldwide."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-confirmed-contestants-mahhi-vij-qazi-touqeer-kanika-mann-isha-rikhi-2985992-2026-09-03",
-      "headline": "Bigg Boss 20 confirmed list: Qazi Touqeer, Mahhi Vij, Gullu, Isha Rikhi and others Several confirmed and rumoured names are fuelling early interest in Bigg Boss 20 before its September 6 premiere. The mix of television faces, reality-show alumni and surprise contenders is shaping the season's pre-launch buzz."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rashmika-mandanna-hip-injury-vijay-deverakonda-time-together-2985949-2026-09-03",
-      "headline": "Rashmika Mandanna says she could spend more time with Vijay after hip injury Rashmika Mandanna said a hip injury unexpectedly gave her rare time at home with Vijay Deverakonda. The break let the couple spend time together, even as she prepared to return to filming."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-opens-her-nick-jonas-dating-day-album-with-unseen-romantic-pics-2985926-2026-09-03",
-      "headline": "Priyanka Chopra opens her Nick Jonas dating-day album with unseen romantic pics Priyanka Chopra shared unseen moments from her early relationship with Nick Jonas and recalled giving him her number in summer 2017. The post connected the memory to the Jonas Brothers' new song Listen When Sad."
     }
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-gdp-revisions-surjit-bhalla-no-evidence-political-manipulation-2986573-2026-09-03",
+      "headline": "Absolutely no politics: Surjit Bhalla rejects claims of GDP data manipulationIndia's revised GDP numbers have triggered questions over repeated revisions and the 7.8% growth rate. Surjit Bhalla explains why consumption, investment and imports offer a different picture of the data."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/konda-surekha-sacked-from-telangana-cabinet-amid-row-over-daughters-remarks-against-cm-congress-leaders-2986164-2026-09-03",
-      "headline": "Revanth Reddy sacks Minister Konda Surekha amid row over her daughter's remarksA political row over remarks by Konda Surekha's daughter escalates as Revanth Reddy moves to remove the minister, while Telangana also sees key changes in boards and commissions."
+      "url": "https://www.indiatoday.in/world/story/russian-oil-purchases-what-jaishankar-told-zelenskyy-india-energy-needs-amid-ukraine-war-2986542-2026-09-03",
+      "headline": "Will India keep buying Russian oil amid war? Here's what Jaishankar told ZelenskyyIn Kyiv, S Jaishankar said India will continue buying Russian oil despite Ukraine's concerns. He said New Delhi's energy needs must be respected and such trade will not decide the conflict's outcome."
     },
     {
       "sentiment": "positive",
@@ -211,33 +216,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tamil-nadu-assembly-udhayanidhi-stalin-attacks-cm-vijay-after-walkout-2986266-2026-09-03",
-      "headline": "Tamil Nadu in reverse gear under TVK rule: Udhayanidhi attacks CM Vijay in AssemblyUdhayanidhi Stalin attacked Chief Minister Vijay in the Tamil Nadu Assembly after his walkout. The clash widened into a dispute over law and order, the Karur incident and Vijay's \"run away\" remark."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-rss-event-new-york-mohan-bhagwat-speech-ro-khanna-congressman-pramila-jayapal-india-abdul-el-sayed-2986045-2026-09-03",
-      "headline": "90 US politicians vow to reject RSS-linked funds after Mohan Bhagwat's NY eventAt least 90 American politicians, including prominent Indian-origin lawmakers Ro Khanna and Pramila Jayapal, have pledged to reject RSS-linked contributions. But the move has drawn accusations of discrimination from Hindu-American groups, which say the campaign unfairly singles out Hindu-American donors and subjects them to a loyalty test."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/talking-points/story/el-nino-ram-and-ai-are-creating-a-perfect-storm-2026-may-get-more-expensive-2986341-2026-09-03",
-      "headline": "El Nino, RAM, and AI are creating a perfect storm, 2026 may get more expensiveIf you feel that the world is increasingly getting more expensive, and chaotic, you are not hallucinating. It is getting more expensive, and is set to get more expensive once effects of El Nino and other inflationary forces, including RAM prices, kick in."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-india-vs-hong-kong-live-score-harmanpreet-kaur-dubai-2986432-2026-09-03",
-      "headline": "India vs Hong Kong Live Score: Hong Kong bowl first, India unchangedIND vs HKG, Women's Asia Cup Live Updates: Hong Kong have won the toss and opted to bowl first in Dubai. India are unchanged from their win against Thailand while for Hong Kong, their regular skipper Natasha Miles is back."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-drew-156-crore-devotees-year-2025-faith-now-linked-to-economy-cm-yogi-adityanath-panchayat-aaj-tak-mathura-2986415-2026-09-03",
-      "headline": "UP saw 156 crore devotees in 2025, faith now linked to economy: Yogi AdityanathYogi Adityanath said Uttar Pradesh received 156 crore devotees in 2025 and cited Braj as a model of religious tourism. He said improved infrastructure, investment and law and order had helped turn faith into economic activity."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/tata-chemicals-lake-magadi-operations-ordered-to-shut-president-ruto-over-kajiado-investment-and-jobs-2986353-2026-09-03",
       "headline": "Are we slaves to others? Kenya's President orders Tata Chemicals to shut operationsWilliam Ruto has ordered Tata Chemicals to halt operations at Lake Magadi, accusing the company of failing to deliver enough investment, jobs and industrial development to the region despite operating there for more than a century."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/el-nino-last-february-2027-wmo-warning-2986200-2026-09-03",
+      "headline": "100% chance that supersized El Nino will last until early 2027, WMO warnsThe World Meteorological Organisation has issued its strongest El Nino forecast yet, warning that the event could continue into February 2027 and raise extreme-weather risks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-taunts-us-with-minesweeper-video-on-transit-via-hormuz-habibi-come-to-iran-2986595-2026-09-03",
+      "headline": "Habibi, come to Iran: Tehran taunts US with Minesweeper video on transit via HormuzIran's embassy in Sierra Leone posted a Minesweeper-style video mocking the US. The video was posted days after US forces struck Iranian rocket launchers on Larak Island in the Strait of Hormuz. Washington said the launchers were being prepared to deploy mines into the waterway, posing a threat to international shipping."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/estonia-defence-minister-hanno-pevkur-resigns-over-70m-ukraine-ammunition-deal-with-india-linked-firm-that-never-arrived-2986458-2026-09-03",
+      "headline": "Estonia minister quits over ammunition deal with India-owned firm that never arrivedEstonia's Defence Minister Hanno Pevkur resigned after a 70 million euro ammunition deal for Ukraine unravelled. The sum was paid to a company that had never previously sold artillery shells."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-century-india-vs-hong-kong-womens-asia-cup-semi-finals-2986647-2026-09-03",
+      "headline": "India storm into semis after Smriti Mandhana's record nightSmriti Mandhana's record-breaking 124 powered India to a commanding total before their bowlers dismantled Hong Kong to secure a dominant 137-run victory. The win made India the first team to qualify for the Women's Asia Cup semi-finals."
     },
     {
       "sentiment": "positive",
@@ -246,18 +246,63 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-rss-event-new-york-mohan-bhagwat-speech-ro-khanna-congressman-pramila-jayapal-india-abdul-el-sayed-2986045-2026-09-03",
+      "headline": "90 US politicians vow to reject RSS-linked funds after Mohan Bhagwat's NY eventAt least 90 American politicians, including prominent Indian-origin lawmakers Ro Khanna and Pramila Jayapal, have pledged to reject RSS-linked contributions. But the move has drawn accusations of discrimination from Hindu-American groups, which say the campaign unfairly singles out Hindu-American donors and subjects them to a loyalty test."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/konda-surekha-sacked-from-telangana-cabinet-amid-row-over-daughters-remarks-against-cm-congress-leaders-2986164-2026-09-03",
+      "headline": "Revanth Reddy sacks Minister Konda Surekha amid row over her daughter's remarksA political row over remarks by Konda Surekha's daughter escalates as Revanth Reddy moves to remove the minister, while Telangana also sees key changes in boards and commissions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/aajtak-panchayat-distinguish-ram-prasad-bismil-bismillah-khan-yogi-adityanath-swipe-sp-minister-2986441-2026-09-03",
+      "headline": "Couldn't distinguish Ram Prasad Bismil from Bismillah Khan: Yogi takes swipe at SPYogi Adityanath said a former Samajwadi Party education minister had confused Ram Prasad Bismil with Ustad Bismillah Khan. The remark turned the alleged mix-up into a pointed political attack on the opposition party."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/krystle-dsouza-and-rida-tharana-win-the-traitors-2-split-rs-66-lakh-prize-money-2986453-2026-09-03",
+      "headline": "Krystle D'Souza and Rida Tharana win The Traitors 2, split Rs 66 lakh prize moneyActor Krystle D'Souza and content creator Rida Tharana won The Traitors 2 after reaching the end together as Traitors. Their final reveal shocked co-contestants Sahil Salathia and Shalini Passi, underlining how well they hid their identities."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/koderma-minor-rape-case-father-arrested-after-mother-files-complaint-2986651-2026-09-03",
+      "headline": "Father rapes minor daughter, arrested after mother's complaint in JharkhandIn Jharkhand's Koderma, a woman approached police after her minor daughter complained of rape by her father. The complaint led to his arrest, medical examination and remand to judicial custody."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/yasin-malik-sarla-bhat-killing-case-affidavit-denies-role-charges-conspiracy-kashmiri-pandits-exodus-2986305-2026-09-03",
       "headline": "Want death penalty, says Yasin Malik in Sarla Bhat case; BJP assures of justiceThe JKLF chief said his refusal to contest the case did not amount to an admission of guilt, maintaining in his affidavit that he was falsely implicated."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-review-meeting-rohit-sharma-retirement-devajit-saikia-speculation-2986311-2026-09-03",
-      "headline": "BCCI shuts down Rohit Sharma retirement rumours: Don't give fodder to speculationRohit Sharma's ODI future was expected to be discussed at the BCCI review meeting, but secretary Devajit Saikia dismissed retirement speculation, saying the former captain is playing superbly and remains an important option for India."
+      "url": "https://www.indiatoday.in/business/story/unacademy-upgrad-deal-free-upsc-coaching-revolution-94-percent-markdown-roman-saini-explained-2985344-2026-09-03",
+      "headline": "Unacademy gave teachers Bollywood stars' pay cheque. But went at 94% discountRoman Saini- and Gaurav Munjal-led Unacademy transformed the preparation for the UPSC Civil Services Examination and other competitive exams with free online classes before its valuation peaked at $3.44 billion. Rival upGrad has now acquired the ed-tech platform for just over $200 million, about 94% below that peak. But Unacademy's real impact lies somewhere between these numbers."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/who-is-singai-ramachandran-iim-ahmedabad-graduate-now-heads-tamil-nadu-startup-mission-2986505-2026-09-03",
+      "headline": "Singai Ramachandran, IIM-A grad who skipped placements is Tamil Nadu's startup chiefIIM Ahmedabad alumnus Singai G Ramachandran has been appointed chairperson of Tamil Nadu Startup and Innovation Mission. His career has taken an unusual route, from engineering and entrepreneurship to politics and now a key role in the state's startup ecosystem."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/varanasi-floods-ganga-rises-manikarnika-ghat-submerged-cremations-affected-pm-modi-directs-urgent-relief-video-2986385-2026-09-03",
+      "headline": "Ganga nears danger mark in Varanasi, ghats submerged; cremations shift to rooftopsPrime Minister Narendra Modi spoke to Varanasi District Magistrate Satyendra Kumar as the city's flood situation worsened. The fast-rising Ganga has disrupted daily life and submerged Manikarnika Ghat, forcing difficult cremations."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/us-news/story/indians-in-us-news-bhavesh-lathiya-surat-jailed-fentanyl-epidemic-new-york-attorney-office-drug-smuggling-2986210-2026-09-03",
       "headline": "Gujarat man jailed in US for smuggling deadly fentanyl chemicals as vitamin CA Gujarat-based chemical company executive has been sentenced to four-and-a-half years in the US for supplying chemicals used to make fentanyl. Prosecutors said he disguised the shipments as antacids and vitamins to smuggle them into the US."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/tamil-nadu-assembly-udhayanidhi-stalin-attacks-cm-vijay-after-walkout-2986266-2026-09-03",
+      "headline": "Tamil Nadu in reverse gear under TVK rule: Udhayanidhi attacks CM Vijay in AssemblyUdhayanidhi Stalin attacked Chief Minister Vijay in the Tamil Nadu Assembly after his walkout. The clash widened into a dispute over law and order, the Karur incident and Vijay's \"run away\" remark."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/latent-2-samay-raina-trolls-varun-dhawans-viral-smile-medha-shankar-joins-watch-2986292-2026-09-03",
+      "headline": "Latent 2: Samay Raina trolls Varun Dhawan's viral smile, Medha Shankar joins. WatchStandup comedian Samay Raina returned with a new episode of India's Got Latent Season 2, joined by guest panellists Varun Dhawan and Medha Shankar. The panel delivered playful ribbing over Dhawan's viral smile, trademark banter, and unscripted chaos."
     },
     {
       "sentiment": "negative",
@@ -265,62 +310,62 @@
       "headline": "Video: 7-year-old girl mauled by stray dogs in Ghaziabad residential societyA seven-year-old girl was mauled by stray dogs inside a residential society in Ghaziabad, and a nearby woman drove them away. The CCTV-captured attack has triggered residents' anger over safety and renewed complaints about the stray dog menace."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/pm-modi-sco-visit-chinese-internet-debates-india-detour-through-china-xi-jinping-2986289-2026-09-03",
-      "headline": "Chinese chatter on PM Modi's SCO visitChinese online commentary around PM Modi's SCO visit centred on his long flight detour to Central Asia through China. The debate brought India's transit constraints, regional frictions and the wider China-India thaw into focus."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-player-skips-king-charles-meeting-test-squad-dropped-eng-vs-pak-2986162-2026-09-03",
-      "headline": "Dropped from Test squad, one Pakistan player snubbed King Charles meeting: ReportPakistan cricket's latest turmoil spilt into a royal engagement as a dropped player reportedly refused to meet King Charles III. The player was among seven cricketers axed from the Test squad following the heavy defeat at Lord's."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ajit-agarkar-bcci-review-meeting-absence-explained-devajit-saikia-2986410-2026-09-03",
+      "headline": "Ajit Agarkar didn't attend BCCI review meeting. Devajit Saikia explains whyAjit Agarkar did not attend the BCCI review meeting as he was out of station and could not join online due to connectivity issues. BCCI secretary Devajit Saikia said no discussion took place on changes to the selection committee or Agarkar's future."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/meta-gives-employees-personal-ai-agent-for-improving-relationships-and-finances-2981840-2026-08-28",
-      "headline": "Meta gives employees personal AI agent for improving relationships and financesMeta is testing Hatch, a personal AI agent that can handle online tasks and help users manage areas such as finances and relationships, as Mark Zuckerberg continues his push to make AI a bigger part of the company's products and workforce."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/is-munna-bhaiya-bigger-than-kaleen-bhaiya-the-mirzapur-debate-we-need-to-settle-2986102-2026-09-03",
-      "headline": "Is Munna Bhaiya bigger than Kaleen Bhaiya? The Mirzapur debate we need to settleAs Mirzapur: The Movie arrives tomorrow, there is one old Mirzapur debate that deserves another round: Munna Bhaiya versus Kaleen Bhaiya. One has the gaddi, the other has the swagger, the dialogue and a fandom that simply refuses to let him go."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-chennai-makeover-rs-1200-crore-secretariat-olympic-city-motor-sports-city-plans-2986100-2026-09-03",
-      "headline": "Rs 1,200-crore Secretariat, Olympic City, Formula 1 track: Vijay's Chennai makeoverChief Minister C Joseph Vijay announced plans for a new Secretariat complex, an Olympic City and a Motor Sports City in Chennai. The proposals aim to recast the capital's administrative capacity and sporting ambitions while retaining Fort St George as a heritage site."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/raghav-chadha-delhi-voter-rolls-aap-sir-punjab-deletion-draft-electoral-rolls-political-vendetta-2986000-2026-09-03",
-      "headline": "Raghav Chadha tried to sneak into Delhi voter rolls: AAP on defector MP's SIR claimsAAP has accused BJP MP Raghav Chadha of seeking a backdated voter registration in Delhi after his name was deleted from Punjab's draft rolls. The charge came after Chadha, who quit AAP to join the BJP just months ago, alleged political vendetta over the deletion of his name during Punjab's SIR exercise."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/anaemia-diet-masoor-dal-drumstick-soup-what-dietitians-say-mira-kapoor-2986005-2026-09-03",
-      "headline": "Smriti Irani's dal soup helped Mira Kapoor with anaemia. Should you try it too?Can drinking masoor dal and drumstick soup everyday fix your anaemia? We asked experts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/what-is-squash-momo-the-dish-making-delhi-queue-up-outside-a-cr-park-eatery-limbu-kitchen-2986220-2026-09-03",
-      "headline": "What is squash momo, the dish making Delhi queue up outside a CR Park eatery?A squash-filled momo at Limbu Kitchen in CR Park is drawing long queues in Delhi. But what exactly is squash momo?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/gslv-f17-eos-05-launch-isro-end-launch-drought-geosynchronous-imaging-satellite-2985983-2026-09-03",
-      "headline": "'Naughty boy' GSLV gives Isro chance to end 8-month launch drought tonightIsro is set to launch GSLV-F17 with the EOS-05 Earth observation satellite from Sriharikota tonight. The mission could end an eight-month launch gap and revive India's geosynchronous imaging push."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-womens-champions-trophy-2027-pakistan-women-miss-out-2986378-2026-09-03",
-      "headline": "Pakistan out of Women's Champions Trophy: When did they last miss an ICC event?Pakistan have failed to qualify for the inaugural ICC Women's Champions Trophy 2027 after slipping outside the top six in the T20I rankings. Their recent struggles, including a poor 2026 T20 World Cup campaign, have contributed to their absence from a major ICC event for the first time since 2005."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/italy-visa-embassy-pakistan-students-fake-documents-application-surge-warning-2986074-2026-09-03",
-      "headline": "Pakistanis flooding Italy embassy with fake documents for student visaThe Italian Embassy in Islamabad has warned Pakistani students against submitting forged documents with study visa applications. The Embassy said that there has been an unprecedented surge in dubious and forged documents attached to study visa applications by the Pakistanis."
+      "url": "https://www.indiatoday.in/technology/talking-points/story/el-nino-ram-and-ai-are-creating-a-perfect-storm-2026-may-get-more-expensive-2986341-2026-09-03",
+      "headline": "El Nino, RAM, and AI are creating a perfect storm, 2026 may get more expensiveIf you feel that the world is increasingly getting more expensive, and chaotic, you are not hallucinating. It is getting more expensive, and is set to get more expensive once effects of El Nino and other inflationary forces, including RAM prices, kick in."
     }
   ],
   "sports": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-iga-swiatek-naomi-osaka-third-round-flushing-meadows-2986664-2026-09-03",
+      "headline": "US Open: Iga Swiatek eases into 3rd round, Naomi Osaka made to work hard Iga Swiatek brushed aside Nadia Podoroska with a commanding performance to continue her journey at the US Open. Naomi Osaka was made to work hard to edge past Katerina Siniakova in a three-set match."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/video/lionel-messi-retirement-sourav-ganguly-india-vs-brazil-2986658-2026-09-03",
+      "headline": "Lionel Messi's legacy hard to match: Sourav Ganguly on Argentina star's retirement Former India cricket captain and football fan Sourav Ganguly said that Lionel Messi's legacy will be one that is hard to match as the Argentina star announced his retirement from international football. Ganguly also commented on the upcoming India vs Brazil friendly in Kolkata."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-century-india-vs-hong-kong-womens-asia-cup-semi-finals-2986647-2026-09-03",
+      "headline": "India storm into semis after Smriti Mandhana's record night Smriti Mandhana's record-breaking 124 powered India to a commanding total before their bowlers dismantled Hong Kong to secure a dominant 137-run victory. The win made India the first team to qualify for the Women's Asia Cup semi-finals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-jemimah-rodrigues-mithali-raj-record-india-vs-hong-kong-womens-asia-cup-2986623-2026-09-03",
+      "headline": "My sister is a legend: Jemimah's message as Smriti Mandhana makes history Smriti Mandhana smashed 124 against Hong Kong China to overtake Mithali Raj as women's international cricket's leading run-scorer. Jemimah Rodrigues hailed the Indian opener as a legend and Mithali responded to Mandhana breaking her record."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-duleep-trophy-final-gautam-gambhir-call-rahul-padikkal-siraj-2986570-2026-09-03",
+      "headline": "Sooryavanshi's Duleep Trophy final participation to depend on Gambhir call Vaibhav Sooryavanshi's participation in the Duleep Trophy final depends on Gautam Gambhir's decision. KL Rahul, Devdutt Padikkal and Mohammed Siraj have been urged to play the game between South Zone and East Zone."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-century-hong-kong-warning-pakistan-womens-asia-cup-2986553-2026-09-03",
+      "headline": "Smriti Mandhana scripts history with record T20I century vs Hong Kong: Stat Pack Smriti Mandhana smashed a record-breaking 57-ball century against Hong Kong, becoming the first Indian woman with multiple T20I hundreds. Her explosive innings sent a strong warning to Pakistan ahead of India's Women's Asia Cup clash on September 5."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/video/push-for-motorsports-sports-infrastructure-development-across-tamil-nadu-growth-in-india-ytvd-2986546-2026-09-03",
+      "headline": "Push For Motorsports, Sports Infrastructure Development Across Tamil Nadu & Growth In India A new initiative has been announced to develop infrastructure and promote every discipline of sports, with a particular focus on the expansion of motorsports. The announcement addresses the requirement for institutional support and dedicated infrastructure to ensure the growth of motorsports and other athletic disciplines, marking a significant step for the sports sector in the region."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-cricket-aaqib-javed-row-rashid-khan-mocks-selector-england-tour-changes-2986534-2026-09-03",
+      "headline": "Make Aaqib Javed non-playing captain: Ex-Pakistan cricketer mocks PCB selector Former Pakistan all-rounder Rashid Khan has mocked senior selector Aaqib Javed by suggesting he should be made the team's non-playing captain. The comments come amid Pakistan's 2-0 Test series defeat in England and a major squad overhaul ahead of the final Test in Birmingham."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-ipl-2027-impact-player-s-badrinath-csk-future-2986496-2026-09-03",
+      "headline": "MS Dhoni told me he won't play IPL 2027 as Impact Player: Ex-CSK teammate Subramaniam Badrinath says MS Dhoni has ruled out playing only as an Impact Player in IPL 2027. Dhoni's future has been in focus since he missed the entirety of IPL 2026 due to an injury."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bcci-review-meeting-players-rest-new-ftp-devajit-saikia-2986433-2026-09-03",
@@ -329,52 +374,52 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-india-vs-hong-kong-live-score-harmanpreet-kaur-dubai-2986432-2026-09-03",
-      "headline": "India vs Hong Kong Live Score: Hong Kong bowl first, India unchanged IND vs HKG, Women's Asia Cup Live Updates: Hong Kong have won the toss and opted to bowl first in Dubai. India are unchanged from their win against Thailand while for Hong Kong, their regular skipper Natasha Miles is back."
+      "headline": "India vs Hong Kong LIVE: India advance to semis with 137-run win IND vs HKG, Women's Asia Cup Live Updates: India beat Hong Kong by 137 runs on Thursday and made their way through to the semifinals of the tournament. Smriti Mandhana won the Player of the Match award."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ajit-agarkar-bcci-review-meeting-absence-explained-devajit-saikia-2986410-2026-09-03",
-      "headline": "Ajit Agarkar didn't attend BCCI review meeting. Devajit Saikia explains why Ajit Agarkar did not attend the BCCI review meeting as he was out of station and could not join online due to connectivity issues. BCCI secretary Devajit Saikia said no discussion took place on changes to the selection committee or Agarkar's future."
+      "headline": "Ajit Agarkar didn't attend BCCI review meeting. Devajit Saikia explains whyAjit Agarkar did not attend the BCCI review meeting as he was out of station and could not join online due to connectivity issues. BCCI secretary Devajit Saikia said no discussion took place on changes to the selection committee or Agarkar's future."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/yuzvendra-chahal-bowls-ben-stokes-northamptonshire-vs-durham-county-championship-2986377-2026-09-03",
-      "headline": "Chahal's peach leaves Ben Stokes bowled again in county cricket Yuzvendra Chahal clean bowled Ben Stokes with a sharply turning ball in the County Championship. It extended a curious run of Indian spinners troubling Stokes in the tournament."
+      "headline": "Chahal's peach leaves Ben Stokes bowled again in county cricketYuzvendra Chahal clean bowled Ben Stokes with a sharply turning ball in the County Championship. It extended a curious run of Indian spinners troubling Stokes in the tournament."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/icc-womens-champions-trophy-2027-pakistan-women-miss-out-2986378-2026-09-03",
-      "headline": "Pakistan out of Women's Champions Trophy: When did they last miss an ICC event? Pakistan have failed to qualify for the inaugural ICC Women's Champions Trophy 2027 after slipping outside the top six in the T20I rankings. Their recent struggles, including a poor 2026 T20 World Cup campaign, have contributed to their absence from a major ICC event for the first time since 2005."
+      "headline": "Pakistan out of Women's Champions Trophy: When did they last miss an ICC event?Pakistan have failed to qualify for the inaugural ICC Women's Champions Trophy 2027 after slipping outside the top six in the T20I rankings. Their recent struggles, including a poor 2026 T20 World Cup campaign, have contributed to their absence from a major ICC event for the first time since 2005."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/video/olympic-city-in-chennai-dedicated-motorsport-city-announced-political-faceoff-over-infrastructure-ytvd-2986345-2026-09-03",
-      "headline": "Olympic City in Chennai, Dedicated Motorsport City Announced, Political Faceoff Over Infrastructure Plans have been announced to set up an Olympic city and a dedicated motorsport city in Chennai. The proposed Olympic city will feature world-class sports arenas, modern sporting equipment, and a high-performance training centre designed to support athletes and produce Olympians. The motorsport city is planned to host racing events up to Formula One standards and attract major racing and car manufacturing firms. Meanwhile, a political dispute has emerged between the ruling dispensation and the opposition over the track record of sports infrastructure development in the state, with both sides citing past and present projects."
+      "headline": "Olympic City in Chennai, Dedicated Motorsport City Announced, Political Faceoff Over InfrastructurePlans have been announced to set up an Olympic city and a dedicated motorsport city in Chennai. The proposed Olympic city will feature world-class sports arenas, modern sporting equipment, and a high-performance training centre designed to support athletes and produce Olympians. The motorsport city is planned to host racing events up to Formula One standards and attract major racing and car manufacturing firms. Meanwhile, a political dispute has emerged between the ruling dispensation and the opposition over the track record of sports infrastructure development in the state, with both sides citing past and present projects."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vvs-laxman-director-of-cricket-role-bcci-meeting-devajit-saikia-2986330-2026-09-03",
-      "headline": "BCCI not planning Director of Cricket role: Devajit Saikia ends VVS Laxman speculation BCCI secretary Devajit Saikia said after Thursday's board meeting that there is no plan to appoint a Director of Cricket. The clarification ends speculation around VVS Laxman taking up a bigger role within Indian cricket."
+      "headline": "BCCI not planning Director of Cricket role: Devajit Saikia ends VVS Laxman speculationBCCI secretary Devajit Saikia said after Thursday's board meeting that there is no plan to appoint a Director of Cricket. The clarification ends speculation around VVS Laxman taking up a bigger role within Indian cricket."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bcci-review-meeting-rohit-sharma-retirement-devajit-saikia-speculation-2986311-2026-09-03",
-      "headline": "BCCI shuts down Rohit Sharma retirement rumours: Don't give fodder to speculation Rohit Sharma's ODI future was expected to be discussed at the BCCI review meeting, but secretary Devajit Saikia dismissed retirement speculation, saying the former captain is playing superbly and remains an important option for India."
+      "headline": "BCCI shuts down Rohit Sharma retirement rumours: Don't give fodder to speculationRohit Sharma's ODI future was expected to be discussed at the BCCI review meeting, but secretary Devajit Saikia dismissed retirement speculation, saying the former captain is playing superbly and remains an important option for India."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-javelin-squad-yashvir-singh-replaces-neeraj-chopra-india-2986280-2026-09-03",
-      "headline": "CWG star Yashvir Singh replaces Neeraj Chopra in Asian Games athletics squad Yashvir Singh replaces Neeraj Chopra in India's men's javelin squad for the Asian Games, joining Rohit Yadav in the two-member team. With both throwers having crossed 80m this season, India will hope the duo can keep its javelin medal hopes alive despite Chopra's absence."
+      "headline": "CWG star Yashvir Singh replaces Neeraj Chopra in Asian Games athletics squadYashvir Singh replaces Neeraj Chopra in India's men's javelin squad for the Asian Games, joining Rohit Yadav in the two-member team. With both throwers having crossed 80m this season, India will hope the duo can keep its javelin medal hopes alive despite Chopra's absence."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/aryna-sabalenka-us-open-slams-reporter-second-round-win-2986211-2026-09-03",
-      "headline": "Think before you say stuff: Aryna Sabalenka slams reporter for lifestyle question Aryna Sabalenka hit back at a reporter after being asked if off-court events had altered her mood following another emphatic US Open second-round win. Sabalenka beat Polina Latcenko in straight sets to continue her journey at Flushing Meadows."
+      "headline": "Think before you say stuff: Aryna Sabalenka slams reporter for lifestyle questionAryna Sabalenka hit back at a reporter after being asked if off-court events had altered her mood following another emphatic US Open second-round win. Sabalenka beat Polina Latcenko in straight sets to continue her journey at Flushing Meadows."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/mohsin-naqvi-india-ireland-claim-pakistan-test-overhaul-england-series-2986190-2026-09-03",
-      "headline": "India lost to Ireland: Mohsin Naqvi's bizarre reason for Pak's Test woes goes viral PCB chief Mohsin Naqvi defended Pakistan's Test struggles by citing defeats suffered by other teams, including India's loss to Ireland in a T20I series in June. The remark went viral as Pakistan made sweeping mid-series changes after humbling losses to England in an ongoing Test series."
+      "headline": "India lost to Ireland: Mohsin Naqvi's bizarre reason for Pak's Test woes goes viralPCB chief Mohsin Naqvi defended Pakistan's Test struggles by citing defeats suffered by other teams, including India's loss to Ireland in a T20I series in June. The remark went viral as Pakistan made sweeping mid-series changes after humbling losses to England in an ongoing Test series."
     },
     {
       "sentiment": "negative",
@@ -430,51 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/india-vs-brazil-uruguay-panama-friendlies-khalid-jamil-defends-seniors-snub-squad-2985938-2026-09-03",
       "headline": "Khalid Jamil defends senior players' snub for Brazil, Uruguay friendliesKhalid Jamil has defended leaving several senior players out of India's squad for the friendlies against Brazil, Uruguay and Panama. He said selection is based on India's needs, with fitness, form and future planning driving his calls."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-stefanos-tsitsipas-grand-slam-third-round-navone-beats-berrettini-2985901-2026-09-03",
-      "headline": "Stefanos Tsitsipas reaches Grand Slam third round for first time since 2024Stefanos Tsitsipas came from a set down to beat Lloyd Harris and reach the US Open third round. The win ends his long wait for consecutive victories in a Grand Slam, and sets up a meeting with Jiri Lehecka."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/tiger-woods-reckless-driving-plea-dui-charge-dropped-florida-crash-2985896-2026-09-03",
-      "headline": "Tiger Woods pleads no contest to reckless driving charge after Florida crashTiger Woods pleaded no contest to reckless driving and refusing testing after his Florida rollover crash. The plea ends the DUI case against him, but leaves his comeback and health in focus."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-aryna-sabalenka-beats-third-round-frances-tiafoe-advances-2985891-2026-09-03",
-      "headline": "Aryna Sabalenka cruises into third round, Frances Tiafoe survives tough testAryna Sabalenka thrashed Polina Iatcenko to reach the US Open third round, while Frances Tiafoe beat Rei Sakamoto in straight sets. Sabalenka kept her bid for a third successive title on track, and Tiafoe preserved American hopes in New York."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-pak-babar-azam-king-charles-pakistan-tour-signed-bat-gift-2985877-2026-09-03",
-      "headline": "Babar Azam gifts signed Pakistan bat to King Charles amid England tour chaosENG vs PAK: Babar Azam presented King Charles III with a bat signed by the Pakistan squad in London. The meeting offered brief respite from an England tour marked by defeats, changes and scrutiny."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cafu-darjeeling-visit-brazil-legend-launch-futsal-teams-resort-project-2985876-2026-09-03",
-      "headline": "Brazil legend Cafu to visit Darjeeling, launch futsal teams this weekendBrazil World Cup-winning captain Cafu will attend a Darjeeling event to launch two futsal teams and remotely lay the foundation stone for a sports and wellness resort. His visit links a local tourism and football push with one of the sport's most decorated international careers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-hookah-video-rishabh-pant-viral-party-clip-2985870-2026-09-03",
-      "headline": "Did Dhoni talk about smoking hookah? Viral party clip with Pant sparks frenzyA video appearing to show MS Dhoni and Rishabh Pant at a gathering has gone viral after Dhoni was heard apparently mentioning hookah. The unverified clip has fuelled online chatter while renewing attention on the long-standing bond between the two wicketkeepers."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-contingent-sports-ministry-approves-athletes-staff-2985843-2026-09-02",
-      "headline": "Asian Games 2026: Sports Ministry approves 246-member Indian support staff contingentThe Sports Ministry has approved 246 team officials and support staff for India's 503-athlete contingent at the Aichi-Nagoya Asian Games. India's 768-member contingent will compete across 36 disciplines, with athletics receiving the largest support staff allocation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/video/argentine-restaurant-pays-tribute-to-lionel-messi-with-face-shaped-milanesa-ytvd-2985841-2026-09-02",
-      "headline": "Argentine Restaurant Pays Tribute To Lionel Messi With Face-Shaped MilanesaAn Argentine restaurant has paid tribute to soccer star Lionel Messi with a specially crafted milanesa. Chef Damian Zanotti of the Buenos Aires restaurant El Antojo created the breaded schnitzel shaped and decorated to resemble the face of the country's football icon. The chef used a photograph of Messi as a reference while shaping the meat, applying an egg wash, and coating it with breadcrumbs to complete the edible portrait."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/jessica-pegula-us-open-win-daniil-medvedev-paula-badosa-advance-2985831-2026-09-02",
-      "headline": "Jessica Pegula keeps No.1 hopes alive as Medvedev, Badosa advanceJessica Pegula stormed past Sofia Kenin in straight sets to keep her world No.1 hopes alive at the US Open. Daniil Medvedev reached Round 3 with a dominant win over Sebastian Gorzny, while Paula Badosa set up a second-round clash with Coco Gauff."
     }
   ],
   "education": [
@@ -554,7 +554,7 @@
       "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
