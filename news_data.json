@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/apoorva-mukhija-breaks-silence-on-claims-she-paid-donation-for-nyu-admission-2988002-2026-09-06",
+      "headline": "Apoorva Mukhija breaks silence on claims she paid donation for NYU admission Apoorva Mukhija has rejected claims that she paid a donation to secure admission to NYU for her MBA. Her response places the scrutiny around her move amid a period marked by online backlash and intense public attention."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-makes-cryptic-marriage-remark-ssunita-ahuja-at-dahi-handi-celebration-2987976-2026-09-05",
       "headline": "Govinda makes cryptic marriage remark at Dahi Handi celebration, seeks fans' prayers Govinda made a cryptic reference to the controversy around his marriage to Ssunita Ahuja while speaking at a Mumbai Dahi Handi event. He sought fans' support and prayers as he spoke about clearing the air and returning to films."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/panchayat-5-director-deepak-mishra-reveals-release-window-says-its-not-the-end-2987440-2026-09-05",
       "headline": "Panchayat 5 director Deepak Mishra reveals release window, says it's not the end Director Deepak Kumar Mishra said Panchayat Season 5 is in editing and may arrive around October-November. He said the new season will track life in Phulera after Pradhan Ji's defeat while taking each character forward."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/karishma-tanna-reveals-sons-name-on-janmashtami-shares-sacred-meaning-behind-it-2987414-2026-09-05",
-      "headline": "Karishma Tanna reveals son's name on Janmashtami, shares sacred meaning behind it Karishma Tanna and Varun Bangera revealed their son's name on Janmashtami as he turned one month old. The couple welcomed their first child on July 29, 2026."
     }
   ],
   "general news": [
@@ -211,8 +211,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/putin-orders-3-day-halt-to-kyiv-strikes-as-witkoff-kushner-arrive-in-moscow-2987789-2026-09-05",
-      "headline": "Putin orders 3-day halt to Kyiv strikes as Witkoff, Kushner arrive in MoscowKremlin spokesman Dmitry Peskov said Putin would meet US envoys Witkoff and Kushner on Saturday, as they arrived in Moscow for talks aimed at advancing Ukraine peace efforts."
+      "url": "https://www.indiatoday.in/world/story/putin-us-envoys-witkoff-kushner-ukraine-ceasefire-talks-russia-2988007-2026-09-06",
+      "headline": "Putin calls Ukraine situation difficult as Trump envoys visit KremlinRussian President Vladimir Putin met Steve Witkoff and Jared Kushner in Moscow for talks on ending the war in Ukraine. The exchange underscored continuing US-Russia engagement as Washington pushes for a negotiated path forward."
     },
     {
       "sentiment": "positive",
@@ -221,73 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/dutch-ceo-offers-job-to-bittu-tabahi-the-man-who-cleaned-filthy-river-by-himself-2987719-2026-09-05",
-      "headline": "Dutch CEO offers job to Bittu Tabahi, the man who cleaned filthy river by himselfAfter months of cleaning the polluted Ajnar River on his own, Surendra Singh Choudhry caught the attention of Dutch CEO Boyan Slat. The Ocean Cleanup founder's invitation has turned a local effort into a global opening."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ketan-agrawal-murder-case-pune-police-arrest-third-accused-ritesh-hinge-2987855-2026-09-05",
-      "headline": "Pune police arrest Chetan's friend as third accused in Ketan Agrawal murder caseInitially treated as an accident, the case took a turn after Agrawal's sister flagged inconsistencies in Goyal's account of his fatal fall."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/pm-modi-srcc-centenary-calls-alumni-og-recalls-2013-speech-india-rise-2987921-2026-09-05",
-      "headline": "OG, flex: PM Modi brings Gen Z lingo to SRCC centenary celebrationsAt SRCC's centenary celebrations, Prime Minister Narendra Modi switched to Gen Z language to praise the college's alumni. From calling them \"OG\" to recalling his 2013 speech, Modi spoke about SRCC's legacy and India's global ambitions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/influencer-swatantra-bharadwaj-who-claimed-to-have-broken-cjp-protesters-skull-arrested-2987635-2026-09-05",
-      "headline": "Crackdown on Swatantra Bhardwaj: Activist arrested, sent to 1-day custodySwatantra Bhardwaj, who was detained from his house in Bulandshahr on Friday following protests by the CJP and the opposition, was later sent to one-day police custody."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/miss-world-2026-winner-joheirry-mola-dominican-republic-vietnam-2987978-2026-09-05",
-      "headline": "Joheirry Mola of Dominican Republic wins Miss World 2026And just like that, the crown has found its new home. Joheirry Mola of the Dominican Republic has emerged as the winner of the 73rd Miss World pageant. Nikita Porwal represented India and made it to the top 40 finalists."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-delhi-retrofit-device-recd-to-cut-old-diesel-vehicle-pollution-nitin-gadkari-backs-2987777-2026-09-05",
-      "headline": "Gadkari backs IIT Delhi innovation that can cut old diesel vehicle pollution by 90%Nitin Gadkari said the government will allow older diesel trucks and buses to use an IIT Delhi retrofit device. The low-cost technology has cleared testing and could sharply cut emissions while complementing vehicle replacement efforts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/belgian-chocolate-india-gate-for-pm-modi-broke-in-transit-bart-de-wever-vows-new-delivery-2987958-2026-09-05",
-      "headline": "India Gate, but make it chocolate. Belgium reveals gift that didn't reach PM ModiSharing a photograph of the elaborate creation on X, the embassy revealed the story behind the chocolate monument."
+      "url": "https://www.indiatoday.in/opinion/story/fort-st-george-tamil-nadu-government-relocation-new-power-centre-2987348-2026-09-05",
+      "headline": "Vijay wants to change coordinates of power in TN: Why it's needed, what he must doFort St George is a fine heritage building but ill-equipped to house a government of eight crore people. How must Chief Minister Vijay go about looking for a new place?"
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/education-today/news/story/who-is-anupriya-nagar-21-year-old-economics-student-behind-hanuman-anshs-run-2987791-2026-09-05",
       "headline": "Who is Anupriya Nagar? 21-year-old economics student behind Rs 72 cr Hanuman AnshAt 21, University of Bath economics student Anupriya Nagar has made an unusual leap into filmmaking. Her debut production, Hanuman Ansh, inspired by Neem Karoli Baba, opened to Rs 10 lakh but has since crossed Rs 72 crore in India, according to Sacnilk figures."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/2026-maruti-baleno-facelift-launched-at-rs-610-lakh-gets-adas-new-engine-and-more-2987880-2026-09-05",
-      "headline": "2026 Maruti Baleno facelift launched at Rs 6.10 lakh: Gets ADAS, new engine and moreMaruti Suzuki has refreshed the Baleno for 2026, bringing a new three-cylinder petrol engine, Level 2 ADAS and added premium features to its popular hatchback."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/narmada-boat-sinking-jabalpur-home-guards-rescued-gwarighat-2987940-2026-09-05",
-      "headline": "Boat carrying 9 home guards sinks in Narmada; all survive thanks to life jacketsA Home Guard patrol boat carrying nine personnel sank in the Narmada at Jabalpur's Gwarighat after floating debris snagged its engine. All nine were rescued, and officials are investigating capacity concerns and possible operator fault."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/cbi-fir-subhash-chandra-lichfl-loan-default-inflated-net-worth-rs-1322-crore-loss-ptag-2987672-2026-09-05",
-      "headline": "CBI files case against Subhash Chandra for inflating net worth to secure loansThe CBI case centres on certificates submitted in 2018 to obtain two credit facilities totalling Rs 980 crore. One certificate placed Chandra's net worth at Rs 59,113 crore. However, during subsequent insolvency proceedings, he reportedly stated that his net worth in 2024 was just Rs 31.79 crore."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/kerala/story/thrissur-road-accident-eight-tamil-nadu-students-killed-car-hits-parked-lorry-2987463-2026-09-05",
-      "headline": "8 engineering students killed as car crashes into illegally parked lorry in KeralaEight students from Tamil Nadu died after their car hit a parked lorry on a highway in Kerala's Thrissur district, police said. CCTV footage captured the incident, and the bodies were sent to the mortuary at Thrissur Medical College."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/national-teacher-awards-2026-teachers-using-ai-vr-to-transform-rural-schools-government-schools-2987904-2026-09-05",
-      "headline": "From 7D VR labs to AI apps: Meet teachers transforming India's rural classroomsFrom a 7D VR lab and AI learning app to mobile science labs and virtual mathematics classrooms, these National Teacher Award winners are using technology to change what students can access in government and rural schools across India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-636-04-09-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "negative",
@@ -296,8 +236,68 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/delhi-ncr-north-india-rain-forecast-september-2987740-2026-09-05",
-      "headline": "Monsoon to march over India on Sunday: Heavy rain forecast in these statesMore rain is forecast across north and central India on Sunday, with Delhi-NCR, UP, Uttarakhand and Rajasthan among the areas facing heavy showers."
+      "url": "https://www.indiatoday.in/science/story/isro-semi-cryogenic-engine-full-thrust-test-lvm3-upgrade-2988011-2026-09-06",
+      "headline": "Isro's new engine passes big test, paves way for heavier LVM3 launchesIsro tested its semi-cryogenic engine powerhead at full 200-tonne thrust for the first time in Mahendragiri. The result clears a key validation step for longer trials and the planned LVM3 upgrade."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/miss-world-2026-winner-joheirry-mola-dominican-republic-vietnam-2987978-2026-09-05",
+      "headline": "Joheirry Mola of Dominican Republic wins Miss World 2026And just like that, the crown has found its new home. Joheirry Mola of the Dominican Republic has emerged as the winner of the 73rd Miss World pageant. Nikita Porwal represented India and made it to the top 40 finalists."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-mirra-andreeva-fourth-round-madison-keys-amanda-anisimova-exit-2988019-2026-09-06",
+      "headline": "Madison Keys, Amanda Anisimova stunned, Mirra Andreeva reaches maiden US Open R16Madison Keys and Amanda Anisimova suffered third-round exits at the US Open, denting American hopes in New York. Mirra Andreeva, meanwhile, reached the fourth round for the first time after a composed straight-sets win over Nikola Bartunkova."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-dimagi-naxal-remark-srcc-critics-came-out-in-open-2987949-2026-09-05",
+      "headline": "'Dimagi Naxal' pill made critics come out, says PM Modi at SRCCHe did not name any individual but used the term as part of his broader attack on people he accused of opposing India's development and wanting the country to fail."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/iit-delhi-retrofit-device-recd-to-cut-old-diesel-vehicle-pollution-nitin-gadkari-backs-2987777-2026-09-05",
+      "headline": "Gadkari backs IIT Delhi innovation that can cut old diesel vehicle pollution by 90%Nitin Gadkari said the government will allow older diesel trucks and buses to use an IIT Delhi retrofit device. The low-cost technology has cleared testing and could sharply cut emissions while complementing vehicle replacement efforts."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shafali-verma-youngest-fastest-3000-womens-t20i-runs-india-vs-pakistan-asia-cup-2987999-2026-09-05",
+      "headline": "Shafali Verma scripts history, becomes youngest and fastest to 3000 Women's T20I runsShafali Verma became the youngest and fastest batter to 3,000 Women's T20I runs, reaching the landmark at 22 years and 220 days in India's clash against Pakistan. India bowled Pakistan out for 55, sealing a seven-wicket win and finishing atop Group A."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/dholpur-van-accident-four-killed-after-eco-falls-into-rain-filled-pond-in-rajasthan-2988021-2026-09-06",
+      "headline": "Three children, woman die as van plunges into rain-hit pond in RajasthanAn Eco van carrying shrine-bound villagers overturned into a deep pond near Phoolpur during heavy rain. The crash left four dead, injured several others and has put the focus on severe waterlogging."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/belgian-chocolate-india-gate-for-pm-modi-broke-in-transit-bart-de-wever-vows-new-delivery-2987958-2026-09-05",
+      "headline": "India Gate, but make it chocolate. Belgium reveals gift that didn't reach PM ModiSharing a photograph of the elaborate creation on X, the embassy revealed the story behind the chocolate monument."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ketan-agrawal-murder-case-pune-police-arrest-third-accused-ritesh-hinge-2987855-2026-09-05",
+      "headline": "Pune police arrest Chetan's friend as third accused in Ketan Agrawal murder caseInitially treated as an accident, the case took a turn after Agrawal's sister flagged inconsistencies in Goyal's account of his fatal fall."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/2026-maruti-baleno-facelift-launched-at-rs-610-lakh-gets-adas-new-engine-and-more-2987880-2026-09-05",
+      "headline": "2026 Maruti Baleno facelift launched at Rs 6.10 lakh: Gets ADAS, new engine and moreMaruti Suzuki has refreshed the Baleno for 2026, bringing a new three-cylinder petrol engine, Level 2 ADAS and added premium features to its popular hatchback."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-636-04-09-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/kerala/story/thrissur-road-accident-eight-tamil-nadu-students-killed-car-hits-parked-lorry-2987463-2026-09-05",
+      "headline": "8 engineering students killed as car crashes into illegally parked lorry in KeralaEight students from Tamil Nadu died after their car hit a parked lorry on a highway in Kerala's Thrissur district, police said. CCTV footage captured the incident, and the bodies were sent to the mortuary at Thrissur Medical College."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/video/nepal-floods-army-builds-bailey-and-pulley-bridges-to-reconnect-cut-off-areas-frvd-2987899-2026-09-05",
+      "headline": "Bailey, pulley bridges to rescue: Nepal Army races to restore connectivity in NuwakotFollowing severe devastation caused by the furious Batkochi and Trishuli rivers, villages and towns disconnected for more than ten days are receiving vital relief."
     },
     {
       "sentiment": "negative",
@@ -305,22 +305,47 @@
       "headline": "Nepal's flood disaster raises a chilling question: Could India be next?A deadly avalanche-driven flood in Nepal has raised fresh concern across the Indian Himalayas. Scientists say India cannot predict an identical event, but expanding lakes and unstable slopes need closer monitoring."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/nagpur-woman-murder-husband-arrested-food-dance-class-row-2987890-2026-09-05",
-      "headline": "Wife refuses to serve husband food to attend dance class, he beats her to deathA Nagpur woman was beaten to death by her husband after a row over serving food and attending a dance class. The case turned after her family sought a post-mortem that revealed fatal injuries and led to a murder charge."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/pm-modi-srcc-centenary-calls-alumni-og-recalls-2013-speech-india-rise-2987921-2026-09-05",
+      "headline": "OG, flex: PM Modi brings Gen Z lingo to SRCC centenary celebrationsAt SRCC's centenary celebrations, Prime Minister Narendra Modi switched to Gen Z language to praise the college's alumni. From calling them \"OG\" to recalling his 2013 speech, Modi spoke about SRCC's legacy and India's global ambitions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/satwik-chirag-china-masters-final-beat-malaysia-azriyn-tan-semifinal-2987866-2026-09-05",
-      "headline": "Satwik-Chirag enter China Masters final for 3rd time, beat Malaysian pairWith their eyes firmly set on their first China Masters title, India's Satwiksairaj Rankireddy and Chirag Shetty defeated Malaysia's Nur Mohd Ayub Azriyn and Tan Wee Kiong in three games to make it to the final."
+      "url": "https://www.indiatoday.in/science/story/delhi-ncr-north-india-rain-forecast-september-2987740-2026-09-05",
+      "headline": "Monsoon to march over India on Sunday: Heavy rain forecast in these statesMore rain is forecast across north and central India on Sunday, with Delhi-NCR, UP, Uttarakhand and Rajasthan among the areas facing heavy showers."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/fort-st-george-tamil-nadu-government-relocation-new-power-centre-2987348-2026-09-05",
-      "headline": "Vijay wants to change coordinates of power in TN: Why it's needed, what he must doFort St George is a fine heritage building but ill-equipped to house a government of eight crore people. How must Chief Minister Vijay go about looking for a new place?"
+      "url": "https://www.indiatoday.in/business/story/cbi-fir-subhash-chandra-lichfl-loan-default-inflated-net-worth-rs-1322-crore-loss-ptag-2987672-2026-09-05",
+      "headline": "CBI files case against Subhash Chandra for inflating net worth to secure loansThe CBI case centres on certificates submitted in 2018 to obtain two credit facilities totalling Rs 980 crore. One certificate placed Chandra's net worth at Rs 59,113 crore. However, during subsequent insolvency proceedings, he reportedly stated that his net worth in 2024 was just Rs 31.79 crore."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2026-francisco-cerundolo-beats-taylor-fritz-swiatek-blockx-win-2988020-2026-09-06",
+      "headline": "Cerundolo eliminates Taylor Fritz in thriller, Swiatek battles past Bouzkova Francisco Cerundolo staged a stunning comeback to knock out ninth seed Taylor Fritz and reach the US Open fourth round. Iga Swiatek survived Marie Bouzkova in two tight tiebreak sets, while Alexander Blockx stunned Flavio Cobolli."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-mirra-andreeva-fourth-round-madison-keys-amanda-anisimova-exit-2988019-2026-09-06",
+      "headline": "Madison Keys, Amanda Anisimova stunned, Mirra Andreeva reaches maiden US Open R16 Madison Keys and Amanda Anisimova suffered third-round exits at the US Open, denting American hopes in New York. Mirra Andreeva, meanwhile, reached the fourth round for the first time after a composed straight-sets win over Nikola Bartunkova."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shafali-verma-fatima-sana-send-off-india-vs-pakistan-womens-asia-cup-2988012-2026-09-06",
+      "headline": "Pakistan captain Fatima Sana slammed for Shafali Verma sendoff against India Women's Asia Cup: Pakistan captain Fatima Sana faced criticism for her sendoff to Shafali Verma after dismissing the India opener for 12. Fatima took three wickets, but India cruised to a seven-wicket win over Pakistan in Dubai."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-womens-asia-cup-harmanpreet-kaur-fatima-sana-2988001-2026-09-05",
+      "headline": "India happy to be ruthless vs Pakistan: Harmanpreet Kaur on women's Asia Cup win Harmanpreet Kaur said she was happy to see the Indian team be ruthless in their performance against Pakistan during their Women's Asia Cup clash on Saturday, September 5. India defeated Pakistan by 7 wickets after bundling them out for 55 runs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shafali-verma-youngest-fastest-3000-womens-t20i-runs-india-vs-pakistan-asia-cup-2987999-2026-09-05",
+      "headline": "Shafali Verma scripts history, becomes youngest and fastest to 3000 Women's T20I runs Shafali Verma became the youngest and fastest batter to 3,000 Women's T20I runs, reaching the landmark at 22 years and 220 days in India's clash against Pakistan. India bowled Pakistan out for 55, sealing a seven-wicket win and finishing atop Group A."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/imran-khan-health-medical-care-brian-lara-instagram-2987988-2026-09-05",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/yuki-bhambri-us-open-2026-michael-venus-doubles-return-2987850-2026-09-05",
-      "headline": "Yuki Bhambri determined to perform at US Open 2026 after dream 2025 run Yuki Bhambri will draw inspiration from his breakthrough US Open 2025 semi-final run as he returns to New York with Michael Venus. The Indian will look to stay focused and take the 2026 campaign match by match without being weighed down by past success."
+      "headline": "Yuki Bhambri determined to perform at US Open 2026 after dream 2025 runYuki Bhambri will draw inspiration from his breakthrough US Open 2025 semi-final run as he returns to New York with Michael Venus. The Indian will look to stay focused and take the 2026 campaign match by match without being weighed down by past success."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-birthday-post-jemimah-rodrigues-recalls-world-cup-wpl-2987825-2026-09-05",
-      "headline": "Smriti Mandhana wins hearts with sweet birthday wish for Jemimah Rodrigues Smriti Mandhana made Jemimah Rodrigues' 26th birthday special with a heartfelt video celebrating their close friendship. From World Cup celebrations to WPL rivalry, the two have continued to share a strong bond both on and off the field."
+      "headline": "Smriti Mandhana wins hearts with sweet birthday wish for Jemimah RodriguesSmriti Mandhana made Jemimah Rodrigues' 26th birthday special with a heartfelt video celebrating their close friendship. From World Cup celebrations to WPL rivalry, the two have continued to share a strong bond both on and off the field."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-india-vs-pakistan-group-a-live-score-harmanpreet-kaur-2987778-2026-09-05",
-      "headline": "India vs Pakistan Highlights: India hammer Pakistan by 7 wickets to continue winning run IND vs PAK, Women's Asia Cup Highlights: India beat Pakistan by 7 wickets in Dubai after chasing down 56 in 8.4 overs. With the win, India cemented their spot on top of Group A and will go into the semis unbeaten."
+      "headline": "India vs Pakistan Highlights: India hammer Pakistan by 7 wickets to continue winning runIND vs PAK, Women's Asia Cup Highlights: India beat Pakistan by 7 wickets in Dubai after chasing down 56 in 8.4 overs. With the win, India cemented their spot on top of Group A and will go into the semis unbeaten."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/gianni-infantino-attend-fifa-u20-womens-world-cup-opener-poland-2987729-2026-09-05",
-      "headline": "Gianni Infantino to attend FIFA U-20 Women's World Cup opener in Poland FIFA President Gianni Infantino will attend the opening match of the FIFA U-20 Women's World Cup in Katowice, Poland, on Saturday, September 5, as hosts Poland take on Argentina."
+      "headline": "Gianni Infantino to attend FIFA U-20 Women's World Cup opener in PolandFIFA President Gianni Infantino will attend the opening match of the FIFA U-20 Women's World Cup in Katowice, Poland, on Saturday, September 5, as hosts Poland take on Argentina."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-india-comeback-ishan-kishan-duleep-trophy-final-east-zone-2987696-2026-09-05",
-      "headline": "Legend Mohammed Shami has hunger in him for India comeback: Ishan Kishan Ishan Kishan believes that age is just a number and Mohammed Shami still has the hunger to make a comeback into the Indian team. Shami is all set to play his 100th first-class match during the Duleep Trophy final."
+      "headline": "Legend Mohammed Shami has hunger in him for India comeback: Ishan KishanIshan Kishan believes that age is just a number and Mohammed Shami still has the hunger to make a comeback into the Indian team. Shami is all set to play his 100th first-class match during the Duleep Trophy final."
     },
     {
       "sentiment": "positive",
@@ -450,31 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-womens-asia-cup-t20-preview-live-streaming-team-news-2987325-2026-09-05",
       "headline": "Rivalry or routine? India eye another dominant win vs PakistanIndia and Pakistan lock horns once again in the Women's Asia Cup with far less fanfare and noise around the fixture. India, already through to the semis, will aim to continue their dominance over their arch-rivals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/real-madrid-kylian-mbappe-penalty-miss-2987469-2026-09-05",
-      "headline": "Mbappe misses penalty, Real Madrid suffer first loss of LaLiga seasonReal Madrid's perfect start to the LaLiga season came crashing down in Seville as Kylian Mbappe missed a stoppage-time penalty in a 1-0 defeat to Real Betis. Troy Parrott's late goal and a string of crucial saves from Alvaro Valles condemned Madrid to a frustrating loss."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-enzo-fernandez-manchester-city-maresca-liverpool-bradley-barcola-2987346-2026-09-05",
-      "headline": "Premier League buzz: Will Enzo Fernandez complete Maresca's Manchester City puzzle?Manchester City have signed Enzo Fernandez as Enzo Maresca tightens his grip on the midfield. The move sets the tone for an early Premier League week shaped by heavy spending, pressure and uneasy rebuilds."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-emma-navarro-karolina-muchova-knocked-out-flushing-meadows-2987454-2026-09-05",
-      "headline": "Wimbledon finalist Karolina Muchova dumped out in 3rd round by Emma NavarroEmma Navarro stunned World No.7 Karolina Muchova to dump the Wimbledon finalist out of the US Open in the third round. Muchova became the first top 10 ranked player to exit the tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-beats-wu-yibing-us-open-fourth-round-comeback-new-york-2987451-2026-09-05",
-      "headline": "Alcaraz downs Wu Yibing, keeps US Open comeback trail rolling into 4th roundCarlos Alcaraz absorbed a fierce challenge from Wu Yibing before clinching a straight-sets win at the US Open. The result kept his comeback on track and set up a meeting with Tommy Paul."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/aryna-sabalenka-us-open-weed-smell-match-stopped-crowd-behaviour-2987449-2026-09-05",
-      "headline": "I might get high: Aryna Sabalenka jokes after weed smell stops US Open matchAryna Sabalenka urged fans to be more careful around the tennis courts after her US Open third round match was stopped due to the smell of weed inside the court. Sabalenka joked that if people kept smoking, then she might end up getting high."
     }
   ],
   "education": [
