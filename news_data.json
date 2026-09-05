@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-makes-cryptic-marriage-remark-ssunita-ahuja-at-dahi-handi-celebration-2987976-2026-09-05",
+      "headline": "Govinda makes cryptic marriage remark at Dahi Handi celebration, seeks fans' prayers Govinda made a cryptic reference to the controversy around his marriage to Ssunita Ahuja while speaking at a Mumbai Dahi Handi event. He sought fans' support and prayers as he spoke about clearing the air and returning to films."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/kamal-haasan-cheers-bethlehem-kudumba-unit-team-after-blockbuster-theatre-run-2987915-2026-09-05",
       "headline": "Kamal Haasan cheers Bethlehem Kudumba Unit team after blockbuster theatre run Kamal Haasan met the Bethlehem Kudumba Unit team and congratulated them on the film's box office run. The visit comes as the Girish AD directorial crosses Rs 200 crore worldwide and expands in Tamil and Telugu."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/karishma-tanna-reveals-sons-name-on-janmashtami-shares-sacred-meaning-behind-it-2987414-2026-09-05",
       "headline": "Karishma Tanna reveals son's name on Janmashtami, shares sacred meaning behind it Karishma Tanna and Varun Bangera revealed their son's name on Janmashtami as he turned one month old. The couple welcomed their first child on July 29, 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-hypes-mirzapur-the-movie-calls-it-a-kadak-masaledar-ride-2987370-2026-09-04",
-      "headline": "Karan Johar hypes Mirzapur: The Movie, calls it a kadak masaledar ride Karan Johar shared his review of Mirzapur The Movie on social media. His reaction adds to the buzz as the franchise moves from streaming to cinemas."
     }
   ],
   "general news": [
@@ -211,18 +211,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-india-vs-pakistan-group-a-live-score-harmanpreet-kaur-2987778-2026-09-05",
-      "headline": "India vs Pakistan Live Score: India bowl Pakistan out for 55 in DubaiIND vs PAK, Women's Asia Cup Live Updates: The Indian spinners have completely dominated the Pakistan batters in Dubai. Pakistn, meanwhile, are struggling and need a partnership if they are to reach a respectable total."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/putin-orders-3-day-halt-to-kyiv-strikes-as-witkoff-kushner-arrive-in-moscow-2987789-2026-09-05",
       "headline": "Putin orders 3-day halt to Kyiv strikes as Witkoff, Kushner arrive in MoscowKremlin spokesman Dmitry Peskov said Putin would meet US envoys Witkoff and Kushner on Saturday, as they arrived in Moscow for talks aimed at advancing Ukraine peace efforts."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-pakistan-womens-asia-cup-dubai-spinners-report-2987969-2026-09-05",
+      "headline": "India Women apply familiar spin choke to complete routine win over listless PakistanIndia produced another dominant performance against Pakistan, winning by seven wickets after chasing down 56 with 11.2 overs to spare. The victory extended India's Women's Asia Cup record against Pakistan to 7-1, while Pakistan now face a must-win clash against Hong Kong."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/dutch-ceo-offers-job-to-bittu-tabahi-the-man-who-cleaned-filthy-river-by-himself-2987719-2026-09-05",
       "headline": "Dutch CEO offers job to Bittu Tabahi, the man who cleaned filthy river by himselfAfter months of cleaning the polluted Ajnar River on his own, Surendra Singh Choudhry caught the attention of Dutch CEO Boyan Slat. The Ocean Cleanup founder's invitation has turned a local effort into a global opening."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ketan-agrawal-murder-case-pune-police-arrest-third-accused-ritesh-hinge-2987855-2026-09-05",
+      "headline": "Pune police arrest Chetan's friend as third accused in Ketan Agrawal murder caseInitially treated as an accident, the case took a turn after Agrawal's sister flagged inconsistencies in Goyal's account of his fatal fall."
     },
     {
       "sentiment": "positive",
@@ -236,8 +241,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/miss-world-2026-winner-joheirry-mola-dominican-republic-vietnam-2987978-2026-09-05",
+      "headline": "Joheirry Mola of Dominican Republic wins Miss World 2026And just like that, the crown has found its new home. Joheirry Mola of the Dominican Republic has emerged as the winner of the 73rd Miss World pageant. Nikita Porwal represented India and made it to the top 40 finalists."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/iit-delhi-retrofit-device-recd-to-cut-old-diesel-vehicle-pollution-nitin-gadkari-backs-2987777-2026-09-05",
       "headline": "Gadkari backs IIT Delhi innovation that can cut old diesel vehicle pollution by 90%Nitin Gadkari said the government will allow older diesel trucks and buses to use an IIT Delhi retrofit device. The low-cost technology has cleared testing and could sharply cut emissions while complementing vehicle replacement efforts."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/belgian-chocolate-india-gate-for-pm-modi-broke-in-transit-bart-de-wever-vows-new-delivery-2987958-2026-09-05",
+      "headline": "India Gate, but make it chocolate. Belgium reveals gift that didn't reach PM ModiSharing a photograph of the elaborate creation on X, the embassy revealed the story behind the chocolate monument."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education-today/news/story/who-is-anupriya-nagar-21-year-old-economics-student-behind-hanuman-anshs-run-2987791-2026-09-05",
+      "headline": "Who is Anupriya Nagar? 21-year-old economics student behind Rs 72 cr Hanuman AnshAt 21, University of Bath economics student Anupriya Nagar has made an unusual leap into filmmaking. Her debut production, Hanuman Ansh, inspired by Neem Karoli Baba, opened to Rs 10 lakh but has since crossed Rs 72 crore in India, according to Sacnilk figures."
     },
     {
       "sentiment": "positive",
@@ -245,14 +265,9 @@
       "headline": "2026 Maruti Baleno facelift launched at Rs 6.10 lakh: Gets ADAS, new engine and moreMaruti Suzuki has refreshed the Baleno for 2026, bringing a new three-cylinder petrol engine, Level 2 ADAS and added premium features to its popular hatchback."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/kerala/story/thrissur-road-accident-eight-tamil-nadu-students-killed-car-hits-parked-lorry-2987463-2026-09-05",
-      "headline": "8 engineering students killed as car crashes into illegally parked lorry in KeralaEight students from Tamil Nadu died after their car hit a parked lorry on a highway in Kerala's Thrissur district, police said. CCTV footage captured the incident, and the bodies were sent to the mortuary at Thrissur Medical College."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ketan-agrawal-murder-case-pune-police-arrest-third-accused-ritesh-hinge-2987855-2026-09-05",
-      "headline": "Pune police arrest Chetan's friend as third accused in Ketan Agrawal murder caseInitially treated as an accident, the case took a turn after Agrawal's sister flagged inconsistencies in Goyal's account of his fatal fall."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/narmada-boat-sinking-jabalpur-home-guards-rescued-gwarighat-2987940-2026-09-05",
+      "headline": "Boat carrying 9 home guards sinks in Narmada; all survive thanks to life jacketsA Home Guard patrol boat carrying nine personnel sank in the Narmada at Jabalpur's Gwarighat after floating debris snagged its engine. All nine were rescued, and officials are investigating capacity concerns and possible operator fault."
     },
     {
       "sentiment": "positive",
@@ -260,9 +275,34 @@
       "headline": "CBI files case against Subhash Chandra for inflating net worth to secure loansThe CBI case centres on certificates submitted in 2018 to obtain two credit facilities totalling Rs 980 crore. One certificate placed Chandra's net worth at Rs 59,113 crore. However, during subsequent insolvency proceedings, he reportedly stated that his net worth in 2024 was just Rs 31.79 crore."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/kerala/story/thrissur-road-accident-eight-tamil-nadu-students-killed-car-hits-parked-lorry-2987463-2026-09-05",
+      "headline": "8 engineering students killed as car crashes into illegally parked lorry in KeralaEight students from Tamil Nadu died after their car hit a parked lorry on a highway in Kerala's Thrissur district, police said. CCTV footage captured the incident, and the bodies were sent to the mortuary at Thrissur Medical College."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bengal-tourism-ad-logo-mocked-russia-pyramids-suvendu-adhikari-2987607-2026-09-05",
-      "headline": "Bengal's new tourism ad takes you everywhere except Bengal, gets trolledThe ad was released as Bengal Chief Minister Suvendu Adhikari unveiled a new logo, along with a fresh brand identity, for Bengal tourism. However, it has come under intense ridicule. Here's why."
+      "url": "https://www.indiatoday.in/education-today/news/story/national-teacher-awards-2026-teachers-using-ai-vr-to-transform-rural-schools-government-schools-2987904-2026-09-05",
+      "headline": "From 7D VR labs to AI apps: Meet teachers transforming India's rural classroomsFrom a 7D VR lab and AI learning app to mobile science labs and virtual mathematics classrooms, these National Teacher Award winners are using technology to change what students can access in government and rural schools across India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-636-04-09-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/bhavnagar-st-bus-stand-murder-police-reconstruct-crime-scene-with-accused-faisal-2987955-2026-09-05",
+      "headline": "Cops 'recreate' crime scene, thrash man at bus stand where he beat partner to deathBhavnagar city police took murder accused Faisal alias Khatki to the ST depot to recreate the assault on Kajal Baraiya. The exercise follows his arrest in the case, with investigators examining the sequence of events captured on CCTV."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/delhi-ncr-north-india-rain-forecast-september-2987740-2026-09-05",
+      "headline": "Monsoon to march over India on Sunday: Heavy rain forecast in these statesMore rain is forecast across north and central India on Sunday, with Delhi-NCR, UP, Uttarakhand and Rajasthan among the areas facing heavy showers."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/could-a-nepal-like-flood-tragedy-hit-india-next-himalayas-sending-warning-signs-2986892-2026-09-05",
+      "headline": "Nepal's flood disaster raises a chilling question: Could India be next?A deadly avalanche-driven flood in Nepal has raised fresh concern across the Indian Himalayas. Scientists say India cannot predict an identical event, but expanding lakes and unstable slopes need closer monitoring."
     },
     {
       "sentiment": "negative",
@@ -276,51 +316,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/pm-modi-takes-delhi-metro-to-srcc-100-year-celebration-interacts-with-students-2987853-2026-09-05",
-      "headline": "PM Modi takes Delhi Metro to SRCC, chats with students on way to centenary eventPrime Minister Narendra Modi took the Delhi Metro to reach Shri Ram College of Commerce on Saturday, carrying a Metro card and chatting with students and fellow passengers before heading to the college's centenary celebrations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/national-teacher-awards-2026-teachers-using-ai-vr-to-transform-rural-schools-government-schools-2987904-2026-09-05",
-      "headline": "From 7D VR labs to AI apps: Meet teachers transforming India's rural classroomsFrom a 7D VR lab and AI learning app to mobile science labs and virtual mathematics classrooms, these National Teacher Award winners are using technology to change what students can access in government and rural schools across India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-636-04-09-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nepal-floods-chinese-worker-rescued-alive-upper-trishuli-tunnel-11-days-ptag-2987651-2026-09-05",
-      "headline": "Another worker rescued from tunnel, woman found in rubble 11 days after Nepal floodsThe two rescues offered a rare glimmer of hope as authorities continued large-scale search operations across flood-ravaged areas of the Himalayan country."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/old-monk-maharashtra-sales-ban-bombay-high-court-label-flavouring-dispute-2987593-2026-09-05",
-      "headline": "Court flags misleading label on Old Monk bottles, ban on Maharashtra sale continuesThe Bombay High Court refused immediate interim relief against the FSSAI order stopping Old Monk sales in Maharashtra. The hearing centred on whether the rum's label and flavour disclosures could mislead ordinary consumers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/after-bigg-boss-20-promo-isha-rikhi-breaks-silence-badshah-marriage-rumours-2987733-2026-09-05",
-      "headline": "It's shocking: After BB 20 promo, Isha Rikhi breaks silence on marriage rumoursIsha Rikhi has asked people not to believe rumours about her marriage and separation unless she confirms them herself. Her statement came as speculation over Badshah, their split and a possible Bigg Boss 20 entry intensified."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-airport-employee-killed-airport-taxi-hits-motorcycle-shamshabad-road-2987775-2026-09-05",
-      "headline": "Caught on CCTV: Hyderabad airport staff killed after taxi rams her bike from behindAn airport taxi hit a motorcycle on Shamshabad Airport Road, killing airport employee Radhika and seriously injuring her friend. CCTV footage helped police identify the vehicle and take Umakant into custody as the crash is investigated."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/kangana-ranaut-raps-mandi-officials-over-unspent-mplads-funds-2987665-2026-09-05",
-      "headline": "Don't give me jumlas: Kangana Ranaut raps Mandi officials over unspent MP fundsBJP MP Kangana Ranaut pulled up officials during a Disha Committee (DISHA) meeting in Mandi over the slow utilisation of her MPLADS funds. She said only Rs 50 lakh had been spent out of Rs 11 crore available and demanded a performance report on the expenditure."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/fort-st-george-tamil-nadu-government-relocation-new-power-centre-2987348-2026-09-05",
       "headline": "Vijay wants to change coordinates of power in TN: Why it's needed, what he must doFort St George is a fine heritage building but ill-equipped to house a government of eight crore people. How must Chief Minister Vijay go about looking for a new place?"
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/imran-khan-health-medical-care-brian-lara-instagram-2987988-2026-09-05",
+      "headline": "Basic humanity for a legend: Lara makes emotional plea for Imran Khan's care Brian Lara has called for Imran Khan to be treated with dignity and compassion and asked for the Pakistan legend to get proper medical care. Lara becomes the latest former cricketer to ask for the humane treatment of Khan, who has been imprisoned since 2023."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-pakistan-womens-asia-cup-dubai-spinners-report-2987969-2026-09-05",
+      "headline": "India Women apply familiar spin choke to complete routine win over listless Pakistan India produced another dominant performance against Pakistan, winning by seven wickets after chasing down 56 with 11.2 overs to spare. The victory extended India's Women's Asia Cup record against Pakistan to 7-1, while Pakistan now face a must-win clash against Hong Kong."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/isl-2026-27-season-start-date-october-10-home-away-format-2987931-2026-09-05",
+      "headline": "ISL 2026-27 season to start from October 10, returns to home-and-away format The Indian Super League will kick off its new era as the 2026-27 season will start from October 10. The upcoming campaign will also see a return to the home-and-away format for the league, which will have 13 teams competing in it."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-final-live-streaming-east-zone-vs-south-team-news-venue-date-time-chennai-2987732-2026-09-05",
+      "headline": "Vaibhav Sooryavanshi vs Tilak Varma: Where to watch Duleep Trophy final in India It will be a battle between Vaibhav Sooryavanshi and Tilak Varma as East Zone will take on South Zone in the Duleep Trophy final. Both teams will be eyeing the prestigious trophy and here's all you need to know about the exciting clash."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-pak-womens-asia-cup-pakistan-55-all-out-lowest-t20i-score-sree-charani-2987941-2026-09-05",
+      "headline": "India hammer Pakistan into a new low with 55 all-out in women's Asia Cup clash India's spinners ripped through Pakistan and dismissed them for 55 in the Women's Asia Cup clash in Dubai. The collapse left Pakistan with their lowest total in women's T20Is and showed the gap between both sides."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/satwik-chirag-china-masters-final-beat-malaysia-azriyn-tan-semifinal-2987866-2026-09-05",
@@ -339,7 +364,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-india-vs-pakistan-group-a-live-score-harmanpreet-kaur-2987778-2026-09-05",
-      "headline": "India vs Pakistan Live Score: India spinners rock Pakistan in Dubai IND vs PAK, Women's Asia Cup Live Updates: The Indian spinners have completely dominated the Pakistan batters in Dubai. Pakistn, meanwhile, are struggling and need a partnership if they are to reach a respectable total."
+      "headline": "India vs Pakistan Highlights: India hammer Pakistan by 7 wickets to continue winning run IND vs PAK, Women's Asia Cup Highlights: India beat Pakistan by 7 wickets in Dubai after chasing down 56 in 8.4 overs. With the win, India cemented their spot on top of Group A and will go into the semis unbeaten."
     },
     {
       "sentiment": "positive",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/uruguay-squad-vs-india-valverde-nunez-araujo-forlan-first-match-manager-2987694-2026-09-05",
-      "headline": "Valverde, Nunez, Araujo headline Uruguay's star-studded squad for India clash Real Madrid midfielder Federico Valverde will be the biggest name in a star-studded Uruguay squad selected for next month's international friendly against India, with the two-time world champions set to arrive in Kolkata."
+      "headline": "Valverde, Nunez, Araujo headline Uruguay's star-studded squad for India clashReal Madrid midfielder Federico Valverde will be the biggest name in a star-studded Uruguay squad selected for next month's international friendly against India, with the two-time world champions set to arrive in Kolkata."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ricky-ponting-wants-cricket-rebranded-as-t20-to-attract-us-sports-fans-2987674-2026-09-05",
-      "headline": "Drop cricket, just call it T20 to win over the USA: Ricky Ponting Australian legend Ricky Ponting has called for a rethink in how the sport is marketed in the United States, suggesting cricket should be promoted simply as 'T20' to attract a wider American audience."
+      "headline": "Drop cricket, just call it T20 to win over the USA: Ricky PontingAustralian legend Ricky Ponting has called for a rethink in how the sport is marketed in the United States, suggesting cricket should be promoted simply as 'T20' to attract a wider American audience."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-vaibhav-sooryavanshi-ishan-kishan-tilak-varma-duleep-trophy-final-teams-2987637-2026-09-05",
-      "headline": "No KL Rahul, but Vaibhav Sooryavanshi, Ishan, Tilak to play Duleep Trophy final The Duleep Trophy final is set to start from September 6. Ahead of the summit clash, captains Ishan Kishan and Tilak Varma informed about the availability of their star players."
+      "headline": "No KL Rahul, but Vaibhav Sooryavanshi, Ishan, Tilak to play Duleep Trophy finalThe Duleep Trophy final is set to start from September 6. Ahead of the summit clash, captains Ishan Kishan and Tilak Varma informed about the availability of their star players."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/dinesh-karthik-csk-next-coach-matthew-hayden-stephen-fleming-replacement-2987634-2026-09-05",
-      "headline": "Dinesh Karthik would be really good choice as CSK's next coach: Matthew Hayden Matthew Hayden has named Dinesh Karthik as a strong candidate to replace Stephen Fleming as Chennai Super Kings coach. He said Karthik's Tamil Nadu roots and coaching exposure could help the franchise in transition."
+      "headline": "Dinesh Karthik would be really good choice as CSK's next coach: Matthew HaydenMatthew Hayden has named Dinesh Karthik as a strong candidate to replace Stephen Fleming as Chennai Super Kings coach. He said Karthik's Tamil Nadu roots and coaching exposure could help the franchise in transition."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/suresh-raina-slams-ipl-impact-player-rule-bowlers-2987609-2026-09-05",
-      "headline": "Suresh Raina hits out at IPL Impact Player rule: Nothing left for bowlers Former Chennai Super Kings batter Suresh Raina has criticised the Impact Player rule in the Indian Premier League, saying it has given batters an added advantage while leaving bowlers under increasing pressure."
+      "headline": "Suresh Raina hits out at IPL Impact Player rule: Nothing left for bowlersFormer Chennai Super Kings batter Suresh Raina has criticised the Impact Player rule in the Indian Premier League, saying it has given batters an added advantage while leaving bowlers under increasing pressure."
     },
     {
       "sentiment": "positive",
@@ -450,31 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/aryna-sabalenka-us-open-weed-smell-match-stopped-crowd-behaviour-2987449-2026-09-05",
       "headline": "I might get high: Aryna Sabalenka jokes after weed smell stops US Open matchAryna Sabalenka urged fans to be more careful around the tennis courts after her US Open third round match was stopped due to the smell of weed inside the court. Sabalenka joked that if people kept smoking, then she might end up getting high."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-cab-honour-100-first-class-matches-duleep-trophy-2987444-2026-09-05",
-      "headline": "Mohammed Shami to be facilitated by CAB for 100 first-class appearancesThe Cricket Association of Bengal will felicitate Mohammed Shami in Chennai ahead of the Duleep Trophy final as he nears 100 first-class appearances. Shami played a big role in East Zone reaching the final."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-report-jessica-pegula-leylah-fernandez-sorana-cirstea-jasmine-paolini-2987432-2026-09-05",
-      "headline": "US Open: Jessica Pegula makes comeback win, Jasmine Paolini crashes outJessica Pegula recovered from a set down to beat Leylah Fernandez and reach the US Open fourth round. Sorana Cirstea also advanced by knocking out Jasmine Paolini, setting up a last-16 meeting with Pegula."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/india-vs-panama-friendly-september-25-preponed-bengaluru-marathon-2987419-2026-09-04",
-      "headline": "India's Panama friendly preponed by a day due to Bengaluru marathon: ReportIndia's friendly against Panama in Bengaluru has been brought forward by a day to 25 September. The match, originally scheduled for September 26, was set to clash with the Bengaluru marathon."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mike-hesson-rejects-salman-agha-king-charles-meeting-claim-2987393-2026-09-04",
-      "headline": "Unacceptable journalism: Pakistan coach denies player refused to meet King CharlesPakistan coach Mike Hesson has rejected reports that Salman Ali Agha refused to meet King Charles, calling them \"unacceptable journalism\". He also distanced himself from the decision to send 7 players home midway through the Test series in Engalnd."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/aryna-sabalenka-us-open-third-round-weed-smell-kamila-rakhimova-louis-armstrong-stadium-2987389-2026-09-04",
-      "headline": "High drama: Aryna Sabalenka halts match, claims spectator smoked weedAryna Sabalenka stopped play during her US Open match against Kamila Rakhimova, claiming that a spectator was smoking weed inside the Louis Armstrong stadium on Friday, September 4."
     }
   ],
   "education": [
