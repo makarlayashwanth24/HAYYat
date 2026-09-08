@@ -207,7 +207,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/hundreds-of-flights-cancelled-delayed-as-uk-air-traffic-control-system-faces-glitch-2990189-2026-09-08",
-      "headline": "Travel chaos at UK airports as air traffic control glitch cancels over 600 flightsNational Air Traffic Services initially said the problem had been traced to its flight processing system and that engineers were working to restore normal operations."
+      "headline": "Travel chaos at UK airports as air traffic control glitch cancels over 1,000 flightsNational Air Traffic Services initially said the problem had been traced to its flight processing system and that engineers were working to restore normal operations."
     },
     {
       "sentiment": "negative",
@@ -251,18 +251,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/cognizant-perm-filings-suspended-us-trump-visa-fraud-probe-ptag-2990324-2026-09-09",
+      "headline": "US halts Cognizant's green-card filings amid Trump's visa fraud crackdownThe US Labour Department has suspended Cognizant's PERM filings after a fraud investigation. The move deepens the Trump administration's scrutiny of employment visa programmes and employer compliance."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/chandigarh/story/uber-rapido-licences-suspended-in-chandigarh-for-6-months-over-rule-violations-2990255-2026-09-08",
       "headline": "Uber, Rapido licences suspended in Chandigarh for 6 months over rules violationAccording to the administration, both companies failed to comply with the rules despite receiving repeated notices, show-cause notices and opportunities to present their case over more than a year."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/vande-mataram-row-omar-farooq-abdullah-stand-for-full-song-at-srinagar-film-festival-2989996-2026-09-08",
-      "headline": "Abdullahs stand for full Vande Mataram weeks after INDIA ally Congress objectsWhile Congress has stuck to its 1937 resolution limiting Vande Mataram to two stanzas, its INDIA bloc ally, NC leaders Omar Abdullah and Farooq Abdullah stood through all six stanzas at a Srinagar film festival. Their contrasting positions drew attention amid the ongoing political row over the national song."
+      "url": "https://www.indiatoday.in/education-today/news/story/satya-niketan-collapse-venkateshwara-college-opens-shelter-for-delhi-university-students-2989327-2026-09-08",
+      "headline": "70 DU students slept on classroom floors. Venky's principal stayed with themSri Venkateswara College opened its campus, hostels and classrooms to students affected by the Satya Niketan building collapse. Around 70 students sought shelter, reflecting the fear among those living nearby. Venky principal, Professor Vajala Ravi, led the response asking students to stay on campus and assuring them of basic support."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/satya-niketan-collapse-venkateshwara-college-opens-shelter-for-delhi-university-students-2989327-2026-09-08",
-      "headline": "70 DU students slept on classroom floors. Venky's principal stayed with themSri Venkateswara College opened its campus, hostels and classrooms to students affected by the Satya Niketan building collapse. Around 70 students sought shelter, reflecting the fear among those living nearby. Venky principal, Professor Vajala Ravi, led the response asking students to stay on campus and assuring them of basic support."
+      "url": "https://www.indiatoday.in/india/story/vande-mataram-row-omar-farooq-abdullah-stand-for-full-song-at-srinagar-film-festival-2989996-2026-09-08",
+      "headline": "Abdullahs stand for full Vande Mataram weeks after INDIA ally Congress objectsWhile Congress has stuck to its 1937 resolution limiting Vande Mataram to two stanzas, its INDIA bloc ally, NC leaders Omar Abdullah and Farooq Abdullah stood through all six stanzas at a Srinagar film festival. Their contrasting positions drew attention amid the ongoing political row over the national song."
     },
     {
       "sentiment": "negative",
@@ -276,13 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-british-consulate-closure-uk-west-bank-settlement-trade-ban-countermeasures-2990192-2026-09-08",
-      "headline": "Israel closes UK consulate in Jerusalem over trade ban on illegal settlementsIsrael has also barred Britain from a Gaza mission and blocked UK officials from entering the country as bilateral ties plunged to a new low."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-beats-dhurandhar-2-fifth-weekend-record-rs-49-25-crore-2989465-2026-09-08",
+      "headline": "Unstoppable Hanuman Ansh now beats Dhurandhar 2 in 5th weekend at box officeHanuman Ansh, a Rs 2-crore devotional drama, has pulled off a stunning box-office feat by surpassing the fifth-weekend collections of Ranveer Singh's Dhurandhar films. Driven by strong word of mouth, the film has set a new benchmark for fifth-weekend collections in Hindi cinema."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-beats-dhurandhar-2-fifth-weekend-record-rs-49-25-crore-2989465-2026-09-08",
-      "headline": "Unstoppable Hanuman Ansh now beats Dhurandhar 2 in 5th weekend at box officeHanuman Ansh, a Rs 2-crore devotional drama, has pulled off a stunning box-office feat by surpassing the fifth-weekend collections of Ranveer Singh's Dhurandhar films. Driven by strong word of mouth, the film has set a new benchmark for fifth-weekend collections in Hindi cinema."
+      "url": "https://www.indiatoday.in/world/story/israel-british-consulate-closure-uk-west-bank-settlement-trade-ban-countermeasures-2990192-2026-09-08",
+      "headline": "Israel closes UK consulate in Jerusalem over trade ban on illegal settlementsIsrael has also barred Britain from a Gaza mission and blocked UK officials from entering the country as bilateral ties plunged to a new low."
     },
     {
       "sentiment": "positive",
@@ -295,14 +300,14 @@
       "headline": "Diljit Dosanjh said 'I'm an artist, bro' and dropped a song about students protestDiljit Dosanjh's new music video titled Devil uses protest imagery without naming any specific movement. The visuals and his 'I'm an Artist Bro' sign-off have led viewers to link it to the earlier CJP student protest."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/law-news/story/american-mercenary-vandyke-drones-myanmar-war-groups-nia-chargesheet-2989826-2026-09-08",
-      "headline": "In big twist, NIA drops terror charges against US mercenary VanDyke, othersThe NIA chargesheet, filed seven months after VanDyke and six other Ukrainian nationals were arrested at various airports, details how they entered India and their activities in Myanmar."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/man-eater-tigress-dies-after-being-tranquillised-maharashtra-amravati-killed-four-people-since-august-two-in-24-hours-2990146-2026-09-08",
       "headline": "Maharashtra man-eater tigress dies after being tranquilised; had killed 2 in 24 hoursA man-eater tigress that had triggered panic in rural parts of Maharashtra's Amravati and Wardha districts, after allegedly killing four people since August 17, died while being shifted to a wildlife rescue centre after it was tranquillised and captured by the Forest Department, officials said."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/law-news/story/american-mercenary-vandyke-drones-myanmar-war-groups-nia-chargesheet-2989826-2026-09-08",
+      "headline": "In big twist, NIA drops terror charges against US mercenary VanDyke, othersThe NIA chargesheet, filed seven months after VanDyke and six other Ukrainian nationals were arrested at various airports, details how they entered India and their activities in Myanmar."
     },
     {
       "sentiment": "positive",
@@ -313,11 +318,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/assam-bureaucrat-debeswar-bora-fake-himanta-biswa-sarma-jobs-for-cash-scam-corruption-2989912-2026-09-08",
       "headline": "Assam bureaucrat used to put 'CM Himanta' on phone, held over jobs-for-cash conAn Assam officer allegedly used a mimic to pose as CM Himanta Biswa Sarma and top bureaucrats over phone calls to impress people seeking jobs and contracts. The vigilance cell has arrested the officer for alleged criminal misconduct and amassing undisclosed assets."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-putin-phone-call-ukraine-war-witkoff-kushner-moscow-kyiv-talks-to-end-war-2990154-2026-09-08",
-      "headline": "Trump pushes Putin for swift end to Ukraine war in 1-hour call after envoys' visitKremlin foreign affairs adviser Yuri Ushakov described the Trump-Putin conversation as \"constructive and frank\". He said Trump made clear that he wanted the war to end as quickly as possible and that Putin briefed the US president on developments on the battlefield."
     }
   ],
   "sports": [
