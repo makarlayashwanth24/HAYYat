@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/epfo-provident-fund-claim-delay-mumbai-consumer-court-orders-6-percent-interest-payout-2990774-2026-09-09",
+      "headline": "EPFO told to pay 6% interest for 35-day delay in Rs 14 lakh PF claimA Mumbai consumer court ordered the EPFO to pay interest for delaying a retired employee's PF settlement. The ruling reinforces that statutory bodies must meet prescribed timelines or face liability for deficient service."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/who-can-serve-on-stock-exchange-boards-sebi-proposes-key-rule-changes-2990934-2026-09-09",
       "headline": "Who can serve on stock exchange boards? Sebi proposes key rule changesThe proposals are aimed at making the governance framework for market institutions more flexible while ensuring that experienced professionals continue to be available for critical board and senior management positions."
@@ -94,14 +99,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/nse-ipo-rs-30000-crore-issue-likely-to-open-on-september-18-say-sources-2990044-2026-09-08",
       "headline": "NSE IPO: Rs 30,000 crore issue likely to open on September 18, say sourcesAccording to sources, the price band for the NSE IPO is likely to be announced on September 15. This will be followed by the anchor book opening on September 17."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/pm-narendra-modi-urges-fintech-sector-to-move-beyond-upi-embrace-next-gen-innovation-2990067-2026-09-08",
-      "headline": "PM Modi urges fintech sector to move beyond UPI, embrace next-gen innovationPrime Minister Narendra Modi said that this year has opened new possibilities for the financial sector, with technologies such as quantum technology, tokenisation and agentic AI creating new opportunities."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-episode-4-day-3-written-update-highlights-kanika-mann-rejects-romance-track-with-gullu-captaincy-war-rages-on-2991186-2026-09-09",
+      "headline": "Bigg Boss 20 Episode 4: Kanika rejects romance track, captaincy war rages on Day 3 in the Bigg Boss 20 house swung from a kitchen clash to teasing over Gullu and Kanika Mann. A bruising popcorn captaincy task then sharpened tempers and opened fresh flashpoints among contestants."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kiara-advani-sidharth-malhotra-to-parineeti-chopra-raghav-chadha-celebrities-embrace-viral-80s-ai-trend-2991070-2026-09-09",
+      "headline": "Kiara-Sidharth to Parineeti-Raghav, celebrities embrace viral 80s AI trend Kiara Advani, Sidharth Malhotra, Parineeti Chopra and Raghav Chadha are among the celebrities sharing AI-generated retro portraits on Instagram. The viral trend lets users customise throwback looks while keeping faces recognisable."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-early-spring-review-jing-boran-sun-qian-mature-workplace-romance-netflix-2991074-2026-09-09",
+      "headline": "The Early Spring review: Jing Boran, Sun Qian shine in a deliciously messy romanceRelease Date:Wed Aug 26, 2026 Jing Boran and Sun Qian's Chinese drama explores love, ambition, intimacy and relationship struggles. Streaming on Netflix, The Early Spring offers a mature workplace romance."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/hema-malini-shreyas-talpade-praise-hanuman-ansh-call-its-success-a-miracle-2990917-2026-09-09",
@@ -181,28 +196,18 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/akshay-kumar-haiwaan-birthday-note-good-vs-evil-september-11-2026-release-2990602-2026-09-09",
       "headline": "What looks evil may not...: Akshay shares key takeaway from Haiwaan on his birthday Akshay Kumar used his birthday note to share what Haiwaan taught him about appearances. His message underlined the thriller's central tension between seeming goodness and visible evil."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/drishyam-the-conclusion-trailer-ajay-devgn-perfect-plan-cracks-jaideep-ahlawat-cop-enters-2990595-2026-09-09",
-      "headline": "Drishyam 3 trailer: Ajay Devgn's perfect plan cracks as Jaideep Ahlawat's cop enters The trailer of Drishyam The Conclusion brings Ajay Devgn's Vijay Salgaonkar face to face with Jaideep Ahlawat's cop Rajveer Singh Tomar. Ahead of its October 2 release, it sets up a fresh investigation as old secrets and new pressures close in."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-toxic-reviews-jaidev-mohan-says-pain-was-clear-in-actors-voice-2990566-2026-09-09",
-      "headline": "You could feel pain in his voice: Kannada actor on Yash's reaction to Toxic criticism Actor Jaidev Mohan, who worked on the Kannada dubbing, recalled Yash asking him not to take Toxic's criticism to heart after release. He said the actor sounded composed, but the pain in his voice was unmistakable."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/haiwaan-producer-shailaja-desai-fenn-actors-understand-budgets-working-hours-saif-ali-khan-akshay-kumar-2990558-2026-09-09",
-      "headline": "Haiwaan producer on star demands, work hours and rising entourage costs Ahead of Haiwaan's release, producer Shailaja Desai Fenn spoke about changing expectations on film sets. She said actors now understand budgets better, while box office results remain beyond a producer's control."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/official-name-of-tvk-congress-alliance-in-tamil-nadu-announced-2990892-2026-09-09",
-      "headline": "Vijay's TVK-Congress alliance gets new name: Secular Social Justice Victory AllianceThe TVK-led alliance in Tamil Nadu has been named the Secular Social Justice Victory Alliance after a meeting of Congress, VCK, MDMK and IUML leaders in Panaiyur. The meeting discussed formalising the alliance structure, including a Common Minimum Programme and steering committee. CPI(M) and CPI leaders were notably absent."
+      "url": "https://www.indiatoday.in/technology/news/story/iphone-18-pro-iphone-18-pro-max-a20-pro-siri-ai-variable-aperture-camera-launch-2991200-2026-09-09",
+      "headline": "Apple unveils iPhone 18 Pro with A20 Pro and variable aperture cameraApple has unveiled the iPhone 18 Pro and iPhone 18 Pro Max with a new A20 Pro chip, Siri AI integration and a variable aperture camera. Here is everything you need to know."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/story/iphone-18-launch-event-live-updates-iphone-18-pro-iphone-duo-top-announcements-from-apple-event-2990953-2026-09-09",
+      "headline": "Apple iPhone event live: iPhone 18 Pro, iPhone Duo launched, India prices revealediPhone 18 launch event live updates: Apple's \"Surprise and Shine\" event is now underway, with India Today Tech, including Cyrus John from the team, bringing live updates from Apple Park in Cupertino. Apple has launched the iPhone 18 Pro, iPhone 18 Pro Max and foldable iPhone Duo, along with upgrades to the Apple Watch and AirPods. The event also marks the debut of John Ternus as Apple CEO. Here are all the details."
     },
     {
       "sentiment": "positive",
@@ -210,39 +215,29 @@
       "headline": "Pak ready to bomb Iran's proxy Houthis in first big test for Mecca PactPakistan could activate the Mecca Pact to defend Saudi Arabia by conducting airstrikes in Yemen against Houthis, an Iranian proxy group. However, Islamabad might not extend that commitment to a potential Saudi military offensive in Yemen, putting the pact's promise of collective defence to its first real test."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/red-fort-blast-chargesheet-umar-un-nabi-suicide-bombing-nia-2990866-2026-09-09",
-      "headline": "Red Fort blast was suicide bombing, Umar activated IED inside car: NIA chargesheetAccording to the chargesheet filed by the NIA, the Red Fort blast was a suicide bombing carried out by Umar Un Nabi, who allegedly detonated an IED inside his i20 car, killing 15 people. The chargesheet states that the Red Fort was chosen as a target because it was seen as a \"symbol of the Indian state\"."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/vinicius-jr-raphinha-brazil-squad-india-friendly-kolkata-carlo-ancelotti-2991209-2026-09-09",
+      "headline": "Vinicius Jr headlines Brazil's 26-man squad for India friendlyCarlo Ancelotti has named a star-studded Brazil squad for the international friendly against India on October 3. Vinicius Jr, Raphinha, Marquinhos and Bruno Guimaraes are among the big names set to face the Blue Tigers."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/marriage-does-not-mean-loss-individual-autonomy-supreme-court-examines-marital-rape-prosecution-karnataka-hc-sex-slave-hearing-2990851-2026-09-09",
-      "headline": "SC examines marital rape, says marriage does not mean loss of individual autonomyThe Supreme Court has taken up a batch of cases challenging and seeking interpretation of the marital rape exception, with the court deciding to first hear an appeal arising from a Karnataka High Court judgment that allowed prosecution in a case where a wife was allegedly treated as a \"sex slave\"."
+      "url": "https://www.indiatoday.in/india/story/modi-putin-meeting-s400-delivery-brahmos-ng-upgrade-delhi-2991092-2026-09-09",
+      "headline": "Final S-400 delivery, next-gen BrahMos missiles on table at PM Modi-Putin meetThe talks are expected to focus on the delayed fifth S-400 unit and the development of next-generation BrahMos missiles. Moscow has also proposed deeper cooperation on upgrading, jointly producing and exporting BrahMos, as India seeks to move beyond a traditional buyer-seller defence relationship."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-iran-gulf-ties-khawaja-asif-us-iran-crisis-tightrope-walk-asim-munir-middle-east-united-states-2990633-2026-09-09",
-      "headline": "Pakistan walking the tightrope as US-Iran tensions soar, admits Khawaja AsifKhawaja Asif said Pakistan would seek to preserve its diplomatic room for manoeuvre by maintaining communication with both Washington and Tehran, exercising restraint and avoiding steps that could further complicate its ties with either side."
+      "url": "https://www.indiatoday.in/world/us-news/story/indian-origin-couple-donates-20-million-dollars-to-university-of-north-texas-new-college-to-be-named-after-them-2991067-2026-09-09",
+      "headline": "Indian-origin couple donates $20 million for new US college, to be named after themIndian-origin couple Anuradha and Vikas Sinha have donated $20 million to the University of North Texas to establish a new AI and advanced analytics college. The college will serve as a major academic and research hub."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/assembly-polls/story/akash-anand-bsp-return-mayawati-ashok-siddharth-political-sanyas-2990937-2026-09-09",
-      "headline": "Mayawati puts 'sanyas' condition for Akash Anand's return to BSPMayawati said Akash Anand's return to the BSP can be considered if Ashok Siddharth retires from politics. She framed the condition around the party's interests ahead of key Assembly elections and the wider Bahujan Movement."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/official-name-of-tvk-congress-alliance-in-tamil-nadu-announced-2990892-2026-09-09",
+      "headline": "Vijay's TVK-Congress alliance gets new name: Secular Social Justice Victory AllianceThe TVK-led alliance in Tamil Nadu has been named the Secular Social Justice Victory Alliance after a meeting of Congress, VCK, MDMK and IUML leaders in Panaiyur. The meeting discussed formalising the alliance structure, including a Common Minimum Programme and steering committee. CPI(M) and CPI leaders were notably absent."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bigg-boss-20-riya-ahir-former-bjp-national-spokesperson-shehzad-poonawalla-love-gill-gen-z-protests-2990576-2026-09-09",
-      "headline": "Rahul Gandhi double your age: Shehzad Poonawalla counters Riya Ahir's uncle jibeA war of words erupted between Mumbai-based model Riya Ahir and former BJP spokesperson Shehzad Poonawalla after he mocked her for failing to secure a Bigg Boss 20 entry. Ahir called Poonawalla \"uncle\", which he countered with a Rahul Gandhi jibe."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/iphone-18-pro-and-18-pro-max-leak-hints-at-their-india-prices-big-camera-upgrades-2990571-2026-09-09",
-      "headline": "iPhone 18 Pro and 18 Pro Max leak hints at their India prices, big camera upgradesHours before Apple takes the stage for its \"Surprise and Shine\" event, fresh leaks have given us a better idea of what to expect from the iPhone 18 Pro and Pro Max. From a possible price hike in India to a big camera upgrade and a smaller Dynamic Island, here's what could be coming."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pmay-u-2-affordable-rental-housing-migrant-workers-state-project-approvals-mumbai-bengaluru-2990771-2026-09-09",
-      "headline": "Looking for affordable rent? PMAY-U 2.0 has an option, but there's a catchCheap housing rent can be a lifeline for migrant workers in cities where costs are high. But under PMAY-U 2.0, being eligible does not mean a flat is waiting for you. Here's what the scheme offers, who can get it, and where rental homes may actually be available."
+      "url": "https://www.indiatoday.in/sports/tennis/story/elena-rybakina-world-no-1-qinwen-zheng-us-open-semi-finals-2991204-2026-09-09",
+      "headline": "Elena Rybakina becomes new World No.1, beats Qinwen Zheng to reach US Open semisElena Rybakina fought back to beat Qinwen Zheng 3-6, 6-1, 6-4 and reach the US Open semi-finals. The win helped her dethrone Aryna Sabalenka as World No. 1 in women's tennis."
     },
     {
       "sentiment": "positive",
@@ -251,8 +246,18 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/anti-terror-probe-continues-in-vandyke-case-govt-sources-amid-row-over-nia-chargesheet-dropping-uapa-section-2990616-2026-09-09",
-      "headline": "Terror probe on in US mercenary VanDyke case: NIA sources amid chargesheet rowThe clarification by the NIA comes after a controversy erupted over the agency not invoking the anti-terror law against VanDyke and six Ukrainian nationals who were arrested in a secret operation earlier this year."
+      "url": "https://www.indiatoday.in/india/gujarat/story/slab-of-under-construction-building-collapses-in-gujarats-gandhinagar-over-10-workers-feared-trapped-2991167-2026-09-09",
+      "headline": "10 workers fear trapped as slab of under-construction building collapses in GujaratA slab of an under-construction building collapsed in Kudasan, Gandhinagar, with more than 10 workers feared trapped under the debris, police said. Five injured workers have been rescued and taken to hospital, according to the police."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bigg-boss-20-riya-ahir-former-bjp-national-spokesperson-shehzad-poonawalla-love-gill-gen-z-protests-2990576-2026-09-09",
+      "headline": "Rahul Gandhi double your age: Shehzad Poonawalla counters Riya Ahir's uncle jibeA war of words erupted between Mumbai-based model Riya Ahir and former BJP spokesperson Shehzad Poonawalla after he mocked her for failing to secure a Bigg Boss 20 entry. Ahir called Poonawalla \"uncle\", which he countered with a Rahul Gandhi jibe."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/bharat-ratna-scientist-prof-cnr-rao-gets-sir-notice-over-extra-f-in-name-called-for-hearing-in-karnataka-2990513-2026-09-09",
+      "headline": "EC denies report Bharat Ratna scientist CNR Rao got SIR notice over name spellingMedia reports said Bharat Ratna scientist CNR Rao was issued an SIR notice over a spelling mismatch and called for a hearing. The Election Commission later clarified that no notice had been issued to Rao, saying enumeration forms were delivered to him and his family at their residence."
     },
     {
       "sentiment": "positive",
@@ -261,8 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ajeet-bharti-anticipatory-bail-rejection-delhi-court-order-caste-remarks-chandrashekhar-azad-case-2990474-2026-09-09",
-      "headline": "Ajeet Bharti invoked caste-based purity: Court explains why pre-arrest bail deniedA Delhi court denied anticipatory bail to reservation reform activist and YouTuber Ajeet Bharti in an SC-ST Act case. A detailed order explains what the court found offensive in Bharti's remarks against Nagina MP and Dalit leader Chandrashekhar Azad."
+      "url": "https://www.indiatoday.in/assembly-polls/story/akash-anand-bsp-return-mayawati-ashok-siddharth-political-sanyas-2990937-2026-09-09",
+      "headline": "Mayawati puts 'sanyas' condition for Akash Anand's return to BSPMayawati said Akash Anand's return to the BSP can be considered if Ashok Siddharth retires from politics. She framed the condition around the party's interests ahead of key Assembly elections and the wider Bahujan Movement."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iran-us-unleash-biggest-attack-wave-on-shipping-in-dangerous-escalation-brent-crude-above-100-2991019-2026-09-09",
+      "headline": "Iran, US unleash biggest attack wave on shipping in dangerous escalationIran and the US traded strikes on tankers and ships around the Strait of Hormuz after Washington said it destroyed five Iranian oil tankers. The escalation has disrupted a key oil route, raised crude prices above $100 and widened regional energy fears."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/suvendu-adhikari-jadavpur-university-saffron-march-warning-free-palestine-slogans-2991043-2026-09-09",
+      "headline": "Will uproot them: Saffron-clad Bengal CM warns Jadavpur students over Azadi slogansWest Bengal CM Suvendu Adhikari warned Jadavpur University students over slogans such as \"Kashmir Mange Azadi\" and \"Free Palestine\", saying those insulting saffron would be taught a lesson. He led a saffron-themed procession to the campus, where political graffiti and clashes between Left-backed groups and ABVP have intensified."
     },
     {
       "sentiment": "positive",
@@ -271,33 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/new-tamil-nadu-secretariat-to-come-up-on-26-acre-plot-near-cm-vijays-home-chennai-2990873-2026-09-09",
-      "headline": "New Tamil Nadu Secretariat to come up on 26-acre plot near CM Vijay's homeThe Tamil Nadu government has identified 25.55 acres at Pattinapakkam for a new Secretariat and Legislative Assembly complex near Chief Minister Vijay's residence. PMK president Anbumani Ramadoss opposed the plan, citing traffic concerns and limited space, and urged the government to build a 500-1,000-acre integrated administrative city outside Chennai instead."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/how-i-made-it/story/how-nit-durgapur-grad-antara-sarkar-built-an-ai-astrology-startup-while-pregnant-educ-2990627-2026-09-09",
-      "headline": "This NIT grad learnt coding while pregnant, then built her own AI astrology startupNIT Durgapur alumna Antara Sarkar was working as an engineer when she decided to build a business. She began learning software while pregnant, continued as a new mother and eventually built an AI-powered astrology platform that now gets over 2 lakh daily impressions."
+      "url": "https://www.indiatoday.in/india/law-news/story/marriage-does-not-mean-loss-individual-autonomy-supreme-court-examines-marital-rape-prosecution-karnataka-hc-sex-slave-hearing-2990851-2026-09-09",
+      "headline": "SC examines marital rape, says marriage does not mean loss of individual autonomyThe Supreme Court has taken up a batch of cases challenging and seeking interpretation of the marital rape exception, with the court deciding to first hear an appeal arising from a Karnataka High Court judgment that allowed prosecution in a case where a wife was allegedly treated as a \"sex slave\"."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/kanpur-businessman-vineet-minocha-murder-daughter-in-law-arrested-cctv-call-records-surveillance-shalu-2990823-2026-09-09",
-      "headline": "Woman hires ex-employee to kill millionaire father-in-law over surveillance at homePolice said the woman hired two men, including a former employee, to kill her father-in-law in their Kanpur home after growing distressed over CCTV surveillance and financial restrictions imposed within the family."
+      "url": "https://www.indiatoday.in/india/story/red-fort-blast-chargesheet-umar-un-nabi-suicide-bombing-nia-2990866-2026-09-09",
+      "headline": "Red Fort blast was suicide bombing, Umar activated IED inside car: NIA chargesheetAccording to the chargesheet filed by the NIA, the Red Fort blast was a suicide bombing carried out by Umar Un Nabi, who allegedly detonated an IED inside his i20 car, killing 15 people. The chargesheet states that the Red Fort was chosen as a target because it was seen as a \"symbol of the Indian state\"."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/story/iphone-18-launch-event-live-updates-iphone-18-pro-iphone-duo-top-announcements-from-apple-event-2990953-2026-09-09",
-      "headline": "iPhone 18 Launch Live: iPhone 18 Pro, iPhone Duo, top announcements from Apple eventiPhone 18 launch event live updates: The \"Surprise and Shine\" Apple event is about to begin and India Today Tech, including Cyrus John from the team, is on the ground, bringing live updates as Apple holds its biggest event of the year. At the event, we expect to see the launch of the iPhone 18 Pro, iPhone 18 Pro Max, foldable iPhone Duo, alongside upgrades for the Apple Watch and AirPods. And today's event will also mark the debut of John Ternus as Apple CEO. Here are all the updates straight from Apple Park, Cupertino."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/delhi-university-infrastructure-ashneer-grover-20000-crore-investment-world-class-du-2990898-2026-09-09",
-      "headline": "Rs 20,000 crore for DU revamp: Ashneer Grover links campus gaps to study abroadAshneer Grover's Rs 20,000-crore call has brought Delhi University's long-standing infrastructure concerns back into focus. From a shortage of hostel beds and ageing buildings to limited funding and construction hurdles, the gaps raise a larger question: can one of India's most sought-after public universities offer the facilities students increasingly seek abroad?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/fauda-season-5-review-doron-returns-with-explosive-action-and-a-human-cost-2990658-2026-09-09",
-      "headline": "Fauda Season 5 review: Doron's comeback is explosive, but the scars run deeperRelease Date:Wed Jul 08, 2026Fauda Season 5 review: Doron is pulled into Salem and Eli's Marseille mission as grief hardens into revenge. The opening episodes of Fauda Season 5 tie action to the trauma and human cost of October 7, 2023."
+      "url": "https://www.indiatoday.in/india/story/ajeet-bharti-anticipatory-bail-rejection-delhi-court-order-caste-remarks-chandrashekhar-azad-case-2990474-2026-09-09",
+      "headline": "Ajeet Bharti invoked caste-based purity: Court explains why pre-arrest bail deniedA Delhi court denied anticipatory bail to reservation reform activist and YouTuber Ajeet Bharti in an SC-ST Act case. A detailed order explains what the court found offensive in Bharti's remarks against Nagina MP and Dalit leader Chandrashekhar Azad."
     },
     {
       "sentiment": "positive",
@@ -305,9 +305,9 @@
       "headline": "Man finds creative way to hand over parcel to passenger on moving train. WatchA man timed a parcel toss perfectly to a passenger on a moving train. The swift exchange impressed viewers and highlighted his quick thinking."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/raghav-chadha-delhi-voter-list-punjab-draft-roll-aap-illegal-entry-2990426-2026-09-09",
-      "headline": "Raghav Chadha's curious SIR case: Out of Punjab list, 'delayed' entry in DelhiThe AAP and Raghav Chadha were involved in a war of words after the BJP Rajya Sabha MP's name was added to the voters' list of Delhi amid the SIR exercise."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/new-tamil-nadu-secretariat-to-come-up-on-26-acre-plot-near-cm-vijays-home-chennai-2990873-2026-09-09",
+      "headline": "New Tamil Nadu Secretariat to come up on 26-acre plot near CM Vijay's homeThe Tamil Nadu government has identified 25.55 acres at Pattinapakkam for a new Secretariat and Legislative Assembly complex near Chief Minister Vijay's residence. PMK president Anbumani Ramadoss opposed the plan, citing traffic concerns and limited space, and urged the government to build a 500-1,000-acre integrated administrative city outside Chennai instead."
     },
     {
       "sentiment": "positive",
@@ -316,11 +316,46 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-team-meets-yogi-adityanath-as-film-crosses-rs-170-crore-2990388-2026-09-09",
-      "headline": "Team Hanuman Ansh meets Yogi Adityanath as film inches towards Rs 170 croreThe Hanuman Ansh team met Uttar Pradesh Chief Minister Yogi Adityanath in Lucknow and discussed the film's spiritual themes. The interaction spotlighted the film's focus on Neem Karoli Baba, the Nath tradition and its wider reach."
+      "url": "https://www.indiatoday.in/education-today/news/story/delhi-university-infrastructure-ashneer-grover-20000-crore-investment-world-class-du-2990898-2026-09-09",
+      "headline": "Rs 20,000 crore for DU revamp: Ashneer Grover links campus gaps to study abroadAshneer Grover's Rs 20,000-crore call has brought Delhi University's long-standing infrastructure concerns back into focus. From a shortage of hostel beds and ageing buildings to limited funding and construction hurdles, the gaps raise a larger question: can one of India's most sought-after public universities offer the facilities students increasingly seek abroad?"
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/vinicius-jr-raphinha-brazil-squad-india-friendly-kolkata-carlo-ancelotti-2991209-2026-09-09",
+      "headline": "Vinicius Jr headlines Brazil's 26-man squad for India friendly Carlo Ancelotti has named a star-studded Brazil squad for the international friendly against India on October 3. Vinicius Jr, Raphinha, Marquinhos and Bruno Guimaraes are among the big names set to face the Blue Tigers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/elena-rybakina-world-no-1-qinwen-zheng-us-open-semi-finals-2991204-2026-09-09",
+      "headline": "Elena Rybakina becomes new World No.1, beats Qinwen Zheng to reach US Open semis Elena Rybakina fought back to beat Qinwen Zheng 3-6, 6-1, 6-4 and reach the US Open semi-finals. The win helped her dethrone Aryna Sabalenka as World No. 1 in women's tennis."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/wrestling-asian-games-deepak-doping-test-failure-wfi-2991132-2026-09-09",
+      "headline": "Big blow for India as wrestler Deepak fails dope test, ruled out of Asian Games Greco-Roman wrestler Deepak has been removed from India's Asian Games squad after an adverse doping result. The case leaves Indian wrestling further diminished and under renewed scrutiny as this is the third athlete to be ruled out of the Asian Games due to doping."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/afg-vs-ind-harshit-rana-injury-ruled-out-jasprit-bumrah-nitish-kumar-reddy-2991094-2026-09-09",
+      "headline": "Harshit Rana unlikely to be fit for AFG T20Is, Bumrah on track for comeback Harshit Rana is unlikely to recover in time for India's Afghanistan T20Is despite being picked subject to fitness. Jasprit Bumrah and Nitish Reddy, however, are progressing towards a return for the series."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/magnus-carlsen-golf-outing-bengaluru-global-chess-league-2991079-2026-09-09",
+      "headline": "Watch: Magnus Carlsen swaps chess pieces for a day of golf during GCL run Magnus Carlsen decided to swap the chess board for a day in golf during a Global Chess League outing in Bengaluru on Wednesday, September 9. Carlsen is known to be an ardent fan of golf."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-us-open-quarterfinal-ben-shelton-defeat-healthy-smile-2991009-2026-09-09",
+      "headline": "Alcaraz leaves US Open healthy and smiling despite Shelton quarterfinal defeat Carlos Alcaraz's US Open title defence ended in a five-set defeat to Ben Shelton, but the Spaniard left New York smiling after a gruelling four-hour battle, taking confidence from completing his first major tournament since returning from a wrist injury."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-t20is-tilak-verma-duleep-trophy-final-2990995-2026-09-09",
+      "headline": "With Duleep Trophy slipping away, Tilak Varma shifts focus to Afghanistan T20Is Tilak Varma has turned his attention to the Afghanistan T20I series after South Zone's chances in the Duleep Trophy final slipped away. Tilak will be the vice-captain as India face Afghanistan in a three-match T20I series."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/nagoya-floods-drainage-system-asian-games-2026-recovery-2990913-2026-09-09",
@@ -344,37 +379,37 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-pak-3rd-test-edgbaston-day-1-babar-azam-flop-shubman-gill-tally-england-tour-2990849-2026-09-09",
-      "headline": "Babar Azam flops again, Pakistan in danger of not crossing Shubman Gill's tally Pakistan's batting collapse at Edgbaston has raised the prospect of an extraordinary embarrassment, with Babar Azam's side at risk of finishing their three-Test England series with fewer runs than Shubman Gill scored individually for India earlier this summer."
+      "headline": "Babar Azam flops again, Pakistan in danger of not crossing Shubman Gill's tallyPakistan's batting collapse at Edgbaston has raised the prospect of an extraordinary embarrassment, with Babar Azam's side at risk of finishing their three-Test England series with fewer runs than Shubman Gill scored individually for India earlier this summer."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/joe-root-test-appearances-record-england-vs-pakistan-third-test-sachin-tendulkar-2990811-2026-09-09",
-      "headline": "Edgbaston Test: Joe Root closes in on another Sachin Tendulkar record Joe Root moved into sole third on the all-time Test appearances list when he took the field against Pakistan at Edgbaston. The milestone pushed him past Ricky Ponting and Steve Waugh and kept Sachin Tendulkar's record in the frame."
+      "headline": "Edgbaston Test: Joe Root closes in on another Sachin Tendulkar recordJoe Root moved into sole third on the all-time Test appearances list when he took the field against Pakistan at Edgbaston. The milestone pushed him past Ricky Ponting and Steve Waugh and kept Sachin Tendulkar's record in the frame."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-eldense-takeover-second-professional-spanish-club-ownership-2990718-2026-09-09",
-      "headline": "Lionel Messi buys second Spanish club in major ownership move Lionel Messi has reached a preliminary agreement to take over Spanish second-division club Eldense. If approved, the deal would give him majority control of a professional Spanish side for the first time."
+      "headline": "Lionel Messi buys second Spanish club in major ownership moveLionel Messi has reached a preliminary agreement to take over Spanish second-division club Eldense. If approved, the deal would give him majority control of a professional Spanish side for the first time."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-comeback-india-a-australia-a-series-bcci-fitness-clearance-2990707-2026-09-09",
-      "headline": "Hardik Pandya on comeback trail after India A call-up for Australia A series Hardik Pandya has been named in India A's squad for the three-match one-day series against Australia A, subject to fitness clearance. The all-rounder's selection offers him a potential route back to competitive cricket after an injury-hit spell."
+      "headline": "Hardik Pandya on comeback trail after India A call-up for Australia A seriesHardik Pandya has been named in India A's squad for the three-match one-day series against Australia A, subject to fitness clearance. The all-rounder's selection offers him a potential route back to competitive cricket after an injury-hit spell."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-pakistan-3rd-test-day-1-live-score-updates-commentary-babar-azam-birmingham-2990685-2026-09-09",
-      "headline": "England vs Pakistan 3rd Test Day 1: Live score and updates from Birmingham ENG vs PAK 3rd Test Day 1 Live: After a very brief resistance from the lower-order, Pakistan have been bundled out for 133 runs in the 2nd session of the opening day. Now its up to the bowlers to see if they can recover something from this game or a whitewash could be on the cards."
+      "headline": "England vs Pakistan 3rd Test Day 1: Live score and updates from BirminghamENG vs PAK 3rd Test Day 1 Live: At the end of the second session of the day, Pakistan's bowlers have shown some fight. Both Mohammad Abbas and Mohammad Ali took a wicket each as England look to settle themselves and get the runs under their belt."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bcci-supreme-court-sports-governance-act-2025-state-cricket-associations-ptag-2990538-2026-09-09",
-      "headline": "Supreme Court asks if BCCI should come under Sports Governance Act The Supreme Court asked the BCCI and state cricket associations why they should not be governed by the National Sports Governance Act, 2025. The move could bring office-bearers' tenure and service conditions under a uniform legal framework."
+      "headline": "Supreme Court asks if BCCI should come under Sports Governance ActThe Supreme Court asked the BCCI and state cricket associations why they should not be governed by the National Sports Governance Act, 2025. The move could bring office-bearers' tenure and service conditions under a uniform legal framework."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/other-sports/story/asian-games-nagoya-flood-400-athletes-evacuated-2990624-2026-09-09",
-      "headline": "Nagoya hit by record flood ahead of Asian Games, 400 athletes evacuated Nagoya has been hit by record rainfall and flooding just days before the 2026 Asian Games. Around 400 athletes and staff, who had arrived in the city, were briefly evacuated to higher ground."
+      "headline": "Nagoya hit by record flood ahead of Asian Games, 400 athletes evacuatedNagoya has been hit by record rainfall and flooding just days before the 2026 Asian Games. Around 400 athletes and staff, who had arrived in the city, were briefly evacuated to higher ground."
     },
     {
       "sentiment": "positive",
@@ -440,41 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/mansukh-mandaviya-indian-athletes-asian-games-2026-pressure-performance-2990290-2026-09-08",
       "headline": "Confident Indian athletes won't fear opponents at Asian Games: Sports MinisterSports Minister Mansukh Mandaviya urged India's 503-member Asian Games contingent to compete without fear and turn pressure into performance as the country looks to build on its record-breaking medal haul from Hangzhou 2023"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-cricketers-asian-games-nagoya-hotel-accommodation-bcci-2990287-2026-09-08",
-      "headline": "No five-star accommodation for Indian cricketers at Asian Games, BCCI confirmsIndia's cricketers will stay in designated accommodation in Nagoya for the Asian Games, with BCCI vice-president Rajiv Shukla saying the hotels may not be five-star but are comfortable and suitable for the players"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gull-feroza-fined-pakistan-womens-asia-cup-semi-final-berth-sealed-2990250-2026-09-08",
-      "headline": "After Fatima Sana, another Pakistan cricketer fined by ICC in Women's Asia CupGull Feroza has been fined 10 per cent of her match fee for showing dissent at an umpire's decision during Pakistan's Women's Asia Cup clash against Hong Kong. The sanction comes shortly after Fatima Sana was also fined, while Pakistan secured a semi-final spot after beating Hong Kong by 72 runs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/transgender-women-cricket-icc-cricket-australia-anaya-bangar-eligibility-rules-2989961-2026-09-08",
-      "headline": "Transgender women in cricket: Can inclusion and competitive fairness coexist?The debate over transgender participation in women's cricket sits at the intersection of inclusion, competitive fairness and evolving science. The cases of Anaya Bangar and ex-Canada cricketer Danielle McGahey highlight the complexity of determining how testosterone, puberty and hormone therapy affect sporting advantage."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/wasim-akram-pakistan-cricket-england-test-series-defeat-2990199-2026-09-08",
-      "headline": "Wasim Akram slams Pakistan cricket: Knew England series would end in 0-3 lossWasim Akram has slammed Pakistan's cricket setup after England took an unassailable 2-0 lead, saying he knew before the series that Pakistan would lose 0-3. The former captain blamed Pakistan's struggling batting, bowling and fielding, while also pointing to deeper problems in the domestic system."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/ballon-dor-2026-nominees-full-list-mbappe-yamal-kane-messi-2990168-2026-09-08",
-      "headline": "Lionel Messi, Lamine Yamal among 30 nominated for Ballon D'Or 2026Kylian Mbappe, Lamine Yamal, Harry Kane and Lionel Messi headline the 2026 Ballon d'Or nominees. Yamal eyes a third Kopa Trophy, while a new Yashin Trophy winner is guaranteed. The ceremony moves to London on October 26."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-india-cricket-deal-worth-major-brands-chatgpt-campa-2990140-2026-09-08",
-      "headline": "BCCI signs 2-year-deal worth over Rs 130 crore with 3 major brands, including ChatGPTBCCI has signed a two-season partnership worth over Rs 130 crore with Campa, SBI Life, and ChatGPT as Associate Partners for India's home cricket. The deal, running through March 2028, represents a 44 per cent increase over the previous cycle and highlights the growing commercial value of Indian cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/imran-khan-health-concerns-wasim-akram-medical-care-jail-2990121-2026-09-08",
-      "headline": "Wasim Akram worried over Imran Khan's health in prison: I miss him a lotWasim Akram has expressed concern over Imran Khan's health, stressing that there can be no compromise despite the former Pakistan captain's imprisonment. Javed Miandad, Pat Cummins, Brian Lara and 22 former international captains have also raised concerns over Imran's treatment and medical care."
     }
   ],
   "education": [
