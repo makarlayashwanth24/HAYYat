@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/brics-opposes-cbam-carbon-border-tax-developing-countries-gvcs-ip-ai-2993284-2026-09-12",
+      "headline": "BRICS leaders oppose 'unilateral, discriminatory' carbon border taxesBRICS leaders opposed carbon border adjustment mechanisms and called them unilateral and discriminatory. The declaration linked the measures to risks for developing countries, trade and climate action."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/bank-fd-or-post-office-deposit-the-higher-interest-comes-with-a-catch-2992941-2026-09-12",
       "headline": "Bank FD or post office deposit? The higher interest comes with a catchHigher interest or easier access; which matters more? A look at the latest rates across different institutions shows why the highest rate may not always be the best choice."
     },
@@ -94,14 +99,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-138-points-higher-nifty-nears-23500-axis-bank-up-2-2991550-2026-09-10",
       "headline": "Sensex ends 138 points higher, Nifty nears 23,500; Axis Bank up 2%The BSE Sensex opened at 74,742.54 and closed at 74,902.59, gaining 138.36 points, or 0.19%. The Nifty 50 opened at 23,446.60 and ended at 23,477.80, up 46.30 points, or 0.20%."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-russia-trade-sanctions-businessmen-say-routes-adapt-brics-can-open-channels-2991501-2026-09-10",
-      "headline": "Sanctions are a joke: Businessman on how trade continues with sanctioned economiesBusinessmen and industrialists said sanctions may create additional compliance and logistical challenges for businesses, but they do not necessarily stop commercial activity."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/cm-vijay-runs-towards-ajith-kumar-for-a-hug-in-iconic-video-at-silverstone-watch-2993306-2026-09-12",
+      "headline": "Vijay runs to Ajith, shares warm hug at Silverstone ahead of big race Actor-racer Ajith Kumar and Tamil Nadu Chief Minister Vijay shared a warm hug at Silverstone Racing Circuit. The viral video has won hearts online. Vijay arrived to support Ajith's racing outing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/devoleena-bhattacharjee-slams-rohit-roy-tv-dustbin-jibe-says-people-know-him-as-ronit-roy-brother-2993270-2026-09-12",
+      "headline": "People know him as Ronit Roy's brother: Actor Devoleena slams Rohit Roy's TV jibe Devoleena Bhattacharjee questioned Rohit Roy for calling television a \"dustbin medium\", saying the industry gave him work and recognition. The actor said most people know Rohit only as Ronit Roy's brother."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/radhika-sarathkumar-trisha-krishnan-london-selfie-sparks-buzz-as-cm-vijay-flags-off-ajith-kumar-silverstone-race-2993249-2026-09-12",
+      "headline": "Actor Radhika, Trisha's London selfie sparks buzz as CM Vijay flags off Ajith's race Radhika Sarathkumar shared a London selfie with Trisha Krishnan as Vijay arrived to back Ajith Kumar at Silverstone. The posts and Vijay's visit have turned the Michelin Le Mans Cup round into a crossover moment for Tamil cinema and motorsport."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/naman-shaw-shreds-rohit-roy-for-calling-television-dustbin-medium-botox-in-the-brain-2993181-2026-09-12",
@@ -181,38 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-episode-6-kanika-mann-yung-dsa-clash-washroom-row-ration-cut-2992813-2026-09-11",
       "headline": "Bigg Boss 20 Episode 6: Kanika Mann-Yung DSA fight turns ugly over washroom row Captain Yung DSA and Kanika Mann's fight over duties and washroom use dominated episode six. The fallout pulled in other housemates, led to a ration cut, and ended on an emotional note."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ajith-thanks-cm-vijay-for-visiting-silverstone-hopes-india-hosts-le-mans-cup-2992794-2026-09-11",
-      "headline": "Ajith thanks CM Vijay for visiting Silverstone, hopes India hosts Le Mans Cup. Video Ajith Kumar said C Joseph Vijay will visit Silverstone on Saturday after his team invited him to the Le Mans Cup round. The visit comes amid Tamil Nadu's push to promote sports and reflects Ajith's hope of bringing major motorsport events to India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/nani-confirms-no-trailer-for-the-paradise-refuses-to-call-it-a-pan-india-film-2992715-2026-09-11",
-      "headline": "Nani confirms no trailer for The Paradise, refuses to call it a pan-India film Nani says The Paradise will release without a trailer, calling it a \"beautiful mother-son story\" rather than just an action drama. He also doesn't want to label it a \"pan-India\" film, with Telugu remaining the team's primary focus."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-sequel-namrata-singh-on-virat-kohli-anushka-sharma-cameos-2992645-2026-09-11",
-      "headline": "Anushka Sharma-Virat Kohli may make cameos in Hanuman Ansh sequel: Producer Hanuman Ansh is getting bigger with a sequel that could explore Neem Karoli Baba's famous devotees, including Anushka Sharma and Virat Kohli. Producer Namrata Singh opened up about all the other possible cameos the film could have."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/if-us-blocks-hormuz-routes-iran-will-not-surrender-will-continue-to-respond-pezeshkian-tells-india-today-2993314-2026-09-12",
+      "headline": "Hormuz will reopen only after...: Iran President Pezeshkian lays down terms for USIn an exclusive interview with India Today, Masoud Pezeshkian linked the reopening of the Strait of Hormuz to an end to US pressure on Iran, including the naval blockade and sanctions."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/differences-should-not-become-disputes-what-pm-modi-chinas-xi-discussed-at-1st-indian-bilateral-in-7-years-2993258-2026-09-12",
-      "headline": "Differences should not become disputes: What PM Modi, China's XI discussed at 1st Indian bilateral in 7 yearsDifferences should not become disputes: What PM Modi, China's XI discussed at 1st Indian bilateral in 7 years"
+      "headline": "Differences shouldn't become disputes: What PM Modi, Xi discussed in bilateral meetPM Modi and Xi Jinping discuss border peace, trade and stronger India-China ties at their first bilateral meeting in India in seven years."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/welcome-to-india-says-pm-as-bilateral-with-chinas-xi-begins-1st-on-indian-soil-since-2020-galwan-clash-2993205-2026-09-12",
-      "headline": "Let's join hands, Xi tells PM Modi in 1st bilateral in India since 2020 Galwan clash  Live UpdatesThe meeting is significant as Xi is visiting India for the first time in nearly seven years. The talks came as New Delhi and Beijing seek to rebuild ties after years of tensions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brics-new-delhi-declaration-backs-iran-condemns-sanctions-tells-israel-leave-lebanon-gaza-us-2993178-2026-09-12",
-      "headline": "Brics slams US, backs Iran, calls out Israel. Has India shifted stance?The joint declaration of the Brics Delhi Summit has criticised the US over unilateral sanctions without naming it. It has backed Iran's WTO entry, and slammed Israel while dedicating five paras to Gaza. Is this a signal of India leaning away from the US, or is New Delhi keeping another diplomatic option open?"
+      "url": "https://www.indiatoday.in/world/story/mojtaba-khamenei-alive-still-has-final-authority-pezeshkian-puts-iran-supreme-leader-rumours-to-rest-2993342-2026-09-12",
+      "headline": "Mojtaba is alive and still has final authority: Pezeshkian puts rumours to restIn an interview with India Today, Masoud Pezeshkian said Mojtaba Khamenei is alive and remains in charge. He said the secrecy surrounding the supreme leader's whereabouts was necessary because US and Israeli forces had targeted Iran's senior leaders and commanders."
     },
     {
       "sentiment": "negative",
@@ -221,8 +221,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/iran-president-masoud-pezeshkian-india-pm-modi-hold-hands-india-ties-2992985-2026-09-12",
-      "headline": "Viral pic with PM Modi, Mojtaba death rumours: Iran's Pezeshkian gets candidIranian President Masoud Pezeshkian, in an exclusive interview with India Today, shared his views on the viral hand-in-hand moment with PM Modi and the status of Supreme Leader Mojtaba Khamenei."
+      "url": "https://www.indiatoday.in/india/story/brics-new-delhi-declaration-backs-iran-condemns-sanctions-tells-israel-leave-lebanon-gaza-us-2993178-2026-09-12",
+      "headline": "Brics slams US, backs Iran, calls out Israel. Has India shifted stance?The joint declaration of the Brics Delhi Summit has criticised the US over unilateral sanctions without naming it. It has backed Iran's WTO entry, and slammed Israel while dedicating five paras to Gaza. Is this a signal of India leaning away from the US, or is New Delhi keeping another diplomatic option open?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-a-signatory-to-npt-pezeshkian-rejects-uss-nuke-enrichment-charge-says-its-an-alibi-to-attack-tehran-2993302-2026-09-12",
+      "headline": "Alibi to attack Iran: Masoud Pezeshkian rejects US's nuclear enrichment chargeIn an exclusive interview with India Today, Pezeshkian denied that Iran is seeking nuclear weapons and said Tehran's nuclear activities have been carried out within international rules."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/brics-dinner-menu-pm-modi-khandvi-paneer-lababdar-millet-pulao-jalebi-2993320-2026-09-12",
+      "headline": "Khandvi, paneer lababdar, millet pulao, jalebi on PM Modi's BRICS dinner menuPrime Minister Narendra Modi hosted BRICS leaders to a distinctly Indian vegetarian dinner in New Delhi. The millet-led menu underlined India's sustainability pitch and global push for Shree Anna."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/former-air-india-captain-dies-at-hotel-the-grand-vasant-kunj-after-brother-raises-alarm-2993221-2026-09-12",
+      "headline": "Ex-Air India pilot found dead at 5-star hotel in south DelhiThe incident came to light on the evening of September 11 after the man's brother contacted the hotel manager and informed him that his brother was not responding to repeated calls."
     },
     {
       "sentiment": "positive",
@@ -231,8 +246,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/anthropic-ceo-urges-ai-companies-to-slow-model-development-amid-fears-over-misuse-2993338-2026-09-12",
+      "headline": "Anthropic CEO urges AI companies to slow model development amid fears over misuseAnthropic CEO Dario Amodei has urged AI companies to slow model capability gains and strengthen safeguards. His call comes amid fresh evidence of misuse and rising concern over how well developers can contain advanced systems."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/bangladesh-power-crisis-news-adani-power-godda-jharkhand-tarique-rahman-brics-2993066-2026-09-12",
       "headline": "Adani's Jharkhand plant unit supplying power to Bangladesh trips amid Dhaka's woesBangladesh's mounting electricity crisis has been compounded by an outage at Adani Power's Godda plant in Jharkhand. One of its two units developed a boiler fault, halving the plant's output and threatening to further widen Bangladesh's already significant power shortfall."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iran-us-talks-masoud-pezeshkian-pakistan-oman-sanctions-strait-of-hormuz-2993289-2026-09-12",
+      "headline": "Iran says Pak, Oman talks did not fail because of Tehran, seeks negotiations againIran's Pezeshkian said Tehran remains open to dialogue if the US ends sanctions and aggression, stressing that past talks failed due to broken commitments. He also said Iran is negotiating with Oman on reopening the Strait of Hormuz."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/cm-vijay-runs-towards-ajith-kumar-for-a-hug-in-iconic-video-at-silverstone-watch-2993306-2026-09-12",
+      "headline": "Vijay runs to Ajith, shares warm hug at Silverstone ahead of big raceActor-racer Ajith Kumar and Tamil Nadu Chief Minister Vijay shared a warm hug at Silverstone Racing Circuit. The viral video has won hearts online. Vijay arrived to support Ajith's racing outing."
     },
     {
       "sentiment": "positive",
@@ -241,18 +271,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/how-vajpayee-era-law-lets-delhi-voter-raghav-chadha-represent-punjab-in-rajya-sabha-law-explained-2991022-2026-09-12",
-      "headline": "How a Vajpayee-era shift lets Delhi-voter Raghav Chadha represent Punjab in Rajya SabhaBJP Rajya Sabha MP Raghav Chadha's return to Delhi's voter rolls has raised questions over how he can continue representing Punjab in the Rajya Sabha. The answer lies in an Atal Bihari Vajpayee-era amendment that abolished the state-residency requirement for Upper House candidates. The change was later upheld by the Supreme Court despite concerns that it weakened the Rajya Sabha's federal character."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-uae-brics-summit-masoud-pezeshkian-meets-abu-dhabi-crown-prince-in-new-delhi-2993196-2026-09-12",
-      "headline": "Iran's President meets UAE Crown Prince on sidelines of BRICS in New DelhiMasoud Pezeshkian met Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan in New Delhi on the sidelines of the BRICS summit. The meeting stood out as Iran and the UAE kept diplomatic channels open amid recent regional tensions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brics-summit-2026-live-updates-delhi-bharat-mandapam-modi-xi-jinping-putin-russia-pezeshkian-trade-bilateral-talks-2992849-2026-09-12",
-      "headline": "Live: CMs, Union Ministers arrive for dinner at Bharat MandapamBRICS Summit 2026 Live Updates: BRICS leaders have gathered at Bharat Mandapam in New Delhi for the second day of the summit. A joint declaration issued on Saturday condemned the April 2025 Pahalgam terror attack in Jammu and Kashmir. Attention is also on the bilateral talks between Prime Minister Narendra Modi and Chinese President Xi Jinping, their first meeting on Indian soil since the 2020 Galwan Valley clash in eastern Ladakh. The two leaders previously met in Kazan in 2024. The day's agenda includes a closed-door session on inclusive global governance and strengthening multilateralism, a visit to the Bharat Innovates Exhibition, a group photograph and a joint tree-planting ceremony. PM Modi is scheduled to host a gala dinner at 7:30 pm."
+      "url": "https://www.indiatoday.in/world/story/no-problem-with-uae-regional-nations-us-bases-are-the-issue-irans-pezeshkian-tells-india-today-2993291-2026-09-12",
+      "headline": "Don't let US use your territory to attack Iran, Pezeshkian urges Gulf statesPezeshkian says Iran wants dialogue with its neighbours and greater regional unity, arguing that Gulf countries can maintain their own interests while working with Tehran on security, trade and economic development."
     },
     {
       "sentiment": "positive",
@@ -261,28 +281,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/men-drive-suv-into-fast-flowing-river-in-jk-to-film-reel-get-stuck-in-strong-current-2992906-2026-09-12",
-      "headline": "Men drive SUV into fast-flowing river in J&K to film reel, get stuck in strong currentA group of youngsters filming a social media reel drove a Mahindra Scorpio into the Sindh River in Jammu and Kashmir, where it got stranded in strong currents. Police and locals rescued the occupants safely, and an FIR was registered over the alleged negligence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/col-anurag-upadhyay-cat-99-percentile-army-career-and-stroke-recovery-appeal-2993103-2026-09-12",
-      "headline": "He scored 99 percentile in CAT but chose the Army. Col Anurag faces a new battle nowCol Anurag Upadhyay scored in the 99th percentile in CAT but chose the Indian Army and later served with the Para Special Forces. After a severe stroke in August 2025, he developed locked-in syndrome. His family is now seeking medical, rehabilitation and technology experts to explore further possibilities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pahalgam-terror-attack-finds-special-mention-in-brics-new-delhi-joint-statement-2993155-2026-09-12",
-      "headline": "Condemn in strongest terms: BRICS statement's special mention of Pahalgam attackThe BRICS declaration described acts of terrorism as criminal and unjustifiable, regardless of their motive or who carried them out. It reaffirmed their commitment to combating terrorism in all its forms, including the cross-border movement of terrorists, terror financing and safe havens."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brics-declaration-voices-concern-on-unilateral-tariffs-coercive-measures-against-law-calls-for-dialogue-2993109-2026-09-12",
-      "headline": "BRICS declaration calls for dialogue, flags unilateral tariffs, coercive actionsThe declaration stressed the need for greater engagement in conflict prevention efforts, including by addressing the root causes of conflicts. The grouping also reiterated its commitment to the peaceful resolution of international disputes through dialogue, consultation and diplomacy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/beyond-star-power-is-hindi-cinema-entering-film-first-era-hanuman-ansh-dhurandhar-2992424-2026-09-12",
-      "headline": "Beyond star power: Is Hindi cinema entering a film-first era?The contrasting runs of Hanuman Ansh, Mirzapur: The Movie, Saiyaara, and Dhurandhar 2 have sharpened the debate over what draws Hindi audiences to theatres. This raises the question whether stars still matter, or whether films now need a stronger proposition of their own."
+      "url": "https://www.indiatoday.in/india/video/ministers-cms-board-one-bus-for-brics-gala-dinner-2993348-2026-09-12",
+      "headline": "Next stop, Bharat Mandapam: Ministers, CMs board one bus for BRICS gala dinnerAmong those seen travelling together were Uttar Pradesh Chief Minister Yogi Adityanath, Uttarakhand Chief Minister Pushkar Singh Dhami, Delhi Chief Minister Rekha Gupta and Maharashtra Chief Minister Devendra Fadnavis."
     },
     {
       "sentiment": "positive",
@@ -291,36 +291,46 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/houthi-attack-saudi-arabia-bab-el-mandeb-strait-ansar-allah-yemen-suez-canal-iran-war-news-2992674-2026-09-12",
-      "headline": "How Houthi capture of Bab el-Mandeb 3,000 km away could hit India hardThe Bab el-Mandeb is nearly 3,000 km from India, but the Houthi takeover could hit New Delhi where it hurts most, energy and trade. With the Strait of Hormuz already under strain, disruption at the Gate of Tears could raise oil prices and make Indian exports costlier."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/china-xi-jinping-right-hand-man-cai-qi-brics-india-visit-pm-modi-2992918-2026-09-12",
-      "headline": "China's No. 2 is in India. Meet Xi Jinping's powerful, secretive aide Cai QiCai Qi, widely seen as China's second-most powerful leader and Xi Jinping's right-hand man, is on his first visit to India. A secretive figure, Cai Qi has garnered considerable attention with his visit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/keralas-barefoot-botanist-salim-pichan-left-school-early-discovered-23-plants-2992519-2026-09-11",
-      "headline": "He left school early, mastered 2,000 plant names and now has species named after himPichan M Salim, a field parataxonomist from Kerala, has spent decades documenting the Western Ghats' plant diversity. With new species discoveries, rare plant records, conservation work, a President's award, and two species named after him, Salim's journey shows how field knowledge can transform modern science."
+      "url": "https://www.indiatoday.in/india/story/welcome-to-india-says-pm-as-bilateral-with-chinas-xi-begins-1st-on-indian-soil-since-2020-galwan-clash-2993205-2026-09-12",
+      "headline": "Let's join hands, Xi tells PM Modi in 1st bilateral in India since 2020 Galwan clash Live UpdatesThe meeting is significant as Xi is visiting India for the first time in nearly seven years. The talks came as New Delhi and Beijing seek to rebuild ties after years of tensions."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/asian-games-divyanshi-wushu-athlete-suicide-controversy-explained-2992977-2026-09-12",
-      "headline": "Teenage wushu athlete tears up, alleges mental harassment after Asian Games snubAsian Games: Indian wushu athlete Divyanshi has threatened to take her own life after being removed from India's Asian Games squad. The 18-year-old has alleged mental and physical harassment, while her coach has questioned the decision to replace her with Roshibina Devi."
+      "url": "https://www.indiatoday.in/world/story/masoud-pezeshkian-us-plan-topple-iran-puppet-government-failed-2993296-2026-09-12",
+      "headline": "US thought it could pull a Venezuela in Iran, but failed: Masoud PezeshkianIn an interview with India Today, Masoud Pezeshkian said the US tried to topple Iran and install a puppet government. He said the plan failed as Iranians rallied behind the state despite attacks and internal discontent."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/turn-pyramid-of-power-and-privilege-to-platform-of-partnership-pm-modi-global-governance-reform-brics-2993050-2026-09-12",
-      "headline": "From pyramid of power to platform of partnership: PM roots for Global SouthA greater voice for the Global South was at the heart of PM Modi's opening remarks as the chair of the 18th BRICS Summit."
+      "url": "https://www.indiatoday.in/jobs/story/from-corporate-job-to-a-himalayan-homestay-how-one-woman-made-the-switch-2993273-2026-09-12",
+      "headline": "She left a Rs 24 lakh corporate job to turn her 100-year-old home into a homestayTarana Chauhan left a well-paying corporate career to turn her century-old ancestral home in Himachal Pradesh into a homestay. But she did not quit overnight. She refurbished the property while working full-time, tested the business model, built steady income and then made the leap into hospitality on her own terms."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-government-dk-shivakumar-plan-bengaluru-alternative-cities-mysuru-mangaluru-northern-region-2992224-2026-09-12",
-      "headline": "DKS looks firm on building more cities as alternatives to BengaluruEvery state wants a Bengaluru of its own, but Karnataka now wants more than one. With over 100 days in office behind him, Chief Minister DK Shivakumar is pushing a 'Beyond Bengaluru' vision aimed at creating new economic engines that become alternative to Bengaluru."
+      "url": "https://www.indiatoday.in/india/story/how-vajpayee-era-law-lets-delhi-voter-raghav-chadha-represent-punjab-in-rajya-sabha-law-explained-2991022-2026-09-12",
+      "headline": "How a Vajpayee-era shift lets Delhi-voter Raghav Chadha represent Punjab in Rajya SabhaBJP Rajya Sabha MP Raghav Chadha's return to Delhi's voter rolls has raised questions over how he can continue representing Punjab in the Rajya Sabha. The answer lies in an Atal Bihari Vajpayee-era amendment that abolished the state-residency requirement for Upper House candidates. The change was later upheld by the Supreme Court despite concerns that it weakened the Rajya Sabha's federal character."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/col-anurag-upadhyay-cat-99-percentile-army-career-and-stroke-recovery-appeal-2993103-2026-09-12",
+      "headline": "He scored 99 percentile in CAT but chose the Army. Col Anurag faces a new battle nowCol Anurag Upadhyay scored in the 99th percentile in CAT but chose the Indian Army and later served with the Para Special Forces. After a severe stroke in August 2025, he developed locked-in syndrome. His family is now seeking medical, rehabilitation and technology experts to explore further possibilities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-uae-brics-summit-masoud-pezeshkian-meets-abu-dhabi-crown-prince-in-new-delhi-2993196-2026-09-12",
+      "headline": "Iran's President meets UAE Crown Prince on sidelines of BRICS in New DelhiMasoud Pezeshkian met Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan in New Delhi on the sidelines of the BRICS summit. The meeting stood out as Iran and the UAE kept diplomatic channels open amid recent regional tensions."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-india-row-dilip-tirkey-strips-dg-rk-srivastava-powers-legal-notice-2993360-2026-09-12",
+      "headline": "Hockey India rift deepens as president Tirkey strips DG Srivastava of powers Hockey India president Dilip Tirkey has stripped Director General Cdr RK Srivastava of all powers with immediate effect, serving him a legal notice citing discipline and accountability. The order also calls for a formal handover to ensure continuity of operations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/shreyas-iyer-eager-asian-games-experience-meet-top-athletes-2993301-2026-09-12",
+      "headline": "Exciting time: Shreyas Iyer looks forward to Asian Games experience Shreyas Iyer is excited about experiencing his first Asian Games in Aichi-Nagoya, with the India T20I captain eager to interact with athletes from different sports and understand what drives them at the highest level."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/afg-vs-ind-1st-t20i-shreyas-iyer-samson-sooryavanshi-opener-selection-kishan-fit-2993244-2026-09-12",
@@ -364,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/jakob-ingebrigtsen-wins-5000m-ultimate-championship-2993035-2026-09-12",
-      "headline": "Ingebrigtsen wins 5k Ultimate Championship days after bitter controversy Jakob Ingebrigtsen bounced back from a bitter Diamond League final defeat to win the men's 5,000m at the inaugural World Athletics Ultimate Championship. The Norwegian clocked a season's best 12:59.24, days after calling his 1500m rivals a \"bunch of cowards\"."
+      "headline": "Ingebrigtsen wins 5k Ultimate Championship days after bitter controversyJakob Ingebrigtsen bounced back from a bitter Diamond League final defeat to win the men's 5,000m at the inaugural World Athletics Ultimate Championship. The Norwegian clocked a season's best 12:59.24, days after calling his 1500m rivals a \"bunch of cowards\"."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2026-womens-singles-final-aryna-sabalenka-vs-elena-rybakina-preview-head-to-head-2992845-2026-09-12",
-      "headline": "Elena Rybakina has hurt Aryna Sabalenka before. Can she spoil her party again? Elena Rybakina and Aryna Sabalenka meet in a blockbuster US Open final, with Rybakina chasing her maiden title and Sabalenka eyeing a historic three-peat. After beating Sabalenka in Riyadh and the Australian Open final, Rybakina will look to complete another major blow by denying her rival in New York."
+      "headline": "Elena Rybakina has hurt Aryna Sabalenka before. Can she spoil her party again?Elena Rybakina and Aryna Sabalenka meet in a blockbuster US Open final, with Rybakina chasing her maiden title and Sabalenka eyeing a historic three-peat. After beating Sabalenka in Riyadh and the Australian Open final, Rybakina will look to complete another major blow by denying her rival in New York."
     },
     {
       "sentiment": "negative",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/yuki-bhambri-injury-india-davis-cup-tie-korea-asian-games-2992640-2026-09-11",
       "headline": "Big blow for India as Yuki Bhambri doubtful for Davis Cup tie against KoreaYuki Bhambri is in doubt for India's Davis Cup tie in Seoul after suffering a right-leg strain. The injury has forced India to revisit its doubles plans against hosts Korea while hoping Bhambri is fit for the Asian Games."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-pak-lords-test-rizwan-imam-ul-haq-pakistan-cybecrimes-interrogation-2992520-2026-09-11",
-      "headline": "Rizwan, Imam-ul-Haq grilled for 4 hours in probe by Pakistan's cybercrime unitENG vs PAK: Mohammad Rizwan and Imam-ul-Haq were grilled for nearly four hours by Pakistan's National Cyber Crime Investigation Agency over alleged dressing-room leaks, adding another layer to the team's ongoing disciplinary crisis."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-sports-science-medicine-head-applications-coe-indian-team-vvs-laxman-2992516-2026-09-11",
-      "headline": "After criticism for injury woes, BCCI hunts for Sports Science and Medicine HeadThe BCCI has opened applications for a new Sports Science and Medicine head at its Bengaluru Centre of Excellence after criticism over player injuries. The CoE came under scrutiny as many of the players got injured and were struggling with their recovery process."
     }
   ],
   "education": [
