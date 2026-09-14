@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/global-oil-supply-at-risk-as-houthis-attack-with-drones-saudi-pipeline-faces-weeks-long-outage-2994683-2026-09-14",
+      "headline": "4% of global oil supply at risk as drone-hit Saudi pipeline faces weeks-long outageSaudi Arabia's East-West Pipeline could stay largely shut for weeks after a drone attack. The disruption, alongside Houthi gains near Bab el-Mandeb and delayed Hormuz talks, is adding pressure on global oil flows."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/nasdaq-slides-1-as-ai-safety-concerns-oil-price-surge-hit-markets-2994465-2026-09-14",
       "headline": "Nasdaq slides 1% as AI safety concerns, oil price surge hit marketsWall Street started the week on a weak note as technology stocks fell amid growing concerns over AI safety, while a sharp rise in oil prices added to investor worries."
@@ -94,14 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/openai-ipo-sam-altman-rules-out-2026-public-offering-over-ai-safety-concerns-2993471-2026-09-13",
       "headline": "Would be ill-advised: Sam Altman pauses OpenAI IPO plans over safety concernsThe OpenAI CEO also suggested that OpenAI and other leading AI companies may be close to announcing an agreement to slow AI development and work together to address safety risks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/brics-opposes-cbam-carbon-border-tax-developing-countries-gvcs-ip-ai-2993284-2026-09-12",
-      "headline": "BRICS leaders oppose 'unilateral, discriminatory' carbon border taxesBRICS leaders opposed carbon border adjustment mechanisms and called them unilateral and discriminatory. The declaration linked the measures to risks for developing countries, trade and climate action."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/bigg-boss-20-direct-nomination-rohed-aasif-scout-eviction-planning-row-2994686-2026-09-15",
+      "headline": "Bigg Boss 20 Episode 9: Rohed, Aasif and Scout face nomination for plotting eviction In the latest episode, Bigg Boss accused Yung DSA, Rohed Khan, Aasif Khan and Scout of plotting fellow contestants' eviction. This resulted in their direct nomination."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/vidyut-jammwal-lalbaugcha-raja-visit-actor-plays-damru-blows-conch-on-ganesh-chaturthi-2994563-2026-09-14",
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/rambola-film-goswami-tulsidas-biopic-vishal-chaturvedi-mahaveer-jain-2994146-2026-09-14",
       "headline": "RamBola: After Neem Karoli Baba, Hanuman Ansh director's next on Goswami Tulsidas Director Vishal Chaturvedi and producer Mahaveer Jain have announced RamBola, a film based on the life and legacy of poet Goswami Tulsidas. The project marks Chaturvedi's next film after the success of Hanuman Ansh and will explore Tulsidas' spiritual and literary journey."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/cm-vijay-gifts-miniature-race-car-to-lovely-brother-ajith-in-new-silverstone-pics-2994111-2026-09-14",
-      "headline": "CM Vijay gifts miniature race car to 'lovely brother' Ajith in new Silverstone pics Vijay and Ajith exchanged signed gifts after the Le Mans Cup at Silverstone. The moment spotlighted their friendship beyond the long-running fan rivalry."
     }
   ],
   "general news": [
@@ -226,8 +226,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/story/trump-sam-altman-private-meeting-ai-safety-debate-openai-2994706-2026-09-15",
+      "headline": "Trump, Sam Altman meet privately as AI safety debate intensifiesDonald Trump and OpenAI chief Sam Altman held a private backstage meeting focused on artificial intelligence, according to MS NOW report. The discussion came as both publicly differ on whether advanced AI needs slower, safer development."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/jaipur/story/jaipur-family-murder-rahul-jha-killed-wife-daughters-served-tea-to-father-2994702-2026-09-15",
+      "headline": "4 killings, temple visits and a cup of tea: Jaipur police reveal accused's trailPolice say Rahul Jha killed his wife and three daughters in Jaipur before fleeing the house. Investigators are now piecing together his movements, motive and alleged attempts to avoid detection."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/china-welcomes-pm-modi-independent-foreign-policy-message-after-xi-jinping-talks-brics-summit-in-new-delhi-2994479-2026-09-14",
       "headline": "India has independent policy: China praises PM Modi's message on bilateral tiesChina's Xi Jinping and PM Narendra Modi held bilateral talks on the sidelines of the BRICS Summit in New Delhi. Beijing welcomed the Prime Minister's remarks on bilateral ties, saying that managing differences could shape the next phase of bilateral ties."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/nita-ambani-went-big-on-jewellery-radhika-on-kanjeevaram-at-ganpati-celebrations-mumbai-2994691-2026-09-15",
+      "headline": "Nita Ambani went big on jewellery, Radhika on Kanjeevaram at Ganpati celebrationsAt Antilia's Ganpati celebrations, Nita Ambani and Radhika Merchant the saas-bahu duo looked abolsutely breathtaking in their traditional avatars."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-claims-ukraine-russia-agree-not-to-hit-energy-targets-zelenskyy-not-convinced-2994701-2026-09-15",
+      "headline": "Trump says Ukraine, Russia agree not to hit energy targets. Zelenskyy not convincedDonald Trump said Russia and Ukraine had agreed to stop striking each other's energy sites. Kyiv responded cautiously, saying any pause depends on credible guarantees that Moscow will comply."
     },
     {
       "sentiment": "positive",
@@ -246,6 +266,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/us-envoy-sergio-gor-offers-prayers-at-mumbais-lalbaugcha-raja-on-ganesh-chaturthi-2994695-2026-09-15",
+      "headline": "US envoy Sergio Gor offers prayers at Mumbai's Lalbaugcha Raja on Ganesh ChaturthiUS Ambassador to India Sergio Gor visited Mumbai's Lalbaugcha Raja pandal and offered prayers during Ganesh Chaturthi. He described the celebrations as an extraordinary display of faith, energy and community."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/cji-surya-kant-defends-judges-complaints-mechanism-amid-reform-debate-jethmalani-lecture-harish-salve-2994498-2026-09-14",
       "headline": "CJI on accountability: Should we put every complaint against judges on a website?CJI Surya Kant defended the mechanism for handling complaints against judges as \"timely and robust\" at the Ram Jethmalani Memorial Lecture, where Mahesh Jethmalani and Harish Salve raised concerns over judicial accountability and the Justice Yashwant Varma cash controversy. CJI Surya Kant also backed reform while defending the collegium system and stressing procedural fairness."
     },
@@ -253,6 +278,11 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/nashik-sweet-shop-sells-24-carat-golden-modak-rs-27000-per-kg-ganesh-chaturthi-devotees-dazzled-sagar-sweets-modak-varieties-video-2994501-2026-09-14",
       "headline": "24-carat gold modaks sell for Rs 27,000 per kg \u2013 and people are still buyingA Nashik sweet shop has introduced 24-carat edible gold-covered modaks for Ganesh Chaturthi. Priced at Rs 27,000 per kg, the sweet has become a festive talking point among devotees and buyers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-rs-50-crore-sixth-weekend-beats-dhurandhar-2-border-2-2994023-2026-09-14",
+      "headline": "Hanuman Ansh's Rs 50-crore 6th weekend leaves Dhurandhar 2, Border 2 far behindHanuman Ansh has delivered a Rs 50 crore-plus gross sixth weekend, leaving Dhurandhar 2, Border 2 and Bhooth Bangla far behind at the same stage. The feat is remarkable for a film that opened at just Rs 10 lakh and continues to grow six weeks after release."
     },
     {
       "sentiment": "positive",
@@ -266,38 +296,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bittu-tabahi-leads-100-people-in-massive-clean-up-of-bengaluru-turahalli-forest-2994163-2026-09-14",
-      "headline": "Bittu Tabahi leads 100 people in massive clean-up of Bengaluru's Turahalli ForestBittu Tabahi led a 100-member team to clear waste from Bengaluru's Turahalli Forest. The drive extended his cross-state cleanliness campaign and drew support from local volunteers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-is-building-an-artificial-sun-it-just-came-closer-to-becoming-a-reality-2994148-2026-09-14",
-      "headline": "India is building an artificial Sun. It just came closer to becoming a realityIndia has installed and commissioned a new 82.6 GHz, 400 kW gyrotron on the SST-1 tokamak in Gujarat. The upgrade strengthens its effort to sustain ultra-hot plasma for longer in fusion research."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/uniform-civil-code-bihar-jdu-opposes-ucc-implementation-amit-shah-ptag-2994431-2026-09-14",
-      "headline": "UCC in Bihar? JD(U) says no, despite backing Bill in ParliamentJD(U) leader Shyam Rajak reiterated the party's opposition to implementing the Uniform Civil Code in Bihar, despite its support for the UCC Bill in Parliament. His remarks came after Amit Shah said the UCC would be implemented in 21 NDA-ruled states by 2029. The RJD also opposed the move."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-rs-50-crore-sixth-weekend-beats-dhurandhar-2-border-2-2994023-2026-09-14",
-      "headline": "Hanuman Ansh's Rs 50-crore 6th weekend leaves Dhurandhar 2, Border 2 far behindHanuman Ansh has delivered a Rs 50 crore-plus gross sixth weekend, leaving Dhurandhar 2, Border 2 and Bhooth Bangla far behind at the same stage. The feat is remarkable for a film that opened at just Rs 10 lakh and continues to grow six weeks after release."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/varun-chakravarthy-injury-afghanistan-t20is-asian-games-doubt-2994443-2026-09-14",
-      "headline": "Varun Chakaravarthy to miss Afghanistan T20Is, Asian Games availability in doubtIndia spinner Varun Chakaravarthy has reportedly been ruled out of the Afghanistan T20I series with a fresh injury. The setback has left him doubtful for the Asian Games and renewed focus on player injury management."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/randhir-jaiswal-brics-snack-video-3x-speed-trolling-online-defence-ajit-doval-nsa-vikram-misri-2994157-2026-09-14",
-      "headline": "Trolling at 3X: People back munching Randhir Jaiswal, give critics a mouthfulEngagement farmers have picked on MEA spokesperson Randhir Jaiswal and NSA Ajit Doval for having snacks at the Brics Summit in New Delhi. By playing Jaiswal's clip at 3X speed, trolls have turned a normal act into social media content. People are defending the Indian officials and calling out the trolls."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/parag-shah-maharashtra-bjp-mla-spends-day-begging-on-mumbai-streets-ptag-2994477-2026-09-14",
-      "headline": "BJP's richest Maharashtra MLA spends day as beggar on guru's adviceMaharashtra BJP MLA Parag Shah, one of the state's richest legislators, spent a day disguised as a beggar on Mumbai streets after his Jain guru's suggestion. Giving up his security, vehicles and valuables, Shah sought alms and ate the food he received, saying the experience showed him the \"reality of life\"."
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/katrina-kaif-vicky-kaushal-ambani-ganesh-chaturthi-ethnic-wear-2994674-2026-09-14",
+      "headline": "Vicky-Katrina's simple yet stylish fashion game at Ambani Ganpati celebrationsKatrina Kaif and Vicky Kaushal arrived at Antilia in elegant ethnic outfits for the Ambani family's Ganesh Chaturthi celebrations."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/ganga-aarti-on-thames-london-first-ever-chinmaya-mission-75th-anniversary-ptag-2994206-2026-09-14",
-      "headline": "Thousands gather in London as Ganga aarti lights up the River Thames for first timeThousands joined the first Ganga aarti on London's Thames as Chinmaya Mission marked its 75th year. The ceremony linked spiritual gratitude with environmental care and a message of unity."
+      "url": "https://www.indiatoday.in/india/story/manjit-kaur-final-video-surfaces-after-punjab-influencer-dies-of-burn-injuries-2994681-2026-09-14",
+      "headline": "They tried to burn me alive: Punjab influencer Manjit Kaur's final video surfacesA final video of influencer Manjit Kaur has surfaced after her death, in which she alleges she was targeted in an attempt to burn her alive. It has renewed focus on the abduction and murder case, as police trace the accused and examine the sequence of events."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/israel-pm-grooming-costs-netanyahu-and-sara-account-for-90-per-cent-of-470000-dollars-spending-2994550-2026-09-14",
-      "headline": "Israel spent $470k on PMs' grooming since 2019, Netanyahu family accounts for 90%Figures released after a freedom of information request detailed Israel's spending on prime ministers' grooming and representation. The disclosure showed costs rising sharply under Benjamin Netanyahu and renewed scrutiny over transparency."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/bittu-tabahi-leads-100-people-in-massive-clean-up-of-bengaluru-turahalli-forest-2994163-2026-09-14",
+      "headline": "Bittu Tabahi leads 100 people in massive clean-up of Bengaluru's Turahalli ForestBittu Tabahi led a 100-member team to clear waste from Bengaluru's Turahalli Forest. The drive extended his cross-state cleanliness campaign and drew support from local volunteers."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/cbi-registers-fir-in-disha-salian-death-case-after-bombay-high-court-orders-thorough-probe-2994128-2026-09-14",
-      "headline": "Aaditya Thackeray, Rhea Chakraborty named in CBI FIR in Disha Salian death caseThe CBI has named Aaditya Thackeray, Rhea Chakraborty, Dino Morea and Sooraj Pancholi among those whose roles require investigation in Disha Salian's death case. The FIR also names Uddhav Thackeray, Showik Chakraborty, Sachin Waze, ex-Mumbai police commissioner Param Bir Singh and others, following the Bombay High Court's direction for a thorough probe."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/india-is-building-an-artificial-sun-it-just-came-closer-to-becoming-a-reality-2994148-2026-09-14",
+      "headline": "India is building an artificial Sun. It just came closer to becoming a realityIndia has installed and commissioned a new 82.6 GHz, 400 kW gyrotron on the SST-1 tokamak in Gujarat. The upgrade strengthens its effort to sustain ultra-hot plasma for longer in fusion research."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-dropped-afg-vs-ind-gautam-gambhir-delhi-2994600-2026-09-15",
+      "headline": "Is India not treating its new superstar Sooryavanshi properly? Pundits react Despite being the Player Of The Series in India's last T20I assignment against Zimbabwe, Vaibhav Sooryavanshi found himself warming the bench for the match against Afghanistan on Sunday, September 13. With Sooryavanshi being the next superstar of Indian cricket, pundits have questioned if the team management is using the 15-year-old properly."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohsin-naqvi-did-not-object-india-refusing-asia-cup-trophy-rajeev-shukla-2994687-2026-09-15",
+      "headline": "Naqvi did not object to India refusing Womens Asia Cup title from him, says Shukla BCCI vice-president Rajeev Shukla said Mohsin Naqvi did not object to India refusing to accept the Women's Asia Cup trophy from him, adding that the decision was a collective call taken by the Board."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/indian-athletics-team-visa-delay-athletes-await-japan-clearance-aichi-nagoya-asian-games-2994682-2026-09-14",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/tom-aspinall-vacates-ufc-heavyweight-title-dana-white-ciryl-gane-2994348-2026-09-14",
-      "headline": "Tom Aspinall forced to vacate UFC heavyweight title amid ongoing eye issues Tom Aspinall has vacated the UFC heavyweight title after fresh complications in his injured right eye. The decision clears the way for Ciryl Gane to become undisputed champion but deepens the division's shortage of star power."
+      "headline": "Tom Aspinall forced to vacate UFC heavyweight title amid ongoing eye issuesTom Aspinall has vacated the UFC heavyweight title after fresh complications in his injured right eye. The decision clears the way for Ciryl Gane to become undisputed champion but deepens the division's shortage of star power."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/alexander-zverev-us-open-2026-win-tennis-fans-abuse-allegations-2994401-2026-09-14",
-      "headline": "Alexander Zverev has won two Grand Slams. Why do tennis fans still dislike him? Alexander Zverev has finally built the Grand Slam resume his talent promised. Yet allegations of abuse and years of controversy have left him with a curious problem: winning trophies has not won over tennis fans."
+      "headline": "Alexander Zverev has won two Grand Slams. Why do tennis fans still dislike him?Alexander Zverev has finally built the Grand Slam resume his talent promised. Yet allegations of abuse and years of controversy have left him with a curious problem: winning trophies has not won over tennis fans."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/alexander-zverev-wins-us-open-beats-ben-shelton-final-new-york-2993977-2026-09-14",
       "headline": "Alexander Zverev shatters Ben Shelton's American dream, wins 1st US Open titleAlexander Zverev defeated Ben Shelton 6-3, 7-6(2), 5-7, 6-2 to win his maiden US Open title and second Grand Slam of 2026. After Shelton's third-set fightback, Zverev produced a clinical fourth-set response to finally end his long wait for a title at Flushing Meadows."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohsin-naqvi-bcci-indian-team-refuses-womens-asia-cup-trophy-amol-muzumdar-2993970-2026-09-14",
-      "headline": "BCCI took stand to not receive Women's Asia Cup from Naqvi: Coach MuzumdarIndia once again snub Mohsin Naqvi at the Asia Cup. Coach Amol Muzumdar said that the Indian team declined to collect the women's Asia Cup trophy from the PCB chief after a directive from the BCCI."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/dhiraj-bommadevara-first-indian-male-recurve-archer-world-cup-final-gold-2993967-2026-09-14",
-      "headline": "Dhiraj makes history as first Indian male recurve archer to win World CupDhiraj Bommadevara scripted history by becoming the first Indian male recurve archer to win World Cup Final gold. The 25-year-old held his nerve in a thrilling shoot-off against Japan's Nakanishi Junya to end India's 16-year wait."
     }
   ],
   "education": [
