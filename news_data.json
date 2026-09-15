@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/emmy-awards-2026-live-updates-78th-winners-nominations-red-carpet-mariska-hargitay-2994716-2026-09-15",
+      "headline": "Live: Noah Wyle once again wins Best Lead for The Pitt 78th Emmy Awards 2026 Live Updates: Television's biggest night \u2013 the Emmy Awards \u2013 are here. Harrison Ford and Jean Smart are among the stars eyeing landmark wins, while medical drama The Pitt is hoping to emerge as one of the biggest winners of the night."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/ott/story/bigg-boss-20-direct-nomination-rohed-aasif-scout-eviction-planning-row-2994686-2026-09-15",
       "headline": "Bigg Boss 20 Episode 9: Rohed, Aasif and Scout face nomination for plotting eviction In the latest episode, Bigg Boss accused Yung DSA, Rohed Khan, Aasif Khan and Scout of plotting fellow contestants' eviction. This resulted in their direct nomination."
@@ -191,28 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/prathama-prasad-evicted-before-entering-bigg-boss-kannada-13-main-house-2994101-2026-09-14",
       "headline": "Bigg Boss Kannada 13: Prathama Prasad exits show before entering main house Actor Prathama Prasad has been eliminated from Bigg Boss Kannada 13 in the first week without entering the main house. The actor and dancer became the first contestant in the show's history to face eviction before stepping inside the house."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/rambola-film-goswami-tulsidas-biopic-vishal-chaturvedi-mahaveer-jain-2994146-2026-09-14",
-      "headline": "RamBola: After Neem Karoli Baba, Hanuman Ansh director's next on Goswami Tulsidas Director Vishal Chaturvedi and producer Mahaveer Jain have announced RamBola, a film based on the life and legacy of poet Goswami Tulsidas. The project marks Chaturvedi's next film after the success of Hanuman Ansh and will explore Tulsidas' spiritual and literary journey."
     }
   ],
   "general news": [
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rajasthan-municipal-election-2026-urban-local-body-poll-see-bjp-tally-rise-congress-lose-final-ward-results-2994496-2026-09-14",
-      "headline": "BJP wins 41% of seats, Congress 35% in Rajasthan urban body polls amid CJP activismThe urban local body polls in Rajasthan has seen the BJP, which is in power in the state, gain 5 percentage point more seats while the Congress's tally dropped by 5 percentage points. After delimitation, the number of seats in the municipal bodies increased by 37% since the last election cycle."
-    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/jobs/story/oracle-layoffs-6-am-email-ai-cloud-spending-job-cuts-2994675-2026-09-14",
       "headline": "Oracle layoffs: Employees get 6 am email as fresh job cuts beginOracle has begun another round of layoffs, informing some employees by early-morning email that their roles were eliminated. The cuts come as the company spends heavily on AI infrastructure while expanding a broader restructuring plan."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/south/story/tamil-nadu-gcc-mous-vijay-london-visit-2600-jobs-rs-1000-crore-2994491-2026-09-14",
-      "headline": "Vijay's UK trip bags Rs 12,300 crore investments, 10,000 jobs amid Opposition heatThe announcement came amid Opposition criticism of Vijay's four-day London visit after photographs showed him and actor Trisha at Ajith Kumar's Le Mans Cup event at the Silverstone Circuit."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/rajasthan-municipal-election-2026-urban-local-body-poll-see-bjp-tally-rise-congress-lose-final-ward-results-2994496-2026-09-14",
+      "headline": "BJP wins 41% of seats, Congress 35% in Rajasthan urban body polls amid CJP activismThe urban local body polls in Rajasthan has seen the BJP, which is in power in the state, gain 5 percentage point more seats while the Congress's tally dropped by 5 percentage points. After delimitation, the number of seats in the municipal bodies increased by 37% since the last election cycle."
     },
     {
       "sentiment": "negative",
@@ -221,23 +216,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/uranium-discovered-in-mecca-saudi-arabia-energy-minister-madinah-2994391-2026-09-14",
-      "headline": "Medina has 110 million tonne of uranium ore, says Saudi ArabiaSaudi Arabia's energy minister announced that the kingdom had discovered 110 million tonne of uranium-rich ore and other rare earth minerals in the Medina region."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/story/trump-sam-altman-private-meeting-ai-safety-debate-openai-2994706-2026-09-15",
-      "headline": "Trump, Sam Altman meet privately as AI safety debate intensifiesDonald Trump and OpenAI chief Sam Altman held a private backstage meeting focused on artificial intelligence, according to MS NOW report. The discussion came as both publicly differ on whether advanced AI needs slower, safer development."
+      "url": "https://www.indiatoday.in/india/story/rajasthan-urban-local-body-elections-gen-z-faiz-hassan-neha-sharma-win-2994606-2026-09-14",
+      "headline": "Two Gen-Z candidates from BJP, Congress triumph in Rajasthan civic pollsThe victories of Neha and Faiz have brought two Gen-Z representatives into Rajasthan's civic bodies at a time when young candidates are beginning to find greater space in local politics."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/jaipur/story/jaipur-family-murder-rahul-jha-killed-wife-daughters-served-tea-to-father-2994702-2026-09-15",
-      "headline": "4 killings, temple visits and a cup of tea: Jaipur police reveal accused's trailPolice say Rahul Jha killed his wife and three daughters in Jaipur before fleeing the house. Investigators are now piecing together his movements, motive and alleged attempts to avoid detection."
+      "url": "https://www.indiatoday.in/world/story/how-buddhist-maldives-became-islamic-kingdom-900-years-muizzu-conversion-monks-monasteries-history-2994499-2026-09-15",
+      "headline": "How Buddhist Maldives became an Islamic sultanate exactly 900 years agoThe Maldives is celebrating 900 Hijri years since its last Buddhist king embraced Islam and turned the archipelago into an Islamic sultanate. But, ancient ruins and copper plates reveal the story of the destruction of Buddhist monasteries, a mosque being built over one, and monks being beheaded in the capital, Male."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/israel-pm-grooming-costs-netanyahu-and-sara-account-for-90-per-cent-of-470000-dollars-spending-2994550-2026-09-14",
+      "headline": "Israel spent $470k on PMs' grooming since 2019, Netanyahu family accounts for 90%Figures released after a freedom of information request detailed Israel's spending on prime ministers' grooming and representation. The disclosure showed costs rising sharply under Benjamin Netanyahu and renewed scrutiny over transparency."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/china-welcomes-pm-modi-independent-foreign-policy-message-after-xi-jinping-talks-brics-summit-in-new-delhi-2994479-2026-09-14",
-      "headline": "India has independent policy: China praises PM Modi's message on bilateral tiesChina's Xi Jinping and PM Narendra Modi held bilateral talks on the sidelines of the BRICS Summit in New Delhi. Beijing welcomed the Prime Minister's remarks on bilateral ties, saying that managing differences could shape the next phase of bilateral ties."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/emmy-awards-2026-live-updates-78th-winners-nominations-red-carpet-mariska-hargitay-2994716-2026-09-15",
+      "headline": "Live: Noah Wyle once again wins Best Lead for The Pitt78th Emmy Awards 2026 Live Updates: Television's biggest night \u2013 the Emmy Awards \u2013 are here. Harrison Ford and Jean Smart are among the stars eyeing landmark wins, while medical drama The Pitt is hoping to emerge as one of the biggest winners of the night."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/south/story/tamil-nadu-gcc-mous-vijay-london-visit-2600-jobs-rs-1000-crore-2994491-2026-09-14",
+      "headline": "Vijay's UK trip bags Rs 12,300 crore investments, 10,000 jobs amid Opposition heatThe announcement came amid Opposition criticism of Vijay's four-day London visit after photographs showed him and actor Trisha at Ajith Kumar's Le Mans Cup event at the Silverstone Circuit."
     },
     {
       "sentiment": "positive",
@@ -246,18 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-claims-ukraine-russia-agree-not-to-hit-energy-targets-zelenskyy-not-convinced-2994701-2026-09-15",
-      "headline": "Trump says Ukraine, Russia agree not to hit energy targets. Zelenskyy not convincedDonald Trump said Russia and Ukraine had agreed to stop striking each other's energy sites. Kyiv responded cautiously, saying any pause depends on credible guarantees that Moscow will comply."
+      "url": "https://www.indiatoday.in/world/story/uranium-discovered-in-mecca-saudi-arabia-energy-minister-madinah-2994391-2026-09-14",
+      "headline": "Medina has 110 million tonne of uranium ore, says Saudi ArabiaSaudi Arabia's energy minister announced that the kingdom had discovered 110 million tonne of uranium-rich ore and other rare earth minerals in the Medina region."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-says-countries-should-reimburse-us-for-securing-strait-of-hormuz-2994598-2026-09-14",
-      "headline": "Trump demands reimbursement for securing Hormuz, says US doing more for othersDonald Trump argued that the US was doing more to secure global energy supplies than it was for its own interests and suggested that other nations should bear part of the financial burden."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/jobs/story/oracle-layoffs-email-today-is-your-last-working-day-6am-restructuring-educ-2994667-2026-09-14",
+      "headline": "Today is your last working day: Read Oracle's 6 am termination email to staffOracle employees received a termination email stating that the day would be their last working day. The message cited restructuring and business changes but gave no individual reason or headcount."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ai-hype-vineet-nair-says-fears-outpace-delivery-business-use-cases-2994638-2026-09-14",
-      "headline": "Is AI on the verge of killing us all? Ex-HCL Tech CEO says don't buy the hypeFormer HCL Technologies CEO Vineet Nair said AI's growing existential-threat narrative is running ahead of its actual delivery and commercial impact. While backing AI's potential to disrupt businesses, he questioned the technology's trillion-dollar valuations, urged companies to focus on practical use cases and called for safety oversight without excessive regulation."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/technology/story/china-ai-us-ai-race-beijing-rejects-curb-calls-flags-political-security-risks-2994710-2026-09-15",
+      "headline": "China spy chief warns AI threatens party rule as Beijing rejects US curbsChina has rejected US calls to curb artificial intelligence, calling them fearmongering. The exchange has sharpened the US-China dispute even as Beijing voices its own AI security concerns."
     },
     {
       "sentiment": "positive",
@@ -266,43 +266,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/us-envoy-sergio-gor-offers-prayers-at-mumbais-lalbaugcha-raja-on-ganesh-chaturthi-2994695-2026-09-15",
-      "headline": "US envoy Sergio Gor offers prayers at Mumbai's Lalbaugcha Raja on Ganesh ChaturthiUS Ambassador to India Sergio Gor visited Mumbai's Lalbaugcha Raja pandal and offered prayers during Ganesh Chaturthi. He described the celebrations as an extraordinary display of faith, energy and community."
+      "url": "https://www.indiatoday.in/world/story/us-supreme-court-blocks-trump-push-to-tighten-mail-voting-rules-for-midterms-2994718-2026-09-15",
+      "headline": "US Supreme Court blocks Trump's new mail ballot rules for midtermsThe US Supreme Court refused to let the Trump administration enforce new USPS mail ballot rules. The order keeps the restrictions on hold as legal challenges continue before the midterms."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/cji-surya-kant-defends-judges-complaints-mechanism-amid-reform-debate-jethmalani-lecture-harish-salve-2994498-2026-09-14",
-      "headline": "CJI on accountability: Should we put every complaint against judges on a website?CJI Surya Kant defended the mechanism for handling complaints against judges as \"timely and robust\" at the Ram Jethmalani Memorial Lecture, where Mahesh Jethmalani and Harish Salve raised concerns over judicial accountability and the Justice Yashwant Varma cash controversy. CJI Surya Kant also backed reform while defending the collegium system and stressing procedural fairness."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/nashik-sweet-shop-sells-24-carat-golden-modak-rs-27000-per-kg-ganesh-chaturthi-devotees-dazzled-sagar-sweets-modak-varieties-video-2994501-2026-09-14",
-      "headline": "24-carat gold modaks sell for Rs 27,000 per kg \u2013 and people are still buyingA Nashik sweet shop has introduced 24-carat edible gold-covered modaks for Ganesh Chaturthi. Priced at Rs 27,000 per kg, the sweet has become a festive talking point among devotees and buyers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-rs-50-crore-sixth-weekend-beats-dhurandhar-2-border-2-2994023-2026-09-14",
-      "headline": "Hanuman Ansh's Rs 50-crore 6th weekend leaves Dhurandhar 2, Border 2 far behindHanuman Ansh has delivered a Rs 50 crore-plus gross sixth weekend, leaving Dhurandhar 2, Border 2 and Bhooth Bangla far behind at the same stage. The feat is remarkable for a film that opened at just Rs 10 lakh and continues to grow six weeks after release."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/monsoon-still-has-some-fight-left-in-it-more-rain-to-hit-from-these-dates-bay-of-bengal-imd-2993937-2026-09-14",
-      "headline": "Monsoon still has some fight left in it. More rain to hit from these datesA possible Bay of Bengal system could bring fresh rain to eastern and central India later this month. At the same time, drier conditions may hasten monsoon withdrawal from the northwest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/ghaziabad-uttar-pradesh-pet-dog-lift-dispute-cctv-scuffle-ncr-nandgram-2994005-2026-09-14",
-      "headline": "Stick, slap, punches and hair-pulling: A 'dog' fight inside Ghaziabad liftA dispute over entering a lift with a pet dog led to a scuffle between two women in a Ghaziabad housing society. Police have registered an NCR and are checking CCTV footage and witness accounts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/katrina-kaif-vicky-kaushal-ambani-ganesh-chaturthi-ethnic-wear-2994674-2026-09-14",
-      "headline": "Vicky-Katrina's simple yet stylish fashion game at Ambani Ganpati celebrationsKatrina Kaif and Vicky Kaushal arrived at Antilia in elegant ethnic outfits for the Ambani family's Ganesh Chaturthi celebrations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/meet-the-bihar-aspirant-who-sleeps-in-a-delhi-library-and-eats-at-gurdwara-to-chase-his-upsc-dream-2994059-2026-09-14",
-      "headline": "He left Bihar to chase his UPSC dream. Now he sleeps in a library and eats at gurdwaraA library in Delhi's Mukherjee Nagar is where Mohammad Minaz studies, sleeps and prepares for the UPSC exam. The Bihar native spends his nights on a chair, determined to become a civil servant and support his ageing parents. He spoke about his journey in an interview with The Lallantop."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/jaipur/story/jaipur-family-murder-rahul-jha-killed-wife-daughters-served-tea-to-father-2994702-2026-09-15",
+      "headline": "4 killings, temple visits and a cup of tea: Jaipur police reveal accused's trailPolice say Rahul Jha killed his wife and three daughters in Jaipur before fleeing the house. Investigators are now piecing together his movements, motive and alleged attempts to avoid detection."
     },
     {
       "sentiment": "positive",
@@ -311,13 +281,43 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bittu-tabahi-leads-100-people-in-massive-clean-up-of-bengaluru-turahalli-forest-2994163-2026-09-14",
-      "headline": "Bittu Tabahi leads 100 people in massive clean-up of Bengaluru's Turahalli ForestBittu Tabahi led a 100-member team to clear waste from Bengaluru's Turahalli Forest. The drive extended his cross-state cleanliness campaign and drew support from local volunteers."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-rs-50-crore-sixth-weekend-beats-dhurandhar-2-border-2-2994023-2026-09-14",
+      "headline": "Hanuman Ansh's Rs 50-crore 6th weekend leaves Dhurandhar 2, Border 2 far behindHanuman Ansh has delivered a Rs 50 crore-plus gross sixth weekend, leaving Dhurandhar 2, Border 2 and Bhooth Bangla far behind at the same stage. The feat is remarkable for a film that opened at just Rs 10 lakh and continues to grow six weeks after release."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-is-building-an-artificial-sun-it-just-came-closer-to-becoming-a-reality-2994148-2026-09-14",
-      "headline": "India is building an artificial Sun. It just came closer to becoming a realityIndia has installed and commissioned a new 82.6 GHz, 400 kW gyrotron on the SST-1 tokamak in Gujarat. The upgrade strengthens its effort to sustain ultra-hot plasma for longer in fusion research."
+      "url": "https://www.indiatoday.in/technology/story/trump-sam-altman-private-meeting-ai-safety-debate-openai-2994706-2026-09-15",
+      "headline": "Trump, Sam Altman meet privately as AI safety debate intensifiesDonald Trump and OpenAI chief Sam Altman held a private backstage meeting focused on artificial intelligence, according to MS NOW report. The discussion came as both publicly differ on whether advanced AI needs slower, safer development."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ai-hype-vineet-nair-says-fears-outpace-delivery-business-use-cases-2994638-2026-09-14",
+      "headline": "Is AI on the verge of killing us all? Ex-HCL Tech CEO says don't buy the hypeFormer HCL Technologies CEO Vineet Nair said AI's growing existential-threat narrative is running ahead of its actual delivery and commercial impact. While backing AI's potential to disrupt businesses, he questioned the technology's trillion-dollar valuations, urged companies to focus on practical use cases and called for safety oversight without excessive regulation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/blast-in-bjp-leaders-vacant-plot-in-chitrakoot-leaves-one-dead-severed-legs-found-2994708-2026-09-15",
+      "headline": "Blast in BJP leader's plot in Chitrakoot leaves one dead, severed legs foundA powerful blast ripped through BJP leader Jagdish Gautam's vacant plot in Chitrakoot, where severed human legs were later found. Police suspect explosives were being mishandled, even as locals fear a larger conspiracy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/meet-the-bihar-aspirant-who-sleeps-in-a-delhi-library-and-eats-at-gurdwara-to-chase-his-upsc-dream-2994059-2026-09-14",
+      "headline": "He left Bihar to chase his UPSC dream. Now he sleeps in a library and eats at gurdwaraA library in Delhi's Mukherjee Nagar is where Mohammad Minaz studies, sleeps and prepares for the UPSC exam. The Bihar native spends his nights on a chair, determined to become a civil servant and support his ageing parents. He spoke about his journey in an interview with The Lallantop."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-student-visa-rule-blocked-boston-judge-trump-dhs-stay-curbs-2994713-2026-09-15",
+      "headline": "US judge blocks Trump rule capping visas for students and journalistsA federal judge in Boston blocked a Trump administration rule that would have capped how long foreign students, exchange visitors and journalists could stay in the US. The court said DHS had offered exceptionally weak reasoning and warned the change could hit universities and the wider economy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/china-welcomes-pm-modi-independent-foreign-policy-message-after-xi-jinping-talks-brics-summit-in-new-delhi-2994479-2026-09-14",
+      "headline": "India has independent policy: China praises PM Modi's message on bilateral tiesChina's Xi Jinping and PM Narendra Modi held bilateral talks on the sidelines of the BRICS Summit in New Delhi. Beijing welcomed the Prime Minister's remarks on bilateral ties, saying that managing differences could shape the next phase of bilateral ties."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-claims-ukraine-russia-agree-not-to-hit-energy-targets-zelenskyy-not-convinced-2994701-2026-09-15",
+      "headline": "Trump says Ukraine, Russia agree not to hit energy targets. Zelenskyy not convincedDonald Trump said Russia and Ukraine had agreed to stop striking each other's energy sites. Kyiv responded cautiously, saying any pause depends on credible guarantees that Moscow will comply."
     }
   ],
   "sports": [
