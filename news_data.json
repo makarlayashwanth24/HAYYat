@@ -201,53 +201,13 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/us-space-weapon-deployment-confirmed-why-it-could-change-modern-warfare-2994902-2026-09-15",
-      "headline": "US admits it has a weapon in space: Why next war could begin outside Earth's boundaryThe United States has publicly confirmed that it has deployed an on-orbit weapon. The disclosure highlights how future conflicts could target satellites that underpin modern military operations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/upi-mdr-rajnish-kumar-defends-merchant-fee-on-payments-above-rs-2000-2995457-2026-09-15",
-      "headline": "It's not a tax: Ex-SBI chairman backs 0.4% fee on large UPI paymentsRajnish Kumar backed the MDR on select UPI merchant payments, saying it would fund infrastructure, cybersecurity and innovation without burdening consumers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/mecca-warning-saudi-arabia-houthi-conflict-missiles-drones-fired-mbs-jeddah-taif-egypt-red-sea-2995289-2026-09-15",
-      "headline": "Warning sounded in Mecca as Houthis rain missiles on Saudi Arabia's west coastAn emergency warning was sounded for the holy city of Mecca, Jeddah and Taif as the Houthis fired ballistic missiles at Saudi Arabia's western coast. This was the first time that an emergency alert for aerial threats was sounded for Mecca."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/houthis-attack-saudi-arabia-israel-intelligence-assistance-pakistan-mecca-agreement-refusal-bab-el-mandeb-strait-2994969-2026-09-15",
-      "headline": "Ditched by Pakistan, Saudi rushes to Israel for help to fight HouthisThe Houthi blitz along Yemen's Red Sea coast has left Saudi Arabia scrambling for options. The kingdom's Mecca Alliance partner Pakistan has reportedly refused to fight on foreign soil, while the US and the UK have ruled out direct strikes. Riyadh is now having to approach Israel, a country it does not even recognise as an independent nation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/upi-charges-from-october-15-merchant-payments-above-rs-2000-to-attract-0-4-percent-mdr-2995348-2026-09-15",
-      "headline": "New UPI charges from October 15: What it means for youA new 0.4% Merchant Discount Rate will apply to direct UPI merchant payments above Rs 2,000 from October 15. The fee will be borne by merchants, with customer payments remaining unchanged."
+      "url": "https://www.indiatoday.in/world/story/iran-war-cost-us-burned-33-billion-dollars-dozens-of-aircraft-and-buildings-damaged-ammo-ran-short-2995505-2026-09-16",
+      "headline": "US burned $33.4 billion in 6 months of war in Iran, dozens of aircraft lostThe US spent $33.4 billion on its six-month war with Iran, including more than $22 billion on munitions. A Pentagon watchdog report details dozens of aircraft losses, damage to hundreds of military structures and strategic ammunition shortfalls threatening US weapons stocks."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/upi-remains-free-for-consumers-payments-over-rs-2000-to-merchants-will-attract-04-fee-2995255-2026-09-15",
       "headline": "Govt announces UPI charges, merchants to pay 0.4% above Rs 2,000; consumers exemptThe charge will be paid by merchants to their acquiring banks and cannot be passed on to customers. Consumers will continue to pay no transaction fee for making UPI payments."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/gurugram-hit-and-run-kalyan-bainsla-arrested-rajasthan-attempt-to-murder-charge-2995102-2026-09-15",
-      "headline": "Gurugram hit-and-run accused used urination excuse to flee, fell and got hurt: CopsGurugram hit-and-run accused Kalyan Bainsla tried to flee police on the pretext of urinating after his arrest in Rajasthan, but fell and suffered minor injuries. Police have added an attempt-to-murder charge based on CCTV footage and also invoked stalking and outraging modesty provisions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-2nd-t20i-report-sanju-samson-nitish-kumar-reddy-delhi-2995444-2026-09-15",
-      "headline": "2nd T20I: Sanju Samson joins the party in another day of one-way traffic in DelhiAfghanistan vs India, 2nd T20I: Sanju Samson hit a commanding fifty after Nitish Kumar Reddy stepped up with the ball as India sealed a dominant 7-wicket win. Afghanistan failed to step up to expectations for the second successive day in the series, giving their fans little to cheer for in Delhi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-priya-saroj-wedding-lucknow-december-4-2995377-2026-09-15",
-      "headline": "India cricketer Rinku Singh to marry MP Priya Saroj on December 4 in LucknowIndia cricketer Rinku Singh and Samajwadi Party MP Priya Saroj will marry in Lucknow on December 4. Rinku and Priya got engaged in 2025 and she has been a presence during his matches."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/railways-fuel-insurance-and-more-these-upi-payments-to-attract-rs-5-mdr-details-here-2995293-2026-09-15",
-      "headline": "Railways, fuel, insurance and more: These UPI payments to attract Rs 5 MDRUnder the new Merchant Discount Rate (MDR) framework, which will take effect from October 15, 2026, certain merchant categories will get a concessional flat rate of Rs 5 per transaction."
     },
     {
       "sentiment": "positive",
@@ -256,8 +216,68 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/houthis-attack-saudi-arabian-crown-prince-mohammed-bin-salman-red-sea-bab-el-mandeb-uae-ansar-allah-yemen-2994216-2026-09-15",
-      "headline": "How crown prince MBS's rivalry with UAE is bleeding Saudi in YemenSaudi Arabia is facing an extraordinary security and trade crisis from Yemen's Houthis. The Iran-backed militia is attacking Saudi assets and has cut off Riyadh's vital Red Sea route. Here's why Saudi Crown Prince Mohammed bin Salman's rivalry with the UAE is to blame for the precarious situation Riyadh finds itself in."
+      "url": "https://www.indiatoday.in/india/story/hundreds-gather-for-tamil-nadu-cm-vijay-in-london-event-event-cancelled-over-safety-concerns-2995520-2026-09-16",
+      "headline": "Hundreds gather for CM Vijay in London, event cancelled over safety concernsTamil Nadu Chief Minister Vijay's planned public appearance near The Shard in London was cancelled after police raised crowd safety concerns. The decision disappointed supporters who had waited for hours during his UK investment visit."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/upi-charges-from-october-15-merchant-payments-above-rs-2000-to-attract-0-4-percent-mdr-2995348-2026-09-15",
+      "headline": "New UPI charges from October 15: What it means for youA new 0.4% Merchant Discount Rate will apply to direct UPI merchant payments above Rs 2,000 from October 15. The fee will be borne by merchants, with customer payments remaining unchanged."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/mecca-warning-saudi-arabia-houthi-conflict-missiles-drones-fired-mbs-jeddah-taif-egypt-red-sea-2995289-2026-09-15",
+      "headline": "Warning sounded in Mecca as Houthis rain missiles on Saudi Arabia's west coastAn emergency warning was sounded for the holy city of Mecca, Jeddah and Taif as the Houthis fired ballistic missiles at Saudi Arabia's western coast. This was the first time that an emergency alert for aerial threats was sounded for Mecca."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-condemns-houthi-strikes-on-saudi-arabia-red-sea-bab-el-mandeb-shipping-risks-2995513-2026-09-16",
+      "headline": "India condemns Houthi strikes on Saudi Arabia, flags Bab-el-Mandeb shipping risksIndia has condemned the latest Houthi attacks on Saudi Arabia and raised concerns over Red Sea navigation. The issue has sharpened focus on regional stability, energy routes and the Bab-el-Mandeb chokepoint."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/dmk-leaders-a-raja-pk-sekarbabu-karthikeyan-vijay-tamil-nadu-protest-remarks-2995249-2026-09-15",
+      "headline": "Case filed against DMK MP A Raja, two MLAs over remarks against CM VijayThe DMK held the protests to condemn CM Vijay's remarks in the Assembly about party president and former Chief Minister MK Stalin's arrest under the Maintenance of Internal Security Act."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/howrah-ganesh-puja-theme-with-narendra-modi-sparks-trinamool-bjp-row-2995508-2026-09-16",
+      "headline": "PM statue, Lord Ganesha idol shown drinking tea together at Bengal pandal sparks rowA Ganesh Puja theme in West Bengal's Howrah depicting Prime Minister Narendra Modi and Lord Ganesha drinking tea alongside a saffron India map with an 'Om' has sparked a political row. Trinamool Congress rebel leader and local MLA Arup Roy accused recent BJP entrants of trying to \"butter up\" the party."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/chess-olympiad-india-team-gukesh-srinath-narayanan-uzbekistan-2995111-2026-09-15",
+      "headline": "Gukesh and Indian chess olympiad team face accommodation chaos in UzbekistanD Gukesh and the rest of the Indian Chess Olympiad team have been struck by accommodation chaos in Samarkand, Uzbekistan as they haven't been allotted rooms, despite landing in the city for more than five hours. Srinath Narayanan and Vidit Gujrathi revealed that the situation hasn't changed and the defending Olympiad champions are still waiting for clarity."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/houthis-attack-saudi-arabia-israel-intelligence-assistance-pakistan-mecca-agreement-refusal-bab-el-mandeb-strait-2994969-2026-09-15",
+      "headline": "Ditched by Pakistan, Saudi rushes to Israel for help to fight HouthisThe Houthi blitz along Yemen's Red Sea coast has left Saudi Arabia scrambling for options. The kingdom's Mecca Alliance partner Pakistan has reportedly refused to fight on foreign soil, while the US and the UK have ruled out direct strikes. Riyadh is now having to approach Israel, a country it does not even recognise as an independent nation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/us-space-weapon-deployment-confirmed-why-it-could-change-modern-warfare-2994902-2026-09-15",
+      "headline": "Weapons in space: Pentagon's landmark admission as US braces for war beyond EarthThe United States has publicly confirmed that it has deployed an on-orbit weapon. The disclosure highlights how future conflicts could target satellites that underpin modern military operations."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/kanpur/story/vineet-manocha-murder-case-new-sim-calls-to-son-subrat-deepen-police-probe-ptag-2995446-2026-09-15",
+      "headline": "New twist in Kanpur millionaire's murder, son under scanner over calls to shooterPolice are probing whether fresh calls from the alleged shooter's new SIM link Subrat to Vineet Manocha's murder. The digital trail, finances and property papers have turned the case into a wider conspiracy probe."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-outside-noise-wifi-joke-afg-vs-ind-2nd-t20i-delhi-2995510-2026-09-16",
+      "headline": "Switch off Wifi: Sanju Samson's quick fix to solve the issue of outside noiseSanju Samson said he tries to switch off the Wi-Fi when outside noise swells around him. Samson showed his class as he scored a blazing fifty to help India defeat Afghanistan in the second T20I and seal the series."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/jiah-khans-mother-speaks-out-on-disha-salian-probe-as-sooraj-pancholi-named-in-fir-2995397-2026-09-15",
+      "headline": "Jiah Khan's mother speaks out on Disha Salian probe as Sooraj Pancholi named in FIRLate actor Jiah Khan's mother, Rabya Khan, spoke out after actor Sooraj Pancholi's name appeared in the CBI FIR into Disha Salian's death, warning that destroyed evidence risks weakening fresh probes."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/asaduddin-owaisi-convoy-collision-bhopal-five-bikers-injured-vip-road-2995493-2026-09-15",
+      "headline": "Asaduddin Owaisi convoy collision leaves up to 5 bikers injured in BhopalThe convoy was passing through the busy road when it stopped at a turn, causing some of the vehicles travelling behind it to collide with one another. Several bikers were caught in the crash."
     },
     {
       "sentiment": "positive",
@@ -265,19 +285,14 @@
       "headline": "UAE man realises passport will expire day before trip. Dubai had an 8-minute fixAn Emirati traveller renewed his passport at Dubai International Airport in eight minutes after discovering it did not meet his destination's validity rule. The case highlighted the airport's fast digital service for UAE nationals, a facility not open to foreign passengers."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-bound-indigo-flight-with-109-onboard-diverted-to-lucknow-after-smoke-warning-in-cargo-section-2995281-2026-09-15",
-      "headline": "Delhi-bound IndiGo flight diverted to Lucknow after smoke warning in cargo areaAn IndiGo Agartala-Delhi flight carrying 103 passengers and 6 crew members was diverted to Lucknow after a smoke warning in its cargo area."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/phoney-pre-fatf-move-india-slams-pakistan-over-rs-20-lakh-terrorist-masood-azhar-bounty-hike-jem-gimmick-mea-2995128-2026-09-15",
-      "headline": "Gimmicks, hoodwinking: India slams Pak's Rs 20 lakh bounty hike for Masood AzharIndia has dismissed Pakistan's increased bounty on Masood Azhar as a gimmick and demanded concrete action. The move comes ahead of the FATF plenary and has renewed scrutiny over Islamabad's claims on terror action."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/pune/story/murlidhar-mohol-convoy-breach-pune-man-booked-for-security-overtaking-2995285-2026-09-15",
-      "headline": "Car overtakes Union Minister's convoy in Pune, faces police actionPune Police alleged that Vanit was riding his four-wheeler at high speed and overtook the convoy in a negligent manner, endangering other motorists and pedestrians."
+      "url": "https://www.indiatoday.in/india/story/gurugram-hit-and-run-kalyan-bainsla-arrested-rajasthan-attempt-to-murder-charge-2995102-2026-09-15",
+      "headline": "Gurugram hit-and-run accused used urination excuse to flee, fell and got hurt: CopsGurugram hit-and-run accused Kalyan Bainsla tried to flee police on the pretext of urinating after his arrest in Rajasthan, but fell and suffered minor injuries. Police have added an attempt-to-murder charge based on CCTV footage and also invoked stalking and outraging modesty provisions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-priya-saroj-wedding-lucknow-december-4-2995377-2026-09-15",
+      "headline": "India cricketer Rinku Singh to marry MP Priya Saroj on December 4 in LucknowIndia cricketer Rinku Singh and Samajwadi Party MP Priya Saroj will marry in Lucknow on December 4. Rinku and Priya got engaged in 2025 and she has been a presence during his matches."
     },
     {
       "sentiment": "negative",
@@ -286,33 +301,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/pradeep-kannan-left-oracle-to-sell-falooda-makes-rs-9-crore-a-year-educ-2995197-2026-09-15",
-      "headline": "He left Oracle's Rs 1 lakh salary to sell falooda, now runs a Rs 9 crore businessPradeep Kannan left his corporate career at Oracle in 2019 and returned to Karur to start a falooda business. What began as a 10x10-foot kiosk grew into The Falooda Shop, a franchise-led dessert brand with 20 outlets across India and Dubai. He is now building a D2C ice-cream brand."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dara-singh-premature-release-plea-rejected-odisha-graham-staines-murder-case-2995216-2026-09-15",
-      "headline": "Odisha rejects Dara Singh's premature release plea in Graham Staines murder caseThe Odisha State Sentence Review Board rejected Dara Singh's plea for premature release at its August 31 meeting, saying it was not inclined to recommend his release at this stage after the Supreme Court directed the state government to take a decision on his request."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/spicejet-delhi-dubai-flights-delayed-24-hours-passengers-protest-igi-airport-2994894-2026-09-15",
-      "headline": "SpiceJet chor hai: Passengers protest after 2 Dubai flights delayed by 24 hoursPassengers of two Delhi-Dubai SpiceJet flights protested at the Delhi airport after delays stretched beyond 24 hours. The airline apologised for the delay, citing operational reasons due to the grounding of an aircraft."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-news-dhaka-university-ducsu-election-islami-chhatra-shibir-sheikh-mujibur-rahman-muhammad-ali-jinnah-2994896-2026-09-15",
-      "headline": "Jinnah in, Mujibur out at Dhaka University museum; Pak founder's portrait shreddedSheikh Mujibur Rahman's photographs have been replaced by images of Pakistan founder Muhammad Ali Jinnah at Dhaka University's DUCSU Museum, triggering protests, a student-led removal of the Jinnah portraits and a university probe into how the controversial display came about."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-rs-50-crore-sixth-weekend-beats-dhurandhar-2-border-2-2994023-2026-09-14",
       "headline": "Hanuman Ansh's Rs 50-crore 6th weekend leaves Dhurandhar 2, Border 2 far behindHanuman Ansh raked in over Rs 50 crore gross in its sixth weekend, leaving Dhurandhar 2, Border 2 and Bhooth Bangla well behind at the same stage. The late surge is remarkable for a film that opened to just Rs 10 lakh and continues to gain momentum six weeks into its run."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kottayam-medical-college-needle-case-police-probe-child-medical-negligence-ptag-2995317-2026-09-15",
-      "headline": "Needle found near toddler's ribs a year after birth, parents allege negligencePolice have registered a case after a complaint that a needle was found in a toddler treated at Kottayam Medical College Hospital. The allegation has triggered parallel inquiries even as the hospital's internal probe ruled out negligence."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-2nd-t20i-report-sanju-samson-nitish-kumar-reddy-delhi-2995444-2026-09-15",
+      "headline": "2nd T20I: Sanju Samson joins the party in another day of one-way traffic in DelhiAfghanistan vs India, 2nd T20I: Sanju Samson hit a commanding fifty after Nitish Kumar Reddy stepped up with the ball as India sealed a dominant 7-wicket win. Afghanistan failed to step up to expectations for the second successive day in the series, giving their fans little to cheer for in Delhi."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-couple-found-dead-separate-spots-man-body-hanging-tree-wife-salwar-deepens-mystery-2995277-2026-09-15",
+      "headline": "UP couple found dead at separate spots, man in wife's salwar adds mysteryA missing couple from Uttar Pradesh's Bijnor were found dead at separate locations, with the husband hanging in a forest and the wife near the Ganga. Police are examining the unusual circumstances, including their condition when found, and await post-mortem reports."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,26 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-batting-approach-sunil-gavaskar-india-vs-afghanistan-second-t20i-2995514-2026-09-16",
+      "headline": "If Samson does this, he'll never fail: Gavaskar on India star's batting approach Sunil Gavaskar praised Sanju Samson's approach in the second T20I against Afghanistan and felt that it could help the Indian star find consistency. Samson scored a brilliant 57 off 22 balls after making a measured start to his innings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-home-farewell-retirement-friendly-scaloni-2995519-2026-09-16",
+      "headline": "Despite retirement, Lionel Messi may get Argentina home farewell: Report Lionel Messi has reportedly been included in Argentina's preliminary squad for the next friendlies after retiring from international football. Argentinian fans may get the chance to nbid goodbye to the superstar during the friendlies at home."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-india-power-rift-dilip-tirkey-challenges-september-18-executive-board-meeting-2995516-2026-09-16",
+      "headline": "Hockey India power rift continues as Tirkey challenges executive board meeting Dilip Tirkey has challenged the validity of an emergent Hockey India executive board meeting called for September 18 by secretary Bhola Nath Singh. The Hockey India president sent a warning to the secretary, saying that he was the only person who could call for an emergency meeting."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-outside-noise-wifi-joke-afg-vs-ind-2nd-t20i-delhi-2995510-2026-09-16",
+      "headline": "Switch off Wifi: Sanju Samson's quick fix to solve the issue of outside noise Sanju Samson said he tries to switch off the Wi-Fi when outside noise swells around him. Samson showed his class as he scored a blazing fifty to help India defeat Afghanistan in the second T20I and seal the series."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-2nd-t20i-report-sanju-samson-nitish-kumar-reddy-delhi-2995444-2026-09-15",
@@ -354,22 +374,22 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/other-sports/story/chess-olympiad-india-team-gukesh-srinath-narayanan-uzbekistan-2995111-2026-09-15",
-      "headline": "Gukesh and Indian chess olympiad team face accommodation chaos in Uzbekistan D Gukesh and the rest of the Indian Chess Olympiad team have been struck by accommodation chaos in Samarkand, Uzbekistan as they haven't been allotted rooms, despite landing in the city for more than five hours. Srinath Narayanan and Vidit Gujrathi revealed that the situation hasn't changed and the defending Olympiad champions are still waiting for clarity."
+      "headline": "Gukesh and Indian chess olympiad team face accommodation chaos in UzbekistanD Gukesh and the rest of the Indian Chess Olympiad team have been struck by accommodation chaos in Samarkand, Uzbekistan as they haven't been allotted rooms, despite landing in the city for more than five hours. Srinath Narayanan and Vidit Gujrathi revealed that the situation hasn't changed and the defending Olympiad champions are still waiting for clarity."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/sports-ministry-hockey-india-dilip-tirkey-internal-dispute-intervention-2995093-2026-09-15",
-      "headline": "Hockey India dispute: Sports Ministry awaits amicable resolution before intervening The Sports Ministry will wait for Hockey India to resolve its internal disputes amicably before considering intervention. The ministry believes the hockey body's issues should first be settled internally rather than through government"
+      "headline": "Hockey India dispute: Sports Ministry awaits amicable resolution before interveningThe Sports Ministry will wait for Hockey India to resolve its internal disputes amicably before considering intervention. The ministry believes the hockey body's issues should first be settled internally rather than through government"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bhuvneshwar-kumar-podcast-world-cup-semi-final-dhoni-2995048-2026-09-15",
-      "headline": "WC 2019 semis target was chaseable, not expecting India return: Bhuvi Kumar India seamer Bhuvneshwar Kumar has been one of IPL's top bowlers in the last two seasons. However, he has said in a podcast, that he does not expect an India return."
+      "headline": "WC 2019 semis target was chaseable, not expecting India return: Bhuvi KumarIndia seamer Bhuvneshwar Kumar has been one of IPL's top bowlers in the last two seasons. However, he has said in a podcast, that he does not expect an India return."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/nairobi-2029-world-athletics-championships-africa-kenya-2995043-2026-09-15",
-      "headline": "Nairobi to host first World Athletics Championships on African soil in 2029 Nairobi will host the 2029 World Athletics Championships, marking the first time the event will be held in Africa. The decision is a major recognition of Kenya's rich athletics tradition."
+      "headline": "Nairobi to host first World Athletics Championships on African soil in 2029Nairobi will host the 2029 World Athletics Championships, marking the first time the event will be held in Africa. The decision is a major recognition of Kenya's rich athletics tradition."
     },
     {
       "sentiment": "positive",
@@ -450,26 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mohsin-naqvi-did-not-object-india-refusing-asia-cup-trophy-rajeev-shukla-2994687-2026-09-15",
       "headline": "Naqvi didn't object to India refusing Women's Asia Cup title from him: BCCI VeepBCCI vice-president Rajeev Shukla said Mohsin Naqvi did not object to India refusing to accept the Women's Asia Cup trophy from him, adding that the decision was a collective call taken by the Board."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/indian-athletics-team-visa-delay-athletes-await-japan-clearance-aichi-nagoya-asian-games-2994682-2026-09-14",
-      "headline": "4-5 Indian athletes yet to receive Japan visas ahead of acclimatisation campA few Indian athletes are still awaiting visas as the team trains in Japan before the Asian Games. The delay could cut short their acclimatisation time or force them to join directly in Nagoya."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/gukesh-vs-sindarov-world-chess-championship-2026-venue-schedule-format-prize-money-2994642-2026-09-14",
-      "headline": "Gukesh vs Sindarov: A complete guide to the 2026 World Chess Championship tieFIDE has set out the venue, dates, format and purse for D Gukesh's world title defence against Javokhir Sindarov. The contest will be the youngest World Championship match in history, as Gukesh aims to regain his crown."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/anush-agarwalla-asian-games-gold-unfair-selection-process-aichi-nagoya-2994582-2026-09-14",
-      "headline": "Asian Games gold medallist Anush Agarwalla hits out at unfair selection processAsian Games gold medallist Anush Agarwalla has criticised the selection process after missing out on the 2026 Games, calling it an 'unfair process' and saying his exclusion felt more like \"betrayal\" than defeat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohsin-naqvi-pcb-overhaul-aqib-javed-wahab-riaz-exit-2994553-2026-09-14",
-      "headline": "Mohsin Naqvi set to overhaul PCB, Aqib Javed and Wahab Riaz likely to goMohsin Naqvi is expected to make major changes at the Pakistan Cricket Board, with Aqib Javed likely to be released as senior selector and Wahab Riaz also facing an exit after the Asian Games."
     }
   ],
   "education": [
