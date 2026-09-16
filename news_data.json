@@ -2,6 +2,26 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/upi-mdr-traders-board-member-urges-centre-to-withdraw-04-charge-2996396-2026-09-17",
+      "headline": "Traders' board member urges Centre to withdraw 0.4% MDR on UPI paymentsAn NTWB member has asked the Centre to withdraw the 0.4 per cent MDR on UPI merchant payments above Rs 2,000. He said the fee could hit business growth, raise prices and will be taken up at the board's next meeting."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/us-federal-reserve-raises-interest-rates-for-1st-time-in-3-years-more-tightening-ahead-defying-donald-trump-2996387-2026-09-17",
+      "headline": "US Federal Reserve raises interest rates for 1st time in 3 years, defying TrumpThe Federal Reserve raised interest rates by a quarter point, with Kevin Warsh backing the unanimous move. The decision signalled more tightening ahead as inflation stayed elevated and markets watched for Warsh's next steps."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/upi-mdr-phonepe-ceo-sameer-nigam-exclusive-charges-above-rs-2000-2996369-2026-09-16",
+      "headline": "UPI industry bleeding money, cannot depend on govt subsidies: PhonePe CEOPhonePe CEO Sameer Nigam defended the new UPI charges, saying payment companies are losing money and cannot keep relying on government subsidies. He said most everyday UPI payments will remain unaffected, while charges on bigger transactions will help make the digital payments system financially sustainable."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/upi-charge-confusion-mdr-from-october-15-who-pays-who-is-exempt-phonepe-ceo-sameer-nigam-explains-every-detail-2996366-2026-09-16",
+      "headline": "UPI MDR from October 15: Who pays, who is exempt? PhonePe CEO explainsThe government has introduced an MDR on select UPI merchant payments from October 15, 2026. The move keeps UPI free for customers while creating a revenue model for the payments industry. PhonePe CEO Sameer Nigam explains who will be affected and who will remain exempt."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/upi-mdr-finance-ministry-denial-2025-0-4-percent-charge-merchant-transactions-rs-2000-2996208-2026-09-16",
       "headline": "False, baseless, misleading: Govt denied UPI MDR last year. Now it's officialIn June 2025, the Finance Ministry issued a statement on X dismissing reports that a Merchant Discount Rate would be charged on UPI transactions. The government has now introduced a 0.4% MDR on select UPI merchant payments above Rs 2,000 from October 15, 2026."
     },
@@ -79,26 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/will-stock-market-crash-again-today-sensex-nifty-opening-trade-setup-nse-bse-upi-charges-paytm-2995557-2026-09-16",
       "headline": "Sensex, Nifty opening: Will stock markets crash again today? Paytm to be in focusGIFT Nifty futures were trading around 23,237 at 8:15 am, indicating a positive start for the Nifty50. The index had closed at 23,118.60 on Tuesday, falling 279.50 points or 1.19%. The Sensex had ended 777.94 points lower at 74,003.82."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/upi-mdr-rajnish-kumar-defends-merchant-fee-on-payments-above-rs-2000-2995457-2026-09-15",
-      "headline": "It's not a tax: Ex-SBI chairman backs 0.4% fee on large UPI paymentsRajnish Kumar backed the MDR on select UPI merchant payments, saying it would fund infrastructure, cybersecurity and innovation without burdening consumers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/upi-charges-from-october-15-merchant-payments-above-rs-2000-to-attract-0-4-percent-mdr-2995348-2026-09-15",
-      "headline": "New UPI charges from October 15: What it means for youThe new Merchant Discount Rate framework will impose a 0.4% charge on direct UPI payments to merchants above Rs 2,000. The charge will be paid by the merchant to its acquiring bank and will be capped at Rs 300 for transactions of Rs 75,000 and above."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/railways-fuel-insurance-and-more-these-upi-payments-to-attract-rs-5-mdr-details-here-2995293-2026-09-15",
-      "headline": "Railways, fuel, insurance and more: These UPI payments to attract Rs 5 MDRUnder the new Merchant Discount Rate (MDR) framework, which will take effect from October 15, 2026, certain merchant categories will get a concessional flat rate of Rs 5 per transaction."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/upi-remains-free-for-consumers-payments-over-rs-2000-to-merchants-will-attract-04-fee-2995255-2026-09-15",
-      "headline": "Govt announces UPI charges, merchants to pay 0.4% above Rs 2,000; consumers exemptThe charge will be paid by merchants to their acquiring banks and cannot be passed on to customers. Consumers will continue to pay no transaction fee for making UPI payments."
     }
   ],
   "entertainment": [
@@ -206,13 +206,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/adidas-confirms-layoffs-at-india-tech-hub-around-50-employees-reportedly-affected-tchc-2996094-2026-09-16",
-      "headline": "Adidas confirms layoffs at India tech hub, around 50% employees affectedAdidas is reportedly laying off nearly 50 per cent of its India Tech Hub workforce, with software engineers, data scientists and data engineers among those affected."
+      "url": "https://www.indiatoday.in/world/story/us-houthis-talks-oman-washington-avoids-helping-saudi-arabia-yemen-pressure-grows-red-sea-2996392-2026-09-17",
+      "headline": "US holds back from helping Saudi Arabia after talks with Houthis in OmanUS officials met Houthi leaders in Muscat as Washington held back from direct intervention in Yemen. The talks shifted pressure to Saudi Arabia as the Houthis advanced along the Red Sea coast."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/houthis-shot-down-saudi-f15-fighter-jet-with-locally-made-missile-middle-east-conflict-2996250-2026-09-16",
-      "headline": "Houthis shot down Saudi F-15 jet with locally made missile; video shows wreckageThe Houthis said they shot down a Saudi F-15 over Marib and later targeted a Saudi drone, as Riyadh pounds Yemen with airstrikes. Houthi-affiliated media released footage showing the aftermath of the shoot-down."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/adidas-confirms-layoffs-at-india-tech-hub-around-50-employees-reportedly-affected-tchc-2996094-2026-09-16",
+      "headline": "Adidas confirms layoffs at India tech hub, around 50% employees affectedAdidas is reportedly laying off nearly 50 per cent of its India Tech Hub workforce, with software engineers, data scientists and data engineers among those affected."
     },
     {
       "sentiment": "negative",
@@ -225,9 +225,14 @@
       "headline": "UPI fee is peanuts. Losing face for peanuts is nutsThe benefits of keeping UPI free outweighed the cost of keeping UPI free, but the government had an itch to fix what ain't broken. And that too, at a remarkable time."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/houthis-shot-down-saudi-f15-fighter-jet-with-locally-made-missile-middle-east-conflict-2996250-2026-09-16",
+      "headline": "Houthis shot down Saudi F-15 jet with locally made missile; video shows wreckageThe Houthis said they shot down a Saudi F-15 over Marib and later targeted a Saudi drone, as Riyadh pounds Yemen with airstrikes. Houthi-affiliated media released footage showing the aftermath of the shoot-down."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/upi-mdr-fee-centre-faq-foreign-influence-charge-us-trump-opposition-2995827-2026-09-16",
-      "headline": "No foreign influence: Govt hits back at 'external pressure' charge on UPI feeThe government has rejected the opposition's charge that the introduction of a Merchant Discount Rate (MDR) on UPI payments was intended to benefit American card companies."
+      "url": "https://www.indiatoday.in/business/story/upi-mdr-phonepe-ceo-sameer-nigam-exclusive-charges-above-rs-2000-2996369-2026-09-16",
+      "headline": "UPI industry bleeding money, cannot depend on govt subsidies: PhonePe CEOPhonePe CEO Sameer Nigam defended the new UPI charges, saying payment companies are losing money and cannot keep relying on government subsidies. He said most everyday UPI payments will remain unaffected, while charges on bigger transactions will help make the digital payments system financially sustainable."
     },
     {
       "sentiment": "negative",
@@ -236,28 +241,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pakistan-china-boundary-joint-commission-india-rejects-move-as-legally-baseless-ministry-of-external-affairs-randhir-jaiswal-2996168-2026-09-16",
-      "headline": "India rejects Pakistan-China Boundary Joint Commission, calls it legally baselessIndia rejected the so-called Pakistan-China Boundary Joint Commission and reaffirmed its position on Jammu and Kashmir and Ladakh. New Delhi said any such arrangement lacks legal basis and does not affect India's sovereignty."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/houthi-attack-makkah-saudi-arabia-using-islam-mosque-leverage-iran-war-2995725-2026-09-16",
       "headline": "Forsaken by US and Pak, is Saudi Arabia playing the Mecca card?Saudi Arabia said it intercepted a Houthi drone that targeted Mecca, but the Iran-backed militia denied it aimed at the city that houses one of Islam's holiest sites. Riyadh's claim sparked consternation across the Muslim world. Is Saudi using the holy sites of Mecca and Medina as a levarage in the war against the Houthis?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/upi-mdr-finance-ministry-denial-2025-0-4-percent-charge-merchant-transactions-rs-2000-2996208-2026-09-16",
-      "headline": "False, baseless, misleading: Govt denied UPI MDR last year. Now it's officialIn June 2025, the Finance Ministry issued a statement on X dismissing reports that a Merchant Discount Rate would be charged on UPI transactions. The government has now introduced a 0.4% MDR on select UPI merchant payments above Rs 2,000 from October 15, 2026."
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-woman-kidnapped-after-love-marriage-six-injured-in-car-chase-2996375-2026-09-16",
+      "headline": "Woman marries partner, her family 'kidnaps' her; 6 hurt in Bengaluru car chaseA 21-year-old woman was allegedly taken from her Bengaluru home by four men linked to her family after her marriage against their wishes. The alleged abduction led to a local chase, multiple collisions and a police investigation centred on efforts to take her back to Rajasthan."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/hospital-consumables-mrp-gap-maharashtra-fda-rs-11-iv-set-rs-325-2996220-2026-09-16",
-      "headline": "2,800% markup? Mundhe says consumers can't be taken for a ride on medical pricingMaharashtra FDA Commissioner Tukaram Mundhe flagged mark-ups of up to 2,800% on hospital consumables, questioning how products bought for Rs 11 could carry MRPs of around Rs 325. He said pricing must be rational, transparent and fair, with the interests of manufacturers, hospitals and consumers considered, while ensuring consumers are not taken for a ride."
+      "url": "https://www.indiatoday.in/india/story/upi-mdr-fee-centre-faq-foreign-influence-charge-us-trump-opposition-2995827-2026-09-16",
+      "headline": "No foreign influence: Govt hits back at 'external pressure' charge on UPI feeThe government has rejected the opposition's charge that the introduction of a Merchant Discount Rate (MDR) on UPI payments was intended to benefit American card companies."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/prayagraj-atiq-ahmed-prayagraj-land-76-families-pm-modi-birthday-diwali-celebration-2995775-2026-09-16",
-      "headline": "Families on land reclaimed from gangster Atiq to celebrate Diwali on PM's birthdayPrayagraj's 76 PM Awas Yojana flats built on land reclaimed from Atiq Ahmed, will be lit with diyas on the eve of PM Modi's birthday."
+      "url": "https://www.indiatoday.in/india/story/pakistan-china-boundary-joint-commission-india-rejects-move-as-legally-baseless-ministry-of-external-affairs-randhir-jaiswal-2996168-2026-09-16",
+      "headline": "India rejects Pakistan-China Boundary Joint Commission, calls it legally baselessIndia rejected the so-called Pakistan-China Boundary Joint Commission and reaffirmed its position on Jammu and Kashmir and Ladakh. New Delhi said any such arrangement lacks legal basis and does not affect India's sovereignty."
     },
     {
       "sentiment": "positive",
@@ -266,13 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bengal-muslim-ips-officer-bushra-bano-transfer-controversy-hindutva-group-2995962-2026-09-16",
-      "headline": "Why IPS officer Bushra Bano's sudden transfer has stirred political storm in BengalThe sudden transfer of West Bengal IPS officer Bushra Bano has triggered a political controversy, days after a right-wing group objected to Islamic greetings she used in a video addressing students."
+      "url": "https://www.indiatoday.in/business/story/upi-mdr-finance-ministry-denial-2025-0-4-percent-charge-merchant-transactions-rs-2000-2996208-2026-09-16",
+      "headline": "False, baseless, misleading: Govt denied UPI MDR last year. Now it's officialIn June 2025, the Finance Ministry issued a statement on X dismissing reports that a Merchant Discount Rate would be charged on UPI transactions. The government has now introduced a 0.4% MDR on select UPI merchant payments above Rs 2,000 from October 15, 2026."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/pakistan-hockey-wants-asian-champions-trophy-matches-shifted-india-neutral-venue-2996175-2026-09-16",
-      "headline": "Asian Champions Trophy: Pakistan hockey refuses to play in India, seeks neutral venuePakistan have asked the Asian Hockey Federation to shift the Asian Champions Trophy from India or allow them to play their matches at a neutral venue. The decision from Pakistan comes just days after Punjab Chief Minister said that the men in green to play in Mohali and Jalandhar during the tournament."
+      "url": "https://www.indiatoday.in/cities/other-cities/story/prayagraj-atiq-ahmed-prayagraj-land-76-families-pm-modi-birthday-diwali-celebration-2995775-2026-09-16",
+      "headline": "Families on land reclaimed from gangster Atiq to celebrate Diwali on PM's birthdayPrayagraj's 76 PM Awas Yojana flats built on land reclaimed from Atiq Ahmed, will be lit with diyas on the eve of PM Modi's birthday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bengal-muslim-ips-officer-bushra-bano-transfer-controversy-hindutva-group-2995962-2026-09-16",
+      "headline": "Why IPS officer Bushra Bano's sudden transfer has stirred political storm in BengalThe sudden transfer of West Bengal IPS officer Bushra Bano has triggered a political controversy, days after a right-wing group objected to Islamic greetings she used in a video addressing students."
     },
     {
       "sentiment": "positive",
@@ -281,13 +286,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/chased-catcalled-scared-what-indias-women-bikers-face-on-the-road-2995945-2026-09-16",
-      "headline": "Chased on highways, followed after dark: The reality of being a woman biker in IndiaAfter a Gurugram biker's crash video surfaced, women riders described how they have been chased, harassed and followed on Indian roads. The accounts prove this wasn't a one-off incident for sure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/upi-mdr-charges-rahul-gandhi-seeks-immediate-rollback-centre-says-users-unaffected-2995865-2026-09-16",
-      "headline": "Despite Centre's denial, Rahul sticks to UPI tax claim, says PM bowed to TrumpRahul Gandhi demanded an immediate rollback of the new UPI merchant discount rate, calling it a \"UPI tax\" and alleging it would benefit the US. The Centre rejected the charge, saying MDR is not a tax, consumers will not bear it and the policy was decided independently."
+      "url": "https://www.indiatoday.in/sports/hockey/story/pakistan-hockey-wants-asian-champions-trophy-matches-shifted-india-neutral-venue-2996175-2026-09-16",
+      "headline": "Asian Champions Trophy: Pakistan hockey refuses to play in India, seeks neutral venuePakistan have asked the Asian Hockey Federation to shift the Asian Champions Trophy from India or allow them to play their matches at a neutral venue. The decision from Pakistan comes just days after Punjab Chief Minister said that the men in green to play in Mohali and Jalandhar during the tournament."
     },
     {
       "sentiment": "positive",
@@ -296,8 +296,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mahua-moitra-alleges-eggs-thrown-her-car-during-meeting-bengal-trinamool-mp-takes-swipe-sc-judge-justice-dipankar-datta-video-x-2996004-2026-09-16",
-      "headline": "Mahua Moitra alleges eggs thrown at her car during meeting, takes swipe at SC judgeTrinamool leader Mahua Moitra's car was pelted with eggs during a party meeting in Nadia amid protests by alleged BJP workers. The incident revived her earlier courtroom exchange with Justice Dipankar Datta over security concerns."
+      "url": "https://www.indiatoday.in/india/story/pakistan-ship-collides-with-indian-navy-unit-islamabads-top-envoy-summoned-2995745-2026-09-16",
+      "headline": "Pak navy ship collides with Indian warship, New Delhi summons Islamabad's top envoyThe MEA, in a strongly worded statement, said the unacceptable and unprofessional conduct of Pakistani naval units led to the collision. The development comes as tensions remains at an all-time high following last year's Operation Sindoor."
     },
     {
       "sentiment": "positive",
@@ -306,13 +306,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/preity-zinta-suniel-shetty-pankaj-tripathi-rupali-ganguly-in-new-central-board-of-film-certification-panel-2996145-2026-09-16",
-      "headline": "Preity Zinta, Suniel Shetty, Pankaj Tripathi among 18 on new censor board panelActors Preity Zinta, Suniel Shetty, Pankaj Tripathi and Rupali Ganguly have been named among the new members of the Central Board of Film Certification (CBFC) panel."
+      "url": "https://www.indiatoday.in/education-today/news/story/james-dyson-award-2026-himaja-wins-india-title-for-rudhra-voice-enabled-braille-printer-2995659-2026-09-16",
+      "headline": "She built a printer that turns speech into Braille. It won India's James Dyson AwardA visit to a school for visually impaired students led this 20-year-old Andhra Pradesh BTech student, Lingampalli Himaja, to build RUDHRA, a voice-enabled Braille printer. The project, now a James Dyson Award winner, is aimed at making Braille writing easier and more independent."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pakistan-ship-collides-with-indian-navy-unit-islamabads-top-envoy-summoned-2995745-2026-09-16",
-      "headline": "Pak navy ship collides with Indian warship, New Delhi summons Islamabad's top envoyThe MEA, in a strongly worded statement, said the unacceptable and unprofessional conduct of Pakistani naval units led to the collision. The development comes as tensions remains at an all-time high following last year's Operation Sindoor."
+      "url": "https://www.indiatoday.in/science/story/india-weather-forecast-heavy-rain-thunderstorms-imd-monsoon-gujarat-delhi-ncr-2995921-2026-09-16",
+      "headline": "Monsoon on a roll: Thunderstorms, rain expected across India on ThursdayDelhi, Haryana and Punjab could also see thunderstorms and gusty winds as multiple weather systems keep monsoon activity going across India."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,11 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/asian-champions-trophy-2026-pakistan-venue-change-request-hockey-india-2996383-2026-09-16",
+      "headline": "Hockey India dismisses Pakistan's request for ACT venue change Hockey India has rejected Pakistan's request to shift the Asian Champions Trophy from Punjab and move its matches elsewhere. Pakistan hockey sited security concerns about travelling to India as the reason for asking for a venue change."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/aisam-qureshi-rohan-bopanna-former-partner-asian-games-pakistan-tennis-2996359-2026-09-16",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-boxing-medallists-direct-entry-2027-world-championships-2996070-2026-09-16",
-      "headline": "Asian Games boxing medallists to get direct entry into 2027 World Championships The Boxing Federation of India has given 2026 Asian Games medallists direct entry to the 2027 World Championships. The policy creates a structured four-stage route to Los Angeles 2028 and sharpens selection around results."
+      "headline": "Asian Games boxing medallists to get direct entry into 2027 World ChampionshipsThe Boxing Federation of India has given 2026 Asian Games medallists direct entry to the 2027 World Championships. The policy creates a structured four-stage route to Los Angeles 2028 and sharpens selection around results."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/where-rs-702-86-crore-went-inside-indias-asian-games-build-up-2995420-2026-09-16",
       "headline": "Where Rs 702.86 crore went: Inside India's Asian Games build-upIndia's preparation for the Asian Games is about more than chasing another record medal haul. A large investment in international exposure, specialist support and a young pipeline reflects a longer-term attempt to build a team for the next decade."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/delhi-ncr-air-pollution-caqm-avoid-sports-events-november-december-2995594-2026-09-16",
-      "headline": "Delhi-NCR advised to avoid physical sports events amid winter air pollutionThe CAQM has advised Delhi and NCR governments not to schedule physical sports events in November and December. The move follows Supreme Court concern over children's exposure to poor air during peak winter pollution."
     }
   ],
   "education": [
