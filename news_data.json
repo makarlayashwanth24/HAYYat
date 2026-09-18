@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/lic-investment-fraud-cbi-books-reliance-capital-anil-ambani-denies-wrongdoing-2998048-2026-09-19",
+      "headline": "CBI books Reliance Capital in LIC fraud case; Anil Ambani denies wrongdoingThe CBI has registered an FIR against Reliance Capital, Anil Ambani, Satish Seth and others over alleged diversion of LIC investment funds. Anil Ambani has denied wrongdoing as investigators examine the alleged conspiracy and the end-use of Rs 3,900 crore invested by LIC."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-semiconductor-ashwini-vaishnaw-5-chipmakers-3-materials-firms-1-lakh-jobs-2998023-2026-09-18",
+      "headline": "5 large chipmakers, 1 lakh jobs: Ashwini Vaishnaw on India's semiconductor goalVaishnaw says the government's semiconductor programme is designed differently, with a long-term approach aimed at building the entire supply chain."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/net-direct-tax-collection-fy27-rises-13-percent-rs-12-lakh-crore-september-17-2998006-2026-09-18",
       "headline": "Net direct tax collection rises 13% to Rs 12.12 lakh crore in FY27 so farNet corporate tax mop-up rose 19.48 per cent to about Rs 5.56 lakh crore, while non-corporate tax (individuals and HUFs) mop-up increased 6 per cent to over Rs 6.16 lakh crore. Securities Transactions Tax (STT) collection grew 53 per cent to Rs 40,214 crore between April 1 and September 17."
@@ -89,19 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/listing-will-destroy-its-character-noel-tata-pushes-back-after-tata-sons-board-backs-ipo-2997079-2026-09-17",
       "headline": "Listing will destroy its character: Noel Tata opposes Tata Sons IPO amid board pushTata Trusts Chairman Noel Tata has opposed any move to list Tata Sons and called for all possible alternatives to be explored first."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tata-sons-board-clears-chandras-reappointment-moves-ahead-with-listing-plan-2996952-2026-09-17",
-      "headline": "Tata Sons backs Chandrasekaran's reappointment, listing plan; Trusts may challengeThe Tata Sons board has backed N Chandrasekaran for another five-year term and begun steps towards listing the holding company. The moves have triggered opposition from Tata Trusts, which has called them illegal and may challenge them."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/edelweiss-radhika-gupta-advice-to-investors-volatility-rises-the-more-you-look-2996809-2026-09-17",
-      "headline": "Radhika Gupta advice to investors: Volatility rises the more you lookEdelweiss' Radhika Gupta explained how easy access to real-time investment data can shape the way investors view their money."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranbir-kapoor-treats-paps-to-sweets-alia-raha-and-neetu-join-ganpati-visarjan-2997915-2026-09-19",
+      "headline": "Ranbir Kapoor treats paps to sweets; Alia, Raha and Neetu join Ganpati visarjan Actor Ranbir Kapoor, alongside Alia Bhatt and Neetu Kapoor, led the family's Ganpati visarjan celebrations, carrying the idol and chanting 'Ganpati Bappa Morya' while sharing a brief exchange with the paparazzi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-scandal-review-ji-chang-wook-son-ye-jin-and-nana-thrive-in-the-grey-2998030-2026-09-19",
+      "headline": "The Scandal review: Ji Chang-wook, Son Ye-jin and Nana thrive in the greyRelease Date:Fri Sep 18, 2026 Driven by nuanced performances from Son Ye-jin and Ji Chang-wook, The Scandal transforms a Joseon-era wager of seduction into a captivating exploration of power and restraint. The eight-episode series balances lush visual grammar with a carefully paced narrative that keeps its central intrigue tightly held."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/anant-nag-on-being-an-accidental-actor-from-theatre-to-dadasaheb-phalke-award-2998009-2026-09-18",
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/marathi-film-gondhal-selected-as-indias-official-entry-for-99th-academy-awards-2997660-2026-09-18",
       "headline": "Marathi film Gondhal beats Dhurandhar, Hanuman Ansh to become India's Oscars entry Marathi film Gondhal has been selected as India's official entry for the 99th Academy Awards. It was chosen from more than 30 contenders in the Oscar race, including Main Vaapas Aaunga and Dhurandhar 2. It's a psychological and cultural thriller centred around a trapped young bride who turns her lover's obsession with a sacred folk ritual into a dangerous game of deception, desire and power."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/dupahiya-season-2-release-date-prime-video-nirahua-joins-cast-gajraj-rao-bhuvan-arora-2997585-2026-09-18",
-      "headline": "Dupahiya Season 2 gets release date: Nirahua joins Gajraj Rao, Bhuvan Arora Prime Video has set the premiere date of Dupahiya Season 2 and added Nirahua to the cast. The new chapter returns to Dhadakpur with fresh complications, bigger stakes and the show's familiar humour."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/still-dont-know-how-to-make-a-successful-one-priyadarshan-after-making-98-films-2997555-2026-09-18",
-      "headline": "Still don't know how to make a successful one: Priyadarshan after making 98 films Filmmaker Priyadarshan said the insecurity he feels after every release pushed him to make 98 films. In an exclusive interview, he said that doubt has also kept him adapting stories, technology and genres across decades."
     }
   ],
   "general news": [
@@ -236,13 +236,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/iit-bombay-student-death-chatgpt-use-during-exam-2998019-2026-09-18",
-      "headline": "IIT Bombay student dies by suicide after being caught using ChatGPT during examAn IIT Bombay student was found using ChatGPT during an examination and later died by suicide. The institute said no disciplinary action was taken over the incident, while authorities are examining the circumstances surrounding the death."
+      "url": "https://www.indiatoday.in/world/story/donald-trump-white-house-ban-cnn-ms-now-politico-fake-news-2998054-2026-09-19",
+      "headline": "Trump bans three major news outlets from White House, cites 'fake news'Donald Trump said CNN, MS NOW and Politico were banned from the White House over what he called fake news. The move drew censorship charges and is likely to face scrutiny over press freedom protections."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/surendra-koli-death-nithari-acquitted-man-found-hanging-in-haridwar-story-explained-2997706-2026-09-18",
       "headline": "Hangman was ready in jail, but a noose found Surendra Koli 12 years laterSurendra Koli came within hours of the gallows in 2014 before the Supreme Court stayed his hanging in a midnight decision. Cleared of all charges after nearly 19 years behind bars, he was found hanging in his tea stall in Haridwar less than a year after walking free. Here's Koli's journey from Nithari's D-5 bungalow to death row to the Haridwar tea stall."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/iit-bombay-student-death-chatgpt-use-during-exam-2998019-2026-09-18",
+      "headline": "IIT Bombay student dies by suicide after being caught using ChatGPT during examAn IIT Bombay student was found using ChatGPT during an examination and later died by suicide. The institute said no disciplinary action was taken over the incident, while authorities are examining the circumstances surrounding the death."
     },
     {
       "sentiment": "positive",
@@ -256,13 +261,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-u19-vs-australia-u19-anvay-dravid-aaryavir-sehwag-seven-run-win-2997806-2026-09-18",
-      "headline": "Aaryavir Sehwag impresses on India U19 debut, Anvay Dravid plays a blinderINDU19 vs AUSU19: Aaryavir Sehwag marked his India U19 debut with a brisk 28 off 26 balls as India posted 182 for six against Australia in Rajkot. Anvay Dravid also scored an explosive 38 off 18 balls as India secured a seven-run win in the rain-shortened Youth ODI."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/gondhal-oscars-india-entry-santosh-davakar-marathi-film-academy-awards-bid-2997855-2026-09-18",
+      "headline": "We should represent India through good cinema: Gondhal director on Oscar selectionIn an exclusive interview, Gondhal director Santosh Davakar said the Marathi film's selection as India's official Oscar entry was a proud moment for the team. He said the film's campaign aims to take Marathi cinema and India's cultural heritage to a global audience."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/gondhal-oscars-india-entry-santosh-davakar-marathi-film-academy-awards-bid-2997855-2026-09-18",
-      "headline": "We should represent India through good cinema: Gondhal director on Oscar selectionIn an exclusive interview, Gondhal director Santosh Davakar said the Marathi film's selection as India's official Oscar entry was a proud moment for the team. He said the film's campaign aims to take Marathi cinema and India's cultural heritage to a global audience."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-u19-vs-australia-u19-anvay-dravid-aaryavir-sehwag-seven-run-win-2997806-2026-09-18",
+      "headline": "Aaryavir Sehwag impresses on India U19 debut, Anvay Dravid plays a blinderINDU19 vs AUSU19: Aaryavir Sehwag marked his India U19 debut with a brisk 28 off 26 balls as India posted 182 for six against Australia in Rajkot. Anvay Dravid also scored an explosive 38 off 18 balls as India secured a seven-run win in the rain-shortened Youth ODI."
     },
     {
       "sentiment": "negative",
@@ -276,38 +281,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anant-nag-on-being-an-accidental-actor-from-theatre-to-dadasaheb-phalke-award-2998009-2026-09-18",
+      "headline": "Anant Nag on being an 'accidental actor', from theatre to Dadasaheb Phalke AwardFollowing his Dadasaheb Phalke Award recognition, veteran actor Anant Nag, in an exclusive interview with India Today spoke about his unconventional entry into the performing arts, his theatre mentors, and his commitment to naturalistic acting."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-gold-ring-scheme-newborns-vijay-launch-september-28-2997853-2026-09-18",
       "headline": "CM Vijay to launch one-gram gold ring scheme for newborns in Tamil NaduChief Minister C Joseph Vijay will launch Tamil Nadu's one-gram gold ring scheme for newborns on September 28. The first phase covers babies born in government hospitals, with eligibility limited to permanent state residents."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/upi-payment-process-explained-how-banks-npci-and-soundboxes-finish-payments-in-seconds-2997558-2026-09-18",
-      "headline": "100 milliseconds, 4 hops, zero mistakes: The invisible journey of your UPI paymentsYou hear the chime before you have even lowered your phone. In that flicker of time, your money has already crossed the country, been questioned by two banks, and returned with an answer. This is the science of how it happens, and why, every so often, it does not."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/disha-salian-case-amit-thackeray-defends-cousin-aaditya-bombay-high-court-ordered-cbi-fir-ptag-2997474-2026-09-18",
       "headline": "Amit Thackeray backs cousin Aaditya after he's named in FIR in Disha Salian caseRaj Thackeray's son, Amit, backed his cousin Aaditya Thackeray in the Disha Salian death case, saying that the latter could never be involved in such a matter. His backing came as the CBI opened a fresh probe and named Aaditya in the FIR after the Bombay High Court's intervention."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/nithari-serial-killings-surendra-koli-suicide-children-deaths-mystery-2997654-2026-09-18",
-      "headline": "Surendra Koli found dead. India still asks: Who killed Nithari's children?Surendra Koli, who was acquitted last year in the infamous 2006 Nithari serial killings, was found dead in Haridwar. It has reopened a haunting question that has lingered for two decades: Who killed Nithari's children?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/health-comes-from-within-katrina-kaif-redefines-beauty-norms-after-motherhood-2997939-2026-09-18",
-      "headline": "New mother Katrina on feeling confident, beautiful amid post-pregnancy body-shamingKatrina Kaif spoke about post-pregnancy skin changes and self-care after welcoming son Vihaan. Her remarks came amid postpartum weight trolling and renewed debate over beauty standards."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anant-nag-on-being-an-accidental-actor-from-theatre-to-dadasaheb-phalke-award-2998009-2026-09-18",
-      "headline": "Anant Nag on being an 'accidental actor', from theatre to Dadasaheb Phalke AwardFollowing his Dadasaheb Phalke Award recognition, veteran actor Anant Nag, in an exclusive interview with India Today spoke about his unconventional entry into the performing arts, his theatre mentors, and his commitment to naturalistic acting."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/india-pakistan-naval-collision-simulator-indian-navy-pns-hunain-arabian-sea-2997638-2026-09-18",
-      "headline": "Video: India, Pak navy warship collision recreated inside simulatorA simulator-based recreation shows how an Indian Navy crew may have responded before the September 15 collision with PNS Hunain in the northern Arabian Sea, highlighting the role of training, situational awareness and composure during tense encounters at sea."
     },
     {
       "sentiment": "positive",
@@ -316,8 +301,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-trophies-return-india-bcci-devajit-saikia-2997910-2026-09-18",
-      "headline": "No timeline, but Asia Cup trophies will be in India one day: Devajit SaikiaBCCI secretary Devajit Saikia has assured that India's men's and women's Asia Cup trophies will return to the board's Mumbai headquarters, though he offered no timeline. He also backed the women's team to win Asian Games gold."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/health-comes-from-within-katrina-kaif-redefines-beauty-norms-after-motherhood-2997939-2026-09-18",
+      "headline": "New mother Katrina on feeling confident, beautiful amid post-pregnancy body-shamingKatrina Kaif spoke about post-pregnancy skin changes and self-care after welcoming son Vihaan. Her remarks came amid postpartum weight trolling and renewed debate over beauty standards."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/nithari-serial-killings-surendra-koli-suicide-children-deaths-mystery-2997654-2026-09-18",
+      "headline": "Surendra Koli found dead. India still asks: Who killed Nithari's children?Surendra Koli, who was acquitted last year in the infamous 2006 Nithari serial killings, was found dead in Haridwar. It has reopened a haunting question that has lingered for two decades: Who killed Nithari's children?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/sold-gold-to-buy-iphone-18-pro-for-wife-delhi-man-says-as-new-iphone-goes-on-sale-and-buyers-wait-for-hours-2997365-2026-09-18",
+      "headline": "Sold gold to buy iPhone 18 Pro for wife, Delhi man says as new iPhone goes on saleThe iPhone 18 Pro series is now officially on sale in India. India Today Tech talked to buyers at the Apple Store in Noida. Among the buyers was one Delhi man who claimed that he had sold gold to buy an iPhone for his wife."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/india-pakistan-naval-collision-simulator-indian-navy-pns-hunain-arabian-sea-2997638-2026-09-18",
+      "headline": "Video: India, Pak navy warship collision recreated inside simulatorA simulator-based recreation shows how an Indian Navy crew may have responded before the September 15 collision with PNS Hunain in the northern Arabian Sea, highlighting the role of training, situational awareness and composure during tense encounters at sea."
     }
   ],
   "sports": [
