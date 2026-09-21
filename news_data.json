@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/paramount-clears-path-for-warner-bros-takeover-after-settling-state-union-lawsuits-2999924-2026-09-22",
+      "headline": "Paramount moves closer to Warner Bros takeover after settling state, union lawsuitsParamount settled with a coalition of US states and the Writers Guild of America over its proposed acquisition of Warner Bros Discovery. The agreement removes a major obstacle to the $110 billion merger while imposing film production commitments and news oversight safeguards."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/ongc-mahanadi-basin-odisha-gas-discovery-boosts-cluster-development-2999913-2026-09-22",
+      "headline": "ONGC strikes gas in Mahanadi deep waters off Odisha coastONGC's latest gas discovery could be developed with nearby deposits using shared infrastructure, but its reserves and commercial viability are yet to be established."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/saudi-arabia-increases-gulf-oil-exports-days-after-houthis-attack-hits-east-west-pipeline-2999906-2026-09-22",
       "headline": "Saudi Arabia increases Gulf oil exports days after Houthis attack key pipelineSaudi Arabia has increased crude loadings from Gulf terminals after drone attacks shut the East-West Pipeline. The shift suggests a partial export recovery, but disruption around the Red Sea and Strait of Hormuz remains a concern."
@@ -89,16 +99,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/lic-investment-fraud-cbi-books-reliance-capital-anil-ambani-denies-wrongdoing-2998048-2026-09-19",
       "headline": "CBI books Reliance Capital in LIC fraud case; Anil Ambani denies wrongdoingThe CBI has registered an FIR against Reliance Capital, Anil Ambani, Satish Seth and others over alleged diversion of LIC investment funds. Anil Ambani has denied wrongdoing as investigators examine the alleged conspiracy and the end-use of Rs 3,900 crore invested by LIC."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-semiconductor-ashwini-vaishnaw-5-chipmakers-3-materials-firms-1-lakh-jobs-2998023-2026-09-18",
-      "headline": "5 large chipmakers, 1 lakh jobs: Ashwini Vaishnaw on India's semiconductor goalVaishnaw says the government's semiconductor programme is designed differently, with a long-term approach aimed at building the entire supply chain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/net-direct-tax-collection-fy27-rises-13-percent-rs-12-lakh-crore-september-17-2998006-2026-09-18",
-      "headline": "Net direct tax collection rises 13% to Rs 12.12 lakh crore in FY27 so farNet corporate tax mop-up rose 19.48 per cent to about Rs 5.56 lakh crore, while non-corporate tax (individuals and HUFs) mop-up increased 6 per cent to over Rs 6.16 lakh crore. Securities Transactions Tax (STT) collection grew 53 per cent to Rs 40,214 crore between April 1 and September 17."
     }
   ],
   "entertainment": [
@@ -200,6 +200,16 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-baulked-yemen-request-to-provide-military-support-against-houthis-middle-east-conflict-2999911-2026-09-22",
+      "headline": "Yemen asked US to provide military support against defiant Houthis. Trump held backYemeni President Rashad al-Alimi asked US President Donald Trump for military support for his Saudi-backed government in its fight against the Houthis, who have seized key areas near Red Sea in a rapid offensive this month."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/un-security-council-india-wins-support-from-4-european-nations-for-permanent-unsc-seat-2999914-2026-09-22",
+      "headline": "Upcoming superpower: 4 European nations back India's bid for permanent UNSC seatIndia's push for a permanent seat on the UN Security Council gets fresh backing from Hungary, Poland, Slovakia and the Czech Republic. The Visegrad Four support New Delhi's bid at the 81st UN General Assembly."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/raw-founder-rameshwar-nath-kao-warned-sheikh-mujibur-rahman-before-1975-bangladesh-massacre-2999568-2026-09-21",
       "headline": "RAW founder Kao warned Mujib of coup. He didn't listen, then came the massacreAs India's external intelligence agency RAW completes 58 years, here's a remarkable episode from its early days. Just months before the assassination of Bangladesh's founder, Sheikh Mujibur Rahman, RAW founder RN Kao had, in disguise, travelled to Dhaka to warn him of an army-backed plot."
@@ -208,6 +218,11 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/major-us-tv-networks-suspend-white-house-pool-coverage-after-trump-ban-on-cnn-ms-now-and-politico-2999825-2026-09-21",
       "headline": "Major US TV networks suspend coverage of Trump after White House bans CNNThe decision was announced on Monday after CNN was prevented from carrying out its scheduled duties as part of the White House television pool. Fox News Media, ABC News, CBS News, CNN and NBC News jointly said they would no longer provide the rotating pool coverage."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/air-india-express-passengers-seen-standing-as-flight-moves-on-runway-airline-reacts-2999597-2026-09-21",
+      "headline": "Air India Express passengers seen standing as flight moves on runway, airline reactsIn the video, several Air India Express passengers could be seen standing inside the aircraft as it appeared to move along the runway."
     },
     {
       "sentiment": "negative",
@@ -220,14 +235,14 @@
       "headline": "Mundhe's team seizes over 4,000 kg fake khoya, warns sweet shops of more raidsThe Maharashtra FDA seized 4,765 kg of a 'mawa-like' product worth Rs 7.67 lakh in Sambhajinagar and warned of more inspections ahead of Diwali. The latest action follows recent licence suspensions and cancellations against eateries and food businesses across Maharashtra over alleged food safety and hygiene violations."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/air-india-express-passengers-seen-standing-as-flight-moves-on-runway-airline-reacts-2999597-2026-09-21",
-      "headline": "Air India Express passengers seen standing as flight moves on runway, airline reactsIn the video, several Air India Express passengers could be seen standing inside the aircraft as it appeared to move along the runway."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/gujarat-pilgrim-crash-scorpio-hits-ambaji-walkers-sabarkantha-himmatnagar-idar-highway-one-dead-angry-mob-sets-suv-fire-2999874-2026-09-21",
       "headline": "Scorpio rams into Ambaji pilgrims in Gujarat, 1 dead; angry crowd sets SUV on fireA Scorpio allegedly entered a pilgrim-only corridor near Dolgarh and struck walkers heading to Ambaji. The crash killed one pilgrim, seriously injured seven others and triggered a police probe after the vehicle was set ablaze."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/from-kachoris-to-tiramisu-why-food-is-the-new-fuel-for-run-clubs-2999247-2026-09-21",
+      "headline": "Why Indians are running for kachoris, tiramisu and modak at 5 amWould you join a run club that treats you to kachori, ice cream or tiramisu along the way?"
     },
     {
       "sentiment": "positive",
@@ -241,13 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/from-kachoris-to-tiramisu-why-food-is-the-new-fuel-for-run-clubs-2999247-2026-09-21",
-      "headline": "Why Indians are running for kachoris, tiramisu and modak at 5 amWould you join a run club that treats you to kachori, ice cream or tiramisu along the way?"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/google-india-child-sexual-abuse-material-direct-reporting-law-enforcement-2999863-2026-09-21",
       "headline": "Google to report online child sexual abuse material directly to governmentA Google spokesperson described the proposed change as part of Google's ongoing discussions with the Indian government."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/radha-ambika-cheque-dispute-rs-46-crore-police-complaint-chennai-2999502-2026-09-21",
+      "headline": "Actor Radha files Rs 46 crore cheque fraud complaint against sister Ambika, brotherActor Radha has filed a police complaint against her sister Ambika and brother Mallikarjuna over old signed cheques. The complaint ties the alleged cheque misuse to a wider family property dispute now under police scrutiny."
     },
     {
       "sentiment": "positive",
@@ -260,14 +275,14 @@
       "headline": "OP Rajbhar wants UP split into 4; Ajay Rai slams his 'intellectual bankruptcy'Asked about the Congress's position on dividing Uttar Pradesh, Ajay Rai said it was a policy matter and that he could comment only after consulting the party's national leadership."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/radha-ambika-cheque-dispute-rs-46-crore-police-complaint-chennai-2999502-2026-09-21",
-      "headline": "Actor Radha files Rs 46 crore cheque fraud complaint against sister Ambika, brotherActor Radha has filed a police complaint against her sister Ambika and brother Mallikarjuna over old signed cheques. The complaint ties the alleged cheque misuse to a wider family property dispute now under police scrutiny."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/bhopal/story/bhopal-hotel-lift-incident-ias-officers-wife-trapped-five-star-hotel-sealed-after-safety-lapses-2999869-2026-09-21",
       "headline": "IAS officer's wife stuck in lift, rescued. Then came fire, food checks, more lapsesA senior IAS officer's wife was rescued after being trapped in a lift at a Bhopal five-star hotel. A civic inspection found lapses in lift maintenance, fire safety and documentation, prompting the sealing of three lifts and plans for wider inspections of hotels, hospitals and multi-storey buildings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/karnataka-man-rides-with-5-children-packed-into-metal-basket-one-seated-in-front-2999673-2026-09-21",
+      "headline": "Karnataka man rides with 5 children packed into metal basket, one seated in frontA video showed a man riding a two-wheeler in Karnataka with five children in a rear metal enclosure and another child seated in front."
     },
     {
       "sentiment": "positive",
@@ -281,13 +296,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/karnataka-man-rides-with-5-children-packed-into-metal-basket-one-seated-in-front-2999673-2026-09-21",
-      "headline": "Karnataka man rides with 5 children packed into metal basket, one seated in frontA video showed a man riding a two-wheeler in Karnataka with five children in a rear metal enclosure and another child seated in front."
+      "url": "https://www.indiatoday.in/india/story/maharashtra-ganesh-pandal-qr-code-linked-to-porn-videos-three-men-in-police-custody-2999724-2026-09-21",
+      "headline": "Porn website QR code found near Ganesh idol at Maharashtra pandal, 3 detainedA QR code placed near a Ganesh idol at a Washim pandal led users to pornographic videos. Police have taken three young men into custody and are probing similar placements elsewhere in the city."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/maharashtra-ganesh-pandal-qr-code-linked-to-porn-videos-three-men-in-police-custody-2999724-2026-09-21",
-      "headline": "Porn website QR code found near Ganesh idol at Maharashtra pandal, 3 detainedA QR code placed near a Ganesh idol at a Washim pandal led users to pornographic videos. Police have taken three young men into custody and are probing similar placements elsewhere in the city."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-visits-lalbaugcha-raja-with-suhana-and-gauri-greets-fans-pics-2999820-2026-09-21",
+      "headline": "SRK bows down to Lalbaugcha Raja, visits pandal with Suhana and Gauri. VideoActor Shah Rukh Khan offered prayers at Mumbai's Lalbaugcha Raja pandal, joined by Gauri and Suhana. The visit continued his annual association with the festival as crowds and tight security marked the occasion."
     },
     {
       "sentiment": "positive",
@@ -298,21 +313,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-free-bus-travel-women-vetri-payanam-october-2-launch-ptag-2999430-2026-09-21",
       "headline": "Vijay govt expands free bus scheme for Tamil Nadu women ahead of Oct 2 launchTamil Nadu Chief Minister C Joseph Vijay reviewed final preparations for the statewide launch of the 'Vetri Payanam' scheme on October 2. The expanded free bus scheme aims to widen women's access to work, education and healthcare."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-visits-lalbaugcha-raja-with-suhana-and-gauri-greets-fans-pics-2999820-2026-09-21",
-      "headline": "SRK bows down to Lalbaugcha Raja, visits pandal with Suhana and Gauri. VideoActor Shah Rukh Khan offered prayers at Mumbai's Lalbaugcha Raja pandal, joined by Gauri and Suhana. The visit continued his annual association with the festival as crowds and tight security marked the occasion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/suchika-tariyal-asian-games-mma-rules-hui-hoon-teo-bronze-2999290-2026-09-21",
-      "headline": "How 700 grams cost Suchika Tariyal a shot at historic Asian Games MMA gold medalSuchika Tariyal's dream of making it to the final of the women's traditional 60 kg category was ended with a loss to Hui Hoon Teo with the weight rule proving to be the difference. Here's how the Indian MMA star suffered a heartbreaking loss in the semi-final due to the rules of the sport."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/as-india-eyes-new-warnings-for-morning-after-pill-what-women-must-know-2999733-2026-09-21",
-      "headline": "As India eyes new warnings for morning-after pill, what women must knowThe message shouldn't be 'don't take the pill' but to use it when needed, early on and not mistake emergency contraception for everyday contraception"
     },
     {
       "sentiment": "positive",
