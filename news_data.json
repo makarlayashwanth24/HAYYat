@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/saudi-arabia-increases-gulf-oil-exports-days-after-houthis-attack-hits-east-west-pipeline-2999906-2026-09-22",
+      "headline": "Saudi Arabia increases Gulf oil exports days after Houthis attack key pipelineSaudi Arabia has increased crude loadings from Gulf terminals after drone attacks shut the East-West Pipeline. The shift suggests a partial export recovery, but disruption around the Red Sea and Strait of Hormuz remains a concern."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/bitcoin-crosses-85000-3-key-reasons-fuelling-the-crypto-rally-2999625-2026-09-21",
       "headline": "Bitcoin crosses $85,000. 3 key reasons fuelling the crypto rallyBitcoin is back in the spotlight after crossing $85,000. The rally has also spread to altcoins and meme coins, with several popular tokens posting strong gains."
@@ -94,14 +99,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/net-direct-tax-collection-fy27-rises-13-percent-rs-12-lakh-crore-september-17-2998006-2026-09-18",
       "headline": "Net direct tax collection rises 13% to Rs 12.12 lakh crore in FY27 so farNet corporate tax mop-up rose 19.48 per cent to about Rs 5.56 lakh crore, while non-corporate tax (individuals and HUFs) mop-up increased 6 per cent to over Rs 6.16 lakh crore. Securities Transactions Tax (STT) collection grew 53 per cent to Rs 40,214 crore between April 1 and September 17."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/indias-growth-story-is-intact-but-ai-and-oil-are-the-big-risks-jefferies-christopher-wood-2997814-2026-09-18",
-      "headline": "India's growth story is intact, but AI and oil are the big risks: Christopher WoodWood said that India's economic data has been encouraging, with credit growth strengthening and private companies beginning to show signs of higher capital spending."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-visits-lalbaugcha-raja-with-suhana-and-gauri-greets-fans-pics-2999820-2026-09-21",
+      "headline": "SRK bows down to Lalbaugcha Raja, visits pandal with Suhana and Gauri. Video Actor Shah Rukh Khan offered prayers at Mumbai's Lalbaugcha Raja pandal, joined by Gauri and Suhana. The visit continued his annual association with the festival as crowds and tight security marked the occasion."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/brad-pitt-cliff-booth-trades-stunt-work-for-studio-fixing-the-further-mis-adventures-of-cliff-booth-2999755-2026-09-21",
+      "headline": "Brad Pitt's Cliff Booth becomes studio fixer in spin-off of Tarantino's film. Watch Actor Brad Pitt is returning as Cliff Booth in director David Fincher's The Further Mis-Adventures of Cliff Booth, now set in 1977 Hollywood. The preview shows Booth's shift from stuntman to studio fixer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/bethlehem-kudumba-unit-rs-325-crore-success-fahadh-faasil-explains-mamitha-baiju-nivin-pauly-2999718-2026-09-21",
+      "headline": "What's behind Bethlehem Kudumba Unit's Rs 325-crore success? Fahadh Faasil explains As Bethlehem Kudumba Unit closed in on Rs 325 crore worldwide, co-producer Fahadh Faasil explained why the film clicked with audiences. He credited the fresh script, humour and Onam release timing as the run stayed strong after a month in cinemas."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/allu-arjun-deepikas-raaka-creates-history-with-guinness-world-record-2999696-2026-09-21",
+      "headline": "Raaka: What world record has Allu Arjun-Atlee's film created a year before release? Actor Allu Arjun's Raaka has scripted global history by entering the Guinness World Records for real-time motion capture, deploying advanced VFX technology to record 37 performers simultaneously within a single session."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-manoj-bajpayee-seeks-personality-rights-protection-from-delhi-high-court-2999689-2026-09-21",
+      "headline": "Actor Manoj Bajpayee seeks personality rights protection from Delhi High Court Bollywood actor Manoj Bajpayee moved the Delhi High Court over alleged misuse of his image, voice and personality elements. The hearing highlighted growing legal concerns over AI-led use of public figures' identities."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/bengali-actor-mithu-mukherjee-dies-at-71-after-year-long-cancer-battle-2999693-2026-09-21",
@@ -125,7 +150,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/angh-tiff-platform-prize-win-nagaland-film-oscar-eligibility-route-theja-rio-2999547-2026-09-21",
-      "headline": "What does Angh's TIFF win mean for India and Nagaland? Is it already at the Oscars? Theja Rio's Angh has made history by winning the TIFF Platform Prize, marking a significant milestone for Nagaland's cinema and gaining direct eligibility for the 2027 Oscars International Feature Film category. Here is what it the win means for India and Nagaland."
+      "headline": "What does Angh's TIFF win mean for India and Nagaland and is it already at Oscars? Theja Rio's Angh has made history by winning the TIFF Platform Prize, marking a significant milestone for Nagaland's cinema and gaining direct eligibility for the 2027 Oscars International Feature Film category. Here is what the win means for India and Nagaland."
     },
     {
       "sentiment": "negative",
@@ -171,43 +196,43 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-gauahar-khan-backs-qazi-after-rhiti-tiwari-outburst-2999365-2026-09-21",
       "headline": "Obvious jealousy: Gauahar Khan backs Qazi after Rhiti Tiwari's outburst on BB 20 Gauahar Khan and Sajid Khan have backed Qazi Touqeer after his clash with Rhiti Tiwari on Bigg Boss 20. Their remarks came after Rhiti's outburst over Qazi's prank drew criticism online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/yeh-prem-mol-liya-song-is-peak-sooraj-barjatya-with-chhath-grand-wedding-and-prem-2999338-2026-09-21",
-      "headline": "Yeh Prem Mol Liya song is peak Sooraj Barjatya with Chhath, grand wedding and 'Prem' The title track of Yeh Prem Mol Liya follows Ayushmann Khurrana and Sharvari through wedding rituals, family gatherings and festive moments. The song offers a fuller look at Sooraj Barjatya's family-centred world while also bringing Chhath into the film's mainstream frame."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-to-bring-raw-founder-rn-kao-untold-story-to-the-big-screen-in-2028-2999326-2026-09-21",
-      "headline": "Karan Johar to bring R&AW founder RN Kao's untold story to the big screen in 2028 Filmmaker Karan Johar announces a new film on R&AW founder RN Kao, based on Nitin Gokhale's Gentleman Spymaster. Here is everything you need to know about the RN Kao biopic."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/video/ji-chang-wook-son-ye-jin-nana-talk-the-scandal-pansori-indian-cinema-exclusive-eng-sub-2999340-2026-09-21",
-      "headline": "Ji Chang-wook, Son Ye-jin, Nana Talk The Scandal, Pansori, Indian cinema | Excl In an exclusive conversation with India Today, stars of Netflix series The Scandal speak about the historial K-drama. Ji Chang-wook discusses how pansori became part of the production and compares its storytelling role with musical elements in Indian cinema. Son Ye-jin opens up about playing Lady Cho, a complex and independent woman navigating the rigid social structures of the Joseon era."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prakash-raj-vijay-government-one-year-ajith-meeting-uk-trip-investment-focus-2999314-2026-09-21",
-      "headline": "Give him one year: Prakash Raj reacts to CM Vijay's governance, meeting with Ajith Actor Prakash Raj urged people to give Chief Minister C Joseph Vijay's government a year before judging its performance and defended his meeting with actor-racer Ajith Kumar in England. His remarks shifted attention from the optics of the UK trip to whether it delivered the promised investments and governance outcomes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/video/hasan-minhaj-on-south-asian-representation-bollywood-koh-i-noor-maitreyi-ramakrishnan-excl-2999325-2026-09-21",
-      "headline": "Hasan Minhaj on South Asian Representation, Bollywood| Maitreyi Ramakrishnan From comedy to romance, Netflix's Best of the Best cast Hasan Minhaj, Maitreyi Ramakrishnan and Priyanka Kedia explore why South Asian representation needs room for celebration."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-professor-suryanarayana-doolla-faculty-forum-student-death-inquiry-2999628-2026-09-21",
-      "headline": "Not suspended: IIT-B faculty forum backs Prof Doolla after student suicideIIT Bombay's Faculty Forum has backed Professor Suryanarayana Doolla after his removal as Dean (Administrative Affairs) following Sahil Wakode's death by suicide on campus. The forum clarified that Doolla remains a faculty member and that his removal from the deanship was temporary, to facilitate an independent inquiry."
+      "url": "https://www.indiatoday.in/india/story/raw-founder-rameshwar-nath-kao-warned-sheikh-mujibur-rahman-before-1975-bangladesh-massacre-2999568-2026-09-21",
+      "headline": "RAW founder Kao warned Mujib of coup. He didn't listen, then came the massacreAs India's external intelligence agency RAW completes 58 years, here's a remarkable episode from its early days. Just months before the assassination of Bangladesh's founder, Sheikh Mujibur Rahman, RAW founder RN Kao had, in disguise, travelled to Dhaka to warn him of an army-backed plot."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/major-us-tv-networks-suspend-white-house-pool-coverage-after-trump-ban-on-cnn-ms-now-and-politico-2999825-2026-09-21",
+      "headline": "Major US TV networks suspend coverage of Trump after White House bans CNNThe decision was announced on Monday after CNN was prevented from carrying out its scheduled duties as part of the White House television pool. Fox News Media, ABC News, CBS News, CNN and NBC News jointly said they would no longer provide the rotating pool coverage."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/raw-founder-rameshwar-nath-kao-warned-sheikh-mujibur-rahman-before-1975-bangladesh-massacre-2999568-2026-09-21",
-      "headline": "RAW founder Kao warned Mujib of coup. He didn't listen, then came the massacreAs India's external intelligence agency RAW completes 58 years, here's a remarkable episode from its early days. Just months before the assassination of Bangladesh's founder, Sheikh Mujibur Rahman, RAW founder RN Kao had, in disguise, travelled to Dhaka to warn him of an army-backed plot."
+      "url": "https://www.indiatoday.in/cities/other-cities/story/jamui-minors-harassment-case-sit-formed-three-arrested-action-32-social-media-accounts-outrage-viral-video-bihar-girl-2999668-2026-09-21",
+      "headline": "Bihar harassment case: 3 arrested, SIT formed; action against 32 social media accountsThe incident took place near Jamui's Madwa Pahad on Saturday evening, when the two students were returning from coaching on a scooter. The viral video has also triggered action against several social media accounts for circulating footage identifying the minors."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/maharashtra/story/maharashtra-fda-seizes-4765-kg-fake-mawa-from-mumbai-dargah-before-festive-season-2999794-2026-09-21",
+      "headline": "Mundhe's team seizes over 4,000 kg fake khoya, warns sweet shops of more raidsThe Maharashtra FDA seized 4,765 kg of a 'mawa-like' product worth Rs 7.67 lakh in Sambhajinagar and warned of more inspections ahead of Diwali. The latest action follows recent licence suspensions and cancellations against eateries and food businesses across Maharashtra over alleged food safety and hygiene violations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/air-india-express-passengers-seen-standing-as-flight-moves-on-runway-airline-reacts-2999597-2026-09-21",
+      "headline": "Air India Express passengers seen standing as flight moves on runway, airline reactsIn the video, several Air India Express passengers could be seen standing inside the aircraft as it appeared to move along the runway."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/gujarat-pilgrim-crash-scorpio-hits-ambaji-walkers-sabarkantha-himmatnagar-idar-highway-one-dead-angry-mob-sets-suv-fire-2999874-2026-09-21",
+      "headline": "Scorpio rams into Ambaji pilgrims in Gujarat, 1 dead; angry crowd sets SUV on fireA Scorpio allegedly entered a pilgrim-only corridor near Dolgarh and struck walkers heading to Ambaji. The crash killed one pilgrim, seriously injured seven others and triggered a police probe after the vehicle was set ablaze."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/story/iit-bombay-replaces-hostel-ceiling-fans-wall-mounted-ones-student-suicides-says-move-part-of-planned-renovation-2999730-2026-09-21",
+      "headline": "IIT Bombay gets wall-mounted fans after student suicide, says move part of renovationIIT Bombay has begun replacing ceiling fans in hostel rooms with wall-mounted units after the first batch reached campus. The move has drawn attention after recent student deaths, though the institute says it is part of a planned hostel renovation."
     },
     {
       "sentiment": "positive",
@@ -216,43 +241,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/iit-bombay-student-suicide-shama-mohamed-backs-professor-suryanarayana-doolla-after-protests-later-clarifies-2999413-2026-09-21",
-      "headline": "I stand with Professor Doolla: Congress's Shama Mohamed on IIT-B student suicide rowCongress leader Shama Mohamed backed IIT-Bombay professor Suryanarayana Doolla after his removal following student Sahil Wakode's death. Her remarks drew criticism and came as protests, an FIR and fresh demands for an independent enquiry continued."
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/from-kachoris-to-tiramisu-why-food-is-the-new-fuel-for-run-clubs-2999247-2026-09-21",
+      "headline": "Why Indians are running for kachoris, tiramisu and modak at 5 amWould you join a run club that treats you to kachori, ice cream or tiramisu along the way?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/jamui-minors-harassment-case-sit-formed-three-arrested-action-32-social-media-accounts-outrage-viral-video-bihar-girl-2999668-2026-09-21",
-      "headline": "Bihar harassment case: 3 arrested, SIT formed; action against 32 social media accountsThe incident took place near Jamui's Madwa Pahad on Saturday evening, when the two students were returning from coaching on a scooter. Police said seven to eight accused have so far emerged during the investigation, while their criminal records are being checked."
+      "url": "https://www.indiatoday.in/india/story/google-india-child-sexual-abuse-material-direct-reporting-law-enforcement-2999863-2026-09-21",
+      "headline": "Google to report online child sexual abuse material directly to governmentA Google spokesperson described the proposed change as part of Google's ongoing discussions with the Indian government."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-news-proposition-40-billionaire-tax-california-abhijit-banerjee-esther-duflo-gavin-newsom-2028-2999640-2026-09-21",
-      "headline": "Bring world's first billionaire tax, Abhijeet Banerjee, Esther Duflo urge CaliforniaSix Nobel-winning economists pen open letter, backing California's plan to impose a 5% one-time tax on billionaires. They say this will kick-start a movement for wealth tax in the US and across the world."
+      "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-sahil-wakode-case-faculty-forum-backs-doolla-campus-march-2999657-2026-09-21",
+      "headline": "From Sahil's death to Prof Doolla's removal: Inside IIT Bombay's suicide rowIIT Bombay student Sahil Wakode's death by suicide has triggered protests, caste harassment allegations and an institutional probe. As Professor Suryanarayana Doolla faces scrutiny, the Faculty Forum has defended him, while students demand accountability and reforms."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/csk-zaheer-khan-new-head-coach-ipl-2999660-2026-09-21",
-      "headline": "IPL: CSK appoint Zaheer Khan as head coach, replacing Stephen FlemingWorld Cup-winning former India fast bowler Zaheer Khan takes over as the head coach of Chennai Super Kings, ending weeks of speculation after Stephen Fleming stepped down from the role. Zaheer is expected to work closely with MS Dhoni at CSK, who will look to bounce back in IPL 2027."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/dharmasthala-sowjanya-rape-murder-case-back-in-spotlight-supreme-court-orders-reinvestigation-2999411-2026-09-21",
-      "headline": "Dharmasthala rape-murder case back in spotlight, SC orders reinvestigationThe Supreme Court has ordered a fresh investigation into the 2012 rape and murder of Soujanya in Karnataka's Dharmasthala, according to reports. The move reopens an unresolved case after earlier probes and an acquittal left key questions unanswered."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/air-india-express-passengers-seen-standing-as-flight-moves-on-runway-airline-reacts-2999597-2026-09-21",
-      "headline": "Air India Express passengers seen standing as flight moves on runway, airline reactsIn the video, several Air India Express passengers could be seen standing inside the aircraft as it appeared to move along the runway."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-live-updates-september-21-events-ind-vs-pak-shooting-medals-2999137-2026-09-21",
-      "headline": "Live: India win 5th shooting medal, India beat Pakistan to reach TT knockoutsAsian Games 2026, Live Updates for September 21: Suchika Tariyal wins bronze in women's 60kg MMA. Rudrankksh Patil and Himanshu Dhillon, after winning silver in the team event, win bronze and silver in the men's individual 10m rifle event. India men's team also beat Pakistan 3-0 in the Group F match to reach the knockouts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/karnataka-man-rides-with-5-children-packed-into-metal-basket-one-seated-in-front-2999673-2026-09-21",
-      "headline": "Karnataka man rides with 5 children packed into metal basket, one seated in frontA video showed a man riding a two-wheeler in Karnataka with five children in a rear metal enclosure and another child seated in front."
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-division-ajay-rai-attacks-op-rajbhar-purvanchal-cm-remark-2999883-2026-09-21",
+      "headline": "OP Rajbhar wants UP split into 4; Ajay Rai slams his 'intellectual bankruptcy'Asked about the Congress's position on dividing Uttar Pradesh, Ajay Rai said it was a policy matter and that he could comment only after consulting the party's national leadership."
     },
     {
       "sentiment": "negative",
@@ -261,28 +266,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-professor-suryanarayana-doolla-under-scrutiny-after-sahil-wakode-death-2999168-2026-09-21",
-      "headline": "Who is Suryanarayana Doolla, the IIT-Bombay professor at the heart of student protest?An IIT-Bombay professor is under scrutiny after a second-year student, Sahil Wakode, died by suicide after allegedly being caught cheating with the help of ChatGPT. The case has sparked campus protests, an FIR, and calls for an independent inquiry."
+      "url": "https://www.indiatoday.in/cities/bhopal/story/bhopal-hotel-lift-incident-ias-officers-wife-trapped-five-star-hotel-sealed-after-safety-lapses-2999869-2026-09-21",
+      "headline": "IAS officer's wife stuck in lift, rescued. Then came fire, food checks, more lapsesA senior IAS officer's wife was rescued after being trapped in a lift at a Bhopal five-star hotel. A civic inspection found lapses in lift maintenance, fire safety and documentation, prompting the sealing of three lifts and plans for wider inspections of hotels, hospitals and multi-storey buildings."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/professor-suryanarayana-doolla-suspended-from-deanship-iit-bombay-spokesperson-amid-student-suicide-row-2999371-2026-09-21",
-      "headline": "Student suicide row: IIT-B removes professor accused of caste bias as deanIIT Bombay has taken a major administrative step amid the row over student Sahil's suicide, removing Prof Suryanarayana Doolla as dean. The action comes amid protests on campus and students' demands for accountability over the circumstances surrounding Sahil's death."
+      "url": "https://www.indiatoday.in/cities/other-cities/story/wasseypur-firing-faheem-khan-brother-shanu-khan-shot-three-injured-dhanbad-2999662-2026-09-21",
+      "headline": "'Gangs of Wasseypur' redux: Real-life Faizal Khan's brother injured in firingShanu Khan suffered bullet wounds, while Shaham was hit twice. A woman caught in the firing was also injured."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-airstrikes-afghanistan-border-28-terrorists-khyber-pakhtunkhwa-attacks-ptag-2999566-2026-09-21",
-      "headline": "Pakistan airstrikes Afghanistan in retaliation for attack on mosque, 28 killedPakistan said it launched ground and air strikes on militant hideouts near the Afghan border after deadly attacks in Khyber Pakhtunkhwa. Afghanistan alleged civilian casualties and condemned the action, deepening bilateral tensions."
+      "url": "https://www.indiatoday.in/cities/kanpur/story/kanpur-woman-leaves-husband-three-children-to-live-with-female-partner-she-met-on-instagram-in-delhi-2999801-2026-09-21",
+      "headline": "UP woman moves in with female partner she met on Instagram, leaves husband, 3 kidsMaharajpur police traced a Kanpur woman to Delhi after her husband filed a missing person complaint. After counselling at the police station, officers let her leave with her partner while legal questions remained over child maintenance."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/suchika-tariyal-asian-games-mma-rules-hui-hoon-teo-bronze-2999290-2026-09-21",
-      "headline": "How 700 grams cost Suchika Tariyal a shot at historic Asian Games MMA gold medalSuchika Tariyal's dream of making it to the final of the women's traditional 60 kg category was ended with a loss to Hui Hoon Teo with the weight rule proving to be the difference. Here's how the Indian MMA star suffered a heartbreaking loss in the semi-final due to the rules of the sport."
+      "url": "https://www.indiatoday.in/trending-news/story/karnataka-man-rides-with-5-children-packed-into-metal-basket-one-seated-in-front-2999673-2026-09-21",
+      "headline": "Karnataka man rides with 5 children packed into metal basket, one seated in frontA video showed a man riding a two-wheeler in Karnataka with five children in a rear metal enclosure and another child seated in front."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/from-kachoris-to-tiramisu-why-food-is-the-new-fuel-for-run-clubs-2999247-2026-09-21",
-      "headline": "From kachoris to tiramisu, why food is the new fuel for run clubsWould you join a run club that treats you to kachori, ice cream or tiramisu along the way?"
+      "url": "https://www.indiatoday.in/india/story/maharashtra-ganesh-pandal-qr-code-linked-to-porn-videos-three-men-in-police-custody-2999724-2026-09-21",
+      "headline": "Porn website QR code found near Ganesh idol at Maharashtra pandal, 3 detainedA QR code placed near a Ganesh idol at a Washim pandal led users to pornographic videos. Police have taken three young men into custody and are probing similar placements elsewhere in the city."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/academic-freedom-india-iit-bombay-shobha-shukla-academia-will-not-bend-2998977-2026-09-20",
+      "headline": "IIT Bombay professor on academic freedom and the need to question established ideasIIT Bombay professor Shobha Shukla told India Today Digital that academics would resist any attempt to dictate how they should think or conduct their work. Her remarks came in the wake of the Free to Think 2026 report, which placed India in the \"severely restricted\" category in its assessment of academic freedom."
     },
     {
       "sentiment": "positive",
@@ -291,90 +301,135 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/sonia-gandhi-voter-list-case-rouse-avenue-court-allows-revision-petition-2999535-2026-09-21",
-      "headline": "Delhi court revives forgery plea against Sonia Gandhi over voter roll inclusionThe Rouse Avenue Court allowed a revision petition concerning Sonia Gandhi's alleged inclusion in the 1980 voter roll before she obtained Indian citizenship in 1983. The court set aside the magistrate's order rejecting an FIR plea, citing legal infirmities, and allowed the petitioner to approach the magistrate court again."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-visits-lalbaugcha-raja-with-suhana-and-gauri-greets-fans-pics-2999820-2026-09-21",
+      "headline": "SRK bows down to Lalbaugcha Raja, visits pandal with Suhana and Gauri. VideoActor Shah Rukh Khan offered prayers at Mumbai's Lalbaugcha Raja pandal, joined by Gauri and Suhana. The visit continued his annual association with the festival as crowds and tight security marked the occasion."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/inside-72nd-national-film-awards-gujarats-kevadia-decked-up-before-ceremony-2999541-2026-09-21",
-      "headline": "Inside 72nd National Film Awards: Gujarat's Kevadia decked up before ceremonyThe 72nd National Film Awards will be presented near the Statue of Unity in Kevadia on September 22. The ceremony brings together top film winners, regional artists and senior dignitaries at a landmark venue."
+      "url": "https://www.indiatoday.in/sports/asian-games/story/suchika-tariyal-asian-games-mma-rules-hui-hoon-teo-bronze-2999290-2026-09-21",
+      "headline": "How 700 grams cost Suchika Tariyal a shot at historic Asian Games MMA gold medalSuchika Tariyal's dream of making it to the final of the women's traditional 60 kg category was ended with a loss to Hui Hoon Teo with the weight rule proving to be the difference. Here's how the Indian MMA star suffered a heartbreaking loss in the semi-final due to the rules of the sport."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-to-bring-raw-founder-rn-kao-untold-story-to-the-big-screen-in-2028-2999326-2026-09-21",
-      "headline": "Karan Johar to bring R&AW founder RN Kao's untold story to the big screen in 2028Filmmaker Karan Johar announces a new film on R&AW founder RN Kao, based on Nitin Gokhale's Gentleman Spymaster. Here is everything you need to know about the RN Kao biopic."
+      "url": "https://www.indiatoday.in/india-today-insight/story/as-india-eyes-new-warnings-for-morning-after-pill-what-women-must-know-2999733-2026-09-21",
+      "headline": "As India eyes new warnings for morning-after pill, what women must knowThe message shouldn't be 'don't take the pill' but to use it when needed, early on and not mistake emergency contraception for everyday contraception"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/apple-hardware-chief-doesnt-want-you-to-use-iphone-screen-protectors-here-is-why-2999254-2026-09-21",
-      "headline": "Apple hardware chief doesn't want you to use iPhone screen protectors, here is whyApple's new VP of hardware engineering, Tom Marieb, says that he doesn't want you to put a screen protector on your iPhone. In his words, seeing a screen protector makes his \"skin crawl.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/uttar-pradesh-2027-elections-congress-sp-differ-on-seat-sharing-timeline-2999627-2026-09-21",
-      "headline": "All not well in Congress-SP alliance? Seat-sharing emerges as key hurdleThe Congress and Samajwadi Party are set to contest the 2027 Uttar Pradesh polls together, but differences over seat-sharing and the timing of talks have emerged. While Congress wants an early deal, SP is in no hurry, with both parties seeking to strengthen their bargaining positions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/hilsa-fish-india-bangladesh-trade-padma-ilish-kolkata-fish-market-dhaka-2998438-2026-09-20",
-      "headline": "Why hilsa-exporter Bangladesh is importing the fish from GujaratBangladesh, the biggest producer and exporter of hilsa, is importing hundreds of tonnes of the prized fish from India. While Padmar Ilish is sought after in India, Bangladesh is importing hilsa from Gujarat, especially Bharuch. Here's how taste, supply, prices and processing are feeding the two-way trade."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-news-proposition-40-billionaire-tax-california-abhijit-banerjee-esther-duflo-gavin-newsom-2028-2999640-2026-09-21",
+      "headline": "World's first billionaire tax soon? India-born Nobel-winning economist is backing itSix Nobel-winning economists pen open letter, backing California's plan to impose a 5% one-time tax on billionaires. They say this will kick-start a movement for wealth tax in the US and across the world."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-familiar-face-zaheer-khan-csk-head-coach-stephen-fleming-2999903-2026-09-21",
+      "headline": "MS Dhoni's call for a familiar face leads CSK to Zaheer Khan as new head coach MS Dhoni's preference for a familiar face played a key role in Chennai Super Kings appointing former India pacer Zaheer Khan as head coach. Zaheer replaces Stephen Fleming, who led CSK for 18 seasons."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/hess-olympiad-india-vs-uzbekistan-nih-al-sarin-loss-defending-champions-2999902-2026-09-21",
+      "headline": "Chess Olympiad: India's men lose to Uzbekistan, surrender sole lead Defending champions India suffered their first defeat at the Chess Olympiad, losing 1.5-2.5 to Uzbekistan as Nihal Sarin lost to Nodirbek Yakubboev and the Uzbek team moved into sole lead"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-japan-t20i-shreyas-iyer-weather-allows-historic-match-2999877-2026-09-21",
+      "headline": "Shreyas Iyer excited for Japan T20I, hopes rain doesn't spoil historic contest Shreyas Iyer is excited for India's historic first men's T20I against Japan but hopes rain does not disrupt the landmark clash in Sano. India's preparations have been affected by adverse weather, while Iyer looks forward to embracing Japanese culture and a new cricketing challenge."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/rudrankksh-patil-asian-games-ordeal-emergency-landing-hotel-mix-up-bronze-2999865-2026-09-21",
+      "headline": "A bumpy road to Asian Games bronze: Rudrankksh Patil's chaotic journey to Japan Rudrankksh Patil opens up about the chaotic journey to Japan for the Asian Games, revealing an emergency landing, hotel mix-up and long bus rides before winning bronze in the 10m air rifle event"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-japan-t20i-typhoon-dujuan-weather-forecast-match-2999832-2026-09-21",
+      "headline": "India vs Japan T20I to be impacted by Typhoon Dujuan? Here's the weather forecast India's historic T20I against Japan faces a potential weather threat as Typhoon Dujuan brings heavy rain and strong winds to eastern Japan. With India's training session already cancelled, showers forecast around match time could cause delays or interruptions in Sano."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-rowing-crew-changes-leave-rowers-disturbed-2026-2999829-2026-09-21",
+      "headline": "Asian Games: Rowing camp in turmoil over last-minute changes to crews India's rowing camp is facing trouble over last-minute changes to events and crews ahead of the Asian Games. Several rowers have been shifted, while reserve players are set to join the first team."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/fencing-cash-rewards-fai-india-medal-taniksha-khatri-2999805-2026-09-21",
+      "headline": "Fencing Association announces rewards for medallists as India chase Asian Games glory The Fencing Association of India has announced cash rewards of up to Rs 10 lakh for medal winners at the Asian Games in Japan. India, yet to win a fencing medal in Asian Games history, will begin its campaign on Wednesday with four athletes in action."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-schedule-september-22-tuesday-medal-timings-full-list-cricket-badminton-hockey-shooting-2999796-2026-09-21",
+      "headline": "Asian Games, Sept 22 schedule: Women's cricket leads bid for first gold India's women's cricket team takes centre stage on September 22 as it prepares for a gold-medal clash with Sri Lanka. With the first gold of the Asian Games in sight, shooters, wushu stars and other medal hopefuls will also be in action."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/table-tennis-india-beat-pakistan-south-korea-pre-quarterfinal-2999754-2026-09-21",
+      "headline": "India hammer Pakistan 3-0, storm into Asian Games men's table tennis prequarters India bounced back from their defeat to Iran with a commanding 3-0 win over Pakistan to finish second in Group F. The Indian men advanced to the pre-quarterfinals where they will lock horns with South Korea."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/india-women-vs-sri-lanka-womens-cricket-final-preview-head-to-head-2999711-2026-09-21",
+      "headline": "India Women eye cricket gold as Sri Lanka threat looms in Asian Games finale India Women face Sri Lanka in the Asian Games 2026 cricket final, with gold at stake in another high-profile clash between the two sides. Shafali Verma and Shree Charani have impressed for India, while Chamari Athapaththu has led Sri Lanka's unbeaten run into the title clash."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-medals-dhillon-patil-shine-suchika-loses-mma-final-on-700g-tiebreak-2999708-2026-09-21",
+      "headline": "Day 2 wrap: Rifle shooters on fire, 700g heartbreak for MMA fighter India added four more medals on Day 2, including three from shooting and a historic MMA bronze for Suchika Tariyal. The haul took India's medal tally to six, but the absence of a gold kept them outside the top 10 in the standings."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/varun-sanyal-asian-games-mma-forced-cut-weight-alone-sauna-withdrawal-2999658-2026-09-21",
-      "headline": "Forced to cut weight alone: MMA fighter Varun Sanyal breaks silence on withdrawal Asian Games 2026: Varun Sanyal was forced to withdraw from the Asian Games MMA event after blacking out during a sauna session while cutting weight alone. The 23-year-old has now questioned why he was left without support after his late call-up."
+      "headline": "Forced to cut weight alone: MMA fighter Varun Sanyal breaks silence on withdrawalAsian Games 2026: Varun Sanyal was forced to withdraw from the Asian Games MMA event after blacking out during a sauna session while cutting weight alone. The 23-year-old has now questioned why he was left without support after his late call-up."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/csk-zaheer-khan-new-head-coach-ipl-2999660-2026-09-21",
-      "headline": "IPL: CSK appoint Zaheer Khan as head coach, replacing Stephen Fleming World Cup-winning former India fast bowler Zaheer Khan takes over as the head coach of Chennai Super Kings, ending weeks of speculation after Stephen Fleming stepped down from the role. Zaheer is expected to work closely with MS Dhoni at CSK, who will look to bounce back in IPL 2027."
+      "headline": "IPL: CSK appoint Zaheer Khan as head coach, replacing Stephen FlemingWorld Cup-winning former India fast bowler Zaheer Khan takes over as the head coach of Chennai Super Kings, ending weeks of speculation after Stephen Fleming stepped down from the role. Zaheer is expected to work closely with MS Dhoni at CSK, who will look to bounce back in IPL 2027."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/india-vs-japan-quarter-finals-pv-sindhu-key-as-women-chase-first-medal-since-2014-2999565-2026-09-21",
-      "headline": "India vs Japan: Can PV Sindhu help the women's team end 12-year drought? Asian Games 2026: India's men's and women's teams will face hosts Japan in the quarter-finals on Tuesday. PV Sindhu will play both singles and doubles as the women's team look to secure a semi-final berth and guarantee a medal."
+      "headline": "India vs Japan: Can PV Sindhu help the women's team end 12-year drought?Asian Games 2026: India's men's and women's teams will face hosts Japan in the quarter-finals on Tuesday. PV Sindhu will play both singles and doubles as the women's team look to secure a semi-final berth and guarantee a medal."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-u19-vs-australia-aaryavir-sehwag-batting-2999428-2026-09-21",
-      "headline": "Aaryavir Sehwag impresses in youth ODIs as India post 341 vs Australia U19 Aaryavir Sehwag scored a patient 47 in India's second U19 ODI against Australia, impressing in the 2nd Youth ODI. The young Sehwag set India up for a big total before getting out at 47."
+      "headline": "Aaryavir Sehwag impresses in youth ODIs as India post 341 vs Australia U19Aaryavir Sehwag scored a patient 47 in India's second U19 ODI against Australia, impressing in the 2nd Youth ODI. The young Sehwag set India up for a big total before getting out at 47."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/indian-super-league-karan-yadav-first-ceo-club-led-model-2999406-2026-09-21",
-      "headline": "ISL gets a CEO now. Meet the man in Indian football's biggest new role The Indian Super League has appointed Karan Yadav as chief executive officer under its club-led structure. His arrival gives the league its first CEO while placing him in charge of strategy, commercial ties and coordination with clubs and the AIFF."
+      "headline": "ISL gets a CEO now. Meet the man in Indian football's biggest new roleThe Indian Super League has appointed Karan Yadav as chief executive officer under its club-led structure. His arrival gives the league its first CEO while placing him in charge of strategy, commercial ties and coordination with clubs and the AIFF."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-japan-t20i-match-details-live-streamng-tv-channel-timings-sano-weather-2999376-2026-09-21",
-      "headline": "India vs Japan T20I live streaming: Will Vaibhav Sooryavanshi feature in historic match? India take on Japan in their first-ever T20I in Sano on Tuesday, September 22. Vaibhav Sooryavanshi will hope to get his chance as both teams prepare for the Asian Games."
+      "headline": "India vs Japan T20I live streaming: Will Vaibhav Sooryavanshi feature in historic match?India take on Japan in their first-ever T20I in Sano on Tuesday, September 22. Vaibhav Sooryavanshi will hope to get his chance as both teams prepare for the Asian Games."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-hockey-india-beat-indonesia-kabaddi-japan-2999353-2026-09-21",
-      "headline": "India women rout Indonesia in hockey, men's Kabaddi team beat Japan India's women's hockey team continued their dominant run at the Asian Games with a 17-1 win over Indonesia. The men's kabaddi team started their title defence with a sensational performance against Japan."
+      "headline": "India women rout Indonesia in hockey, men's Kabaddi team beat JapanIndia's women's hockey team continued their dominant run at the Asian Games with a 17-1 win over Indonesia. The men's kabaddi team started their title defence with a sensational performance against Japan."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-swimming-china-13-year-old-girl-yu-zidi-2999316-2026-09-21",
-      "headline": "Swimming: 13-year-old Chinese schoolgirl sets Asian Games record, wins gold China's 13-year-old Yu Zidi won Asian Games gold in the women's 200m butterfly, setting a new Games record in the process. The schoolgirl, who turns 14 next month, has already made history at the World Championships and now has her sights set on the Olympics."
+      "headline": "Swimming: 13-year-old Chinese schoolgirl sets Asian Games record, wins goldChina's 13-year-old Yu Zidi won Asian Games gold in the women's 200m butterfly, setting a new Games record in the process. The schoolgirl, who turns 14 next month, has already made history at the World Championships and now has her sights set on the Olympics."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/suchika-tariyal-asian-games-mma-rules-hui-hoon-teo-bronze-2999290-2026-09-21",
-      "headline": "How 700 grams cost Suchika Tariyal a shot at historic Asian Games MMA gold medal Suchika Tariyal's dream of making it to the final of the women's traditional 60 kg category was ended with a loss to Hui Hoon Teo with the weight rule proving to be the difference. Here's how the Indian MMA star suffered a heartbreaking loss in the semi-final due to the rules of the sport."
+      "headline": "How 700 grams cost Suchika Tariyal a shot at historic Asian Games MMA gold medalSuchika Tariyal's dream of making it to the final of the women's traditional 60 kg category was ended with a loss to Hui Hoon Teo with the weight rule proving to be the difference. Here's how the Indian MMA star suffered a heartbreaking loss in the semi-final due to the rules of the sport."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/himanshu-dhillon-asian-games-silver-jind-shooter-10m-air-rifle-debut-2999293-2026-09-21",
-      "headline": "Wrestling didn't stick. Shooting did: Himanshu Dhillon's road to Asian Games silver Himanshu Dhillon won individual silver and team silver in the men's 10m air rifle at the Aichi-Nagoya Asian Games. The medals capped the 20-year-old Jind shooter's unconventional journey from wrestling and farm fields to the podium."
+      "headline": "Wrestling didn't stick. Shooting did: Himanshu Dhillon's road to Asian Games silverHimanshu Dhillon won individual silver and team silver in the men's 10m air rifle at the Aichi-Nagoya Asian Games. The medals capped the 20-year-old Jind shooter's unconventional journey from wrestling and farm fields to the podium."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/video/asian-games-2026-india-clinches-silver-in-mens-10m-air-rifle-team-event-ytvd-2999188-2026-09-21",
-      "headline": "Asian Games 2026: India Clinches Silver In Men's 10m Air Rifle Team Event India's shooting contingent secured its third silver medal at the Asian Games 2026 through the men's 10-metre air rifle team event. The Indian trio comprising Rudranksh Patil, Himanshu Dhillon, and Parth Mane clinched the silver medal for the country. All three of India's medals at the games so far have come from the shooting ranges, highlighting the nation's continental dominance in rifle events. This achievement follows two previous silver medals won by the women's shooting squad on the opening day of the competition, which included a medal in the women's 10-metre air rifle team event and an individual silver won by Elavenil Valarivan in the women's 10-metre air rifle individual final."
+      "headline": "Asian Games 2026: India Clinches Silver In Men's 10m Air Rifle Team EventIndia's shooting contingent secured its third silver medal at the Asian Games 2026 through the men's 10-metre air rifle team event. The Indian trio comprising Rudranksh Patil, Himanshu Dhillon, and Parth Mane clinched the silver medal for the country. All three of India's medals at the games so far have come from the shooting ranges, highlighting the nation's continental dominance in rifle events. This achievement follows two previous silver medals won by the women's shooting squad on the opening day of the competition, which included a medal in the women's 10-metre air rifle team event and an individual silver won by Elavenil Valarivan in the women's 10-metre air rifle individual final."
     },
     {
       "sentiment": "positive",
@@ -389,7 +444,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-live-updates-september-21-events-ind-vs-pak-shooting-medals-2999137-2026-09-21",
-      "headline": "Live: India win 5th shooting medal, India beat Pakistan to reach TT knockoutsAsian Games 2026, Live Updates for September 21: Suchika Tariyal wins bronze in women's 60kg MMA. Rudrankksh Patil and Himanshu Dhillon, after winning silver in the team event, win bronze and silver in the men's individual 10m rifle event. India men's team also beat Pakistan 3-0 in the Group F match to reach the knockouts."
+      "headline": "Highlights: India win 5th shooting medal, India beat Pakistan to reach TT knockoutsAsian Games 2026, Highlights for September 21: Suchika Tariyal wins bronze in women's 60kg MMA. Rudrankksh Patil and Himanshu Dhillon, after winning silver in the team event, win bronze and silver in the men's individual 10m rifle event. India men's team also beat Pakistan 3-0 in the Group F match to reach the knockouts."
     },
     {
       "sentiment": "positive",
@@ -420,61 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/video/elavenil-valarivan-to-india-today-taking-lessons-is-actually-more-important-ytvd-2999060-2026-09-20",
       "headline": "Elavenil Valarivan to India Today: 'Taking Lessons Is Actually More Important'Indian shooter Elavenil Valarivan reflected on opening India's medal account at the Asian Games with two silver medals in the team and individual ten-meter air rifle events in an interview with India Today. She described her journey since the 2018 Jakarta Asian Games as pleasant, emphasizing the value of continuous learning. Speaking about her performance, Valarivan admitted, \"I did fumble a bit in the end\" and noted that she must work on her pace for the final shots. She credited the Indian shooting contingent's success to strong team confidence, mutual support, and inspiration drawn from younger athletes. Valarivan also highlighted the importance of mental focus in the sport, explaining that success relies on tuning out external distractions and concentrating fully on executing one single shot at a time."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/india-asian-games-schedule-september-21-medal-events-timings-full-list-2999057-2026-09-20",
-      "headline": "India at Asian Games, September 21: IND vs PAK in spotlight, shooting medals at stakeIndia at Asian Games, schedule for September 21: India face Pakistan in men's and women's table tennis, while the women's hockey team takes on Indonesia. Shooting and swimming offer medal chances, with Suchika Tariyal, Sumit, Roshibina Devi and Aryan also set for key contests."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-do-not-rush-sanath-jayasuriya-playing-xi-2999050-2026-09-20",
-      "headline": "Don't rush Vaibhav Sooryavanshi in playing XI: Sri Lanka great warns IndiaVaibhav Sooryavanshi could be India's future, but the teenager should not be rushed into the playing XI, former Sri Lanka captain Sanath Jayasuriya said on Sunday, backing the young batter to make the most of his opportunities when they come his way."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/video/elavenil-valarivan-japan-preparation-interview-shooting-silver-asian-games-2999031-2026-09-20",
-      "headline": "Elavenil Valarivan credits Japan-style training for Asian Games silver doubleElavenil Valarivan credited India's Japan-style preparation after the rifle shooter helped the country secure two silver medals on the opening day of the shooting competition at the Aichi-Nagoya Asian Games on Sunday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-day-1-wrap-elavenil-double-silver-suchika-mma-medal-shafali-century-2998987-2026-09-20",
-      "headline": "Day 1 wrap: Elavenil shoots a double, Suchika makes MMA debut memorableAsian Games 2026 Day 1 results and wrap: Elavenil Valarivan's double silver, Suchika Tariyal's historic MMA medal and Shafali Verma's record-breaking century headlined India's eventful opening day, as hockey and badminton teams also made emphatic starts in Aichi-Nagoya."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/boxing-draw-asian-games-lovlina-borgohain-narender-full-schedule-2998998-2026-09-20",
-      "headline": "Asian Games Boxing: Tough draws await Lovlina, Narender and India's medal hopesIndian boxers face challenging draws at the Asian Games, with Lovlina Borgohain and Narender Berwal beginning in the quarterfinals. Sakshi Chaudhary, Preeti Pawar and other medal hopefuls also face tough paths."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-kabaddi-men-women-begin-title-defence-gold-double-2998988-2026-09-20",
-      "headline": "Asian Games: Gold double in sight as India's kabaddi teams begin campaignDefending champions India begin their Asian Games kabaddi campaign on September 21, with the men's and women's teams aiming to retain the gold medals they won at Hangzhou 2022."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-table-tennis-indian-women-beat-singapore-men-lose-iran-2998949-2026-09-20",
-      "headline": "Asian Games, table tennis: Indian women stun Singapore 3-2, men lose 0-3 to IranThe Indian women's table tennis team staged a spirited comeback to beat Singapore 3-2 in their Group F match at the Asian Games on Sunday, while the men's team suffered a 0-3 defeat to Iran."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/wasim-akram-slams-babar-azam-captaincy-pakistan-england-test-2998923-2026-09-20",
-      "headline": "Wasim Akram slams Babar over England tour chaos: Were you here to sell chickpeas?Pakistan legend Wasim Akram has slammed Babar Azam's leadership during the England tour, questioning what the star batter was doing as captain if he was unaware of major changes to the team."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/india-hockey-asian-games-saffron-jersey-blue-kit-dilip-tirkey-2998887-2026-09-20",
-      "headline": "Why India's hockey teams turned up in saffron at Asian GamesIndian hockey's kit controversy resurfaced at the Asian Games as both the men's and women's teams wore saffron in their opening matches, despite Hockey India president Dilip Tirkey's assurance that they would return to blue. The federation's conflicting claims have added to the row."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/japan-cricket-hope-india-t20i-boost-sport-profile-2998847-2026-09-20",
-      "headline": "Japan hope historic India T20I can boost cricket's popularity in the countryJapan Cricket Association COO Alan Curr hopes Tuesday's historic T20I against India can give cricket a much-needed push in Japan, where the sport is slowly growing but remains largely outside the mainstream sporting conversation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-vs-bangladesh-womens-cricket-semifinal-shafali-verma-2998773-2026-09-20",
-      "headline": "Cricket: Shafali's historic century helps India storm into gold medal matchAsian Games 2026: Shafali Verma smashed a record 49-ball century as India thrashed Bangladesh in the semi-final by 114 runs on Sunday. India will take on Sri Lanka in the gold medal match on Tuesday."
     }
   ],
   "education": [
