@@ -201,13 +201,28 @@
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/flydubai-cockpit-assault-saudi-arabia-hands-omani-co-pilot-to-uae-3007792-2026-10-02",
+      "headline": "Omani co-pilot handed over to UAE as flydubai cockpit attack probe widensSaudi Arabia has handed the Omani co-pilot in the flydubai cockpit assault case to the UAE. Investigators are examining the attack on Captain Smit Machchhar and whether there was an attempt to crash the plane."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-sends-9000-troops-to-middle-east-as-trump-warns-iran-of-fresh-strikes-ptag-3007788-2026-10-02",
+      "headline": "US deploys thousands of troops to Middle East as Trump weighs fresh strikes on IranThe United States is sending about 9,000 troops on warships to the Middle East as Donald Trump warns Iran of possible fresh strikes. The move sharply raises American military pressure while officials examine Tehran's alleged link to an attack on an Israel-bound flight."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/flydubai-captain-smit-machchhar-attack-video-co-pilot-pinned-passengers-intervene-3007702-2026-10-01",
       "headline": "New visuals show flydubai attacker pinned to ground beside bloodied Indian captainFirst visuals of the Omani co-pilot accused of attacking Indian captain Smit Machchhar show him pinned beside the bloodied pilot after the mid-air assault. As Machchhar lies injured with an oxygen mask, passengers are seen restraining the attacker and taking control of the aircraft before it lands in Saudi Arabia."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/story/8-students-drown-during-pune-private-coaching-class-trip-to-raigads-diveagar-beach-7-bodies-found-3007580-2026-10-01",
-      "headline": "8 students drown during Pune coaching class trip to beach in Maharashtra's RaigadA private coaching class trip from Alandi in Pune to Diveagar turned into a tragedy after eight students who had gone on a picnic drowned. Initial information suggests that all eight students drowned after entering the water."
+      "url": "https://www.indiatoday.in/world/story/putin-kaliningrad-nuclear-warning-russia-all-weapons-if-attacked-3007794-2026-10-02",
+      "headline": "Putin warns NATO of nuclear response if Russia's Kaliningrad comes under attackPutin said Russia would use all weapons at its disposal if Kaliningrad or other territory came under direct attack. The warning, delivered amid tensions over Ukraine, drew a NATO response that nuclear threats were unhelpful."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/election-commission-controversy-evm-paper-ballot-opposition-demand-itspc-3007497-2026-10-01",
+      "headline": "Ballot, babas and booth capturing. India needs these back, and nowOpposition parties are rightly demanding a return to paper ballots. India is a hard country, and only a soft country has faith in software."
     },
     {
       "sentiment": "positive",
@@ -220,9 +235,14 @@
       "headline": "India to open campaign vs Australia on October 7, face Pakistan on October 10The International Cricket Council (ICC) has announced the schedule for the 2027 Men's ODI World Cup, with group-stage action beginning on October 7 in Cape Town. The tournament will open with a repeat of the 2023 World Cup final as defending champions Australia take on India."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/flydubai-cockpit-attack-irgc-link-trump-says-iran-role-under-probe-3007786-2026-10-02",
+      "headline": "Trump hints Iran's IRGC 'could have been' behind flydubai cockpit attackDonald Trump said Iran's IRGC could have been linked to the cockpit attack on FlyDubai flight 1073. His warning to Tehran came as investigators examined the stabbing, steep altitude drop and possible terror links."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/election-commission-controversy-evm-paper-ballot-opposition-demand-itspc-3007497-2026-10-01",
-      "headline": "Ballot, babas and booth capturing. India needs these back, and nowOpposition parties are rightly demanding a return to paper ballots. India is a hard country, and only a soft country has faith in software."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-women-safety-four-reporters-document-staring-following-persistent-approaches-3007501-2026-10-01",
+      "headline": "The male gaze: How Delhi makes women calculate every man, every vehicle, every turnFour women reporters spent hours across Delhi documenting staring, following, propositioning and persistent approaches. Their observations show how ordinary public spaces can force women to assess every man, vehicle and turn."
     },
     {
       "sentiment": "positive",
@@ -231,8 +251,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/story/8-students-drown-during-pune-private-coaching-class-trip-to-raigads-diveagar-beach-7-bodies-found-3007580-2026-10-01",
+      "headline": "8 students drown during Pune coaching class trip to beach in Maharashtra's RaigadA private coaching class trip from Alandi in Pune to Diveagar turned into a tragedy after eight students who had gone on a picnic drowned. Initial information suggests that all eight students drowned after entering the water."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/flydubai-flight-fz1073-crash-axe-cockpit-security-rules-3007448-2026-10-01",
       "headline": "How did an axe come into flydubai cockpit? It was meant to be there. Here's whyAfter Israeli PM Benjamin Netanyahu said Indian captain Smit Machchhar of flydubai Flight FZ1073 might have been hit with an axe, questions arose over how such a weapon could have cleared Dubai airport security. But UAE aviation rules themselves require an aircraft of this size to carry a crash axe or crowbar. Here's why."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/fat-dog-of-delhi-winner-gola-crowned-after-viral-poll-and-offline-voting-prizes-3007678-2026-10-01",
+      "headline": "Delhi's fat dog election is over. Here's the winnerDelhi's viral 'Fat Dog of Delhi' contest saw 94,000 votes cast in the final round, with the late SDA dog Gola aka Rajpal Singh winning the title by a significant margin."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/flydubai-flight-incident-live-updates-dubai-tel-aviv-emergency-landing-saudi-arabia-omani-pilot-3006669-2026-09-30",
+      "headline": "Live: Donald Trump says flydubai co-pilot appears to be linked to Iranflydubai Flight Incident Live Updates: A flydubai flight from Dubai to Tel Aviv faced a terrifying mid-air ordeal on Wednesday after the co-pilot stabbed Indian pilot Captain Smit Machchhar in the cockpit and attempted to crash the aircraft. The plane plunged thousands of feet before Machchhar, despite being wounded, fought back, while a passenger restrained the attacker and another helped stabilise the aircraft. The flight was diverted to Saudi Arabia, with passengers and crew later returning safely to Israel the same day. Additionally, Israeli and Indian leaders hailed Machchhar as a hero for helping avert a potential disaster. The co-pilot was subsequently arrested, Israeli Prime Minister Benjamin Netanyahu said. Flydubai has launched an investigation. Follow this live blog for the latest updates on the flydubai flight incident."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/eiffel-tower-probe-clears-hindu-group-over-women-staff-row-no-explicit-request-made-by-baps-3007789-2026-10-02",
+      "headline": "No explicit request: Probe clears Hindu group over Eiffel Tower women staff rowA Paris investigation found female employees were removed or replaced during a BAPS delegation's visit to the Eiffel Tower. The report said a no-contact request was distorted through multiple levels, prompting protests and renewed questions over accountability."
     },
     {
       "sentiment": "positive",
@@ -241,8 +281,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-women-safety-four-reporters-document-staring-following-persistent-approaches-3007501-2026-10-01",
-      "headline": "The male gaze: How Delhi makes women calculate every man, every vehicle, every turnFour women reporters spent hours across Delhi documenting staring, following, propositioning and persistent approaches. Their observations show how ordinary public spaces can force women to assess every man, vehicle and turn."
+      "url": "https://www.indiatoday.in/education-today/news/story/cornell-rape-case-how-5-student-journalists-put-7-accused-men-on-the-record-3007485-2026-10-01",
+      "headline": "7 rape accused, a silent Ivy League: How 5 student journalists broke Cornell's silenceAt Cornell University, a student newspaper became central to a rape case after a civil lawsuit named seven accused. Here is how The Cornell Daily Sun reported the allegations, challenged the university's response, and why editor-in-chief Sophia Dasser's leadership matters as campus journalism confronts questions of safety, accountability and truth."
     },
     {
       "sentiment": "negative",
@@ -261,13 +301,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/fat-dog-of-delhi-winner-gola-crowned-after-viral-poll-and-offline-voting-prizes-3007678-2026-10-01",
-      "headline": "Delhi's fat dog election is over. Here's the winnerDelhi's viral 'Fat Dog of Delhi' contest saw 94,000 votes cast in the final round, with the late SDA dog Gola aka Rajpal Singh winning the title by a significant margin."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/flydubai-flight-incident-live-updates-dubai-tel-aviv-emergency-landing-saudi-arabia-omani-pilot-3006669-2026-09-30",
-      "headline": "Live: Donald Trump says flydubai co-pilot appears to be linked to Iranflydubai Flight Incident Live Updates: A flydubai flight from Dubai to Tel Aviv faced a terrifying mid-air ordeal on Wednesday after the co-pilot stabbed Indian pilot Captain Smit Machchhar in the cockpit and attempted to crash the aircraft. The plane plunged thousands of feet before Machchhar, despite being wounded, fought back, while a passenger restrained the attacker and another helped stabilise the aircraft. The flight was diverted to Saudi Arabia, with passengers and crew later returning safely to Israel the same day. Additionally, Israeli and Indian leaders hailed Machchhar as a hero for helping avert a potential disaster. The co-pilot was subsequently arrested, Israeli Prime Minister Benjamin Netanyahu said. Flydubai has launched an investigation. Follow this live blog for the latest updates on the flydubai flight incident."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/alia-bhatt-f1-racer-carlos-sainz-in-an-ad-after-cannes-film-festival-fans-cant-keep-calm-3007570-2026-10-01",
+      "headline": "Alia Bhatt, F1 racer Carlos Sainz in an ad after Cannes? Fans can't keep calmAlia Bhatt and Carlos Sainz have teamed up for a haircare advertisement now airing on Italian television. The unexpected Bollywood-Formula 1 crossover has sent fans into a loud social media frenzy."
     },
     {
       "sentiment": "negative",
@@ -278,41 +313,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/drishyam-3-advance-booking-crosses-rs-50-crore-ajay-devgn-eyes-record-start-3007750-2026-10-01",
       "headline": "Drishyam 3 advance booking crosses Rs 50 crore, Ajay Devgn eyes record startAjay Devgn's Drishyam 3: The Conclusion has crossed Rs 50 crore in domestic advance bookings before release. The response has kept the film on course for one of 2026's biggest Hindi openings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cornell-rape-case-how-5-student-journalists-put-7-accused-men-on-the-record-3007485-2026-10-01",
-      "headline": "7 rape accused, a silent Ivy League: How 5 student journalists broke Cornell's silenceAt Cornell University, a student newspaper became central to a rape case after a civil lawsuit named seven accused. Here is how The Cornell Daily Sun reported the allegations, challenged the university's response, and why editor-in-chief Sophia Dasser's leadership matters as campus journalism confronts questions of safety, accountability and truth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/yazdani-bakery-mumbai-renovation-closure-mundhe-effect-speculation-3006550-2026-10-01",
-      "headline": "Why is Mumbai's 70-year-old Yazdani Bakery closing down? The internet has a theoryMumbai's Yazdani Bakery has shut for renovations from September 29, after announcing the move on Instagram."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/british-counter-terrorism-police-arrest-uk-iranian-man-over-security-incident-at-us-used-airbase-in-england-3007753-2026-10-01",
-      "headline": "British police arrest UK-Iranian man over security incident at US airbase in EnglandBritish counter-terrorism police said the 27-year-old dual national was arrested in London as part of the investigation. A second British man, aged 26, was also questioned under caution, while detectives carried out searches at two properties."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/woman-heartbreaking-take-on-life-as-parents-remain-missing-after-nepal-floods-3007554-2026-10-01",
-      "headline": "Woman's heartbreaking take on life as parents remain missing after Nepal floodsTanvi's YouTube video came more than a month after her parents went missing while on the Kailash Mansarovar Yatra. They have remained untraceable since flash floods struck near the Nepal-Tibet border on August 26."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/alia-bhatt-f1-racer-carlos-sainz-in-an-ad-after-cannes-film-festival-fans-cant-keep-calm-3007570-2026-10-01",
-      "headline": "Alia Bhatt, F1 racer Carlos Sainz in an ad after Cannes? Fans can't keep calmAlia Bhatt and Carlos Sainz have teamed up for a haircare advertisement now airing on Italian television. The unexpected Bollywood-Formula 1 crossover has sent fans into a loud social media frenzy."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/hit-me-so-many-times-video-shows-injured-pilot-smit-machchhar-moments-after-flydubai-cockpit-attack-3007460-2026-10-01",
-      "headline": "He hit me so many times: Video shows Indian flydubai pilot moments after stabbingA video captures pilot Smit Machchhar injured in the moments after a flydubai cockpit attack. His remark that he was hit repeatedly brings the episode's severity into focus."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/sridhar-vembu-says-zoho-built-its-own-cloud-now-offering-it-free-to-students-3007124-2026-10-01",
-      "headline": "Sridhar Vembu says Zoho built its own cloud, now offering it free to studentsZoho co-founder Sridhar Vembu says the company built its own cloud infrastructure instead of relying on AWS or Google Cloud. Zoho is now opening the platform to developers through Catalyst and making it free for students."
     },
     {
       "sentiment": "positive",
@@ -504,7 +504,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
@@ -569,7 +569,7 @@
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/19850615-biec-employees-left-jobless-as-bihar-cm-bindeshwari-dubey-scraps-council-770120-2013-12-15",
       "headline": "Confusion reignsBindeshwari Dubey Government, despite its oft-repeated announcements of steps to improve the state's education system, suddenly scrapped the Bihar Intermediate Education Council set up in 1980 by the Jagannath Mishra government through an ordinance."
     },
