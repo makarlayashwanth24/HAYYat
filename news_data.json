@@ -104,6 +104,36 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ektaa-kapoor-confirms-the-dirty-picture-2-says-sequel-will-tell-a-new-story-3015106-2026-10-11",
+      "headline": "Ektaa Kapoor confirms The Dirty Picture 2, says sequel will tell a new story Producer Ektaa Kapoor has confirmed that The Dirty Picture 2 is in the works after 15 years. The sequel will again follow one person's story, with its lead and cast still undisclosed."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-part-one-release-date-advance-bookings-tickets-ranbir-kapoor-film-3015078-2026-10-11",
+      "headline": "Ramayana Part 1 release date out: When can you book tickets for Ranbir's film? The makers of Ranbir Kapoor's Ramayana have cleared the confusion around the film's worldwide release plan. Advance bookings for Ramayana: Part One will open on Dussehra."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nana-patekar-autopsy-report-heart-attack-left-main-coronary-artery-clot-3015013-2026-10-11",
+      "headline": "Nana Patekar died of heart attack after artery blockage, autopsy confirms Nana Patekar died of a heart attack caused by a blood clot in a coronary artery, the autopsy report confirmed. The 75-year-old actor was declared dead on October 8."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/vijay-varma-huma-qureshi-sonakshi-sinha-anurag-kashyap-react-to-electoral-protests-dissent-is-not-anti-national-3014970-2026-10-11",
+      "headline": "Dissent is not anti-national: Celebs react to protest crackdown Actors Vijay Varma, Huma Qureshi, Sonakshi Sinha and filmmaker Anurag Kashyap reacted to protests over alleged electoral irregularities. Their posts took aim at those in power and called for accountability."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/carrie-review-summer-h-howell-brings-fresh-blood-to-stephen-kings-classic-3014774-2026-10-11",
+      "headline": "Carrie review: Summer H Howell brings fresh blood to Stephen King's classicRelease Date:Wed Oct 07, 2026 Mike Flanagan's Carrie reworks Stephen King's story as a teen drama shaped by grief, bullying and power. The series is less interested in shocks than in how isolation and humiliation push a young girl towards rage."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/gaurav-khanna-lord-shri-ram-agra-event-viral-video-fan-social-media-reactions-3014881-2026-10-11",
+      "headline": "Gaurav Khanna's divine transformation into Lord Shri Ram takes over the internet Actor Gaurav Khanna played Lord Shri Ram for the first time in a stage performance of the Ramayana in Agra. Fans praised his portrayal, and clips of his performance are going viral on social media."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/rise-and-fall-2-tej-pratap-gets-emotional-as-parents-lalu-yadav-rabri-devi-call-him-3014835-2026-10-11",
       "headline": "Tej Pratap gets emotional as Lalu Yadav, Rabri Devi call him on Rise & Fall 2 Tej Pratap Yadav turned emotional on Rise & Fall Season 2 after Virender Sehwag surprised him with a video call from parents Lalu Prasad Yadav and Rabri Devi. The call brought a heartfelt moment to the show as Tej checked on his father's health."
     },
@@ -166,43 +196,38 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/rajkummar-rao-ujjwal-nikam-prahaar-the-untold-story-gained-weight-studied-courtroom-videos-challenges-3014453-2026-10-10",
       "headline": "Rajkummar Rao didn't meet Ujjwal Nikam before Prahaar. Here's how he played the role At the India Today Conclave Mumbai 2026, actor Rajkummar Rao said he studied archival footage and gained weight to play Ujjwal Nikam in Prahaar. He said the courtroom scenes were emotionally overwhelming and made the cast feel as if they were reliving the events."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/shobhinaw-satyaa-captain-smit-machchhar-hanuman-chalisa-flydubai-cockpit-attack-3014384-2026-10-10",
-      "headline": "Shobhinaw Satyaa says Captain Smit Machchhar's Hanuman Chalisa act revived faith Hanuman Ansh actor Shobhinaw Satyaa praised Captain Smit Machchhar for reciting the Hanuman Chalisa during a cockpit attack at the India Today Mumbai Conclave 2026. He said the account reinforced faith and showed that acts of courage still endure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shobhinaw-satya-hanuman-ansh-neeb-karoli-baba-role-casting-story-india-today-conclave-mumbai-3014382-2026-10-10",
-      "headline": "Shobhinaw Satyaa wasn't the first choice for Hanuman Ansh. Here's what changed At India Today Conclave Mumbai 2026, Shobhinaw Satyaa recalled how he went from assistant director to playing Neeb Karoli Baba in Hanuman Ansh. He said the film's success changed his life and drew emotional responses from viewers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/karan-johar-to-start-another-koffee-with-karan-like-chat-show-after-finale-3014280-2026-10-10",
-      "headline": "Karan Johar to start another Koffee With Karan-like chat show after finale Karan Johar is reportedly planning a new celebrity chat show after Koffee with Karan ends with Season 9. The filmmaker is exploring an original format under his production banner."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/rise-and-fall-season-2-wildcard-entries-rishabh-jaiswal-jashwanth-bopanna-sonam-malik-3014207-2026-10-10",
-      "headline": "Rishabh Jaiswal to Jashwanth Bopanna, meet Rise and Fall 2's new wildcards Rishabh Jaiswal, Jashwanth Bopanna and Sonam Malik are entering Rise and Fall Season 2 as wildcard contestants. Their arrival comes as Shehzad Poonawalla's calls and nomination clashes unsettle the Tower."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-blown-away-by-dorothy-his-praise-leaves-karthik-subbaraj-flying-3014149-2026-10-10",
-      "headline": "Rajinikanth blown away by Dorothy, his praise leaves Karthik Subbaraj 'flying' Rajinikanth had plenty to say about Dorothy when he met director Karthik Subbaraj and actors Rishikanth and Sananth. He spent an hour discussing the film, with Subbaraj later sharing the superstar's praise online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/faisal-shaikh-confirms-wedding-influencer-shares-pictures-from-madinah-nikah-3014123-2026-10-10",
-      "headline": "Influencer Faisal Shaikh confirms wedding, shares pictures from Madinah nikah Social media influencer Mr Faisu has confirmed his wedding and shared dreamy pictures from his nikah in Madinah, Saudi Arabia. He also asked fans to keep the couple in their prayers as they begin a new chapter."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cji-surya-kant-rejects-india-bloc-leaders-meeting-request-ahead-of-their-march-to-sc-over-vote-chori-3015129-2026-10-11",
+      "headline": "Chief Justice rejects INDIA bloc leaders' meeting request ahead of march to SCCongress MP Rahul Gandhi had announced that Opposition leaders would march to the Supreme Court on Monday, October 12, and submit a memorandum to the Chief Justice on behalf of the country."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/kochi/story/kerala-crash-near-kochi-airport-mini-cooper-hits-scooter-3-students-killed-3015085-2026-10-11",
+      "headline": "3 dead after speeding Mini Cooper rams scooter, driver says father will handle itA speeding Mini Cooper rammed a scooter near Kochi airport, killing three students. Police have detained the driver and are awaiting test results as they probe suspected intoxication."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/riyadh-airport-attack-hyderabad-it-professional-killed-family-injured-umrah-trip-3015117-2026-10-11",
+      "headline": "Indian killed in Riyadh attack was at airport kiosk with family, en route to MedinaMohammed Yousuf died after a projectile struck Riyadh's King Khalid International Airport while his family was travelling to Madinah for Umrah. The Indian embassy has promised assistance as his wife and three children remain in hospital."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/delhi-police-release-video-of-dipke-being-told-of-grandmothers-death-in-detention-cops-offering-help-3014885-2026-10-11",
-      "headline": "Delhi Police release video of Dipke being told of grandmother's death in detentionDipke's paternal grandmother, Savitribai Shankarrao Dipke, 85, died after a prolonged illness in Maharashtra's Hingoli district on Saturday."
+      "headline": "Dipke grandmother's passing: Delhi Police nails CJP's lieDipke's paternal grandmother, Savitribai Shankarrao Dipke, 85, died after a prolonged illness in Maharashtra's Hingoli district on Saturday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-meets-rahul-gandhi-and-pm-modi-congress-alliance-centre-outreach-3015053-2026-10-11",
+      "headline": "Coffee with Rahul, metro ride with PM: CM Vijay's weekend balancing actLunch with Rahul Gandhi on Saturday, a Metro ride with Prime Minister Narendra Modi on Sunday. C Joseph Vijay's engagements over the weekend offered a snapshot of the political balancing act facing Tamil Nadu's new Chief Minister."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-west-indies-indore-t20i-bowling-abhishek-sharma-arshdeep-singh-3015100-2026-10-11",
+      "headline": "India put Ranchi horror behind, regain T20I series lead with bowling revival in IndoreIND vs WI, 3rd T20I: Shreyas Iyer's India beat West Indies by 14 runs at the Holkar Stadium in Indore to take a 2-1 lead in the five-match series. Defending 223, the hosts restricted the Caribbean team to 209 on the back of a much-improved bowling performance."
     },
     {
       "sentiment": "positive",
@@ -210,34 +235,9 @@
       "headline": "Power bank catches fire mid-air, Delhi-Chennai IndiGo flight diverted to HyderabadAn IndiGo flight from Delhi to Chennai was diverted to Hyderabad after a passenger's power bank reportedly caught fire onboard. The cabin crew used a fire extinguisher to control the fire. Further details are awaited."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-seeks-govt-response-illegal-detentions-delhi-protest-crackdown-special-hearing-cjp-stir-cec-gyanesh-kumar-3014674-2026-10-11",
-      "headline": "No illegal detention of those gathering peacefully: Supreme Court's big orderThe Supreme Court asked the government to answer claims of illegal detentions and police excess during Delhi protests against CEC Gyanesh Kumar. It ordered a review of barricading, called for normal Metro and rail services unless restrictions are necessary, and issued notices to the Home Secretary, Delhi Police Commissioner and DMRC in contempt proceedings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cjp-protest-live-updates-delhi-jantar-mantar-sir-chief-election-commissioner-gyanesh-kumar-cockroach-janta-party-abhijeet-dipke-saurav-das-ashutosh-ranka-ajinkya-shinde-congress-bjp-aap-detain-delhi-3014559-2026-10-11",
-      "headline": "Live: CJP didn't follow conditions while seeking nod for protest, says Delhi PoliceCJP Jantar Mantar Protest Live Updates: The Supreme Court on Sunday directed authorities to review all barricading across Delhi, saying peaceful, unarmed protesters cannot be detained except in accordance with the \"procedure established by law\". It also ordered that metro and railway services operate normally, internet connectivity remain undisturbed and free movement be restored. The directions come amid Saturday's police crackdown on the CJP protest demanding Chief Election Commissioner Gyanesh Kumar's resignation over alleged SIR 'irregularities'. CJP founder Abhijeet Dipke and co-convenors Saurav Das and Ashutosh Ranka have been released after nearly 24 hours in detention, while Congress president Mallikarjun Kharge said INDIA bloc leaders would meet Chief Justice of India Surya Kant on Monday over the detentions. Delhi Demonstrations are planned in Mumbai and Lucknow as the CJP vows to continue its agitation. I, Prateek Chakraborty, will bring you the latest legal developments, political reactions and ground reports."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-news-pakistan-news-khyber-pakhtunkhwa-cm-sohail-afridi-pti-long-march-2026-itspc-3014726-2026-10-11",
-      "headline": "Pak imposes emergency in Pathan heartland KP, ousts Imran Khan's last PTI govtPakistan's Shehbaz Sharif government has imposed emergency rule in the Pathan heartland of Khyber Pakhtunkhwa, ousting Imran Khan's PTI from its last remaining provincial government amid a planned protest march. The KP governor has warned protesters of an 'iron hand' crackdown, while PTI has condemned the move as undemocratic and warned of further instability."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/chennai-metro-phase-2-vijay-metro-approvals-5100-crore-education-funds-pm-modi-3014770-2026-10-11",
-      "headline": "From new metro links to river linking: CM Vijay lists his demands before PM ModiEarlier in the day, PM Modi inaugurated the 15-km Poonamallee Bypass\u2013Vadapalani section of Chennai Metro's Phase II, built at a cost of around Rs 4,900 crore, and took a train ride with Vijay."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/houthis-warn-airlines-avoid-saudi-airports-riyadh-airport-strike-killed-third-attack-week-3014842-2026-10-11",
-      "headline": "Stay away from Saudi airports: Houthis warn airlines after striking Riyadh airportYemen's Houthis warned airlines, travellers and airport staff to avoid Saudi airports a day after a deadly Houthi strike on Riyadh airport killed 12 people. The warning came as fighting between Saudi forces and Houthis escalated and airport operations were suspended."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/ukraine-russia-energy-strikes-zelenskyy-refinery-halt-trump-diesel-row-3014862-2026-10-11",
-      "headline": "Trump tells Ukraine to end refinery attacks, Zelenskyy says Russia must stop tooOn Saturday, Trump blamed Ukrainian strikes on Russian refineries for higher US diesel prices and said Zelenskyy had \"better damn well stop\". He also suggested that Ukraine replace its president, accusing him of missing opportunities to reach a deal with Moscow."
+      "url": "https://www.indiatoday.in/india/story/john-brittas-assault-video-cpim-alleges-police-manhandling-delhi-protest-3014984-2026-10-11",
+      "headline": "MP John Brittas claims he was assaulted inside police vehicle, dumped by roadsideCPI(M) shared a video after Rajya Sabha MP John Brittas alleged he was manhandled by police during protests in Delhi. The footage and his account have sharpened criticism of detentions linked to demonstrations against Chief Election Commissioner Gyanesh Kumar."
     },
     {
       "sentiment": "positive",
@@ -251,13 +251,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kapil-sibal-questions-detentions-at-jantar-mantar-protest-demanding-cec-gyanesh-kumar-resignation-ptag-3014369-2026-10-11",
-      "headline": "Kapil Sibal says he's tired of approaching SC, court vows to win back his faithThe Supreme Court vowed to restore Kapil Sibal's faith in the institution after the senior advocate said at a press conference a day earlier that he was tired of approaching the court and questioned whether there was any point in doing so."
+      "url": "https://www.indiatoday.in/world/story/khyber-pakhtunkhwa-emergency-pakistan-puts-ex-cm-under-house-arrest-pti-leaders-detained-troops-deployed-3015020-2026-10-11",
+      "headline": "Emergency in Khyber Pakhtunkhwa: Ex-CM under house arrest, PTI leaders detainedPakistan imposed emergency rule in Khyber Pakhtunkhwa and moved against PTI leaders within hours. The step has sharpened the government's confrontation with the Iran Khan's party's elected party over security and autonomy."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/photos-pm-modi-inaugurates-chennai-metro-stretch-worth-rs-4900-crore-rides-train-cm-vijay-visuals-3014581-2026-10-11",
-      "headline": "PM launches Chennai Metro stretch worth Rs 4,900 crore, takes ride with CM VijayThe inauguration was part of PM Modi's Chennai visit, during which development projects worth more than Rs 13,000 crore are being inaugurated across transport, highways, ports, petroleum and education. He was accompanied by Tamil Nadu Chief Minister Vijay for many of these events."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-news-pakistan-news-khyber-pakhtunkhwa-cm-sohail-afridi-pti-long-march-2026-itspc-3014726-2026-10-11",
+      "headline": "Pak imposes emergency in Pathan heartland KP, ousts Imran Khan's last PTI govtPakistan's Shehbaz Sharif government has imposed emergency rule in the Pathan heartland of Khyber Pakhtunkhwa, ousting Imran Khan's PTI from its last remaining provincial government amid a planned protest march. The KP governor has warned protesters of an 'iron hand' crackdown, while PTI has condemned the move as undemocratic and warned of further instability."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/iaf-chief-says-no-official-us-offer-for-f-35-to-india-su-57-decision-pending-ptag-3014343-2026-10-11",
-      "headline": "You talk of selling us F-35, but won't let us near one: IAF chief ribs US commanderSpeaking alongside US Pacific Air Forces chief General Kevin Schneider, AP Singh said Washington had made no official offer to sell F-35 jets to India, quipping, \"Your people don't even let us go near the aircraft, and you are talking about selling it to us.\""
+      "url": "https://www.indiatoday.in/world/story/zelenskyy-ready-to-hold-ukraine-elections-if-putin-agrees-to-60-day-ceasefire-3014972-2026-10-11",
+      "headline": "Zelenskyy ready to hold Ukraine elections if Putin agrees to 60-day ceasefireVolodymyr Zelenskyy said Ukraine could hold elections if Vladimir Putin agrees to a 60-day ceasefire. He also said Kyiv could pause refinery strikes if Moscow stops attacking Ukraine's energy infrastructure."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/abhijeet-dipke-ashutosh-ranka-saurav-das-preventive-detention-cjp-jantar-mantar-protest-march-3014572-2026-10-11",
-      "headline": "CJP's Dipke, Das, Ranka released on condition of maintaining peace for a yearThe three CJP leaders were detained by Delhi Police on Saturday ahead of their planned protest demanding the resignation of Chief Election Commissioner Gyanesh Kumar. After remaining in detention overnight, they were produced before a court on Sunday morning and subsequently released."
+      "url": "https://www.indiatoday.in/world/story/trump-announces-energy-ceasefire-between-russia-and-ukraine-warns-both-sides-against-breaking-it-3015016-2026-10-11",
+      "headline": "Trump announces Russia-Ukraine energy truce, Zelenskyy asks when it was negotiatedUS President Donald Trump said Russia and Ukraine had agreed to an immediate halt to attacks on each other's energy infrastructure, warning both sides against breaking the \"energy ceasefire\"."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-protest-detentions-journalists-press-ids-police-buses-cjp-gen-z-jantar-mantar-itspc-3014478-2026-10-11",
-      "headline": "Delhi's detention buses took all, protesters, journalists, even office workersAs police detained protesters in central Delhi, journalists with press IDs and even office workers were put on buses and taken away from central Delhi. The day laid bare how access and movement remained precarious amid barricades, shutdowns and heavy deployment."
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-seeks-govt-response-illegal-detentions-delhi-protest-crackdown-special-hearing-cjp-stir-cec-gyanesh-kumar-3014674-2026-10-11",
+      "headline": "No illegal detention of those gathering peacefully: Supreme Court's big orderThe Supreme Court asked the government to answer claims of illegal detentions and police excess during Delhi protests against CEC Gyanesh Kumar. It ordered a review of barricading, called for normal Metro and rail services unless restrictions are necessary, and issued notices to the Home Secretary, Delhi Police Commissioner and DMRC in contempt proceedings."
     },
     {
       "sentiment": "negative",
@@ -290,14 +290,14 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/migrant-boat-capsizes-off-djibouti-109-dead-116-missing-en-route-to-yemen-3014775-2026-10-11",
-      "headline": "At least 109 dead, 116 missing as migrant boat capsizes off Djibouti en route to YemenA boat carrying around 350 migrants from Djibouti to Yemen overturned near Guhere on the night of October 8 and 9. The disaster left at least 109 dead, more than 116 missing and over 80 Ethiopian survivors."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/iit-kanpur-protest-indranil-manna-recalls-ashutosh-ranka-three-day-standoff-3014740-2026-10-11",
+      "headline": "From IIT Kanpur to Jantar Mantar: CJP's Ashutosh Ranka had done it beforeFormer IIT Kanpur director Indranil Manna recalled a three-day confrontation with student leader Ashutosh Ranka after a student's death on campus. He said the episode showed why institutes must hear protests but act on inquiry-led facts, not crowd pressure."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dhruv-rathee-first-reaction-after-after-being-released-from-detention-by-delhi-police-3014654-2026-10-11",
-      "headline": "Sent goons to kidnap me: Dhruv Rathee speaks out after release from detentionIn a video statement, Dhruv Rathee also sought to clear up widespread confusion around his citizenship status. He held up an Indian passport as he bashed a section of the mainstream media for spreading what he described as 'rumours' regarding his nationality."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nana-patekar-autopsy-report-heart-attack-left-main-coronary-artery-clot-3015013-2026-10-11",
+      "headline": "Nana Patekar died of heart attack after artery blockage, autopsy confirmsNana Patekar died of a heart attack caused by a blood clot in a coronary artery, the autopsy report confirmed. The 75-year-old actor was declared dead on October 8."
     },
     {
       "sentiment": "negative",
@@ -306,70 +306,135 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-kanpur-protest-indranil-manna-recalls-ashutosh-ranka-three-day-standoff-3014740-2026-10-11",
-      "headline": "From IIT Kanpur to Jantar Mantar: CJP's Ashutosh Ranka had done it beforeFormer IIT Kanpur director Indranil Manna recalled a three-day confrontation with student leader Ashutosh Ranka after a student's death on campus. He said the episode showed why institutes must hear protests but act on inquiry-led facts, not crowd pressure."
+      "url": "https://www.indiatoday.in/india/story/karti-chidambaram-tvk-mla-r-pallavi-row-over-infant-at-public-events-3015057-2026-10-11",
+      "headline": "Showmanship: Karti Chidambaram jabs TVK MLA for bringing infant to public eventsCongress MP Karti P Chidambaram criticised TVK MLA R Pallavi for repeatedly bringing her infant to public events. The remarks have revived debate over childcare, political optics and support for elected representatives with young children."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/monsoon-over-so-why-is-it-raining-in-punjab-and-uttarakhand-satellite-pics-reveal-3015086-2026-10-11",
+      "headline": "Satellite images reveal why it's raining over Punjab and UttarakhandFresh rain and thunderstorms are sweeping parts of Punjab, Uttarakhand and Himachal Pradesh despite the monsoon withdrawal. The spell is being driven by a Western Disturbance and linked troughs, with more rain forecast over the coming days."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/education-today/news/story/how-an-iit-madras-student-with-little-coding-experience-got-selected-for-a-university-of-tokyo-ai-lab-3014626-2026-10-11",
       "headline": "He started with Physical Science. Now, IIT Madras student eyes AI research in JapanIIT Madras BS student Shudhanshu Kumar Yadav, who began with Physical Science and little coding experience, has secured internships in India and selections at the University of Tokyo and GCI World 2026. His journey shows structured learning and steady effort can open AI research paths."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/neha-bora-academic-journey-jnu-phd-scholar-aisa-president-student-activism-protests-3013956-2026-10-10",
-      "headline": "From university classrooms to student politics: Here's Neha Bora's academic journeyNeha Bora's public profile brings together her JNU research and her role as AISA national president. Her trajectory links academic work in performance studies with student campaigns on education and rights."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-west-indies-indore-t20i-bowling-abhishek-sharma-arshdeep-singh-3015100-2026-10-11",
+      "headline": "India put Ranchi horror behind, regain T20I series lead with bowling revival in Indore IND vs WI, 3rd T20I: Shreyas Iyer's India beat West Indies by 14 runs at the Holkar Stadium in Indore to take a 2-1 lead in the five-match series. Defending 223, the hosts restricted the Caribbean team to 209 on the back of a much-improved bowling performance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/maaya-rajeshwaran-revathi-wins-w35-lagos-title-youngest-indian-woman-sania-mirza-3015109-2026-10-11",
+      "headline": "Maaya Rajeshwaran breaks Sania Mirza's historic record with maiden pro singles title Maaya Rajeshwaran Revathi beat Celia Cervino Ruiz 6-4, 6-2 to win the W35 Lagos singles title in Portugal. The 17-year-old became the youngest Indian woman to claim a W35-level singles crown, eclipsing Sania Mirza's long-standing mark."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/tilak-varma-bizarre-run-out-india-vs-west-indies-third-t20i-video-3015065-2026-10-11",
+      "headline": "Watch: Tilak Varma suffers brain fade at wrong moment, falls to bizarre run-out Tilak Varma was bizarrely run out for 28 after a lapse in concentration saw him throw his wicket away during the third T20I against the West Indies at the Holkar Stadium in Indore on Sunday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/qinwen-zheng-china-open-title-mirra-andreeva-beijing-3015039-2026-10-11",
+      "headline": "Qinwen Zheng finds redemption at home with historic China Open title Olympic champion Qinwen Zheng defeated Mirra Andreeva 7-5, 6-4 to win her maiden China Open title, ending a nearly two-year wait for silverware and claiming her first WTA 1000 crown."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/max-verstappen-maiden-singapore-grand-prix-win-kimi-antonelli-title-race-3015043-2026-10-11",
+      "headline": "Verstappen wins maiden Singapore GP as Antonelli closes in on driver's championship Max Verstappen claimed his maiden Singapore Grand Prix victory after converting pole position into a dominant win. Charles Leclerc finished second, while Kimi Antonelli took third to extend his championship lead and move closer to his maiden Formula 1 title."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sa-vs-aus-1st-test-day-3-pat-cummins-steve-smith-david-bedingham-report-3015036-2026-10-11",
+      "headline": "Australia seize advantage on Day 3 as South Africa face uphill task at Durban Australia's bowling attack put South Africa under pressure on Day 3 of the first Test at Kingsmead, reducing the hosts to 238/8 at stumps. Pat Cummins took three wickets, while Steve Smith broke the Test record for most catches with his 222nd catch."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/kerala-blasters-2-0-win-inter-kashi-report-vibin-mohanan-andre-green-3015015-2026-10-11",
+      "headline": "Kerala Blasters begin new era with 2-0 win over Inter Kashi in ISL opener Kerala Blasters opened their new era under fresh ownership with a 2-0 win over Inter Kashi, as Vibin Mohanan's first-half strike and Andre Green's stoppage-time finish sealed three points. While the Blasters made a winning start, Inter Kashi's off-field turmoil continued to cast a shadow over their campaign despite flashes of promise in Pune."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-bitter-test-retirement-bcci-wasim-jaffer-3015008-2026-10-11",
+      "headline": "Virat Kohli was bitter over his Test exit, says former India cricketer Former India cricketer Wasim Jaffer believes Virat Kohli was bitter about how his Test retirement was handled. Jaffer said the star batter could have played more red-ball cricket and felt the circumstances surrounding his exit could have been managed better."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-abhishek-sharma-record-indore-t20i-3014971-2026-10-11",
+      "headline": "Abhishek scripts history with fastest 2,000 T20I runs, smashes 18-ball fifty Abhishek Sharma became the fastest batter to 2,000 T20I runs in terms of balls faced, reaching the milestone in 1,024 balls to break Suryakumar Yadav's record of 1,164 balls."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-services-vs-maharashtra-prithvi-shaw-ankit-bawne-century-opening-day-3014936-2026-10-11",
+      "headline": "Ranji Trophy: Prithvi Shaw fires, Ankit Bawne hits ton on Day 1 in Palam Prithvi Shaw's brisk 70 provided the early impetus before Ankit Bawne struck an unbeaten century to steer Maharashtra to 287/5 against Services in Palam on the opening day of the Ranji Trophy season."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/wfi-us-visa-refusal-indian-women-wrestlers-u23-world-championships-3014937-2026-10-11",
+      "headline": "WFI hopeful of US visa clearance for four women wrestlers ahead of U23 Worlds The WFI is hopeful the US Embassy will reconsider visa refusals for four Indian women wrestlers ahead of the U23 World Wrestling Championships in Las Vegas. Five Greco-Roman wrestlers were also denied visas over age and employment concerns."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-mohammed-shami-four-wickets-bengal-delhi-3014930-2026-10-11",
+      "headline": "Ranji Trophy roundup: Shami takes four wickets, three centuries scored on opening dayMohammed Shami claimed 4/30 as Bengal bowled Delhi out for 240 in the Ranji Trophy. Jammu and Kashmir's Rohit Sharma took five wickets against Madhya Pradesh, while Shikhar Mohan, Ankit Bawne and Gaurav Choudhary scored centuries."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-sri-lanka-2nd-t20i-live-updates-rawalpindi-sahibzada-farhan-3014928-2026-10-11",
+      "headline": "Pakistan vs Sri Lanka, 2nd T20I: Live Score and Updates from RawalpindiPAK vs SL, 2nd T20I Live Updates: Sri Lanka have won the toss and opted to field first in Rawalpindi. The visitors have made three changes while Pakistan brought in left-arm seamer Salman Mirza for Razaullah."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/pm-modi-host-india-asian-games-medallists-cricket-team-october-15-3014896-2026-10-11",
-      "headline": "PM Modi to host Asian Games medallists, cricketers on October 15 Prime Minister Narendra Modi will meet India's Asian Games contingent, cricketers and other medallists at his residence on October 15 at 4:30 pm. The meeting will bring together athletes who have represented the country and won medals in sport."
+      "headline": "PM Modi to host Asian Games medallists, cricketers on October 15Prime Minister Narendra Modi will meet India's Asian Games contingent, cricketers and other medallists at his residence on October 15 at 4:30 pm. The meeting will bring together athletes who have represented the country and won medals in sport."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/video/asian-games-gold-medallists-on-relay-win-hockey-glory-and-nari-shakti-ytvd-3014890-2026-10-11",
-      "headline": "Asian Games Gold Medallists On Relay Win, Hockey Glory And Nari Shakti Asian Games gold medallists Kiran, Prachi, and Navneet reflected on their historic victories and personal journeys at a special panel. Relay runners Kiran and Prachi, alongside teammates Vidya and Poovamma, reclaimed gold in the women's 4x400 metre relay, edging out China. Prachi shared how the team united from different states as one India, determined to raise the tricolour and play the national anthem. She also recalled having her police uniform measurements taken in anticipation of a deputy superintendent post pledged for gold winners. Kiran recounted her journey overcoming social discouragement and financial hardship by working shifts at a store to fund her athletics training. Indian women's hockey vice-captain Navneet highlighted the team's decisive gold victory against higher-ranked China, which confirmed qualification for the Los Angeles Olympics following the heartbreak of missing Paris. Navneet also made an appeal for sponsors to revive the Women's Hockey League."
+      "headline": "The India jersey gives us power: Relay, hockey teams share what gold means to themIndia's Asian Games gold medallists Kiran Pahal, Prachi Choudhury and women's hockey vice-captain Navneet Kaur reflected on their journeys at the India Today Conclave in Mumbai on October 9. The athletes recalled the pressure, determination and pride behind their golden moments in Nagoya, Japan. While the women's 4x400m relay quartet delivered India's only athletics gold at the Games, the hockey team's triumph underlined the growing strength of Indian women in sport."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-3rd-t20i-live-score-updates-indore-abhishek-samson-3014884-2026-10-11",
-      "headline": "3rd T20I Live Score: India look to recover in Indore after Ranchi runfest India (IND) vs West Indies (WI) 3rd T20I Live Updates: After the 501-run match in Ranchi, Shreyas Iyer's India will be desperate to draw level in the series in Indore."
+      "headline": "3rd T20I Live: Arshdeep leads India's bowling redemption in 14-run win at IndoreIndia (IND) vs West Indies (WI) 3rd T20I Live Updates: Arshdeep Singh pulled off a bowling masterclass in Indore as he led India's sensational bowling display to take down the West Indies and win by 14 runs to take a 2-1 series lead."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/udhayveer-sidhu-beats-christian-reitz-to-win-issf-world-cup-gold-in-cairo-3014875-2026-10-11",
-      "headline": "Udhayveer Sidhu beats Olympic medallist Reitz to win gold in ISSF World Cup India's Udhayveer Sidhu won gold in the men's 10m air pistol event at the ISSF World Cup Rifle/Pistol on Sunday, finishing with a score of 240.6 to beat Germany's Christian Reitz by 0.5 points. Udhayveer had earlier qualified for the final in fourth place with a score of 585-19x."
+      "headline": "Udhayveer Sidhu beats Olympic medallist Reitz to win gold in ISSF World CupIndia's Udhayveer Sidhu won gold in the men's 10m air pistol event at the ISSF World Cup Rifle/Pistol on Sunday, finishing with a score of 240.6 to beat Germany's Christian Reitz by 0.5 points. Udhayveer had earlier qualified for the final in fourth place with a score of 585-19x."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sobhana-mostary-century-vs-australia-bangladesh-women-record-partnership-3014868-2026-10-11",
-      "headline": "Sobhana Mostary becomes first Bangladesh woman with century vs Australia Sobhana Mostary made history by becoming the first Bangladesh woman to score an ODI century against Australia, smashing 118 off 134 balls in Brisbane. Her record 195-run partnership with Nigar Sultana Joty helped Bangladesh recover from 8/3, although Australia won by nine wickets."
+      "headline": "Sobhana Mostary becomes first Bangladesh woman with century vs AustraliaSobhana Mostary made history by becoming the first Bangladesh woman to score an ODI century against Australia, smashing 118 off 134 balls in Brisbane. Her record 195-run partnership with Nigar Sultana Joty helped Bangladesh recover from 8/3, although Australia won by nine wickets."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/steve-smith-test-catches-record-australia-star-joe-root-durban-3014772-2026-10-11",
-      "headline": "Smith rewrites Test record books, surpasses Root for most catches as fielder Steve Smith surpassed Joe Root to become the leading catcher among fielders in Test cricket, taking his tally to 221 catches against South Africa in Durban. However, after scoring just 25 in Australia's first innings, Smith will be looking to make amends with the bat in the second innings."
+      "headline": "Smith rewrites Test record books, surpasses Root for most catches as fielderSteve Smith surpassed Joe Root to become the leading catcher among fielders in Test cricket, taking his tally to 221 catches against South Africa in Durban. However, after scoring just 25 in Australia's first innings, Smith will be looking to make amends with the bat in the second innings."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-unicef-sachin-tendulkar-india-childrens-rights-girls-equality-3014756-2026-10-11",
-      "headline": "Smriti Mandhana joins UNICEF family, Sachin Tendulkar backs her mission for children Smriti Mandhana has joined UNICEF India as a celebrity advocate, pledging to promote children's rights, gender equality and equal opportunities for young girls, with Sachin Tendulkar welcoming her appointment."
+      "headline": "Smriti Mandhana joins UNICEF family, Sachin Tendulkar backs her mission for childrenSmriti Mandhana has joined UNICEF India as a celebrity advocate, pledging to promote children's rights, gender equality and equal opportunities for young girls, with Sachin Tendulkar welcoming her appointment."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-name-split-odi-squad-india-series-coach-rob-walter-reaction-3014735-2026-10-11",
-      "headline": "NZ vs IND: Coach Rob Walter explains split ODI squads, Finn Allen's new role New Zealand have split their squad for the ODI series against India to give Test players time to prepare for the red-ball series and test their squad depth ahead of the 2027 ODI World Cup."
+      "headline": "NZ vs IND: Coach Rob Walter explains split ODI squads, Finn Allen's new roleNew Zealand have split their squad for the ODI series against India to give Test players time to prepare for the red-ball series and test their squad depth ahead of the 2027 ODI World Cup."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-lockie-ferguson-unreal-talent-india-vs-new-zealand-3014728-2026-10-11",
-      "headline": "Vaibhav Sooryavanshi is an 'unreal talent': India wonderkid praised by NZ pacer Lockie Ferguson said he is looking forward to bowling to Vaibhav Sooryavanshi in New Zealand. The series will test whether the 15-year-old can carry his early promise into unfamiliar conditions."
+      "headline": "Vaibhav Sooryavanshi is an 'unreal talent': India wonderkid praised by NZ pacerLockie Ferguson said he is looking forward to bowling to Vaibhav Sooryavanshi in New Zealand. The series will test whether the 15-year-old can carry his early promise into unfamiliar conditions."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/matt-renshaw-breaks-virat-kohli-record-tail-enders-test-durban-3014715-2026-10-11",
-      "headline": "Matt Renshaw breaks Virat Kohli's decade-old record in Test cricket Matt Renshaw broke Virat Kohli's decade-old record for the most runs scored alongside tail-enders in a Test innings, scoring 174 runs with the lower order during his career-best 190 off 397 balls against South Africa in Durban."
+      "headline": "Matt Renshaw breaks Virat Kohli's decade-old record in Test cricketMatt Renshaw broke Virat Kohli's decade-old record for the most runs scored alongside tail-enders in a Test innings, scoring 174 runs with the lower order during his career-best 190 off 397 balls against South Africa in Durban."
     },
     {
       "sentiment": "positive",
@@ -405,71 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/rayo-vallecano-vs-athletic-bilbao-abandoned-paper-plane-protest-fans-3014591-2026-10-11",
       "headline": "When paper planes stopped football: Rayo Vallecano vs Athletic abandoned after protestsRayo Vallecano's home match against Athletic Bilbao was abandoned after supporters twice threw paper planes and rubber balls on to the pitch. The protest, aimed at president Raul Martin Presa, sharpened attention on the club's stadium and management troubles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-india-turmoil-administrative-crisis-asian-games-gold-medals-3014567-2026-10-11",
-      "headline": "Hockey India turmoil: Gold medals mask a growing administrative crisisIndia's men's and women's hockey teams have delivered historic Asian Games gold medals despite growing turmoil within Hockey India. But behind the success, a bitter power struggle, administrative uncertainty and a stalled league threaten the sport's long-term health."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-virender-sehwag-fearless-batting-india-vs-west-indies-t20i-3014564-2026-10-11",
-      "headline": "Vaibhav Sooryavanshi is like me, says Sehwag on fearless batting approachVirender Sehwag has backed Vaibhav Sooryavanshi's fearless batting approach, drawing comparisons with his own attacking style as the 15-year-old waits for an opportunity in India's ongoing T20I series against the West Indies."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/vinicius-junior-red-card-real-madrid-vs-villarreal-el-clasico-ban-risk-3014562-2026-10-11",
-      "headline": "Vinicius apologises after red card: Could Real Madrid star miss El Clasico?Vinicius Junior apologised to Real Madrid fans and teammates after his red card against Villarreal, but the controversy adds to a difficult season for the Brazilian. With a potential suspension looming, could he miss the crucial El Clasico against Barcelona?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-3rd-t20i-indore-preview-pitch-report-weather-forecast-predicted-xis-3014350-2026-10-11",
-      "headline": "After 500-run thriller, India's bowlers brace for another tough night in IndoreIND vs WI 3rd T20I: India's bowlers face another stern test against West Indies in the third T20I at Indore's batting-friendly Holkar Stadium. With spinners under pressure, short boundaries and dew could prove decisive as India look to improve their bowling execution after the high-scoring Ranchi clash."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-results-man-united-tottenham-arsenal-chelsea-wins-3014533-2026-10-11",
-      "headline": "Man United stumble again as 10-man Spurs snatch draw, Arsenal and Chelsea winManchester United dropped points after 10-man Tottenham snatched a late 1-1 draw at Old Trafford. Arsenal fought back to beat Leeds 2-1, while Chelsea thrashed Bournemouth 5-1 as the Premier League returned from the international break."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-portugal-return-disciplinary-proceedings-camp-exit-3014518-2026-10-10",
-      "headline": "Ronaldo wanted back by Portugal despite disciplinary proceedings over camp exitPortugal want Cristiano Ronaldo back despite opening disciplinary proceedings against the captain over his departure from the national team camp. Ronaldo has apologised and remains available for selection, with his punishment yet to be decided."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/kumkum-mohod-returns-asian-games-gold-chero-archers-first-apl-defeat-3014507-2026-10-10",
-      "headline": "Kumkum Mohod returns after Asian Games gold as Chero Archers fall in APL thrillerKumkum Mohod returned after her Asian Games gold-medal run as Chero Archers suffered their first Archery Premier League defeat, losing to Prithviraaj Yodhas after a dramatic sudden-death shoot-off in Hyderabad."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-miss-punjab-ranji-trophy-opener-vs-assam-3014465-2026-10-10",
-      "headline": "Shubman Gill to miss Punjab's Ranji Trophy season openerShubman Gill will miss Punjab's opening Ranji Trophy match against Assam but could feature against Chhattisgarh from October 18. The India captain may use the fixture to gain match practice ahead of the team's tour of New Zealand."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/formula-one/story/max-verstappen-singapore-grand-prix-sprint-win-50th-pole-kimi-antonelli-3014459-2026-10-10",
-      "headline": "Verstappen seals sprint win, takes pole in Singapore as Antonelli extends title leadMax Verstappen won the Singapore Grand Prix sprint and secured his 50th career pole, while Kimi Antonelli extended his championship lead over George Russell to 89 points ahead of Sunday's race."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/matt-renshaw-190-australia-vs-south-africa-first-test-durban-3014412-2026-10-10",
-      "headline": "Matt Renshaw's heroic 190 gives Australia upper hand in Durban TestSA vs AUS, 1st Test: Matt Renshaw smashed a career-best 190 off 397 balls to rescue Australia from 124 for six and guide them to 390 all out against South Africa in the Durban Test. South Africa reached 27 for one in reply before bad light halted play, leaving Australia with the upper hand."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-india-t20i-side-continuity-shane-watson-consistency-3014423-2026-10-10",
-      "headline": "KKR coach warns Gautam Gambhir's constant changes could hurt India's consistencyKKR coach Shane Watson believes Gautam Gambhir's constant chopping and changing is preventing India from reaching their full potential. He has called for greater continuity despite the team's strong record and recent T20I setbacks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/coco-gauff-racist-abuse-un-condemns-backlash-after-china-open-row-3014388-2026-10-10",
-      "headline": "Coco Gauff faces racial abuse at China Open, UN Human Rights condemns attacksThe UN Human Rights office condemned the racist online abuse directed at Coco Gauff following a controversial point in her China Open win over Sun Xinran. Gauff called out the abuse, while the incident renewed calls for stronger action against racism and sexism in sport."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-virender-sehwag-fearless-batting-india-3014361-2026-10-10",
-      "headline": "Sehwag sees a reflection of himself in Sooryavanshi: His thinking is similar to mineVirender Sehwag sees his fearless, attack-from-the-first-ball approach in teenage sensation Vaibhav Sooryavanshi and believes performance, not age, should determine a player's place in Indian cricket."
     }
   ],
   "education": [
