@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/bigg-boss-20-influencer-nakul-dhull-enters-salman-khan-show-as-a-wildcard-3015125-2026-10-11",
+      "headline": "Bigg Boss 20: Influencer Nakul Dhull enters Salman Khan's show as a wildcard Influencer Nakul Dhull entered Bigg Boss 20 as the second wildcard contestant on Weekend Ka Vaar. His arrival also revived attention on a viral prank video that had drawn backlash online."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ektaa-kapoor-confirms-the-dirty-picture-2-says-sequel-will-tell-a-new-story-3015106-2026-10-11",
       "headline": "Ektaa Kapoor confirms The Dirty Picture 2, says sequel will tell a new story Producer Ektaa Kapoor has confirmed that The Dirty Picture 2 is in the works after 15 years. The sequel will again follow one person's story, with its lead and cast still undisclosed."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ujjwal-nikam-reveals-conditions-set-for-rajkummar-rao-prahaar-makers-india-today-conclave-mumbai-3014456-2026-10-10",
       "headline": "Real names, no glorification: Ujjwal Nikam reveals conditions set for Prahaar makers At the India Today Conclave Mumbai 2026, Ujjwal Nikam revealed the conditions he set for the makers of Prahaar \u2013 The Ujjwal Nikam Story. He insisted on no character glorification and the use of real names."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rajkummar-rao-ujjwal-nikam-prahaar-the-untold-story-gained-weight-studied-courtroom-videos-challenges-3014453-2026-10-10",
-      "headline": "Rajkummar Rao didn't meet Ujjwal Nikam before Prahaar. Here's how he played the role At the India Today Conclave Mumbai 2026, actor Rajkummar Rao said he studied archival footage and gained weight to play Ujjwal Nikam in Prahaar. He said the courtroom scenes were emotionally overwhelming and made the cast feel as if they were reliving the events."
     }
   ],
   "general news": [
@@ -205,19 +205,19 @@
       "headline": "Chief Justice rejects INDIA bloc leaders' meeting request ahead of march to SCCongress MP Rahul Gandhi had announced that Opposition leaders would march to the Supreme Court on Monday, October 12, and submit a memorandum to the Chief Justice on behalf of the country."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/kochi/story/kerala-crash-near-kochi-airport-mini-cooper-hits-scooter-3-students-killed-3015085-2026-10-11",
-      "headline": "3 dead after speeding Mini Cooper rams scooter, driver says father will handle itA speeding Mini Cooper rammed a scooter near Kochi airport, killing three students. Police have detained the driver and are awaiting test results as they probe suspected intoxication."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/6-metro-stations-in-central-delhi-shut-from-6-am-to-4-pm-today-ahead-of-india-blocs-march-to-supreme-court-3015158-2026-10-12",
+      "headline": "Delhi Metro shuts 6 stations amid Opposition's march to Supreme Court todayDelhi Metro has shut entry and exit at six stations, including Rajiv Chowk and Central Secretariat, from 6 am to 4 pm on October 12 over security concerns. The restrictions come as Opposition parties plan a march to the Supreme Court against alleged \"vote chori\". Interchange facilities will remain available."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/riyadh-airport-attack-hyderabad-it-professional-killed-family-injured-umrah-trip-3015117-2026-10-11",
-      "headline": "Indian killed in Riyadh attack was at airport kiosk with family, en route to MedinaMohammed Yousuf died after a projectile struck Riyadh's King Khalid International Airport while his family was travelling to Madinah for Umrah. The Indian embassy has promised assistance as his wife and three children remain in hospital."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/saudi-arabia-dammam-airport-targeted-amid-fresh-houthis-attack-aviation-authority-says-3015153-2026-10-12",
+      "headline": "After Riyadh, Saudi Arabia's Dammam airport targeted in Houthi attackSaudi Arabia's General Authority of Civil Aviation (GACA) confirmed that King Fahd International Airport, located in the kingdom's Eastern Province, was targeted on Sunday evening, October 11."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/delhi-police-release-video-of-dipke-being-told-of-grandmothers-death-in-detention-cops-offering-help-3014885-2026-10-11",
-      "headline": "Dipke grandmother's passing: Delhi Police nails CJP's lieDipke's paternal grandmother, Savitribai Shankarrao Dipke, 85, died after a prolonged illness in Maharashtra's Hingoli district on Saturday."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/tukaram-mundhe-named-secretary-of-panel-to-revamp-maharashtra-civil-services-amid-stir-by-job-aspirants-3015144-2026-10-11",
+      "headline": "Tukaram Mundhe named secretary of panel to overhaul Maharashtra's MPSCThe Maharashtra government has formed a committee to reform MPSC, naming FDA Commissioner Tukaram Mundhe as secretary, amid a 10-day protest in Pune. The panel will examine recruitment reforms, while the government has promised to address aspirants' demands, including filling 70,000 posts."
     },
     {
       "sentiment": "positive",
@@ -226,13 +226,48 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-west-indies-indore-t20i-bowling-abhishek-sharma-arshdeep-singh-3015100-2026-10-11",
-      "headline": "India put Ranchi horror behind, regain T20I series lead with bowling revival in IndoreIND vs WI, 3rd T20I: Shreyas Iyer's India beat West Indies by 14 runs at the Holkar Stadium in Indore to take a 2-1 lead in the five-match series. Defending 223, the hosts restricted the Caribbean team to 209 on the back of a much-improved bowling performance."
+      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-reopening-iran-rejects-us-response-to-seven-conditions-3015151-2026-10-12",
+      "headline": "Insufficient: Iran rejects US response to 7 conditions for reopening Strait of HormuzMohsen Rezaei, Iran's security chief and secretary of the Supreme National Security Council, described the US response as \"insufficient\", according to Iranian state media on Sunday. He said Washington must clarify its position on issues that remain unclear to Tehran before any progress can be made."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/delhi-police-release-video-of-dipke-being-told-of-grandmothers-death-in-detention-cops-offering-help-3014885-2026-10-11",
+      "headline": "Dipke grandmother's passing: Delhi Police nails CJP's lieDipke's paternal grandmother, Savitribai Shankarrao Dipke, 85, died after a prolonged illness in Maharashtra's Hingoli district on Saturday."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/kochi/story/kerala-crash-near-kochi-airport-mini-cooper-hits-scooter-3-students-killed-3015085-2026-10-11",
+      "headline": "3 dead after speeding Mini Cooper rams scooter, driver says father will handle itA speeding Mini Cooper rammed a scooter near Kochi airport, killing three students. Police have detained the driver and are awaiting test results as they probe suspected intoxication."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/delhi-chennai-indigo-flight-makes-emergency-landing-in-hyderabad-after-power-bank-catches-fire-onboard-3014878-2026-10-11",
       "headline": "Power bank catches fire mid-air, Delhi-Chennai IndiGo flight diverted to HyderabadAn IndiGo flight from Delhi to Chennai was diverted to Hyderabad after a passenger's power bank reportedly caught fire onboard. The cabin crew used a fire extinguisher to control the fire. Further details are awaited."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/impact-feature/story/university-college-birmingham-15-million-hospitality-investment-cube-hotel-student-training-3002621-2026-09-25",
+      "headline": "UCB Acquires Former The Cube Hotel in \u00a315m Hospitality Education Investment ProgrammeThe acquisition of the former The Cube Hotel and Marco Pierre White restaurant marks the first stage of UCB's wider hospitality investment programme. The site is being redeveloped into a 52-bedroom hotel and restaurant in one of Birmingham's most distinctive landmarks."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/riyadh-airport-attack-hyderabad-it-professional-killed-family-injured-umrah-trip-3015117-2026-10-11",
+      "headline": "Indian killed in Riyadh attack was at airport kiosk with family, en route to MedinaMohammed Yousuf died after a projectile struck Riyadh's King Khalid International Airport while his family was travelling to Madinah for Umrah. The Indian embassy has promised assistance as his wife and three children remain in hospital."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/khyber-pakhtunkhwa-emergency-pakistan-puts-ex-cm-under-house-arrest-pti-leaders-detained-troops-deployed-3015020-2026-10-11",
+      "headline": "Emergency in Khyber Pakhtunkhwa: Ex-CM under house arrest, PTI leaders detainedPakistan imposed emergency rule in Khyber Pakhtunkhwa and moved against PTI leaders within hours. The step has sharpened the government's confrontation with the Iran Khan's party's elected party over security and autonomy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/noida/story/noida-grand-omaxe-unmuzzled-dog-mauls-pet-pug-to-death-cctv-3015132-2026-10-11",
+      "headline": "Video: Unmuzzled pet dog mauls pug to death in Noida societyA powerful-breed dog attacked a woman and mauled her pet pug to death during a morning walk in Noida's Grand Omaxe Society. The CCTV-captured incident has triggered safety concerns among residents, especially over children."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-west-indies-indore-t20i-bowling-abhishek-sharma-arshdeep-singh-3015100-2026-10-11",
+      "headline": "India put Ranchi horror behind, regain T20I series lead with bowling revival in IndoreIND vs WI, 3rd T20I: Shreyas Iyer's India beat West Indies by 14 runs at the Holkar Stadium in Indore to take a 2-1 lead in the five-match series. Defending 223, the hosts restricted the Caribbean team to 209 on the back of a much-improved bowling performance."
     },
     {
       "sentiment": "negative",
@@ -241,18 +276,13 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sunday-special/story/delhi-hydro-ganja-og-kush-shortage-premium-cannabis-prices-police-home-ministry-crackdown-itspc-3013951-2026-10-11",
+      "headline": "Rs 3,000 a gram, peddlers in hiding: Indian stoners panic as weed drought hitsHydroponic cannabis and premium OG Kush have become harder to find in Delhi, Mumbai and Kolkata. With police intensifying checks, the ganja shortage is giving India's underground weed market a serious buzzkill. Is it linked to the crackdown under Union Home Minister Amit Shah's Drug-Free India campaign?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/uttar-pradesh-congress-lucknow-clash-ajay-rai-seeks-action-against-mamta-chaudhary-3014796-2026-10-11",
       "headline": "Bouquets, shoes fly as Ajay Rai, Mamta Chaudhary factions clash at Congress eventSupporters of Ajay Rai and Mamta Chaudhary clashed at the Congress headquarters in Lucknow during the charge-taking programme of Aradhana Mishra and Imran Masood. The altercation, marked by slogans, shoes and a scuffle, prompted Rai to seek action against Chaudhary."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/university-college-birmingham-15-million-hospitality-investment-cube-hotel-student-training-3002621-2026-09-25",
-      "headline": "UCB Acquires Former The Cube Hotel in \u00a315m Hospitality Education Investment ProgrammeThe acquisition of the former The Cube Hotel and Marco Pierre White restaurant marks the first stage of UCB's wider hospitality investment programme. The site is being redeveloped into a 52-bedroom hotel and restaurant in one of Birmingham's most distinctive landmarks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/khyber-pakhtunkhwa-emergency-pakistan-puts-ex-cm-under-house-arrest-pti-leaders-detained-troops-deployed-3015020-2026-10-11",
-      "headline": "Emergency in Khyber Pakhtunkhwa: Ex-CM under house arrest, PTI leaders detainedPakistan imposed emergency rule in Khyber Pakhtunkhwa and moved against PTI leaders within hours. The step has sharpened the government's confrontation with the Iran Khan's party's elected party over security and autonomy."
     },
     {
       "sentiment": "negative",
@@ -261,18 +291,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/delhi-hydro-ganja-og-kush-shortage-premium-cannabis-prices-police-home-ministry-crackdown-itspc-3013951-2026-10-11",
-      "headline": "Rs 3,000 a gram, peddlers in hiding: Indian stoners panic as weed drought hitsHydroponic cannabis and premium OG Kush have become harder to find in Delhi, Mumbai and Kolkata. With police intensifying checks, the ganja shortage is giving India's underground weed market a serious buzzkill. Is it linked to the crackdown under Union Home Minister Amit Shah's Drug-Free India campaign?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/zelenskyy-ready-to-hold-ukraine-elections-if-putin-agrees-to-60-day-ceasefire-3014972-2026-10-11",
-      "headline": "Zelenskyy ready to hold Ukraine elections if Putin agrees to 60-day ceasefireVolodymyr Zelenskyy said Ukraine could hold elections if Vladimir Putin agrees to a 60-day ceasefire. He also said Kyiv could pause refinery strikes if Moscow stops attacking Ukraine's energy infrastructure."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/trump-announces-energy-ceasefire-between-russia-and-ukraine-warns-both-sides-against-breaking-it-3015016-2026-10-11",
       "headline": "Trump announces Russia-Ukraine energy truce, Zelenskyy asks when it was negotiatedUS President Donald Trump said Russia and Ukraine had agreed to an immediate halt to attacks on each other's energy infrastructure, warning both sides against breaking the \"energy ceasefire\"."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/greater-noida-delivery-riders-clash-over-online-order-near-tata-eureka-park-3015131-2026-10-11",
+      "headline": "Video: Delivery riders fight for order, chase and beat man in Greater Noida societyA dispute over an online delivery order led to a fight between riders near Tata Eureka Park in Greater Noida. The clash, captured on video and shared widely online, ended with police action against those involved."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/monsoon-over-so-why-is-it-raining-in-punjab-and-uttarakhand-satellite-pics-reveal-3015086-2026-10-11",
+      "headline": "Satellite images reveal why it's raining over Punjab and UttarakhandFresh rain and thunderstorms are sweeping parts of Punjab, Uttarakhand and Himachal Pradesh despite the monsoon withdrawal. The spell is being driven by a Western Disturbance and linked troughs, with more rain forecast over the coming days."
     },
     {
       "sentiment": "positive",
@@ -280,39 +310,9 @@
       "headline": "No illegal detention of those gathering peacefully: Supreme Court's big orderThe Supreme Court asked the government to answer claims of illegal detentions and police excess during Delhi protests against CEC Gyanesh Kumar. It ordered a review of barricading, called for normal Metro and rail services unless restrictions are necessary, and issued notices to the Home Secretary, Delhi Police Commissioner and DMRC in contempt proceedings."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/video/video-speeding-car-knocks-bike-from-under-man-sends-it-crashing-into-another-3014813-2026-10-11",
-      "headline": "Video: Speeding car knocks bike from under man, sends it crashing into another"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/trending/weekly-quiz-643-09-10-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/iit-kanpur-protest-indranil-manna-recalls-ashutosh-ranka-three-day-standoff-3014740-2026-10-11",
       "headline": "From IIT Kanpur to Jantar Mantar: CJP's Ashutosh Ranka had done it beforeFormer IIT Kanpur director Indranil Manna recalled a three-day confrontation with student leader Ashutosh Ranka after a student's death on campus. He said the episode showed why institutes must hear protests but act on inquiry-led facts, not crowd pressure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nana-patekar-autopsy-report-heart-attack-left-main-coronary-artery-clot-3015013-2026-10-11",
-      "headline": "Nana Patekar died of heart attack after artery blockage, autopsy confirmsNana Patekar died of a heart attack caused by a blood clot in a coronary artery, the autopsy report confirmed. The 75-year-old actor was declared dead on October 8."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/why-us-wants-to-livestream-nidal-hasan-firing-squad-execution-fort-hood-pete-hegseth-3013143-2026-10-11",
-      "headline": "Why US wants to livestream an execution by firing squad for the world to watchThe Pentagon plans to livestream the execution of Nidal Hasan by firing squad at Fort Hood, 17 years after he killed 13 people at the military base. US War Secretary Pete Hegseth has defended the plan as a deterrent, but it has drawn criticism from the Pope, the UN and senators across party lines, with one likening it to executions carried out by the Islamic State (IS)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/karti-chidambaram-tvk-mla-r-pallavi-row-over-infant-at-public-events-3015057-2026-10-11",
-      "headline": "Showmanship: Karti Chidambaram jabs TVK MLA for bringing infant to public eventsCongress MP Karti P Chidambaram criticised TVK MLA R Pallavi for repeatedly bringing her infant to public events. The remarks have revived debate over childcare, political optics and support for elected representatives with young children."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/monsoon-over-so-why-is-it-raining-in-punjab-and-uttarakhand-satellite-pics-reveal-3015086-2026-10-11",
-      "headline": "Satellite images reveal why it's raining over Punjab and UttarakhandFresh rain and thunderstorms are sweeping parts of Punjab, Uttarakhand and Himachal Pradesh despite the monsoon withdrawal. The spell is being driven by a Western Disturbance and linked troughs, with more rain forecast over the coming days."
     },
     {
       "sentiment": "negative",
@@ -321,6 +321,21 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-beat-sri-lanka-t20i-series-maaz-sadaqat-imran-randhawa-sahibzada-farhan-3015146-2026-10-12",
+      "headline": "Pakistan rout Sri Lanka to win T20I series after Maaz, Randhawa heroics Pakistan thrashed Sri Lanka by 82 runs in the second T20I in Rawalpindi to clinch the series with a match to spare. Maaz Sadaqat's explosive 96 and Mohammad Imran Randhawa's three-wicket haul powered Pakistan to a commanding victory."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/lewis-hamilton-unwell-misses-media-duties-singapore-grand-prix-2026-3015147-2026-10-12",
+      "headline": "Lewis Hamilton misses media duties after falling ill following Singapore GP Lewis Hamilton missed post-race media duties after feeling unwell following the Singapore Grand Prix. The Ferrari driver was assessed by the FIA medical team after a frustrating race in which a strategy error cost him a potential podium finish."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/man-city-beat-liverpool-3-0-anfield-haaland-doku-cherki-114-financial-breaches-report-3015145-2026-10-11",
+      "headline": "Man City turn Anfield boos into a 3-0 statement win vs Liverpool, extend unbeaten run Manchester City silenced Liverpool's Anfield crowd with a 3-0 Premier League win, extending their perfect start to six matches. Erling Haaland, Jeremy Doku and Rayan Cherki scored as City delivered a statement victory amid the fallout from their 114 financial breaches."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-west-indies-indore-t20i-bowling-abhishek-sharma-arshdeep-singh-3015100-2026-10-11",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-abhishek-sharma-record-indore-t20i-3014971-2026-10-11",
-      "headline": "Abhishek scripts history with fastest 2,000 T20I runs, smashes 18-ball fifty Abhishek Sharma became the fastest batter to 2,000 T20I runs in terms of balls faced, reaching the milestone in 1,024 balls to break Suryakumar Yadav's record of 1,164 balls."
+      "headline": "Abhishek scripts history with fastest 2,000 T20I runs, smashes 18-ball fiftyAbhishek Sharma became the fastest batter to 2,000 T20I runs in terms of balls faced, reaching the milestone in 1,024 balls to break Suryakumar Yadav's record of 1,164 balls."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-services-vs-maharashtra-prithvi-shaw-ankit-bawne-century-opening-day-3014936-2026-10-11",
-      "headline": "Ranji Trophy: Prithvi Shaw fires, Ankit Bawne hits ton on Day 1 in Palam Prithvi Shaw's brisk 70 provided the early impetus before Ankit Bawne struck an unbeaten century to steer Maharashtra to 287/5 against Services in Palam on the opening day of the Ranji Trophy season."
+      "headline": "Ranji Trophy: Prithvi Shaw fires, Ankit Bawne hits ton on Day 1 in PalamPrithvi Shaw's brisk 70 provided the early impetus before Ankit Bawne struck an unbeaten century to steer Maharashtra to 287/5 against Services in Palam on the opening day of the Ranji Trophy season."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/wfi-us-visa-refusal-indian-women-wrestlers-u23-world-championships-3014937-2026-10-11",
-      "headline": "WFI hopeful of US visa clearance for four women wrestlers ahead of U23 Worlds The WFI is hopeful the US Embassy will reconsider visa refusals for four Indian women wrestlers ahead of the U23 World Wrestling Championships in Las Vegas. Five Greco-Roman wrestlers were also denied visas over age and employment concerns."
+      "headline": "WFI hopeful of US visa clearance for four women wrestlers ahead of U23 WorldsThe WFI is hopeful the US Embassy will reconsider visa refusals for four Indian women wrestlers ahead of the U23 World Wrestling Championships in Las Vegas. Five Greco-Roman wrestlers were also denied visas over age and employment concerns."
     },
     {
       "sentiment": "positive",
@@ -384,7 +399,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-sri-lanka-2nd-t20i-live-updates-rawalpindi-sahibzada-farhan-3014928-2026-10-11",
-      "headline": "Pakistan vs Sri Lanka, 2nd T20I: Live Score and Updates from RawalpindiPAK vs SL, 2nd T20I Live Updates: Sri Lanka have won the toss and opted to field first in Rawalpindi. The visitors have made three changes while Pakistan brought in left-arm seamer Salman Mirza for Razaullah."
+      "headline": "Pakistan vs Sri Lanka, 2nd T20I: Highlights from RawalpindiPAK vs SL, 2nd T20I Highlights: Sri Lanka have won the toss and opted to field first in Rawalpindi. The visitors have made three changes while Pakistan brought in left-arm seamer Salman Mirza for Razaullah."
     },
     {
       "sentiment": "positive",
@@ -399,7 +414,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-3rd-t20i-live-score-updates-indore-abhishek-samson-3014884-2026-10-11",
-      "headline": "3rd T20I Live: Arshdeep leads India's bowling redemption in 14-run win at IndoreIndia (IND) vs West Indies (WI) 3rd T20I Live Updates: Arshdeep Singh pulled off a bowling masterclass in Indore as he led India's sensational bowling display to take down the West Indies and win by 14 runs to take a 2-1 series lead."
+      "headline": "3rd T20I Highlights: Arshdeep leads India's bowling redemption in 14-run win at IndoreIndia (IND) vs West Indies (WI) 3rd T20I Highlights: Arshdeep Singh pulled off a bowling masterclass in Indore as he led India's sensational bowling display to take down the West Indies and win by 14 runs to take a 2-1 series lead."
     },
     {
       "sentiment": "positive",
@@ -455,21 +470,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/arunachal-pradesh-ranji-trophy-opener-forfeited-state-cricket-body-crisis-3014643-2026-10-11",
       "headline": "Arunachal Pradesh forfeit Ranji Trophy opener after state cricket body crisisArunachal Pradesh forfeited their Ranji Trophy Plate Group opener against Nagaland amid an administrative dispute in the state cricket association. A court stay has left the body without a functioning authority, preventing the BCCI from intervening."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/indian-wrestling-stars-aman-antim-sujeet-nitesh-beyond-medals-3014624-2026-10-11",
-      "headline": "A teddy lover, foodie and milkman: India's new-gen wrestlers beyond the medalsIndia's wrestling contingent returned with six medals from the 2026 Asian Games, its best haul since 1962. Antim Panghal, Nitesh Siwach, Sujeet Kalkal and Aman Sehrawat lead the new generation, with the 2028 Los Angeles Olympics firmly in their sights."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-unveil-special-odi-jersey-india-series-100-years-sporting-ties-3014607-2026-10-11",
-      "headline": "New Zealand to wear special ODI jersey marking 100 years of ties with IndiaNew Zealand will sport a special jersey featuring Indian and Maori designs during their ODI series against India in November, as the two countries celebrate 100 years of sporting ties."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/rayo-vallecano-vs-athletic-bilbao-abandoned-paper-plane-protest-fans-3014591-2026-10-11",
-      "headline": "When paper planes stopped football: Rayo Vallecano vs Athletic abandoned after protestsRayo Vallecano's home match against Athletic Bilbao was abandoned after supporters twice threw paper planes and rubber balls on to the pitch. The protest, aimed at president Raul Martin Presa, sharpened attention on the club's stadium and management troubles."
     }
   ],
   "education": [
