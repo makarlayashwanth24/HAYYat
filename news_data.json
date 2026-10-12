@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/drishyam-3-box-office-collection-ajay-devgn-film-crosses-rs-480-crore-worldwide-rs-500-crore-global-mark-hanuman-ansh-3015162-2026-10-12",
+      "headline": "Drishyam 3 box office Day 10: Film beats Hanuman Ansh, nears Rs 500 crore globally Ajay Devgn's Drishyam 3: The Conclusion has crossed Rs 480.40 crore worldwide in 10 days. The run has pushed it to the second spot among 2026's highest-grossing Hindi films and made it Devgn's biggest global hit."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/bigg-boss-20-influencer-nakul-dhull-enters-salman-khan-show-as-a-wildcard-3015125-2026-10-11",
       "headline": "Bigg Boss 20: Influencer Nakul Dhull enters Salman Khan's show as a wildcard Influencer Nakul Dhull entered Bigg Boss 20 as the second wildcard contestant on Weekend Ka Vaar. His arrival also revived attention on a viral prank video that had drawn backlash online."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ujjwal-nikam-on-biopic-prahaar-i-certify-rajkummar-rao-completely-india-today-conclave-mumbai-2026-3014364-2026-10-10",
       "headline": "I certify Rajkummar Rao completely, says Ujjwal Nikam on biopic Prahaar Speaking at India Today Conclave Mumbai 2026, 26/11 trial prosecutor Ujjwal Nikam praised Rajkummar Rao's body language while portraying him in the upcoming biopic Prahaar: The Untold Story of Ujjwal Nikam."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ujjwal-nikam-reveals-conditions-set-for-rajkummar-rao-prahaar-makers-india-today-conclave-mumbai-3014456-2026-10-10",
-      "headline": "Real names, no glorification: Ujjwal Nikam reveals conditions set for Prahaar makers At the India Today Conclave Mumbai 2026, Ujjwal Nikam revealed the conditions he set for the makers of Prahaar \u2013 The Ujjwal Nikam Story. He insisted on no character glorification and the use of real names."
     }
   ],
   "general news": [
@@ -211,13 +211,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/saudi-arabia-dammam-airport-targeted-amid-fresh-houthis-attack-aviation-authority-says-3015153-2026-10-12",
-      "headline": "After Riyadh, Saudi Arabia's Dammam airport targeted in Houthi attackSaudi Arabia's General Authority of Civil Aviation (GACA) confirmed that King Fahd International Airport, located in the kingdom's Eastern Province, was targeted on Sunday evening, October 11."
+      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-reopening-iran-rejects-us-response-to-seven-conditions-3015151-2026-10-12",
+      "headline": "Insufficient: Iran rejects US response to 7 conditions for reopening Strait of HormuzMohsen Rezaei, Iran's security chief and secretary of the Supreme National Security Council, described the US response as \"insufficient\", according to Iranian state media on Sunday. He said Washington must clarify its position on issues that remain unclear to Tehran before any progress can be made."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tukaram-mundhe-named-secretary-of-panel-to-revamp-maharashtra-civil-services-amid-stir-by-job-aspirants-3015144-2026-10-11",
-      "headline": "Tukaram Mundhe named secretary of panel to overhaul Maharashtra's MPSCThe Maharashtra government has formed a committee to reform MPSC, naming FDA Commissioner Tukaram Mundhe as secretary, amid a 10-day protest in Pune. The panel will examine recruitment reforms, while the government has promised to address aspirants' demands, including filling 70,000 posts."
+      "url": "https://www.indiatoday.in/world/story/riyadh-airport-attack-kills-one-after-deadly-houthi-strike-dammam-also-hit-3015163-2026-10-12",
+      "headline": "One killed, 11 injured in fresh attack on Riyadh airport after deadly Houthi strikeA fresh projectile attack on Riyadh airport killed one person and injured 11 on Sunday. The strike deepened security concerns as the Houthis claimed wider attacks and travel warnings followed."
     },
     {
       "sentiment": "positive",
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-reopening-iran-rejects-us-response-to-seven-conditions-3015151-2026-10-12",
-      "headline": "Insufficient: Iran rejects US response to 7 conditions for reopening Strait of HormuzMohsen Rezaei, Iran's security chief and secretary of the Supreme National Security Council, described the US response as \"insufficient\", according to Iranian state media on Sunday. He said Washington must clarify its position on issues that remain unclear to Tehran before any progress can be made."
+      "url": "https://www.indiatoday.in/india/story/tukaram-mundhe-named-secretary-of-panel-to-revamp-maharashtra-civil-services-amid-stir-by-job-aspirants-3015144-2026-10-11",
+      "headline": "Tukaram Mundhe named secretary of panel to overhaul Maharashtra's MPSCThe Maharashtra government has formed a committee to reform MPSC, naming FDA Commissioner Tukaram Mundhe as secretary, amid a 10-day protest in Pune. The panel will examine recruitment reforms, while the government has promised to address aspirants' demands, including filling 70,000 posts."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/delhi-police-release-video-of-dipke-being-told-of-grandmothers-death-in-detention-cops-offering-help-3014885-2026-10-11",
-      "headline": "Dipke grandmother's passing: Delhi Police nails CJP's lieDipke's paternal grandmother, Savitribai Shankarrao Dipke, 85, died after a prolonged illness in Maharashtra's Hingoli district on Saturday."
+      "url": "https://www.indiatoday.in/science/story/moderate-to-heavy-rainfall-accompanied-by-thunderstorms-hits-parts-of-delhi-ncr-3015161-2026-10-12",
+      "headline": "Heavy rain batters Delhi-NCR, IMD issues red alert; flight ops remain normalRain lashed parts of Delhi-NCR as the IMD issued a red alert for rain and thunderstorms. A western disturbance has affected weather conditions across northern India, triggering showers."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/kochi/story/kerala-crash-near-kochi-airport-mini-cooper-hits-scooter-3-students-killed-3015085-2026-10-11",
-      "headline": "3 dead after speeding Mini Cooper rams scooter, driver says father will handle itA speeding Mini Cooper rammed a scooter near Kochi airport, killing three students. Police have detained the driver and are awaiting test results as they probe suspected intoxication."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/khyber-pakhtunkhwa-emergency-pakistan-puts-ex-cm-under-house-arrest-pti-leaders-detained-troops-deployed-3015020-2026-10-11",
+      "headline": "Emergency in Khyber Pakhtunkhwa: Ex-CM under house arrest, PTI leaders detainedPakistan imposed emergency rule in Khyber Pakhtunkhwa and moved against PTI leaders within hours. The step has sharpened the government's confrontation with the Iran Khan's party's elected party over security and autonomy."
     },
     {
       "sentiment": "positive",
@@ -250,19 +250,44 @@
       "headline": "UCB Acquires Former The Cube Hotel in \u00a315m Hospitality Education Investment ProgrammeThe acquisition of the former The Cube Hotel and Marco Pierre White restaurant marks the first stage of UCB's wider hospitality investment programme. The site is being redeveloped into a 52-bedroom hotel and restaurant in one of Birmingham's most distinctive landmarks."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/riyadh-airport-attack-hyderabad-it-professional-killed-family-injured-umrah-trip-3015117-2026-10-11",
-      "headline": "Indian killed in Riyadh attack was at airport kiosk with family, en route to MedinaMohammed Yousuf died after a projectile struck Riyadh's King Khalid International Airport while his family was travelling to Madinah for Umrah. The Indian embassy has promised assistance as his wife and three children remain in hospital."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nana-patekar-autopsy-report-heart-attack-left-main-coronary-artery-clot-3015013-2026-10-11",
+      "headline": "Nana Patekar died of heart attack after artery blockage, autopsy confirmsNana Patekar died of a heart attack caused by a blood clot in a coronary artery, the autopsy report confirmed. The 75-year-old actor was declared dead on October 8."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/khyber-pakhtunkhwa-emergency-pakistan-puts-ex-cm-under-house-arrest-pti-leaders-detained-troops-deployed-3015020-2026-10-11",
-      "headline": "Emergency in Khyber Pakhtunkhwa: Ex-CM under house arrest, PTI leaders detainedPakistan imposed emergency rule in Khyber Pakhtunkhwa and moved against PTI leaders within hours. The step has sharpened the government's confrontation with the Iran Khan's party's elected party over security and autonomy."
+      "url": "https://www.indiatoday.in/world/story/riyadh-airport-attack-hyderabad-pilgrim-killed-three-indians-stable-3015160-2026-10-12",
+      "headline": "3 Indians in ICU after Riyadh airport attack, Embassy assures families of supportThree Indian nationals injured in the Riyadh airport attack are in ICU but stable, the Indian Embassy said. Hyderabad-based IT professional Mohammed Yousuf, 46, died, while his wife and three children were injured. Two other Indians remain hospitalised in regular wards."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/noida/story/noida-grand-omaxe-unmuzzled-dog-mauls-pet-pug-to-death-cctv-3015132-2026-10-11",
       "headline": "Video: Unmuzzled pet dog mauls pug to death in Noida societyA powerful-breed dog attacked a woman and mauled her pet pug to death during a morning walk in Noida's Grand Omaxe Society. The CCTV-captured incident has triggered safety concerns among residents, especially over children."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/delhi-police-release-video-of-dipke-being-told-of-grandmothers-death-in-detention-cops-offering-help-3014885-2026-10-11",
+      "headline": "Dipke grandmother's passing: Delhi Police nails CJP's lieDipke's paternal grandmother, Savitribai Shankarrao Dipke, 85, died after a prolonged illness in Maharashtra's Hingoli district on Saturday."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/riyadh-airport-attack-hyderabad-it-professional-killed-family-injured-umrah-trip-3015117-2026-10-11",
+      "headline": "Indian killed in Riyadh attack was at airport kiosk with family, en route to MedinaMohammed Yousuf died after a projectile struck Riyadh's King Khalid International Airport while his family was travelling to Madinah for Umrah. The Indian embassy has promised assistance as his wife and three children remain in hospital."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/kochi/story/kerala-crash-near-kochi-airport-mini-cooper-hits-scooter-3-students-killed-3015085-2026-10-11",
+      "headline": "3 dead after speeding Mini Cooper rams scooter, driver says father will handle itA speeding Mini Cooper rammed a scooter near Kochi airport, killing three students. Police have detained the driver and are awaiting test results as they probe suspected intoxication."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-congress-lucknow-clash-ajay-rai-seeks-action-against-mamta-chaudhary-3014796-2026-10-11",
+      "headline": "Bouquets, shoes fly as Ajay Rai, Mamta Chaudhary factions clash at Congress eventSupporters of Ajay Rai and Mamta Chaudhary clashed at the Congress headquarters in Lucknow during the charge-taking programme of Aradhana Mishra and Imran Masood. The altercation, marked by slogans, shoes and a scuffle, prompted Rai to seek action against Chaudhary."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/iit-kanpur-protest-indranil-manna-recalls-ashutosh-ranka-three-day-standoff-3014740-2026-10-11",
+      "headline": "From IIT Kanpur to Jantar Mantar: CJP's Ashutosh Ranka had done it beforeFormer IIT Kanpur director Indranil Manna recalled a three-day confrontation with student leader Ashutosh Ranka after a student's death on campus. He said the episode showed why institutes must hear protests but act on inquiry-led facts, not crowd pressure."
     },
     {
       "sentiment": "positive",
@@ -275,44 +300,19 @@
       "headline": "MP John Brittas claims he was assaulted inside police vehicle, dumped by roadsideCPI(M) shared a video after Rajya Sabha MP John Brittas alleged he was manhandled by police during protests in Delhi. The footage and his account have sharpened criticism of detentions linked to demonstrations against Chief Election Commissioner Gyanesh Kumar."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/delhi-hydro-ganja-og-kush-shortage-premium-cannabis-prices-police-home-ministry-crackdown-itspc-3013951-2026-10-11",
-      "headline": "Rs 3,000 a gram, peddlers in hiding: Indian stoners panic as weed drought hitsHydroponic cannabis and premium OG Kush have become harder to find in Delhi, Mumbai and Kolkata. With police intensifying checks, the ganja shortage is giving India's underground weed market a serious buzzkill. Is it linked to the crackdown under Union Home Minister Amit Shah's Drug-Free India campaign?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-congress-lucknow-clash-ajay-rai-seeks-action-against-mamta-chaudhary-3014796-2026-10-11",
-      "headline": "Bouquets, shoes fly as Ajay Rai, Mamta Chaudhary factions clash at Congress eventSupporters of Ajay Rai and Mamta Chaudhary clashed at the Congress headquarters in Lucknow during the charge-taking programme of Aradhana Mishra and Imran Masood. The altercation, marked by slogans, shoes and a scuffle, prompted Rai to seek action against Chaudhary."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-news-pakistan-news-khyber-pakhtunkhwa-cm-sohail-afridi-pti-long-march-2026-itspc-3014726-2026-10-11",
-      "headline": "Pak imposes emergency in Pathan heartland KP, ousts Imran Khan's last PTI govtPakistan's Shehbaz Sharif government has imposed emergency rule in the Pathan heartland of Khyber Pakhtunkhwa, ousting Imran Khan's PTI from its last remaining provincial government amid a planned protest march. The KP governor has warned protesters of an 'iron hand' crackdown, while PTI has condemned the move as undemocratic and warned of further instability."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-announces-energy-ceasefire-between-russia-and-ukraine-warns-both-sides-against-breaking-it-3015016-2026-10-11",
-      "headline": "Trump announces Russia-Ukraine energy truce, Zelenskyy asks when it was negotiatedUS President Donald Trump said Russia and Ukraine had agreed to an immediate halt to attacks on each other's energy infrastructure, warning both sides against breaking the \"energy ceasefire\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/greater-noida-delivery-riders-clash-over-online-order-near-tata-eureka-park-3015131-2026-10-11",
-      "headline": "Video: Delivery riders fight for order, chase and beat man in Greater Noida societyA dispute over an online delivery order led to a fight between riders near Tata Eureka Park in Greater Noida. The clash, captured on video and shared widely online, ended with police action against those involved."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/science/story/monsoon-over-so-why-is-it-raining-in-punjab-and-uttarakhand-satellite-pics-reveal-3015086-2026-10-11",
       "headline": "Satellite images reveal why it's raining over Punjab and UttarakhandFresh rain and thunderstorms are sweeping parts of Punjab, Uttarakhand and Himachal Pradesh despite the monsoon withdrawal. The spell is being driven by a Western Disturbance and linked troughs, with more rain forecast over the coming days."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-seeks-govt-response-illegal-detentions-delhi-protest-crackdown-special-hearing-cjp-stir-cec-gyanesh-kumar-3014674-2026-10-11",
-      "headline": "No illegal detention of those gathering peacefully: Supreme Court's big orderThe Supreme Court asked the government to answer claims of illegal detentions and police excess during Delhi protests against CEC Gyanesh Kumar. It ordered a review of barricading, called for normal Metro and rail services unless restrictions are necessary, and issued notices to the Home Secretary, Delhi Police Commissioner and DMRC in contempt proceedings."
+      "url": "https://www.indiatoday.in/sunday-special/story/delhi-hydro-ganja-og-kush-shortage-premium-cannabis-prices-police-home-ministry-crackdown-itspc-3013951-2026-10-11",
+      "headline": "Rs 3,000 a gram, peddlers in hiding: Indian stoners panic as weed drought hitsHydroponic cannabis and premium OG Kush have become harder to find in Delhi, Mumbai and Kolkata. With police intensifying checks, the ganja shortage is giving India's underground weed market a serious buzzkill. Is it linked to the crackdown under Union Home Minister Amit Shah's Drug-Free India campaign?"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-kanpur-protest-indranil-manna-recalls-ashutosh-ranka-three-day-standoff-3014740-2026-10-11",
-      "headline": "From IIT Kanpur to Jantar Mantar: CJP's Ashutosh Ranka had done it beforeFormer IIT Kanpur director Indranil Manna recalled a three-day confrontation with student leader Ashutosh Ranka after a student's death on campus. He said the episode showed why institutes must hear protests but act on inquiry-led facts, not crowd pressure."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-news-pakistan-news-khyber-pakhtunkhwa-cm-sohail-afridi-pti-long-march-2026-itspc-3014726-2026-10-11",
+      "headline": "Pak imposes emergency in Pathan heartland KP, ousts Imran Khan's last PTI govtPakistan's Shehbaz Sharif government has imposed emergency rule in the Pathan heartland of Khyber Pakhtunkhwa, ousting Imran Khan's PTI from its last remaining provincial government amid a planned protest march. The KP governor has warned protesters of an 'iron hand' crackdown, while PTI has condemned the move as undemocratic and warned of further instability."
     },
     {
       "sentiment": "negative",
