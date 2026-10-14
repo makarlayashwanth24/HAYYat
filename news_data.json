@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/drishyam-3-box-office-day-12-film-sees-18-jump-in-collections-after-2nd-monday-slump-3016792-2026-10-14",
+      "headline": "Drishyam 3 box office Day 12: Film sees 18% jump in collections after 2nd Monday slump After taking a hit on its second Monday, Drishyam 3: The Conclusion bounced back on Tuesday, with an 18 per cent jump from the previous day. The uptick has given Ajay Devgn's thriller some much-needed momentum as its domestic nett collections."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/ott/story/bigg-boss-20-nakul-dhull-gullu-fight-gets-physical-mahhi-vij-shouts-in-distress-3016748-2026-10-13",
       "headline": "Bigg Boss 20: Nakul Dhull-Gullu fight gets physical, Mahhi Vij shouts in distress A heated exchange over Qazi Touqeer's remarks spiralled into a physical clash between Nakul Dhull and Gullu inside the Bigg Boss 20 house. Mahhi Vij shouted in distress as housemates stepped in, while a promo hinted Nakul may have been asked to leave."
@@ -191,108 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/rise-and-fall-season-2-sara-gurpal-confronts-gautam-gulati-after-basement-outburst-8-year-friendship-3016342-2026-10-13",
       "headline": "Rise & Fall 2: Sara Gurpal-Gautam Gulati 8-year friendship cracks after heated clash Actor Sara Gurpal confronted Gautam Gulati over his aggressive behaviour in the Basement, turning their eight-year friendship into a tense showdown."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-song-phir-se-joins-grammy-consideration-list-arijit-singh-thanks-fans-3016363-2026-10-13",
-      "headline": "Dhurandhar song Phir Se joins Grammy consideration list, Arijit Singh thanks fans Arijit Singh said Phir Se from Dhurandhar: The Revenge is in Grammy consideration for Best Song Written for Visual Media. The entry puts the film's soundtrack before Recording Academy voters, though it is not yet a nomination."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pope-leo-diagnosed-with-cancer-doctors-remove-lobe-of-lung-vatican-says-3016789-2026-10-14",
-      "headline": "Pope Leo diagnosed with cancer, doctors remove lobe of lung, Vatican saysThe operation lasted approximately 90 minutes and was completed without complications. The pope woke up normally and was resting in his hospital room, the Vatican said."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/8-feared-dead-after-boat-carrying-20-people-capsizes-in-ganga-in-bihars-hajipur-3016693-2026-10-13",
       "headline": "14, including women and children, killed as boat capsizes in Bihar's HajipurChief Minister Samrat Choudhary expressed grief over the loss of lives and announced financial assistance of Rs 4 lakh each for the families of the deceased."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/muhammad-yunus-heckled-at-jfk-airport-bangladesh-warns-legal-action-ptag-3016525-2026-10-13",
-      "headline": "Bangladesh warns legal action after Muhammad Yunus heckled at New York airportBangladesh former interim government chief Muhammad Yunus was heckled by alleged Awami League supporters at New York's JFK Airport. Zahed Ur Rahman said the incident would not go unanswered."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/ballistic-missile-hits-saudi-aramco-complex-amid-escalating-houthi-attacks-3016790-2026-10-14",
-      "headline": "Saudi Aramco headquarters hit by missile as Houthi conflict intensifiesA ballistic missile struck a Saudi Aramco administrative building in Dhahran, causing limited fire without casualties. The attack came amid escalating Houthi strikes and renewed fighting in Yemen."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/gandhinagar-municipal-corporation-polls-arvind-kejriwal-aap-loses-seat-bjp-congress-gain-vote-share-itspc-3016615-2026-10-13",
-      "headline": "Kejriwal's Guj model at risk? BJP, Cong eat into AAP's Gandhinagar vote shareAAP lost its lone Gandhinagar Municipal Corporation seat as its vote share slumped sharply. The BJP and the Congress made equal gains. The result raises fresh questions over Arvind Kejriwal's Gujarat push before the 2027 Assembly polls."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-anti-sir-protest-dk-shivakumar-police-crackdown-manhandling-journalists-itspc-3016501-2026-10-13",
-      "headline": "DKS protests in Delhi, his police detain 100 anti-SIR protesters in BengaluruWhile Karnataka Chief Minister DK Shivakumar joined Rahul Gandhi and other Congress leaders on the streets of New Delhi, demanding CEC Gyanesh Kumar's resignation, a parallel protest in Bengaluru over the same issue on the same day saw a police crackdown. At least 100 protesters were detained, with students, women and journalists allegedly manhandled in the Congress-ruled state."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/harman-singh-kapoor-restaurant-google-reviews-row-london-sikh-chef-non-halal-restaurant-shutdow-itspc-3016249-2026-10-13",
-      "headline": "Please help: Sikh chef who alleged Pakistani threats says UK eatery faces shutdownAfter making his restaurant's non-halal identity a flashpoint in a bitter religious controversy, Harman Singh Kapoor now says his London eatery is struggling to survive. He alleges Google is blocking genuine five-star reviews while accepting fake one-star ratings, and warns of mounting rent pressures and possible court action."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/divya-mittal-political-entry-next-step-mirzapur-15-october-uttar-pradesh-3016752-2026-10-13",
-      "headline": "Ex-UP IAS officer Divya Mittal to reveal political plans on October 15Divya Mittal's October 15 announcement is expected to clarify her political plans, amid interest from several parties and speculation over her role in the 2027 Uttar Pradesh Assembly elections."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/deep-dive/story/iit-job-crisis-why-a-rs-30-lakh-engineering-degree-no-longer-guarantees-a-good-job-educ-3016572-2026-10-13",
-      "headline": "Rs 30 lakh for an IIT degree. What if the job you paid for never comes?From IITians seeking jobs in Japan for $70,000 a year to 8,000 students left unplaced in 2024, the IIT job market is facing tough questions. With education costs reaching Rs 30 lakh and companies withdrawing offers, does an IIT degree still guarantee the career and salary families expect?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/khyber-pakhtunkhwa-tear-gas-live-rounds-fired-at-protesters-after-shehbaz-sharif-imposes-emergency-3016787-2026-10-14",
-      "headline": "Tear gas, live rounds fired at Khyber Pakhtunkhwa protesters after emergencyPakistan imposed governor's rule in Khyber Pakhtunkhwa as PTI supporters protested against the federal intervention. The move has intensified political tensions and prompted legal questions over Sohail Afridi's detention."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/pune/story/pune-nigdi-temple-assault-cctv-man-arrested-after-alleged-attack-on-10-year-old-girl-3016622-2026-10-13",
-      "headline": "Man grabs girl praying alone in temple, forces himself on her, leaves her in tearsA 10-year-old girl was grabbed and forcibly hugged by a man inside a temple in Pune's Nigdi area moments after offering prayers to Lord Shiva. CCTV footage captured the disturbing incident, in which the girl is seen breaking down in tears. Nigdi police arrested the accused, Vishal Singh, who worked for a metro contractor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/duane-keffe-d-davis-sentenced-to-40-years-to-life-in-prison-for-rapper-tupac-shakur-murder-3016784-2026-10-14",
-      "headline": "Duane Davis sentenced to 40 years to life in prison for rapper Tupac Shakur murderDuane \"Keffe D\" Davis, 63, was sentenced to 40 years to life on Tuesday after being convicted of first-degree murder in August. The sentence brings a major development in one of the most closely watched murder cases in American music history, which remained unsolved for nearly 30 years before Davis was arrested in 2023."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sona-mohapatra-rahul-gandhi-fix-himachal-pradesh-before-repairing-democracy-3016225-2026-10-13",
-      "headline": "Repair Himachal before repairing democracy: Sona Mohapatra's message to Rahul GandhiSona Mohapatra asked Rahul Gandhi to address Himachal Pradesh's condition before speaking of repairing democracy. Her post drew attention to garbage-strewn hills, choking rivers and expectations of better governance in the Congress-ruled state."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-says-houthis-targeting-saudi-arabia-at-iran-behest-to-sway-oil-prices-before-us-midterm-elections-3016733-2026-10-13",
-      "headline": "Houthis targeting Saudi at Iran's behest to sway oil prices before midterms: TrumpDonald Trump accused the Houthis of targeting Saudi Arabia to unsettle oil markets before the US midterms. The warning came as attacks widened regional tensions, threatened energy routes in the Middle East."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/neha-bora-gyanesh-kumar-protests-aisa-says-movement-is-united-on-voting-rights-india-bloc-3016679-2026-10-13",
-      "headline": "We are united because of BJP: AISA's Neha Bora on being labelled 'Dimagi Naxal'Neha Bora, the young face of the anti-CEC protests, said the agitation, in collaboration with opposition parties, aims to protect democracy and will continue until Gyanesh Kumar is removed from office and the SIR exercise is halted completely."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dhal-singh-bisen-appointed-uttarakhand-governor-in-surprise-bjp-move-3016717-2026-10-13",
-      "headline": "Playing with grandson, ex-minister gets surprise call from friend: You're GovernorFormer Madhya Pradesh minister and BJP leader Dhal Singh Bisen, 74, was playing with his grandson after dinner when a friend called to congratulate him on his appointment as Uttarakhand Governor. A former MLA and Balaghat MP, Bisen has held several Cabinet portfolios and served in the Madhya Pradesh State Finance Commission."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shekhar-suman-defends-making-government-remarks-on-his-show-pm-modi-is-not-weak-3016330-2026-10-13",
-      "headline": "PM Modi is not weak: Shekhar Suman defends making government remarks on his showShekhar Suman said his YouTube show, Shekhar Tonite, is not anti-BJP or anti-government. He said his satire targets the system and those in power, adding that PM Narendra Modi is not \"so weak\" to object to it."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-likely-mumbai-indians-captaincy-return-ipl-2027-3016593-2026-10-13",
-      "headline": "Rohit Sharma likely to return as Mumbai Indians captain for IPL 2027Rohit Sharma is likely to return as Mumbai Indians captain for IPL 2027, with the five-time champions preparing to hand the leadership back to their most successful skipper after a difficult period under Hardik Pandya."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/stop-blaming-sir-introspect-amit-shah-jabs-rahul-says-congress-will-lose-for-4th-consecutive-time-in-2029-3016614-2026-10-13",
-      "headline": "Stop blaming SIR: Amit Shah attacks Rahul Gandhi, says Congress will lose in 2029Union Home Minister Amit Shah attacked Congress MP Rahul Gandhi over his SIR allegations, accusing the party of blaming electoral processes for its defeats, and predicted a fourth consecutive loss for the party in the 2029 Lok Sabha elections."
     },
     {
       "sentiment": "negative",
@@ -301,23 +211,113 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/where-to-eat-bengali-food-during-durga-puja-in-delhi-cr-park-3016216-2026-10-13",
-      "headline": "Bengali food during Durga Puja is non-negotiable. Here's what to eat in DelhiIf you don't have a Bengali spread during Durga Puja pandal hopping, your pujo bhromon is incomplete."
+      "url": "https://www.indiatoday.in/india/story/rubio-to-visit-india-october-17-22-jaishankar-says-trade-talks-heading-towards-a-landing-point-3016793-2026-10-14",
+      "headline": "Rubio to visit India next week as Jaishankar says trade talks near landing pointMarco Rubio will visit India and meet senior officials and business leaders. The talks will test efforts to resolve trade differences and deepen strategic ties."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/gandhinagar-municipal-corporation-polls-arvind-kejriwal-aap-loses-seat-bjp-congress-gain-vote-share-itspc-3016615-2026-10-13",
+      "headline": "Kejriwal's Guj model at risk? BJP, Cong eat into AAP's Gandhinagar vote shareAAP lost its lone Gandhinagar Municipal Corporation seat as its vote share slumped sharply. The BJP and the Congress made equal gains. The result raises fresh questions over Arvind Kejriwal's Gujarat push before the 2027 Assembly polls."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/why-br-ambedkar-left-hinduism-embraced-buddhism-53-days-before-death-1956-3016530-2026-10-14",
+      "headline": "Why Ambedkar left Hinduism to embrace Buddhism 53 days before his deathIn 1935, BR Ambedkar declared that he wouldn't die a Hindu. Twenty-one years later, after decades of fighting caste discrimination and examining other religions, he embraced Buddhism along with lakhs of followers in Nagpur on October 14, 1956, exactly 70 years ago. It came just 53 days before his death."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pope-leo-diagnosed-with-cancer-doctors-remove-lobe-of-lung-vatican-says-3016789-2026-10-14",
+      "headline": "Pope Leo diagnosed with cancer, doctors remove lobe of lung, Vatican saysThe operation lasted approximately 90 minutes and was completed without complications. The pope woke up normally and was resting in his hospital room, the Vatican said."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jnu-sexual-harassment-row-bimal-aichojam-says-he-will-quit-parliament-if-proved-guilty-3016602-2026-10-13",
+      "headline": "Will quit Parliament if proven guilty: Congress MP on JNU sex harassment rowCongress MP Bimol Akoijam, dismissed by JNU after an internal enquiry found him guilty of sexual harassment, denied the allegations and vowed to resign from Parliament if the charges are proved."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/pune/story/pune-nigdi-temple-assault-cctv-man-arrested-after-alleged-attack-on-10-year-old-girl-3016622-2026-10-13",
+      "headline": "Man grabs 10-year-old girl praying alone at Pune temple, forces himself on herA 10-year-old girl was grabbed and forcibly hugged by a man inside a temple in Pune's Nigdi area moments after offering prayers to Lord Shiva. CCTV footage captured the disturbing incident, in which the girl is seen breaking down in tears. Nigdi police arrested the accused, Vishal Singh, who worked for a metro contractor."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/deep-dive/story/iit-job-crisis-why-a-rs-30-lakh-engineering-degree-no-longer-guarantees-a-good-job-educ-3016572-2026-10-13",
+      "headline": "Rs 30 lakh for an IIT degree. What if the job you paid for never comes?From IITians seeking jobs in Japan for $70,000 a year to 8,000 students left unplaced in 2024, the IIT job market is facing tough questions. With education costs reaching Rs 30 lakh and companies withdrawing offers, does an IIT degree still guarantee the career and salary families expect?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/stop-blaming-sir-introspect-amit-shah-jabs-rahul-says-congress-will-lose-for-4th-consecutive-time-in-2029-3016614-2026-10-13",
+      "headline": "Stop blaming SIR: Amit Shah attacks Rahul Gandhi, says Congress will lose in 2029Union Home Minister Amit Shah attacked Congress MP Rahul Gandhi over his SIR allegations, accusing the party of blaming electoral processes for its defeats, and predicted a fourth consecutive loss for the party in the 2029 Lok Sabha elections."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/ballistic-missile-hits-saudi-aramco-complex-amid-escalating-houthi-attacks-3016790-2026-10-14",
+      "headline": "Saudi Aramco headquarters hit by missile as Houthi conflict intensifiesA ballistic missile struck a Saudi Aramco administrative building in Dhahran, causing limited fire without casualties. The attack came amid escalating Houthi strikes and renewed fighting in Yemen."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/duane-keffe-d-davis-sentenced-to-40-years-to-life-in-prison-for-rapper-tupac-shakur-murder-3016784-2026-10-14",
+      "headline": "Duane Davis sentenced to 40 years to life in prison for rapper Tupac Shakur murderDuane \"Keffe D\" Davis, 63, was sentenced to 40 years to life on Tuesday after being convicted of first-degree murder in August. The sentence brings a major development in one of the most closely watched murder cases in American music history, which remained unsolved for nearly 30 years before Davis was arrested in 2023."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-likely-mumbai-indians-captaincy-return-ipl-2027-3016593-2026-10-13",
+      "headline": "Rohit Sharma likely to return as Mumbai Indians captain for IPL 2027Rohit Sharma is likely to return as Mumbai Indians captain for IPL 2027, with the five-time champions preparing to hand the leadership back to their most successful skipper after a difficult period under Hardik Pandya."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/parvinder-jhota-murder-personal-enmity-angle-mansa-ashwani-kumar-ptag-3016708-2026-10-13",
+      "headline": "Murder stemmed from personal enmity: Punjab police on anti-drug activist's killingJhota, who was known for speaking out against drug abuse and the illegal sale of addictive substances at chemist shops, was shot dead in a busy market in Mansa on Tuesday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-anti-sir-protest-dk-shivakumar-police-crackdown-manhandling-journalists-itspc-3016501-2026-10-13",
+      "headline": "DKS protests in Delhi, his police detain 100 anti-SIR protesters in BengaluruWhile Karnataka Chief Minister DK Shivakumar joined Rahul Gandhi and other Congress leaders on the streets of New Delhi, demanding CEC Gyanesh Kumar's resignation, a parallel protest in Bengaluru over the same issue on the same day saw a police crackdown. At least 100 protesters were detained, with students, women and journalists allegedly manhandled in the Congress-ruled state."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/neha-bora-gyanesh-kumar-protests-aisa-says-movement-is-united-on-voting-rights-india-bloc-3016679-2026-10-13",
+      "headline": "We are united because of BJP: AISA's Neha Bora on being labelled 'Dimagi Naxal'Neha Bora, the young face of the anti-CEC protests, said the agitation, in collaboration with opposition parties, aims to protect democracy and will continue until Gyanesh Kumar is removed from office and the SIR exercise is halted completely."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/patna-finance-company-agent-robbed-at-gunpoint-locals-catch-two-3016768-2026-10-13",
+      "headline": "Finance agent robbed of Rs 1.5 lakh at gunpoint, villagers catch, thrash suspectsThe two suspects reportedly intercepted the agent near Jamunapar and threatened him at gunpoint before snatching his bag containing the collected money and his mobile phone."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/muhammad-yunus-heckled-at-jfk-airport-bangladesh-warns-legal-action-ptag-3016525-2026-10-13",
+      "headline": "Bangladesh warns legal action after Muhammad Yunus heckled at New York airportBangladesh former interim government chief Muhammad Yunus was heckled by alleged Awami League supporters at New York's JFK Airport. Zahed Ur Rahman said the incident would not go unanswered."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/divya-mittal-political-entry-next-step-mirzapur-15-october-uttar-pradesh-3016752-2026-10-13",
+      "headline": "Ex-UP IAS officer Divya Mittal to reveal political plans on October 15Divya Mittal's October 15 announcement is expected to clarify her political plans, amid interest from several parties and speculation over her role in the 2027 Uttar Pradesh Assembly elections."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/dhal-singh-bisen-appointed-uttarakhand-governor-in-surprise-bjp-move-3016717-2026-10-13",
+      "headline": "Playing with grandson, ex-minister gets surprise call from friend: You're GovernorFormer Madhya Pradesh minister and BJP leader Dhal Singh Bisen, 74, was playing with his grandson after dinner when a friend called to congratulate him on his appointment as Uttarakhand Governor. A former MLA and Balaghat MP, Bisen has held several Cabinet portfolios and served in the Madhya Pradesh State Finance Commission."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sona-mohapatra-rahul-gandhi-fix-himachal-pradesh-before-repairing-democracy-3016225-2026-10-13",
+      "headline": "Repair Himachal before repairing democracy: Sona Mohapatra's message to Rahul GandhiSona Mohapatra asked Rahul Gandhi to address Himachal Pradesh's condition before speaking of repairing democracy. Her post drew attention to garbage-strewn hills, choking rivers and expectations of better governance in the Congress-ruled state."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/khyber-pakhtunkhwa-tear-gas-live-rounds-fired-at-protesters-after-shehbaz-sharif-imposes-emergency-3016787-2026-10-14",
+      "headline": "Tear gas, live rounds fired at Khyber Pakhtunkhwa protesters after emergencyPakistan imposed governor's rule in Khyber Pakhtunkhwa as PTI supporters protested against the federal intervention. The move has intensified political tensions and prompted legal questions over Sohail Afridi's detention."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-says-houthis-targeting-saudi-arabia-at-iran-behest-to-sway-oil-prices-before-us-midterm-elections-3016733-2026-10-13",
+      "headline": "Houthis targeting Saudi at Iran's behest to sway oil prices before midterms: TrumpDonald Trump accused the Houthis of targeting Saudi Arabia to unsettle oil markets before the US midterms. The warning came as attacks widened regional tensions, threatened energy routes in the Middle East."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/trump-ousts-us-envoy-to-greece-kimberly-guilfoyle-over-deal-to-trade-influence-for-hefty-credit-card-bill-3016671-2026-10-13",
       "headline": "Trump ousts his envoy over deal to trade influence for hefty credit card billThe Trump administration has asked US ambassador to Greece Kimberly Guilfoyle to resign after reports alleging improper conduct. The move follows claims over a USD 100,000 bill, business ties and calls for an investigation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/amid-reshuffle-buzz-union-minister-l-murugan-resigns-from-cabinet-urges-pm-to-let-him-return-to-tamil-nadu-3016527-2026-10-13",
-      "headline": "Want to strengthen Tamil Nadu BJP: L Murugan quits govt, thanks PM amid rejig buzzIn a letter to PM Narendra Modi, Minister of State L Murugan, who held the Information and Broadcasting and Parliamentary Affairs portfolios, requested to be relieved of his ministerial responsibilities and permitted to relinquish his Rajya Sabha membership."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/sidhu-moosewalas-brother-recreates-signature-thaapi-gesture-at-toronto-hologram-concert-3015557-2026-10-12",
-      "headline": "Sidhu Moose Wala's brother recreates signature thaapi gesture at Toronto concertSidhu Moose Wala's younger brother, Shubhdeep Singh Sidhu, attended the late singer's hologram show in Toronto, where he recreated his signature thaapi gesture. He was joined by their parents, Balkaur Singh and Charan Kaur."
     }
   ],
   "sports": [
