@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/jio-targets-6g-rollout-in-early-2030s-eyes-global-expansion-akash-ambani-3018215-2026-10-15",
+      "headline": "Jio eyes global markets, targets 6G rollout in early 2030s: Akash AmbaniAkash Ambani said 6G technology was still in the pre-standardisation phase, with standards likely to be established around 2029. Commercial rollouts are expected to begin in the early 2030s."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/trump-may-decide-on-100-tariffs-on-india-over-russian-oil-in-about-10-days-sergio-gor-3018120-2026-10-15",
+      "headline": "Trump may decide on 100% tariffs on India over Russian oil soon: Sergio GorGor said Trump was expected to decide on the matter within the next 10 days or so, adding that the law required the US President to take a decision within 30 days of its passage."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/jio-likely-to-move-beyond-per-gb-pricing-as-tariff-hikes-remain-on-the-table-3018036-2026-10-15",
       "headline": "Is Jio eyeing tariff hikes? Akash Ambani explainsAkash Ambani said Jio entered the telecom market in 2016 with a clear opportunity: to make data more affordable and move India towards a data-rich economy."
     },
@@ -89,19 +99,39 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/jio-platforms-ipo-price-band-rs-1065-1119-record-rs-30213-crore-issue-3017574-2026-10-14",
       "headline": "Jio sets Rs 1,065-1,119 IPO price band, eyes India's biggest-ever listingJio Platforms has set a price band of Rs 1,065 to Rs 1,119 for its IPO. The fresh issue could raise Rs 30,213 crore and become India's largest offering."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/when-data-cost-as-much-as-vada-pav-how-jio-connected-a-billion-dreams-3017314-2026-10-14",
-      "headline": "When data cost as much as vada pav: How Jio connected a billion dreamsIn 2016, Jio entered the telecommunications market. Almost immediately, something happened that surprised everyone: voice calls became free. Data was priced so low that it became as affordable as vada pav."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/a-fathers-dream-a-sons-resolve-jamnagar-built-in-36-months-3017298-2026-10-14",
-      "headline": "A father's dream, a son's resolve: Jamnagar built in 36 monthsDhirubhai Ambani had a big dream: to build a refinery. But not every dream is fulfilled by the person who first imagines it. Sometimes one generation dreams, and the next turns that dream into reality. Years later, his son Mukesh Ambani brought that vision to life."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/when-actor-imran-khan-spoke-about-us-citizenship-and-getting-an-indian-passport-3018246-2026-10-15",
+      "headline": "When actor Imran Khan spoke about US citizenship and getting an Indian passport Years before being issued a notice over his foreign citizenship, actor Imran Khan had addressed his American passport status while actively pursuing an Indian passport."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-new-trailer-ranbir-kapoor-lord-rama-vows-to-vanquish-yash-ravana-in-epic-clash-sai-pallavi-sita-3018233-2026-10-15",
+      "headline": "Ramayana new trailer: Ranbir's Lord Rama vows to vanquish Ravana in epic clash Director Nitesh Tiwari's new Ramayana trailer shows Ranbir Kapoor's Lord Ram battling rakshasas (demons). The promo also shows Yash's Ravana fighting against an army of devas (deities)."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/madhuri-dixit-shriram-nene-27th-anniversary-unseen-wedding-photos-3018245-2026-10-15",
+      "headline": "To infinity and beyond: Madhuri Dixit, Shriram Nene's unseen US court wedding pics On their 27th wedding anniversary, Madhuri Dixit and Dr Shriram Nene revisited their 1999 Beverly Hills court wedding. The couple shared rare photographs and a heartfelt note about love and family."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/this-isnt-north-korea-cyrus-broacha-says-govt-badgering-imran-khan-over-citizenship-3018179-2026-10-15",
+      "headline": "This isn't North Korea: Cyrus Broacha says govt badgering Imran Khan over citizenship Comedian-satirist Cyrus Broacha criticised Mumbai Police's action against Imran Khan after the actor joined a protest. He said fear was silencing prominent voices and urged democratic dialogue over dissent."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/prahaar-review-rajkummar-rao-film-ujjwal-nikam-has-case-worth-fighting-film-worth-questioning-3018207-2026-10-15",
+      "headline": "Prahaar review: A case worth fighting, a film worth questioningRelease Date:Thu Oct 15, 2026 Prahaar: The Untold Story of Ujjwal Nikam review: Prahaar follows Ujjwal Nikam's courtroom battle to prosecute Ajmal Kasab after the 26/11 attacks. The drama champions constitutional due process but loses emotional force through repeated narrative detours."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/jhumka-patola-ayushmann-sharvari-old-school-romance-shreya-ghoshal-magic-new-yeh-prem-lol-liya-song-3018044-2026-10-15",
+      "headline": "Jhumka Patola: Beauty of old school romance, Shreya's magic in new Yeh Prem... song Ahead of director Sooraj Barjatya's Yeh Prem Mol Liya's release, Jhumka Patola, a festive dance track sung by Shreya Ghoshal featuring Ayushmann Khurrana and Sharvari has been unveiled."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/story/comedians-harsh-gujral-madhur-virli-summoned-by-cyber-cell-for-obscene-content-3018134-2026-10-15",
@@ -115,7 +145,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-3-announcement-rajinikanth-jailer-2-ending-leaves-door-open-for-a-fresh-sequel-3018049-2026-10-15",
-      "headline": "Will we have Jailer 3? Rajinikanth's Jailer 2 leaves door open for a fresh sequel Jailer 2 ends on a high, delivering everything you expect from a Rajinikanth film - and then some. Because the world of Jailer might not be over just yet. The film's ending leaves enough loose ends to suggest that another sequel could be on the cards."
+      "headline": "Will we have Jailer 3? Rajinikanth's Jailer 2 leaves door open for a fresh sequel Jailer 2 ends on a high, delivering everything you expect from a Rajinikanth film \u2013 and then some. But, the world of Jailer might not be over just yet. The film's ending leaves enough clues to suggest that another sequel could be on the cards."
     },
     {
       "sentiment": "positive",
@@ -166,43 +196,38 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-reviews-ranveer-singh-dhurandhar-performance-calls-him-secure-actor-on-koffee-with-karan-season-9-3017755-2026-10-15",
       "headline": "Salman reviews Ranveer's Dhurandhar performance, calls him secure actor on Koffee Superstar Salman Khan didn't hold back while appreciating Ranveer Singh's restrained performance in the Dhurandhar franchise. He said the contrasting acting styles of Ranveer and Ranbir Kapoor make their screen performances impossible to compare."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/shahid-kapoor-reflects-on-sunny-as-farzi-2-shoot-nears-completion-see-bts-pics-3017714-2026-10-15",
-      "headline": "Shahid Kapoor reflects on Sunny as Farzi 2 shoot nears completion. See BTS pics Shahid Kapoor said Sunny continues to live within him as filming for Farzi 2 nears completion. The actor also shared behind-the-scenes photos from the sets on Instagram."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/jailer-2-movie-review-rajinikanth-swagger-and-nelsons-humour-strike-gold-again-3017726-2026-10-15",
-      "headline": "Jailer 2 review: Rajinikanth's swagger and Nelson's humour strike gold againRelease Date:Thu Oct 15, 2026 Jailer 2 movie review: Director Nelson's Jailer 2, starring Rajinikanth, SJ Suryah and Vidya Balan, is a fitting sequel that is high on aura. With ample elevation scenes and Rajinikanth doing what he does best, Jailer 2 offers a memorable theatrical experience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/manoj-bajpayee-ghooskhor-pandat-renamed-gajab-raat-trailer-netflix-release-date-3017730-2026-10-15",
-      "headline": "Manoj Bajpayee's Ghooskhor Pandat renamed Gajab Raat, trailer and release date out The makers unveiled Gajab Raat's trailer after renaming the Manoj Bajpayee thriller. The change follows objections over the original title and the closure of court proceedings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/hilary-swank-third-pregnancy-at-52-december-due-date-3017709-2026-10-15",
-      "headline": "Hilary Swank announces she is expecting third child at 52, shares adorable video Hollywood actor Hilary Swank, the acclaimed Hollywood actor, has announced her pregnancy with her third child at 52, sharing a charming family video on social media. The revelation prompted warm wishes and personal stories about fertility, hope and parenthood."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-x-review-rajinikanth-mania-interval-block-fan-reactions-3017690-2026-10-15",
-      "headline": "Jailer 2 X review: Rajinikanth mania takes over, fans hail explosive interval block Jailer 2 X review: Fans shared their first Jailer 2 reactions after the sequel opened worldwide. Rajinikanth's presence and the interval won praise, though the second half divided viewers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/exclusive-india-street-fighter-noah-centineo-vidyut-jammwal-ken-masters-transformation-3017686-2026-10-15",
-      "headline": "Exclusive: Noah Centineo on playing Ken in Street Fighter, calls Vidyut a monster In an exclusive chat with India Today, Noah Centineo opens up about playing Ken Masters in Street Fighter, intense action training, and his admiration for Indian actor Vidyut Jammwal as Dhalsim."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/smriti-irani-rahul-gandhi-election-commission-protests-political-tantrum-gyanesh-kumar-regime-change-bjp-congress-3018306-2026-10-15",
+      "headline": "Prince-in-waiting throwing tantrums: Smriti Irani mocks Rahul Gandhi's protestSmriti Irani accused Rahul Gandhi of seeking 'regime change' through protests rather than elections, dismissing his vote theft allegations as 'headline-chasing' efforts."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/neha-bora-bangladesh-genz-protest-video-bjp-rahul-gandhi-regime-change-3018153-2026-10-15",
-      "headline": "Open regime change admission: BJP on Neha Bora's 'Bangladesh showed way' videoAISA chief Neha Bora, who has emerged as one of the most prominent student faces amid the recent SIR protests, credited the Gen Z uprising in Bangladesh for 'showing us the way'. It has invited massive criticism from the BJP."
+      "headline": "Objective is regime change: BJP on Neha Bora's 'Bangladesh showed way' videoAISA chief Neha Bora, who has emerged as one of the most prominent student faces amid the recent SIR protests, credited the Gen Z uprising in Bangladesh for 'showing us the way'. It has invited massive criticism from the BJP."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/election-commission-special-summary-revision-electoral-rolls-17-states-and-uts-january-1-2027-3018240-2026-10-15",
+      "headline": "Special Summary Revision of voter rolls in 17 states, UTs from Jan 1Uttar Pradesh, Uttarakhand, Punjab, Manipur and Goa are among the states covered by the exercise, as their Assembly elections are due in 2027."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-cockroach-party-central-park-closure-connaught-place-cjp-tricolour-march-abhijeet-dipke-protest-3018252-2026-10-15",
+      "headline": "Delhi Central Park shut, cops allow small gathering for CJP's Tiranga marchThe Central Park closure comes amid heightened security in Connaught Place ahead of the CJP's march, with the High Court refusing to restrain the protest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/saudi-arabia-mecca-bangladeshi-pair-execution-immoral-acts-itspc-3018194-2026-10-15",
+      "headline": "Saudi executes 2 Bangladeshis for immoral acts in Mecca mosque, Dhaka kept in darkSaudi Arabia has executed two Bangladeshi nationals convicted of committing what authorities described as immoral acts inside a mosque in the holy city of Mecca. However, Saudi authorities have disclosed few details about the alleged acts or the circumstances of the arrests. Dhaka's consulate in the kingdom, meanwhile, has said it was not informed in advance about the executions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmir-kishtwar-special-police-officer-missing-with-weapon-search-launched-3018385-2026-10-15",
+      "headline": "J&K cop goes missing with rifle, magazine on way home; terror angle not ruled outA 54-year-old special police officer, Bashir Ahmed, has gone missing in Jammu and Kashmir's Kishtwar district while returning home with an SLR rifle and a magazine. Police and security forces have launched a search. A terror angle has not been ruled out, though officials said there is no evidence to suggest one so far."
     },
     {
       "sentiment": "positive",
@@ -210,14 +235,29 @@
       "headline": "Must explain conduct: SC pulls up Rahul Gandhi over protest march to top courtCJI Surya Kant said 'nobody can browbeat' the judiciary as the Supreme Court issued notices to the Centre and the Election Commission (ECI) on petitions filed by Rahul Gandhi and Owaisi"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/adds-to-growing-concerns-over-anti-india-hate-in-us-govt-on-teens-arrest-for-plotting-temple-mass-shooting-3017887-2026-10-15",
-      "headline": "Govt flags growing India hate in US after teen held for temple shooting plotThe MEA statement came after police arrested Alexandros Paporakis, 19, a resident of Palatine, Illinois, on October 11 over the shooting plot."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/mahrah-al-nahyan-emirati-royal-found-passed-out-on-london-street-with-toddler-after-cocaine-binge-3018177-2026-10-15",
+      "headline": "Who is Emirati royal found passed out on street with toddler after cocaine binge?Mahrah Al Nahyan, 32, is associated with Abu Dhabi's ruling Al Nahyan family through marriage. The family rules Abu Dhabi, the largest of the seven emirates that make up the United Arab Emirates (UAE)."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-us-trade-pact-first-phase-finalised-legal-drafting-ongoing-piyush-goyal-3017934-2026-10-15",
-      "headline": "India-US trade pact 1st phase finalised, undergoing legal drafting: Piyush GoyalPiyush Goyal said the first tranche of the India-US trade pact has been finalised and is undergoing legal drafting. Implementation hinges on securing a competitive advantage for Indian exporters over their peers."
+      "url": "https://www.indiatoday.in/lifestyle/food/story/rishi-sunak-sudha-murty-delhi-visit-bengali-sweet-house-swati-maliwal-chaat-ladoo-rasmalai-3018031-2026-10-15",
+      "headline": "Rishi Sunak, Sudha Murty return to Bengali Sweet House. What's on the menu?Former UK Prime Minister Rishi Sunak stopped by the iconic Bengali Sweet House with Sudha Murty and Swati Maliwal during his Delhi visit this week. Curious what the politician devoured? A spread that was as Delhi as it gets."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/saudi-arabia-filming-missile-and-drone-interceptions-impact-sites-can-land-you-in-legal-trouble-here-is-why-3018352-2026-10-15",
+      "headline": "Why filming missile, drone attacks in Saudi Arabia could land you in legal troubleThe Indian Embassy has urged nationals in Saudi Arabia not to record or share footage of missile and drone interceptions. The restriction reflects security concerns as Houthi attacks increasingly threaten civilian infrastructure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-3-announcement-rajinikanth-jailer-2-ending-leaves-door-open-for-a-fresh-sequel-3018049-2026-10-15",
+      "headline": "Will we have Jailer 3? Rajinikanth's Jailer 2 leaves door open for a fresh sequelJailer 2 ends on a high, delivering everything you expect from a Rajinikanth film \u2013 and then some. But, the world of Jailer might not be over just yet. The film's ending leaves enough clues to suggest that another sequel could be on the cards."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-defence-minister-khawaja-asif-marilyn-monroe-ai-image-puzzle-post-ridicule-itspc-3017846-2026-10-15",
+      "headline": "Pak's Khawaja Asif plays detective with Marilyn Monroe, gets trolled for his watchful eyeWho would have thought Pakistan's defence minister would spend his time spotting a smartwatch on an AI Marilyn Monroe image? With the country facing real-life threats, Khawaja Asif's viral puzzle moment left social media in stitches and many wondering if this was the best use of his public platform."
     },
     {
       "sentiment": "positive",
@@ -231,18 +271,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/jio-likely-to-move-beyond-per-gb-pricing-as-tariff-hikes-remain-on-the-table-3018036-2026-10-15",
-      "headline": "Is Jio eyeing tariff hikes? Akash Ambani explainsAkash Ambani said Jio entered the telecom market in 2016 with a clear opportunity: to make data more affordable and move India towards a data-rich economy."
+      "url": "https://www.indiatoday.in/cities/kochi/story/kochi-mini-cooper-crash-accused-blood-alcohol-five-times-permissible-limit-3018410-2026-10-15",
+      "headline": "Kochi Mini Cooper crash: Accused blood alcohol level 5 times above permissible limitPolice found Suhail Sajeev's blood alcohol level around five times the permissible limit after the fatal crash. CCTV footage and forensic evidence are being examined as investigators determine further legal action."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-amit-shah-waged-war-against-own-countrymen-for-gyanesh-kumar-cjps-abhijeet-dipke-on-anti-protest-curbs-3017900-2026-10-15",
-      "headline": "PM, Shah waged war against own countrymen, all for Gyanesh Kumar: CJP's DipkeDipke accused the Centre of waging a \"war against its own citizens\" to shield CEC Gyanesh Kumar, pointing to protesters being dragged off the streets and opposition leaders, including Mamata Banerjee and Arvind Kejriwal, being detained."
+      "url": "https://www.indiatoday.in/india/law-news/story/imran-khan-frro-exit-notice-oci-rights-mumbai-protest-3018368-2026-10-15",
+      "headline": "Can Imran Khan be forced to leave India for joining a protest? What the law saysThe FRRO directed actor Imran Khan to leave India by October 28 after his participation in a Mumbai protest. The order has raised questions over OCI protections, immigration powers and procedural fairness."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-defence-minister-khawaja-asif-marilyn-monroe-ai-image-puzzle-post-ridicule-itspc-3017846-2026-10-15",
-      "headline": "Pak's Khawaja Asif plays detective with Marilyn Monroe, gets trolled for his watchful eyeWho would have thought Pakistan's defence minister would spend his time spotting a smartwatch on an AI Marilyn Monroe image? With the country facing real-life threats, Khawaja Asif's viral puzzle moment left social media in stitches and many wondering if this was the best use of his public platform."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-new-trailer-ranbir-kapoor-lord-rama-vows-to-vanquish-yash-ravana-in-epic-clash-sai-pallavi-sita-3018233-2026-10-15",
+      "headline": "Ramayana new trailer: Ranbir's Lord Rama vows to vanquish Ravana in epic clashDirector Nitesh Tiwari's new Ramayana trailer shows Ranbir Kapoor's Lord Ram battling rakshasas (demons). The promo also shows Yash's Ravana fighting against an army of devas (deities)."
     },
     {
       "sentiment": "positive",
@@ -250,14 +290,14 @@
       "headline": "Saudi Arabia warming up to Israel. Pak failure a big catalyst?Three years after Hamas's October 7 attack derailed a historic Saudi-Israeli normalisation deal, the two countries are exploring security cooperation against Yemen's Iran-backed Houthis, whose missile and drone attacks have exposed vulnerabilities in the kingdom's defences. The US is reluctant to intervene militarily, and the Mecca pact with Pakistan and Turkey has its limits. Here's how these factors have created an opening for Israel."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/university-of-chicago-fraternity-house-rape-allegation-person-of-interest-barred-3017942-2026-10-15",
-      "headline": "Woman, 21, raped at US frat party as men cheer: Let me in, when's my turn?A woman searching for her missing friend at a US fraternity party said she found men cheering outside a locked bathroom, where the 21-year-old was allegedly being sexually assaulted, as others shouted, \"Let me in.\""
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-luxury-home-dubai-shah-rukh-khan-neighbour-3018219-2026-10-15",
+      "headline": "Suryakumar Yadav buys luxury home in Dubai, becomes Shah Rukh Khan's neighbourIndia's T20 World Cup-winning captain Suryakumar Yadav has bought a luxury home in Dubai. The India batter shared a video of himself signing the property documents, with his wife, Devisha Shetty, by his side."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nepal-pm-balen-shah-india-visit-first-bilateral-trip-pm-narendra-modi-talks-agenda-itspc-3017806-2026-10-15",
-      "headline": "Balen Shah picks India, not China, for first bilateral foreign trip as Nepal PMNepal Prime Minister Balen Shah is expected to visit India in November, according to reports in Nepali media. This would be Shah's first bilateral foreign visit since becoming the PM, and he will hold delegation-level talks with PM Narendra Modi. Shah's predecessor, KP Sharma Oli, had chosen China for first foreign visit."
+      "url": "https://www.indiatoday.in/science/story/iit-madras-team-finds-a-secret-info-no-one-saw-in-polluted-air-where-will-it-flood-3018172-2026-10-15",
+      "headline": "IIT-Madras team finds a secret info hiding in polluted air: Where will it flood?An IIT Madras-led team found that aerosols improved simulations of Chennai's 2015 rainfall and flooding. The finding could help refine urban forecasts, though the approach is not yet operational."
     },
     {
       "sentiment": "positive",
@@ -266,13 +306,115 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-cargo-ship-sinking-iphones-luxury-perfumes-float-at-sea-3017815-2026-10-15",
-      "headline": "Video: iPhones, luxury perfume bottles float in Hormuz after cargo ship hits mineA viral video showing iPhones and luxury perfume bottles floating in the Strait of Hormuz has surfaced after a UAE-owned cargo ship struck a naval mine and sank. Iran said the vessel was carrying more than 2,500 containers, as attacks on vessels in the strategic waterway intensified."
+      "url": "https://www.indiatoday.in/education-today/news/story/daulat-singh-kothari-rutherford-cambridge-cavendish-drdo-education-3018274-2026-10-15",
+      "headline": "The Indian Physicist who was told Cambridge was out of reachDaulat Singh Kothari met Ernest Rutherford at Cambridge after being told that the Cavendish Laboratory was beyond his reach. The young scientist from India had been advised to stay away from the laboratory, but everything changed after Rutherford revealed that he had read Kothari's paper."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/chingrighata-flyover-paint-removed-motorcycle-skids-bjp-tmc-row-3018070-2026-10-15",
-      "headline": "Bikes skid on Kolkata's 'rainbow road', paint removed in 24 hours amid backlashThe Chingrighata flyover remained closed through Wednesday night as workers installed special fibre paver blocks to improve grip, reduce skidding and protect the surface from waterlogging and wear."
+      "url": "https://www.indiatoday.in/education-today/news/story/indian-politicians-who-studied-abroad-list-of-universities-and-their-foreign-degrees-3017350-2026-10-15",
+      "headline": "Rahul Gandhi to Mahua Moitra: Indian politicians who studied abroadAs visa restrictions and uncertainty over overseas opportunities put the spotlight on Indians studying and working abroad, the debate over bringing talent back home continues. Amid this, here is a look at Indian political leaders who studied at universities overseas."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/annamalai-we-the-leaders-apj-abdul-kalam-centre-tamil-nadu-indian-national-army-veteran-news-itspc-3018065-2026-10-15",
+      "headline": "Annamalai inaugurates Kalam academy, APJ's family, INA veteran attendThe Chief Servant of We The Leaders Foundation, K Annamalai, launched a training centre named after his new political movement's icon, former President APJ Abdul Kalam. The centre, which will offer a four-week Leadership Academy and a 100-day Field Lab for grassroots volunteers, was unveiled in the presence of an Indian National Army veteran and Kalam's family."
+    }
+  ],
+  "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/pm-narendra-modi-speech-asian-games-medallists-olympics-2036-bid-3018409-2026-10-15",
+      "headline": "Will make Olympics in India happen: PM Modi inspires Asiad medallists to aim big Prime Minister Narendra Modi's speech had a deep impact on India's Asian Games medallists as they aim to make the bid for the Olympics 2036 a reality. PM Modi spoke to the Asiad athletes on Thursday, October 15, in Delhi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-captaincy-debut-free-entry-women-raipur-india-zimbabwe-t20i-3018404-2026-10-15",
+      "headline": "Smriti Mandhana's captaincy debut comes with a bonus: Free entry for women in Raipur Smriti Mandhana's first match as India's full-time captain comes with an added attraction, as the Chhattisgarh State Cricket Association announces free entry for women for the T20I against Zimbabwe in Raipur on October 16."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/punam-raut-retirement-india-womens-cricket-international-career-3018388-2026-10-15",
+      "headline": "India women's team batter Punam Raut announces international cricket retirement Punam Raut has retired from international cricket after representing India for over 12 years. The Mumbai batter now intends to give back to the game that shaped her life."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/suryansh-shedge-india-odi-call-up-new-zealand-tour-mumbai-ranji-trophy-squad-3018370-2026-10-15",
+      "headline": "Suryansh Shedge named in Mumbai's squad after ODI call-up buzz for NZ tour Suryansh Shedge has emerged as a contender for India's ODI squad for the New Zealand tour after impressing against Australia A. The all-rounder has been named in Mumbai's Ranji Trophy squad for their clash against Himachal Pradesh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/denmark-open-treesa-gayatri-quarterfinals-srikanth-loses-alex-lanier-3018337-2026-10-15",
+      "headline": "Denmark Open: Treesa-Gayatri reach quarters, Srikkanth's valiant fight in vain Treesa Jolly and Gayatri Gopichand reached the Denmark Open quarterfinals with a sensational win on Thursday. Kidambi Srikkanth produced a vintage performance but it wasn't enough as he lost to world champion Alex Lanier in a three-game thriller."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-reaction-pm-narendra-modi-15-year-old-asian-games-remark-3018311-2026-10-15",
+      "headline": "Watch: Vaibhav Sooryavanshi's unmissable reaction after PM Modi's special remark Prime Minister Narendra Modi's remark during the Asian Games athletes' felicitation ceremony brought a smile on Vaibhav Sooryavanshi's face during the event on Thursday, October 15. Sooryavanshi was part of the Indian men's team that won gold in cricket in Japan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/murali-sreeshankar-ankle-surgery-comeback-2027-world-championships-3018318-2026-10-15",
+      "headline": "Murali Sreeshankar undergoes ankle surgery, eyes 2027 World Championships comeback Indian long jumper Murali Sreeshankar has undergone ankle surgery after his Asian Games injury. The Commonwealth Games silver medallist is targeting a comeback at the 2027 World Championships in Beijing, with LA 2028 also in his sights."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/jagsher-singh-khangurra-bwf-world-junior-championships-medal-semi-final-3018305-2026-10-15",
+      "headline": "Meet Jagsher Khangurra: India's 15-year-old badminton star with gold in his sights India's 15-year-old Jagsher Singh Khangurra saved match point to assure himself of a medal at the BWF World Junior Championships. After a stunning comeback, the Punjab shuttler is now eyeing gold as he prepares for the semi-finals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-investment-row-infantino-apologises-critics-remain-unconvinced-3018301-2026-10-15",
+      "headline": "Infantino apologises over FIFA World Cup row but fails to win over critics Gianni Infantino apologised to FIFA council members over his handling of the abandoned investment plan, but UEFA officials remained dissatisfied, saying they had received neither the requested documents nor satisfactory answers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/asian-games-review-sports-ministry-mansukh-mandaviya-federations-3018243-2026-10-15",
+      "headline": "No funding excuses, time to deliver: Sports Ministry warns in Asiad review Mansukh Mandaviya told national sports federations that funding excuses would no longer be accepted during the Asian Games review, as he advised them to start delivering results on the field and plan ahead for LA Olympics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sikandar-raza-retirement-zimbabwe-wtc-odi-world-cup-2027-3017970-2026-10-15",
+      "headline": "Sikandar Raza shuts door on retirement U-turn despite Zimbabwe's WTC hopes Sikandar Raza ruled out reversing his retirement decision even if Zimbabwe enter the World Test Championship. He believes regular Test competition would rapidly strengthen Zimbabwean cricket across formats."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-luxury-home-dubai-shah-rukh-khan-neighbour-3018219-2026-10-15",
+      "headline": "Suryakumar Yadav buys luxury home in Dubai, becomes Shah Rukh Khan's neighbourIndia's T20 World Cup-winning captain Suryakumar Yadav has bought a luxury home in Dubai. The India batter shared a video of himself signing the property documents, with his wife, Devisha Shetty, by his side."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ashwin-questions-kuldeep-yadav-omission-india-vs-west-indies-t20i-3018169-2026-10-15",
+      "headline": "India spin great questions Kuldeep's absence from T20I line-up: Lacks common senseFormer India spinner Ravichandran Ashwin has questioned India's decision to drop Kuldeep Yadav for the last two T20Is against the West Indies, saying the move lacked common sense given the visitors' struggles against the wrist spinner's variations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/video/pm-narendra-modi-jao-khaelaegaa-vaha-khailaegaa-backs-indias-sports-vision-ytvd-3018161-2026-10-15",
+      "headline": "PM Modi meets Asian Games medal winners; lauds strong performanceAddressing an audience on India's sporting ambitions and national future, Prime Minister Narendra Modi outlined key goals, including preparations for the 2028 Los Angeles Olympics, hosting the 2030 Commonwealth Games and India's aspiration to host the 2036 Olympic Games."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/east-bengal-players-antonio-habas-boycott-training-unpaid-salaries-3018158-2026-10-15",
+      "headline": "East Bengal crisis deepens as Habas, players reportedly boycott training over unpaid salariesEast Bengal are reportedly facing a financial crisis, with players and coaching staff awaiting salaries for up to three months. The unrest comes ahead of their ISL campaign, following defeats in the IFA Shield final and AFC Champions League Two."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/video/pm-narendra-modi-asian-games-medallists-message-bcci-delhi-3018151-2026-10-15",
+      "headline": "PM Modi meets Asian Games medallists, highlights splendid show by women athletesPrime Minister Narendra Modi went with India's Asian Games athletes, applauding their performance and reminding them how they made the entire nation proud with their showing in Japan. PM Modi had special praise reserved for the female athletes, who brought in the majority of the medals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/video/india-aiming-to-host-2036-olympics-commonwealth-games-in-2030-says-speaker-ytvd-3018145-2026-10-15",
+      "headline": "India Aiming to Host 2036 Olympics, Commonwealth Games in 2030, Says SpeakerSpeaking at the Major Dhyan Chand Stadium on the birth anniversary of former President APJ Abdul Kalam, the speaker felicitated Indian athletes for their historic performances at the Asian Games. Emphasising national pride, the address noted that out of eighty-five medals, thirty-eight were won by women athletes, including eleven gold medals. Historic milestones were highlighted, including the women's hockey team breaking a forty-four-year gold medal drought, victories in cricket, kabaddi, archery, shooting, boxing, wrestling, sailing, soft tennis, and mixed martial arts. Key government initiatives such as the Target Olympic Podium Scheme, Khelo India, and extensive sports infrastructure development were outlined alongside enhanced monthly allowances and international coaching support. Highlighting that young athletes aged fifteen to seventeen demonstrated exceptional promise, the speaker noted plans for talent identification among children aged five to fifteen. Reaffirming national goals, the address declared ambitions to host the 2030 Commonwealth Games and the 2036 Olympic Games while fostering a global sporting hub."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/pm-narendra-modi-asian-games-medals-meeting-powerful-image-new-india-3018122-2026-10-15",
+      "headline": "PM Modi links Asian Games success to new India, backs ambition to host 2036 OlympicsPM Narendra Modi linked India's Asian Games success to the emergence of a New India and backed the country's ambition to host the 2036 Olympics, praising women athletes and the growing strength of India's sporting ecosystem."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/video/pm-meets-asian-games-medal-winners-felicitates-athletes-after-85-medal-haul-ytvd-3018109-2026-10-15",
+      "headline": "PM Meets Asian Games Medal Winners, Felicitates Athletes After 85-Medal HaulPrime Minister Narendra Modi met the Indian medal winners of the Asian Games organized in Japan, alongside Sports Minister Mansukh Mandaviya. India secured a total of 85 medals at the games, including 21 gold, 27 silver, and 37 bronze medals, taking the country's cumulative Asian Games tally past 800 medals. Several gold medals were secured in categories where India had not previously won gold. The contingent included numerous female athletes, boxers, and wrestlers, many hailing from small towns and rural areas across the country."
     },
     {
       "sentiment": "positive",
@@ -281,100 +423,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/how-salman-khan-and-karisma-kapoor-brew-nostalgia-with-a-side-of-platonic-teasing-on-koffee-with-karan-9-3018053-2026-10-15",
-      "headline": "How Salman and Karisma brew nostalgia, with a side of 'platonic' teasing on Koffee 9Salman Khan and Karisma Kapoor reunited during the premiere of Koffee With Karan Season 9. Their playful anecdotes and enduring camaraderie had fans demanding another film together. Because, what do you mean Lolo and Bhai still look this good together!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-caste-guidelines-jee-rank-queries-student-protests-3017811-2026-10-15",
-      "headline": "IIT Bombay bars questions on caste, JEE ranks as student protests intensifyIIT Bombay reiterated anti-discrimination guidelines as protesting students demanded direct talks. The dispute has sharpened scrutiny of campus welfare, grievance mechanisms and inclusion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/mumbai-police-asks-actor-imran-khan-who-holds-us-citizenship-to-leave-india-over-anti-cec-protest-sources-3017691-2026-10-15",
-      "headline": "Imran Khan to fight 'Leave India' order as cops invoke Foreigners Act over protestMumbai Police on Thursday issued a notice, asking actor Imran Khan to leave India by October 28 after he participated and was detained during the anti-CEC protest in Mumbai on Saturday. The actor is now planning to challenge the order in court."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-ropar-defence-technology-mtech-59-armoured-corps-officers-3017964-2026-10-15",
-      "headline": "IIT Ropar's new MTech: Turning Op Sindoor lessons into defence tech skillsIIT Ropar conferred its first MTech degrees in Defence Technology on 59 Armoured Corps officers. The programme included thesis work on operational and technological problems faced by the armed forces, linking field experience with research and preparing officers for future scenarios such as Operation Sindoor."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/jobs/story/zoho-ceo-reveals-skipping-appraisals-was-better-than-troubling-customers-tchc-3017801-2026-10-15",
-      "headline": "Zoho CEO says skipping appraisals was better than troubling customersZoho founder Sridhar Vembu says the company is retraining employees instead of resorting to layoffs as AI and data centre costs rise. He has taken a different approach from other software companies and says the results will become clear by 2030."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/durga-puja-2026-bonedi-barir-puja-tradition-kolkata-ancestral-homes-heritage-tours-3017198-2026-10-15",
-      "headline": "Beyond pandal-hopping, Bengal has another Durga Puja storyIn West Bengal, Durga Puja brings the joy of pandal-hopping, dhunuchi dance, delicious food and new clothes. But beyond these familiar festivities, another centuries-old tradition unfolds inside ancestral homes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/bengaluru-heavy-evening-rain-thunderstorms-waterlogging-south-india-wet-weekend-3018095-2026-10-15",
-      "headline": "Bengaluru rain: Intense showers to hit city as north-east monsoon movesHeavy rain and thunderstorms are expected across Bengaluru through the evening and night. The spell may cause waterlogging as several southern cities face a wet weekend."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/jio-platforms-ipo-press-conference-live-updates-price-band-date-rhp-media-interaction-3017906-2026-10-15",
-      "headline": "Jio aims to deliver greater customer value through in-house technology: Akash AmbaniJio Platforms IPO LIVE Updates: Reliance Industries' digital and telecom arm, Jio Platforms, is preparing to launch its much-anticipated initial public offering (IPO). The company has filed its Red Herring Prospectus (RHP), with the public issue expected to raise Rs 30,213 crore at the upper end of the price band. Follow India Today for LIVE updates on the Jio Platforms IPO, including the issue price band, IPO opening and closing dates, RHP details, employee and shareholder reservations, company announcements and key developments from the media interaction."
-    }
-  ],
-  "sports": [
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ashwin-questions-kuldeep-yadav-omission-india-vs-west-indies-t20i-3018169-2026-10-15",
-      "headline": "India spin great questions Kuldeep's absence from T20I line-up: Lacks common sense Former India spinner Ravichandran Ashwin has questioned India's decision to drop Kuldeep Yadav for the last two T20Is against the West Indies, saying the move lacked common sense given the visitors' struggles against the wrist spinner's variations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/video/pm-narendra-modi-jao-khaelaegaa-vaha-khailaegaa-backs-indias-sports-vision-ytvd-3018161-2026-10-15",
-      "headline": "PM Narendra Modi: '\u091c\u094b \u0916\u0947\u0932\u0947\u0917\u093e \u0935\u0939 \u0916\u093f\u0932\u0947\u0917\u093e', Backs India's Sports Vision Addressing an audience on India's sporting and national future, Prime Minister Narendra Modi outlined major goals, including preparations for the 2028 Los Angeles Olympics, hosting the 2030 Commonwealth Games, and India's aspiration to host the 2036 Olympic Games. Referring to his Red Fort announcement of a nationwide talent hunt, Modi emphasised scouting and honing young talent across villages and small towns to secure future podium finishes. He asserted with confidence, 'We will do it', regarding India becoming a global sports hub, building world-class infrastructure, and ranking among top sporting nations. Modi highlighted the expanding sports ecosystem encompassing coaching, physiotherapy, and broadcasting. Reminding athletes that '\u091c\u094b \u0916\u0947\u0932\u0947\u0917\u093e \u0935\u0939 \u0916\u093f\u0932\u0947\u0917\u093e', he urged experienced sportspersons to visit local schools and guide emerging talent, while linking youth power to broader national strides in space, artificial intelligence, startups, and the vision of Viksit Bharat at 2047."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/east-bengal-players-antonio-habas-boycott-training-unpaid-salaries-3018158-2026-10-15",
-      "headline": "East Bengal crisis deepens as Habas, players reportedly boycott training over unpaid salaries East Bengal are reportedly facing a financial crisis, with players and coaching staff awaiting salaries for up to three months. The unrest comes ahead of their ISL campaign, following defeats in the IFA Shield final and AFC Champions League Two."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/video/pm-narendra-modi-asian-games-medallists-message-bcci-delhi-3018151-2026-10-15",
-      "headline": "PM Modi meets Asian Games medallists, highlights splendid show by women athletes Prime Minister Narendra Modi went with India's Asian Games athletes, applauding their performance and reminding them how they made the entire nation proud with their showing in Japan. PM Modi had special praise reserved for the female athletes, who brought in the majority of the medals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/video/india-aiming-to-host-2036-olympics-commonwealth-games-in-2030-says-speaker-ytvd-3018145-2026-10-15",
-      "headline": "India Aiming to Host 2036 Olympics, Commonwealth Games in 2030, Says Speaker Speaking at the Major Dhyan Chand Stadium on the birth anniversary of former President APJ Abdul Kalam, the speaker felicitated Indian athletes for their historic performances at the Asian Games. Emphasising national pride, the address noted that out of eighty-five medals, thirty-eight were won by women athletes, including eleven gold medals. Historic milestones were highlighted, including the women's hockey team breaking a forty-four-year gold medal drought, victories in cricket, kabaddi, archery, shooting, boxing, wrestling, sailing, soft tennis, and mixed martial arts. Key government initiatives such as the Target Olympic Podium Scheme, Khelo India, and extensive sports infrastructure development were outlined alongside enhanced monthly allowances and international coaching support. Highlighting that young athletes aged fifteen to seventeen demonstrated exceptional promise, the speaker noted plans for talent identification among children aged five to fifteen. Reaffirming national goals, the address declared ambitions to host the 2030 Commonwealth Games and the 2036 Olympic Games while fostering a global sporting hub."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/pm-narendra-modi-asian-games-medals-meeting-powerful-image-new-india-3018122-2026-10-15",
-      "headline": "PM Modi links Asian Games success to new India, backs ambition to host 2036 Olympics PM Narendra Modi linked India's Asian Games success to the emergence of a New India and backed the country's ambition to host the 2036 Olympics, praising women athletes and the growing strength of India's sporting ecosystem."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/video/pm-meets-asian-games-medal-winners-felicitates-athletes-after-85-medal-haul-ytvd-3018109-2026-10-15",
-      "headline": "PM Meets Asian Games Medal Winners, Felicitates Athletes After 85-Medal Haul Prime Minister Narendra Modi met the Indian medal winners of the Asian Games organized in Japan, alongside Sports Minister Mansukh Mandaviya. India secured a total of 85 medals at the games, including 21 gold, 27 silver, and 37 bronze medals, taking the country's cumulative Asian Games tally past 800 medals. Several gold medals were secured in categories where India had not previously won gold. The contingent included numerous female athletes, boxers, and wrestlers, many hailing from small towns and rural areas across the country."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/pm-modi-felicitates-indias-medal-winners-at-the-asian-games-2026-in-delhi-3018051-2026-10-15",
-      "headline": "PM Modi felicitates Asian Games 2026 medal winners in Delhi India finished fourth at the 2026 Asian Games in Aichi-Nagoya with 85 medals, including 21 golds. Archery, wrestling, boxing and team sports delivered strong results, while badminton, tennis and shooting recorded setbacks compared with previous performances."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-australia-matthew-breetzke-replaces-stubbs-rickelton-keeper-3017894-2026-10-15",
-      "headline": "South Africa drop Stubbs, Rickelton to keep wickets in Gqeberha Test vs Australia South Africa have dropped Tristan Stubbs and recalled Matthew Breetzke for the second Test against Australia in Gqeberha, starting October 18. Ryan Rickelton will take over wicketkeeping duties."
+      "headline": "South Africa drop Stubbs, Rickelton to keep wickets in Gqeberha Test vs AustraliaSouth Africa have dropped Tristan Stubbs and recalled Matthew Breetzke for the second Test against Australia in Gqeberha, starting October 18. Ryan Rickelton will take over wicketkeeping duties."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vishvajit-more-first-indian-greco-roman-silver-u23-world-championships-3017830-2026-10-15",
-      "headline": "Vishvajit More becomes first Indian to win Greco-Roman silver at U23 Worlds Vishvajit Ramchandra More became the first Indian to win Greco-Roman silver at the U23 World Wrestling Championships after losing 12-13 to Georgia's Koba Karumidze in the men's 55kg final on Thursday."
+      "headline": "Vishvajit More becomes first Indian to win Greco-Roman silver at U23 WorldsVishvajit Ramchandra More became the first Indian to win Greco-Roman silver at the U23 World Wrestling Championships after losing 12-13 to Georgia's Koba Karumidze in the men's 55kg final on Thursday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-5000-t20i-runs-india-captain-zimbabwe-series-3017787-2026-10-15",
-      "headline": "Smriti Mandhana chases the unthinkable, a record never achieved in cricket Smriti Mandhana is 133 runs away from becoming the first batter to score 5,000 runs in T20I cricket as India take on Zimbabwe in a three-match series. The series also marks the beginning of her tenure as India's full-time captain."
+      "headline": "Smriti Mandhana chases the unthinkable, a record never achieved in cricketSmriti Mandhana is 133 runs away from becoming the first batter to score 5,000 runs in T20I cricket as India take on Zimbabwe in a three-match series. The series also marks the beginning of her tenure as India's full-time captain."
     },
     {
       "sentiment": "positive",
@@ -415,66 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-4th-t20i-sunil-gavaskar-hyderabad-pitch-critics-full-toss-bowlers-3017599-2026-10-15",
       "headline": "Sunil Gavaskar to pitch critics: Don't bowl full tosses and then blame the pitchIND vs WI: Sunil Gavaskar hit back at pitch critics after India's Hyderabad defeat, blaming poor bowling lengths and too many full tosses rather than the surface. Captain Shreyas Iyer also admitted that India's failure to execute plans with the ball proved costly."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-4th-t20i-arshdeep-singh-injury-shamar-joseph-spirit-of-the-game-3017597-2026-10-15",
-      "headline": "West Indies slammed for final over antics to target Arshdeep Singh in HyderabadIND vs WI: West Indies drew criticism after Shamar Joseph continued bowling short deliveries at Arshdeep Singh in the final over of the fourth T20I. Former Bengal cricketer Shreevats Goswami called the approach against the spirit of the game."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/video/no-tv-to-watch-asian-games-win-india-today-gifts-tv-to-shooter-neeru-dhanda-ytvd-3017567-2026-10-14",
-      "headline": "Neeru Dhanda's parents missed her Asian Games, India Today gifts family a new TVIndian trap shooter Neeru Dhanda won three shooting medals at the Asian Games in Japan, but her parents were unable to watch her historic achievement because they lacked a television set at home. Addressing this, the India Today and Aaj Tak team visited her residence and installed a brand-new television. Her mother, Sudesh Devi, welcomed the new TV by applying a auspicious tilak of turmeric paste. Alongside her husband Suresh, she now eagerly looks forward to watching their daughter compete and aim for gold at the 2028 Olympic Games."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-4th-t20i-gautam-gambhir-birthday-shai-hope-keemo-paul-hyderabad-3017546-2026-10-14",
-      "headline": "Gambhir gets no birthday gift as Hope, bowlers help West Indies draw levelA commanding hundred from Shai Hope and a five-wicket haul from Keemo Paul spoiled the birthday celebrations for Gautam Gambhir as West Indies levelled the series in Hyderabad."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/punjab-fc-vs-odisha-fc-messi-bouli-isl-2026-27-match-report-3017525-2026-10-14",
-      "headline": "First-minute punch, last-gasp winner: Messi Bouli seals Punjab FC's 2-1 win vs OdishaMessi Bouli scored in the opening minute and struck again in the 90+5th minute as Punjab FC edged Odisha FC 2-1 in their Indian Super League 2026-27 opener at the Jawaharlal Nehru Stadium in New Delhi on Wednesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/bfi-crisis-ajay-singh-pramod-kumar-mutual-suspensions-no-confidence-vote-3017482-2026-10-14",
-      "headline": "Boxing federation drama deepens as president, secretary trade suspensionsBFI president Ajay Singh and secretary general Pramod Kumar suspended each other through rival orders. This is the latest episode in a power struggle between both men in the boxing federation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-4th-t20i-darren-sammy-guavas-snacks-advice-hyderabad-shai-hope-3017466-2026-10-14",
-      "headline": "IND vs WI: Daren Sammy snacks on guavas with a side of cricketing advice in HyderabadIND vs WI: Daren Sammy turned heads during the India vs West Indies 4th T20I, tucking into guavas seemingly meant to help players refuel at the innings break. The relaxed coach chatted with Rovman Powell as Shai Hope's unbeaten 102 powered West Indies to 247/3."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/india-asian-games-rowing-controversy-salman-khan-3017438-2026-10-14",
-      "headline": "India's only rowing medal at Asian Games 2026: A bronze worth its weight in goldSalman Khan and Satnam Singh won India's only rowing medal at the Asian Games 2026, their worst performances since 2002. Here's why the bronze medal is worth its weight in gold."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/ann-li-stuns-aryna-sabalenka-wuhan-open-2026-upset-3017435-2026-10-14",
-      "headline": "Aryna Sabalenka floored by unseeded Ann Li in massive shockerUnseeded American Ann Li stunned top seed Aryna Sabalenka 3-6, 6-4, 7-6(5) to knock the Belarusian out of the Wuhan Open in a massive upset. Sabalenka's struggles continued as Li rallied from a set down to claim the biggest win of her career and set up a round-of-16 clash against Janice Tjen."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/yuvraj-singh-sourav-ganguly-delhi-capitals-assistant-coach-ipl-3017390-2026-10-14",
-      "headline": "Been your assistant for 25 years: Yuvraj's witty reply to Sourav Ganguly's DC offerYuvraj Singh revealed the witty response he gave Sourav Ganguly when he was offered the chance to serve as the former India captain's assistant at Delhi Capitals. Yuvraj aims to bring IPL glory to DC along with Ganguly."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/prithvi-shaw-interview-ranji-trophy-maharashtra-vs-services-3017348-2026-10-14",
-      "headline": "Prithvi Shaw: I have stopped going out. It's me, my family and cricket nowAfter a difficult few years, Prithvi Shaw is shutting out the noise, enjoying his cricket and holding on to his India dream. In a candid chat, he opens up about setbacks, family and his PS5 escape."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-india-captain-zimbabwe-series-womens-champions-trophy-3017357-2026-10-14",
-      "headline": "Smriti Mandhana's first captaincy test: Building towards the Women's Champions TrophyNewly appointed India captain Smriti Mandhana will use the Zimbabwe series and South Africa tour to fine-tune India's T20I approach and prepare for the inaugural Women's Champions Trophy early next year"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/pranavi-urs-meets-rory-mcilroy-asian-games-gold-3017330-2026-10-14",
-      "headline": "Asiad gold medallist Pranavi lives her fangirl dream, meets golf icon McIlroyAsian Games champion Pranavi Urs had the ultimate fangirl moment as she met her idol Rory McIlroy in Delhi on Wednesday, October 14. McIlroy praised Pranavi for the resilience she showed to win a historic gold during the Asian Games."
     }
   ],
   "education": [
@@ -564,7 +564,7 @@
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
