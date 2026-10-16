@@ -2,6 +2,41 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/gold-etf-subscriptions-mutual-funds-halted-dussehra-diwali-festive-buying-rupee-pressure-3018618-2026-10-16",
+      "headline": "Mutual funds suspend bulk subscriptions to gold ETFs ahead of festive seasonMajor mutual funds have suspended bulk subscriptions to gold ETFs while keeping redemptions open. The move precedes festive demand and follows reported discussions with Sebi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/yes-bank-shares-fall-supreme-court-rs-8415-crore-at1-bond-write-off-impact-investor-earning-3018596-2026-10-16",
+      "headline": "Yes Bank shares slide 3% after verdict on AT-1 bonds: Will it impact investors?The Supreme Court upheld the decision setting aside Yes Bank's Rs 8,415-crore AT-1 bond write-off. The verdict pressures earnings and capital, although S&P expects credit ratings to remain unaffected."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/it-stocks-rally-7-percent-tech-mahindra-wipro-infosys-tcs-why-quarterly-results-q2-ai-global-selloff-3018562-2026-10-16",
+      "headline": "Tech Mahindra, Wipro, Infosys, TCS jump up to 7%: Why are IT stocks rising today?Tech Mahindra led a sharp rally in IT stocks after stronger quarterly results. Improved deal prospects and global technology volatility boosted investor interest in Indian equities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-today-it-stocks-rally-q2-results-market-recovery-3018553-2026-10-16",
+      "headline": "Sensex, Nifty erase early losses as IT stocks rally on Q2 resultsAt around 10:04 am, the BSE Sensex was trading at 74,470.20, up 154.59 points or 0.21%. The index had opened at 74,341.08 and slipped to an intraday low of 74,012.99 before recovering. The NSE Nifty 50 was at 23,054.55, up 57.20 points or 0.25%, after opening at 23,065.10."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-petrol-export-duty-raised-five-times-diesel-duty-cut-half-october-16-3018518-2026-10-16",
+      "headline": "Govt hikes petrol export duty to Rs 2.5 per litre, cuts diesel duty to Rs 8.5India has raised the petrol export duty while reducing the levy on diesel shipments. The contrasting revisions reflect fortnightly adjustments linked to global crude and petroleum product prices."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/tata-trusts-trustee-dispute-mehli-mistry-opposes-delay-eligibility-check-sdtt-srtt-3018500-2026-10-16",
+      "headline": "Mehli Mistry opposes further delay in Tata Trusts row, questions trustee eligibilityMehli Mistry asked the Maharashtra Charity Commissioner to reject further delays and verify a proposed trustee's eligibility. The submissions focus attention on procedural delays and conditions prescribed by the original trust deed."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/yes-bank-at1-bonds-supreme-court-rs-8415-crore-write-off-quashed-3018487-2026-10-16",
+      "headline": "Their savings vanished in 2020. Six years later, Yes Bank bondholders get justiceThe Supreme Court has upheld the decision to set aside the Rs 8,415 crore write-off of Yes Bank's AT-1 bonds. Six years ago, I spoke to families who had invested their savings, believing their money was safe. They raised their voices when those savings were wiped out. It has taken six years for their fight to find justice in court."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/jio-targets-6g-rollout-in-early-2030s-eyes-global-expansion-akash-ambani-3018215-2026-10-15",
       "headline": "Jio eyes global markets, targets 6G rollout in early 2030s: Akash AmbaniAkash Ambani said 6G technology was still in the pre-standardisation phase, with standards likely to be established around 2029. Commercial rollouts are expected to begin in the early 2030s."
     },
@@ -64,44 +99,54 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/imf-backs-indias-gdp-data-revamp-says-rupee-pressure-is-no-sign-of-failure-3017742-2026-10-15",
       "headline": "IMF backs India's GDP data revamp, says rupee pressure is no sign of failureSpeaking at a press briefing in Bangkok on Thursday, Krishna Srinivasan, Director of the IMF's Asia and Pacific Department, said India had entered the shock with strong growth and fiscal discipline and had responded well to the challenges."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/why-market-rise-sensex-nifty-rally-it-stocks-up-global-sell-off-ai-stocks-crash-us-inflation-3017687-2026-10-15",
-      "headline": "Sensex jumped 1,500 points despite global sell-off: Why markets rose today?The BSE Sensex rose 1,533.72 points, or 2.11%, to close at 74,315.61. The NSE Nifty 50 gained 374.65 points, or 1.66%, to settle at 22,997.35."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/idbi-bank-shares-fall-fairfax-stake-sale-deal-lic-disinvestment-3017675-2026-10-15",
-      "headline": "IDBI Bank shares crash 7%: Why is the stock falling?The Union Cabinet on Wednesday approved the sale of a combined 60.72% stake in IDBI Bank by the Centre and Life Insurance Corporation of India (LIC) to a Fairfax-backed entity for Rs 52,878 crore. The deal involves the government's 30.48% stake and LIC's 30.24% holding in the bank."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-300-points-higher-nifty-above-22700-idbi-bank-shares-down-3-3017665-2026-10-15",
-      "headline": "Sensex, Nifty open higher as IT stocks rally, US inflation concerns cap gainsThe BSE Sensex was trading at 73,215.72, up 433.83 points or 0.60%, around 9:25 am. The Nifty 50 rose 121.15 points, or 0.54%, to 22,743.85 around 9:26 am. It opened at 22,671.30 and touched an early high of 22,744.25."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/kospi-crash-south-korea-sidecar-trading-curb-tech-stocks-down-sk-hynix-samsung-3017657-2026-10-15",
-      "headline": "South Korea triggers trading halt as KOSPI crashes 7%, SK Hynix plunges 11%The trigger came as the KOSPI extended its losing streak to seven sessions, its longest since September 2024. The sell-off was led by major technology stocks, with Samsung Electronics falling 9.05% and SK Hynix plunging 11.06%."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/imf-asia-growth-outlook-global-outperformance-inflation-rate-hike-risks-ai-jobs-3017639-2026-10-15",
-      "headline": "IMF sees Asia outpacing world growth, warns central banks on inflationThe IMF urged Asian central banks to prioritise price stability while forecasting stronger regional growth. Rising energy costs, uneven technology gains and fiscal constraints cloud the outlook."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/2026-economics-nobel-robert-e-hall-michael-woodford-emi-inflation-jobs-3016112-2026-10-15",
-      "headline": "What your EMI, job and grocery bill have to do with the 2026 Economics NobelRobert E Hall and Michael Woodford won the 2026 Economics Nobel for showing how decisions by households and businesses shape the wider economy. Their work helps explain how interest rates, taxes and central bank signals affect EMIs, prices and jobs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/jio-platforms-ipo-price-band-rs-1065-1119-record-rs-30213-crore-issue-3017574-2026-10-14",
-      "headline": "Jio sets Rs 1,065-1,119 IPO price band, eyes India's biggest-ever listingJio Platforms has set a price band of Rs 1,065 to Rs 1,119 for its IPO. The fresh issue could raise Rs 30,213 crore and become India's largest offering."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/nayyi-navelli-movie-review-witchful-thinking-wasted-potential-in-yami-gautam-film-3018574-2026-10-16",
+      "headline": "Nayyi Navelli review: Witchful thinking, wasted potential in Yami Gautam's filmRelease Date:Fri Oct 16, 2026 Nayyi Navelli movie review: Bantu accuses Mohini of being a daayan after finding her performing a forest ritual. The promising horror-comedy loses balance as mythology overwhelms its stronger first half."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ranabaali-x-reviews-vijay-deverakonda-rashmika-mandanna-film-slow-narration-3018565-2026-10-16",
+      "headline": "Ranabaali X reviews: Vijay Deverakonda's film disappoints, viewers slam slow pace Viewers on X criticised Ranabaali's pacing, British sequences and second half. However, a section of people praised Vijay Deverakonda's screen presence and his scenes with Rashmika Mandanna amid the negative response."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/reviews/story/whalefall-review-austin-abrams-inventive-thriller-occasionally-loses-its-breath-3018560-2026-10-16",
+      "headline": "Whalefall review: Austin Abrams' inventive thriller occasionally loses its breathRelease Date:Fri Oct 16, 2026 A diver searching for his father's remains becomes trapped inside a sperm whale. His fight for oxygen forces him to confront grief and inherited masculinity."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/street-fighter-review-noah-centineo-vidyut-jammwal-action-film-unapologetically-silly-testosterone-fuelled-3018543-2026-10-16",
+      "headline": "Street Fighter review: Noah's film is unapologetically silly, testosterone-fuelledRelease Date:Fri Oct 16, 2026 Ryu and Ken enter the World Warrior Tournament before confronting M. Bison's conspiracy. The adaptation embraces cartoonish combat and humour, though its relentless excess limits emotional depth."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/imran-khan-frro-notice-kiran-rao-questions-order-to-leave-india-3018523-2026-10-16",
+      "headline": "Studied, worked, loved here: Kiran Rao backs Imran Khan amid exit India notice Kiran Rao questioned the FRRO notice directing Imran Khan to leave India by October 28. The order followed his detention during a Mumbai protest over electoral roll revision concerns."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-box-office-day-1-rajinikanth-film-rs-125-crore-worldwide-3018483-2026-10-16",
+      "headline": "Jailer 2 box office Day 1: Rajinikanth film roars, but Coolie and Leo stay ahead Rajinikanth's Jailer 2 collected an estimated Rs 125.25 crore worldwide on its opening day. Directed by Nelson, the sequel hit theatres on October 15."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/hrithik-roshan-jailer-2-cameo-rajinikanth-tribute-40-year-reunion-3018183-2026-10-16",
+      "headline": "All about Hrithik cameo in Jailer 2, a 40-year story and love letter to Rajinikanth Hrithik Roshan joins Rajinikanth in Jailer 2 as Roddy, stepping in to rescue Tiger. His cameo brings their Bhagwan Dada connection full circle, blending heartfelt gratitude with Rajinikanth's signature swagger."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/imran-khan-shares-family-hug-with-lekha-washington-zayn-marie-khan-amid-leave-india-order-3018468-2026-10-16",
+      "headline": "Imran Khan shares family hug with Lekha, Zayn amid Leave India order Imran Khan shared a family embrace with Lekha Washington and Zayn Marie Khan after their Mumbai detention. The actor shared the photo as he prepared to challenge his Leave India notice and police summons."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/ben-affleck-praises-ex-wife-jennifer-lopezs-work-ethic-calls-her-a-pioneer-3018464-2026-10-16",
+      "headline": "Ben Affleck praises ex-wife Jennifer Lopez's work ethic, calls her a pioneer Ben Affleck praised his ex-wife, actor Jennifer Lopez's work ethic and pioneering career in Hollywood. He said her success came despite industry barriers and a continuing double standard."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-new-trailer-x-review-jatayu-battle-ranbir-yash-scenes-leave-fans-stunned-3018391-2026-10-15",
@@ -151,73 +196,43 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-3-announcement-rajinikanth-jailer-2-ending-leaves-door-open-for-a-fresh-sequel-3018049-2026-10-15",
       "headline": "Will we have Jailer 3? Rajinikanth's Jailer 2 leaves door open for a fresh sequel Jailer 2 ends on a high, delivering everything you expect from a Rajinikanth film \u2013 and then some. But, the world of Jailer might not be over just yet. The film's ending leaves enough clues to suggest that another sequel could be on the cards."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/how-salman-khan-and-karisma-kapoor-brew-nostalgia-with-a-side-of-platonic-teasing-on-koffee-with-karan-9-3018053-2026-10-15",
-      "headline": "How Salman and Karisma brew nostalgia, with a side of 'platonic' teasing on Koffee 9 Salman Khan and Karisma Kapoor reunited during the premiere of Koffee With Karan Season 9. Their playful anecdotes and enduring camaraderie had fans demanding another film together. Because, what do you mean Lolo and Bhai still look this good together!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ashoke-pandit-backs-imran-khan-leave-india-notice-after-mumbai-protest-3018008-2026-10-15",
-      "headline": "Educate yourself: Ashoke Pandit backs notice asking Imran Khan to leave India Ashoke Pandit supports the notice asking actor Imran Khan to leave India, criticising his participation in a political protest despite being a US citizen. He urges non-citizens to understand Indian laws before engaging in demonstrations that could cause unrest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/rise-fall-2-episode-20-niharika-tiwari-votes-out-raj-kaira-shehzad-poonawalla-irina-heated-clash-3017937-2026-10-15",
-      "headline": "Rise & Fall 2: Niharika votes out Raj and Kaira; Shehzad-Irina get into heated clash As Rise & Fall 2 hits Judgement Day, Ultimate Ruler Niharika Tiwari sealed the fate of Raj and Kaira in an emotional double elimination. During a heated discussion, Shehzad Poonawalla had a clash with Irina Rudakova in the Penthouse."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/kartik-aaryan-sreeleela-film-release-date-april-30-2027-3017973-2026-10-15",
-      "headline": "Kartik Aaryan, Sreeleela's musical pushed to April 2027, release date out Kartik Aaryan and Sreeleela's romantic musical will reach cinemas on April 30, 2027. The revised schedule leaves Anurag Basu's film untitled as fans await further details."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/bihar-has-entered-the-chat-ai-bhojpuri-song-gyaneshwa-khel-kayile-ba-targeting-cec-gyanesh-kumar-goes-viral-3017834-2026-10-15",
-      "headline": "Bihar has entered the chat: AI Bhojpuri song targeting CEC Gyanesh Kumar goes viral Chief Election Commissioner Gyanesh Kumar has found himself at the centre of a political row with a Bhojpuri beat. An AI-generated song taking aim at the poll chief is doing the rounds on protest reels, where electoral-roll concerns are getting a dose of internet humour and a distinctly musical form of dissent."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ravi-kishan-rahul-gandhi-kohinibaaz-prime-minister-jibe-viral-video-3017841-2026-10-15",
-      "headline": "Jab aap PM banoge: Ravi Kishan's slip of tongue on Rahul Gandhi goes viral. Watch Ravi Kishan's slip of tongue while mocking Rahul Gandhi has gone viral. His unintended remark about Gandhi becoming Prime Minister has become the talk of the town, drawing attention to political rivalries in a humorous light."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/abusing-prime-minister-narendra-modi-calling-him-chaiwala-anupam-kher-calls-for-peace-at-cec-protests-3017760-2026-10-15",
-      "headline": "Abusing PM Modi, calling him chaiwala? Anupam Kher calls for peace at CEC protests Actor Anupam Kher defended peaceful dissent while objecting to abuse, vandalism and violence during protests. His message urged supporters of Prime Minister Narendra Modi to voice their views confidently and civilly."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-action-director-chetan-dsouza-interview-rajinikanth-stunts-trailer-live-blast-scene-news-update-3017589-2026-10-15",
-      "headline": "Rajinikanth's Jailer 2 building blast was real: Stunt director Chethan D'Souza In an exclusive interview with India Today, the stunt and action director of Jailer 2 opens up about designing action for Rajinikanth, the live blast in the trailer and working with director Nelson Dilipkumar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/go-and-earn-money-sc-allows-release-of-actor-rajpal-yadavs-passport-to-travel-abroad-for-movie-shoot-3017779-2026-10-15",
-      "headline": "SC allows Rajpal Yadav to travel to Canada for a shoot amid cheque-bounce case The Supreme Court has allowed actor Rajpal Yadav to travel to Canada for a film shoot despite his ongoing cheque-bounce case, while referring his financial dispute to mediation. The court urged him to focus on work and repay his creditors, signalling a way forward for amicable resolution."
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ahead-of-tiranga-march-cjps-abhijeet-dipke-says-delhi-police-may-detain-him-3018459-2026-10-16",
-      "headline": "CJP's Abhijeet Dipke claims IB is tracking him, says Delhi Police may detain himAbhijeet Dipke alleged surveillance and possible detention ahead of the CJP's Tiranga march. The protest seeks Chief Election Commissioner Gyanesh Kumar's removal over alleged electoral roll irregularities."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/gunfire-at-an-elementary-school-in-bend-oregon-us-wounded-multiple-victims-shooter-killed-3018458-2026-10-16",
-      "headline": "4 children, teacher killed in US school shooting, teen gunman shot deadA shooting at Silver Rail Elementary School in Bend, Oregon, left multiple victims, including children, on Thursday. US media reported one adult and three children killed. The suspected gunman was found dead, possibly shot by an armed bystander, police said."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/special-parliament-session-this-month-govt-has-numbers-to-pass-bills-on-delimitation-womens-quota-sources-3018544-2026-10-16",
+      "headline": "Special Parliament session this month, govt has numbers to pass key bills: SourcesTop government sources have told India Today that the Centre believes it has the numbers to pass the proposed delimitation and women's reservation bills and is reaching out to the DMK and smaller Opposition parties to shore up support ahead of a likely special session of Parliament later this month."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rajasthan-bjp-madan-rathore-pakistan-war-remark-congress-aap-row-3018420-2026-10-15",
-      "headline": "If US-Pak war breaks out, we'll stand with Pakistan: Rajasthan BJP chief sparks rowRajasthan BJP chief Madan Rathore said India should side with Pakistan if a war broke out between Pakistan and the US, drawing sharp criticism from Congress leaders and other political figures."
+      "url": "https://www.indiatoday.in/india/law-news/story/cjp-tiranga-march-supreme-court-declines-urgent-hearing-flags-business-impact-3018623-2026-10-16",
+      "headline": "Hope better judgment prevails: SC refuses immediate order on CJP Tiranga marchThe Supreme Court declined an urgent hearing against the closure of the Central Park in Connaught Place ahead of the CJP's planned Tiranga march. The bench flagged livelihood concerns while noting the links between protest rights, business and law and order."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jammu-kashmir-ias-officer-kumar-rajeev-ranjan-abuses-beenish-wani-video-row-iltija-mufti-demands-3018431-2026-10-16",
-      "headline": "You're bloody sh*t: J&K IAS officer abuses woman subordinate, video sparks outrageA leaked video shows J&K IAS officer Kumar Rajeev Ranjan abusing woman subordinate Beenish Wani during a Mission YUVA review meeting and threatening to suspend and dismiss her."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/asaduddin-owaisi-elon-musk-ambani-starlink-jio-aimim-pm-modi-rahul-gandhi-itspc-3018614-2026-10-16",
+      "headline": "Have opposed Modi, but a gora can't dictate: AIMIM chief Owaisi rains fire on MuskAIMIM chief Asaduddin Owaisi has questioned Elon Musk's remarks asking whether Reliance chairman Mukesh Ambani was the 'real boss of India'. Owaisi's reaction was very different from Congress leader Rahul Gandhi's."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/h1b-visa-impact-sridhar-vembu-urges-indians-to-return-to-india-harvard-graduate-questions-system-3018572-2026-10-16",
+      "headline": "Where is the support to build in India? Harvard grad questions Sridhar Vembu's callAfter Zoho founder Sridhar Vembu urged Indians in the United States to return and build India amid immigration uncertainty, Simran, a Harvard graduate, says she has already returned, but questioned whether the country offers enough support to those willing to build here."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/how-did-elon-musks-tesla-roadster-jump-flip-mid-air-and-land-science-explained-3018589-2026-10-16",
+      "headline": "Elon Musk unveils a 'flying' Tesla. Unlike Rohit Shetty's, this follows physicsTesla's new Roadster used SpaceX-developed thrusters to lift, rotate mid-air and land. The demonstration adapts spacecraft propulsion technology for brief, controlled automotive manoeuvres."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ranabaali-movie-release-and-review-live-updates-vijay-deverakonda-rashmika-mandanna-film-3018460-2026-10-16",
+      "headline": "Live: Vijay-Rashmika's Ranabaali struggles to impress fansRanabaali Movie Review and Release Live Updates: Vijay Deverakonda stars as a warrior who fights British rule in this period action drama. Rashmika Mandanna plays his wife, Jayamma, in the film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/elon-musk-starlink-india-russia-ukraine-war-kyiv-drone-strike-volodymyr-zelenskyy-national-security-itspc-3017847-2026-10-16",
+      "headline": "Musk wants Starlink in India. Ukraine shows what happens when it goes darkElon Musk has been pushing to bring his Starlink service to India. But Ukraine's experience shows how dependence on a privately controlled foreign satellite network can disrupt military operations."
     },
     {
       "sentiment": "positive",
@@ -226,8 +241,68 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ranabaali-movie-release-and-review-live-updates-vijay-deverakonda-rashmika-mandanna-film-3018460-2026-10-16",
-      "headline": "Ranabaali Movie Release and Review Live: Vijay-Rashmika's film divides early viewersRanabaali Movie Review and Release Live Updates: Vijay Deverakonda stars as a warrior who fights British rule in this period action drama. Rashmika Mandanna plays his wife, Jayamma, in the film."
+      "url": "https://www.indiatoday.in/movies/reviews/story/nayyi-navelli-movie-review-witchful-thinking-wasted-potential-in-yami-gautam-film-3018574-2026-10-16",
+      "headline": "Nayyi Navelli review: Witchful thinking, wasted potential in Yami Gautam's filmRelease Date:Fri Oct 16, 2026Nayyi Navelli movie review: Bantu accuses Mohini of being a daayan after finding her performing a forest ritual. The promising horror-comedy loses balance as mythology overwhelms its stronger first half."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/accenture-caps-claude-use-internally-some-employees-were-spending-1000-on-ai-3018550-2026-10-16",
+      "headline": "Accenture caps Claude use internally, some employees were spending $1000 on AIAccenture is reportedly limiting how much AI its employees can use. It is believed that the company is putting a $29-a-month cap on Claude for most employees, many of whom may have been spending over $1,000 previously."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/delhi-protests-jantar-mantar-urban-geography-police-control-cjp-stir-india-bloc-anti-cec-gyanesh-kumar-ec-sir-3018611-2026-10-16",
+      "headline": "Don't mourn loss of Jantar Mantar, it was a terrible protest site anywayAs far as protest sites go, the wide avenues of central Delhi are terrible for protesters. The bad news, though, is that Delhi itself is largely a place where, according to a top historian of people's revolts, it is nearly impossible to ignite a spontaneous protest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/yes-bank-at1-bonds-supreme-court-rs-8415-crore-write-off-quashed-3018487-2026-10-16",
+      "headline": "Their savings vanished in 2020. Six years later, Yes Bank bondholders get justiceThe Supreme Court has upheld the decision to set aside the Rs 8,415 crore write-off of Yes Bank's AT-1 bonds. Six years ago, I spoke to families who had invested their savings, believing their money was safe. They raised their voices when those savings were wiped out. It has taken six years for their fight to find justice in court."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/carrie-prime-video-series-mike-flanagan-review-bullying-real-horror-stephen-king-novel-telekinesis-3018545-2026-10-16",
+      "headline": "Carrie did not snap overnight: The real horror is bullying, not her powersMike Flanagan's Carrie reframes the familiar prom-night tragedy through relentless bullying and digital humiliation. The Prime Video series shifts blame towards Carrie's tormentors while granting its heroine a rare escape."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ranabaali-x-reviews-vijay-deverakonda-rashmika-mandanna-film-slow-narration-3018565-2026-10-16",
+      "headline": "Ranabaali X reviews: Vijay Deverakonda's film disappoints, viewers slam slow paceViewers on X criticised Ranabaali's pacing, British sequences and second half. However, a section of people praised Vijay Deverakonda's screen presence and his scenes with Rashmika Mandanna amid the negative response."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-agents-gained-access-to-confidential-data-of-indian-firms-cert-in-warns-of-misuse-3018535-2026-10-16",
+      "headline": "AI agents gained access to confidential data of Indian firms, CERT-In warns of misuseAI agents managed to gain unauthorised access to Indian organisation systems, exposing personal and confidential data, as per CERT-In. The Indian cybersecurity agency has warned that attackers used open-source agentic AI tools against Indian entities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-mother-of-all-bombs-iran-moab-pickaxe-mountain-nuclear-facility-bunker-buster-itspc-3017907-2026-10-16",
+      "headline": "Trump might hit Iran with Mother of all Bombs. Here's why it might not workUS President Donald Trump is reportedly considering the 9,800-kg Mother of all Bombs for strikes on Iran. But, will the weapon, designed for massive surface destruction, reach Iran's nuclear facilities buried beneath hundreds of feet of rock at Pickaxe Mountain? Did the bomb work in Afghanistan?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/german-diplomat-meets-farmer-in-indian-village-wears-gamcha-handles-cow-dung-3018496-2026-10-16",
+      "headline": "German diplomat meets farmer in Indian village, wears gamcha, handles cow dungMarius Osswald, Minister Counsellor and Head of Political Affairs at the German Embassy in New Delhi, visited a village farmer and tried his hand at several farming activities, from feeding cattle to handling cow dung."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/cjp-central-park-gathering-call-delhi-traffic-police-issues-advisory-ahead-of-proposed-assembly-in-connaught-place-3018472-2026-10-16",
+      "headline": "Over 30,000 security personnel on alert ahead of CJP's Tiranga protest at CPThe elaborate security arrangements reportedly cover Connaught Place, Rajiv Chowk, Central Park, Jantar Mantar, Palika Bazaar, nearby Metro stations and other sensitive locations in Lutyens' Delhi, with additional personnel being mobilised from other districts ahead of the proposed 5 pm march."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/imran-khan-frro-notice-kiran-rao-questions-order-to-leave-india-3018523-2026-10-16",
+      "headline": "Studied, worked, loved here: Kiran Rao backs Imran Khan amid exit India noticeKiran Rao questioned the FRRO notice directing Imran Khan to leave India by October 28. The order followed his detention during a Mumbai protest over electoral roll revision concerns."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-player-first-vision-india-captain-zimbabwe-t20i-series-3018532-2026-10-16",
+      "headline": "A players' captain: Inside Smriti Mandhana's vision as India skipperIND vs ZIM: Smriti Mandhana begins her full-time captaincy journey with a player-first philosophy, drawing on lessons from senior India leaders and her experience with RCB in the WPL. She aims to build a professional, united team and gradually take India to the No. 1 spot across all three formats."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/hrithik-roshan-jailer-2-cameo-rajinikanth-tribute-40-year-reunion-3018183-2026-10-16",
+      "headline": "All about Hrithik cameo in Jailer 2, a 40-year story and love letter to RajinikanthHrithik Roshan joins Rajinikanth in Jailer 2 as Roddy, stepping in to rescue Tiger. His cameo brings their Bhagwan Dada connection full circle, blending heartfelt gratitude with Rajinikanth's signature swagger."
     },
     {
       "sentiment": "positive",
@@ -235,96 +310,51 @@
       "headline": "Who is Emirati royal found passed out on street with toddler after cocaine binge?Mahrah Al Nahyan, 32, is associated with Abu Dhabi's ruling Al Nahyan family through marriage. The family rules Abu Dhabi, the largest of the seven emirates that make up the United Arab Emirates (UAE)."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/uk-news/story/indian-students-confronted-by-uk-vigilantes-at-meriden-park-in-solihull-england-3018429-2026-10-15",
-      "headline": "Go home: Dressed in all black, UK vigilantes bar Indian students from parkSelf-styled vigilantes confronted three Indian students in Meriden Park in UK and ordered them to leave. The group later defended its patrols in a Facebook post, claiming they were prompted by reports of missing children and rapes in the area."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/rishi-sunak-sudha-murty-delhi-visit-bengali-sweet-house-swati-maliwal-chaat-ladoo-rasmalai-3018031-2026-10-15",
-      "headline": "Rishi Sunak, Sudha Murty return to Bengali Sweet House. What's on the menu?Former UK Prime Minister Rishi Sunak stopped by the iconic Bengali Sweet House with Sudha Murty and Swati Maliwal during his Delhi visit this week. Curious what the politician devoured? A spread that was as Delhi as it gets."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/saudi-arabia-israel-normalisation-houthi-attack-pakistan-turkey-mecca-pact-trump-iran-itspc-3016182-2026-10-15",
-      "headline": "Saudi Arabia warming up to Israel. Pak failure a big catalyst?Three years after Hamas's October 7 attack derailed a historic Saudi-Israeli normalisation deal, the two countries are exploring security cooperation against Yemen's Iran-backed Houthis, whose missile and drone attacks have exposed vulnerabilities in the kingdom's defences. The US is reluctant to intervene militarily, and the Mecca pact with Pakistan and Turkey has its limits. Here's how these factors have created an opening for Israel."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-nirmala-sitharaman-banking-row-idbi-bank-sale-3018456-2026-10-16",
-      "headline": "Akhilesh fires 12 questions on banking, Sitharaman accuses him of fearing defeatNirmala Sitharaman rebuked Akhilesh Yadav after he raised 12 questions about banking reforms. Their exchange has widened the IDBI Bank sale dispute into a broader political battle."
+      "url": "https://www.indiatoday.in/india/story/ahead-of-tiranga-march-cjps-abhijeet-dipke-says-delhi-police-may-detain-him-3018459-2026-10-16",
+      "headline": "CJP's Abhijeet Dipke claims IB is tracking him, says Delhi Police may detain himAbhijeet Dipke alleged surveillance and possible detention ahead of the CJP's Tiranga march. The protest seeks Chief Election Commissioner Gyanesh Kumar's removal over alleged electoral roll irregularities."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/saudi-arabia-mecca-bangladeshi-pair-execution-immoral-acts-itspc-3018194-2026-10-15",
-      "headline": "Saudi executes 2 Bangladeshis for immoral acts in Mecca mosque, Dhaka kept in darkSaudi Arabia has executed two Bangladeshi nationals convicted of committing what authorities described as immoral acts inside a mosque in the holy city of Mecca. However, Saudi authorities have disclosed few details about the alleged acts or the circumstances of the arrests. Dhaka's consulate in the kingdom, meanwhile, has said it was not informed in advance about the executions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/jailer-2-movie-review-rajinikanth-swagger-and-nelsons-humour-strike-gold-again-3017726-2026-10-15",
-      "headline": "Jailer 2 review: Rajinikanth's swagger and Nelson's humour strike gold againRelease Date:Thu Oct 15, 2026Jailer 2 movie review: Director Nelson's Jailer 2, starring Rajinikanth, SJ Suryah and Vidya Balan, is a fitting sequel that is high on aura. With ample elevation scenes and Rajinikanth doing what he does best, Jailer 2 offers a memorable theatrical experience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-cockroach-party-central-park-closure-connaught-place-cjp-tricolour-march-abhijeet-dipke-protest-3018252-2026-10-15",
-      "headline": "Delhi Central Park shut, cops allow small gathering for CJP's Tiranga marchThe Central Park closure comes amid heightened security in Connaught Place ahead of the CJP's march, with the High Court refusing to restrain the protest."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/indian-american-congressman-on-foiled-hindu-temple-attack-illinois-says-he-and-his-family-was-worshipping-there-3018453-2026-10-16",
-      "headline": "I was worshipping there: Indian-American Congressman on foiled Hindu temple attackAn alleged mass shooting targeting Indian Americans at an Aurora Hindu temple was foiled after the suspect's gun reportedly jammed. The plot has intensified calls to confront anti-Indian hatred and protect places of worship."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/imran-khan-frro-exit-notice-oci-rights-mumbai-protest-3018368-2026-10-15",
-      "headline": "Can Imran Khan be forced to leave India for joining a protest? What the law saysThe FRRO directed actor Imran Khan to leave India by October 28 after his participation in a Mumbai protest. The order has raised questions over OCI protections, immigration powers and procedural fairness."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/delhi-anti-cec-election-commission-protest-journalists-detained-police-editors-guild-itspc-3017335-2026-10-15",
-      "headline": "Godis must be crazyA crowd heckled a reporter for doing her job. The senior editors have condemned it. I haven't, and here's why."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/houthi-missile-attack-yemen-presidential-complex-in-aden-pm-and-ministers-safe-3018304-2026-10-15",
-      "headline": "Houthis fire missiles at Yemen palace in bid to wipe out Saudi-backed govt, 5 killedIran-backed Houthis fired at least five missiles at Yemen's presidential palace complex in Aden, killing five people as top government officials narrowly escaped. The attack came amid escalating Houthi strikes on Saudi airports and oil facilities, with the Saudi-led coalition reporting civilian casualties and warning of threats to critical infrastructure."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/smriti-irani-rahul-gandhi-sir-row-ai-bhoothnath-video-electoral-rolls-3018443-2026-10-16",
-      "headline": "Smriti Irani targets Rahul Gandhi with AI Bhoothnath videoBJP leader Smriti Irani shared an AI-generated Bhoothnath video targeting Rahul Gandhi's objections to electoral roll revision. The satire advances the BJP's case for removing deceased and bogus voter entries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/goregaon-toddler-sixth-floor-fall-12-year-old-girl-mother-detained-3018417-2026-10-15",
-      "headline": "Girl, 12, pushes 2-year-old from 6th floor, mother tries to hide evidenceA 12-year-old girl allegedly pushed a two-year-old child from the sixth floor of a Goregaon building. The minor and her mother were detained following the incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-new-trailer-ranbir-kapoor-lord-rama-vows-to-vanquish-yash-ravana-in-epic-clash-sai-pallavi-sita-3018233-2026-10-15",
-      "headline": "Ramayana new trailer: Ranbir's Lord Rama vows to vanquish Ravana in epic clashDirector Nitesh Tiwari's new Ramayana trailer shows Ranbir Kapoor's Lord Ram battling rakshasas (demons). The promo also shows Yash's Ravana fighting against an army of devas (deities)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-drops-plan-to-livestream-fort-hood-shooter-nidal-malik-hasans-execution-as-terror-deterrent-3018285-2026-10-15",
-      "headline": "Trump drops plan to livestream Fort Hood shooter's execution as terror deterrentDonald Trump cancelled the planned livestream of Nidal Malik Hasan's execution by firing squad. The reversal followed objections that broadcasting capital punishment would create a public spectacle."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-urges-congress-workers-intensify-protests-remain-battle-ready-3018412-2026-10-15",
-      "headline": "Rahul Gandhi tells Congress foot soldiers to be battle-ready for long haulRahul Gandhi has urged Congress foot soldiers to keep the protests coming, think out of the box and stay battle-ready for the long haul. From bandaged fingers to 'ghost protests', he praised their innovative tactics and hailed them as 'Babbar Sher,' while reportedly predicting that the Modi government had only eight to nine months left."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/iit-madras-team-finds-a-secret-info-no-one-saw-in-polluted-air-where-will-it-flood-3018172-2026-10-15",
-      "headline": "IIT-Madras team finds a secret info hiding in polluted air: Where will it flood?An IIT Madras-led team found that aerosols improved simulations of Chennai's 2015 rainfall and flooding. The finding could help refine urban forecasts, though the approach is not yet operational."
+      "url": "https://www.indiatoday.in/technology/story/welcome-competition-including-starlink-but-all-must-abide-by-indian-law-reliance-on-elon-musk-comments-3018521-2026-10-16",
+      "headline": "Welcome Starlink competition but all must abide by Indian law: Reliance on MuskReliance Industries has issued a statement addressing Elon Musk's claims over Starlink in India. The company said that it welcomed all competition, including Starlink, but pointed out that all players must abide by Indian laws."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/para-asian-games-sachin-chamaria-boccia-medal-hopes-nagoya-interview-3018442-2026-10-16",
+      "headline": "A late Para Asian Games call-up, but Sachin Chamaria eyes Boccia glory Sachin Chamaria had to wait to get his clearance to be in Nagoya, but he is now aiming to put the sport of boccia on the map. The 35-year-old opens up about his hopes of a medal at the Para Asian Games and the bigger Paralympic dream."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kira-chathli-india-tour-england-a-women-captain-mumbai-3018605-2026-10-16",
+      "headline": "Who is Kira Chathli? Meet England A captain with an Indian family and MI connection Kira Chathli is set to lead England A Women on their tour of India, returning to a country with which she shares a special personal connection. The Surrey wicketkeeper-batter has made her mark in domestic cricket, with an \u00a380,000 deal with MI London in The Hundred."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-player-first-vision-india-captain-zimbabwe-t20i-series-3018532-2026-10-16",
+      "headline": "A players' captain: Inside Smriti Mandhana's vision as India skipper IND vs ZIM: Smriti Mandhana begins her full-time captaincy journey with a player-first philosophy, drawing on lessons from senior India leaders and her experience with RCB in the WPL. She aims to build a professional, united team and gradually take India to the No. 1 spot across all three formats."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/stefan-milicevic-24-year-tennis-ban-match-fixing-itia-3018497-2026-10-16",
+      "headline": "Serbian tennis player Stefan Milicevic handed 24-year ban for match-fixing Serbian tennis player Stefan Milicevic has been banned until 2050 after being charged with match-fixing and recruiting players into an alleged corrupt network. The ITIA also cited his failure to cooperate with the investigation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mukesh-choudhary-injury-comeback-ms-dhoni-lessons-ranji-trophy-exclusive-3018489-2026-10-16",
+      "headline": "Fit-again Mukesh Choudhary is back, bowling faster and wiser after Dhoni's lessons Mukesh Choudhary has endured years of injuries that have stalled his progress. Now fit again after a long rehabilitation, the Maharashtra and Chennai Super Kings pacer is working his way back."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-zimbabwe-1st-t20i-women-preview-livestreaming-smriti-mandhana-3018484-2026-10-16",
+      "headline": "India Women seek fresh identity in new era as Zimbabwe challenge awaits India begin a new era under Smriti Mandhana as they take on Zimbabwe in the first T20I in Raipur, with the focus on strengthening their middle order and backing young talent. Zimbabwe will look to build on their ODI win over West Indies, but India enter the series as overwhelming favourites."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/indian-super-league-diamond-singh-age-row-tomasz-tchorz-sc-delhi-performance-age-controversy-3018437-2026-10-16",
-      "headline": "Age just a number: SC Delhi coach backs performance as Diamond Singh's age row brews As questions over Diamond Singh's age gather pace, SC Delhi coach Tomasz Tchorz insists performance must matter more than numbers. With Indian football's past offering context, the young defender's case is a reminder that scrutiny must not become a verdict before the facts are established."
+      "headline": "How old is ISL's youngest footballer? SC Delhi coach dismisses age controversy As questions over Diamond Singh's age gather pace, SC Delhi coach Tomasz Tchorz insists performance must matter more than numbers. With Indian football's past offering context, the young defender's case is a reminder that scrutiny must not become a verdict before the facts are established."
     },
     {
       "sentiment": "positive",
@@ -349,32 +379,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/punam-raut-retirement-india-womens-cricket-international-career-3018388-2026-10-15",
-      "headline": "India women's team batter Punam Raut announces international cricket retirement Punam Raut has retired from international cricket after representing India for over 12 years. The Mumbai batter now intends to give back to the game that shaped her life."
+      "headline": "India women's team batter Punam Raut announces international cricket retirementPunam Raut has retired from international cricket after representing India for over 12 years. The Mumbai batter now intends to give back to the game that shaped her life."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/suryansh-shedge-india-odi-call-up-new-zealand-tour-mumbai-ranji-trophy-squad-3018370-2026-10-15",
-      "headline": "Suryansh Shedge named in Mumbai's squad after ODI call-up buzz for NZ tour Suryansh Shedge has emerged as a contender for India's ODI squad for the New Zealand tour after impressing against Australia A. The all-rounder has been named in Mumbai's Ranji Trophy squad for their clash against Himachal Pradesh."
+      "headline": "Suryansh Shedge named in Mumbai's squad after ODI call-up buzz for NZ tourSuryansh Shedge has emerged as a contender for India's ODI squad for the New Zealand tour after impressing against Australia A. The all-rounder has been named in Mumbai's Ranji Trophy squad for their clash against Himachal Pradesh."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/denmark-open-treesa-gayatri-quarterfinals-srikanth-loses-alex-lanier-3018337-2026-10-15",
-      "headline": "Denmark Open: Treesa-Gayatri reach quarters, Srikkanth's valiant fight in vain Treesa Jolly and Gayatri Gopichand reached the Denmark Open quarterfinals with a sensational win on Thursday. Kidambi Srikkanth produced a vintage performance but it wasn't enough as he lost to world champion Alex Lanier in a three-game thriller."
+      "headline": "Denmark Open: Treesa-Gayatri reach quarters, Srikkanth's valiant fight in vainTreesa Jolly and Gayatri Gopichand reached the Denmark Open quarterfinals with a sensational win on Thursday. Kidambi Srikkanth produced a vintage performance but it wasn't enough as he lost to world champion Alex Lanier in a three-game thriller."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-reaction-pm-narendra-modi-15-year-old-asian-games-remark-3018311-2026-10-15",
-      "headline": "Watch: Vaibhav Sooryavanshi's unmissable reaction after PM Modi's special remark Prime Minister Narendra Modi's remark during the Asian Games athletes' felicitation ceremony brought a smile on Vaibhav Sooryavanshi's face during the event on Thursday, October 15. Sooryavanshi was part of the Indian men's team that won gold in cricket in Japan."
+      "headline": "Watch: Vaibhav Sooryavanshi's unmissable reaction after PM Modi's special remarkPrime Minister Narendra Modi's remark during the Asian Games athletes' felicitation ceremony brought a smile on Vaibhav Sooryavanshi's face during the event on Thursday, October 15. Sooryavanshi was part of the Indian men's team that won gold in cricket in Japan."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/murali-sreeshankar-ankle-surgery-comeback-2027-world-championships-3018318-2026-10-15",
-      "headline": "Murali Sreeshankar undergoes ankle surgery, eyes 2027 World Championships comeback Indian long jumper Murali Sreeshankar has undergone ankle surgery after his Asian Games injury. The Commonwealth Games silver medallist is targeting a comeback at the 2027 World Championships in Beijing, with LA 2028 also in his sights."
+      "headline": "Murali Sreeshankar undergoes ankle surgery, eyes 2027 World Championships comebackIndian long jumper Murali Sreeshankar has undergone ankle surgery after his Asian Games injury. The Commonwealth Games silver medallist is targeting a comeback at the 2027 World Championships in Beijing, with LA 2028 also in his sights."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/jagsher-singh-khangurra-bwf-world-junior-championships-medal-semi-final-3018305-2026-10-15",
-      "headline": "Meet Jagsher Khangurra: India's 15-year-old badminton star with gold in his sights India's 15-year-old Jagsher Singh Khangurra saved match point to assure himself of a medal at the BWF World Junior Championships. After a stunning comeback, the Punjab shuttler is now eyeing gold as he prepares for the semi-finals."
+      "headline": "Meet Jagsher Khangurra: India's 15-year-old badminton star with gold in his sightsIndia's 15-year-old Jagsher Singh Khangurra saved match point to assure himself of a medal at the BWF World Junior Championships. After a stunning comeback, the Punjab shuttler is now eyeing gold as he prepares for the semi-finals."
     },
     {
       "sentiment": "positive",
@@ -445,36 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vishvajit-more-first-indian-greco-roman-silver-u23-world-championships-3017830-2026-10-15",
       "headline": "Vishvajit More becomes first Indian to win Greco-Roman silver at U23 WorldsVishvajit Ramchandra More became the first Indian to win Greco-Roman silver at the U23 World Wrestling Championships after losing 12-13 to Georgia's Koba Karumidze in the men's 55kg final on Thursday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-5000-t20i-runs-india-captain-zimbabwe-series-3017787-2026-10-15",
-      "headline": "Smriti Mandhana chases the unthinkable, a record never achieved in cricketSmriti Mandhana is 133 runs away from becoming the first batter to score 5,000 runs in T20I cricket as India take on Zimbabwe in a three-match series. The series also marks the beginning of her tenure as India's full-time captain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/zimbabwe-womens-cricket-west-indies-win-india-series-josephine-nkomo-3017762-2026-10-15",
-      "headline": "Zimbabwe bank on West Indies win confidence to challenge India in T20I seriesZimbabwe captain Josephine Nkomo hopes her team can carry the confidence of their historic win over the West Indies into the T20I series against India. She sees the series as a valuable learning opportunity and hopes Zimbabwe can inspire young cricketers back home."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/vinicius-jr-four-match-suspension-miss-real-madrid-barcelona-el-clasico-3017718-2026-10-15",
-      "headline": "Vinicus Jr suspended for 4 games, to miss season's first El ClasicoVinicius Jr has been handed a four-match suspension by the Spanish Football Federation after pulling Nathan Saliba's hair during Real Madrid's LaLiga clash against Villarreal. The ban rules the Brazilian forward out of the season's first El Clasico against Barcelona."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/faf-du-plessis-questions-durban-test-venue-australia-beat-south-africa-3017717-2026-10-15",
-      "headline": "Faf du Plessis slams Durban Test scheduling, questions Cricket South AfricaFormer South Africa captain Faf du Plessis questioned Cricket South Africa's decision to host the opening Test against Australia in Durban, citing the Proteas' poor record and low crowd turnout at Kingsmead. Australia won by 214 runs to take a 1-0 lead, leaving South Africa under pressure ahead of the second Test in Gqeberha."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/champions-league-match-report-real-madrid-manchester-city-psg-3017677-2026-10-15",
-      "headline": "Champions League: Real Madrid win thriller vs Roma, City go down against PSGReal Madrid scored three times in the final 10 minutes to complete a stunning 4-3 comeback win over AS Roma in the Champions League. Manchester City, on the other hand, suffered a 2-4 defeat to Paris Saint-Germain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vicky-ostwal-interview-virat-kohli-ranji-trophy-3017646-2026-10-15",
-      "headline": "Learning from Virat Kohli, 24-year-old Vicky Ostwal embraces the red-ball grindAt 24, Maharashtra left-arm spinner Vicky Ostwal is making his mark in domestic cricket, one long spell at a time. The IPL breakthrough can wait. For now, he is happy doing the hard yards."
     }
   ],
   "education": [
@@ -554,7 +554,7 @@
       "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
@@ -564,7 +564,7 @@
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
