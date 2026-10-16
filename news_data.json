@@ -200,9 +200,14 @@
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/smriti-irani-rahul-gandhi-election-commission-protests-political-tantrum-gyanesh-kumar-regime-change-bjp-congress-3018306-2026-10-15",
-      "headline": "Prince-in-waiting throwing tantrums: Smriti Irani mocks Rahul Gandhi's protestSmriti Irani accused Rahul Gandhi of seeking 'regime change' through protests rather than elections, dismissing his vote theft allegations as 'headline-chasing' efforts."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ahead-of-tiranga-march-cjps-abhijeet-dipke-says-delhi-police-may-detain-him-3018459-2026-10-16",
+      "headline": "CJP's Abhijeet Dipke claims IB is tracking him, says Delhi Police may detain himAbhijeet Dipke alleged surveillance and possible detention ahead of the CJP's Tiranga march. The protest seeks Chief Election Commissioner Gyanesh Kumar's removal over alleged electoral roll irregularities."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/gunfire-at-an-elementary-school-in-bend-oregon-us-wounded-multiple-victims-shooter-killed-3018458-2026-10-16",
+      "headline": "4 children, teacher killed in US school shooting, teen gunman shot deadA shooting at Silver Rail Elementary School in Bend, Oregon, left multiple victims, including children, on Thursday. US media reported one adult and three children killed. The suspected gunman was found dead, possibly shot by an armed bystander, police said."
     },
     {
       "sentiment": "positive",
@@ -216,13 +221,48 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/history-of-it/story/pakistan-first-pm-liaquat-ali-khan-killed-by-afghan-over-kashmir-75-year-old-murder-mystery-itspc-3018239-2026-10-16",
+      "headline": "Was Pakistan's first PM assassinated over Kashmir?Exactly 75 years ago, Pakistan's first Prime Minister Liaquat Ali Khan was assassinated by an Afghan gunman in Rawalpindi. While the exact motive behind the killing remains a mystery, the most plausible cause is said to be the killer's resentment over the ceasefire after India-Pakistan 1947-48 war over Kashmir."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ranabaali-movie-release-and-review-live-updates-vijay-deverakonda-rashmika-mandanna-film-3018460-2026-10-16",
+      "headline": "Ranabaali Movie Release and Review Live: Vijay-Rashmika's film divides early viewersRanabaali Movie Review and Release Live Updates: Vijay Deverakonda stars as a warrior who fights British rule in this period action drama. Rashmika Mandanna plays his wife, Jayamma, in the film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/mahrah-al-nahyan-emirati-royal-found-passed-out-on-london-street-with-toddler-after-cocaine-binge-3018177-2026-10-15",
+      "headline": "Who is Emirati royal found passed out on street with toddler after cocaine binge?Mahrah Al Nahyan, 32, is associated with Abu Dhabi's ruling Al Nahyan family through marriage. The family rules Abu Dhabi, the largest of the seven emirates that make up the United Arab Emirates (UAE)."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/uk-news/story/indian-students-confronted-by-uk-vigilantes-at-meriden-park-in-solihull-england-3018429-2026-10-15",
       "headline": "Go home: Dressed in all black, UK vigilantes bar Indian students from parkSelf-styled vigilantes confronted three Indian students in Meriden Park in UK and ordered them to leave. The group later defended its patrols in a Facebook post, claiming they were prompted by reports of missing children and rapes in the area."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/food/story/rishi-sunak-sudha-murty-delhi-visit-bengali-sweet-house-swati-maliwal-chaat-ladoo-rasmalai-3018031-2026-10-15",
+      "headline": "Rishi Sunak, Sudha Murty return to Bengali Sweet House. What's on the menu?Former UK Prime Minister Rishi Sunak stopped by the iconic Bengali Sweet House with Sudha Murty and Swati Maliwal during his Delhi visit this week. Curious what the politician devoured? A spread that was as Delhi as it gets."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/saudi-arabia-israel-normalisation-houthi-attack-pakistan-turkey-mecca-pact-trump-iran-itspc-3016182-2026-10-15",
+      "headline": "Saudi Arabia warming up to Israel. Pak failure a big catalyst?Three years after Hamas's October 7 attack derailed a historic Saudi-Israeli normalisation deal, the two countries are exploring security cooperation against Yemen's Iran-backed Houthis, whose missile and drone attacks have exposed vulnerabilities in the kingdom's defences. The US is reluctant to intervene militarily, and the Mecca pact with Pakistan and Turkey has its limits. Here's how these factors have created an opening for Israel."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-nirmala-sitharaman-banking-row-idbi-bank-sale-3018456-2026-10-16",
+      "headline": "Akhilesh fires 12 questions on banking, Sitharaman accuses him of fearing defeatNirmala Sitharaman rebuked Akhilesh Yadav after he raised 12 questions about banking reforms. Their exchange has widened the IDBI Bank sale dispute into a broader political battle."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/saudi-arabia-mecca-bangladeshi-pair-execution-immoral-acts-itspc-3018194-2026-10-15",
       "headline": "Saudi executes 2 Bangladeshis for immoral acts in Mecca mosque, Dhaka kept in darkSaudi Arabia has executed two Bangladeshi nationals convicted of committing what authorities described as immoral acts inside a mosque in the holy city of Mecca. However, Saudi authorities have disclosed few details about the alleged acts or the circumstances of the arrests. Dhaka's consulate in the kingdom, meanwhile, has said it was not informed in advance about the executions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/jailer-2-movie-review-rajinikanth-swagger-and-nelsons-humour-strike-gold-again-3017726-2026-10-15",
+      "headline": "Jailer 2 review: Rajinikanth's swagger and Nelson's humour strike gold againRelease Date:Thu Oct 15, 2026Jailer 2 movie review: Director Nelson's Jailer 2, starring Rajinikanth, SJ Suryah and Vidya Balan, is a fitting sequel that is high on aura. With ample elevation scenes and Rajinikanth doing what he does best, Jailer 2 offers a memorable theatrical experience."
     },
     {
       "sentiment": "positive",
@@ -241,28 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/rishi-sunak-sudha-murty-delhi-visit-bengali-sweet-house-swati-maliwal-chaat-ladoo-rasmalai-3018031-2026-10-15",
-      "headline": "Rishi Sunak, Sudha Murty return to Bengali Sweet House. What's on the menu?Former UK Prime Minister Rishi Sunak stopped by the iconic Bengali Sweet House with Sudha Murty and Swati Maliwal during his Delhi visit this week. Curious what the politician devoured? A spread that was as Delhi as it gets."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/mahrah-al-nahyan-emirati-royal-found-passed-out-on-london-street-with-toddler-after-cocaine-binge-3018177-2026-10-15",
-      "headline": "Who is Emirati royal found passed out on street with toddler after cocaine binge?Mahrah Al Nahyan, 32, is associated with Abu Dhabi's ruling Al Nahyan family through marriage. The family rules Abu Dhabi, the largest of the seven emirates that make up the United Arab Emirates (UAE)."
+      "url": "https://www.indiatoday.in/opinion/story/delhi-anti-cec-election-commission-protest-journalists-detained-police-editors-guild-itspc-3017335-2026-10-15",
+      "headline": "Godis must be crazyA crowd heckled a reporter for doing her job. The senior editors have condemned it. I haven't, and here's why."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/houthi-missile-attack-yemen-presidential-complex-in-aden-pm-and-ministers-safe-3018304-2026-10-15",
       "headline": "Houthis fire missiles at Yemen palace in bid to wipe out Saudi-backed govt, 5 killedIran-backed Houthis fired at least five missiles at Yemen's presidential palace complex in Aden, killing five people as top government officials narrowly escaped. The attack came amid escalating Houthi strikes on Saudi airports and oil facilities, with the Saudi-led coalition reporting civilian casualties and warning of threats to critical infrastructure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/saudi-arabia-israel-normalisation-houthi-attack-pakistan-turkey-mecca-pact-trump-iran-itspc-3016182-2026-10-15",
-      "headline": "Saudi Arabia warming up to Israel. Pak failure a big catalyst?Three years after Hamas's October 7 attack derailed a historic Saudi-Israeli normalisation deal, the two countries are exploring security cooperation against Yemen's Iran-backed Houthis, whose missile and drone attacks have exposed vulnerabilities in the kingdom's defences. The US is reluctant to intervene militarily, and the Mecca pact with Pakistan and Turkey has its limits. Here's how these factors have created an opening for Israel."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/jailer-2-movie-review-rajinikanth-swagger-and-nelsons-humour-strike-gold-again-3017726-2026-10-15",
-      "headline": "Jailer 2 review: Rajinikanth's swagger and Nelson's humour strike gold againRelease Date:Thu Oct 15, 2026Jailer 2 movie review: Director Nelson's Jailer 2, starring Rajinikanth, SJ Suryah and Vidya Balan, is a fitting sequel that is high on aura. With ample elevation scenes and Rajinikanth doing what he does best, Jailer 2 offers a memorable theatrical experience."
     },
     {
       "sentiment": "negative",
@@ -276,43 +301,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-drops-plan-to-livestream-fort-hood-shooter-nidal-malik-hasans-execution-as-terror-deterrent-3018285-2026-10-15",
-      "headline": "Trump drops plan to livestream Fort Hood shooter's execution as terror deterrentDonald Trump cancelled the planned livestream of Nidal Malik Hasan's execution by firing squad. The reversal followed objections that broadcasting capital punishment would create a public spectacle."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/delhi-anti-cec-election-commission-protest-journalists-detained-police-editors-guild-itspc-3017335-2026-10-15",
-      "headline": "Godis must be crazyA crowd heckled a reporter for doing her job. The senior editors have condemned it. I haven't, and here's why."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-urges-congress-workers-intensify-protests-remain-battle-ready-3018412-2026-10-15",
-      "headline": "Rahul Gandhi tells Congress foot soldiers to be battle-ready for long haulRahul Gandhi has urged Congress foot soldiers to keep the protests coming, think out of the box and stay battle-ready for the long haul. From bandaged fingers to 'ghost protests', he praised their innovative tactics and hailed them as 'Babbar Sher,' while reportedly predicting that the Modi government had only eight to nine months left."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/uttarakhand-women-and-child-welfare-minister-rekha-arya-files-fir-against-husband-girdhari-lal-sahu-domestic-violence-murder-conspiracy-bjp-3018330-2026-10-15",
-      "headline": "I am in pain: Uttarakhand minister files FIR against husband over abuse, murder plotUttarakhand minister Rekha Arya has filed a police complaint against her husband, Girdhari Lal Sahu, alleging domestic violence, death threats, caste-based abuse and a conspiracy to kill her, citing an audio recording."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/election-commission-special-summary-revision-electoral-rolls-17-states-and-uts-january-1-2027-3018240-2026-10-15",
-      "headline": "Special Summary Revision of voter rolls in 17 states, UTs from Jan 1Uttar Pradesh, Uttarakhand, Punjab, Manipur and Goa are among the states covered by the exercise, as their Assembly elections are due in 2027."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-new-trailer-ranbir-kapoor-lord-rama-vows-to-vanquish-yash-ravana-in-epic-clash-sai-pallavi-sita-3018233-2026-10-15",
       "headline": "Ramayana new trailer: Ranbir's Lord Rama vows to vanquish Ravana in epic clashDirector Nitesh Tiwari's new Ramayana trailer shows Ranbir Kapoor's Lord Ram battling rakshasas (demons). The promo also shows Yash's Ravana fighting against an army of devas (deities)."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/must-give-an-explanation-sc-pulls-up-rahul-gandhi-for-his-conduct-during-october-12-anti-cec-protest-3017790-2026-10-15",
-      "headline": "Must explain conduct: SC pulls up Rahul Gandhi over protest march to top courtCJI Surya Kant said 'nobody can browbeat' the judiciary as the Supreme Court issued notices to the Centre and the Election Commission (ECI) on petitions filed by Rahul Gandhi and Owaisi"
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-drops-plan-to-livestream-fort-hood-shooter-nidal-malik-hasans-execution-as-terror-deterrent-3018285-2026-10-15",
+      "headline": "Trump drops plan to livestream Fort Hood shooter's execution as terror deterrentDonald Trump cancelled the planned livestream of Nidal Malik Hasan's execution by firing squad. The reversal followed objections that broadcasting capital punishment would create a public spectacle."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/kochi/story/kochi-mini-cooper-crash-accused-blood-alcohol-five-times-permissible-limit-3018410-2026-10-15",
-      "headline": "Kochi Mini Cooper crash: Accused blood alcohol level 5 times above permissible limitPolice found Suhail Sajeev's blood alcohol level around five times the permissible limit after the fatal crash. CCTV footage and forensic evidence are being examined as investigators determine further legal action."
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-urges-congress-workers-intensify-protests-remain-battle-ready-3018412-2026-10-15",
+      "headline": "Rahul Gandhi tells Congress foot soldiers to be battle-ready for long haulRahul Gandhi has urged Congress foot soldiers to keep the protests coming, think out of the box and stay battle-ready for the long haul. From bandaged fingers to 'ghost protests', he praised their innovative tactics and hailed them as 'Babbar Sher,' while reportedly predicting that the Modi government had only eight to nine months left."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,11 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/indian-super-league-diamond-singh-age-row-tomasz-tchorz-sc-delhi-performance-age-controversy-3018437-2026-10-16",
+      "headline": "Age just a number: SC Delhi coach backs performance as Diamond Singh's age row brews As questions over Diamond Singh's age gather pace, SC Delhi coach Tomasz Tchorz insists performance must matter more than numbers. With Indian football's past offering context, the young defender's case is a reminder that scrutiny must not become a verdict before the facts are established."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lisandro-martinez-apologises-man-utd-leadership-meeting-atletico-madrid-defeat-3018445-2026-10-16",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-investment-row-infantino-apologises-critics-remain-unconvinced-3018301-2026-10-15",
-      "headline": "Infantino apologises over FIFA World Cup row but fails to win over critics Gianni Infantino apologised to FIFA council members over his handling of the abandoned investment plan, but UEFA officials remained dissatisfied, saying they had received neither the requested documents nor satisfactory answers."
+      "headline": "Infantino apologises over FIFA World Cup row but fails to win over criticsGianni Infantino apologised to FIFA council members over his handling of the abandoned investment plan, but UEFA officials remained dissatisfied, saying they had received neither the requested documents nor satisfactory answers."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vicky-ostwal-interview-virat-kohli-ranji-trophy-3017646-2026-10-15",
       "headline": "Learning from Virat Kohli, 24-year-old Vicky Ostwal embraces the red-ball grindAt 24, Maharashtra left-arm spinner Vicky Ostwal is making his mark in domestic cricket, one long spell at a time. The IPL breakthrough can wait. For now, he is happy doing the hard yards."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/arshdeep-singh-injury-update-ind-vs-wi-3017635-2026-10-15",
-      "headline": "Samson provides Arshdeep injury update, says India charged up for final T20ISanju Samson has provided an injury update on Arshdeep Singh after the India pacer was struck on the shoulder by a high-speed delivery during the fourth T20I against West Indies. With the five-match series level at 2-2, Samson said India are charged up for the series decider in Bengaluru."
     }
   ],
   "education": [
@@ -564,7 +564,7 @@
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
