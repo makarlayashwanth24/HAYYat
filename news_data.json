@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/nayyi-navelli-box-office-day-1-yami-gautam-horror-comedy-opens-to-modest-numbers-3019377-2026-10-17",
+      "headline": "Nayyi Navelli box office Day 1: Yami Gautam's horror-comedy opens to modest numbers Actor Yami Gautam's Nayyi Navelli collected an estimated Rs 3.25 crore nett on its opening day. Its weekend performance will now shape its box-office trajectory amid competition from Prahaar."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/mrunal-thakur-jokes-about-not-having-shah-rukh-khan-in-her-life-it-breaks-my-heart-3019339-2026-10-17",
       "headline": "It breaks my heart: Mrunal Thakur jokes about not having Shah Rukh Khan in her life Actor Mrunal Thakur discussed Shah Rukh Khan's influence on her romantic expectations. She said Pooja Meri Jaan reinforced the importance of consent and communication."
     },
@@ -191,68 +196,38 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kajol-tanuja-inaugurate-80th-edition-north-bombay-sarbojanin-durga-puja-3018693-2026-10-16",
       "headline": "Maa in all her forms: Kajol shares pics with Tanuja, Tanishaa as Durga Puja begins Kajol, Tanuja and Tanishaa Mukerji inaugurated the 80th North Bombay Sarbojanin Durga Puja. The gathering continued the Mukerji family's generations-old association with the celebration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/rise-fall-2-bhojpuri-star-pawan-singh-to-return-after-midway-exit-in-season-1-3018603-2026-10-16",
-      "headline": "Rise & Fall 2: Bhojpuri star Pawan Singh to return after midway exit in Season 1 Pawan Singh may re-enter the Tower after leaving the first season midway. The possible comeback could reshape alliances, rivalries and power equations."
     }
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/trump-waives-russia-oil-sanctions-that-threatened-100-tariffs-on-india-day-before-it-were-to-take-effect-3019375-2026-10-17",
+      "headline": "Trump waives Russia oil sanctions a day before 100% tariffs on India were dueThe decision puts on hold measures that could have imposed tariffs of up to 100% on goods from major buyers of Russian energy, including India and China. The order allows the waiver to remain in effect until Trump or his administration determines that further action is necessary."
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/delhi-protests-cjp-aisa-abhijeet-dipke-neha-bora-detention-stalin-release-3019320-2026-10-17",
-      "headline": "CJP fails to breach Connaught Place; where are Dipke, Bora, Opposition asks govtDelhi's Connaught Place turned into a fortress as police detained CJP founder Abhijeet Dipke and AISA president Neha Bora before their 'Lehra Do Tiranga' march could take off. Opposition leaders demanded their release and questioned their whereabouts, while Rahul Gandhi, who had earlier called for all protests to be seen as one, has yet to respond."
+      "url": "https://www.indiatoday.in/india/story/cjps-dipke-under-preventive-arrest-for-breach-of-peace-bond-neha-bora-released-3019362-2026-10-17",
+      "headline": "CJP's Dipke under preventive arrest for breach of peace bond, Neha Bora releasedAccording to police, Dipke had been served two notices directing him not to visit Central Park in Connaught Place, but he allegedly failed to comply. Police said his detention was linked to concerns over a breach of peace."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/marco-rubio-india-visit-jamnagar-reliance-refinery-diesel-crisis-trump-russia-ukraine-itspc-3019158-2026-10-17",
+      "headline": "Rubio will be here for dieselDiesel prices are soaring in the US just ahead of the midterms. President Donald Trump is trying to stop Ukrainian strikes on Russian refineries. Amid this, US Secretary of State Marco Rubio is visiting Mumbai and Jamnagar, where the world's largest refinery is located. There's more oil in the visit than it seems."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/katie-do-you-need-this-trump-told-white-house-press-secretary-before-she-was-fired-3019364-2026-10-17",
+      "headline": "Katie, do you need this? Trump told White House Press Secretary before she was firedUS President Donald Trump urged Katie Zacharia to reconsider her role as White House press secretary before officials confirmed her exit. Her departure followed scrutiny of her legal credentials and brief media performance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/saudi-arabia-houthi-war-iran-shahed-drone-china-dual-use-export-control-anthropic-claude-code-ansar-allah-itspc-3018076-2026-10-17",
+      "headline": "How slipper-clad Houthis hit Saudi Arabia with Claude AI and China's missile partsYemen's Houthis are no longer just ragtag fighters in slippers, armed with Kalashnikovs and riding pickup trucks. Backed by Iranian weapons technology, equipped with Chinese-made missile components and experimenting with Anthropic's Claude AI, the rebels are building a more sophisticated arsenal of missiles and drones that is posing a growing threat to Saudi Arabia."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/we-will-sit-on-dharna-sc-warns-govt-over-lack-of-basic-facilities-for-pedestrians-near-delhi-hc-3019357-2026-10-17",
-      "headline": "We will sit on dharna: SC warns Govt over missing footpath, crossing near Delhi HCSupreme Court judges warned they may stage a dharna unless authorities improve pedestrian access near the Delhi High Court. The court said safe walking is a fundamental right and demanded action beyond committees."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trumps-press-secretary-katie-zacharia-let-go-after-just-days-in-the-role-3019342-2026-10-16",
-      "headline": "Trump fires Katie Zacharia after less than a week as White House press secretaryKatie Zacharia has been let go as White House press secretary days after taking the job. Questions over her bar exam record emerged before Trump urged her to reconsider the role."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-bangladesh-style-regime-change-india-congress-rahul-gandhi-prashant-bhushan-neha-bora-cjp-protests-3018727-2026-10-16",
-      "headline": "What is making BJP caution about Bangladesh-like regime-change bid in IndiaLawyer-activist Prashant Bhushan's remarks on regime change and AISA leader Neha Bora's statement that Bangladesh has \"shown us the way\" have given the BJP ammunition to accuse the Congress and its allies of pursuing a Bangladesh-style regime change in India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dipke-detention-leadership-test-cjp-plan-b-ready-tiranga-march-delhi-protest-3018926-2026-10-16",
-      "headline": "CJP says Plan B is ready as Dipke's detention throws up leadership testAbhijeet Dipke was on Friday detained ahead of the Cockroach Janta Party's Lehra Do Tiranga march. This leaves the CJP without any of the three known faces. The CJP said it was ready for such a situation with a Plan B."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-tour-of-new-zealand-bcci-test-squad-shami-akash-deep-3019221-2026-10-16",
-      "headline": "No Mohammed Shami as BCCI announces India's Test squad for New Zealand tourIndia tour of New Zealand: The senior selection committee ignored Mohammed Shami again as a 15-member squad for the two-match Test series, starting November 19, was announced on Friday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-veteran-lk-advani-admitted-to-apollo-hospital-with-chest-infection-3019321-2026-10-16",
-      "headline": "BJP veteran LK Advani admitted to Apollo Hospital with chest infectionThe latest hospitalisation comes just over a week after Prime Minister Narendra Modi visited Advani at his New Delhi residence on October 7 and sought his blessings on completing 25 years as a head of government."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/pakistan-imf-loan-debt-world-bank-boards-of-governors-chair-2027-3019148-2026-10-16",
-      "headline": "Debt-strapped Pakistan to chair IMF, World Bank boards of governors in 2027The Pakistani government called the appointment a \"historic milestone\", saying it would allow Islamabad to contribute to global economic discussions and facilitate dialogue among member countries. The diplomatic recognition, however, comes alongside a continuing need for external financing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/2026-audi-q3-launched-in-india-at-rs-5199-lakh-3019209-2026-10-16",
-      "headline": "2026 Audi Q3 launched in India at Rs 51.99 lakhAudi has launched the all-new Q3 in India, with prices starting at Rs 51.99 lakh (ex-showroom). The luxury SUV gets a 204bhp turbo-petrol engine, quattro allwheel drive and two variants."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-marco-rubio-india-visit-jaishankar-meeting-modi-foreign-policy-3019046-2026-10-16",
-      "headline": "Rubio summoned his employee, Rahul says on Jaishankar's Mumbai meet, MEA clarifiesThe Congress targeted the Modi government after Rubio's India visit was first announced by the US State Department. The MEA on Friday confirmed that Jaishankar will meet Rubio in Mumbai on October 20 and will also be the Guest of Honour at celebrations marking the 250th anniversary of US independence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tiger-associates-donates-rs-260-crore-dmk-aiadmk-tamil-nadu-ptag-3018743-2026-10-16",
-      "headline": "Lottery king Santiago Martin-linked firm donates Rs 260 crore to DMK, AIADMKTiger Associates donated Rs 260 crore to the DMK and AIADMK in 2025-26. The lottery firm supplied nearly 74 per cent of their combined reported contributions."
+      "headline": "We will sit on dharna: SC warns govt over missing footpath, crossing near Delhi HCSupreme Court judges warned they may stage a dharna unless authorities improve pedestrian access near the Delhi High Court. The court said safe walking is a fundamental right and demanded action beyond committees."
     },
     {
       "sentiment": "positive",
@@ -261,13 +236,43 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-ends-540-day-work-permit-extensions-h4-spouses-ptag-3019307-2026-10-16",
+      "headline": "US ends 540-day work permit extension: How Indian H-1B holders will be hitFormer US President Joe Biden introduced the 540-day automatic extension for employment authorisation documents in May 2022. It aimed to prevent renewal applicants from losing work authorisation due to processing delays at the agency."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/nana-patekars-son-malhar-reacts-to-tanushree-dutta-remarks-on-actor-death-3018851-2026-10-16",
       "headline": "Nana Patekar's son Malhar reacts to Tanushree Dutta's remarks on actor's deathNana Patekar's son, Malhar, addressed Tanushree Dutta's allegations against the late actor and dismissed rumours about his family. He also opened up about his father's social work and explained why the veteran actor had become selective about his film projects in recent years."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/uttarakhand-minister-rekha-arya-husband-girdhari-lal-sahu-rs-210-crore-assets-probe-ptag-3018976-2026-10-16",
-      "headline": "Uttarakhand minister's husband alleges Rs 210-crore illegal wealth after abuse FIRGirdhari Lal Sahu accused minister Rekha Arya of amassing illegal assets after she filed an abuse FIR against him. The competing allegations have intensified scrutiny of their domestic dispute and prompted political reactions."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tiger-associates-donates-rs-260-crore-dmk-aiadmk-tamil-nadu-ptag-3018743-2026-10-16",
+      "headline": "Lottery king Santiago Martin-linked firm donates Rs 260 crore to DMK, AIADMKTiger Associates donated Rs 260 crore to the DMK and AIADMK in 2025-26. The lottery firm supplied nearly 74 per cent of their combined reported contributions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/london-indian-high-commission-protest-sfi-uk-pro-modi-groups-ptag-3019315-2026-10-16",
+      "headline": "Left students, govt supporters face-off outside Indian mission in London over SIRThe demonstration followed an 'Emergency Protest' outside India House earlier in the week. It was called to amplify the demands of the CJP, including the removal of CEC Gyanesh Kumar and the scrapping of the SIR of electoral rolls in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-test-squad-new-zealand-anshul-kamboj-recall-auqib-nabi-misses-3019338-2026-10-17",
+      "headline": "India Test squad: Why Anshul Kamboj gets the nod as Auqib Nabi misses out againAnshul Kamboj has been recalled to India's squad for the two-Test series against New Zealand, while Auqib Nabi has missed out despite both pacers being named in the ODI squad. Nabi claimed 60 wickets in the Ranji Trophy last season to help Jammu and Kashmir win their maiden title."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/2026-audi-q3-launched-in-india-at-rs-5199-lakh-3019209-2026-10-16",
+      "headline": "2026 Audi Q3 launched in India at Rs 51.99 lakhAudi has launched the all-new Q3 in India, with prices starting at Rs 51.99 lakh (ex-showroom). The luxury SUV gets a 204bhp turbo-petrol engine, quattro allwheel drive and two variants."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/four-passengers-killed-after-bus-overturns-on-delhi-mumbai-expressway-in-rajasthans-kota-3019387-2026-10-17",
+      "headline": "8 killed as bus overturns on Delhi-Mumbai Expressway in Rajasthan's KotaAs per the information available, the driver lost control while driving, and the bus plunged into a nearby ditch, leading to the fatal accident."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/1000-scientists-100-hours-1-verdict-how-the-biggest-un-ipcc-climate-report-is-made-3018894-2026-10-17",
+      "headline": "1,000 scientists, 100+ hours, 1 verdict: Making of the biggest climate reportGovernments disagree over the timetable for the IPCC's next major climate assessment. Here's why the report matters for developing countries and global climate action, and what goes behind the scenes to draft the essential read."
     },
     {
       "sentiment": "positive",
@@ -276,51 +281,61 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/anvay-dravid-151-karnataka-gujarat-vinoo-mankad-trophy-knockouts-3019294-2026-10-16",
-      "headline": "Anvay Dravid on fire, hammers 151 off 100 for second century in Vinoo Mankad TrophyVinoo Mankad Trophy: Anvay Dravid struck 151 off 100 balls as Karnataka defeated Gujarat by five wickets in the U19 50-over tournament in Vizianagaram on Friday. His second century of the tournament secured Karnataka's place in the knockouts."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/how-did-elon-musks-tesla-roadster-jump-flip-mid-air-and-land-science-explained-3018589-2026-10-16",
-      "headline": "Elon Musk unveils a 'flying' Tesla. Unlike Rohit Shetty's, this follows physicsTesla's new Roadster used SpaceX-developed thrusters to lift, rotate mid-air and land. The demonstration adapts spacecraft propulsion technology for brief, controlled automotive manoeuvres."
+      "url": "https://www.indiatoday.in/entertainment/television/story/smriti-irani-introduces-off-screen-crew-in-special-kyunki-2-farewell-video-3019309-2026-10-16",
+      "headline": "Smriti Irani introduces off-screen crew in special Kyunki 2 farewell videoBidding farewell to Kyunki Saas Bhi Kabhi Bahu Thi 2, actor-politician Smriti Irani shared a behind-the-scenes video introducing the off-screen technical crew for their dedication."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/death-penalty-for-meerut-woman-boyfriend-who-killed-husband-and-staged-killing-as-snakebite-3018833-2026-10-16",
-      "headline": "Death penalty for Meerut woman, boyfriend who killed husband, staged it as snakebiteAmit Kashyap, also known as Mikky, was found dead at his house in Akbarpur Sadat village on April 12, 2025. His family initially suspected a snakebite after a snake was found trapped beneath his body."
+      "url": "https://www.indiatoday.in/india/story/bjp-veteran-lk-advani-admitted-to-apollo-hospital-with-chest-infection-3019321-2026-10-16",
+      "headline": "BJP veteran LK Advani admitted to Apollo Hospital with chest infectionThe latest hospitalisation comes just over a week after Prime Minister Narendra Modi visited Advani at his New Delhi residence on October 7 and sought his blessings on completing 25 years as a head of government."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/election-commission-voter-list-revision-readable-pdf-cjp-rahul-gandhi-protests-3018682-2026-10-16",
-      "headline": "Under Opposition fire, Election Commission's 2 big moves in 24 hoursThe Election Commission has announced a Special Summary Revision (SSR) of electoral rolls in 17 states to enrol new voters. Secondly, for the first time, the ECI has promised to give political parties soft copies of the electoral rolls. The twin moves come amid escalating protests."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/from-20-engineering-backlogs-to-zomato-delivery-boy-how-kerala-man-pursued-his-pilot-dream-3018721-2026-10-17",
+      "headline": "20 engineering backlogs, Zomato agent and pilot dream: Kerala man says he never gave upTwenty engineering backlogs, a Zomato delivery job, family loss and years of financial struggle could not end Haizil Jebi's dream of becoming a pilot. At 29, the Kerala native has travelled to the Philippines for pilot training, taking a major step towards the aviation career he first imagined as a teenager."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bimol-akoijam-jnu-dismissal-legal-challenge-sexual-harassment-allegations-3019098-2026-10-16",
-      "headline": "If charges not proven, I'll continue my work: Congress MP to challenge JNU sackingCongress MP Bimol Akoijam said he would challenge JNU's dismissal over sexual harassment allegations. He denied the charges, pledged cooperation and urged peace in Manipur."
+      "url": "https://www.indiatoday.in/sports/football/story/isl-2026-27-youtube-viewership-commercial-future-3019036-2026-10-17",
+      "headline": "ISL's YouTube gamble pays off early, but the bigger test is still to comeThe ISL's opening week has delivered 65 million YouTube views, offering a timely boost after a season of uncertainty. The challenge now is to turn that early interest into regular viewers, stronger club followings and lasting commercial value."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/pakistan-first-pm-liaquat-ali-khan-killed-by-afghan-over-kashmir-75-year-old-murder-mystery-itspc-3018239-2026-10-16",
-      "headline": "Was Pakistan's first PM assassinated over Kashmir?Exactly 75 years ago, Pakistan's first Prime Minister Liaquat Ali Khan was assassinated by an Afghan gunman in Rawalpindi. While the exact motive behind the killing remains a mystery, the most plausible cause is said to be the killer's resentment over the ceasefire after India-Pakistan 1947-48 war over Kashmir."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/arijit-singh-sonu-karan-aujla-to-headline-srks-unifyd-music-festival-in-abu-dhabi-3019227-2026-10-16",
+      "headline": "Arijit Singh, Sonu, Karan Aujla to headline SRK's UNIFYD music festival in Abu DhabiCurated by actor Shah Rukh Khan, the one-day UNIFYD Festival will debut in Abu Dhabi on March 20, 2027, featuring Arijit Singh, Sonu Nigam, and Karan Aujla as headliners."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/ranabaali-movie-review-vijay-deverakonds-film-is-battle-cry-on-paper-lullaby-on-screen-3018631-2026-10-16",
-      "headline": "Ranabaali review: Vijay Deverakonda's film is battle cry on paper, lullaby on screenRelease Date:Fri Oct 16, 2026Ranabaali movie review: Vijay Deverakonda leads Rahul Sankrityan's famine-era action epic Ranabaali. Impressive visuals and committed performances are undermined by repetitive storytelling and weak characterisation."
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-marco-rubio-india-visit-jaishankar-meeting-modi-foreign-policy-3019046-2026-10-16",
+      "headline": "Rubio summoned his employee, Rahul says on Jaishankar's Mumbai meet, MEA clarifiesThe Congress targeted the Modi government after Rubio's India visit was first announced by the US State Department. The MEA on Friday confirmed that Jaishankar will meet Rubio in Mumbai on October 20 and will also be the Guest of Honour at celebrations marking the 250th anniversary of US independence."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/h1b-visa-impact-sridhar-vembu-urges-indians-to-return-to-india-harvard-graduate-questions-system-3018572-2026-10-16",
-      "headline": "Where is the support to build in India? Harvard grad questions Sridhar Vembu's callAfter Zoho founder Sridhar Vembu urged Indians in the United States to return and build India amid immigration uncertainty, Simran, a Harvard graduate, says she has already returned, but questioned whether the country offers enough support to those willing to build here."
+      "url": "https://www.indiatoday.in/business/story/pakistan-imf-loan-debt-world-bank-boards-of-governors-chair-2027-3019148-2026-10-16",
+      "headline": "Debt-strapped Pakistan to chair IMF, World Bank boards of governors in 2027The Pakistani government called the appointment a \"historic milestone\", saying it would allow Islamabad to contribute to global economic discussions and facilitate dialogue among member countries. The diplomatic recognition, however, comes alongside a continuing need for external financing."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/france-school-protests-student-injuries-police-crowd-control-weapons-3018916-2026-10-16",
-      "headline": "Broken jaws, severed hands: French cops face heat over teenagers' war-like injuriesStudents have blockaded hundreds of high schools in four weeks of protests, demanding replacements for absent teachers and repairs to rundown buildings."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/akal-takht-declares-aap-mla-manwinder-giaspura-tankhaiya-guilty-of-religious-misconduct-punjab-ptag-3019350-2026-10-17",
+      "headline": "Sikh body declares AAP MLA guilty of misconduct after he claims discriminationThis comes months after Punjab Chief Minister Bhagwant Mann himself was declared a 'Guru Dokhi' and 'Khalsa Panth Virodhi' by the Akal Takht, the highest temporal authority in Sikhism, over a controversial viral video."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-morne-morkel-defends-bowlers-mental-fatigue-slams-critics-3019384-2026-10-17",
+      "headline": "These guys are human: Morne Morkel hits back at critics targeting India bowlers India bowling coach Morne Morkel has urged critics to consider the mental toll of a packed schedule as India's attack struggles for consistency against the West Indies. With Jasprit Bumrah absent, the series has also exposed concerns over India's bowling depth."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/real-madrid-laliga-javier-tebas-resignation-what-happened-nazi-propaganda-intimidation-3019376-2026-10-17",
+      "headline": "Why Real Madrid are at war with LaLiga chief Javier Tebas Real Madrid have demanded Javier Tebas's resignation after the LaLiga chief compared the club's communication methods to Nazi propaganda techniques. Tebas has hit back with claims of intimidation, escalating a long-running feud over refereeing and Spanish football's governance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/isl-2026-27-youtube-viewership-commercial-future-3019036-2026-10-17",
+      "headline": "ISL's YouTube gamble pays off early, but the bigger test is still to come The ISL's opening week has delivered 65 million YouTube views, offering a timely boost after a season of uncertainty. The challenge now is to turn that early interest into regular viewers, stronger club followings and lasting commercial value."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-test-squad-new-zealand-anshul-kamboj-recall-auqib-nabi-misses-3019338-2026-10-17",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/wasim-jaffer-applies-bcci-selector-role-pragyan-ojha-chairman-3019197-2026-10-16",
-      "headline": "Wasim Jaffer applies for selector's role, but BCCI likely to back Ojha for chairman Wasim Jaffer has applied for the senior national selector's post left vacant by Ajit Agarkar's exit, but strong BCCI backing for Pragyan Ojha could influence the final composition of the selection committee."
+      "headline": "Wasim Jaffer applies for selector's role, but BCCI likely to back Ojha for chairmanWasim Jaffer has applied for the senior national selector's post left vacant by Ajit Agarkar's exit, but strong BCCI backing for Pragyan Ojha could influence the final composition of the selection committee."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-shafali-verma-jemimah-rodrigues-india-womens-t20i-vice-captain-appointment-3019061-2026-10-16",
-      "headline": "Shafali over Jemimah: Smriti Mandhana explains India's T20I vice-captaincy decision INDW vs ZIMW: Smriti Mandhana has explained why Shafali Verma was chosen over Jemimah Rodrigues as India's T20I vice-captain, highlighting the opener's exceptional talent and growing maturity."
+      "headline": "Shafali over Jemimah: Smriti Mandhana explains India's T20I vice-captaincy decisionINDW vs ZIMW: Smriti Mandhana has explained why Shafali Verma was chosen over Jemimah Rodrigues as India's T20I vice-captain, highlighting the opener's exceptional talent and growing maturity."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/niki-prasad-india-debut-zimbabwe-first-womens-t20i-raipur-smriti-mandhana-3019096-2026-10-16",
-      "headline": "U19 hero Niki Prasad makes India debut, receives cap from Smriti Mandhana Niki Prasad made her senior India debut against Zimbabwe in Raipur, receiving her cap from Smriti Mandhana after leading India to Under-19 World Cup glory in 2025."
+      "headline": "U19 hero Niki Prasad makes India debut, receives cap from Smriti MandhanaNiki Prasad made her senior India debut against Zimbabwe in Raipur, receiving her cap from Smriti Mandhana after leading India to Under-19 World Cup glory in 2025."
     },
     {
       "sentiment": "positive",
@@ -455,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lisandro-martinez-apologises-man-utd-leadership-meeting-atletico-madrid-defeat-3018445-2026-10-16",
       "headline": "Lisandro Martinez apologises for post-match outburst after meeting Man Utd leadershipLisandro Martinez has apologised for his post-match outburst after Manchester United's 2-0 defeat to Atletico Madrid, saying frustration got the better of him. The defender met the club's leadership and manager in a bid to move past the controversy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/equestrian-federation-india-suspension-governance-crisis-international-events-3018439-2026-10-15",
-      "headline": "International body suspends Equestrian Federation of India over governance crisisIndia's equestrian athletes face an international setback as the global governing body suspends the Equestrian Federation of India from December 1 over a prolonged governance crisis, barring Indian riders, officials, trainers and horses from international events."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/pm-narendra-modi-speech-asian-games-medallists-olympics-2036-bid-3018409-2026-10-15",
-      "headline": "Will make Olympics in India happen: PM Modi inspires Asiad medallists to aim bigPrime Minister Narendra Modi's speech had a deep impact on India's Asian Games medallists as they aim to make the bid for the Olympics 2036 a reality. PM Modi spoke to the Asiad athletes on Thursday, October 15, in Delhi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-captaincy-debut-free-entry-women-raipur-india-zimbabwe-t20i-3018404-2026-10-15",
-      "headline": "Smriti Mandhana's captaincy debut comes with a bonus: Free entry for women in RaipurSmriti Mandhana's first match as India's full-time captain comes with an added attraction, as the Chhattisgarh State Cricket Association announces free entry for women for the T20I against Zimbabwe in Raipur on October 16."
     }
   ],
   "education": [
