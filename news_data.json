@@ -200,49 +200,19 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-says-us-may-launch-fresh-iran-operation-as-tehran-threatens-gulf-cables-3023944-2026-10-24",
+      "headline": "Trump warns of fresh Iran strike as Tehran threatens Gulf internet cablesDonald Trump raised the possibility of another US operation as Iran prepared retaliatory plans. Renewed escalation could threaten regional stability, energy prices and Gulf communications infrastructure."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/most-wanted-haryana-gangster-himanshu-bhau-involved-in-shooting-outside-elvish-yadavs-home-arrested-in-us-3023936-2026-10-24",
       "headline": "Himanshu Bhau, India's most wanted gangster from Haryana, arrested in USInterpol issued a Red Notice against Bhau in August 2023 after he was declared wanted in multiple criminal cases. At the time, police said he was wanted in 18 cases involving murder, attempted murder, extortion, criminal intimidation and forgery."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-up-voter-list-probe-pilibhit-10000-changes-without-form-8-election-commissin-sir-3023913-2026-10-23",
-      "headline": "UP Chief Electoral Officer calls 10,000 voter-list changes a crime, orders probeAn investigation in UP's Pilibhit has found that more than 10,000 voter-detail changes had been made without Form-8 applications or supporting documents."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-ufo-files-reveal-black-triangles-flying-at-1800-mph-over-secret-military-bases-3023930-2026-10-24",
-      "headline": "Mysterious black triangles spotted flying at 1,800 mph over US military basesNewly declassified US government files describe black triangular objects travelling at 1,800 mph over secret military bases, raising national security concerns as their origin remains unknown."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-raihan-vadra-bikaner-house-photo-censorship-backfired-priyanka-gandhi-itspc-3023700-2026-10-23",
-      "headline": "Censorship gave Raihan Vadra publicity, says Shashi Tharoor, shares BBC ReelCongress MP Shashi Tharoor has called the removal of Raihan Vadra's protest photographs from Bikaner House a \"disgrace\". He said the \"censorship\" had backfired, giving more publicity to Vadra than the exhibition would have given. Tharoor shared a BBC News India Reel on the row."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/iphone-duo-launch-apples-first-foldable-sells-out-but-where-were-the-crowds-in-india-3023725-2026-10-23",
-      "headline": "iPhone Duo launch: Apple's first foldable sells out, but where were the crowds in India?The iPhone Duo went on sale amid reports of sold-out pre-bookings, but the launch-day scene at Apple's Saket and Noida stores was surprisingly quiet."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-china-lac-tensions-chinese-patrol-pattern-deviations-border-peace-ptag-3023752-2026-10-23",
       "headline": "China's patrolling deviations can disrupt LAC peace: Govt after ITBP chief's remarkIndia said deviations by Chinese forces from established patrolling patterns could disturb the situation along the Line of Actual Control, stressing that border peace is essential for bilateral ties. The statement came a day after ITBP chief Shatrujeet Kapur flagged continued confrontations with Chinese troops at several sites along the Arunachal Pradesh border."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/anti-sir-protest-delhi-hc-rejects-neha-boras-plea-challenging-police-notice-to-execute-rs-10000-peace-bond-3023736-2026-10-23",
-      "headline": "Anti-SIR protest: Neha Bora faces HC setback in Rs 10,000 peace bond notice caseThe Delhi High Court has dismissed AISA president Neha Bora's plea challenging a notice issued by a Special Executive Magistrate (SEM) directing her to furnish a Rs 10,000 bond with a surety to maintain peace during the inquiry and appear before the lower court."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/surat-university-vnsgu-installs-388-anti-suicide-fans-nine-hostels-3023839-2026-10-23",
-      "headline": "Surat university installs 388 anti-suicide fans to prevent hostel suicidesVeer Narmad South Gujarat University has installed 388 anti-suicide fans across nine hostels. The spring-based measure aims to reduce suicide risk and strengthen student safety."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/5-year-old-arjun-prajapati-with-iq-of-141-joins-mensa-and-intertel-has-read-3000-books-3023468-2026-10-23",
-      "headline": "3,000 books, IQ of 141: How 5-year-old Indian-origin boy is learning without limitsFrom exploring more than 3,000 books to asking questions about infinity, black holes and human genetics, five-year-old Arjun Prajapati's curiosity extends far beyond his age. Although Arjun joined Mensa and Intertel at four with an IQ of 141, his parents prioritise curiosity and a happy childhood."
     },
     {
       "sentiment": "negative",
@@ -251,23 +221,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/annamalai-questions-attacks-bjp-cjp-support-protest-local-body-polls-strategy-tamil-nadu-cm-challenge-vijay-itspc-3023523-2026-10-23",
-      "headline": "Annamalai's BJP attacks, a strategy or a sign of desperation?Why is K Annamalai, who has floated We The Leaders, attacking the BJP without a pause? Is the former Tamil Nadu BJP chief's offensive a calculated move ahead of the local body elections, or is it a sign of desperation?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/killed-injured-gunmen-open-fire-during-funeral-at-church-in-jordan-king-abdullah-reacts-3023807-2026-10-23",
-      "headline": "7 killed after extremists open fire at church in Jordan; hunt for attackers on7 people were killed and 34 injured when gunmen opened fire during a funeral at a church in Jordan's Karak governorate. King Abdullah vowed the harshest retaliation as security forces pursued the suspects."
+      "url": "https://www.indiatoday.in/india/story/mumbai-air-pollution-sluggish-winds-farm-fires-stubble-garbage-burning-firecrackers-itspc-3023699-2026-10-24",
+      "headline": "Mumbai has the sea, so why is its air now worse than gas chamber Delhi's?Mumbai's pollution goes beyond construction dust and vehicle emissions. Farm fires, garbage burning, firecrackers and sluggish winds due to a Super El Nino are pushing the city towards the kind of toxic air usually associated with Delhi."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mika-singh-says-cm-dhami-apologised-on-behalf-of-bjp-mla-in-daler-mehndi-row-3023778-2026-10-23",
-      "headline": "Mika Singh says CM Dhami apologised on behalf of BJP MLA in Daler Mehndi rowSinger Mika Singh said Chief Minister Pushkar Singh Dhami apologised on Minister Subodh Uniyal's behalf. The assurance followed Uniyal's allegation that Daler Mehndi performed while drunk."
+      "url": "https://www.indiatoday.in/world/story/first-russian-diesel-shipment-heads-to-us-since-2023-as-trump-eases-pressure-on-moscow-3023945-2026-10-24",
+      "headline": "Trump's Russia policy U-turn brings first Russian diesel to US since 2023Three tankers carrying Russian diesel are heading towards North America under a Trump-Putin agreement. The shipments mark a sanctions reversal aimed at easing fuel prices before US midterms."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/several-feared-dead-after-firecracker-factory-explodes-in-bihars-siwan-rescue-ops-underway-3023743-2026-10-23",
-      "headline": "5 killed after firecracker factory explodes in Bihar, rescue ops underwayA massive explosion ripped through a house where firecrackers were manufactured and stored in Bihar's Siwan district, causing part of the building to collapse."
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-up-voter-list-probe-pilibhit-10000-changes-without-form-8-election-commissin-sir-3023913-2026-10-23",
+      "headline": "UP Chief Electoral Officer calls 10,000 voter-list changes a crime, orders probeAn investigation in UP's Pilibhit has found that more than 10,000 voter-detail changes had been made without Form-8 applications or supporting documents."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/iphone-duo-launch-apples-first-foldable-sells-out-but-where-were-the-crowds-in-india-3023725-2026-10-23",
+      "headline": "iPhone Duo launch: Apple's first foldable sells out, but where were the crowds in India?The iPhone Duo went on sale amid reports of sold-out pre-bookings, but the launch-day scene at Apple's Saket and Noida stores was surprisingly quiet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/5-year-old-arjun-prajapati-with-iq-of-141-joins-mensa-and-intertel-has-read-3000-books-3023468-2026-10-23",
+      "headline": "3,000 books, IQ of 141: How 5-year-old Indian-origin boy is learning without limitsFrom exploring more than 3,000 books to asking questions about infinity, black holes and human genetics, five-year-old Arjun Prajapati's curiosity extends far beyond his age. Although Arjun joined Mensa and Intertel at four with an IQ of 141, his parents prioritise curiosity and a happy childhood."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-ufo-files-reveal-black-triangles-flying-at-1800-mph-over-secret-military-bases-3023930-2026-10-24",
+      "headline": "Mysterious black triangles spotted flying at 1,800 mph over US military basesNewly declassified US government files describe black triangular objects travelling at 1,800 mph over secret military bases, raising national security concerns as their origin remains unknown."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/anti-sir-protest-delhi-hc-rejects-neha-boras-plea-challenging-police-notice-to-execute-rs-10000-peace-bond-3023736-2026-10-23",
+      "headline": "Anti-SIR protest: Neha Bora faces HC setback in Rs 10,000 peace bond notice caseThe Delhi High Court has dismissed AISA president Neha Bora's plea challenging a notice issued by a Special Executive Magistrate (SEM) directing her to furnish a Rs 10,000 bond with a surety to maintain peace during the inquiry and appear before the lower court."
     },
     {
       "sentiment": "positive",
@@ -275,34 +260,34 @@
       "headline": "Sooryavanshi storm brewing as India, New Zealand gear up for another run festVaibhav Sooryavanshi is set to return as India take on New Zealand in the second T20I in Christchurch. With another run fest on the cards, the 15-year-old's explosive batting could add firepower to India's aggressive approach."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/why-ias-officer-tukaram-mundhe-doesnt-want-his-children-to-join-civil-services-educ-3023423-2026-10-23",
-      "headline": "After 25 transfers, IAS officer Tukaram Mundhe says his children should not join IASIAS officer Tukaram Mundhe reportedly says he would advise his children against joining the civil services after 25 transfers in 21 years. His son's six school changes before Class 5 offer a glimpse into the family costs of a demanding administrative career and explain why he favours entrepreneurship or public leadership."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/volunteers-step-in-to-clear-ganga-riverbed-buried-with-clothes-and-plastic-in-haridwar-3022707-2026-10-22",
+      "headline": "Volunteers step in to clear Ganga riverbed buried with clothes and plastic in HaridwarVolunteers cleaned piles of waste from the exposed Ganga riverbed in Haridwar. The video renewed calls for safer clean-ups, dumping bans and fines."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/from-jee-advanced-setback-to-usd-11-million-iit-madras-students-startup-journey-3023304-2026-10-23",
-      "headline": "Failed to crack JEE, now this IIT Madras student's startup has raised USD 1.1 millionKuldeep Rathore's journey from an unsuccessful JEE Advanced attempt to securing USD 1.1 million in pre-seed funding for SamanNow shows how setbacks can spark new beginnings. The IIT Madras student's journey shows how persistence and practical learning turn ambition into entrepreneurial success."
+      "url": "https://www.indiatoday.in/india/story/patients-have-very-low-bargaining-position-vis-a-vis-hospitals-centre-flags-malpractice-in-sc-3023942-2026-10-24",
+      "headline": "Patients have very low bargaining position: Centre flags hospital malpractice in SCThe Centre told the Supreme Court that hospitals impose steep markups on medicines and consumables. Its proposed cancer-drug margin cap could substantially reduce prices and patient spending."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/gajab-raat-review-manoj-bajpayee-netflix-vaccine-scam-thriller-nushrratt-bharuccha-shradhha-das-akshay-oberoi-3023484-2026-10-23",
-      "headline": "Gajab Raat review: Manoj Bajpayee holds together a thriller more ajab than gajabRelease Date:Fri Oct 23, 2026A corrupt sub-inspector investigates an injured woman as rival agencies seek control. The case exposes a vaccine conspiracy, but his moral transformation feels unearned."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/annamalai-questions-attacks-bjp-cjp-support-protest-local-body-polls-strategy-tamil-nadu-cm-challenge-vijay-itspc-3023523-2026-10-23",
+      "headline": "Annamalai's BJP attacks, a strategy or a sign of desperation?Why is K Annamalai, who has floated We The Leaders, attacking the BJP without a pause? Is the former Tamil Nadu BJP chief's offensive a calculated move ahead of the local body elections, or is it a sign of desperation?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-para-games/story/sheetal-devi-class-12-result-asian-para-games-double-gold-3023887-2026-10-23",
-      "headline": "After Asian Para Games glory, Sheetal Devi aces another big test in Class 12Sheetal Devi announced that she had passed Class 12 after her medal-laden campaign in Nagoya. The result underlines her success beyond archery as she targets the LA Olympics."
+      "url": "https://www.indiatoday.in/world/story/zelenskyy-says-starlink-limits-remain-interceptors-delayed-despite-trump-assurance-3023940-2026-10-24",
+      "headline": "Zelenskyy contradicts Trump, says Starlink speed limits remain in UkraineZelenskyy said Starlink and Starshield speed restrictions remain despite Trump's assurance of restored access. The limits are complicating Ukrainian drone operations, while agreed missile interceptor deliveries remain delayed."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/imran-masood-detained-delhi-police-jamia-millia-student-election-protest-sharjeel-imam-3023870-2026-10-23",
-      "headline": "Congress's Imran Masood detained at Jamia amid row over student protest slogansA controversy sparked on Friday after posters calling for Sharjeel Imam's release and bearing the slogan 'Free Kashmir' appeared on campus. Imran Masood distanced himself from the slogans, saying he did not support them."
+      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-raihan-vadra-bikaner-house-photo-censorship-backfired-priyanka-gandhi-itspc-3023700-2026-10-23",
+      "headline": "Censorship gave Raihan Vadra publicity, says Shashi Tharoor, shares BBC ReelCongress MP Shashi Tharoor has called the removal of Raihan Vadra's protest photographs from Bikaner House a \"disgrace\". He said the \"censorship\" had backfired, giving more publicity to Vadra than the exhibition would have given. Tharoor shared a BBC News India Reel on the row."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/rs-2000-crore-ramayana-needs-rs-5000-crore-to-break-even-box-office-maths-decoded-3022926-2026-10-23",
-      "headline": "Ramayana's Rs 2,000 crore budget and Rs 5,000 crore break-even gambleWith a reported Rs 2,000-crore budget, Ramayana Part I faces a box-office mountain few Indian films have dared to climb. From the Rs 100-crore opening-day target and advance-booking expectations to the staggering Rs 5,000-crore break-even estimate, here's the business maths behind Nitesh Tiwari's ambitious epic."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/madan-mitra-may-quit-politics-over-fear-distress-in-west-bengal-ptag-3023823-2026-10-23",
+      "headline": "TMC veteran Madan Mitra hints at quitting politics, says tired of 'too much hatred'Madan Mitra said he is considering leaving active politics after growing disillusioned with Bengal's political climate. His remarks highlight public distress, restricted voter access and deepening fatigue across party lines."
     },
     {
       "sentiment": "positive",
@@ -316,8 +301,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/uttarakhand-man-ravi-tamta-built-electric-flying-car-without-an-engineering-degree-3023373-2026-10-23",
-      "headline": "No engineering degree, 13 years of learning: Uttarakhand man builds flying carRavi Tamta, from Uttarakhand's Almora district, spent 13 years learning through online resources and experiments to develop an electric flying vehicle. With a Bachelor of Arts degree and no formal engineering education, his journey challenges conventional ideas about who gets to innovate and where learning begins."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/rs-2000-crore-ramayana-needs-rs-5000-crore-to-break-even-box-office-maths-decoded-3022926-2026-10-23",
+      "headline": "Ramayana's Rs 2,000 crore budget and Rs 5,000 crore break-even gambleWith a reported Rs 2,000-crore budget, Ramayana Part I faces a box-office mountain few Indian films have dared to climb. From the Rs 100-crore opening-day target and advance-booking expectations to the staggering Rs 5,000-crore break-even estimate, here's the business maths behind Nitesh Tiwari's ambitious epic."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/surat-university-vnsgu-installs-388-anti-suicide-fans-nine-hostels-3023839-2026-10-23",
+      "headline": "Surat university installs 388 anti-suicide fans to prevent hostel suicidesVeer Narmad South Gujarat University has installed 388 anti-suicide fans across nine hostels. The spring-based measure aims to reduce suicide risk and strengthen student safety."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/fed-up-with-frequent-marital-disputes-rajnandgaon-man-pushes-wife-into-river-arrested-3023946-2026-10-24",
+      "headline": "Fed up with frequent marital disputes, Chhattisgarh man pushes wife into riverPolice arrested Mayur Meshram for allegedly pushing his wife, Neelam, into the Mohara river. The case followed his alleged disclosure to his brother-in-law and centres on repeated marital disputes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/from-jee-advanced-setback-to-usd-11-million-iit-madras-students-startup-journey-3023304-2026-10-23",
+      "headline": "Failed to crack JEE, now this IIT Madras student's startup has raised USD 1.1 millionKuldeep Rathore's journey from an unsuccessful JEE Advanced attempt to securing USD 1.1 million in pre-seed funding for SamanNow shows how setbacks can spark new beginnings. The IIT Madras student's journey shows how persistence and practical learning turn ambition into entrepreneurial success."
     }
   ],
   "sports": [
