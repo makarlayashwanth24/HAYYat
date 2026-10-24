@@ -201,13 +201,18 @@
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/yemens-houthis-say-they-attacked-dammam-and-riyadh-airports-saudi-aramco-facility-oil-refinery-3024437-2026-10-24",
-      "headline": "Houthis say they attacked Riyadh and Dammam airports, Saudi Aramco facilityThe Houthis claimed fresh attacks on Saudi airports and oil facilities amid renewed fighting in Yemen and the wider US-Israeli war on Iran."
+      "url": "https://www.indiatoday.in/world/story/houthis-deny-mecca-medina-attacks-say-they-struck-saudi-airports-oil-sites-3024477-2026-10-25",
+      "headline": "Houthis deny Mecca, Medina attacks, say Saudi airports, oil sites targetedThe Houthis denied targeting Mecca and Medina after Saudi Arabia intercepted missiles towards the regions. The escalation threatens the fragile truce while extending attacks across Saudi Arabia and Aden."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/farooq-abdullah-nc-chief-urges-muslim-unity-baramulla-demolitions-bjp-ruled-states-3024229-2026-10-24",
       "headline": "Pak protecting Kashmiris, claims Farooq Abdullah; BJP calls it treasonNC chief Farooq Abdullah has claimed that Pakistan was protecting the people of Jammu and Kashmir while the Centre remained silent over their grievances. The remarks drew sharp criticism from the BJP and the Vishwa Hindu Parishad (VHP)."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/musk-accuses-ukraine-of-using-starlink-for-offensive-drone-strikes-as-service-returns-to-normal-3024480-2026-10-25",
+      "headline": "Ukraine misused Starlink for offensive drone strikes, says Musk as service restoredUkraine said Starlink and Starshield returned to required speeds after restrictions disrupted military operations. Elon Musk alleged that Ukrainian forces breached service terms through offensive drone strikes."
     },
     {
       "sentiment": "positive",
@@ -216,13 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/free-umar-khalid-long-live-naxalbari-graffiti-spotted-at-jnu-administration-says-matter-under-probe-3024405-2026-10-24",
-      "headline": "Free 'Umar Khalid' graffiti spotted at JNU; administration reactsGraffiti reading 'Free Umar Khalid' and 'Long Live Naxalbari' was spotted on JNU walls, a day after controversial slogans surfaced at Jamia Millia Islamia. The JNU administration said it was looking into the matter."
+      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-rajiv-gandhi-cambridge-love-story-3024038-2026-10-24",
+      "headline": "A Greek eatery, chance meeting: Sonia Gandhi narrates her love story with RajivSonia Gandhi recalls meeting former Prime Minister Rajiv Gandhi at a Greek restaurant in Cambridge in the mid-1960s. Her memories of their first encounter and early romance feature in her upcoming memoir, Belonging: A Journey of Love, releasing November 10, 2026."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-rajiv-gandhi-cambridge-love-story-3024038-2026-10-24",
-      "headline": "A Greek eatery, chance meeting: Sonia Gandhi narrates her love story with RajivSonia Gandhi recalls meeting former Prime Minister Rajiv Gandhi at a Greek restaurant in Cambridge in the mid-1960s. Her memories of their first encounter and early romance feature in her upcoming memoir, Belonging: A Journey of Love, releasing November 10, 2026."
+      "url": "https://www.indiatoday.in/education-today/story/free-umar-khalid-long-live-naxalbari-graffiti-spotted-at-jnu-administration-says-matter-under-probe-3024405-2026-10-24",
+      "headline": "Free 'Umar Khalid' graffiti spotted at JNU; administration reactsGraffiti reading 'Free Umar Khalid' and 'Long Live Naxalbari' was spotted on JNU walls, a day after controversial slogans surfaced at Jamia Millia Islamia. The JNU administration said it was looking into the matter."
     },
     {
       "sentiment": "positive",
@@ -231,13 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/jagan-reddy-sister-sharmila-daughter-wedding-controversy-chandrababu-naidu-3024265-2026-10-24",
-      "headline": "Chandrababu Naidu's 'Kansa Mama' jab at Jagan over niece's wedding rowChandrababu Naidu has launched a sharp personal attack on Jagan Reddy amid reports that he allegedly refused to allow his niece's wedding to be held at the family compound in Bengaluru."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-ipl-2027-future-decision-csk-retirement-3024468-2026-10-24",
-      "headline": "MS Dhoni drops big hint on IPL future, decision expected before DecemberMS Dhoni has said he will decide on his IPL future before December, leaving CSK fans anxious his availability for IPL 2027. The former CSK captain joked that medical tests would determine if he could play another season."
+      "url": "https://www.indiatoday.in/science/story/rain-thunderstorms-lash-delhi-ncr-at-night-as-weather-conditions-shift-3024482-2026-10-25",
+      "headline": "Late-night rain, thunderstorms bring dip in Delhi-NCR temperaturesRain, thunderstorms and strong winds swept Delhi-NCR, with hail reported in Delhi and Noida. The spell lowered temperatures and raised hopes of improved air quality amid wider weather alerts."
     },
     {
       "sentiment": "positive",
@@ -251,6 +251,21 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/jagan-reddy-sister-sharmila-daughter-wedding-controversy-chandrababu-naidu-3024265-2026-10-24",
+      "headline": "Chandrababu Naidu's 'Kansa Mama' jab at Jagan over niece's wedding rowChandrababu Naidu has launched a sharp personal attack on Jagan Reddy amid reports that he allegedly refused to allow his niece's wedding to be held at the family compound in Bengaluru."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-ipl-2027-future-decision-csk-retirement-3024468-2026-10-24",
+      "headline": "MS Dhoni drops big hint on IPL future, decision expected before DecemberMS Dhoni has said he will decide on his IPL future before December, leaving CSK fans anxious his availability for IPL 2027. The former CSK captain joked that medical tests would determine if he could play another season."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/singer-shilpa-raos-show-cut-short-mic-switched-off-at-mumbai-event-fans-react-3024462-2026-10-24",
+      "headline": "Singer Shilpa Rao's show cut short, mic switched off at Mumbai event; fans reactSinger Shilpa Rao's performance at the Bollywood Music Project's 10th anniversary edition in Mumbai was cut short after organisers switched off her microphone mid-performance due to scheduling delays. It led to sparking outrage among fans online who slammed the management for disrespecting the artist."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/jamia-millia-islamia-protest-kashmir-row-bjp-congress-sharjeel-imam-imran-masood-visit-itspc-3024358-2026-10-24",
       "headline": "'Free Kashmir' graffiti on Jamia walls sparks row, BJP questions CongressObjectionable slogans on Kashmir and Sharjeel Imam on the walls of Delhi's Jamia Milia Islamia sparked a controversy with the BJP questioning what a Congress leader was doing at the university. This came even as students clashed with guards and classes were shifted online."
     },
@@ -261,23 +276,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/music/story/singer-shilpa-raos-show-cut-short-mic-switched-off-at-mumbai-event-fans-react-3024462-2026-10-24",
-      "headline": "Singer Shilpa Rao's show cut short, mic switched off at Mumbai event; fans reactSinger Shilpa Rao's performance at the Bollywood Music Project's 10th anniversary edition in Mumbai was cut short after organisers switched off her microphone mid-performance due to scheduling delays. It led to sparking outrage among fans online who slammed the management for disrespecting the artist."
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/elections/assembly/story/janniti-bharat-divya-mittal-403-up-seats-2027-assembly-elections-3024357-2026-10-24",
       "headline": "Ex-IAS Divya Mittal's party to contest all 403 seats in 2027 UP pollsDivya Mittal announced in Chunar that JanNiti Bharat plans to contest all 403 Uttar Pradesh seats. The former IAS officer said her political entry seeks to establish people's rule through people-centric governance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-peaceful-protests-ladakh-autonomy-cjp-protest-gyanesh-kumar-resignation-demand-3024442-2026-10-24",
-      "headline": "Don't kill the messenger: Sonam Wangchuk warns Centre over crackdown on protestersSonam Wangchuk defended peaceful street protests at the IPF Festival in Mumbai. He said dissent strengthens governance while local voices must shape Ladakh's future."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-trump-iran-war-soon-middle-east-biggest-military-showdown-signals-3024058-2026-10-24",
-      "headline": "5 signs US and Iran may be headed for their biggest military showdown yetOver the past few weeks, several moves by the US and Israel have indicated that they could resume strikes on Iran, and more aggressively than before. Here are the five signals that make us think so."
     },
     {
       "sentiment": "positive",
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-vs-india-score-2nd-t20i-tilak-varma-critics-christchurch-3024245-2026-10-24",
-      "headline": "2nd T20I: Tilak silences critics as India's obsession with batting depth pays offNZ vs IND, 2nd T20I: Tilak Varma came up with a composed 51 in just 26 balls as India chased down 181 in a last-over thriller on Friday in Christchurch. The visitors took a 2-0 lead in the five-match series."
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-peaceful-protests-ladakh-autonomy-cjp-protest-gyanesh-kumar-resignation-demand-3024442-2026-10-24",
+      "headline": "Don't kill the messenger: Sonam Wangchuk warns Centre over crackdown on protestersSonam Wangchuk defended peaceful street protests at the IPF Festival in Mumbai. He said dissent strengthens governance while local voices must shape Ladakh's future."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/sridhar-vembu-calls-ai-a-bubble-says-zoho-will-avoid-any-big-infra-investments-for-now-3024081-2026-10-24",
-      "headline": "Sridhar Vembu calls AI a bubble, says Zoho will avoid any big infra investments for nowZoho founder Sridhar Vembu appears to be taking a cautious approach to the AI boom, choosing research over big infrastructure bets for now. His comments come as concerns grow over whether the billions flowing into AI can deliver lasting returns."
+      "url": "https://www.indiatoday.in/world/story/us-trump-iran-war-soon-middle-east-biggest-military-showdown-signals-3024058-2026-10-24",
+      "headline": "5 signs US and Iran may be headed for their biggest military showdown yetOver the past few weeks, several moves by the US and Israel have indicated that they could resume strikes on Iran, and more aggressively than before. Here are the five signals that make us think so."
     },
     {
       "sentiment": "positive",
@@ -306,8 +306,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/maharashtra-fda-seizes-rs-1-56-crore-food-statewide-safety-drive-ptag-3024431-2026-10-24",
-      "headline": "43 tonnes food, 719 litres milk: Maharashtra FDA seizes Rs 1.56 crore haulThe Maharashtra FDA seized food, milk and ghee during a statewide enforcement drive. The action highlights tighter scrutiny of adulteration, mislabelling and unsafe storage practices."
+      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-vs-india-score-2nd-t20i-tilak-varma-critics-christchurch-3024245-2026-10-24",
+      "headline": "2nd T20I: Tilak silences critics as India's obsession with batting depth pays offNZ vs IND, 2nd T20I: Tilak Varma came up with a composed 51 in just 26 balls as India chased down 181 in a last-over thriller on Friday in Christchurch. The visitors took a 2-0 lead in the five-match series."
     },
     {
       "sentiment": "positive",
@@ -549,7 +549,7 @@
       "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
