@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/singer-shilpa-raos-show-cut-short-mic-switched-off-at-mumbai-event-fans-react-3024462-2026-10-24",
+      "headline": "Singer Shilpa Rao's show cut short, mic switched off at Mumbai event; fans react Singer Shilpa Rao's performance at the Bollywood Music Project's 10th anniversary edition in Mumbai was cut short after organisers switched off her microphone mid-performance due to scheduling delays. It led to sparking outrage among fans online who slammed the management for disrespecting the artist."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/daler-mehndi-row-subodh-uniyal-defends-stance-despite-cm-dhami-apology-3024434-2026-10-24",
+      "headline": "Daler Mehndi row: Minister Subodh Uniyal stands firm, refuses to apologise Following the heated altercation at Tehri's Kunjapuri Devi Mela, Uttarakhand Minister Subodh Uniyal defended his criticism of Daler Mehndi. He insisted that the singer should have disclosed his health issues beforehand instead of lip-syncing."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kriti-sanon-on-hypocrisy-during-rakhi-ad-row-those-talking-about-culture-abused-my-family-3024364-2026-10-24",
       "headline": "Those talking about culture abused my family: Kriti on hypocrisy during Rakhi ad row Actor Kriti Sanon discussed the Raksha Bandhan advertisement backlash on Kareena Kapoor Khan's chat show. She said the controversy reflected wider scrutiny of women and gender inequality prevalent in society."
@@ -186,23 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/prabhas-fauzi-first-look-birthday-rebel-soldier-release-date-march-19-2027-3023883-2026-10-23",
       "headline": "Fauzi teaser: Prabhas is India's most-wanted rebel soldier; release date out Prabhas's Fauzi makers unveiled the actor's first look along with the teaser on his 47th birthday. The period action drama shows him as a fierce rebel soldier and his political fight against British rule."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/daler-mehndi-uttarakhand-concert-row-mika-singh-reveals-brother-broke-down-crying-subodh-unniyal-3023828-2026-10-23",
-      "headline": "Mika Singh says Daler Mehndi broke down on call over Uttarakhand concert row Singer Mika Singh revealed that his brother Daler Mehndi broke down during their call after the Uttarakhand concert row. He said the incident left Daler shaken, prompting him to speak out in his defence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mika-singh-says-cm-dhami-apologised-on-behalf-of-bjp-mla-in-daler-mehndi-row-3023778-2026-10-23",
-      "headline": "Mika Singh says CM Dhami apologised on behalf of BJP MLA in Daler Mehndi row Singer Mika Singh said Chief Minister Pushkar Singh Dhami apologised on Minister Subodh Uniyal's behalf. The assurance followed Uniyal's allegation that Daler Mehndi performed while drunk."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/yemens-houthis-say-they-attacked-dammam-and-riyadh-airports-saudi-aramco-facility-oil-refinery-3024437-2026-10-24",
-      "headline": "Houthis say they attacked Riyadh and Dammam airports, Saudi Aramco facilityYemen's Houthis say they attacked Dammam and Riyadh airports, Saudi Aramco facility, oil refinery"
+      "headline": "Houthis say they attacked Riyadh and Dammam airports, Saudi Aramco facilityThe Houthis claimed fresh attacks on Saudi airports and oil facilities amid renewed fighting in Yemen and the wider US-Israeli war on Iran."
     },
     {
       "sentiment": "positive",
@@ -211,13 +211,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/free-umar-khalid-long-live-naxalbari-graffiti-spotted-at-jnu-administration-says-matter-under-probe-3024405-2026-10-24",
-      "headline": "Free 'Umar Khalid' graffiti spotted at JNU; administration reactsGraffiti reading 'Free Umar Khalid' and 'Long Live Naxalbari' was spotted on JNU walls, a day after controversial slogans surfaced at Jamia Millia Islamia. The JNU administration said it was looking into the matter."
+      "url": "https://www.indiatoday.in/world/story/france-unrest-protests-march-anti-government-demonstrations-rising-living-costs-economy-emmanuel-macron-paris-violence-3024469-2026-10-24",
+      "headline": "France protesters tear-gassed, clash with cops as over 4 lakh join anti-govt stirOver four lakh people protested across France against rising living costs, inequality and deteriorating public services. Police fired tear gas and used water cannon as clashes erupted in several cities, despite a massive security deployment to prevent a repeat of last weekend's violence."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mokama-mla-and-bihar-gangster-anant-singh-expelled-from-jdu-for-6-years-over-anti-party-activities-3024305-2026-10-24",
-      "headline": "Bihar MLA Anant Singh expelled from JDU for 6 years for anti-party activitiesIn an order issued by Bihar JD(U) president Umesh Singh Kushwaha, the party accused Singh of repeatedly defying its instructions and using inappropriate and insulting language against its top leadership."
+      "url": "https://www.indiatoday.in/education-today/story/free-umar-khalid-long-live-naxalbari-graffiti-spotted-at-jnu-administration-says-matter-under-probe-3024405-2026-10-24",
+      "headline": "Free 'Umar Khalid' graffiti spotted at JNU; administration reactsGraffiti reading 'Free Umar Khalid' and 'Long Live Naxalbari' was spotted on JNU walls, a day after controversial slogans surfaced at Jamia Millia Islamia. The JNU administration said it was looking into the matter."
     },
     {
       "sentiment": "positive",
@@ -226,28 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tamil-nadu-cm-vijay-praise-centre-tvk-reduces-vat-aviation-fuel-3024099-2026-10-24",
-      "headline": "Tamil Nadu cuts tax on aviation fuel, CM Vijay gets rare praise from CentreThe Tamil Nadu government has significantly reduced VAT on aviation turbine fuel across all airports in the state, offering relief to airlines amid sky-high crude prices."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/defence-secretary-rajesh-kumar-singh-gets-one-year-extension-till-october-2027-3024356-2026-10-24",
-      "headline": "Defence Secretary Rajesh Kumar Singh gets one-year extension till October 2027Rajesh Kumar Singh, a 1989-batch IAS officer of the Keralam cadre, took over as Defence Secretary on November 1, 2024."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jamia-millia-islamia-protest-kashmir-row-bjp-congress-sharjeel-imam-imran-masood-visit-itspc-3024358-2026-10-24",
-      "headline": "'Free Kashmir' graffiti on Jamia walls sparks row, BJP questions CongressObjectionable slogans on Kashmir and Sharjeel Imam on the walls of Delhi's Jamia Milia Islamia sparked a controversy with the BJP questioning what a Congress leader was doing at the university. This came even as students clashed with guards and classes were shifted online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/sharjeel-imam-interview-constitution-iqbal-jinnah-secularism-muslim-representation-itspc-3023567-2026-10-24",
-      "headline": "Sharjeel Imam blames Constitution for woes of Muslims. He is so wrongIn a recent interview, Sharjeel Imam questioned India's constitutional foundations and revisited the divisive political ideas of Allama Iqbal and Muhammad Ali Jinnah on the issue of Muslim under-representation. The Constitution has enough ways to secure rights, representation and democratic reform."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/lucknow/story/shiva-sharma-death-case-fresh-cctv-police-forensic-crime-scene-recreation-3024189-2026-10-24",
-      "headline": "Fresh CCTV footage shows model Shraddha Dubey with Shiva Sharma before his deathFresh CCTV footage reportedly shows Shiva Sharma with Shraddha Dubey before his death. A forensic reconstruction will test conflicting claims of murder and suicide."
+      "url": "https://www.indiatoday.in/india/story/anant-singh-expelled-jdu-rival-candidate-bihar-mlc-polls-3024399-2026-10-24",
+      "headline": "Backed rival, jibes at senior leaders: Why JDU expelled Bihar MLA Anant SinghThe JD(U) expelled Mokama MLA Anant Singh after he backed a Jan Suraaj candidate against the party's nominee in the Bihar MLC elections, defied repeated warnings and targeted senior leaders, including Union Minister Lallan Singh."
     },
     {
       "sentiment": "positive",
@@ -256,33 +236,53 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/jamia-millia-islamia-shifts-all-classes-online-amid-security-concerns-until-further-notice-3024125-2026-10-24",
-      "headline": "Protesting Jamia students clash with guards; all classes moved onlineJamia Millia Islamia shifted all classes online until further notice after students demanding the restoration of campus union elections clashed with security guards. The confrontation erupted when guards moved to remove tents set up by protesting students."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-ipl-2027-future-decision-csk-retirement-3024468-2026-10-24",
+      "headline": "MS Dhoni drops big hint on IPL future, decision expected before DecemberMS Dhoni has said he will decide on his IPL future before December, leaving CSK fans anxious his availability for IPL 2027. The former CSK captain joked that medical tests would determine if he could play another season."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/jd-vance-caught-in-a-meme-storm-as-namesake-hurricane-forms-off-mexico-3024088-2026-10-24",
-      "headline": "JD Vance caught in a meme storm as namesake hurricane forms off MexicoHurricane Vance strengthened off Mexico's Pacific coast as social media users linked its name to US Vice President JD Vance. The coincidence sparked jokes and edited images, although the WMO name was predetermined."
+      "url": "https://www.indiatoday.in/cities/lucknow/story/shiva-sharma-death-case-fresh-cctv-police-forensic-crime-scene-recreation-3024189-2026-10-24",
+      "headline": "Fresh CCTV footage shows model Shraddha Dubey with Shiva Sharma before his deathFresh CCTV footage reportedly shows Shiva Sharma with Shraddha Dubey before his death. A forensic reconstruction will test conflicting claims of murder and suicide."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/india-sir-electoral-rolls-voter-deletions-inclusion-constitutional-rights-3023808-2026-10-24",
-      "headline": "The wheat, the chaff and the voteWhat a monopoly grain factory reveals about India's Special Intensive Revision, the incentives behind exclusion, and the constitutional case for inclusion."
+      "url": "https://www.indiatoday.in/india/story/congress-delhi-rally-ramlila-november-1-maidan-demands-cec-gyanesh-kumar-removal-electoral-rolls-india-bloc-ptag-3024397-2026-10-24",
+      "headline": "At least 10 lakh people expected at Nov 1 rally demanding CEC's removal: CongressCongress will demand Chief Election Commissioner Gyanesh Kumar's removal at the INDIA bloc rally in Delhi. The campaign links electoral roll concerns with voting rights and institutional accountability."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jamia-millia-islamia-protest-kashmir-row-bjp-congress-sharjeel-imam-imran-masood-visit-itspc-3024358-2026-10-24",
+      "headline": "'Free Kashmir' graffiti on Jamia walls sparks row, BJP questions CongressObjectionable slogans on Kashmir and Sharjeel Imam on the walls of Delhi's Jamia Milia Islamia sparked a controversy with the BJP questioning what a Congress leader was doing at the university. This came even as students clashed with guards and classes were shifted online."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/daler-mehndi-row-subodh-uniyal-defends-stance-despite-cm-dhami-apology-3024434-2026-10-24",
+      "headline": "Daler Mehndi row: Minister Subodh Uniyal stands firm, refuses to apologiseFollowing the heated altercation at Tehri's Kunjapuri Devi Mela, Uttarakhand Minister Subodh Uniyal defended his criticism of Daler Mehndi. He insisted that the singer should have disclosed his health issues beforehand instead of lip-syncing."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/singer-shilpa-raos-show-cut-short-mic-switched-off-at-mumbai-event-fans-react-3024462-2026-10-24",
+      "headline": "Singer Shilpa Rao's show cut short, mic switched off at Mumbai event; fans reactSinger Shilpa Rao's performance at the Bollywood Music Project's 10th anniversary edition in Mumbai was cut short after organisers switched off her microphone mid-performance due to scheduling delays. It led to sparking outrage among fans online who slammed the management for disrespecting the artist."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/janniti-bharat-divya-mittal-403-up-seats-2027-assembly-elections-3024357-2026-10-24",
+      "headline": "Ex-IAS Divya Mittal's party to contest all 403 seats in 2027 UP pollsDivya Mittal announced in Chunar that JanNiti Bharat plans to contest all 403 Uttar Pradesh seats. The former IAS officer said her political entry seeks to establish people's rule through people-centric governance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-peaceful-protests-ladakh-autonomy-cjp-protest-gyanesh-kumar-resignation-demand-3024442-2026-10-24",
+      "headline": "Don't kill the messenger: Sonam Wangchuk warns Centre over crackdown on protestersSonam Wangchuk defended peaceful street protests at the IPF Festival in Mumbai. He said dissent strengthens governance while local voices must shape Ladakh's future."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-trump-iran-war-soon-middle-east-biggest-military-showdown-signals-3024058-2026-10-24",
+      "headline": "5 signs US and Iran may be headed for their biggest military showdown yetOver the past few weeks, several moves by the US and Israel have indicated that they could resume strikes on Iran, and more aggressively than before. Here are the five signals that make us think so."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/ashoke-sen-2026-oskar-klein-medal-first-indian-physicist-3024131-2026-10-24",
       "headline": "Ashoke Sen becomes first Indian physicist to win Oskar Klein MedalHe received the medal and delivered a lecture titled 'Gravity from strings and strings from gravity' at the AlbaNova University Centre in Stockholm on October 22."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-class-12-student-dies-after-setting-herself-on-fire-at-government-school-3024113-2026-10-24",
-      "headline": "Class 12 girl dies after self-immolation at Delhi school; brought petrol from homeA 17-year-old Class 12 student died after setting herself ablaze at a government school in Delhi's Krishna Nagar on Saturday. Police recovered a three-page suicide note from the spot"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-box-office-collection-day-9-rajinikanth-film-beats-border-2-hanuman-ansh-3023962-2026-10-24",
-      "headline": "Jailer 2 box office Day 9: Rajinikanth's film beats Border 2 and Hanuman AnshJailer 2 has moved ahead of Border 2 and Hanuman Ansh at the Indian box office. The Rajinikanth-starrer is expected to see a rise in collections over the weekend."
     },
     {
       "sentiment": "positive",
@@ -296,23 +296,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/sridhar-vembu-calls-ai-a-bubble-says-zoho-will-avoid-any-big-infra-investments-for-now-3024081-2026-10-24",
+      "headline": "Sridhar Vembu calls AI a bubble, says Zoho will avoid any big infra investments for nowZoho founder Sridhar Vembu appears to be taking a cautious approach to the AI boom, choosing research over big infrastructure bets for now. His comments come as concerns grow over whether the billions flowing into AI can deliver lasting returns."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/el-nino-2026-india-rainfall-temperature-forecast-climate-change-noaa-imd-pacific-ocean-3024065-2026-10-24",
       "headline": "El Nino makes history: Pacific temperatures touch 30\u00b0C for the first timeThe October 22 reading reached 30\u00b0C, crossing a mark not seen in the available records as El Nino 2026 continues to strengthen, with its expected peak yet to arrive."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/pursuit-of-jade-to-early-spring-what-makes-chinese-dramas-feel-so-indian-at-heart-3023959-2026-10-24",
-      "headline": "Pursuit of Jade to Early Spring: What makes Chinese dramas feel so Indian at heartFrom The Early Spring and Pursuit of Jade climbing Netflix's global charts to the enduring appeal of Hidden Love and Love Between Fairy and Devil, Chinese dramas are finding audiences far beyond their home market. In India, their mix of family values, slow-burn romance and elaborate fantasy worlds feels both familiar and refreshingly different."
+      "url": "https://www.indiatoday.in/india/story/maharashtra-fda-seizes-rs-1-56-crore-food-statewide-safety-drive-ptag-3024431-2026-10-24",
+      "headline": "43 tonnes food, 719 litres milk: Maharashtra FDA seizes Rs 1.56 crore haulThe Maharashtra FDA seized food, milk and ghee during a statewide enforcement drive. The action highlights tighter scrutiny of adulteration, mislabelling and unsafe storage practices."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/delhi-noida-street-food-sushi-cart-dim-sum-gourmet-neapolitan-pizza-thela-gurgaon-3023904-2026-10-24",
-      "headline": "Sushi, Neapolitan pizza on thela: Delhi-NCR's street food goes gourmetThe OG chaat favourites now have some fancy company. Sushi, delicate dim sum and bubbling wood-fired pizzas are finding their way onto thelas. Who knew your next gourmet craving would lead you to the roadside?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/french-open-pv-sindhu-final-an-se-young-title-match-3024190-2026-10-24",
-      "headline": "Resolute PV Sindhu sets up final vs invincible An Se Young in ParisFrench Open 2026: PV Sindhu came up with a come-from-behind win over Japan's Hina Akechi and stormed into her maiden final in Paris. The two-time Olympic medallist will face World No. 1 An Se Young on Sunday."
+      "url": "https://www.indiatoday.in/india/story/kerala-youtuber-amrit-singh-darren-booked-communal-fort-kochi-cafe-video-ptag-3024406-2026-10-24",
+      "headline": "Case filed against YouTuber Amrit Singh Darren over alleged communal remarksDarren, who is from north India, claimed that Kashi Art Cafe in Fort Kochi displayed a silver statue of Muhammad Ali Jinnah alongside one of Mahatma Gandhi and served beef."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,16 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-test-squad-sri-lanka-series-salman-ali-agha-babar-azam-3024455-2026-10-24",
+      "headline": "Agha, Usman get Pakistan recall for SL Tests, Rizwan and Imam still out Pakistan have recalled Salman Ali Agha and Ali Usman for their two-Test series against Sri Lanka in November. Babar Azam will lead a 14-member squad featuring three uncapped players as Pakistan look to improve their standing in the World Test Championship."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-ipl-2027-future-decision-csk-retirement-3024468-2026-10-24",
+      "headline": "MS Dhoni drops big hint on IPL future, decision expected before December MS Dhoni has said he will decide on his IPL future before December, leaving CSK fans anxious his availability for IPL 2027. The former CSK captain joked that medical tests would determine if he could play another season."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-mitchell-santner-praises-tilak-varma-naman-dhir-3024411-2026-10-24",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-overtake-england-icc-odi-rankings-tri-series-win-zimbabwe-3024223-2026-10-24",
-      "headline": "Afghanistan add to England's ODI woes by leapfrogging them in ICC rankings Afghanistan climbed to seventh in the latest ICC ODI rankings after beating Zimbabwe to win the tri-series. England slipped to eighth following defeats against Pakistan and Sri Lanka, while Sri Lanka moved up to sixth in the updated standings."
+      "headline": "Afghanistan add to England's ODI woes by leapfrogging them in ICC rankingsAfghanistan climbed to seventh in the latest ICC ODI rankings after beating Zimbabwe to win the tri-series. England slipped to eighth following defeats against Pakistan and Sri Lanka, while Sri Lanka moved up to sixth in the updated standings."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ishan-kishan-injury-india-vs-new-zealand-third-t20i-number-3-3024183-2026-10-24",
-      "headline": "NZ vs IND: Ishan Kishan set to miss 3rd T20I to add to India's No.3 woes Ishan Kishan will miss India's third T20I against New Zealand due to an adductor strain. His absence leaves India searching for firepower at No. 3 after Tilak Varma and Vaibhav Sooryavanshi struggled to make an impact in the role."
+      "headline": "NZ vs IND: Ishan Kishan set to miss 3rd T20I to add to India's No.3 woesIshan Kishan will miss India's third T20I against New Zealand due to an adductor strain. His absence leaves India searching for firepower at No. 3 after Tilak Varma and Vaibhav Sooryavanshi struggled to make an impact in the role."
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-2028-uae-neutral-venue-india-matches-3023876-2026-10-23",
       "headline": "India may play in UAE as Pakistan eyes hosting all 2028 Women's T20 WC matchesPakistan is keen to host all matches of the 2028 Women's T20 World Cup, with the UAE likely to serve as the neutral venue for India's games under the hybrid model. The ICC has scheduled the 12-team tournament from September 7 to October 1, 2028, while Lahore could host the final if India fail to qualify."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pratika-rawal-century-india-win-world-cup-memories-zimbabwe-vadodara-odi-3023850-2026-10-23",
-      "headline": "How Pratika Rawal drew on World Cup memories to rediscover her spark on same dayIND vs ZIM, 1st WODI: Pratika Rawal drew inspiration from her 2025 Women's World Cup century to score another hundred on October 23, guiding India to a nine-wicket win over Zimbabwe in their historic first-ever Women's ODI."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-hype-growth-india-vs-new-zealand-sitanshu-kotak-3023846-2026-10-23",
-      "headline": "Too much hype can hurt Vaibhav Sooryavanshi's growth: Sitanshu KotakIndia batting coach Sitanshu Kotak has warned that the hype around Vaibhav Sooryavanshi could hurt the 15-year-old's growth, urging fans to be patient as he waits for his first opportunity in the New Zealand T20I series."
     }
   ],
   "education": [
@@ -549,7 +549,7 @@
       "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
@@ -559,7 +559,7 @@
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
