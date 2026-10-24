@@ -104,6 +104,31 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-2-may-miss-diwali-2027-release-as-makers-consider-a-delay-3024032-2026-10-24",
+      "headline": "Ramayana 2 may miss Diwali 2027 release as makers consider a delay Ramayana 2 may be delayed from Diwali 2027 to Diwali 2028. The makers are yet to confirm the new release timeline. The film stars Ranbir Kapoor, Yash, Sai Pallavi and Sunny Deol among others in key roles."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-rohit-shetty-questions-scoutop-and-love-gill-closeness-3024006-2026-10-24",
+      "headline": "Bigg Boss 20: Rohit Shetty questions ScoutOP and Love Gill's closeness Rohit Shetty raised questions about ScoutOP and Love Gill's physical closeness on Bigg Boss 20. The filmmaker-host warned them that their interactions are not creating a good impression on screen."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/udta-teer-box-office-collection-day-1-ayushmann-khurrana-sara-ali-khan-spy-comedy-opens-on-a-slow-note-3023990-2026-10-24",
+      "headline": "Udta Teer box office Day 1: Ayushmann Khurrana's spy comedy opens on a slow note Actor Ayushmann Khurrana's Udta Teer opened on a slow note at the box office. The spy comedy saw low theatre occupancy, with night shows recording a better response."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/pursuit-of-jade-to-early-spring-what-makes-chinese-dramas-feel-so-indian-at-heart-3023959-2026-10-24",
+      "headline": "Pursuit of Jade to Early Spring: What makes Chinese dramas feel so Indian at heart From The Early Spring and Pursuit of Jade climbing Netflix's global charts to the enduring appeal of Hidden Love and Love Between Fairy and Devil, Chinese dramas are finding audiences far beyond their home market. In India, their mix of family values, slow-burn romance and elaborate fantasy worlds feels both familiar and refreshingly different."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-box-office-collection-day-9-rajinikanth-film-beats-border-2-hanuman-ansh-3023962-2026-10-24",
+      "headline": "Jailer 2 box office Day 9: Rajinikanth's film beats Border 2 and Hanuman Ansh Jailer 2 has moved ahead of Border 2 and Hanuman Ansh at the Indian box office. The Rajinikanth-starrer is expected to see a rise in collections over the weekend."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-delhi-concert-confirmed-october-30-police-permission-row-3023918-2026-10-23",
       "headline": "Diljit Dosanjh mocks viral reels, tweets and debates over Delhi concert Actor-singer Diljit Dosanjh confirmed his October 30 Delhi concert during a live session. His response challenged social media speculation and newsroom debates over police permission."
     },
@@ -171,53 +196,48 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/salaar-2-prabhas-prashanth-neel-reunion-birthday-post-3023461-2026-10-23",
       "headline": "Prabhas, Prashanth Neel reunite on actor's birthday, Salaar 2 tease sends fans wild Actor Prabhas reunited with director Prashanth Neel as the Salaar team shared a birthday post. The meeting renewed fan anticipation for Salaar 2, though no production update was announced."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/day-after-no-nod-delhi-police-grant-permission-for-diljit-dosanjhs-delhi-concert-on-october-30-3023477-2026-10-23",
-      "headline": "Diljit to perform in Delhi as planned, police permit concert a day after denial Delhi Police has granted permission for Diljit Dosanjh's concert in Delhi on October 30 after initially denying it due to security concerns. The organisers agreed to several conditions related to crowd management and private security, ensuring the show goes ahead smoothly during the festive season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/doosra-review-saurav-ganguly-lords-moment-inspires-rebellion-but-film-drops-the-ball-3023450-2026-10-23",
-      "headline": "Doosra Review: Ganguly's Lord's moment inspires rebellion, but film drops the ballRelease Date:Fri Oct 23, 2026 Doosra review: Abhinay Deo's film draws a parallel between Sourav Ganguly's iconic NatWest victory and a young girl's fight against patriarchy. However, uneven writing, rushed character development and a weak connection between the two stories keep the film from reaching its potential."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mumbai-police-probe-threat-email-to-bmc-and-school-naming-amitabh-bachchan-3023437-2026-10-23",
-      "headline": "Mumbai Police probe threat email to BMC and school naming Amitabh Bachchan Mumbai Police have launched a search for the sender after a threat email was sent to a school and the Brihanmumbai Municipal Corporation (BMC) office. It mentioned veteran actor Amitabh Bachchan and other celebrities, though thorough checks yielded nothing suspicious."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/varam-review-jiohotstar-telugu-fantasy-series-tomorrows-news-dangerous-boon-3023432-2026-10-23",
-      "headline": "Varam first impression: Vishwadev Rachakonda's fantasy drama has intriguing ideas Director Aditya Mandala's Varam, starring Vishwadev Rachakonda and Shivathmika Rajashekar, is a Telugu fantasy drama set in a slum. The series introduces an intriguing premise about a boon that could change a man's life, but with only two episodes out, the story is just getting started."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/hoemonal-sumukhi-suresh-netflix-special-explores-dating-with-conservative-upbringing-3023402-2026-10-23",
-      "headline": "Hoemonal: Sumukhi Suresh Netflix special explores dating with conservative upbringing Sumukhi Suresh's Netflix special Hoemonal candidly explores the challenges of dating after a conservative upbringing, blending humour with heartfelt moments. The show resonates with women navigating modern relationships while balancing traditional values and personal growth."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-says-us-may-launch-fresh-iran-operation-as-tehran-threatens-gulf-cables-3023944-2026-10-24",
-      "headline": "Trump warns of fresh Iran strike as Tehran threatens Gulf internet cablesDonald Trump raised the possibility of another US operation as Iran prepared retaliatory plans. Renewed escalation could threaten regional stability, energy prices and Gulf communications infrastructure."
+      "url": "https://www.indiatoday.in/india/story/india-china-faceoff-arunachal-border-taksing-sensitive-itbp-chief-remark-3023985-2026-10-24",
+      "headline": "Two sectors in Arunachal's Taksing remain sensitive, no clashes reported: SourcesArunachal Pradesh's Asaphila and Longju remain sensitive amid differing India-China perceptions of the Line of Actual Control, but the ground situation remains stable. Military communication mechanisms and infrastructure development continue to support border management and local communities."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/most-wanted-haryana-gangster-himanshu-bhau-involved-in-shooting-outside-elvish-yadavs-home-arrested-in-us-3023936-2026-10-24",
-      "headline": "Himanshu Bhau, India's most wanted gangster from Haryana, arrested in USInterpol issued a Red Notice against Bhau in August 2023 after he was declared wanted in multiple criminal cases. At the time, police said he was wanted in 18 cases involving murder, attempted murder, extortion, criminal intimidation and forgery."
+      "url": "https://www.indiatoday.in/india/story/most-wanted-gangsters-himanshu-bhau-neeraj-faridpuria-fake-passports-us-arrest-3024013-2026-10-24",
+      "headline": "Fake passports, new identities: How Himanshu Bhau, Neeraj Faridpuria evaded arrestAccording to exclusive details accessed by India Today, the two gangsters, wanted in multiple cases in India, used false identities to conceal their identities and evade arrest. Himanshu Bhau obtained a passport under the name Himanshu Sigroha, while Neeraj Faridpuria used the name Neeraj Kaushik."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-china-lac-tensions-chinese-patrol-pattern-deviations-border-peace-ptag-3023752-2026-10-23",
-      "headline": "China's patrolling deviations can disrupt LAC peace: Govt after ITBP chief's remarkIndia said deviations by Chinese forces from established patrolling patterns could disturb the situation along the Line of Actual Control, stressing that border peace is essential for bilateral ties. The statement came a day after ITBP chief Shatrujeet Kapur flagged continued confrontations with Chinese troops at several sites along the Arunachal Pradesh border."
+      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-rajiv-gandhi-cambridge-love-story-3024038-2026-10-24",
+      "headline": "A Greek eatery, chance meeting: Sonia Gandhi narrates love at first sight with RajivSonia Gandhi recalls meeting former Prime Minister Rajiv Gandhi at a Greek restaurant in Cambridge in the mid-1960s. Her memories of their first encounter and early romance feature in her upcoming memoir, Belonging: A Journey of Love, releasing November 10, 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-box-office-collection-day-9-rajinikanth-film-beats-border-2-hanuman-ansh-3023962-2026-10-24",
+      "headline": "Jailer 2 box office Day 9: Rajinikanth's film beats Border 2 and Hanuman AnshJailer 2 has moved ahead of Border 2 and Hanuman Ansh at the Indian box office. The Rajinikanth-starrer is expected to see a rise in collections over the weekend."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-vs-priyanka-rift-congress-bjp-raihan-vadra-photo-exhibition-3023353-2026-10-23",
-      "headline": "Priyanka vs Rahul in Congress: BJP claims rift amid Raihan Vadra exhibition rowBJP spokesperson Pradeep Bhandari questioned whether Priyanka Gandhi had lost faith in Rahul, alleging that she was seeking to 'soft-launch' her son by manufacturing a controversy."
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/25-year-old-from-telangana-dies-of-suspected-cardiac-arrest-in-new-york-she-recently-secured-a-job-3023994-2026-10-24",
+      "headline": "Telangana woman dies in US after collapsing outside residence during night walkThe woman, daughter of a prominent Telangana businessman, suddenly collapsed while walking outside her residence after dinner, following which her brother rushed her to a hospital, where doctors declared her dead."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/india-world-most-polluted-cities-aqi-ranking-mumbai-delhi-noida-ghaziabd-meerut-3024022-2026-10-24",
+      "headline": "22 of world's 25 most polluted cities are in India. Where is Delhi?India's air pollution crisis extends beyond Delhi, with cities across several states appearing near the top of a global real-time ranking."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/telangana/story/telangana-sexual-assault-case-seven-held-pocso-siddipet-minor-seven-arrested-3023963-2026-10-24",
+      "headline": "Telangana teen gang-raped by 7 people, including 3 minors, on DussehraPolice said the seven accused, all of whom have been arrested, kidnapped the girl on Dussehra while her parents were away working in their fields and took her to a neighbouring village, where they gang-raped her."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/india-sir-electoral-rolls-voter-deletions-inclusion-constitutional-rights-3023808-2026-10-24",
+      "headline": "The wheat, the chaff and the voteWhat a monopoly grain factory reveals about India's Special Intensive Revision, the incentives behind exclusion, and the constitutional case for inclusion."
     },
     {
       "sentiment": "positive",
@@ -226,101 +246,111 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/first-russian-diesel-shipment-heads-to-us-since-2023-as-trump-eases-pressure-on-moscow-3023945-2026-10-24",
-      "headline": "Trump's Russia policy U-turn brings first Russian diesel to US since 2023Three tankers carrying Russian diesel are heading towards North America under a Trump-Putin agreement. The shipments mark a sanctions reversal aimed at easing fuel prices before US midterms."
+      "url": "https://www.indiatoday.in/sports/cricket/story/kieron-pollard-appointed-mumbai-indians-new-head-coach-replaces-mahela-jayawardene-3023992-2026-10-24",
+      "headline": "Kieron Pollard replaces Mahela Jayawardene as Mumbai Indians head coachMumbai Indians have promoted Kieron Pollard from batting coach to head coach, extending his long association with the five-time IPL champions. The former West Indies all-rounder will lead the franchise after years as a player and coach."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-up-voter-list-probe-pilibhit-10000-changes-without-form-8-election-commissin-sir-3023913-2026-10-23",
-      "headline": "UP Chief Electoral Officer calls 10,000 voter-list changes a crime, orders probeAn investigation in UP's Pilibhit has found that more than 10,000 voter-detail changes had been made without Form-8 applications or supporting documents."
+      "url": "https://www.indiatoday.in/health/story/does-your-bp-tablet-contain-a-diuretic-know-the-winter-risks-3023998-2026-10-24",
+      "headline": "Your BP medicine may contain a hidden diuretic, doctors explain the winter risksMany blood pressure medicines contain diuretics, also known as water pills, without patients realising it. As winter approaches, changes in fluid intake can affect blood pressure, kidney function and electrolyte levels."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/iphone-duo-launch-apples-first-foldable-sells-out-but-where-were-the-crowds-in-india-3023725-2026-10-23",
-      "headline": "iPhone Duo launch: Apple's first foldable sells out, but where were the crowds in India?The iPhone Duo went on sale amid reports of sold-out pre-bookings, but the launch-day scene at Apple's Saket and Noida stores was surprisingly quiet."
+      "url": "https://www.indiatoday.in/education-today/how-i-made-it/story/bengaluru-class-12-student-designs-rs-5-lakh-portable-school-for-migrant-workers-children-3023659-2026-10-24",
+      "headline": "A school inside a shipping container? This Bengaluru teen wants to reach migrant kidsA Class 12 student is turning a shipping container into a Rs 5 lakh classroom for children of migrant construction workers in Bengaluru. With space for 20 to 25 students, the project aims to bring learning and play closer to families who move between construction sites. The school is expected to open by the end of 2026."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/5-year-old-arjun-prajapati-with-iq-of-141-joins-mensa-and-intertel-has-read-3000-books-3023468-2026-10-23",
-      "headline": "3,000 books, IQ of 141: How 5-year-old Indian-origin boy is learning without limitsFrom exploring more than 3,000 books to asking questions about infinity, black holes and human genetics, five-year-old Arjun Prajapati's curiosity extends far beyond his age. Although Arjun joined Mensa and Intertel at four with an IQ of 141, his parents prioritise curiosity and a happy childhood."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-ufo-files-reveal-black-triangles-flying-at-1800-mph-over-secret-military-bases-3023930-2026-10-24",
-      "headline": "Mysterious black triangles spotted flying at 1,800 mph over US military basesNewly declassified US government files describe black triangular objects travelling at 1,800 mph over secret military bases, raising national security concerns as their origin remains unknown."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/anti-sir-protest-delhi-hc-rejects-neha-boras-plea-challenging-police-notice-to-execute-rs-10000-peace-bond-3023736-2026-10-23",
-      "headline": "Anti-SIR protest: Neha Bora faces HC setback in Rs 10,000 peace bond notice caseThe Delhi High Court has dismissed AISA president Neha Bora's plea challenging a notice issued by a Special Executive Magistrate (SEM) directing her to furnish a Rs 10,000 bond with a surety to maintain peace during the inquiry and appear before the lower court."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-2nd-t20i-vaibhav-sooryavanshi-predicted-playing-xi-3023821-2026-10-23",
-      "headline": "Sooryavanshi storm brewing as India, New Zealand gear up for another run festVaibhav Sooryavanshi is set to return as India take on New Zealand in the second T20I in Christchurch. With another run fest on the cards, the 15-year-old's explosive batting could add firepower to India's aggressive approach."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/volunteers-step-in-to-clear-ganga-riverbed-buried-with-clothes-and-plastic-in-haridwar-3022707-2026-10-22",
-      "headline": "Volunteers step in to clear Ganga riverbed buried with clothes and plastic in HaridwarVolunteers cleaned piles of waste from the exposed Ganga riverbed in Haridwar. The video renewed calls for safer clean-ups, dumping bans and fines."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/patients-have-very-low-bargaining-position-vis-a-vis-hospitals-centre-flags-malpractice-in-sc-3023942-2026-10-24",
-      "headline": "Patients have very low bargaining position: Centre flags hospital malpractice in SCThe Centre told the Supreme Court that hospitals impose steep markups on medicines and consumables. Its proposed cancer-drug margin cap could substantially reduce prices and patient spending."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/annamalai-questions-attacks-bjp-cjp-support-protest-local-body-polls-strategy-tamil-nadu-cm-challenge-vijay-itspc-3023523-2026-10-23",
-      "headline": "Annamalai's BJP attacks, a strategy or a sign of desperation?Why is K Annamalai, who has floated We The Leaders, attacking the BJP without a pause? Is the former Tamil Nadu BJP chief's offensive a calculated move ahead of the local body elections, or is it a sign of desperation?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/zelenskyy-says-starlink-limits-remain-interceptors-delayed-despite-trump-assurance-3023940-2026-10-24",
-      "headline": "Zelenskyy contradicts Trump, says Starlink speed limits remain in UkraineZelenskyy said Starlink and Starshield speed restrictions remain despite Trump's assurance of restored access. The limits are complicating Ukrainian drone operations, while agreed missile interceptor deliveries remain delayed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-raihan-vadra-bikaner-house-photo-censorship-backfired-priyanka-gandhi-itspc-3023700-2026-10-23",
-      "headline": "Censorship gave Raihan Vadra publicity, says Shashi Tharoor, shares BBC ReelCongress MP Shashi Tharoor has called the removal of Raihan Vadra's protest photographs from Bikaner House a \"disgrace\". He said the \"censorship\" had backfired, giving more publicity to Vadra than the exhibition would have given. Tharoor shared a BBC News India Reel on the row."
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/madan-mitra-may-quit-politics-over-fear-distress-in-west-bengal-ptag-3023823-2026-10-23",
-      "headline": "TMC veteran Madan Mitra hints at quitting politics, says tired of 'too much hatred'Madan Mitra said he is considering leaving active politics after growing disillusioned with Bengal's political climate. His remarks highlight public distress, restricted voter access and deepening fatigue across party lines."
+      "headline": "TMC veteran Madan Mitra hints at quitting politics, says tired of too much hatredMadan Mitra said he is considering leaving active politics after growing disillusioned with Bengal's political climate. His remarks highlight public distress, restricted voter access and deepening fatigue across party lines."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/storm-austen-france-power-cuts-uk-disruption-storm-boelo-warnings-weather-3023827-2026-10-23",
-      "headline": "Power cuts, grounded flights, towering waves: Storm Austen batters France, UKStorm Austen battered France and Britain, cutting power and disrupting transport services. Storm Boelo now threatens further outages, travel delays and flooding over the weekend."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/haryana-power-strike-ends-government-rules-out-privatisation-restores-supply-3023890-2026-10-23",
-      "headline": "Haryana power unions call off 3-day strike after outages hit Gurugram, other areasHaryana power unions withdrew their strike after meeting Chief Minister Nayab Singh Saini and power minister Anil Vij. The government assured employees that the regulatory order would be cancelled and privatisation abandoned."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/neeraj-chauhan-asian-games-bronze-medal-world-cup-struggles-exclusive-3023770-2026-10-24",
+      "headline": "Learning to let go: How Neeraj Chauhan found his way to the Asian Games podiumAfter years of returning empty-handed from World Cups, Neeraj Chauhan learnt to focus on the shot, not the result. Backed by his family's sacrifices and his teammates' support, the Indian archer turned perseverance into an Asian Games bronze medal."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/rs-2000-crore-ramayana-needs-rs-5000-crore-to-break-even-box-office-maths-decoded-3022926-2026-10-23",
-      "headline": "Ramayana's Rs 2,000 crore budget and Rs 5,000 crore break-even gambleWith a reported Rs 2,000-crore budget, Ramayana Part I faces a box-office mountain few Indian films have dared to climb. From the Rs 100-crore opening-day target and advance-booking expectations to the staggering Rs 5,000-crore break-even estimate, here's the business maths behind Nitesh Tiwari's ambitious epic."
+      "url": "https://www.indiatoday.in/india/story/arunachal-upper-multipurpose-project-protest-four-women-injured-police-clash-3023976-2026-10-24",
+      "headline": "Activists detained, 4 hurt in clashes in Arunachal dam protest; CM urges dialoguePolice fired tear gas during a bandh against the Siang Upper Multipurpose Project, injuring four women. The confrontation deepened tensions over project surveys, indigenous rights and strategic concerns"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/surat-university-vnsgu-installs-388-anti-suicide-fans-nine-hostels-3023839-2026-10-23",
-      "headline": "Surat university installs 388 anti-suicide fans to prevent hostel suicidesVeer Narmad South Gujarat University has installed 388 anti-suicide fans across nine hostels. The spring-based measure aims to reduce suicide risk and strengthen student safety."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/fed-up-with-frequent-marital-disputes-rajnandgaon-man-pushes-wife-into-river-arrested-3023946-2026-10-24",
-      "headline": "Fed up with frequent marital disputes, Chhattisgarh man pushes wife into riverPolice arrested Mayur Meshram for allegedly pushing his wife, Neelam, into the Mohara river. The case followed his alleged disclosure to his brother-in-law and centres on repeated marital disputes."
+      "url": "https://www.indiatoday.in/lifestyle/food/story/delhi-noida-street-food-sushi-cart-dim-sum-gourmet-neapolitan-pizza-thela-gurgaon-3023904-2026-10-24",
+      "headline": "Sushi, Neapolitan pizza on thela: Delhi-NCR's street food goes gourmetThe OG chaat favourites now have some fancy company. Sushi, delicate dim sum and bubbling wood-fired pizzas are finding their way onto thelas. Who knew your next gourmet craving would lead you to the roadside?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/from-jee-advanced-setback-to-usd-11-million-iit-madras-students-startup-journey-3023304-2026-10-23",
-      "headline": "Failed to crack JEE, now this IIT Madras student's startup has raised USD 1.1 millionKuldeep Rathore's journey from an unsuccessful JEE Advanced attempt to securing USD 1.1 million in pre-seed funding for SamanNow shows how setbacks can spark new beginnings. The IIT Madras student's journey shows how persistence and practical learning turn ambition into entrepreneurial success."
+      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-645-23-10-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/uk-news/story/storm-boelo-united-kingdom-braces-for-impact-after-austen-uk-be-ready-campaign-guidelines-3023984-2026-10-24",
+      "headline": "UK govt launches 'Be Ready' campaign as country braces for 2nd storm in two daysOn Friday, a powerful Atlantic storm system packing winds of up to 179 kmph swept across Western Europe leaving nearly 3,00,000 homes without power in France and thousands more in the UK."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/gael-monfils-defends-elina-svitolina-after-separation-3023955-2026-10-24",
+      "headline": "Unkind, venomous: Monfils defends Svitolina amid online criticism after separationGael Monfils has defended Elina Svitolina against online criticism following their separation. In an Instagram post, the French tennis star urged fans to respect their privacy, saying outsiders cannot understand the complexities of a relationship."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/pursuit-of-jade-to-early-spring-what-makes-chinese-dramas-feel-so-indian-at-heart-3023959-2026-10-24",
+      "headline": "Pursuit of Jade to Early Spring: What makes Chinese dramas feel so Indian at heartFrom The Early Spring and Pursuit of Jade climbing Netflix's global charts to the enduring appeal of Hidden Love and Love Between Fairy and Devil, Chinese dramas are finding audiences far beyond their home market. In India, their mix of family values, slow-burn romance and elaborate fantasy worlds feels both familiar and refreshingly different."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/openai-resumes-ai-training-cuts-live-internet-to-stop-agents-from-escaping-offline-world-3024016-2026-10-24",
+      "headline": "OpenAI resumes AI training, builds offline world for agentsOpenAI is back to training its most advanced AI models, but with a notable change: no live internet access. After AI agents found ways to bypass security controls, the company has built an offline world for them to learn and work in. Here's how OpenAI is tightening its defences to keep AI agents in check."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-vs-priyanka-rift-congress-bjp-raihan-vadra-photo-exhibition-3023353-2026-10-23",
+      "headline": "Priyanka vs Rahul in Congress: BJP claims rift amid Raihan Vadra exhibition rowBJP spokesperson Pradeep Bhandari questioned whether Priyanka Gandhi had lost faith in her brother Rahul, alleging that she was seeking to \"soft-launch\" her son, Raihan Vadra, by manufacturing a controversy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/uttarakhand-man-ravi-tamta-built-electric-flying-car-without-an-engineering-degree-3023373-2026-10-23",
+      "headline": "No engineering degree, 13 years of learning: Uttarakhand man builds flying carRavi Tamta, from Uttarakhand's Almora district, spent over a decade learning online and experimenting to develop an electric flying vehicle. With a Bachelor of Arts degree and no formal engineering education, his journey challenges conventional ideas about who gets to innovate and where learning begins."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-returns-nz-vs-ind-2nd-t20i-india-opening-pair-unchanged-number-three-3024047-2026-10-24",
+      "headline": "Vaibhav Sooryavanshi back in India's XI, but in new batting role Vaibhav Sooryavanshi returns to India's playing XI for the 2nd T20I against New Zealand, but the teenage batter will slot in at No.3 instead of opening. India retain their opening pair as Shreyas Iyer opts to field in Christchurch."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/neeraj-chauhan-asian-games-bronze-medal-world-cup-struggles-exclusive-3023770-2026-10-24",
+      "headline": "Learning to let go: How Neeraj Chauhan found his way to the Asian Games podium After years of returning empty-handed from World Cups, Neeraj Chauhan learnt to focus on the shot, not the result. Backed by his family's sacrifices and his teammates' support, the Indian archer turned perseverance into an Asian Games bronze medal."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kieron-pollard-appointed-mumbai-indians-new-head-coach-replaces-mahela-jayawardene-3023992-2026-10-24",
+      "headline": "Kieron Pollard replaces Mahela Jayawardene as Mumbai Indians head coach Mumbai Indians have promoted Kieron Pollard from batting coach to head coach, extending his long association with the five-time IPL champions. The former West Indies all-rounder will lead the franchise after years as a player and coach."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/psg-vs-lyon-postponed-monday-paris-security-concerns-protests-3023988-2026-10-24",
+      "headline": "PSG vs Lyon moved to Monday after police raise security concerns in Paris PSG's Ligue 1 clash against Lyon has been moved from Sunday to Monday after police raised security concerns over planned protests in Paris. The rescheduling comes as authorities prepare for demonstrations and Sunday's NFL game at Stade de France."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-new-zealand-a-batting-collapse-113-all-out-simon-keene-3023969-2026-10-24",
+      "headline": "KL Rahul, Jurel fail as India A bundled out for 113 in 1st unofficial Test India A were bowled out for 113 in their unofficial Test against New Zealand A as Simon Keene claimed five wickets on a green pitch. The collapse raises questions about India's batting as their all-format tour of New Zealand continues."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/amit-mishra-virat-kohli-india-comeback-retirement-3023960-2026-10-24",
+      "headline": "Amit Mishra reveals Virat Kohli went silent after promising India comeback Amit Mishra has claimed Virat Kohli stopped responding to his calls after assuring him of an India comeback following injury. Speaking on Aakash Chopra's podcast, the former spinner revealed how the lack of answers contributed to his frustration and retirement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/gael-monfils-defends-elina-svitolina-after-separation-3023955-2026-10-24",
+      "headline": "Unkind, venomous: Monfils defends Svitolina amid online criticism after separation Gael Monfils has defended Elina Svitolina against online criticism following their separation. In an Instagram post, the French tennis star urged fans to respect their privacy, saying outsiders cannot understand the complexities of a relationship."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-2nd-t20i-vaibhav-sooryavanshi-predicted-playing-xi-3023821-2026-10-23",
@@ -339,42 +369,42 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-2028-uae-neutral-venue-india-matches-3023876-2026-10-23",
-      "headline": "India may play in UAE as Pakistan eyes hosting all 2028 Women's T20 WC matches Pakistan is keen to host all matches of the 2028 Women's T20 World Cup, with the UAE likely to serve as the neutral venue for India's games under the hybrid model. The ICC has scheduled the 12-team tournament from September 7 to October 1, 2028, while Lahore could host the final if India fail to qualify."
+      "headline": "India may play in UAE as Pakistan eyes hosting all 2028 Women's T20 WC matchesPakistan is keen to host all matches of the 2028 Women's T20 World Cup, with the UAE likely to serve as the neutral venue for India's games under the hybrid model. The ICC has scheduled the 12-team tournament from September 7 to October 1, 2028, while Lahore could host the final if India fail to qualify."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pratika-rawal-century-india-win-world-cup-memories-zimbabwe-vadodara-odi-3023850-2026-10-23",
-      "headline": "How Pratika Rawal drew on World Cup memories to rediscover her spark on same day IND vs ZIM, 1st WODI: Pratika Rawal drew inspiration from her 2025 Women's World Cup century to score another hundred on October 23, guiding India to a nine-wicket win over Zimbabwe in their historic first-ever Women's ODI."
+      "headline": "How Pratika Rawal drew on World Cup memories to rediscover her spark on same dayIND vs ZIM, 1st WODI: Pratika Rawal drew inspiration from her 2025 Women's World Cup century to score another hundred on October 23, guiding India to a nine-wicket win over Zimbabwe in their historic first-ever Women's ODI."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-hype-growth-india-vs-new-zealand-sitanshu-kotak-3023846-2026-10-23",
-      "headline": "Too much hype can hurt Vaibhav Sooryavanshi's growth: Sitanshu Kotak India batting coach Sitanshu Kotak has warned that the hype around Vaibhav Sooryavanshi could hurt the 15-year-old's growth, urging fans to be patient as he waits for his first opportunity in the New Zealand T20I series."
+      "headline": "Too much hype can hurt Vaibhav Sooryavanshi's growth: Sitanshu KotakIndia batting coach Sitanshu Kotak has warned that the hype around Vaibhav Sooryavanshi could hurt the 15-year-old's growth, urging fans to be patient as he waits for his first opportunity in the New Zealand T20I series."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-kumar-kushagra-added-india-squad-ishan-kishan-ruled-out-2nd-t20i-3023811-2026-10-23",
-      "headline": "NZ vs IND: Ishan Kishan ruled out of 2nd T20I, Kumar Kushagra named cover India have named Kumar Kushagra as cover for Ishan Kishan, who has been ruled out of the second T20I against New Zealand with a right adductor strain, potentially opening the door for Vaibhav Sooryavanshi to play on Saturday."
+      "headline": "NZ vs IND: Ishan Kishan ruled out of 2nd T20I, Kumar Kushagra named coverIndia have named Kumar Kushagra as cover for Ishan Kishan, who has been ruled out of the second T20I against New Zealand with a right adductor strain, potentially opening the door for Vaibhav Sooryavanshi to play on Saturday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-women-beat-zimbabwe-women-pratika-rawal-century-1st-odi-3023789-2026-10-23",
-      "headline": "Pratika Rawal's century crushes Zimbabwe in historic ODI as India take 1-0 lead IND vs ZIM, 1st Women's ODI: Pratika Rawal smashed her third ODI century as India crushed Zimbabwe by nine wickets in their historic first-ever Women's ODI in Vadodara to take a 1-0 lead in the three-match series."
+      "headline": "Pratika Rawal's century crushes Zimbabwe in historic ODI as India take 1-0 leadIND vs ZIM, 1st Women's ODI: Pratika Rawal smashed her third ODI century as India crushed Zimbabwe by nine wickets in their historic first-ever Women's ODI in Vadodara to take a 1-0 lead in the three-match series."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/michael-carrick-accepts-blame-manchester-united-slump-emotional-conference-3023787-2026-10-23",
-      "headline": "Carrick invokes Ferguson in emotional speech, takes blame for Man United crisis Michael Carrick invoked the work ethic and sacrifices of Manchester United greats such as Alex Ferguson and Wayne Rooney in an emotional 5\u00bd-minute speech on Friday, urging his underperforming players to show \"humility and hard work\" to pull the club out of its crisis."
+      "headline": "Carrick invokes Ferguson in emotional speech, takes blame for Man United crisisMichael Carrick invoked the work ethic and sacrifices of Manchester United greats such as Alex Ferguson and Wayne Rooney in an emotional 5\u00bd-minute speech on Friday, urging his underperforming players to show \"humility and hard work\" to pull the club out of its crisis."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-para-games/story/india-asian-para-games-2026-vs-2023-medal-tally-comparison-3023754-2026-10-23",
-      "headline": "India rewrite Asian Para Games record, but not every sport keeps pace India set a new Asian Para Games medal record in 2026, with para athletics leading the charge. Swimming and table tennis improved their returns, but archery, badminton, shooting and powerlifting recorded fewer medals than in the 2023 edition."
+      "headline": "India rewrite Asian Para Games record, but not every sport keeps paceIndia set a new Asian Para Games medal record in 2026, with para athletics leading the charge. Swimming and table tennis improved their returns, but archery, badminton, shooting and powerlifting recorded fewer medals than in the 2023 edition."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ishan-kishan-injury-irfan-pathan-defends-gautam-gambhir-batting-order-new-zealand-t20i-3023727-2026-10-23",
-      "headline": "Irfan Pathan slams Gautam Gambhir's critics over Ishan Kishan's No.5 slot in 1st T20I Irfan Pathan defended Gautam Gambhir over Ishan Kishan batting at No.5 in India's first T20I against New Zealand. Kishan has been ruled out of the second T20I with an adductor strain, with Vaibhav Sooryavanshi set to replace him as India target a 2-0 series lead."
+      "headline": "Irfan Pathan slams Gautam Gambhir's critics over Ishan Kishan's No.5 slot in 1st T20IIrfan Pathan defended Gautam Gambhir over Ishan Kishan batting at No.5 in India's first T20I against New Zealand. Kishan has been ruled out of the second T20I with an adductor strain, with Vaibhav Sooryavanshi set to replace him as India target a 2-0 series lead."
     },
     {
       "sentiment": "positive",
@@ -435,46 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-zimbabwe-1st-womens-odi-vadodara-live-score-smriti-mandhana-3023383-2026-10-23",
       "headline": "1st Women's ODI Highlights: Pratika 100* powers India to 9-wicket win, 1-0 series leadINDW vs ZIMW, 1st Women's ODI Highlights: India beat Zimbabwe by 9 wickets to take a 1-0 lead in the series. Shree Charani picked up four wickets after Pratik Rawal scored her third ODI century."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/gianni-infantino-fifa-presidency-bid-afc-backing-governance-dispute-3023340-2026-10-23",
-      "headline": "AFC makes U-turn, backs Gianni Infantino for fourth term as FIFA presidentThe Asian Football Confederation has backed Gianni Infantino for a fourth term as FIFA president, reversing its stance after the row over a proposed $4.2 billion commercial venture. The endorsement comes despite lingering questions over FIFA's governance and transparency."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/atanu-das-competitive-fire-deepika-kumari-fatherhood-interview-exclusive-3023155-2026-10-23",
-      "headline": "Atanu Das's competitive fire burns anew with India's rising archery starsAtanu Das has spent two decades in archery, but India's rising stars are giving him fresh motivation to keep competing. In an exclusive interview, the Indian archer opens up about his ambitions, fatherhood, life beyond sport and why he believes he has another decade left to represent India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/harry-brook-double-hundred-eng-sl-tri-series-3023303-2026-10-23",
-      "headline": "Unhappy Harry Brook sees no reason to celebrate maiden ODI double hundredHarry Brook smashed a record-breaking 202 off 116 balls, but England suffered a two-wicket defeat against Sri Lanka. The England captain said his maiden ODI double hundred meant little without a match-winning result."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/bruno-fernandes-home-burglary-manchester-united-vs-como-police-probe-3023291-2026-10-23",
-      "headline": "Manchester United captain's home burgled hours after club's Champion League defeatBruno Fernandes' home in Cheshire was burgled while the Manchester United captain was in Italy for the club's 4-1 defeat to Como. The incident came amid a turbulent evening for Fernandes, who questioned Michael Carrick's tactics after the loss, prompting a pointed response from the United manager."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-para-games/story/mona-agarwal-world-record-second-gold-asian-para-games-2026-3023278-2026-10-23",
-      "headline": "Mona Agarwal doubles gold tally with world-record show at Asian Para GamesMona Agarwal clinched her second gold medal at the Asian Para Games 2026 with a world-record score of 357.5 in women's 50m rifle 3 positions SH1. The Indian para-shooter bettered the previous mark of 356 as Avani Lekhara finished fourth in the event."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-team-india-playing-xi-ishan-kishan-injury-ind-nz-3023237-2026-10-23",
-      "headline": "Ishan Kishan out of 2nd T20I, Sooryavanshi will replace batter: Sitanshu KotakIshan Kishan is unlikely to play the second T20I against New Zealand after suffering a groin niggle, according to batting coach Sitanshu Kotak. His absence could open the door for Vaibhav Sooryavanshi, who is yet to feature in the series."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/asian-para-games-india-medal-tally-sandeep-haney-gold-3023201-2026-10-23",
-      "headline": "Asian Para Games: Sandeep, Haney's world record gold take India past 100 medalsSandeep Singh Maan and Haney smashed world records to win gold medals in athletics at the Asian Para Games 2026. Their performances helped India cross the 100-medal mark in Nagoya, taking the country's gold tally to 26."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/anahat-singh-maiden-psa-gold-semi-final-silicon-valley-open-3023172-2026-10-23",
-      "headline": "Anahat Singh scripts comeback to reach maiden PSA Gold semi-finalAnahat Singh fought back from a 2-1 deficit to beat Egypt's Salma Hany and reach her maiden PSA Gold semi-final at the Silicon Valley Open. The 18-year-old's breakthrough comes a day after she stunned eight-time world champion Nour El Sherbini, putting her one win away from a place in the final."
     }
   ],
   "education": [
@@ -569,7 +559,7 @@
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/19850615-biec-employees-left-jobless-as-bihar-cm-bindeshwari-dubey-scraps-council-770120-2013-12-15",
       "headline": "Confusion reignsBindeshwari Dubey Government, despite its oft-repeated announcements of steps to improve the state's education system, suddenly scrapped the Bihar Intermediate Education Council set up in 1980 by the Jagannath Mishra government through an ordinance."
     },
