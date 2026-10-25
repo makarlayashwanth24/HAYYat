@@ -200,14 +200,14 @@
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/mallikarjun-kharge-modi-ka-baap-bhi-jayega-remark-pm-modi-crossed-limits-bjp-says-congress-calls-out-double-standard-leaders-reactions-x-posts-3024848-2026-10-25",
-      "headline": "Kharge's 'baap' remark crossed limits, BJP says; Congress claims double standardAmit Shah, Nitin Nabin and other BJP leaders accused the Congress chief of crossing limits of political decorum, with the BJP planning an effigy-burning protest on Moday. Congress leaders Bhupesh Baghel and Pawan Khera defended Kharge, citing the BJP's own history of personal attacks."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/farooq-abdullah-pakistan-remark-ghulam-nabi-azad-jammu-kashmir-3024832-2026-10-25",
       "headline": "I respect Farooq sahab but his Kashmir remark is incorrect: Ghulam Nabi AzadGhulam Nabi Azad rejected Farooq Abdullah's claim that Pakistan's Kashmir campaign protects the region. The remarks intensified criticism from the BJP and other political leaders."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/mallikarjun-kharge-modi-ka-baap-bhi-jayega-remark-pm-modi-crossed-limits-bjp-says-congress-calls-out-double-standard-leaders-reactions-x-posts-3024848-2026-10-25",
+      "headline": "Kharge's 'baap' remark crossed limits, BJP says; Congress claims double standardAmit Shah, Nitin Nabin and other BJP leaders accused the Congress chief of crossing limits of political decorum, with the BJP planning an effigy-burning protest on Moday. Congress leaders Bhupesh Baghel and Pawan Khera defended Kharge, citing the BJP's own history of personal attacks."
     },
     {
       "sentiment": "positive",
@@ -225,19 +225,49 @@
       "headline": "Thousands of Israelis fly home to vote in polls: Why Netanyahu's party is concernedThousands of Israelis living abroad are flying home for the October 27 election. Their ballots could influence a closely contested race where voting from abroad is largely barred."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/thousands-voter-id-cards-found-narmada-riverbank-mp-khargone-congress-demands-fir-3024810-2026-10-25",
+      "headline": "Thousands of voter ID cards found along Narmada river, Congress seeks FIRThousands of voter ID cards, most reportedly linked to Indore's Rau Assembly constituency, were found along the Narmada riverbank in Madhya Pradesh's Khargone district. Officials seized the cards and launched an investigation after a video of the discovery went viral."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-software-employee-found-dead-after-video-call-over-marriage-3024924-2026-10-26",
+      "headline": "Hyderabad techie found dead after video call over marriageA 29-year-old software employee was found hanging in her Hyderabad flat after a late-night video call with a colleague. Police have registered a case and are investigating the circumstances surrounding her death."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/maria-corina-machado-returns-venezuela-trump-delcy-rodriguez-elections-3024925-2026-10-26",
+      "headline": "Nobel laureate Maria Corina Machado returns to Venezuela after nearly a yearNobel Peace Prize winner Maria Corina Machado returned to Venezuela on Sunday after nearly a year abroad. Her return comes amid strained ties with US President Donald Trump's administration, which continues to back interim President Delcy Rodriguez over immediate democratic elections."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/anushka-sharma-and-virat-kohli-soak-in-krishna-das-kirtan-in-mumbai-videos-go-viral-3024914-2026-10-26",
+      "headline": "Anushka Sharma and Virat Kohli soak in Krishna Das kirtan in Mumbai, videos go viralVirat Kohli and Anushka Sharma attended American vocalist Krishna Das's live kirtan in Mumbai. Videos from the evening were widely shared on social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/riyadh-airport-partially-reopens-amid-houthi-missile-drone-attacks-3024922-2026-10-26",
+      "headline": "Saudi Arabia reopens Riyadh airport terminals as Houthis threaten fresh strikesSaudi Arabia partially reopened Riyadh's King Khalid airport as Houthi rebels threatened further strikes. The move comes amid renewed fighting that has ended a truce largely holding since 2022."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/science/story/bay-of-bengal-cyclone-odisha-red-alert-andhra-pradesh-landfall-3024906-2026-10-25",
       "headline": "Rain alert for Andhra, Odisha: Bay of Bengal depression to intensify into cycloneA Bay of Bengal deep depression is likely to intensify into a very severe cyclonic storm before crossing the Andhra Pradesh coast. Odisha has activated evacuations, closures and disaster teams as heavy rain threatens vulnerable districts."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-zimbabwe-2nd-odi-harmanpreet-kaur-deepti-sharma-3024837-2026-10-25",
-      "headline": "India Women seal ODI series as Deepti, Harmanpreet, Vaishnavi sink ZimbabweIndia Women defeated Zimbabwe by 121 runs in the second ODI in Vadodara to take an unassailable 2-0 lead in the three-match series. Harmanpreet Kaur and Deepti Sharma struck centuries before Vaishnavi Sharma claimed four wickets to help India seal the series."
+      "url": "https://www.indiatoday.in/india/karnataka/story/kannadiga-jobs-karnataka-chief-minister-dk-shivakumar-warns-bengaluru-firms-hiring-bias-it-3024616-2026-10-25",
+      "headline": "DK Shivakumar warns IT firms of action if Kannadigas sidelined in hiringShivakumar, in a post on X, said the state government would take appropriate action if private institutions were found to be deliberately sidelining Kannadigas in job opportunities."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/mumbai-philanthropist-gifts-blinkit-agent-scooter-on-anant-ambanis-behalf-leaves-him-crying-3024579-2026-10-25",
+      "headline": "Mumbai man gifts Blinkit agent scooter on Anant Ambani's behalf, leaves him cryingMumbai-based philanthropist Hussain Mansuri surprised Blinkit agent Sujeet with a new scooter on behalf of Anant Ambani. The video has received more than 46 million views."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/thousands-voter-id-cards-found-narmada-riverbank-mp-khargone-congress-demands-fir-3024810-2026-10-25",
-      "headline": "Thousands of voter ID cards found along Narmada river, Congress seeks FIRThousands of voter ID cards, most reportedly linked to Indore's Rau Assembly constituency, were found along the Narmada riverbank in Madhya Pradesh's Khargone district. Officials seized the cards and launched an investigation after a video of the discovery went viral."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-zimbabwe-2nd-odi-harmanpreet-kaur-deepti-sharma-3024837-2026-10-25",
+      "headline": "India Women seal ODI series as Deepti, Harmanpreet, Vaishnavi sink ZimbabweIndia Women defeated Zimbabwe by 121 runs in the second ODI in Vadodara to take an unassailable 2-0 lead in the three-match series. Harmanpreet Kaur and Deepti Sharma struck centuries before Vaishnavi Sharma claimed four wickets to help India seal the series."
     },
     {
       "sentiment": "positive",
@@ -251,53 +281,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-durga-idol-immersion-procession-egg-thrown-one-detained-3024732-2026-10-25",
-      "headline": "Egg thrown near Durga idol immersion procession in Hyderabad, one detainedAn egg was allegedly thrown near a Durga idol immersion procession in Hyderabad, prompting protests and a police response. One suspect was detained as investigators examined CCTV footage and appealed against rumours."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/europe-protests-france-arrests-italy-deploys-soldiers-albania-belgium-3024517-2026-10-25",
-      "headline": "Tear gas, troops and burning barricades: Europe faces another weekend of unrestFrom burning barricades in France to boarded-up luxury stores in Italy and shop looting in Spain, demonstrations over living costs, housing, education and government policies have put authorities across Europe on high alert for a second consecutive weekend."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/mumbai-philanthropist-gifts-blinkit-agent-scooter-on-anant-ambanis-behalf-leaves-him-crying-3024579-2026-10-25",
-      "headline": "Mumbai man gifts Blinkit agent scooter on Anant Ambani's behalf, leaves him cryingMumbai-based philanthropist Hussain Mansuri surprised Blinkit agent Sujeet with a new scooter on behalf of Anant Ambani. The video has received more than 46 million views."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/kerala-blasters-mumbai-city-draw-isl-kochi-crowd-jln-stadium-sold-out-3024882-2026-10-25",
-      "headline": "Kerala Blasters, Mumbai City draw a blank, but Kochi crowd steals the showKerala Blasters and Mumbai City FC played out a goalless draw in Kochi, but the 40,014 fans in the stands stole the show. The Blasters' first home game under their new ownership delivered a packed stadium, a deafening atmosphere and a reminder of the passion amongst the fans of Kerala."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indigo-navi-mumbai-12-daily-international-flights-csmia-february-2027-3024730-2026-10-25",
-      "headline": "IndiGo to move 12 international flights to Navi Mumbai, free up Mumbai airportThe phased move will cover all its existing services from CSMIA to Bahrain, Riyadh, Dammam, Jeddah, Madinah, Kuwait, Ras Al Khaimah, Fujairah, Muscat, Dhaka and Jakarta."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/mallikarjun-kharge-targets-pm-modi-black-money-patna-event-3024761-2026-10-25",
-      "headline": "Modi ka baap bhi jayega: Kharge loses cool at heckler in Patna rallyA heckler's remark about PM Modi prompted a sharp response from Congress chief Mallikarjun Kharge at an event in Patna. His remark about PM's late father has since triggered a political row, with Amit Shah and other BJP leaders accusing him of crossing the limits of public decency."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/himanta-biswa-sarma-grooves-to-gangnam-style-in-ai-video-with-assam-ministers-3024691-2026-10-25",
       "headline": "Himanta Biswa Sarma, his two ministers go Gangnam Style, courtesy AIAssam's Chief Minister Himanta Biswa Sarma shared an AI-generated video featuring himself and two cabinet ministers dancing to Gangnam Style. The Instagram clip has crossed 2.5 million views."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/kochi/story/kochi-mercedes-driven-by-judge-minor-son-crashes-into-scooter-man-dead-keralam-car-crash-3024598-2026-10-25",
-      "headline": "Keralam man killed after Mercedes driven by judge's 17-year-old son hits scooterA 55-year-old food stall owner dies after a Mercedes-Benz allegedly driven by a judge's minor son hits his scooter in Kochi. Police have now changed the charges following further investigation."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/anant-singh-expulsion-mokama-mla-attacks-jdu-hints-at-forming-own-party-3024539-2026-10-25",
-      "headline": "Nitish Kumar is finished: Bihar strongman Anant Singh after ouster from JDUExpelled MLA Anant Singh hit out at the JD(U)'s leadership, declaring the party \"finished\" without Nitish Kumar and questioning the political standing of those now at the helm, while saying he had \"no regrets\" over his expulsion and would form his own party rather than join another outfit."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/teshu-jhanjhi-immersion-accident-speeding-car-kills-four-chhatanpura-firozabad-3024923-2026-10-26",
+      "headline": "3 teenage girls among 4 killed as speeding car hits immersion procession in UPFour people, including three teenage girls aged 15 and 17, were killed and several others injured after an allegedly speeding car hit a Teshu-Jhanjhi immersion group in Uttar Pradesh's Firozabad district on Sunday. Police detained the driver."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/newlywed-bank-manager-wife-found-dead-up-hotel-jhansi-family-alleges-murder-already-married-husband-3024877-2026-10-25",
-      "headline": "Newlywed found dead in UP hotel, family alleges murder by 'already married' husbandMuskaan Simolia had been staying with her parents to prepare for a railway junior engineer exam. Police have detained her husband for questioning, while CCTV footage reportedly shows her falling inside the hotel room."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/daler-mehndi-row-singer-mika-singh-team-responds-after-bjp-minister-subodh-uniyal-apology-3024849-2026-10-25",
+      "headline": "Daler Mehndi row: Singer Mika Singh's team responds after BJP minister's apologyUttarakhand minister Subodh Uniyal reportedly apologised to Daler Mehndi by telephone after disrupting his Kunjapuri Mela performance. The call followed Pushkar Singh Dhami's intervention and Mika Singh's demand that artists be treated with respect."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-durga-idol-immersion-procession-egg-thrown-one-detained-3024732-2026-10-25",
+      "headline": "Egg thrown near Durga idol immersion procession in Hyderabad, one detainedAn egg was allegedly thrown near a Durga idol immersion procession in Hyderabad, prompting protests and a police response. One suspect was detained as investigators examined CCTV footage and appealed against rumours."
     },
     {
       "sentiment": "positive",
@@ -305,14 +305,14 @@
       "headline": "Bangladesh Hindus say this was the best Durga Puja in years. Now comes the real testHindus in Bangladesh say they celebrated the best Durga Puja in recent memory without any major communal incident. How was this made possible by the Tarique Rahman government, and can it pass the 365-day test?"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/lucknow/story/lucknow-neet-aspirant-fakes-kidnapping-death-message-online-gaming-debt-ransom-3024814-2026-10-25",
-      "headline": "NEET student fakes kidnapping, sends his death message to family over Rs 50,000 debtA 17-year-old NEET aspirant in Lucknow allegedly faked his kidnapping and sent his family a false death message to repay a Rs 50,000 online gaming debt, demanding Rs 5 lakh in ransom."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/europe-protests-france-arrests-italy-deploys-soldiers-albania-belgium-3024517-2026-10-25",
+      "headline": "Tear gas, troops and burning barricades: Europe faces another weekend of unrestFrom burning barricades in France to boarded-up luxury stores in Italy and shop looting in Spain, demonstrations over living costs, housing, education and government policies have put authorities across Europe on high alert for a second consecutive weekend."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-thanks-bjp-allies-for-promoting-india-bloc-vote-chori-rally-november-1-rally-delhi-sir-congress-3024578-2026-10-25",
-      "headline": "Rahul thanks BJP for 'promoting' Nov 1 rally, urges it to maintain 'same energy'Rahul Gandhi sarcastically thanked the BJP and its allies for publicising the INDIA bloc's November 1 Delhi rally. The exchange sharpened the Opposition's campaign over alleged voter deletions and electoral irregularities."
+      "url": "https://www.indiatoday.in/sports/football/story/kerala-blasters-mumbai-city-draw-isl-kochi-crowd-jln-stadium-sold-out-3024882-2026-10-25",
+      "headline": "Kerala Blasters, Mumbai City draw a blank, but Kochi crowd steals the showKerala Blasters and Mumbai City FC played out a goalless draw in Kochi, but the 40,014 fans in the stands stole the show. The Blasters' first home game under their new ownership delivered a packed stadium, a deafening atmosphere and a reminder of the passion amongst the fans of Kerala."
     },
     {
       "sentiment": "negative",
@@ -549,7 +549,7 @@
       "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
