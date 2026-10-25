@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indigo-navi-mumbai-12-daily-international-flights-csmia-february-2027-3024730-2026-10-25",
+      "headline": "IndiGo to move 12 international flights to Navi Mumbai, free up Mumbai airportThe phased move will cover all its existing services from CSMIA to Bahrain, Riyadh, Dammam, Jeddah, Madinah, Kuwait, Ras Al Khaimah, Fujairah, Muscat, Dhaka and Jakarta."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/jio-ipo-rs-30188-crore-issue-draws-rs-74-lakh-crore-bids-3024333-2026-10-24",
       "headline": "Jio IPO sets records with Rs 30,188 crore issue, draws Rs 7.4 lakh crore in bidsJio Platforms' Rs 30,188-crore IPO drew Rs 7.4 lakh crore in bids and was fully subscribed within 100 minutes. The demand set multiple company-claimed records despite volatile markets and heavy foreign investor selling."
     },
@@ -94,14 +99,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/nasdaq-falls-meta-tesla-earnings-ai-spending-concerns-3023127-2026-10-22",
       "headline": "Nasdaq plunges over 2% as AI spending concerns rattle investors, Meta slides 5%The Nasdaq fell more than 2% as Meta and Tesla failed to ease AI spending concerns. The sell-off highlighted investor anxiety over costly infrastructure and uncertain returns."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/real-estate/story/from-rental-income-to-golden-visas-why-are-indians-buying-property-abroad-3022851-2026-10-22",
-      "headline": "From rental income to golden visas: Why are Indians buying property abroad?Indian buyers are considering property markets across several countries and regions. These include the United Arab Emirates (UAE), Greece, Thailand, Portugal, Australia, the United States, the United Kingdom, Bali in Indonesia, Canada and Malaysia."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/daler-mehndi-row-singer-mika-singh-team-responds-after-bjp-minister-subodh-uniyal-apology-3024849-2026-10-25",
+      "headline": "Daler Mehndi row: Singer Mika Singh's team responds after BJP minister's apology Uttarakhand minister Subodh Uniyal reportedly apologised to Daler Mehndi by telephone after disrupting his Kunjapuri Mela performance. The call followed Pushkar Singh Dhami's intervention and Mika Singh's demand that artists be treated with respect."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/felt-like-was-seeing-death-ar-rahman-on-stage-fright-how-live-shows-once-terrified-him-3024829-2026-10-25",
+      "headline": "Felt like seeing death: AR Rahman on stage fright, how live shows terrified him AR Rahman has recalled feeling so terrified during his early live shows that he felt as though he was \"seeing death\". The composer, who first performed in Malaysia in 1996, also spoke about the challenges of bringing his distinctive studio sound to the stage."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/tiger-shroffs-team-debunks-reports-of-his-statement-to-police-after-juhu-firing-3024797-2026-10-25",
+      "headline": "Tiger Shroff's team debunks reports of his statement to police after Juhu firing Tiger Shroff's team denied reports that he gave Mumbai Police a statement after the Juhu firing. The clarification also warned against fabricated stories and AI-generated videos attributed to the actor."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/javed-akhtar-mislabels-rashmika-mandanna-a-tamil-actor-while-defending-her-hindi-accent-3024765-2026-10-25",
+      "headline": "Internet calls out Javed Akhtar for misidentifying Rashmika Mandanna as a Tamil actor Lyricist Javed Akhtar defended actor Rashmika Mandanna's Hindi accent but called her a Tamil actor. Online corrections shifted the debate towards regional identity and linguistic diversity."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mahesh-babu-son-gautam-ghattamaneni-gives-nani-the-paradise-1-star-calls-editing-atrocious-3024731-2026-10-25",
+      "headline": "Mahesh Babu's son Gautam gives Nani's The Paradise 1 star, calls editing atrocious Mahesh Babu's son Gautam Ghattamaneni rated Nani's The Paradise one star and criticised its editing. His frank Letterboxd review has renewed attention on his film ratings."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/shilpa-rao-interrupted-kutle-khans-set-claims-his-manager-amid-mumbai-gig-row-3024655-2026-10-25",
@@ -171,48 +196,68 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/satish-kaushik-lookalike-on-india-ke-top-1-per-cent-leaves-anil-kapoor-emotional-3024322-2026-10-24",
       "headline": "Satish Kaushik lookalike on India Ke Top 1 per cent leaves Anil Kapoor emotional Actor Anil Kapoor became emotional while remembering Satish Kaushik on India Ke Top 1% \u2013 The Anil Kapoor Show. Kapoor spoke about his bond with the late actor after contestant Gagan discussed their resemblance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/naseeruddin-shah-backs-kolkata-film-institute-students-accuses-bjp-of-vendetta-3024291-2026-10-24",
-      "headline": "Naseeruddin Shah backs Kolkata film institute students, accuses BJP of vendetta Veteran actor Naseeruddin Shah backed Satyajit Ray Film and Television Institute (SRFTI) students staging an indefinite sit-in over campus violence. He accused the Bharatiya Janata Party (BJP) of targeting them for demanding administrative accountability."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/koffee-with-karan-9-varun-janhvi-recall-fallout-with-kjo-arjun-kapoor-makes-surprise-entry-3024163-2026-10-24",
-      "headline": "Varun Dhawan, Janhvi Kapoor recall fallout with KJo on Koffee With Karan 9 Actors Varun Dhawan and Janhvi Kapoor confronted Karan Johar over their fallout on Koffee With Karan Season 9. The exchange sets up an unfiltered episode driven by nostalgia, film references and humour."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-attends-jailer-2-screening-with-fans-first-time-in-40-years-3024167-2026-10-24",
-      "headline": "Rajinikanth watches Jailer 2 with grandson Linga, Anirudh after 40 years Veteran Tamil actor Rajinikanth watched Jailer 2 with fans at a Chennai theatre. The rare outing marked his first time watching a film with an audience in four decades."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-advance-sales-soar-past-rs-10-crore-hindi-version-leads-the-charge-3024162-2026-10-24",
-      "headline": "Ramayana advance sales soar past Rs 10 crore, Hindi version leads the charge Ramayana: Rise of a Legend has crossed the Rs 10 crore mark in advance bookings across India. The Hindi version leads sales, with Maharashtra, Delhi and Karnataka driving demand."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/magazine/movies/story/20261102-filmdoms-new-pet-obsession-animals-in-films-3023526-2026-10-24",
-      "headline": "Filmdom's new pet obsession | Animals in films With plotlines twirling around our four-legged friends, 2026 is the Year of the Pet in Indian cinema, especially their capacity to love and heal, and the need for us to reciprocate with empathy"
     }
   ],
   "general news": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/mallikarjun-kharge-targets-pm-modi-black-money-patna-event-3024761-2026-10-25",
+      "headline": "Modi ka baap bhi jayega: Kharge loses cool at heckler in Patna rallyA heckler's remark about PM Modi prompted a sharp response from Congress chief Mallikarjun Kharge at an event in Patna. His remark about PM's late father has since triggered a political row, with Amit Shah and other BJP leaders accusing him of crossing the limits of public decency."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/govt-operation-trident-hits-transnational-drug-cartel-38-sites-three-northeast-states-raided-rs-100-crore-hawala-trail-exposed-3024712-2026-10-25",
+      "headline": "Rs 100-crore hawala trail exposed as Op Trident hits drug cartel in Northeast statesOperation Trident targeted 38 locations across Assam, Mizoram and Manipur, leading to 18 arrests, the freezing of 1,424 bank accounts and the attachment of properties worth Rs 17.82 crore. The multi-agency crackdown also uncovered a Rs 100 crore hawala trail linked to a transnational drug trafficking network across India, Myanmar and Bangladesh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jamia-protest-fir-three-mps-campus-trespass-student-union-elections-delhi-police-3024843-2026-10-25",
+      "headline": "FIR against 3 MPs over trespassing at Jamia University amid students' protestDelhi Police registered an FIR against three MPs following Jamia Millia Islamia's trespass complaint. The case comes amid student agitation seeking restoration of union elections."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indigo-navi-mumbai-12-daily-international-flights-csmia-february-2027-3024730-2026-10-25",
+      "headline": "IndiGo to move 12 international flights to Navi Mumbai, free up Mumbai airportThe phased move will cover all its existing services from CSMIA to Bahrain, Riyadh, Dammam, Jeddah, Madinah, Kuwait, Ras Al Khaimah, Fujairah, Muscat, Dhaka and Jakarta."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/europe-protests-france-arrests-italy-deploys-soldiers-albania-belgium-3024517-2026-10-25",
+      "headline": "Tear gas, troops and burning barricades: Europe faces another weekend of unrestFrom burning barricades in France to boarded-up luxury stores in Italy and shop looting in Spain, demonstrations over living costs, housing, education and government policies have put authorities across Europe on high alert for a second consecutive weekend."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/thousands-voter-id-cards-found-narmada-riverbank-mp-khargone-congress-demands-fir-3024810-2026-10-25",
+      "headline": "Thousands of voter ID cards found along Narmada river in MP, Congress seeks FIRThousands of voter ID cards, most reportedly linked to Indore's Rau Assembly constituency, were found along the Narmada riverbank in Madhya Pradesh's Khargone district. Officials seized the cards and launched an investigation after a video of the discovery went viral."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/mallikarjun-kharge-modi-ka-baap-bhi-jayega-remark-pm-modi-crossed-limits-bjp-says-congress-calls-out-double-standard-leaders-reactions-x-posts-3024848-2026-10-25",
+      "headline": "Kharge's 'baap' remark crossed limits, BJP says; Congress calls out double standardMallikarjun Kharge's retort at a Patna event drew a sharp BJP backlash. Party leaders said it insulted Prime Minister Narendra Modi's family and demanded an apology."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/farooq-abdullah-pakistan-remark-ghulam-nabi-azad-jammu-kashmir-3024832-2026-10-25",
+      "headline": "I respect Farooq sahab but his Kashmir remark is incorrect: Ghulam Nabi AzadGhulam Nabi Azad rejected Farooq Abdullah's claim that Pakistan's Kashmir campaign protects the region. The remarks intensified criticism from the BJP and other political leaders."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/maida-out-mandua-in-former-uttarakhand-cm-makes-a-case-for-millet-momos-3024630-2026-10-25",
+      "headline": "Maida out, mandua in: Former Uttarakhand CM makes a case for millet momosFormer Chief Minister of Uttarakhand, Harish Rawat, shared a video of homemade mandua momos, insisting that the millet-based snack beats regular momos in both taste and nutrition."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/kochi/story/kochi-mercedes-driven-by-judge-minor-son-crashes-into-scooter-man-dead-keralam-car-crash-3024598-2026-10-25",
       "headline": "Keralam man killed after Mercedes driven by judge's 17-year-old son hits scooterThe car was found to be registered under the judicial officer's name. Citing preliminary findings, the police said that the accused teen was not drunk at the time of the incident."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/kashi-art-cafe-controversy-bjp-satheesan-kochi-beef-row-3024670-2026-10-25",
-      "headline": "BJP questions Keralam CM's 'selective secularism' over Kochi cafe serving beefRajeev Chandrasekhar challenged VD Satheesan's response to the Kashi Art Cafe row. The dispute has broadened into a debate over communal harmony and political alliances."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-durga-idol-immersion-procession-egg-thrown-one-detained-3024732-2026-10-25",
+      "headline": "Egg thrown near Durga idol immersion procession in Hyderabad, one detainedAn egg was allegedly thrown near a Durga idol immersion procession in Hyderabad, prompting protests and a police response. One suspect was detained as investigators examined CCTV footage and appealed against rumours."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/badminton-pv-sindhu-vs-an-se-young-french-open-final-live-updates-paris-3024621-2026-10-25",
-      "headline": "French Open Final Live: An Se Young fights back, pushes PV Sindhu into deciderPV Sindhu vs An Se Young, French Open Final Live: An Se Young shows her class and fights back to win the second game. It's going down to the wire, we have a final game to go and all eyes will be on the Indian shuttler to see if she can finally get her first win against the South Korean."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/mumbai-philanthropist-gifts-blinkit-agent-scooter-on-anant-ambanis-behalf-leaves-him-crying-3024579-2026-10-25",
+      "headline": "Mumbai man gifts Blinkit agent scooter on Anant Ambani's behalf, leaves him cryingMumbai-based philanthropist Hussain Mansuri surprised Blinkit agent Sujeet with a new scooter on behalf of Anant Ambani. The video has received more than 46 million views."
     },
     {
       "sentiment": "negative",
@@ -221,63 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/europe-protests-france-arrests-italy-deploys-soldiers-albania-belgium-3024517-2026-10-25",
-      "headline": "Tear gas, troops and burning barricades: Europe faces another weekend of unrestFrom burning barricades in France to boarded-up luxury stores in Italy and shop looting in Spain, demonstrations over living costs, housing, education and government policies have put authorities across Europe on high alert for a second consecutive weekend."
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-thanks-bjp-allies-for-promoting-india-bloc-vote-chori-rally-november-1-rally-delhi-sir-congress-3024578-2026-10-25",
+      "headline": "Rahul thanks BJP for 'promoting' Nov 1 rally, urges it to maintain 'same energy'Rahul Gandhi sarcastically thanked the BJP and its allies for publicising the INDIA bloc's November 1 Delhi rally. The exchange sharpened the Opposition's campaign over alleged voter deletions and electoral irregularities."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/anant-singh-expulsion-mokama-mla-attacks-jdu-hints-at-forming-own-party-3024539-2026-10-25",
-      "headline": "Nitish Kumar is finished: Bihar strongman Anant Singh after ouster from JDUExpelled MLA Anant Singh hit out at the JD(U)'s leadership, declaring the party \"finished\" without Nitish Kumar and questioning the political standing of those now at the helm, while saying he had \"no regrets\" over his expulsion and would form his own party rather than join another outfit."
+      "url": "https://www.indiatoday.in/india/story/kashi-art-cafe-controversy-bjp-satheesan-kochi-beef-row-3024670-2026-10-25",
+      "headline": "BJP questions Keralam CM's 'selective secularism' over Kochi cafe serving beefRajeev Chandrasekhar challenged VD Satheesan's response to the Kashi Art Cafe row. The dispute has broadened into a debate over communal harmony and political alliances."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/congress-justice-kaul-memoir-judicial-independence-appointments-ptag-3024573-2026-10-25",
-      "headline": "Govt nod first for judicial picks? Congress hits out at BJP over ex-SC judge's claimThe Congress has questioned judicial independence under the Modi government after a report on ex-SC judge Justice Sanjay Kishan Kaul's yet-to-be-released memoir revealed that ex-CJI Chandrachud was \"too deferential to the Government\" when it came to judicial appointments."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/s-jaishankar-rejects-terrorism-as-statecraft-calls-for-global-resolve-3024627-2026-10-25",
-      "headline": "Jaishankar's 'political calculations' remark days after Rubio defends US-Pak tiesJaishankar said terrorism persisted because \"not all states really display zero tolerance\" towards it, with some continuing to prioritise political calculations despite the lessons of history."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/bangladesh-durga-puja-2026-bnp-tarique-rahman-sheikh-hasina-awami-league-hindus-itspc-3023578-2026-10-25",
-      "headline": "Bangladesh Hindus say this was the best Durga Puja in years. Now comes the real testHindus in Bangladesh say they celebrated the best Durga Puja in recent memory without any major communal incident. How was this made possible by the Tarique Rahman government, and can it pass the 365-day test?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/ahmedabad/story/ahmedabad-warehouse-theft-rs-1-crore-iphones-laptops-apple-watches-stolen-3024501-2026-10-25",
-      "headline": "Caught on CCTV: 70 iPhones, 36 Apple Watches stolen in Rs 1-crore heistAround three masked thieves broke into an Ingram Micro warehouse in Ahmedabad and stole electronic goods worth about Rs 1 crore. Police teams are examining CCTV footage while probing possible involvement by someone familiar with the premises."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/the-internet-was-always-vulnerable-ai-is-finally-showing-it-the-mirror-3024566-2026-10-25",
-      "headline": "The internet was always vulnerable, AI is finally showing it the mirrorThe internet is on fire. Legacy software is failing. Things are about to get worse. Humans have an uncanny ability to survive. This too shall pass. But it's going to take a lot of effort."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/mumbai-philanthropist-gifts-blinkit-agent-scooter-on-anant-ambanis-behalf-leaves-him-crying-3024579-2026-10-25",
-      "headline": "Mumbai man gifts Blinkit agent scooter on Anant Ambani's behalf, leaves him cryingMumbai-based philanthropist Hussain Mansuri surprised Blinkit agent Sujeet with a new scooter on behalf of Anant Ambani. The video has received more than 46 million views."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ed-arrests-advocate-rashesh-upadhyay-rs-28000-crore-digital-arrest-cyber-fraud-ptag-3024403-2026-10-24",
-      "headline": "ED arrests advocate over Rs 28,000-crore pan-India cyber fraud networkAn Enforcement Directorate team from Panaji intercepted Rashesh Upadhyay, alias Rashesh Shah, at Mumbai airport on Saturday while he was boarding a flight to Delhi."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/nagpur-fake-currency-seizure-rs-85-lakh-rented-room-3024599-2026-10-25",
-      "headline": "He didn't have money to pay rent. So he printed fake currency worth Rs 37 lakhThe tenant, identified as Pushpak Krishna Bhandarkar alias Bendane, had rented the room in the city's Kharbi area around a year and a half ago. His rental agreement expired in January, but he neither renewed it nor vacated the property. He also stopped paying rent for several months."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/ilhan-omar-immigration-probe-deleted-2013-fathers-day-post-ex-husband-brother-allegations-3024607-2026-10-25",
-      "headline": "Did Ilhan Omar marry her brother? A deleted Father's Day tweet deepens rowA deleted Father's Day post by Ilhan Omar resurfaced during a federal immigration records probe. Its wording drew renewed scrutiny, though the filing proves no fraud and Omar denies wrongdoing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/no-space-for-a-kitchen-garden-you-can-now-rent-land-to-grow-vegetables-3024572-2026-10-25",
-      "headline": "No space for a kitchen garden? You can now rent land to grow vegetablesUrban consumers can now rent plots or subscribe to farms for fresh pesticide-free seasonal vegetables. But how accessible are these and most importantly, is this the future we didn't see coming?"
+      "url": "https://www.indiatoday.in/trending-news/story/himanta-biswa-sarma-grooves-to-gangnam-style-in-ai-video-with-assam-ministers-3024691-2026-10-25",
+      "headline": "Himanta Biswa Sarma, his two ministers go Gangnam Style, courtesy AIAssam's Chief Minister Himanta Biswa Sarma shared an AI-generated video featuring himself and two cabinet ministers dancing to Gangnam Style. The Instagram clip has crossed 2.5 million views."
     },
     {
       "sentiment": "positive",
@@ -286,13 +286,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-government-formation-eps-thirumavalavan-alternative-cm-dhinakaran-vijay-tvk-aiadmk-3024574-2026-10-25",
-      "headline": "Dhinakaran drops bombshell, reveals AIADMK's Plan B if Vijay's TVK failedDhinakaran said the objective of the move was not to prevent the TVK from forming the government, but to ensure that MLAs were not poached as rival parties explored other possibilities."
+      "url": "https://www.indiatoday.in/india/karnataka/story/kannadiga-jobs-karnataka-chief-minister-dk-shivakumar-warns-bengaluru-firms-hiring-bias-it-3024616-2026-10-25",
+      "headline": "DK Shivakumar warns IT firms of action if Kannadigas sidelined in hiringShivakumar, in a post on X, said the state government would take appropriate action if private institutions were found to be deliberately sidelining Kannadigas in job opportunities."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education-today/news/story/small-ai-models-jitesh-prasad-udgam-labs-low-cost-open-results-3024600-2026-10-25",
-      "headline": "One-man AI lab: IIM alumnus builds 5 open AI models in just 13 daysJitesh Prasad's Udgam Labs released compact models for speech, reasoning, mathematics, images and conversation. Its transparent results examine whether useful artificial intelligence requires vast computing power and budgets."
+      "url": "https://www.indiatoday.in/india/story/anant-singh-expulsion-mokama-mla-attacks-jdu-hints-at-forming-own-party-3024539-2026-10-25",
+      "headline": "Nitish Kumar is finished: Bihar strongman Anant Singh after ouster from JDUExpelled MLA Anant Singh hit out at the JD(U)'s leadership, declaring the party \"finished\" without Nitish Kumar and questioning the political standing of those now at the helm, while saying he had \"no regrets\" over his expulsion and would form his own party rather than join another outfit."
     },
     {
       "sentiment": "positive",
@@ -301,70 +301,120 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-iran-tensions-trump-sunday-strike-diplomatic-deal-3024504-2026-10-25",
-      "headline": "Trump says he could strike Iran today, doesn't rule out 'beautiful deal'Speaking to reporters in Florida on Saturday, Trump said there was a possibility of military action as well as a diplomatic agreement, without confirming whether he had made a final decision on further strikes."
+      "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-vs-an-se-young-french-open-final-paris-11th-loss-3024720-2026-10-25",
+      "headline": "PV Sindhu loses to An Se Young for 11th time after spirited French Open fightPV Sindhu pushed world No. 1 An Se Young hard in the French Open 2026 final but fell short in three games. The Indian shuttler showed promise by winning the opening game before the South Korean completed her title hat-trick."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sunday-special/story/bangladesh-durga-puja-2026-bnp-tarique-rahman-sheikh-hasina-awami-league-hindus-itspc-3023578-2026-10-25",
+      "headline": "Bangladesh Hindus say this was the best Durga Puja in years. Now comes the real testHindus in Bangladesh say they celebrated the best Durga Puja in recent memory without any major communal incident. How was this made possible by the Tarique Rahman government, and can it pass the 365-day test?"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/tamil-nadu-cm-vijay-praise-centre-tvk-reduces-vat-aviation-fuel-3024099-2026-10-24",
       "headline": "Tamil Nadu cuts tax on aviation fuel, CM Vijay gets rare praise from CentreThe Tamil Nadu government has significantly reduced VAT on aviation turbine fuel across all airports in the state, offering relief to airlines amid sky-high crude prices."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/congress-delhi-rally-ramlila-november-1-maidan-demands-cec-gyanesh-kumar-removal-electoral-rolls-india-bloc-ptag-3024397-2026-10-24",
-      "headline": "At least 10 lakh people expected at Nov 1 rally demanding CEC's removal: CongressCongress will demand Chief Election Commissioner Gyanesh Kumar's removal at the INDIA bloc rally in Delhi. The campaign links electoral roll concerns with voting rights and institutional accountability."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/deepti-sharma-century-3450-day-odi-hundred-wait-india-zimbabwe-vadodara-3024812-2026-10-25",
+      "headline": "After 3450 days, Deepti Sharma ends agonising wait for another India century Deepti Sharma smashed an unbeaten 106 against Zimbabwe in Vadodara, ending a nine-year-and-five-month wait for her second ODI century. Her 3,450-day gap between ODI hundreds is the second-longest in the format, while she also became the first Indian woman to score an ODI century at No. 6 or lower."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/sania-mirza-mahesh-bhupathi-aita-elections-leander-paes-absent-3024786-2026-10-25",
+      "headline": "Sania Mirza, Mahesh Bhupathi enter Indian Tennis body polls as Leander Paes stays out Mahesh Bhupathi and Sania Mirza have entered the race for representation in the All India Tennis Association ahead of the November polls. Leander Paes, whose presidential ambitions were backed by the Bengal Tennis Association, is conspicuous by his absence from the Sports Person of Outstanding Merit nominations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/usman-khawaja-rheumatoid-arthritis-battle-international-retirement-3024779-2026-10-25",
+      "headline": "Usman Khawaja reveals arthritis battle he hid: Thought I would die Usman Khawaja has revealed that he secretly battled rheumatoid arthritis throughout his international cricket career, after being diagnosed at 22 and fearing he might never play again. The former Australia opener managed the condition with medication, went on to score over 6,000 Test runs and retired from international cricket in January 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/bruno-fernandes-dropped-michael-carrick-interview-manchester-united-vs-bournemouth-3024776-2026-10-25",
+      "headline": "Bruno Fernandes benched by Carrick vs Bournemouth as Man United tensions grow Manchester United captain Bruno Fernandes has been dropped to the bench for the Bournemouth clash after criticising the team's tactics following their 4-1 defeat to Como. Michael Carrick's decision comes as United seek to revive their struggling Premier League campaign."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-french-open-final-loss-an-se-young-room-to-improve-3024773-2026-10-25",
+      "headline": "PV Sindhu sees 'room to improve' after French Open loss to An Se Young PV Sindhu lost to An Se Young in three games in the French Open final but took positives from another strong run on the circuit. The Indian shuttler admitted there was still plenty of room for improvement after letting an 8-5 lead slip in the decider."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/james-anderson-lancashire-contract-not-renewed-2027-25-year-association-3024769-2026-10-25",
+      "headline": "James Anderson's 25-year-long journey with Lancashire ends on a sour note James Anderson has expressed disappointment after Lancashire decided not to renew his contract for 2027, ending his 25-year association with the county. The England great claimed 50 wickets this season but will leave as Lancashire plan a squad rebuild."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-india-new-zealand-odi-series-mumbai-net-session-3024760-2026-10-25",
+      "headline": "Watch: Virat Kohli gears up for New Zealand ODI series with intense net session Virat Kohli spent nearly two hours batting in the nets at Mumbai's Brabourne Stadium as he stepped up preparations for India's upcoming ODI series against New Zealand."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/harmanpreet-kaur-smriti-mandhana-standing-ovation-india-zimbabwe-2nd-womens-odi-video-3024742-2026-10-25",
+      "headline": "Smriti Mandhana gives Harmanpreet Kaur standing ovation after 8th ODI century: Watch Smriti Mandhana gave Harmanpreet Kaur a standing ovation after she scored her eighth ODI century against Zimbabwe in Vadodara on Sunday. Harmanpreet rescued India from an early collapse, and continued her impressive form from the T20I series."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/real-madrid-thibaut-courtois-flu-barcelona-dani-olmo-injury-el-clasico-3024734-2026-10-25",
+      "headline": "Real Madrid dealt major blow for El Clasico as Thibaut Courtois ruled out with flu Real Madrid have suffered a late blow ahead of El Clasico, with Thibaut Courtois ruled out due to flu. Barcelona will also miss Dani Olmo, who faces around four weeks out with an adductor injury, as Jose Mourinho prepares for his return to the rivalry."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-vs-an-se-young-french-open-final-paris-11th-loss-3024720-2026-10-25",
+      "headline": "PV Sindhu loses to An Se Young for 11th time after spirited French Open fight PV Sindhu pushed world No. 1 An Se Young hard in the French Open 2026 final but fell short in three games. The Indian shuttler showed promise by winning the opening game before the South Korean completed her title hat-trick."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/badminton-pv-sindhu-vs-an-se-young-french-open-final-live-updates-paris-3024621-2026-10-25",
-      "headline": "French Open Final Live: An Se Young fights back, pushes PV Sindhu into decider PV Sindhu vs An Se Young, French Open Final Live: An Se Young shows her class and fights back to win the second game. It's going down to the wire, we have a final game to go and all eyes will be on the Indian shuttler to see if she can finally get her first win against the South Korean."
+      "headline": "Highlights: PV Sindhu's wait goes on, An Se Young hits back to win title PV Sindhu vs An Se Young, French Open Final Highlights: PV Sindhu came close to ending her winless run against An Se Young but could not sustain her early momentum. The South Korean fought back after losing the opening game to seal a 16-21, 21-11, 21-12 win, extending her dominance over the Indian."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/formula-one/story/max-verstappen-spinal-damage-f1-racing-usa-grand-prix-3024610-2026-10-25",
-      "headline": "Max Verstappen reveals extent of spinal damage after years of competing in F1 Max Verstappen has revealed worrying spinal damage after years of competing in Formula One, highlighting the physical toll of modern F1 cars. The Red Bull driver also raised concerns over the bumpy Circuit of the Americas and its impact on driver safety."
+      "headline": "Max Verstappen reveals extent of spinal damage after years of competing in F1Max Verstappen has revealed worrying spinal damage after years of competing in Formula One, highlighting the physical toll of modern F1 cars. The Red Bull driver also raised concerns over the bumpy Circuit of the Americas and its impact on driver safety."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-new-zealand-a-day-2-match-report-padikkal-kl-rahul-3024583-2026-10-25",
-      "headline": "1st unofficial Test: Padikkal rescues India after Jaiswal, KL Rahul fail again Devdutt Padikkal and Sai Sudharsan rescued India A after Yashasvi Jaiswal and KL Rahul fell cheaply on Day 2 of the first unofficial Test against New Zealand A. Their unbeaten 96-run partnership helped India A reach 106 for 2, but the visitors still trail by 98 runs."
+      "headline": "1st unofficial Test: Padikkal rescues India after Jaiswal, KL Rahul fail againDevdutt Padikkal and Sai Sudharsan rescued India A after Yashasvi Jaiswal and KL Rahul fell cheaply on Day 2 of the first unofficial Test against New Zealand A. Their unbeaten 96-run partnership helped India A reach 106 for 2, but the visitors still trail by 98 runs."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/julian-alvarez-apologises-atletico-madrid-fans-barcelona-transfer-saga-3024588-2026-10-25",
-      "headline": "I'd be angry too: Alvarez apologises to Atletico fans for Barcelona transfer saga Julian Alvarez apologised to Atletico Madrid fans after his Barcelona transfer saga sparked anger among supporters. The Argentine striker scored the winner in a 1-0 victory over Deportivo La Coruna as he looks to rebuild bridges with the club's fanbase."
+      "headline": "I'd be angry too: Alvarez apologises to Atletico fans for Barcelona transfer sagaJulian Alvarez apologised to Atletico Madrid fans after his Barcelona transfer saga sparked anger among supporters. The Argentine striker scored the winner in a 1-0 victory over Deportivo La Coruna as he looks to rebuild bridges with the club's fanbase."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/chinmay-sutar-interview-ranji-trophy-highest-scorer-3024533-2026-10-25",
-      "headline": "Chinmay Sutar: Father took down Shane Warne, son made history with Ranji 400 Chinmay Sutar became only the second batter to score a quadruple century in Ranji Trophy's 92-year history. His father once took down while playing a tour game against Australia for Mumbai. Here's Chinmay's story."
+      "headline": "Chinmay Sutar: Father took down Shane Warne, son made history with Ranji 400Chinmay Sutar became only the second batter to score a quadruple century in Ranji Trophy's 92-year history. His father once took down while playing a tour game against Australia for Mumbai. Here's Chinmay's story."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-indian-test-xi-kohli-bumrah-rohit-3024514-2026-10-25",
-      "headline": "Rahane snubs Kohli, Bumrah from his all-time Indian Test XI, picks himself Ajinkya Rahane picked his all-time India Test XI. The former captain left out Virat Kohli, Rohit Sharma and Jasprit Bumrah from the line-up raising several eyebrows among fans."
+      "headline": "Rahane snubs Kohli, Bumrah from his all-time Indian Test XI, picks himselfAjinkya Rahane picked his all-time India Test XI. The former captain left out Virat Kohli, Rohit Sharma and Jasprit Bumrah from the line-up raising several eyebrows among fans."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-para-games/story/pm-modi-congratulates-india-asian-para-games-3024510-2026-10-25",
-      "headline": "PM Modi congratulates India's Asian Para Games contingent for record medal haul Prime Minister Narendra Modi congratulated India's para-athletes after the country secured a record 114 medals at the Asian Para Games 2026 in Nagoya. India finished with 30 gold, 35 silver and 49 bronze medals, surpassing its previous best of 108 medals at the 2023 edition in Hangzhou."
+      "headline": "PM Modi congratulates India's Asian Para Games contingent for record medal haulPrime Minister Narendra Modi congratulated India's para-athletes after the country secured a record 114 medals at the Asian Para Games 2026 in Nagoya. India finished with 30 gold, 35 silver and 49 bronze medals, surpassing its previous best of 108 medals at the 2023 edition in Hangzhou."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-ind-nz-t20i-batting-murali-kartik-3024506-2026-10-25",
-      "headline": "Vaibhav Sooryavanshi's failure on T20I return leaves ex-India spinner fuming Vaibhav Sooryavanshi managed just four runs on his return to India's T20I side. This prompted former India spinner Murali Kartik to question the team management's decision to bat him at No. 3."
+      "headline": "Vaibhav Sooryavanshi's failure on T20I return leaves ex-India spinner fumingVaibhav Sooryavanshi managed just four runs on his return to India's T20I side. This prompted former India spinner Murali Kartik to question the team management's decision to bat him at No. 3."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-csk-form-ipl-3024505-2026-10-25",
-      "headline": "Bad times test character: MS Dhoni on CSK's slump in IPL MS Dhoni has commented on Chennai Super Kings' struggles over the last two IPL seasons. He believes that this will test the team's character. The former CSK captain also hinted at a possible return in IPL 2027."
+      "headline": "Bad times test character: MS Dhoni on CSK's slump in IPLMS Dhoni has commented on Chennai Super Kings' struggles over the last two IPL seasons. He believes that this will test the team's character. The former CSK captain also hinted at a possible return in IPL 2027."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/tilak-varma-finisher-india-vs-new-zealand-t20i-batting-position-3024407-2026-10-25",
-      "headline": "Tilak Varma's finishing touch: A Hyderabadi dum biryani cooked to perfection Tilak Varma's match-winning knock against New Zealand showcased his ability to thrive under pressure. From the Asia Cup final to Christchurch, the Indian batter has mastered the art of finishing games, proving that patience can be just as valuable as power."
+      "headline": "Tilak Varma's finishing touch: A Hyderabadi dum biryani cooked to perfectionTilak Varma's match-winning knock against New Zealand showcased his ability to thrive under pressure. From the Asia Cup final to Christchurch, the Indian batter has mastered the art of finishing games, proving that patience can be just as valuable as power."
     },
     {
       "sentiment": "positive",
@@ -415,56 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kieron-pollard-mumbai-indians-coach-message-mi-fans-wankhede-rcb-csk-3024301-2026-10-24",
       "headline": "No more red, yellow: MI coach Kieron Pollard wants fans' passion back in WankhedeKieron Pollard has urged Mumbai Indians fans to bring the blue back to Wankhede after taking over as head coach. Pollard wants to restore MI's winning culture and end the sight of rival RCB and CSK jerseys dominating the stands."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-vs-india-score-2nd-t20i-tilak-varma-critics-christchurch-3024245-2026-10-24",
-      "headline": "2nd T20I: Tilak silences critics as India's obsession with batting depth pays offNZ vs IND, 2nd T20I: Tilak Varma came up with a composed 51 in just 26 balls as India chased down 181 in a last-over thriller on Friday in Christchurch. The visitors took a 2-0 lead in the five-match series."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-2nd-t20i-coach-gambhir-message-tilak-varma-heroics-3024234-2026-10-24",
-      "headline": "How coach Gambhir's inspiring message powered Tilak Varma's Christchurch heroicsIndia vice-captain Tilak Varma was proud of his match-winning effort against New Zealand, revealing that head coach Gautam Gambhir and batting coach Sitanshu Kotak had backed him to take India home, telling him that the whole country believed in him."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-overtake-england-icc-odi-rankings-tri-series-win-zimbabwe-3024223-2026-10-24",
-      "headline": "Afghanistan add to England's ODI woes by leapfrogging them in ICC rankingsAfghanistan climbed to seventh in the latest ICC ODI rankings after beating Zimbabwe to win the tri-series. England slipped to eighth following defeats against Pakistan and Sri Lanka, while Sri Lanka moved up to sixth in the updated standings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ishan-kishan-injury-india-vs-new-zealand-third-t20i-number-3-3024183-2026-10-24",
-      "headline": "NZ vs IND: Ishan Kishan set to miss 3rd T20I to add to India's No.3 woesIshan Kishan will miss India's third T20I against New Zealand due to an adductor strain. His absence leaves India searching for firepower at No. 3 after Tilak Varma and Vaibhav Sooryavanshi struggled to make an impact in the role."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/french-open-pv-sindhu-final-an-se-young-title-match-3024190-2026-10-24",
-      "headline": "Resolute PV Sindhu sets up final vs invincible An Se Young in ParisFrench Open 2026: PV Sindhu came up with a come-from-behind win over Japan's Hina Akechi and stormed into her maiden final in Paris. The two-time Olympic medallist will face World No. 1 An Se Young on Sunday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-scores-four-india-vs-new-zealand-2nd-t20i-christchurch-3024158-2026-10-24",
-      "headline": "2nd T20I: Sooryavanshi fails to fire after roaring welcome from fans in ChristchurchNew Zealand vs India, 2nd T20I: Vaibhav Sooryavanshi looked jittery in the middle before he was dismissed for 4. The 15-year-old was deprived of opportunities in the XI over the last few months."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sa-vs-aus-anrich-nortje-ruled-out-final-test-groin-injury-3024126-2026-10-24",
-      "headline": "SA vs AUS: Anrich Nortje ruled out of the final Test with groin injuryAnrich Nortje has been ruled out of South Africa's third and final Test against Australia with a groin injury, leaving the hosts without the fast bowler for the series decider."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-2nd-t20i-bhuvneshwar-kumar-new-jersey-number-3024101-2026-10-24",
-      "headline": "15 to 87: The logic behind Bhuvneshwar Kumar's new jersey numberBhuvneshwar Kumar reveals the logic behind his jersey number, explaining why he wanted the digits to add up to six. The India pacer also discusses how the IPL and the Impact Player rule have changed T20 cricket and why bowlers are not victims."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/anahat-singh-loses-silicon-valley-open-semi-final-sivasangari-subramaniam-3024091-2026-10-24",
-      "headline": "Anahat Singh's dream run ends against familiar foe in Silicon Valley OpenAnahat Singh lost 1-3 to Sivasangari Subramaniam in the Silicon Valley Open semi-final. Her maiden PSA Gold semi-final highlighted her growing stature against leading senior players."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-new-zealand-a-auqib-nabi-strikes-after-batting-collapse-3024046-2026-10-24",
-      "headline": "1st unofficial Test: Auqib Nabi impresses after batters fail on green top on Day 1NZ A vs IND A, 1st unofficial Test Day 1: India's batting guns failed on a green top in Lincoln on Day 1 of the four-day match. KL Rahul and Sai Sudharsan were among the batters who did not trouble the scorers. Later in day, Auqib Nabi took two wickets."
     }
   ],
   "education": [
