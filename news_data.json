@@ -103,6 +103,36 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/shilpa-rao-interrupted-kutle-khans-set-claims-his-manager-amid-mumbai-gig-row-3024655-2026-10-25",
+      "headline": "Shilpa Rao interrupted Kutle Khan's set, claims his manager amid Mumbai gig row Singer and composer Kutle Khan's manager said singer Shilpa Rao interrupted Khan's shortened set to thank the audience. He blamed festival delays and alleged that social media had distorted the episode."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/koffee-with-karan-9-diljit-dosanjh-hints-at-appearance-says-only-one-interview-3024651-2026-10-25",
+      "headline": "Koffee with Karan 9: Diljit Dosanjh hints at appearance, says only one interview Diljit Dosanjh has hinted at a possible appearance on Koffee with Karan Season 9. The singer said he will do only one interview this year and promised fans a surprise."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/rise-fall-2-family-visits-spark-emotional-moments-and-shake-up-rankings-3024628-2026-10-25",
+      "headline": "Rise & Fall 2: Family visits spark emotional moments and shake up rankings Families entered the Tower as contestants exchanged prize money for emotional reunions. Their rankings, confrontations and advice introduced fresh uncertainty into the competition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/udta-teer-box-office-collection-day-2-ayushmann-khurrana-sara-ali-khan-film-gets-a-weekend-boost-3024581-2026-10-25",
+      "headline": "Udta Teer box office Day 2: Ayushmann's film gets a weekend boost Udta Teer saw a sharp rise in box office collections on Day 2 after a modest opening. The film is headlined by Ayushmann Khurrana and Sara Ali Khan."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-box-office-collection-day-10-rajinikanth-film-nears-rs-700-crore-mark-globally-3024549-2026-10-25",
+      "headline": "Jailer 2 box office Day 10: Rajinikanth's film nears Rs 700 crore mark globally Jailer 2 earned Rs 24.15 crore nett in India on its second Saturday. The sharp weekend surge took Rajinikanth's film closer to Rs 700 crore worldwide."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-mangal-rang-ranbir-kapoor-sai-pallavi-rama-sita-bond-wedding-vows-vanvas-3024536-2026-10-25",
+      "headline": "Mangal Rang traces Rama-Sita's bond from wedding vows to vanvas The makers of Ramayana have unveiled Mangal Rang, featuring Ranbir Kapoor and Sai Pallavi as Rama and Sita. The AR Rahman composition traces their relationship from marriage and palace life to exile."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/music/story/shilpa-rao-mumbai-concert-cut-short-bollywood-music-project-organisers-apologise-3024526-2026-10-25",
       "headline": "We deeply apologise: Organisers break silence after Shilpa Rao's set is cut short Bollywood Music Project organisers apologised after Shilpa Rao's Mumbai set was abruptly cut short. The interruption sparked fan criticism and pushed #JusticeForShilpaRao into online trends."
@@ -166,58 +196,48 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/movies/story/20261102-filmdoms-new-pet-obsession-animals-in-films-3023526-2026-10-24",
       "headline": "Filmdom's new pet obsession | Animals in films With plotlines twirling around our four-legged friends, 2026 is the Year of the Pet in Indian cinema, especially their capacity to love and heal, and the need for us to reciprocate with empathy"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/tiger-shroff-car-firing-salman-khan-only-one-tiger-remark-resurfaces-3024136-2026-10-24",
-      "headline": "When Tiger Shroff called Salman the real Tiger of Bollywood, and himself a billi Tiger Shroff once called Salman Khan Bollywood's only true Tiger and himself a 'billi'. The remark has resurfaced after gunmen opened fire at Shroff's car in Mumbai."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/rise-and-fall-2-gautam-gulati-becomes-ultimate-ruler-renames-tower-gautam-city-3024080-2026-10-24",
-      "headline": "Rise & Fall 2: Gautam Gulati becomes Ultimate Ruler, renames Tower Gautam City Gautam Gulati defeated Manish Goel and Rishabh Jaiswal in a tactical hockey challenge in Rise & Fall 2. He renamed the Tower Gautam City after claiming the title of Ultimate Ruler."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/ramayana-stars-ranbir-kapoor-sai-pallavi-amitabh-bachchan-kbc-diwali-special-3024059-2026-10-24",
-      "headline": "KBC 18: Amitabh Bachchan shares firecracker memory with Ramayana cast Amitabh Bachchan shared a Diwali memory with actors Ranbir Kapoor, Sai Pallavi and Ravie Dubey on Kaun Banega Crorepati 18. The Diwali special episode will air ahead of the release of Ramayana: Rise of a Legend."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-2-may-miss-diwali-2027-release-as-makers-consider-a-delay-3024032-2026-10-24",
-      "headline": "Ramayana 2 may miss Diwali 2027 release as makers consider a delay Ramayana 2 may be delayed from Diwali 2027 to Diwali 2028. The makers are yet to confirm the new release timeline. The film stars Ranbir Kapoor, Yash, Sai Pallavi and Sunny Deol among others in key roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-rohit-shetty-questions-scoutop-and-love-gill-closeness-3024006-2026-10-24",
-      "headline": "Bigg Boss 20: Rohit Shetty questions ScoutOP and Love Gill's closeness Rohit Shetty raised questions about ScoutOP and Love Gill's physical closeness on Bigg Boss 20. The filmmaker-host warned them that their interactions are not creating a good impression on screen."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/udta-teer-box-office-collection-day-1-ayushmann-khurrana-sara-ali-khan-spy-comedy-opens-on-a-slow-note-3023990-2026-10-24",
-      "headline": "Udta Teer box office Day 1: Ayushmann Khurrana's spy comedy opens on a slow note Actor Ayushmann Khurrana's Udta Teer opened on a slow note at the box office. The spy comedy saw low theatre occupancy, with night shows recording a better response."
     }
   ],
   "general news": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/kochi/story/kochi-mercedes-driven-by-judge-minor-son-crashes-into-scooter-man-dead-keralam-car-crash-3024598-2026-10-25",
+      "headline": "Keralam man killed after Mercedes driven by judge's 17-year-old son hits scooterThe car was found to be registered under the judicial officer's name. Citing preliminary findings, the police said that the accused teen was not drunk at the time of the incident."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/kashi-art-cafe-controversy-bjp-satheesan-kochi-beef-row-3024670-2026-10-25",
+      "headline": "BJP questions Keralam CM's 'selective secularism' over Kochi cafe serving beefRajeev Chandrasekhar challenged VD Satheesan's response to the Kashi Art Cafe row. The dispute has broadened into a debate over communal harmony and political alliances."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/badminton-pv-sindhu-vs-an-se-young-french-open-final-live-updates-paris-3024621-2026-10-25",
+      "headline": "French Open Final Live: An Se Young fights back, pushes PV Sindhu into deciderPV Sindhu vs An Se Young, French Open Final Live: An Se Young shows her class and fights back to win the second game. It's going down to the wire, we have a final game to go and all eyes will be on the Indian shuttler to see if she can finally get her first win against the South Korean."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/odisha-andhra-tamil-nadu-cyclone-arnab-alert-rescue-teams-imd-red-warning-3024565-2026-10-25",
+      "headline": "Schools shut, shelters readied: Odisha, Andhra, Tamil Nadu gear up for cycloneOdisha has intensified cyclone preparedness ahead of a potential October 28 landfall on the Andhra Pradesh coast. Schools will remain closed in five districts, while rescue teams and shelters are ready as the IMD forecasts heavy rainfall and strong winds."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/europe-protests-france-arrests-italy-deploys-soldiers-albania-belgium-3024517-2026-10-25",
       "headline": "Tear gas, troops and burning barricades: Europe faces another weekend of unrestFrom burning barricades in France to boarded-up luxury stores in Italy and shop looting in Spain, demonstrations over living costs, housing, education and government policies have put authorities across Europe on high alert for a second consecutive weekend."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-iran-tensions-trump-sunday-strike-diplomatic-deal-3024504-2026-10-25",
-      "headline": "Trump says he could strike Iran today, doesn't rule out 'beautiful deal'Speaking to reporters in Florida on Saturday, Trump said there was a possibility of military action as well as a diplomatic agreement, without confirming whether he had made a final decision on further strikes."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/anant-singh-expulsion-mokama-mla-attacks-jdu-hints-at-forming-own-party-3024539-2026-10-25",
+      "headline": "Nitish Kumar is finished: Bihar strongman Anant Singh after ouster from JDUExpelled MLA Anant Singh hit out at the JD(U)'s leadership, declaring the party \"finished\" without Nitish Kumar and questioning the political standing of those now at the helm, while saying he had \"no regrets\" over his expulsion and would form his own party rather than join another outfit."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/congress-delhi-rally-ramlila-november-1-maidan-demands-cec-gyanesh-kumar-removal-electoral-rolls-india-bloc-ptag-3024397-2026-10-24",
-      "headline": "At least 10 lakh people expected at Nov 1 rally demanding CEC's removal: CongressCongress will demand Chief Election Commissioner Gyanesh Kumar's removal at the INDIA bloc rally in Delhi. The campaign links electoral roll concerns with voting rights and institutional accountability."
+      "url": "https://www.indiatoday.in/india/law-news/story/congress-justice-kaul-memoir-judicial-independence-appointments-ptag-3024573-2026-10-25",
+      "headline": "Govt nod first for judicial picks? Congress hits out at BJP over ex-SC judge's claimThe Congress has questioned judicial independence under the Modi government after a report on ex-SC judge Justice Sanjay Kishan Kaul's yet-to-be-released memoir revealed that ex-CJI Chandrachud was \"too deferential to the Government\" when it came to judicial appointments."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kerala-youtuber-amrit-singh-darren-booked-communal-fort-kochi-cafe-video-ptag-3024406-2026-10-24",
-      "headline": "Cafe Kashi, Jinnah and beef: Case against YouTuber over alleged communal remarksDarren, who is from north India, claimed that Kashi Art Cafe in Fort Kochi displayed a silver statue of Muhammad Ali Jinnah alongside one of Mahatma Gandhi and served beef."
+      "url": "https://www.indiatoday.in/india/story/s-jaishankar-rejects-terrorism-as-statecraft-calls-for-global-resolve-3024627-2026-10-25",
+      "headline": "Jaishankar's 'political calculations' remark days after Rubio defends US-Pak tiesJaishankar said terrorism persisted because \"not all states really display zero tolerance\" towards it, with some continuing to prioritise political calculations despite the lessons of history."
     },
     {
       "sentiment": "positive",
@@ -226,43 +246,18 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/serbia-election-student-list-challenges-aleksandar-vucic-protest-3024509-2026-10-25",
-      "headline": "Serbia's students take on Vucic, look to end 14-year rule in snap electionsA railway disaster that killed 16 people sparked a student-led revolt against corruption in Serbia. Nearly two years later, the movement is taking its fight to the ballot box, fielding 250 candidates with no background in electoral politics and seeking to end Aleksandar Vucic's 12-year grip on power."
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/ahmedabad/story/ahmedabad-warehouse-theft-rs-1-crore-iphones-laptops-apple-watches-stolen-3024501-2026-10-25",
       "headline": "Caught on CCTV: 70 iPhones, 36 Apple Watches stolen in Rs 1-crore heistAround three masked thieves broke into an Ingram Micro warehouse in Ahmedabad and stole electronic goods worth about Rs 1 crore. Police teams are examining CCTV footage while probing possible involvement by someone familiar with the premises."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/at-least-12-injured-including-6-minors-in-shooting-near-football-stadium-in-florida-3024529-2026-10-25",
-      "headline": "6 minors among 12 injured in shooting near Florida stadium, gunman at largeAccording to initial information released by the Tallahassee Police Department, three people were seriously injured and nine others were reported to be stable."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/unep-emissions-gap-report-2026-paris-agreement-climate-change-india-3024200-2026-10-25",
-      "headline": "Earth in danger zone: Is the Paris Climate Agreement dead?As the world edges towards breaching the 1.5\u00b0C threshold, a new UNEP report explains what it will take to return to evade climate risks. India has a role to play too."
+      "url": "https://www.indiatoday.in/technology/features/story/the-internet-was-always-vulnerable-ai-is-finally-showing-it-the-mirror-3024566-2026-10-25",
+      "headline": "The internet was always vulnerable, AI is finally showing it the mirrorThe internet is on fire. Legacy software is failing. Things are about to get worse. Humans have an uncanny ability to survive. This too shall pass. But it's going to take a lot of effort."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/musk-accuses-ukraine-of-using-starlink-for-offensive-drone-strikes-as-service-returns-to-normal-3024480-2026-10-25",
-      "headline": "To kill people: Elon Musk accuses Ukraine of using Starlink for drone strikesUkraine said Starlink and Starshield returned to required speeds after restrictions disrupted military operations. Elon Musk alleged that Ukrainian forces breached service terms through offensive drone strikes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-indian-test-xi-kohli-bumrah-rohit-3024514-2026-10-25",
-      "headline": "Rahane snubs Kohli, Bumrah from his all-time Indian Test XI, picks himselfAjinkya Rahane picked his all-time India Test XI. The former captain left out Virat Kohli, Rohit Sharma and Jasprit Bumrah from the line-up raising several eyebrows among fans."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/music/story/shilpa-rao-mumbai-concert-cut-short-bollywood-music-project-organisers-apologise-3024526-2026-10-25",
-      "headline": "We deeply apologise: Organisers break silence after Shilpa Rao's set is cut shortBollywood Music Project organisers apologised after Shilpa Rao's Mumbai set was abruptly cut short. The interruption sparked fan criticism and pushed #JusticeForShilpaRao into online trends."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/langur-walks-into-shop-hugs-shopkeeper-like-a-long-lost-friend-its-viral-3024521-2026-10-25",
-      "headline": "Langur walks into shop, hugs shopkeeper like a long-lost friend. It's viralA langur entered a mobile phone shop and unexpectedly hugged the shopkeeper. The clip has gone viral with over 227 million views."
+      "url": "https://www.indiatoday.in/trending-news/story/mumbai-philanthropist-gifts-blinkit-agent-scooter-on-anant-ambanis-behalf-leaves-him-crying-3024579-2026-10-25",
+      "headline": "Mumbai man gifts Blinkit agent scooter on Anant Ambani's behalf, leaves him cryingMumbai-based philanthropist Hussain Mansuri surprised Blinkit agent Sujeet with a new scooter on behalf of Anant Ambani. The video has received more than 46 million views."
     },
     {
       "sentiment": "positive",
@@ -270,19 +265,19 @@
       "headline": "ED arrests advocate over Rs 28,000-crore pan-India cyber fraud networkAn Enforcement Directorate team from Panaji intercepted Rashesh Upadhyay, alias Rashesh Shah, at Mumbai airport on Saturday while he was boarding a flight to Delhi."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/houthis-deny-mecca-medina-attacks-say-they-struck-saudi-airports-oil-sites-3024477-2026-10-25",
-      "headline": "Houthis deny targeting Mecca, Medina as Saudi Arabia reports falling missile debrisThe Houthis denied targeting Mecca and Medina after Saudi Arabia intercepted missiles towards the regions. The escalation threatens the fragile truce while extending attacks across Saudi Arabia and Aden."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/nagpur-fake-currency-seizure-rs-85-lakh-rented-room-3024599-2026-10-25",
+      "headline": "He didn't have money to pay rent. So he printed fake currency worth Rs 37 lakhThe tenant, identified as Pushpak Krishna Bhandarkar alias Bendane, had rented the room in the city's Kharbi area around a year and a half ago. His rental agreement expired in January, but he neither renewed it nor vacated the property. He also stopped paying rent for several months."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/ilhan-omar-immigration-probe-deleted-2013-fathers-day-post-ex-husband-brother-allegations-3024607-2026-10-25",
+      "headline": "Did Ilhan Omar marry her brother? A deleted Father's Day tweet deepens rowA deleted Father's Day post by Ilhan Omar resurfaced during a federal immigration records probe. Its wording drew renewed scrutiny, though the filing proves no fraud and Omar denies wrongdoing."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/barclays-job-cuts-5000-roles-ai-automation-cost-drive-2026-educ-3024512-2026-10-25",
-      "headline": "Barclays plans 5,000 job cuts by year-end amid AI push, 1,000 roles already goneBarclays plans to cut 5,000 jobs by the end of 2026 as it expands technology and AI use to reduce costs. The bank has already eliminated 1,000 roles, while quarterly profit rose 12% year-on-year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/tilak-varma-finisher-india-vs-new-zealand-t20i-batting-position-3024407-2026-10-25",
-      "headline": "Tilak Varma's finishing touch: A Hyderabadi dum biryani cooked to perfectionTilak Varma's match-winning knock against New Zealand showcased his ability to thrive under pressure. From the Asia Cup final to Christchurch, the Indian batter has mastered the art of finishing games, proving that patience can be just as valuable as power."
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/no-space-for-a-kitchen-garden-you-can-now-rent-land-to-grow-vegetables-3024572-2026-10-25",
+      "headline": "No space for a kitchen garden? You can now rent land to grow vegetablesUrban consumers can now rent plots or subscribe to farms for fresh pesticide-free seasonal vegetables. But how accessible are these and most importantly, is this the future we didn't see coming?"
     },
     {
       "sentiment": "positive",
@@ -290,24 +285,24 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-hukum-reloaded-singapore-customs-chief-brings-rajinikanth-swag-to-office-3024503-2026-10-25",
-      "headline": "Hukum Reloaded: Singapore Customs chief brings Thalaivar swag to officeSingapore's Customs chief staged a cinematic office entrance to Hukum Reloaded. The playful reel highlights Jailer 2's growing reach beyond theatres."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-government-formation-eps-thirumavalavan-alternative-cm-dhinakaran-vijay-tvk-aiadmk-3024574-2026-10-25",
+      "headline": "Dhinakaran drops bombshell, reveals AIADMK's Plan B if Vijay's TVK failedDhinakaran said the objective of the move was not to prevent the TVK from forming the government, but to ensure that MLAs were not poached as rival parties explored other possibilities."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education-today/news/story/small-ai-models-jitesh-prasad-udgam-labs-low-cost-open-results-3024600-2026-10-25",
+      "headline": "One-man AI lab: IIM alumnus builds 5 open AI models in just 13 daysJitesh Prasad's Udgam Labs released compact models for speech, reasoning, mathematics, images and conversation. Its transparent results examine whether useful artificial intelligence requires vast computing power and budgets."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-plots-against-us-personnel-reach-advanced-stages-intelligence-memo-warns-3024498-2026-10-25",
-      "headline": "Iranian plots to kill US officials in Middle East at advanced stages, memo warnsAn alert from Director of National Intelligence Jay Clayton came after Washington scaled back staffing at its mission in Saudi Arabia earlier this week in response to intensified attacks by Iran-allied Houthi forces."
+      "url": "https://www.indiatoday.in/sports/cricket/story/chinmay-sutar-interview-ranji-trophy-highest-scorer-3024533-2026-10-25",
+      "headline": "Chinmay Sutar: Father took down Shane Warne, son made history with Ranji 400Chinmay Sutar became only the second batter to score a quadruple century in Ranji Trophy's 92-year history. His father once took down while playing a tour game against Australia for Mumbai. Here's Chinmay's story."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/in-focus/story/earthshot-prize-2026-bijal-brahmbhatt-mahila-housing-trust-women-fight-extreme-heat-educ-3024367-2026-10-25",
-      "headline": "Women were losing 23% of their income to extreme heat. This engineer fought backBijal Brahmbhatt had no fixed career plan after graduating as a civil engineer in 1992. Today, she leads Mahila Housing Trust, an Earthshot Prize 2026 finalist helping low-income women tackle extreme heat through cool roofs, climate insurance and community-led action. Her journey transformed how she understands engineering and urban development."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/farooq-abdullah-nc-chief-urges-muslim-unity-baramulla-demolitions-bjp-ruled-states-3024229-2026-10-24",
-      "headline": "Pak protecting Kashmiris, claims Farooq Abdullah; BJP calls it treasonNC chief Farooq Abdullah has claimed that Pakistan was protecting the people of Jammu and Kashmir while the Centre remained silent over their grievances. The remarks drew sharp criticism from the BJP and the Vishwa Hindu Parishad (VHP)."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-iran-tensions-trump-sunday-strike-diplomatic-deal-3024504-2026-10-25",
+      "headline": "Trump says he could strike Iran today, doesn't rule out 'beautiful deal'Speaking to reporters in Florida on Saturday, Trump said there was a possibility of military action as well as a diplomatic agreement, without confirming whether he had made a final decision on further strikes."
     },
     {
       "sentiment": "positive",
@@ -316,11 +311,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-rajiv-gandhi-cambridge-love-story-3024038-2026-10-24",
-      "headline": "A Greek eatery, chance meeting: Sonia Gandhi narrates her love story with RajivSonia Gandhi recalls meeting former Prime Minister Rajiv Gandhi at a Greek restaurant in Cambridge in the mid-1960s. Her memories of their first encounter and early romance feature in her upcoming memoir, Belonging: A Journey of Love, releasing November 10, 2026."
+      "url": "https://www.indiatoday.in/india/story/congress-delhi-rally-ramlila-november-1-maidan-demands-cec-gyanesh-kumar-removal-electoral-rolls-india-bloc-ptag-3024397-2026-10-24",
+      "headline": "At least 10 lakh people expected at Nov 1 rally demanding CEC's removal: CongressCongress will demand Chief Election Commissioner Gyanesh Kumar's removal at the INDIA bloc rally in Delhi. The campaign links electoral roll concerns with voting rights and institutional accountability."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/badminton-pv-sindhu-vs-an-se-young-french-open-final-live-updates-paris-3024621-2026-10-25",
+      "headline": "French Open Final Live: An Se Young fights back, pushes PV Sindhu into decider PV Sindhu vs An Se Young, French Open Final Live: An Se Young shows her class and fights back to win the second game. It's going down to the wire, we have a final game to go and all eyes will be on the Indian shuttler to see if she can finally get her first win against the South Korean."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/max-verstappen-spinal-damage-f1-racing-usa-grand-prix-3024610-2026-10-25",
+      "headline": "Max Verstappen reveals extent of spinal damage after years of competing in F1 Max Verstappen has revealed worrying spinal damage after years of competing in Formula One, highlighting the physical toll of modern F1 cars. The Red Bull driver also raised concerns over the bumpy Circuit of the Americas and its impact on driver safety."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-new-zealand-a-day-2-match-report-padikkal-kl-rahul-3024583-2026-10-25",
+      "headline": "1st unofficial Test: Padikkal rescues India after Jaiswal, KL Rahul fail again Devdutt Padikkal and Sai Sudharsan rescued India A after Yashasvi Jaiswal and KL Rahul fell cheaply on Day 2 of the first unofficial Test against New Zealand A. Their unbeaten 96-run partnership helped India A reach 106 for 2, but the visitors still trail by 98 runs."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/football/story/julian-alvarez-apologises-atletico-madrid-fans-barcelona-transfer-saga-3024588-2026-10-25",
+      "headline": "I'd be angry too: Alvarez apologises to Atletico fans for Barcelona transfer saga Julian Alvarez apologised to Atletico Madrid fans after his Barcelona transfer saga sparked anger among supporters. The Argentine striker scored the winner in a 1-0 victory over Deportivo La Coruna as he looks to rebuild bridges with the club's fanbase."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/chinmay-sutar-interview-ranji-trophy-highest-scorer-3024533-2026-10-25",
+      "headline": "Chinmay Sutar: Father took down Shane Warne, son made history with Ranji 400 Chinmay Sutar became only the second batter to score a quadruple century in Ranji Trophy's 92-year history. His father once took down while playing a tour game against Australia for Mumbai. Here's Chinmay's story."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-indian-test-xi-kohli-bumrah-rohit-3024514-2026-10-25",
@@ -349,32 +369,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-vs-an-se-young-french-open-2026-final-preview-live-streaming-3024448-2026-10-25",
-      "headline": "Vintage Sindhu eyes French Open glory, but inevitable Young stands in her way PV Sindhu is one win away from French Open glory, but world No. 1 An Se Young stands in her way. Can the Indian ace overcome a 0-10 head-to-head record and end the Korean star's dominance to claim another major title?"
+      "headline": "Vintage Sindhu eyes French Open glory, but inevitable Young stands in her wayPV Sindhu is one win away from French Open glory, but world No. 1 An Se Young stands in her way. Can the Indian ace overcome a 0-10 head-to-head record and end the Korean star's dominance to claim another major title?"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-test-squad-sri-lanka-series-salman-ali-agha-babar-azam-3024455-2026-10-24",
-      "headline": "Agha, Usman get Pakistan recall for SL Tests, Rizwan and Imam still out Pakistan have recalled Salman Ali Agha and Ali Usman for their two-Test series against Sri Lanka in November. Babar Azam will lead a 14-member squad featuring three uncapped players as Pakistan look to improve their standing in the World Test Championship."
+      "headline": "Agha, Usman get Pakistan recall for SL Tests, Rizwan and Imam still outPakistan have recalled Salman Ali Agha and Ali Usman for their two-Test series against Sri Lanka in November. Babar Azam will lead a 14-member squad featuring three uncapped players as Pakistan look to improve their standing in the World Test Championship."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-ipl-2027-future-decision-csk-retirement-3024468-2026-10-24",
-      "headline": "MS Dhoni drops big hint on IPL future, decision expected before December MS Dhoni has said he will decide on his IPL future before December, leaving CSK fans anxious his availability for IPL 2027. The former CSK captain joked that medical tests would determine if he could play another season."
+      "headline": "MS Dhoni drops big hint on IPL future, decision expected before DecemberMS Dhoni has said he will decide on his IPL future before December, leaving CSK fans anxious his availability for IPL 2027. The former CSK captain joked that medical tests would determine if he could play another season."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-mitchell-santner-praises-tilak-varma-naman-dhir-3024411-2026-10-24",
-      "headline": "Tilak Varma's evolution from No. 3 to finisher impresses Mitchell Santner New Zealand captain Mitchell Santner praised Tilak Varma's growth from a No. 3 batter at Mumbai Indians to an India finisher and lauded Naman Dhir after India's four-wicket win in the second T20I in Christchurch on Saturday."
+      "headline": "Tilak Varma's evolution from No. 3 to finisher impresses Mitchell SantnerNew Zealand captain Mitchell Santner praised Tilak Varma's growth from a No. 3 batter at Mumbai Indians to an India finisher and lauded Naman Dhir after India's four-wicket win in the second T20I in Christchurch on Saturday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/vincent-kompany-health-update-bayern-munich-collapse-medical-tests-3024345-2026-10-24",
-      "headline": "Bayern Munich says boss Vincent Kompany stable after collapsing in training Bayern Munich manager Vincent Kompany could be sidelined for weeks after collapsing during a training session. Further medical tests are underway to determine the cause, with the club refusing to set a return date until he has fully recovered."
+      "headline": "Bayern Munich says boss Vincent Kompany stable after collapsing in trainingBayern Munich manager Vincent Kompany could be sidelined for weeks after collapsing during a training session. Further medical tests are underway to determine the cause, with the club refusing to set a return date until he has fully recovered."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/aston-villa-beat-manchester-city-end-perfect-league-run-maresca-reaction-3024381-2026-10-24",
-      "headline": "Maresca rues costly errors as Aston Villa end Manchester City's perfect league run Manchester City suffered their first Premier League defeat of the season as Nicolas Jackson scored twice to earn Aston Villa a 2-1 win at Villa Park on Saturday, with Enzo Maresca left frustrated by two costly errors."
+      "headline": "Maresca rues costly errors as Aston Villa end Manchester City's perfect league runManchester City suffered their first Premier League defeat of the season as Nicolas Jackson scored twice to earn Aston Villa a 2-1 win at Villa Park on Saturday, with Enzo Maresca left frustrated by two costly errors."
     },
     {
       "sentiment": "positive",
@@ -445,31 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-new-zealand-a-auqib-nabi-strikes-after-batting-collapse-3024046-2026-10-24",
       "headline": "1st unofficial Test: Auqib Nabi impresses after batters fail on green top on Day 1NZ A vs IND A, 1st unofficial Test Day 1: India's batting guns failed on a green top in Lincoln on Day 1 of the four-day match. KL Rahul and Sai Sudharsan were among the batters who did not trouble the scorers. Later in day, Auqib Nabi took two wickets."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-returns-nz-vs-ind-2nd-t20i-india-opening-pair-unchanged-number-three-3024047-2026-10-24",
-      "headline": "Vaibhav Sooryavanshi back in India's XI, but in new batting roleVaibhav Sooryavanshi returns to India's playing XI for the 2nd T20I against New Zealand, but the teenage batter will slot in at No.3 instead of opening. India retain their opening pair as Shreyas Iyer opts to field in Christchurch."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/neeraj-chauhan-asian-games-bronze-medal-world-cup-struggles-exclusive-3023770-2026-10-24",
-      "headline": "Learning to let go: How Neeraj Chauhan found his way to the Asian Games podiumAfter years of returning empty-handed from World Cups, Neeraj Chauhan learnt to focus on the shot, not the result. Backed by his family's sacrifices and his teammates' support, the Indian archer turned perseverance into an Asian Games bronze medal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kieron-pollard-appointed-mumbai-indians-new-head-coach-replaces-mahela-jayawardene-3023992-2026-10-24",
-      "headline": "Kieron Pollard replaces Mahela Jayawardene as Mumbai Indians head coachMumbai Indians have promoted Kieron Pollard from batting coach to head coach, extending his long association with the five-time IPL champions. The former West Indies all-rounder will lead the franchise after years as a player and coach."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/psg-vs-lyon-postponed-monday-paris-security-concerns-protests-3023988-2026-10-24",
-      "headline": "PSG vs Lyon moved to Monday after police raise security concerns in ParisPSG's Ligue 1 clash against Lyon has been moved from Sunday to Monday after police raised security concerns over planned protests in Paris. The rescheduling comes as authorities prepare for demonstrations and Sunday's NFL game at Stade de France."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-new-zealand-a-batting-collapse-113-all-out-simon-keene-3023969-2026-10-24",
-      "headline": "KL Rahul, Jurel fail as India A bundled out for 113 in 1st unofficial TestIndia A were bowled out for 113 in their unofficial Test against New Zealand A as Simon Keene claimed five wickets on a green pitch. The collapse raises questions about India's batting as their all-format tour of New Zealand continues."
     }
   ],
   "education": [
@@ -549,7 +544,7 @@
       "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
