@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/uorfi-javed-accuses-housing-society-of-stopping-her-from-shooting-content-at-home-3026454-2026-10-27",
+      "headline": "Uorfi Javed accuses housing society of stopping her from shooting content at home Uorfi Javed has questioned her housing society's decision to restrict content shoots inside her flat. The reality television star alleged that the committee is targeting her after a dispute over visitors."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/karan-wahi-recalls-meeting-ex-uditi-singh-with-her-boyfriend-i-wish-them-well-3026415-2026-10-27",
+      "headline": "I wish them well: Karan Wahi recalls meeting ex Uditi Singh with her boyfriend Karan Wahi recalled meeting ex-girlfriend Uditi Singh with her new boyfriend after their 2022 break-up. He says they have barely been in touch since their separation and wishes them well."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/rise-fall-2-swara-bhasker-reunites-husband-fahad-ahmad-tears-up-daughter-raabiyaa-3026320-2026-10-27",
       "headline": "Swara Bhasker reunites with husband Fahad, tears up as he talks about daughter Swara Bhasker reunited with husband, political activist Fahad Ahmad, during family week on Rise & Fall 2. His update about their daughter Raabiyaa left the actor in tears."
     },
@@ -186,23 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/isha-malviya-on-finding-love-again-eventually-i-would-want-somebody-with-me-tum-mere-ho-3025957-2026-10-27",
       "headline": "Eventually, I would want somebody with me: Isha Malviya on finding love again Actor Isha Malviya opened up about her personal life and relationships in an exclusive conversation. While keeping her immediate priority on her career, the actor shared her perspective on moving forward and finding love again."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-song-mangal-rang-qawwali-claims-and-rahman-too-much-scrutiny-or-too-much-to-dismiss-3025930-2026-10-27",
-      "headline": "Ramayana song, qawwali claims and Rahman: Too much scrutiny or too much to dismiss? Is AR Rahman repeating himself, does qawwali belong in Ramayana, or are expectations simply too high? Mangal Rang has opened a debate bigger than the song itself."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/rise-and-fall-2-kaira-anu-calls-exit-unfair-says-trusting-people-was-biggest-mistake-3025919-2026-10-27",
-      "headline": "Rise & Fall 2: Kaira Anu calls her exit unfair, says trusting people was a mistake Rise and Fall Season 2 contestant Kaira Anu discussed her elimination from the reality series in an exclusive interview with India Today. She called the decision unfair and said trusting fellow contestants was her biggest mistake."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/cyclone-arnab-live-updates-bay-of-bengal-imd-alert-odisha-andhra-pradesh-rain-tracker-weather-forecast-3025706-2026-10-27",
-      "headline": "Live: Cyclone Arnab landfall likely between 2 am and 4 am on Wednesday in AndhraCyclone Arnab Live Updates: Cyclone Arnab is expected to make landfall along the Andhra Pradesh coast between Bapatla and Visakhapatnam, near Yanam, between 2 am and 4 am on Wednesday, with winds reaching 135 kmph and gusts up to 150 kmph. Andhra Pradesh has shifted 84,396 people to 290 shelters, while authorities have placed disaster response forces, the Navy and Coast Guard on alert. Odisha and Andhra Pradesh have prepared nearly 4,000 shelters, with thousands more people facing evacuation. Heavy to extremely heavy rainfall has been recorded at 161 locations in Andhra Pradesh. At least 21 flights were cancelled at Vijayawada and Visakhapatnam airports, while railways cancelled at least 50 trains. West Bengal and Jharkhand are also under weather alerts. Follow indiatoday.in for live updates."
+      "headline": "Live: Cyclone Arnab begins moving towards Andhra coast, residents told to stay indoorsCyclone Arnab Live Updates: Cyclone Arnab is expected to make landfall along the Andhra Pradesh coast between Bapatla and Visakhapatnam, near Yanam, between 2 am and 4 am on Wednesday, with winds reaching 135 kmph and gusts up to 150 kmph. Andhra Pradesh has shifted 84,396 people to 290 shelters, while authorities have placed disaster response forces, the Navy and Coast Guard on alert. Odisha and Andhra Pradesh have prepared nearly 4,000 shelters, with thousands more people facing evacuation. Heavy to extremely heavy rainfall has been recorded at 161 locations in Andhra Pradesh. At least 21 flights were cancelled at Vijayawada and Visakhapatnam airports, while railways cancelled at least 50 trains. West Bengal and Jharkhand are also under weather alerts. Follow indiatoday.in for live updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/israel-exit-polls-show-deadlock-for-netanyahu-setting-stage-for-coalition-battle-3026548-2026-10-28",
+      "headline": "Israel exit polls show deadlock for Netanyahu, setting stage for coalition battleIsrael exit polls show deadlock for Netanyahu, setting stage for coalition battle"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cyclone-arnab-andhra-pradesh-odisha-heavy-rain-landfall-alerts-imd-tamil-nadu-bengal-chhattisgarh-telangana-evacuations-3026214-2026-10-27",
+      "headline": "Cyclone Arnab landfall in Andhra expected after 2 am, flights and trains cancelled  Live updatesCyclone Arnab intensified into a very severe cyclonic storm over the Bay of Bengal, with sustained winds of 125-135 kmph and gusts reaching 150 kmph. The storm is expected to make landfall earlier than expected, between 2 am and 4 am on Wednesday."
     },
     {
       "sentiment": "positive",
@@ -216,8 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cyclone-arnab-andhra-pradesh-odisha-heavy-rain-landfall-alerts-imd-tamil-nadu-bengal-chhattisgarh-telangana-evacuations-3026214-2026-10-27",
-      "headline": "Heavy rain in Andhra, Odisha as Cyclone Arnab nears coast; flights, trains cancelled  Live updatesCyclone Arnab intensified into a very severe cyclonic storm over the Bay of Bengal, with sustained winds of 125-135 kmph and gusts reaching 150 kmph, ahead of its landfall along the Andhra Pradesh coast early on Wednesday."
+      "url": "https://www.indiatoday.in/india/law-news/story/sanjay-kishan-kaul-memoir-government-role-judicial-appointments-3026512-2026-10-27",
+      "headline": "Governments have always preferred judges who agree with them: Justice SK KaulFormer Supreme Court judge Sanjay Kishan Kaul has accused governments of favouring judges who share their principles, saying the judiciary must stand firm to protect its independence. Criticising former CJI DY Chandrachud's approach to judicial appointments, Kaul said the Collegium must deliberate independently and avoid seeking the government's approval beforehand."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/flavio-bolsonaro-leaves-brazil-for-us-after-presidential-election-loss-to-lula-3026517-2026-10-27",
+      "headline": "After poll loss, Flavio Bolsonaro flees Brazil for US despite court orderFlavio Bolsonaro has left Brazil for the United States after losing the presidential election, sources said. His departure followed a missed passport surrender deadline linked to a money laundering probe."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-midterm-elections-trump-respect-results-honest-polls-3026534-2026-10-28",
+      "headline": "If they're honest elections: Trump on accepting US midterm resultsDonald Trump said he would respect the US midterm results if the elections were honest. His qualification comes as Republicans battle to retain control of Congress."
     },
     {
       "sentiment": "positive",
@@ -226,8 +246,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/madhya-pradesh-cheetah-kng22-dies-five-firearm-pellets-stf-probe-3026310-2026-10-27",
-      "headline": "In first such killing in India, Kuno cheetah cub shot dead, pellets recoveredA 19-month-old male cheetah, KNG22, died in Madhya Pradesh after five firearm pellets were recovered from its body during emergency surgery. Rescued in an injured condition from the Morena Territorial Forest Division on October 25, the cheetah succumbed despite treatment. The state government has formed a Special Task Force to investigate the incident."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/nirmal-kumar-tvk-minister-tamil-nadu-school-corruption-certificates-claim-anbil-mahesh-dmk-arrested-bribery-case-3026122-2026-10-27",
+      "headline": "Ex-Tamil Nadu Education Minister took Rs 400 crore from schools: TVK leaderTamil Nadu Minister Nirmal Kumar has alleged that arrested DMK leader Anbil Mahesh collected over Rs 400 crore from schools in the name of party funds by demanding money for issuing certificates. Mahesh was arrested in a Rs 100-crore bribery case linked to private school approvals and clearances."
     },
     {
       "sentiment": "positive",
@@ -236,43 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/yemens-houthis-hit-saudi-oil-refinery-with-missile-riyadh-confirms-target-was-direct-3026347-2026-10-27",
-      "headline": "Houthi missiles hit Saudi's largest oil refinery, Riyadh confirms material damageAir raid sirens sounded in Riyadh as the Houthis attacked a Saudi military aircraft at Najran Airport and an airbase in Khamis Mushait, alongside a ballistic missile strike on the Ras Tanura oil refinery."
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/karnataka-mlc-polls-jds-defeats-congress-bengaluru-teachers-constituency-3026476-2026-10-27",
+      "headline": "Karnataka MLC polls: Congress loses key Bengaluru seat despite ballot paper votingJanata Dal (Secular) candidate AP Ranganath defeated Congress MLC Puttanna in the Bengaluru Teachers' Constituency. The ballot-paper result triggered alliance claims of strength and a jibe at Rahul Gandhi."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/apple-launches-imac-and-macbook-pro-with-m6-chip-price-in-india-starts-at-rs-174900-3026266-2026-10-27",
-      "headline": "Apple launches iMac and MacBook Pro with M6 chipApple has announced the M6-powered iMac and MacBook Pro in India. Prices for the newly introduced computers begin at Rs 1,74,900. Here are all the details about the new Apple products."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/guwahati/story/guwahati-hotel-shooting-cctv-caretaker-shot-dead-five-man-shot-point-blank-3026388-2026-10-27",
-      "headline": "Guwahati hotel shooting: CCTV shows man being shot at point-blank. He survivesCCTV footage has emerged showing a man being shot at point-blank range apparently at a shop during the deadly shooting at a hotel in Guwahati. Five people have been killed and the police have formed a six-member SIT to probe the incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/innodata-layoffs-nearly-550-india-employees-fired-philippines-job-cuts-microsoft-3025864-2026-10-27",
-      "headline": "Laptops logged out, IDs deactivated: Innodata lays off 500 in IndiaInnodata laid off nearly 550 employees in India, while cuts were also reported in the Philippines. Abrupt system lockouts and personal-email notices left workers seeking records and answers."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-rape-case-man-locked-myanmar-origin-wife-inside-house-sent-3-friends-to-sexually-assault-her-3025811-2026-10-27",
-      "headline": "Hyderabad man locks Myanmarese wife inside house, sends 3 friends to rape herThe woman, who had been living in Bangladesh's Cox's Bazar, claimed that her husband brought her to Hyderabad in May this year without informing her family. The two got married shortly after and rented a house."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anirudh-ravichander-kavya-maran-wedding-reception-invite-guest-list-3025893-2026-10-27",
-      "headline": "Anirudh-Kavya Maran's Chennai reception invite goes viral; PM Modi, Vijay invitedComposer Anirudh Ravichander and Kavya Maran's wedding reception invitation has caught attention online for its elaborate Baroque-inspired design, featuring an ivory-and-blue colour scheme."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prashant-kishor-media-manager-missing-train-found-dead-conspiracy-3026176-2026-10-27",
-      "headline": "Prashant Kishor's digital media manager goes missing from train, found deadDevpalik Gupta, the digital communications manager of Jan Suraaj, was travelling on the Ranchi-Patna Janshatabdi Express when he went missing on Monday. His body was found a day later."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jharkhand-hospital-viral-video-search-newborn-carried-by-stray-dog-medinirai-medical-college-and-hospital-in-palamu-ptag-3026382-2026-10-27",
-      "headline": "Hospital searches for newborn after video shows dog fleeing with baby in its mouthA viral video purportedly showed a stray dog carrying a newborn baby on the premises of a hospital in Jharkhand. Authorities launched a search and started an investigation into possible negligence."
+      "url": "https://www.indiatoday.in/jobs/deep-dive/story/microsoft-buyouts-include-xbox-employees-after-gaming-divisions-latest-job-cuts-educ-3026348-2026-10-27",
+      "headline": "Microsoft spent $69 billion on gaming. Why is Xbox cutting jobs now?Microsoft spent $68.7 billion to acquire Activision Blizzard and expand its gaming empire with the likes of Call of Duty, Warcraft, and more. Yet Xbox is facing job cuts and restructuring, while eligible employees are included in a new voluntary buyout programme. The story explains why a promising business bet can lose momentum, how buyouts work and what Microsoft's gaming reset means."
     },
     {
       "sentiment": "positive",
@@ -281,46 +271,86 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-rape-case-man-locked-myanmar-origin-wife-inside-house-sent-3-friends-to-sexually-assault-her-3025811-2026-10-27",
+      "headline": "Hyderabad man locks Myanmarese wife inside house, sends 3 friends to rape herThe woman, who had been living in Bangladesh's Cox's Bazar, claimed that her husband brought her to Hyderabad in May this year without informing her family. The two got married shortly after and rented a house."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/madhya-pradesh-cheetah-kng22-dies-five-firearm-pellets-stf-probe-3026310-2026-10-27",
+      "headline": "In first such killing in India, Kuno cheetah cub shot dead, pellets recoveredA 19-month-old male cheetah, KNG22, died in Madhya Pradesh after five firearm pellets were recovered from its body during emergency surgery. Rescued in an injured condition from the Morena Territorial Forest Division on October 25, the cheetah succumbed despite treatment. The state government has formed a Special Task Force to investigate the incident."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-one-about-matthew-perry-review-tragic-life-of-the-man-who-made-the-world-laugh-3026291-2026-10-27",
+      "headline": "The One About Matthew Perry review: Tragic life of man who made world laughRelease Date:Tue Oct 27, 2026Netflix's three-part documentary retraces Matthew Perry's life through family, friends and colleagues. Their memories reveal the private struggles behind his celebrated portrayal of Chandler Bing."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/trending-news/story/rs-20-lakh-stolen-jaipur-man-chases-thieves-but-wont-let-go-of-his-kachori-3026227-2026-10-27",
       "headline": "Rs 20 lakh stolen, Jaipur man chases thieves but won't let go of his kachoriTwo scooter-borne thieves stole Rs 20 lakh from a man during his kachori stop. His snack-in-hand chase, captured on CCTV, became the incident's unusual detail."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/king-poster-dhurandhar-2-comparisons-ranveer-singh-shah-rukh-khan-fiery-aesthetic-cheap-copy-3026224-2026-10-27",
-      "headline": "Cheap copy: King poster sparks Dhurandhar 2 comparisons over fiery aestheticShah Rukh Khan's King poster has drawn comparisons with Ranveer Singh's Dhurandhar 2 on social media. Several users accused the makers of copying its aesthetic and design."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/keerthana-gold-jewellery-row-tirupati-visit-tvk-minister-hits-back-trolls-thanks-cm-vijay-support-3026115-2026-10-27",
+      "headline": "I'm just a girl: TVK minister slams trolls over wearing gold jewellery at TirupatiTamil Nadu Minister Keerthana responded to social media criticism over the gold jewellery worn during her Tirupati visit. Her remarks underscored her resolve and acknowledged support from Vijay and the public."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/deep-dive/story/microsoft-buyouts-include-xbox-employees-after-gaming-divisions-latest-job-cuts-educ-3026348-2026-10-27",
-      "headline": "Microsoft spent $69 billion on gaming. Why is Xbox cutting jobs now?Microsoft spent $68.7 billion to acquire Activision Blizzard and expand its gaming empire with the likes of Call of Duty, Warcraft, and more. Yet Xbox is facing job cuts and restructuring, while eligible employees are included in a new voluntary buyout programme. The story explains why a promising business bet can lose momentum, how buyouts work and what Microsoft's gaming reset means."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-sir-petitions-eci-gyanesh-kumar-17-november-hearing-election-commission-india-bloc-3026276-2026-10-27",
-      "headline": "We know everything, will examine: Supreme Court on plea against Election CommissionThe Supreme Court directed the ECI and Chief Election Commissioner Gyanesh Kumar to respond to the Opposition's plea as it posted the next hearing on November 17."
+      "url": "https://www.indiatoday.in/india/story/jammu-kashmir-cabinet-reshuffle-omar-abdullah-inducts-four-nc-rift-widens-3026418-2026-10-27",
+      "headline": "NC rift deepens after J&K reshuffle; Omar Abdullah faces uphill task to unite flockJammu and Kashmir Chief Minister Omar Abdullah inducted four ministers and dropped Satish Sharma in a cabinet reshuffle that has deepened discontent within the National Conference. Protests by supporters of denied aspirants and growing internal dissent have put the party leadership under pressure, while Deputy CM Surinder Choudhary remains the cabinet's only Hindu face."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/former-miss-switzerland-beatrice-keul-us-president-donald-trump-brutal-rape-new-york-plaza-hotel-1993-epstein-files-3026055-2026-10-27",
-      "headline": "Dress torn, left bleeding: Ex-Miss Switzerland accuses Trump of rape in 1993A Democratic panel report details Beatrice Keul's account of the alleged assault and examines claims that Trump, Epstein and others used a beauty pageant as a \"hunting ground\" to prey on vulnerable young women and girls."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anirudh-ravichander-kavya-maran-wedding-reception-invite-guest-list-3025893-2026-10-27",
+      "headline": "Anirudh-Kavya Maran's Chennai reception invite goes viral; PM Modi, Vijay invitedComposer Anirudh Ravichander and Kavya Maran's wedding reception invitation has caught attention online for its elaborate Baroque-inspired design, featuring an ivory-and-blue colour scheme."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-elections-2026-benjamin-netanyahu-gadi-eisenkot-likud-yashar-party-unity-government-us-donald-trump-itspc-3025941-2026-10-27",
-      "headline": "Will Israel witness a Bihar, Karnataka like power-sharing deal?Benjamin Netanyahu could finish behind Gadi Eisenkot in Israel's October 27 election but still return as prime minister through a unity government with a rotating premiership. The rotational-leadership deal will be similar to what Bihar saw in 2022 and Karnataka in 2006."
+      "url": "https://www.indiatoday.in/india/law-news/story/justice-kaul-clarifies-ex-cji-dy-chandrachud-criticism-says-it-was-limited-to-judicial-appointments-3026468-2026-10-27",
+      "headline": "I've made a distinction: Justice SK Kaul clarifies criticism of ex-CJI ChandrachudJustice Sanjay Kishan Kaul said the collegium must deliberate independently on candidates before consulting the government, rather than seek prior approval. He also recounted disagreements over proposed appointments and flagged delays in filling vacancies in the Supreme Court and high courts."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/nirmal-kumar-tvk-minister-tamil-nadu-school-corruption-certificates-claim-anbil-mahesh-dmk-arrested-bribery-case-3026122-2026-10-27",
-      "headline": "Ex-Tamil Nadu Education Minister took Rs 400 crore from schools: TVK leaderTamil Nadu Minister Nirmal Kumar has alleged that arrested DMK leader Anbil Mahesh collected over Rs 400 crore from schools in the name of party funds by demanding money for issuing certificates. Mahesh was arrested in a Rs 100-crore bribery case linked to private school approvals and clearances."
+      "url": "https://www.indiatoday.in/sports/hockey/story/nilakanta-sharma-retires-india-hockey-asian-champions-trophy-3026510-2026-10-27",
+      "headline": "Nilakanta retires: India's warrior passes the sword to the next generationNilakanta Sharma has announced his retirement from international hockey after the Asian Champions Trophy. The Indian midfielder wants to sign off on his own terms before turning his attention to coaching and nurturing the next generation of hockey players."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/actor-imran-khans-eviction-order-paused-by-bombay-hc-wont-have-to-leave-country-till-at-least-monday-3026036-2026-10-27",
-      "headline": "Imran Khan gets interim relief, High Court pauses leave India order till November 2Actor Imran Khan was issued a notice by the FRRO to leave India by October 28. However, on Tuesday, the Bombay High Court paused the eviction order."
+      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-mao-remark-chinese-brands-end-sponsorship-deals-3025980-2026-10-27",
+      "headline": "Mbappe apologises to China after three brands drop him over Mao Zedong remarkReal Madrid superstar Kylian Mbappe has lost three Chinese brand partnerships after a viral video sparked outrage over a remark about Mao Zedong."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pratika-rawal-press-conference-smriti-mandhana-india-vs-zimbabwe-women-odi-3026527-2026-10-27",
+      "headline": "Watching Smriti Mandhana up close, Pratika Rawal finds a blueprint for greatness Pratika Rawal has credited Smriti Mandhana's batting for inspiring her growth, with the pair scoring 1,980 runs across 28 matches since Pratika's ODI debut in December 2024. Pratika has also worked on improving her powerplay hitting and has scored 161 runs in India's ODI series against Zimbabwe."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/nilakanta-sharma-retires-india-hockey-asian-champions-trophy-3026510-2026-10-27",
+      "headline": "Nilakanta retires: India's warrior passes the sword to the next generation Nilakanta Sharma has announced his retirement from international hockey after the Asian Champions Trophy. The Indian midfielder wants to sign off on his own terms before turning his attention to coaching and nurturing the next generation of hockey players."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-differently-abled-cricket-devajit-saikia-state-associations-3026487-2026-10-27",
+      "headline": "BCCI secretary asks state associations to support differently abled cricketers BCCI secretary Devajit Saikia has urged state associations to promote and support differently-abled cricketers, with the initiative aiming to widen participation, ensure equal opportunities and improve recognition for them across the country."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shreyanka-patil-five-wicket-haul-karnataka-maharashtra-senior-womens-t20-trophy-3026484-2026-10-27",
+      "headline": "Shreyanka Patil back to her best, rocks Maharashtra with 5 wickets in Women's T20 Trophy Shreyanka Patil bounced back from an expensive outing against Bengal to claim a five-wicket haul and guide Karnataka to a seven-wicket win over Maharashtra in the Senior Women's T20 Trophy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-south-africa-3rd-test-day-1-report-starc-six-wicket-3026452-2026-10-27",
+      "headline": "Starc six-wicket haul sparks Australia fightback as South Africa collapse on Day 1 Mitchell Starc claimed six wickets as Australia fought back from a disastrous start to bowl South Africa out for 329 on the opening day of the decisive third Test at Newlands on Tuesday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/world-boxing-u19-championships-aditya-wins-55kg-gold-india-megha-silver-3026434-2026-10-27",
+      "headline": "World U19 Boxing: Aditya wins gold in men's 55kg, Megha takes silver in women's 80kg Aditya staged a comeback to defeat Russia's Islam Magomedov 4:1 and win gold in the men's 55kg category at the World U-19 Boxing Championships in Budva, Montenegro. Megha Sheokand claimed silver in the women's 80kg category."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/michael-carrick-stays-manchester-united-manager-crisis-talks-3026375-2026-10-27",
@@ -349,32 +379,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-mohammed-shami-3-wickets-bengal-fight-back-kerala-3026336-2026-10-27",
-      "headline": "Shami makes his mark on Ranji return as Bengal fight back against Kerala Mohammed Shami made an impact with the ball on his return to action for Bengal in the Ranji Trophy, claiming three wickets to leave Kerala struggling at 101 for six on Day 2 of their match at Mangalapuram in Thiruvananthapuram."
+      "headline": "Shami makes his mark on Ranji return as Bengal fight back against KeralaMohammed Shami made an impact with the ball on his return to action for Bengal in the Ranji Trophy, claiming three wickets to leave Kerala struggling at 101 for six on Day 2 of their match at Mangalapuram in Thiruvananthapuram."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-stay-humble-india-new-zealand-record-t20i-series-win-3026314-2026-10-27",
-      "headline": "Stay humble: Coach Gambhir sends a subtle message after India's blitz in Wellington T20I Gautam Gambhir urged India to \"stay humble\" after a record-breaking win sealed an unassailable 3-0 T20I series lead in New Zealand, with two more T20Is, five ODIs and two Tests still to come."
+      "headline": "Stay humble: Coach Gambhir sends a subtle message after India's blitz in Wellington T20IGautam Gambhir urged India to \"stay humble\" after a record-breaking win sealed an unassailable 3-0 T20I series lead in New Zealand, with two more T20Is, five ODIs and two Tests still to come."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/tanmay-chaudhary-278-runs-delhi-teenager-school-t20-records-3026313-2026-10-27",
-      "headline": "278 in a T20 match: 17-year-old Delhi cricketer Tanmay keeps breaking records Seventeen-year-old Tanmay Chaudhary smashed 278 runs and hit eight consecutive sixes in a school T20 quarter-final, adding another remarkable chapter to his prolific run across school, state and league cricket."
+      "headline": "278 in a T20 match: 17-year-old Delhi cricketer Tanmay keeps breaking recordsSeventeen-year-old Tanmay Chaudhary smashed 278 runs and hit eight consecutive sixes in a school T20 quarter-final, adding another remarkable chapter to his prolific run across school, state and league cricket."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-beat-pakistan-seal-odi-tri-series-final-england-eliminated-3026268-2026-10-27",
-      "headline": "Sri Lanka crush Pakistan to book final spot, knock England out of ODI tri-series Sri Lanka crushed Pakistan by eight wickets in Lahore on Tuesday to book their place in the ODI tri-series final and eliminate England. Dilshan Madushanka starred with a career-best 5 for 34 as Pakistan were bowled out for 110."
+      "headline": "Sri Lanka crush Pakistan to book final spot, knock England out of ODI tri-seriesSri Lanka crushed Pakistan by eight wickets in Lahore on Tuesday to book their place in the ODI tri-series final and eliminate England. Dilshan Madushanka starred with a career-best 5 for 34 as Pakistan were bowled out for 110."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-csk-trade-rumours-number-33-ipl-2027-promo-3026259-2026-10-27",
-      "headline": "Hardik Pandya to CSK? Super Kings' promo video sparks curiosity. R Ashwin responds CSK's latest video featuring the number 33 has sparked fresh speculation about Hardik Pandya joining the five-time IPL champions ahead of the 2027 season. Former off-spinner R Ashwin has an interesting reaction to their video."
+      "headline": "Hardik Pandya to CSK? Super Kings' promo video sparks curiosity. R Ashwin respondsCSK's latest video featuring the number 33 has sparked fresh speculation about Hardik Pandya joining the five-time IPL champions ahead of the 2027 season. Former off-spinner R Ashwin has an interesting reaction to their video."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-bhuvneshwar-kumar-india-comeback-domestic-cricket-3026239-2026-10-27",
-      "headline": "Never chased India return, Bhuvneshwar ready for domestic grind after NZ T20Is Bhuvneshwar Kumar never made an India comeback, but two strong IPL seasons earned him another shot at international cricket. Now back in the T20I set-up after four years, the 36-year-old is already looking forward to returning to domestic cricket after the New Zealand series."
+      "headline": "Never chased India return, Bhuvneshwar ready for domestic grind after NZ T20IsBhuvneshwar Kumar never made an India comeback, but two strong IPL seasons earned him another shot at international cricket. Now back in the T20I set-up after four years, the 36-year-old is already looking forward to returning to domestic cricket after the New Zealand series."
     },
     {
       "sentiment": "positive",
@@ -384,7 +414,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-bangladesh-live-score-asian-hockey-champions-trophy-jalandhar-3026182-2026-10-27",
-      "headline": "IND vs BAN: India thrash Bangladesh 13-0 to begin campaign in styleIndia vs Bangladesh Live Score, Asian Champions Trophy: India turned Jalandhar into a celebration zone, combining the pre-match spectacle with a stunning 13-0 demolition of Bangladesh. Mandeep, Dilpreet and Harmanpreet Singh scored braces, while India's retiring stars showed they still have plenty left to offer. With a rock-solid defence and a ruthless attack, the hosts made a strong statement ahead of their next clash against China on October 29."
+      "headline": "IND vs BAN: India thrash Bangladesh 13-0 to begin campaign in styleAsian Hockey Champions Trophy: India turned Jalandhar into a celebration zone, combining the pre-match spectacle with a stunning 13-0 demolition of Bangladesh. Mandeep, Dilpreet and Harmanpreet Singh scored braces, while India's retiring stars showed they still have plenty left to offer. With a rock-solid defence and a ruthless attack, the hosts made a strong statement ahead of their next clash against China on October 29."
     },
     {
       "sentiment": "positive",
@@ -440,31 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-new-zealand-a-match-report-day-4-devdutt-padikkal-3025890-2026-10-27",
       "headline": "Devdutt Padikkal heroics in vain as bad light robs India of heroic comeback winIndia-A came close to completing a remarkable comeback in the first unofficial Test against New Zealand A after recovering from 113 all out in the first innings. But Curtis Heaphy's unbeaten 90 helped New Zealand survive before bad light ended the contest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/harry-kane-ballon-dor-virat-kohli-hails-historic-win-3025839-2026-10-27",
-      "headline": "Harry, my friend: Kohli celebrates Kane's Ballon d'Or win with heartfelt postVirat Kohli congratulated his friend Harry Kane after the Bayern Munich striker won his maiden men's Ballon d'Or. Kohli praised Kane's resilience and his silent hard work and honesty throughout his career."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shadab-khan-century-pakistan-record-haris-rauf-one-wicket-odi-win-england-3025689-2026-10-27",
-      "headline": "Shadab Khan gives drowning Pakistan cricket a lifeline when all hope seemed lostShadab Khan struck an unbeaten 113 off 96 balls to script a remarkable one-wicket victory for Pakistan after they slumped to 154-9 while chasing 242 in Lahore. His record-breaking stand with Haris Rauf offered Pakistan cricket a much-needed lifeline amid a prolonged search for stability and consistency."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/women-chess-fide-survey-sexual-harassment-3025765-2026-10-27",
-      "headline": "3 in 4 women in chess face discrimination or harassment: FIDE surveyA global FIDE survey of 672 women and girls has found that 76 per cent experienced at least one form of discrimination or harassment in chess. The findings highlight widespread gender bias, sexual harassment, a shortage of female role models in the sport."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-u15-world-cup-england-walk-off-pitch-racism-ireland-3025742-2026-10-27",
-      "headline": "England U15s walk off pitch after alleged racist slur in FIFA World Cup: WatchEngland's Under-15 team walked off during their FIFA Under-15 World Cup clash against the Republic of Ireland after a player alleged that an opponent had racially abused him. FIFA is investigating the incident after the match in Baku was abandoned with Ireland leading 4-1."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/asian-champions-trophy-2026-india-squad-schedule-live-streaming-3025720-2026-10-27",
-      "headline": "ACT: India want more than just dominance on hockey's Punjab returnIndia enter the Asian Champions Trophy as the overwhelming favourites, but Harmanpreet Singh and his side will be chasing more than just the title. With hockey returning to Punjab after a hiatus, the Indian team will aim to thrill fans in Jalandhar and Mohali."
     }
   ],
   "education": [
@@ -554,7 +559,7 @@
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
