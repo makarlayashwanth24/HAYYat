@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/angh-review-theja-rio-weighs-progress-against-cultural-loss-in-nagaland-3027325-2026-10-29",
+      "headline": "Angh review: Theja Rio weighs progress against cultural loss in Nagaland Angh review: Theja Rio's Angh follows a Nagaland chief resisting cultural and religious change. Its generational conflict examines the price communities pay for opportunity."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/ott/story/koffee-with-karan-9-samay-raina-varun-dhawan-karan-johar-chilling-with-girlfriend-remark-3027273-2026-10-28",
       "headline": "Samay Raina tells Varun Dhawan he's chilling with girlfriend, leaves KJo curious Comedian Samay Raina told actor Varun Dhawan that he was with his girlfriend during a Koffee With Karan prank call. The remark revived interest in his relationship status, although he kept her identity secret."
@@ -115,7 +120,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/peddi-propagated-sexual-assault-extreme-objectification-janhvi-kapoor-admits-films-flaws-3027183-2026-10-28",
-      "headline": "Peddi propagated sexual assault, extreme objectification: Janhvi admits film's flaws Janhvi Kapoor admitted that Peddi featured extreme objectification and a narrative that could propagate sexual assault. On Koffee with Karan 9, the actor said she regrets not doing more to challenge the film's portrayal of women."
+      "headline": "Peddi propagated sexual assault, extreme objectification: Janhvi admits film's flaws Actor Janhvi Kapoor admitted that Peddi featured extreme objectification and a narrative that could propagate sexual assault. On the chat show Koffee with Karan 9, she said she regrets not doing more to challenge the film's portrayal of women."
     },
     {
       "sentiment": "positive",
@@ -190,24 +195,39 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-early-reviews-ranbir-kapoor-rama-yash-ravana-la-premiere-3026723-2026-10-28",
-      "headline": "Ramayana early reviews: Ranbir's Lord Rama called divine, Yash's Ravana a standout Ramayana: The Rise of a Legend drew enthusiastic early reviews after its Los Angeles premiere. Viewers praised the cast, music, visual effects and emotional sweep of Nitesh Tiwari's epic, starring Ranbir Kapoor, Yash and Sai Pallavi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/all-about-anirudh-ravichander-kavya-maran-wedding-greece-vows-chennai-party-and-pm-modi-as-guest-3026684-2026-10-28",
-      "headline": "All about Anirudh-Kavya's wedding: Greece vows, Chennai party and PM Modi as guest A viral Chennai reception invitation has intensified reports of Anirudh Ravichander and Kavya Maran's wedding. The couple is yet to confirm the reported Greece ceremony or its arrangements."
+      "headline": "Ramayana early reviews: Ranbir's Lord Rama called divine, Yash's Ravana a standout Ramayana: The Rise of a Legend drew enthusiastic early reviews after its Los Angeles premiere on October 27. Viewers praised the cast, music, visual effects and emotional sweep of Nitesh Tiwari's epic, starring Ranbir Kapoor, Yash and Sai Pallavi."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/mlc-election-results-up-bihar-karnataka-maharashtra-bjp-nda-congress-sp-jan-suraaj-itspc-3026912-2026-10-28",
-      "headline": "BJP-led NDA wins big in 4-state MLC polls, Cong loses face, SP stuns in VaranasiThe BJP-led NDA has scored big in the MLC elections across four states. It swept all four seats in Karnataka and maintained its advantage in UP, even as the Samajwadi Party notched up key wins like Varanasi. In Bihar, the NDA won four of the eight seats, improving its tally from three. In Maharashtra, the BJP-led Mahayuti is ahead in three of the five seats."
+      "url": "https://www.indiatoday.in/world/story/jd-vance-reaches-out-to-iran-hard-liner-as-trump-weighs-fresh-strikes-report-3027326-2026-10-29",
+      "headline": "Vance reaches out to Iran hard-liner amid Trump's strike threat: ReportThe letter, sent at Trump's direction, was intended to assess whether the two sides could agree on a framework for restarting negotiations, the newspaper reported, citing US officials and people familiar with the matter."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/jauhar-university-assets-attached-ed-azam-khan-money-laundering-case-uttar-pradesh-3027079-2026-10-28",
+      "headline": "ED attaches SP leader Azam Khan's Rs 1,170-crore Jauhar University in UPSP leader Azam Khan's Mohammad Ali Jauhar University in Uttar Pradesh has been attached by the Enforcement Directorate, which alleges diversion of government funds for the construction."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-heckles-congress-evm-complaints-ballot-paper-mlc-polls-karnataka-modi-rahul-gandhi-itspc-3027007-2026-10-28",
-      "headline": "BJP heckles Congress over MLC poll results: Button or ballot, result is the sameThe Congress has repeatedly demanded the removal of EVMs and a return to ballot papers. But its failure to win a seat in the latest MLC polls across four states has given the BJP, including PM Narendra Modi, an opportunity to mock the party's allegations of electoral irregularities."
+      "url": "https://www.indiatoday.in/elections/story/abhijeet-vanjari-wins-second-consecutive-nagpur-graduates-mlc-seat-congress-3027321-2026-10-29",
+      "headline": "Congress's Abhijeet Vanjari retains Nagpur graduates' seat for second termCongress leader Abhijeet Govindrao Vanjari has won the Nagpur Division Graduates' constituency in the Maharashtra Legislative Council for a second consecutive term. A lawyer and educationist, he first won the seat in 2020 as a Maha Vikas Aghadi candidate."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/story/uttar-pradesh-mlc-election-results-varanasi-gorakhpur-samajwadi-party-bjp-3026636-2026-10-28",
+      "headline": "Uttar Pradesh MLC results: Samajwadi Party scores big in both Varanasi seatsUP MLC election results: The Samajwadi Party retained the Varanasi Teachers' MLC seat and is set for a decisive victory in the Varanasi Graduates' constituency."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/angh-review-theja-rio-weighs-progress-against-cultural-loss-in-nagaland-3027325-2026-10-29",
+      "headline": "Angh review: Theja Rio weighs progress against cultural loss in NagalandAngh review: Theja Rio's Angh follows a Nagaland chief resisting cultural and religious change. Its generational conflict examines the price communities pay for opportunity."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/flavio-bolsonaro-in-us-declares-himself-brazils-president-elect-then-leader-of-brazil-3027322-2026-10-29",
+      "headline": "Flavio Bolsonaro in US calls himself Brazil's rightful leader, alleges election coupBolsonaro initially declared himself \"the elected president\" in an open letter posted on X. He later deleted that version and published a revised letter, in which he described himself as Brazil's rightful \"leader\"."
     },
     {
       "sentiment": "positive",
@@ -216,13 +236,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-beats-messi-boat-award-top-ballon-d-or-3027316-2026-10-29",
-      "headline": "Cristiano Ronaldo beats Messi to claim award for best in Ballon d'Or historyCristiano Ronaldo has beaten Lionel Messi and football's greats to win the inaugural B.O.A.T. award, launched by UEFA and France Football to recognise the greatest season by a Ballon d'Or winner."
+      "url": "https://www.indiatoday.in/india/story/bjp-heckles-congress-evm-complaints-ballot-paper-mlc-polls-karnataka-modi-rahul-gandhi-itspc-3027007-2026-10-28",
+      "headline": "BJP heckles Congress over MLC poll results: Button or ballot, result is the sameThe Congress has repeatedly demanded the removal of EVMs and a return to ballot papers. But its failure to win a seat in the latest MLC polls across four states has given the BJP, including PM Narendra Modi, an opportunity to mock the party's allegations of electoral irregularities."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/mlc-result-2026-state-legislative-council-uttar-pradesh-bihar-karnataka-maharashtra-jan-suraaj-party-itspc-3026801-2026-10-28",
-      "headline": "MLC election results are out. WTF is MLC!The Legislative Council is the appendix of Indian democracy. Nobody knows what it does, everyone pays for it, and it makes news only when elections are due."
+      "url": "https://www.indiatoday.in/technology/news/story/apple-launches-its-first-touchscreen-macbook-pro-what-is-new-india-price-and-more-3027248-2026-10-28",
+      "headline": "Apple launches its first touchscreen MacBook Pro: What is new, India price and moreApple unveiled its first touchscreen MacBook Pro with OLED displays and M5 processors. The launch reverses its long-standing resistance to direct touch controls on laptops."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-beats-messi-boat-award-top-ballon-d-or-3027316-2026-10-29",
+      "headline": "Cristiano Ronaldo beats Messi to claim award for best in Ballon d'Or historyCristiano Ronaldo has beaten Lionel Messi and football's greats to win the inaugural B.O.A.T. award, launched by UEFA and France Football to recognise the greatest season by a Ballon d'Or winner."
     },
     {
       "sentiment": "positive",
@@ -235,19 +260,29 @@
       "headline": "Netanyahu is in pretty good shape, says Trump as Israel faces coalition deadlockDonald Trump said Benjamin Netanyahu remained in a strong position as vote counting continued. The inconclusive result has opened difficult coalition talks and raised the prospect of another election."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/in-focus/story/iiit-hyderabad-alumnus-manohar-paluri-launches-warp-sciences-with-215-million-in-funding-educ-3026716-2026-10-28",
+      "headline": "IIIT Hyderabad alumnus leaves Meta after 14 years to build a $215 million AI startupManohar Paluri, an IIIT Hyderabad alumnus, spent 14 years at Meta, rising to vice president of AI. He has now co-founded Warp Sciences, a startup that has raised $215 million to combine artificial intelligence, robotics and chemistry to help biotechnology and pharmaceutical companies accelerate drug discovery in the United States."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/mlc-result-2026-state-legislative-council-uttar-pradesh-bihar-karnataka-maharashtra-jan-suraaj-party-itspc-3026801-2026-10-28",
+      "headline": "MLC election results are out. WTF is MLC!The Legislative Council is the appendix of Indian democracy. Nobody knows what it does, everyone pays for it, and it makes news only when elections are due."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indranil-sen-ed-kolkata-police-durga-puja-pass-financial-irregularities-case-3027097-2026-10-28",
       "headline": "Ex-Bengal tourism minister arrested in alleged UNESCO-linked Durga Puja pass scamEx-Bengal minister Indranil Sen has been arrested in an alleged Rs 50-60 crore financial irregularities case involving MassArt Society, an organisation with which he and his wife were allegedly associated. The ED is probing claims that the society misrepresented its association with UNESCO while collecting money through Durga Puja preview shows and privileged-entry passes between 2022 and 2025."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/apple-launches-its-first-touchscreen-macbook-pro-what-is-new-india-price-and-more-3027248-2026-10-28",
-      "headline": "Apple launches its first touchscreen MacBook Pro: What is new, India price and moreApple unveiled its first touchscreen MacBook Pro with OLED displays and M5 processors. The launch reverses its long-standing resistance to direct touch controls on laptops."
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-bjp-tata-sons-noel-tata-chandrasekaran-reappointment-row-3026771-2026-10-28",
+      "headline": "Stop seeing ghosts everywhere: Sitharaman hits back at Rahul Gandhi over Tata rowRahul Gandhi alleged that the BJP-led government was treating businesses as its 'plaything'. Sitharaman accused Gandhi of politicising the Tata Sons reappointment dispute and undermining Indian industry and the judiciary."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-bjp-tata-sons-noel-tata-chandrasekaran-reappointment-row-3026771-2026-10-28",
-      "headline": "Stop seeing ghosts everywhere: Sitharaman hits back at Rahul Gandhi over Tata rowRahul Gandhi alleged that the BJP-led government was treating businesses as its 'plaything'. Sitharaman accused Gandhi of politicising the Tata Sons reappointment dispute and undermining Indian industry and the judiciary."
+      "url": "https://www.indiatoday.in/business/story/jug-jug-jio-anants-heartfelt-words-bring-tears-to-mukesh-ambanis-eyes-3026711-2026-10-28",
+      "headline": "Mukesh Ambani gets emotional as son Anant recalls Dhirubhai's journey at Jio listingMukesh Ambani was visibly moved as Anant Ambani revisited the family's roots and remembered Dhirubhai Ambani's journey from a modest beginning to building one of India's biggest business empires at the Jio Platforms IPO listing ceremony."
     },
     {
       "sentiment": "positive",
@@ -261,28 +296,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/in-focus/story/iiit-hyderabad-alumnus-manohar-paluri-launches-warp-sciences-with-215-million-in-funding-educ-3026716-2026-10-28",
-      "headline": "IIIT Hyderabad alumnus leaves Meta after 14 years to build a $215 million AI startupManohar Paluri, an IIIT Hyderabad alumnus, spent 14 years at Meta, rising to vice president of AI. He has now co-founded Warp Sciences, a startup that has raised $215 million to combine artificial intelligence, robotics and chemistry to help biotechnology and pharmaceutical companies accelerate drug discovery in the United States."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/madras-high-court-non-hindu-entry-rules-agamic-temples-mustafa-vijay-3027151-2026-10-28",
       "headline": "Chamchagiri can't trump customs: HC shreds TVK MLA in skullcap at Madurai templeThe Madras High Court slammed TVK MLA Badrudeen Mustafa for entering temple premises, stressing that Agamic temples' customs cannot be overridden by political posturing or electoral optics."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/uttar-pradesh-mlc-election-results-varanasi-gorakhpur-samajwadi-party-bjp-3026636-2026-10-28",
-      "headline": "Uttar Pradesh MLC results: Samajwadi Party scores big in both Varanasi seatsUP MLC election results: The Samajwadi Party retained the Varanasi Teachers' MLC seat and is set for a decisive victory in the Varanasi Graduates' constituency."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jauhar-university-assets-attached-ed-azam-khan-money-laundering-case-uttar-pradesh-3027079-2026-10-28",
-      "headline": "ED attaches SP leader Azam Khan's Rs 1,170-crore Jauhar University in UPSP leader Azam Khan's Mohammad Ali Jauhar University in Uttar Pradesh has been attached by the Enforcement Directorate, which alleges diversion of government funds for the construction."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/jug-jug-jio-anants-heartfelt-words-bring-tears-to-mukesh-ambanis-eyes-3026711-2026-10-28",
-      "headline": "Mukesh Ambani gets emotional as son Anant recalls Dhirubhai's journey at Jio listingMukesh Ambani was visibly moved as Anant Ambani revisited the family's roots and remembered Dhirubhai Ambani's journey from a modest beginning to building one of India's biggest business empires at the Jio Platforms IPO listing ceremony."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/peddi-propagated-sexual-assault-extreme-objectification-janhvi-kapoor-admits-films-flaws-3027183-2026-10-28",
+      "headline": "Peddi propagated sexual assault, extreme objectification: Janhvi admits film's flawsActor Janhvi Kapoor admitted that Peddi featured extreme objectification and a narrative that could propagate sexual assault. On the chat show Koffee with Karan 9, she said she regrets not doing more to challenge the film's portrayal of women."
     },
     {
       "sentiment": "negative",
@@ -291,33 +311,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-minister-s-keerthana-denies-corruption-allegations-warns-legal-action-3027280-2026-10-28",
-      "headline": "Not taken a single rupee: TN minister Keerthana hits back at corruption chargesTamil Nadu Minister Keerthana denied allegations of corruption, including a purported Rs 3 crore commission in railway overbridge project, and warned of legal action against those spreading unsubstantiated claims."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-election-2026-voting-live-updates-benjamin-netanyahu-gadi-eisenkot-voter-turnout-yashar-party-likud-3025862-2026-10-27",
-      "headline": "Live: Netanyahu's bloc still ahead on 54 seats, lead for rival alliance rises to 49Israel Election 2026 Live Updates: Israel's Prime Minister Benjamin Netanyahu's bloc is tied with the opposition grouping led by former military chief Gadi Eisenkot, early exit polls showed, pointing to a deadlock in a closely watched election. The election, the first since Hamas' unprecedented October 7, 2023, attack, recorded a turnout of 77.7%, the highest since 1999. For Netanyahu, blamed by opponents for the security failures that preceded the attack and his refusal to set up an independent commission of inquiry, his political future is at stake. Eisenkot's Yashar party is leading an alliance seeking to unseat Netanyahu's Likud party and its right-wing allies. Vote counting is on after a day of strong voter turnout. A party or alliance needs at least 61 seats in parliament to form a majority government. Two leading Arab parties also made strong gains and could emerge as kingmakers. Final results may take days, followed by potentially protracted coalition negotiations as rival blocs scramble to secure a parliamentary majority. The election offered voters a chance to pass judgment on Netanyahu's leadership following wars in Gaza and with Iran, as well as Israel's growing international isolation. Netanyahu, the country's longest-serving prime minister with 19 years in office, has repeatedly survived political crises. But the latest contest could pose another major test of his hold on power. Stay with Indiatoday.in for live updates."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/peddi-propagated-sexual-assault-extreme-objectification-janhvi-kapoor-admits-films-flaws-3027183-2026-10-28",
-      "headline": "Peddi propagated sexual assault, extreme objectification: Janhvi admits film's flawsJanhvi Kapoor admitted that Peddi featured extreme objectification and a narrative that could propagate sexual assault. On Koffee with Karan 9, the actor said she regrets not doing more to challenge the film's portrayal of women."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-abhijeet-dipke-backs-india-bloc-november-1-rally-ramlila-maidan-gyanesh-kumar-resignation-sir-vote-chori-ashutosh-ranka-saurav-das-rahul-gandhi-congress-sir-3027058-2026-10-28",
-      "headline": "Gyanu must go: CJP backs INDIA bloc's Nov 1 rally seeking Gyanesh Kumar's exitThe CJP has backed the INDIA bloc's November 1 rally demanding CEC Gyanesh Kumar's resignation. The campaign raises concerns over electoral roll revisions, voter exclusions and institutional accountability."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/arunachal-pradesh-minister-balo-raja-bjp-mla-india-is-very-strong-watch-dhurandhar-india-china-border-face-off-itbp-chief-shatrujeet-kapur-3026889-2026-10-28",
       "headline": "India is strong, watch Dhurandhar: Arunachal minister on ITBP chief's border remarkBJP MLA Balo Raja rejected perceptions of Indian weakness while responding to reports of continuing LAC face-offs. His Dhurandhar reference came amid opposition demands for transparency and the MEA's call for diplomatic and military engagement."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/jamia-extends-online-classes-till-nov-24-shifts-exams-online-physical-classes-to-resume-after-jan-13-3027109-2026-10-28",
-      "headline": "Protest-hit Jamia extends online classes, in-person teaching may resume after Jan 13Jamia Millia Islamia has extended online classes until November 24 and shifted odd-semester examinations online amid campus tensions. Physical classes may resume after January 13, depending on security conditions. Here is the revised academic schedule and the background to the student union election dispute."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-minister-s-keerthana-denies-corruption-allegations-warns-legal-action-3027280-2026-10-28",
+      "headline": "Not taken a single rupee: TN minister Keerthana hits back at corruption chargesTamil Nadu Minister Keerthana denied allegations of corruption, including a purported Rs 3 crore commission in railway overbridge project, and warned of legal action against those spreading unsubstantiated claims."
     }
   ],
   "sports": [
