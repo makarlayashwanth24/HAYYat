@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-rain-logistics-chaos-bms-queues-aura-tour-opener-jln-stadium-itspc-3029063-2026-10-31",
+      "headline": "Diljit Dosanjh's Delhi concert had rain, long queues and one hell of a show Diljit Dosanjh's Delhi concert had all the ingredients of a grand spectacle \u2014 dazzling lights, roaring fans, and a setlist spanning his early Punjabi hits to his biggest chartbusters. It was the singer's easy rapport with the crowd, impromptu fan moments, and celebration of his Punjabi roots that gave the opening night of his Aura Tour its character."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/dont-teach-punjabis-how-to-fight-diljit-defends-im-an-artist-remark-at-delhi-show-3029001-2026-10-31",
       "headline": "Don't teach Punjabis how to fight: Diljit defends I'm an artist remark at Delhi show Singer Diljit Dosanjh addressed his 'I'm an artist bro' remark during the Aura India concert in New Delhi. The comment was connected to the Cockroach Janta Party-led student protest."
     },
@@ -191,18 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/mirzapur-the-movie-ott-release-prime-video-extended-cut-pankaj-tripathi-3028209-2026-10-30",
       "headline": "Mirzapur The Movie arrives on OTT with extended cut: Where to watch Mirzapur: The Movie has begun streaming on Prime Video with an extended cut. The release offers subscribers additional footage beyond the version shown in cinemas."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-show-security-arrangements-10-pm-deadline-and-metro-advisory-3028189-2026-10-30",
-      "headline": "Take metro, arrive by 6.30 pm: Diljit Dosanjh to fans ahead of Delhi show today Diljit Dosanjh asked Delhi concertgoers to use the metro and arrive by 6.30 pm on October 30. The appeal follows the lack of venue parking, traffic diversions and a strict 10 pm deadline."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/isro-gslv-f18-nvs-03-satellite-launched-navigation-navic-monitoring-national-security-gps-3029033-2026-10-30",
-      "headline": "India's desi GPS boost: Isro launches NVS-03 to strengthen homegrown navigationIndia launches NVS-03 satellite aboard GSLV to boost navigation, security, preparedness"
+      "headline": "India gets its own GPS boost: Isro launches NVS-03 to strengthen homegrown navigationThe mission is particularly important for India as the country looks to strengthen its independent positioning, navigation and timing capabilities at a time when satellite-based navigation has become critical for civilian, commercial and strategic applications."
     },
     {
       "sentiment": "positive",
@@ -221,13 +221,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/dont-teach-punjabis-how-to-fight-diljit-defends-im-an-artist-remark-at-delhi-show-3029001-2026-10-31",
-      "headline": "Don't teach Punjabis how to fight: Diljit defends I'm an artist remark at Delhi showSinger Diljit Dosanjh addressed his 'I'm an artist bro' remark during the Aura India concert in New Delhi. The comment was connected to the Cockroach Janta Party-led student protest."
+      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-rain-logistics-chaos-bms-queues-aura-tour-opener-jln-stadium-itspc-3029063-2026-10-31",
+      "headline": "Diljit Dosanjh's Delhi concert had rain, long queues and one hell of a showDiljit Dosanjh's Delhi concert had all the ingredients of a grand spectacle \u2014 dazzling lights, roaring fans, and a setlist spanning his early Punjabi hits to his biggest chartbusters. It was the singer's easy rapport with the crowd, impromptu fan moments, and celebration of his Punjabi roots that gave the opening night of his Aura Tour its character."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/israeli-american-rabbi-yossi-mizrachi-mocks-hindus-cow-worship-indian-doctors-backlash-itspc-3028421-2026-10-30",
       "headline": "Israeli-American rabbi mocks Hindus over cow worship, faces furyIsraeli-American rabbi Yossi Mizrachi, who has a history of controversial and offensive remarks, mocked Hindus over cow worship and made derogatory remarks about Indian doctors. The clip went viral, and several people, including Indians and Israelis, attacked him."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/joshimath-helicopter-crash-six-killed-badrinath-trans-bharat-fleet-grounded-3028986-2026-10-31",
+      "headline": "Smiling for camera, filming Himalayas: Man's final moments before chopper crashA smile for the camera and a glimpse of the snow-covered Himalayas were among the last videos 41-year-old Pratap Bachihalli Ningaraju sent his family before the helicopter he was travelling in crashed near Joshimath. All six people on board, including the pilot, died. The crash has also renewed concerns over helicopter safety during the Char Dham pilgrimage."
     },
     {
       "sentiment": "positive",
@@ -236,13 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/manisha-bhanwala-world-wrestling-gold-comeback-abigail-nette-3029006-2026-10-30",
-      "headline": "How Manisha Bhanwala used a six-minute masterplan for historic wrestling goldManisha Bhanwala scripted history at the Wrestling World Championships, beating American Abigail Nette 8-6 after recovering from a 1-6 deficit to become India's first woman world champion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-aura-concert-2026-live-updates-jln-stadium-delhi-india-tour-3028705-2026-10-30",
-      "headline": "Diljit Dosanjh Aura Concert: Drones, lasers light up Delhi show amid rainSinger Diljit Dosanjh's Aura Concert has begun at New Delhi's Jawaharlal Nehru Stadium amid tight security and persistent rainfall. Nearly 2,000 private security personnel have been deployed around the venue to ensure smooth crowd management."
+      "url": "https://www.indiatoday.in/science/story/watch-moment-isros-gslv-f18-turned-night-into-day-roared-into-space-with-nvs-03-3029048-2026-10-31",
+      "headline": "Watch: Moment Isro's GSLV-F18 roared into space, turned night into dayIsro's GSLV-F18 launched NVS-03 from Sriharikota and placed it in transfer orbit. The mission advances efforts to strengthen NavIC after corrective measures followed the NVS-02 setback."
     },
     {
       "sentiment": "positive",
@@ -256,8 +256,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/aiims-gorakhpur-executive-director-major-general-retired-vibha-dutta-falls-ill-referred-to-private-hospital-for-treatment-cath-lab-not-operational-uttar-pradesh-3028823-2026-10-30",
-      "headline": "AIIMS Gorakhpur director falls ill, referred to private hospital for treatmentAIIMS Gorakhpur Executive Director Major General (retired) Vibha Dutta was referred to a private hospital for cardiac evaluation after developing health complications, as the institute's Cath Lab is not yet operational."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/manisha-bhanwala-world-wrestling-gold-comeback-abigail-nette-3029006-2026-10-30",
+      "headline": "How Manisha Bhanwala used a six-minute masterplan for historic wrestling goldManisha Bhanwala scripted history at the Wrestling World Championships, beating American Abigail Nette 8-6 after recovering from a 1-6 deficit to become India's first woman world champion."
     },
     {
       "sentiment": "positive",
@@ -266,13 +266,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/north-korea-blamed-for-usd-63-billion-crypto-heist-pulled-off-from-binance-in-20-minutes-3028988-2026-10-30",
-      "headline": "North Korea blamed for $6.3 billion crypto heist pulled off in just 20 minutesHackers drained approximately USD 6.3 billion from Binance in a 20-minute cyberattack. The breach triggered a market sell-off and an international race to recover the assets."
+      "url": "https://www.indiatoday.in/entertainment/music/story/dont-teach-punjabis-how-to-fight-diljit-defends-im-an-artist-remark-at-delhi-show-3029001-2026-10-31",
+      "headline": "Don't teach Punjabis how to fight: Diljit defends I'm an artist remark at Delhi showSinger Diljit Dosanjh addressed his 'I'm an artist bro' remark during the Aura India concert in New Delhi. The comment was connected to the Cockroach Janta Party-led student protest."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/isro-nvs-03-satellite-launch-live-updates-gslv-f18-mission-sriharikota-3028623-2026-10-30",
-      "headline": "Live: Isro's GSLV-F18 deploys NVS-03 in orbit after picture-perfect launchNVS-03 is the third satellite in ISRO's second-generation navigation satellite series, designed to ensure continuity and improve the availability of navigation services under the Navigation with Indian Constellation (NavIC). The mission is particularly important for India as the country looks to strengthen its independent positioning, navigation and timing capabilities."
+      "url": "https://www.indiatoday.in/india/story/revolt-brews-in-national-conference-as-19-mlas-seek-cabinet-overhaul-removal-of-omar-abdullahs-aides-3029068-2026-10-31",
+      "headline": "Revolt brews in NC as 19 MLAs seek cabinet overhaul, removal of Omar aidesNineteen National Conference MLAs adopted a resolution seeking a cabinet reshuffle and the removal of two aides. The move reflects discontent after several senior legislators were overlooked in the latest expansion."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/saudi-led-coalition-says-it-shot-down-houthi-drone-over-medina-group-denies-attack-3029070-2026-10-31",
+      "headline": "Houthis deny drone attack on Medina after Saudi-led coalition interception claimThe Houthis denied Saudi claims that a drone launched by the group was intercepted over Medina. The dispute heightens tensions as cross-border attacks threaten regional energy and shipping routes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/delhi-university-student-bhangra-performance-wins-hearts-months-after-being-shared-3028368-2026-10-30",
+      "headline": "Delhi University student's Bhangra performance wins hearts months after being sharedA Delhi University student took centre stage at Lady Shri Ram College with a lively Bhangra performance that has now found a wider audience online."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/aiims-gorakhpur-executive-director-major-general-retired-vibha-dutta-falls-ill-referred-to-private-hospital-for-treatment-cath-lab-not-operational-uttar-pradesh-3028823-2026-10-30",
+      "headline": "AIIMS Gorakhpur director falls ill, referred to private hospital for treatmentAIIMS Gorakhpur Executive Director Major General (retired) Vibha Dutta was referred to a private hospital for cardiac evaluation after developing health complications, as the institute's Cath Lab is not yet operational."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/north-korea-blamed-for-usd-63-billion-crypto-heist-pulled-off-from-binance-in-20-minutes-3028988-2026-10-30",
+      "headline": "North Korea blamed for $6.3 billion crypto heist pulled off in just 20 minutesHackers drained approximately USD 6.3 billion from Binance in a 20-minute cyberattack. The breach triggered a market sell-off and an international race to recover the assets."
     },
     {
       "sentiment": "positive",
@@ -281,8 +301,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/delhi-university-student-bhangra-performance-wins-hearts-months-after-being-shared-3028368-2026-10-30",
-      "headline": "Delhi University student's Bhangra performance wins hearts months after being sharedA Delhi University student took centre stage at Lady Shri Ram College with a lively Bhangra performance that has now found a wider audience online."
+      "url": "https://www.indiatoday.in/science/story/two-satellite-images-reveal-cyclone-arnabs-unstoppable-journey-across-india-3028312-2026-10-30",
+      "headline": "Two satellite images reveal Cyclone Arnab's unstoppable journey across IndiaINSAT-3DS images captured Cyclone Arnab moving northwards and weakening over land. The focus now turns to rainfall risks and a fresh Andaman Sea system."
     },
     {
       "sentiment": "positive",
@@ -298,26 +318,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/pune/story/pune-woman-found-dead-after-food-delivery-transactions-reveal-secret-return-to-india-from-london-ptag-3028345-2026-10-30",
       "headline": "Parents thought she was in London, food delivery trail led to her body in Pune flatMugdha Deshmukh had left for the UK in July 2025 to pursue an MBA but secretly returned to India in August. She was found dead, with no visible injury marks, at an apartment in Pune."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/two-satellite-images-reveal-cyclone-arnabs-unstoppable-journey-across-india-3028312-2026-10-30",
-      "headline": "Two satellite images reveal Cyclone Arnab's unstoppable journey across IndiaINSAT-3DS images captured Cyclone Arnab moving northwards and weakening over land. The focus now turns to rainfall risks and a fresh Andaman Sea system."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-air-quality-improves-satisfactory-heavy-rain-imd-red-alert-manjinder-sirsa-bjp-3028765-2026-10-30",
-      "headline": "Delhi AQI improves to 93 after rain, BJP minister credits 'targeted action'Overnight rain pushed Delhi's air quality into the satisfactory category on Friday morning. Manjinder Singh Sirsa credited anti-pollution measures and public participation for the improvement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/punjab-asi-booked-positive-drug-test-alleged-heroin-use-budhlada-3028791-2026-10-30",
-      "headline": "Punjab cop caught taking chitta by mob, case filed after positive drug testVisuals from Budhlada town in Mansa district show residents holding on to a visibly embarrassed ASI Sehijpreet and confronting him."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/karnataka/story/nandini-milk-price-hike-karnataka-rs-8-november-1-other-state-comparison-3028708-2026-10-30",
-      "headline": "Karnataka's Nandini milk price up Rs 8, but still cheaper than most statesThe Karnataka said the milk price hike was necessary to offset rising production costs, prevent losses to dairy cooperatives and increase farmers' income."
     }
   ],
   "sports": [
