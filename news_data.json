@@ -104,6 +104,26 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-bihar-concert-delayed-crowd-management-security-concerns-3029575-2026-10-31",
+      "headline": "Organisers wouldn't own crowd control: Diljit on why Bihar concert plan fell through Diljit Dosanjh revealed why his planned Bihar concert could not proceed. Crowd management and security responsibility remain the key hurdles."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sanjay-gupta-funeral-abhishek-bachchan-rakesh-roshan-rajpal-yadav-celebs-pay-last-respects-versova-home-3029513-2026-10-31",
+      "headline": "Sanjay Gupta funeral: Abhishek Bachchan to Rajpal Yadav, celebs pay last respects Family, friends and film colleagues gathered at Sanjay Gupta's Mumbai home for his last rites. Their emotional tributes preceded the filmmaker's final journey to Versova crematorium."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/mira-rajput-motherhood-at-22-shahid-kapoor-support-shared-parenting-what-women-want-3029391-2026-10-31",
+      "headline": "Mira Rajput tells Kareena why she has no regrets about becoming a mother at 22 Mira Rajput discussed early motherhood and parenting with Kareena Kapoor Khan on the talk show What Women Want. She credited her actor-husband Shahid Kapoor and her sisters while stressing shared responsibilities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-nick-jonas-la-glittering-diwali-bash-desi-glam-stuns-internet-3029408-2026-10-31",
+      "headline": "Priyanka-Nick light up LA with glittering Diwali bash, their desi glam stuns internet Priyanka Chopra and Nick Jonas hosted a star-studded Diwali gathering at their Los Angeles home. Her burgundy zardozi gown turned Indian craftsmanship into a sharp Hollywood-style statement."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-students-buy-gold-tickets-for-rs-4000-jamia-millia-islamia-itspc-3029336-2026-10-31",
       "headline": "No tickets, Rs 4,000 in hand: How 2 Jamia students made it to Diljit's concert Some came to New Delhi's Jawaharlal Nehru Stadium with tickets to see Diljit Dosanjh's performance, but there were many who turned up just hoping to find them. For two Jamia students, a chance encounter outside the concert venue turned into an unlikely bargain and a ticket to their favourite popstar's show."
     },
@@ -176,33 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/dont-teach-punjabis-how-to-fight-diljit-defends-im-an-artist-remark-at-delhi-show-3029001-2026-10-31",
       "headline": "Don't teach Punjabis how to fight: Diljit defends I'm an artist remark at Delhi show Singer Diljit Dosanjh addressed his 'I'm an artist bro' remark during the Aura India concert in New Delhi. The comment was connected to the Cockroach Janta Party-led student protest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ranbir-sai-pallavis-ramayana-gets-u-rating-with-zero-cuts-check-runtime-3028890-2026-10-30",
-      "headline": "Ranbir-Sai Pallavi's Ramayana gets U rating with zero cuts. Check runtime The Central Board of Film Certification (CBFC) has granted Nitesh Tiwari's Ramayana: Rise of a Legend a U certificate without seeking any cuts. The decision clears the 195-minute film for viewers of all ages."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-aura-concert-2026-live-updates-jln-stadium-delhi-india-tour-3028705-2026-10-30",
-      "headline": "Diljit Dosanjh Aura Concert: Drones, lasers light up Delhi show amid rain Singer Diljit Dosanjh's Aura Concert has begun at New Delhi's Jawaharlal Nehru Stadium amid tight security and persistent rainfall. Nearly 2,000 private security personnel have been deployed around the venue to ensure smooth crowd management."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/reviews/story/nakhrewaalii-review-ansh-duggal-pragathi-srivasthava-cross-dressing-drama-lost-in-cliched-execution-3028506-2026-10-30",
-      "headline": "Nakhrewaalii review: Well-intended comedy-of-errors lost in redundant tropeRelease Date:Fri Oct 30, 2026 Nakhrewaalii movie review: Nakhrewaalii attempts to address patriarchal conditioning and female agency through a cross-dressing trope. With earnest performances by Ansh Duggal and Pragathi Srivasthava, director Rahul Shanklya's film uses humour to depict consent and patriarchal double standards."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/eetha-trailer-shraddha-kapoor-tamasha-legend-vithabai-narayangaonkar-3028474-2026-10-30",
-      "headline": "Eetha trailer: Shraddha Kapoor brings Maharashtra's Tamasha queen to life Shraddha Kapoor steps into the shoes of Maharashtra's legendary Lavani performer Vithabai in Eetha. The trailer offers a glimpse into the artist's extraordinary journey, struggles and legacy."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/gyanesh-kumar-must-be-tried-for-treason-kharge-after-reading-charges-against-cec-at-mock-impeachment-event-3029330-2026-10-31",
-      "headline": "Gyanesh must face treason trial: Kharge lists 6 charges at mock impeachment event Live UpdatesCongress president Mallikarjun Kharge accused CEC Gyanesh Kumar of acting at the behest of PM Modi and Amit Shah, facilitating alleged vote theft, and said he should be tried for treason during the INDIA bloc's symbolic public impeachment proceedings."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-india-transit-corridor-nahid-islam-ganges-water-treaty-ptag-3029228-2026-10-31",
+      "headline": "Bangladesh leader Nahid Islam opposes Indian transit corridor, seeks fair water dealNahid Islam warned the Bangladesh government against facilitating an Indian transit corridor. His remarks linked regional connectivity concerns with demands for equitable Ganges water sharing."
     },
     {
       "sentiment": "positive",
@@ -211,13 +211,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/pune/story/pune-pimpri-chinchwad-mother-son-deaths-police-examine-recovered-note-3029225-2026-10-31",
-      "headline": "Pune woman jumps from 18th floor with 6-year-old son, note urges husband to remarryA woman and her six-year-old son died after falling from a residential building in Pimpri-Chinchwad. Police are examining a note recovered from her home and investigating the circumstances."
+      "url": "https://www.indiatoday.in/india/story/manipur-protests-cocomi-naga-groups-demand-scrapping-soo-agreement-kuki-zo-govt-resignation-bjp-3029270-2026-10-31",
+      "headline": "Want govt's resignation: Thousands rally in Manipur, issues 'final call' to CentreThousands of Meitei, Naga and other indigenous people rallied across Imphal, Senapati and Chandel, issuing a \"final call\" to the Centre and demanding the scrapping of the SoO agreement with Kuki groups, withdrawal of Assam Rifles and implementation of NRC with 1951 as the base year."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-students-buy-gold-tickets-for-rs-4000-jamia-millia-islamia-itspc-3029336-2026-10-31",
-      "headline": "No tickets, Rs 4,000 in hand: How 2 Jamia students made it to Diljit's concertSome came to New Delhi's Jawaharlal Nehru Stadium with tickets to see Diljit Dosanjh's performance, but there were many who turned up just hoping to find them. For two Jamia students, a chance encounter outside the concert venue turned into an unlikely bargain and a ticket to their favourite popstar's show."
+      "url": "https://www.indiatoday.in/india/story/azam-khan-arrest-ed-custody-after-bail-pan-card-money-laundering-case-3029544-2026-10-31",
+      "headline": "Punishment for being a Muslim: Azam Khan arrested moments after release on bailAzam Khan walked out of Rampur jail on bail on Saturday, only to be arrested by the ED in a money laundering case moments later. The SP leader will be produced before a special court in Ghaziabad on Sunday."
     },
     {
       "sentiment": "negative",
@@ -226,23 +226,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-da-hike-63-percent-16-lakh-beneficiaries-diwali-3029560-2026-10-31",
+      "headline": "Vijay government's Diwali bonanza, raises DA to 63% for 16 lakh peopleThe decision follows a similar increase for central government employees, whose DA was raised from 60 per cent to 63 per cent with effect from the July 1, 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-students-buy-gold-tickets-for-rs-4000-jamia-millia-islamia-itspc-3029336-2026-10-31",
+      "headline": "No tickets, Rs 4,000 in hand: How 2 Jamia students made it to Diljit's concertSome came to New Delhi's Jawaharlal Nehru Stadium with tickets to see Diljit Dosanjh's performance, but there were many who turned up just hoping to find them. For two Jamia students, a chance encounter outside the concert venue turned into an unlikely bargain and a ticket to their favourite popstar's show."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/israel-election-results-netanyahu-next-steps-what-it-means-for-india-3029359-2026-10-31",
+      "headline": "Netanyahu falls short. What's next for Israel, what it means for IndiaIsraeli voters did not give PM Benjamin Netanyahu a majority. They did not reject him either. The uncertainty has thrown up several questions. What lies ahead for Netanyahu? More importantly, what does it mean for India? We simplify the situation for you."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-pradesh-school-attack-class-10-girl-injured-accused-arrested-3029254-2026-10-31",
       "headline": "Andhra school horror: Man attacks Class 10 girl with chainsaw, cuts her throatThe injured girl was rushed to Anantapur Hospital, where she is currently undergoing treatment. Chief Minister N Chandrababu Naidu expressed shock, saying he was personally monitoring the girl's recovery."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-bloc-public-impeachment-live-updates-cec-row-gyanesh-kumar-rahul-gandhi-mallikarjun-kharge-congress-3029266-2026-10-31",
-      "headline": "Live: Kharge demands CEC Gyanesh Kumar's ouster, says he betrayed peopleINDIA Bloc Meet Live Updates: The INDIA bloc is holding a symbolic public impeachment of Chief Election Commissioner Gyanesh Kumar in New Delhi, accusing him of electoral irregularities and undermining voters' rights. The proceedings, presided over by former Lok Sabha Speaker Meira Kumar, began with Congress president Mallikarjun Kharge moving a motion seeking the CEC's removal. The Opposition's protest centres on alleged irregularities in the SIR exercise and claims of vote theft. The programme comes ahead of the INDIA bloc's November 1 rally at Ramlila Maidan, where it plans to intensify its campaign against the Election Commission. Catch all the live updates on indiatoday.in"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/male-candidate-sneaks-cheating-device-into-jhansi-exam-in-sanitary-napkin-caught-3029347-2026-10-31",
-      "headline": "Male candidate uses sanitary napkin to sneak cheating device into Jhansi examAn invigilator's suspicion over a buzzing sound led to the discovery of an electronic device on a male candidate during an examination in Jhansi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/isro-imd-insat-3ds-satellite-bay-of-bengal-weather-system-rain-storm-3029202-2026-10-31",
-      "headline": "Isro satellite captures new system building up days after Cyclone ArnabIndia's INSAT-3DS satellite has captured an organised cloud system over the southeast Bay of Bengal, days after Cyclone Arnab. The IMD expects it to strengthen into a depression soon."
     },
     {
       "sentiment": "positive",
@@ -256,33 +256,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-aura-tour-rebellion-attitude-punjabi-identity-indian-global-pop-music-itspc-3029220-2026-10-31",
-      "headline": "Diljit Dosanjh refuses to play by anyone else's rules. Delhi concert proves itDiljit Dosanjh's Delhi concert was about much more than music. From carrying his Punjabi identity onto the world's biggest stages to taking digs at critics, the Desi superstar showed why he has little interest in playing by anyone else's rules."
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-cec-gyanesh-kumar-impeachment-election-rigging-mock-parliament-3029477-2026-10-31",
+      "headline": "Won't let you escape: Rahul warns CEC; BJP calls mock Parliament a hallucinationFormer Lok Sabha Speaker Meira Kumar presided over the 'mock Parliament', where Kharge moved a resolution seeking Kumar's removal, which was adopted at the end of the session."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sanjay-gupta-dies-tushar-kapoor-sonu-sood-resul-pookutty-pay-tribute-3029187-2026-10-31",
-      "headline": "Sanjay Gupta dies at 57: Sanjay Dutt, Kangana Ranaut among others pay tributeFilmmakers and actors have paid tribute to Sanjay Gupta after his death at 57. Sanjay Dutt, Kangana Ranaut, Anupam Kher, Hansal Mehta and others remembered the director and his love for cinema."
+      "url": "https://www.indiatoday.in/india/story/kangana-ranaut-congratulates-couple-omar-abdullah-nidhi-razdan-marriage-3029469-2026-10-31",
+      "headline": "BJP MP Kangana Ranaut congratulates newlyweds Omar Abdullah, Nidhi RazdanKangana Ranaut congratulated Omar Abdullah and Nidhi Razdan after they announced their marriage. The family-attended ceremony was solemnised under the Special Marriage Act in New Delhi."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/haryana-school-attack-special-needs-kg-girl-critically-injured-3029095-2026-10-31",
-      "headline": "Class 3 boy hits KG girl with stone, flowerpot, drags her around in Haryana schoolFollowing the attack, the girl was taken to the Civil Hospital in Sector 6. After initial treatment, doctors referred her to the Postgraduate Institute of Medical Education and Research (PGIMER) in Chandigarh, considering the seriousness of her injuries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-protest-anti-india-slogans-ncp-tarique-rahman-power-crisis-3029188-2026-10-31",
-      "headline": "'Dilli na Dhaka' slogans return in Bangladesh as Tarique Rahman faces protestsAnti-India slogans were raised at a massive protest rally organised by the National Citizen Party, which was born out of the 2024 student-led uprising that led to the ouster of former prime minister Sheikh Hasina. What is the reason behind it?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/piyush-goyal-foreign-deputy-pm-daughter-bollywood-ambitions-3029300-2026-10-31",
-      "headline": "Video: Piyush Goyal shares Bollywood anecdote to praise India's soft powerThe statement came days after Goyal's pitch to Dutch investors at the India-Netherlands Business Forum sparked a debate over working hours and work-life balance."
+      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-bihar-concert-delayed-crowd-management-security-concerns-3029575-2026-10-31",
+      "headline": "Organisers wouldn't own crowd control: Diljit on why Bihar concert plan fell throughDiljit Dosanjh revealed why his planned Bihar concert could not proceed. Crowd management and security responsibility remain the key hurdles."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/jobs/in-focus/story/ahmedabad-couples-cold-coco-business-earns-rs-6-lakh-monthly-from-rs-3000-investment-3029201-2026-10-31",
-      "headline": "She quit her job, they started selling cold cocoa from a car. Now they earn Rs 6 lakhAn Ahmedabad couple started The Coco Station in July 2025 with just Rs 2,000 to Rs 3,000, selling cold cocoa from their car after office hours. Darshan and Shruti Zinzuvadiya now sell around 150 bottles daily, generating nearly Rs 6 lakh in monthly revenue, according to reports."
+      "url": "https://www.indiatoday.in/cities/pune/story/pune-pimpri-chinchwad-mother-son-deaths-police-examine-recovered-note-3029225-2026-10-31",
+      "headline": "Pune woman jumps from 18th floor with 6-year-old son, note urges husband to remarryA woman and her six-year-old son died after falling from a residential building in Pimpri-Chinchwad. Police are examining a note recovered from her home and investigating the circumstances."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cjp-abhijeet-dipke-meets-mamata-banerjee-delhi-backs-india-bloc-vote-chori-rally-but-refuses-to-join-protest-at-ramlila-maidan-3029609-2026-10-31",
+      "headline": "Abhijeet Dipke meets Mamata Banerjee, says CJP won't join INDIA bloc rallyAbhijeet Dipke met Mamata Banerjee in Delhi and backed the INDIA bloc rally. The CJP will stay away to preserve its independent, politically neutral identity."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/isro-imd-insat-3ds-satellite-bay-of-bengal-weather-system-rain-storm-3029202-2026-10-31",
+      "headline": "Isro satellite captures new system building up days after Cyclone ArnabIndia's INSAT-3DS satellite has captured an organised cloud system over the southeast Bay of Bengal, days after Cyclone Arnab. The IMD expects it to strengthen into a depression soon."
     },
     {
       "sentiment": "positive",
@@ -291,8 +291,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/sam-altman-says-it-is-terrible-your-pc-uses-ram-while-ai-data-centres-run-short-of-supply-3029322-2026-10-31",
-      "headline": "Sam Altman says it is terrible your PC uses RAM while AI data centres run short of supplyOpenAI CEO Sam Altman believes the world's limited memory supply would be better utilised in AI data centres than sitting idle in personal computers. His comments come as growing demand from AI companies puts pressure on memory supplies, raising costs for smartphones, laptops and other devices."
+      "url": "https://www.indiatoday.in/technology/news/story/cisco-gives-gen-z-employee-unlimited-ai-tokens-to-rewrite-all-of-companys-code-3028580-2026-10-30",
+      "headline": "Cisco gives Gen Z employee unlimited AI tokens to rewrite all of company's codeCisco has given 27-year-old former startup founder Padmanabhan Krishnamurthy unlimited AI tokens to rewrite 98 per cent of its legacy code within 24 months. President Jeetu Patel believes younger employees can bring fresh ideas and challenge traditional ways of working."
     },
     {
       "sentiment": "positive",
@@ -306,65 +306,120 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/cisco-gives-gen-z-employee-unlimited-ai-tokens-to-rewrite-all-of-companys-code-3028580-2026-10-30",
-      "headline": "Cisco gives Gen Z employee unlimited AI tokens to rewrite all of company's codeCisco has given 27-year-old former startup founder Padmanabhan Krishnamurthy unlimited AI tokens to rewrite 98 per cent of its legacy code within 24 months. President Jeetu Patel believes younger employees can bring fresh ideas and challenge traditional ways of working."
+      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-aura-tour-rebellion-attitude-punjabi-identity-indian-global-pop-music-itspc-3029220-2026-10-31",
+      "headline": "Diljit Dosanjh refuses to play by anyone else's rules. Delhi concert proves itDiljit Dosanjh's Delhi concert was about much more than music. From carrying his Punjabi identity onto the world's biggest stages to taking digs at critics, the Desi superstar showed why he has little interest in playing by anyone else's rules."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/alice-huang-jensen-huang-nvidia-us-china-espionage-probe-3029178-2026-10-31",
-      "headline": "Alice Huang: Nvidia CEO's aide and 'spy' accused of smuggling microchips to ChinaA suspected China-linked chip-smuggling network has put Nvidia CEO Jensen Huang in the spotlight. At its centre is Chinese businesswoman Alice Huang, whose reported access to the tech boss has drawn US intelligence scrutiny."
+      "url": "https://www.indiatoday.in/world/story/us-warns-of-planned-mass-casualty-terror-attack-at-tsaritsyno-museum-reserve-in-moscow-russia-3029535-2026-10-31",
+      "headline": "US warns Russia of planned 'mass casualty' terror threat at Moscow museumThe United States alerted Russia to preparations for a terrorist attack in Moscow. The warning prompted security measures and coordination over a credible mass casualty threat."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-space-startups-funding-satellite-engines-navigation-chips-inspace-3029271-2026-10-31",
-      "headline": "IN-SPACe backs four Indian startups with Rs 67 crore. What are they building?From iodine-powered satellite engines to chips compatible with GPS and NavIC, four Indian firms will be developing technologies after receiving significant funding."
+      "url": "https://www.indiatoday.in/india/story/india-bloc-mega-rally-against-cec-gyanesh-kumar-sir-delhi-ramlila-maidan-congress-rahul-gandhi-traders-association-3029504-2026-10-31",
+      "headline": "INDIA bloc gears up for mega rally against CEC, SIR at Delhi's Ramlila MaidanThe 'Vote Bachao, Desh Bachao' mobilisation will feature a noon march from Minto Road to Ramlila Maidan, where the rally is scheduled between 10 am and 5 pm."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-lakshya-sen-reach-hylo-open-2026-singles-finals-3029612-2026-10-31",
+      "headline": "PV Sindhu, Lakshya Sen storm into final as India brace for Super Sunday PV Sindhu and Lakshya Sen stormed into the Hylo Open 2026 finals with straight-game victories in their respective women's and men's singles semifinals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/video/kapil-dev-backs-pgti-business-today-tie-up-as-bt-golf-enters-27th-season-ytvd-3029599-2026-10-31",
+      "headline": "Kapil Dev Backs PGTI & Business Today Tie-Up as BT Golf Enters 27th Season Former cricket captain Kapil Dev has teamed up with Business Today Golf and the Professional Golf Tour of India to launch the 27th season of the corporate tournament. Unveiled at the Qutub Golf Course in New Delhi, the collaboration connects professional golf expertise with corporate leadership. The upcoming season is scheduled to travel across major Indian cities, opening in Kolkata before heading to Chandigarh, Hyderabad, New Delhi, Chennai, Kochi, and Mumbai. Speaking on the sport's rapid growth and infrastructure needs, speakers highlighted the role of corporate support and media in sustaining golf. The initiative aims to provide executives and professionals a platform to network and compete away from boardroom pressures."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-australia-temba-bavuma-series-win-travis-head-instagram-troll-3029580-2026-10-31",
+      "headline": "How Travis Head trolled Temba Bavuma on Instagram and Australia paid the price Travis Head's cheeky Instagram troll of Temba Bavuma backfired spectacularly as the South African captain inspired a stunning 2-1 series comeback against Australia. The Proteas not only clinched the series but also dethroned Australia to reclaim the No.1 spot in Test cricket."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-vs-chelsea-michael-carrick-pressure-premier-league-defeat-3029555-2026-10-31",
+      "headline": "Manchester United stumble against Chelsea as pressure mounts on Michael Carrick Manchester United suffered a 2-0 defeat to Chelsea, extending their winless run to nine matches in all competitions and intensifying pressure on manager Michael Carrick."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-australia-temba-bavuma-test-series-victory-3029534-2026-10-31",
+      "headline": "South Africa thrive under pressure: Temba Bavuma reflects on Australia Test series win Temba Bavuma credited South Africa's resilience and fighting spirit for their remarkable 2-1 comeback series victory over Australia after losing the opening Test. The Proteas reclaimed the No.1 spot in the ICC Test rankings for the first time in 10 years, with Bavuma calling it a significant team milestone."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/kimi-antonelli-mexico-city-gp-preview-youngest-f1-world-champion-3029481-2026-10-31",
+      "headline": "The boy chasing history: Kimi Antonelli's shot at F1 immortality Kimi Antonelli arrives at the Mexico City Grand Prix on the brink of Formula One history. The 20-year-old Mercedes driver needs just two points to become the sport's youngest world champion and end Italy's 73-year wait for an F1 title."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-wtc-final-qualification-scenarios-south-africa-australia-series-win-3029501-2026-10-31",
+      "headline": "India face tricky WTC final road after South Africa's Cape Town Test win: Here's how India's WTC 2025-27 final hopes have taken a hit following South Africa's series-clinching win over Australia, leaving Shubman Gill's men with little room for error in their remaining seven Tests."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/simon-harmer-emotional-10-wicket-haul-south-africa-vs-australia-test-3029498-2026-10-31",
+      "headline": "Simon Harmer fights back tears after maiden 10-wicket haul against Australia Simon Harmer fought back tears after taking his maiden 10-wicket haul against Australia. The South African spinner reflected on a difficult career journey, his years playing county cricket and his return to Test cricket."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/india-hockey-saffron-jersey-row-bhola-nath-dilip-tirkey-3029471-2026-10-31",
+      "headline": "Saffron jersey row: Bhola Nath disputes Tirkey's claim of being kept in the dark Hockey India secretary general Bhola Nath Singh has contradicted president Dilip Tirkey over India's controversial switch from blue to saffron jerseys before the World Cup, claiming Tirkey was aware of the decision and its approval process."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-beat-australia-cape-town-test-no-1-icc-ranking-simon-harmer-3029454-2026-10-31",
+      "headline": "South Africa boss Australia to win Test series, reclaim No.1 ranking after 10 years SA vs AUS, 3rd Test: South Africa defeated Australia by 176 runs in the third Test in Cape Town to clinch the series 2-1 and reclaim the No.1 spot in the ICC Test rankings for the first time since January 2016."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/grace-harris-up-warriorz-wpl-2027-auction-anjum-chopra-3029378-2026-10-31",
+      "headline": "Grace Harris an absolute steal at WPL auction: Anjum Chopra credits UP Warriorz Anjum Chopra has called Grace Harris an \"absolute steal\" for UP Warriorz after the franchise secured the Australian all-rounder for just Rs 30 lakh at the WPL 2027 auction. Harris returns to UP after a season with RCB, having taken a significant pay cut."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-womens-cricket-amol-muzumdar-targets-world-dominance-world-cup-win-3029306-2026-10-31",
-      "headline": "India Women want to dominate world cricket: Muzumdar lays down ruthless vision Head coach Amol Muzumdar wants India to move beyond winning major tournaments and establish themselves as the dominant force in world cricket, with a ruthless approach on the field."
+      "headline": "India Women want to dominate world cricket: Muzumdar lays down ruthless visionHead coach Amol Muzumdar wants India to move beyond winning major tournaments and establish themselves as the dominant force in world cricket, with a ruthless approach on the field."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/manisha-bhanwala-father-world-championships-gold-medal-interview-3029280-2026-10-31",
-      "headline": "Worlds medal in pocket, father in heart: Manisha Bhanwala promises Olympic glory Manisha Bhanwala became the first Indian woman to win a World Championships gold, but her thoughts after the historic 59kg triumph were with her late father. She now has her sights set on Los Angeles 2028, where she hopes to fulfil another dream."
+      "headline": "Worlds medal in pocket, father in heart: Manisha Bhanwala promises Olympic gloryManisha Bhanwala became the first Indian woman to win a World Championships gold, but her thoughts after the historic 59kg triumph were with her late father. She now has her sights set on Los Angeles 2028, where she hopes to fulfil another dream."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-2nd-unofficial-test-match-report-day-1-jurel-3029215-2026-10-31",
-      "headline": "Defiant Dhruv Jurel stands tall to keep India-A ahead on Day 1 Dhruv Jurel's unbeaten 99 helped India A recover from a middle-order collapse and finish Day 1 of the second unofficial Test against New Zealand A at 291/7. Courtesy of his knock, India were put in a strong position."
+      "headline": "Defiant Dhruv Jurel stands tall to keep India-A ahead on Day 1Dhruv Jurel's unbeaten 99 helped India A recover from a middle-order collapse and finish Day 1 of the second unofficial Test against New Zealand A at 291/7. Courtesy of his knock, India were put in a strong position."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/an-se-young-profile-badminton-unbeatable-great-south-korea-3029189-2026-10-31",
-      "headline": "Racket Science: Inside An Se Young's extraordinary badminton dominance From defensive teenager to badminton's most formidable force, An Se Young has rebuilt her game through relentless evolution, exceptional movement and remarkable consistency. Now even the world's best are left asking how to beat the Olympic champion."
+      "headline": "Racket Science: Inside An Se Young's extraordinary badminton dominanceFrom defensive teenager to badminton's most formidable force, An Se Young has rebuilt her game through relentless evolution, exceptional movement and remarkable consistency. Now even the world's best are left asking how to beat the Olympic champion."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/other-sports/story/badminton-coach-gaurav-khanna-hits-back-asian-para-games-medal-prediction-row-3029179-2026-10-31",
-      "headline": "Indian para badminton coach hits back after players seek action over medal prediction Indian para badminton coach Gaurav Khanna has rejected allegations that his Asian Para Games medal prediction affected players' morale, alleging that the controversy is an attempt to discredit him after he flagged irregularities in team selection."
+      "headline": "Indian para badminton coach hits back after players seek action over medal predictionIndian para badminton coach Gaurav Khanna has rejected allegations that his Asian Para Games medal prediction affected players' morale, alleging that the controversy is an attempt to discredit him after he flagged irregularities in team selection."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/auqib-nabi-india-odi-squad-vs-new-zealand-prasidh-krishna-injury-3029120-2026-10-31",
-      "headline": "Auqib Nabi replaces Prasidh Krishna in ODI squad, set to play full series Fast bowler Auqib Nabi has been moved into India's squad for the first three ODIs against New Zealand, making him part of the group for the entire five-match series. He steps in after Prasidh Krishna was ruled out with a hamstring injury, with the India pacer now focused on recovering for the Tests."
+      "headline": "Auqib Nabi replaces Prasidh Krishna in ODI squad, set to play full seriesFast bowler Auqib Nabi has been moved into India's squad for the first three ODIs against New Zealand, making him part of the group for the entire five-match series. He steps in after Prasidh Krishna was ruled out with a hamstring injury, with the India pacer now focused on recovering for the Tests."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-new-zealand-a-2nd-unofficial-test-day-1-result-yashasvi-jaiswal-3029103-2026-10-31",
-      "headline": "17, 5, 0: Yashasvi Jaiswal's batting crisis deepens ahead of Test series Yashasvi Jaiswal's batting struggles deepened as he registered another failure in the second unofficial Test against New Zealand A. With three successive disappointing innings on the tour, the India opener faces mounting pressure to find form ahead of the two-match Test series."
+      "headline": "17, 5, 0: Yashasvi Jaiswal's batting crisis deepens ahead of Test seriesYashasvi Jaiswal's batting struggles deepened as he registered another failure in the second unofficial Test against New Zealand A. With three successive disappointing innings on the tour, the India opener faces mounting pressure to find form ahead of the two-match Test series."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/harmanpreet-singh-india-vs-japan-hockey-jalandhar-sarpanch-3029092-2026-10-31",
-      "headline": "One and done: Sarpanch Harmanpreet Singh shows what sets him apart in Jalandhar Harmanpreet Singh needed just one penalty corner to turn the tide against Japan in Jalandhar. India's captain stayed patient under pressure before delivering the decisive drag-flick, showing why his calm mindset sets him apart."
+      "headline": "One and done: Sarpanch Harmanpreet Singh shows what sets him apart in JalandharHarmanpreet Singh needed just one penalty corner to turn the tide against Japan in Jalandhar. India's captain stayed patient under pressure before delivering the decisive drag-flick, showing why his calm mindset sets him apart."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshis-success-with-indian-team-jayasuriya-3029093-2026-10-31",
-      "headline": "Freedom key to Vaibhav Sooryavanshi's success with Indian team: Jayasuriya Sanath Jayasuriya has urged India to give Vaibhav Sooryavanshi the freedom to play his natural game, calling the teenager a good investment for the future. The former Sri Lanka captain also shared his views on Abhishek Sharma and the growing dominance of batters in white-ball cricket."
+      "headline": "Freedom key to Vaibhav Sooryavanshi's success with Indian team: JayasuriyaSanath Jayasuriya has urged India to give Vaibhav Sooryavanshi the freedom to play his natural game, calling the teenager a good investment for the future. The former Sri Lanka captain also shared his views on Abhishek Sharma and the growing dominance of batters in white-ball cricket."
     },
     {
       "sentiment": "positive",
@@ -410,61 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/yuvraj-singh-backs-abhishek-sharma-ishan-kishan-vaibhav-sooryavanshi-for-india-odis-3028852-2026-10-30",
       "headline": "Sooryavanshi-Abhishek for ODIs: Yuvraj Singh wants India to take big stepYuvraj Singh has backed Vaibhav Sooryavanshi, Abhishek Sharma and Ishan Kishan for ODI opportunities, saying India are not doing justice to their talent by leaving them out of the 50-over setup."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/glenn-phillips-ipl-gujarat-titans-success-vs-india-t20is-3028830-2026-10-30",
-      "headline": "Glenn Phillips credits IPL stint with Gujarat Titans for success vs India in T20IsGlenn Phillips may have had limited opportunities with Gujarat Titans in IPL 2026, but the New Zealand batter believes the experience helped shape his impressive run against India, where he has emerged as the leading scorer with 276 runs in four matches."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sairaj-bahutule-kuldeep-yadav-varun-chakravarthy-india-new-zealand-t20i-3028819-2026-10-30",
-      "headline": "India spin coach explains why Kuldeep, Varun were benched in NZ T20IsKuldeep Yadav and Varun Chakravarthy remain prepared but are not guaranteed game time in India's T20I series against New Zealand. Spin coach Sairaj Bahutule says team combinations will determine whether the two get a chance in Hamilton."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/robin-uthappa-mumbai-indians-batting-coach-ipl-revival-3028816-2026-10-30",
-      "headline": "MI are underdogs again, Robin Uthappa wants to win back fans' trustRobin Uthappa wants to help Mumbai Indians rebuild after their disappointing IPL 2026 campaign. The new batting coach is determined to win back fans' trust, restore MI's fear factor away from home and empower the franchise's domestic talent."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/wrestling-world-championships-manisha-bhanwala-gold-medal-3028800-2026-10-30",
-      "headline": "Manisha Bhanwala fulfils late father's dream with historic wrestling Worlds gold29-year-old Manisha Bhanwala scripted history with India's first women's World Championships gold, defeating USA's Abigail Nette in the 59kg final in Astana. Four years after losing her father, the man who inspired her wrestling journey, she has fulfilled a dream they shared."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-japan-live-score-asian-hockey-champions-trophy-jalandhar-3028703-2026-10-30",
-      "headline": "India beat Japan 4-1, make it 3 out of 3 in JalandharIndia vs Japan, Asian Champions Trophy: India beat Japan 4-1 after scoring three goals in the last quarter in Jalandhar. With the win, India have won all their three matches, having also beaten Bangladesh and China."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-shreyas-iyer-india-batting-collapse-auckland-4th-t20i-3028671-2026-10-30",
-      "headline": "India's batting collapse gets no mention as Shreyas Iyer reflects on Auckland defeatShreyas Iyer focused on India's bowling struggles and Glenn Phillips' stunning century after the 87-run defeat to New Zealand in the fourth T20I. The captain offered no assessment of India's batting collapse as the visitors fell well short of 260."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/axar-patel-first-indian-3000-runs-300-wickets-t20-cricket-history-new-zealand-auckland-3028639-2026-10-30",
-      "headline": "Axar Patel fails in Auckland, but makes T20 history for India with 300 wicketsAxar Patel became the first Indian cricketer to complete the double of 3,000 runs and 300 wickets in men's T20 cricket during the fourth T20I against New Zealand in Auckland. However, his historic milestone came on a difficult day as India suffered an 87-run defeat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-score-4th-t20i-shreyas-iyer-auckland-3028601-2026-10-30",
-      "headline": "Shreyas Iyer has a day to forget as India slip to their 2nd biggest T20I defeatNew Zealand vs India, 4th T20I: India conceded a record 259 before limping to 172 for 9 in reply, suffering an 87-run defeat. Captain Shreyas Iyer endured another disappointing outing as his lean run with the bat continued."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/neeraj-chopra-ankle-injury-training-rehabilitation-return-3028586-2026-10-30",
-      "headline": "Neeraj Chopra to resume training and rehabilitation in next couple of weeksNeeraj Chopra is closing in on a return to training after a frustrating few months on the sidelines. The two-time Olympic medallist said his ankle injury has improved significantly and he hopes to begin training and rehabilitation in the next couple of weeks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jemimah-rodrigues-fit-india-south-africa-tour-hamstring-injury-3028549-2026-10-30",
-      "headline": "Jemimah Rodrigues recovers from hamstring injury, boosts India before South Africa tourJemimah Rodrigues has declared herself fit after three months of rehabilitation following a hamstring injury sustained during The Hundred in August. Her recovery is a timely boost for India ahead of their multi-format tour of South Africa in December, after missing the Asia Cup, Asian Games and Zimbabwe series."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-play-under-rohit-sharma-captaincy-mumbai-indians-ipl-trade-deal-3028545-2026-10-30",
-      "headline": "Hardik Pandya ready to play for MI under Rohit Sharma if trade deal falls throughHardik Pandya is reportedly willing to continue at Mumbai Indians and play under Rohit Sharma's captaincy if a proposed trade move falls through. The development could set up an interesting reunion ahead of IPL 2027."
     }
   ],
   "education": [
