@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/one-film-wasnt-enough-heartbroken-hrithik-roshan-mourns-kaabil-director-sanjay-gupta-3029629-2026-10-31",
+      "headline": "One film wasn't enough: Heartbroken Hrithik mourns Kaabil director Sanjay Gupta Hrithik Roshan paid tribute to filmmaker Sanjay Gupta after his sudden death. The actor recalled their Kaabil collaboration with gratitude and heartbreak."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-bihar-concert-delayed-crowd-management-security-concerns-3029575-2026-10-31",
       "headline": "Organisers wouldn't own crowd control: Diljit on why Bihar concert plan fell through Diljit Dosanjh revealed why his planned Bihar concert could not proceed. Crowd management and security responsibility remain the key hurdles."
     },
@@ -191,14 +196,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-rain-logistics-chaos-bms-queues-aura-tour-opener-jln-stadium-itspc-3029063-2026-10-31",
       "headline": "Diljit Dosanjh's Delhi concert had rain, long queues and one hell of a show Diljit Dosanjh's Delhi concert had all the ingredients of a grand spectacle \u2014 dazzling lights, roaring fans, and a setlist spanning his early Punjabi hits to his biggest chartbusters. It was the singer's easy rapport with the crowd, impromptu fan moments, and celebration of his Punjabi roots that gave the opening night of his Aura Tour its character."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/dont-teach-punjabis-how-to-fight-diljit-defends-im-an-artist-remark-at-delhi-show-3029001-2026-10-31",
-      "headline": "Don't teach Punjabis how to fight: Diljit defends I'm an artist remark at Delhi show Singer Diljit Dosanjh addressed his 'I'm an artist bro' remark during the Aura India concert in New Delhi. The comment was connected to the Cockroach Janta Party-led student protest."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-bloc-mega-rally-against-cec-gyanesh-kumar-sir-delhi-ramlila-maidan-congress-rahul-gandhi-traders-association-3029504-2026-10-31",
+      "headline": "14 security zones, 4,000 cops, 200 cameras: Delhi gears up for INDIA bloc rallyThe 'Vote Bachao, Desh Bachao' mobilisation will feature a noon march from Minto Road to Ramlila Maidan, where the rally is scheduled between 10 am and 5 pm."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/manipur-protests-cocomi-naga-groups-demand-scrapping-soo-agreement-kuki-zo-govt-resignation-bjp-3029270-2026-10-31",
+      "headline": "Want govt's resignation: Thousands rally in Manipur, issues 'final call' to CentreThousands of Meitei, Naga and other indigenous people rallied across Imphal, Senapati and Chandel, issuing a \"final call\" to the Centre and demanding the scrapping of the SoO agreement with Kuki groups, withdrawal of Assam Rifles and implementation of NRC with 1951 as the base year."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iranian-envoys-meet-qatari-mediators-as-us-strike-threat-looms-after-midterms-3029651-2026-11-01",
+      "headline": "Iran, Qatar hold fresh talks as threat of US strikes looms after midtermsIranian and Qatari officials held fresh talks in Doha to seek an end to the Gulf conflict. The diplomacy continues as Tehran boosts military readiness and the region fears renewed US strikes."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/bangladesh-india-transit-corridor-nahid-islam-ganges-water-treaty-ptag-3029228-2026-10-31",
@@ -208,26 +223,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/jammu-kashmir-cm-omar-abdullah-journalist-nidhi-razdan-wedding-3029297-2026-10-31",
       "headline": "J&K Chief Minister Omar Abdullah marries journalist Nidhi RazdanJammu and Kashmir Chief Minister Omar Abdullah has announced his marriage to journalist Nidhi Razdan, sharing the news on social media on Saturday."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/manipur-protests-cocomi-naga-groups-demand-scrapping-soo-agreement-kuki-zo-govt-resignation-bjp-3029270-2026-10-31",
-      "headline": "Want govt's resignation: Thousands rally in Manipur, issues 'final call' to CentreThousands of Meitei, Naga and other indigenous people rallied across Imphal, Senapati and Chandel, issuing a \"final call\" to the Centre and demanding the scrapping of the SoO agreement with Kuki groups, withdrawal of Assam Rifles and implementation of NRC with 1951 as the base year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/azam-khan-arrest-ed-custody-after-bail-pan-card-money-laundering-case-3029544-2026-10-31",
-      "headline": "Punishment for being a Muslim: Azam Khan arrested moments after release on bailAzam Khan walked out of Rampur jail on bail on Saturday, only to be arrested by the ED in a money laundering case moments later. The SP leader will be produced before a special court in Ghaziabad on Sunday."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/labourer-denied-lift-access-made-to-carry-heavy-load-up-stairs-to-21st-floor-3029115-2026-10-31",
-      "headline": "Labourer denied lift access, made to carry heavy load up stairs to 21st floorA video showed a labourer carrying two concrete blocks up 21 floors while four lifts remained off-limits. The footage triggered criticism over labourers' treatment, dignity and alleged exploitation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-da-hike-63-percent-16-lakh-beneficiaries-diwali-3029560-2026-10-31",
-      "headline": "Vijay government's Diwali bonanza, raises DA to 63% for 16 lakh peopleThe decision follows a similar increase for central government employees, whose DA was raised from 60 per cent to 63 per cent with effect from the July 1, 2026."
     },
     {
       "sentiment": "positive",
@@ -241,8 +236,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-pradesh-school-attack-class-10-girl-injured-accused-arrested-3029254-2026-10-31",
-      "headline": "Andhra school horror: Man attacks Class 10 girl with chainsaw, cuts her throatThe injured girl was rushed to Anantapur Hospital, where she is currently undergoing treatment. Chief Minister N Chandrababu Naidu expressed shock, saying he was personally monitoring the girl's recovery."
+      "url": "https://www.indiatoday.in/india/story/cjp-abhijeet-dipke-meets-mamata-banerjee-delhi-backs-india-bloc-vote-chori-rally-but-refuses-to-join-protest-at-ramlila-maidan-3029609-2026-10-31",
+      "headline": "Abhijeet Dipke meets Mamata Banerjee, says CJP won't join INDIA bloc rallyAbhijeet Dipke met Mamata Banerjee in Delhi and backed the INDIA bloc rally. The CJP will stay away to preserve its independent, politically neutral identity."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/rajasthan-ias-ips-couple-corruption-probe-40-villas-cottages-deal-3029624-2026-10-31",
+      "headline": "40 villas, Rs 1.8 crore rent: Rajasthan IAS-IPS couple faces corruption probeA Rajasthan IAS-IPS couple is facing a corruption probe over 40 villas and cottages bought for Rs 6.16 crore. The Anti-Corruption Bureau is examining allegations that the deals were linked to official favours extended to the company."
     },
     {
       "sentiment": "positive",
@@ -256,6 +256,26 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-da-hike-63-percent-16-lakh-beneficiaries-diwali-3029560-2026-10-31",
+      "headline": "Vijay government's Diwali bonanza, raises DA to 63% for 16 lakh peopleThe decision follows a similar increase for central government employees, whose DA was raised from 60 per cent to 63 per cent with effect from the July 1, 2026."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/labourer-denied-lift-access-made-to-carry-heavy-load-up-stairs-to-21st-floor-3029115-2026-10-31",
+      "headline": "Labourer denied lift access, made to carry heavy load up stairs to 21st floorA video showed a labourer carrying two concrete blocks up 21 floors while four lifts remained off-limits. The footage triggered criticism over labourers' treatment, dignity and alleged exploitation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/azam-khan-arrest-ed-custody-after-bail-pan-card-money-laundering-case-3029544-2026-10-31",
+      "headline": "Punishment for being a Muslim: Azam Khan arrested moments after release on bailAzam Khan walked out of Rampur jail on bail on Saturday, only to be arrested by the ED in a money laundering case moments later. The SP leader will be produced before a special court in Ghaziabad on Sunday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-pradesh-school-attack-class-10-girl-injured-accused-arrested-3029254-2026-10-31",
+      "headline": "Andhra school horror: Man attacks Class 10 girl with chainsaw, cuts her throatThe injured girl was rushed to Anantapur Hospital, where she is currently undergoing treatment. Chief Minister N Chandrababu Naidu expressed shock, saying he was personally monitoring the girl's recovery."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/rahul-gandhi-cec-gyanesh-kumar-impeachment-election-rigging-mock-parliament-3029477-2026-10-31",
       "headline": "Won't let you escape: Rahul warns CEC; BJP calls mock Parliament a hallucinationFormer Lok Sabha Speaker Meira Kumar presided over the 'mock Parliament', where Kharge moved a resolution seeking Kumar's removal, which was adopted at the end of the session."
     },
@@ -263,6 +283,11 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/kangana-ranaut-congratulates-couple-omar-abdullah-nidhi-razdan-marriage-3029469-2026-10-31",
       "headline": "BJP MP Kangana Ranaut congratulates newlyweds Omar Abdullah, Nidhi RazdanKangana Ranaut congratulated Omar Abdullah and Nidhi Razdan after they announced their marriage. The family-attended ceremony was solemnised under the Special Marriage Act in New Delhi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-646-30-10-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "positive",
@@ -276,18 +301,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cjp-abhijeet-dipke-meets-mamata-banerjee-delhi-backs-india-bloc-vote-chori-rally-but-refuses-to-join-protest-at-ramlila-maidan-3029609-2026-10-31",
-      "headline": "Abhijeet Dipke meets Mamata Banerjee, says CJP won't join INDIA bloc rallyAbhijeet Dipke met Mamata Banerjee in Delhi and backed the INDIA bloc rally. The CJP will stay away to preserve its independent, politically neutral identity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/isro-imd-insat-3ds-satellite-bay-of-bengal-weather-system-rain-storm-3029202-2026-10-31",
-      "headline": "Isro satellite captures new system building up days after Cyclone ArnabIndia's INSAT-3DS satellite has captured an organised cloud system over the southeast Bay of Bengal, days after Cyclone Arnab. The IMD expects it to strengthen into a depression soon."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-646-30-10-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+      "url": "https://www.indiatoday.in/world/story/us-warns-of-planned-mass-casualty-terror-attack-at-tsaritsyno-museum-reserve-in-moscow-russia-3029535-2026-10-31",
+      "headline": "US warns Russia of planned 'mass casualty' terror threat at Moscow museumThe United States alerted Russia to preparations for a terrorist attack in Moscow. The warning prompted security measures and coordination over a credible mass casualty threat."
     },
     {
       "sentiment": "positive",
@@ -296,31 +311,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/jamia-protest-ends-union-constitution-deadline-student-disciplinary-action-withdrawn-3028853-2026-10-31",
-      "headline": "I came to Jamia for a better future. Now, I don't know what lies aheadHandcrafted ByOur Editors A student we met during our ground report at Jamia University recounts how protests and campus disruptions have unsettled his academic schedule, scholarship prospects and hopes for a better future. Read his account here..."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/telugu-film-music-pressure-viral-trends-homegrown-composers-3028606-2026-10-31",
-      "headline": "Is Telugu cinema music dying a slow death?Telugu cinema is increasingly turning to outside composers as homegrown talent struggles for major projects. The shift highlights heavy workloads, tight deadlines and growing pressure to prioritise viral success."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-aura-tour-rebellion-attitude-punjabi-identity-indian-global-pop-music-itspc-3029220-2026-10-31",
       "headline": "Diljit Dosanjh refuses to play by anyone else's rules. Delhi concert proves itDiljit Dosanjh's Delhi concert was about much more than music. From carrying his Punjabi identity onto the world's biggest stages to taking digs at critics, the Desi superstar showed why he has little interest in playing by anyone else's rules."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-warns-of-planned-mass-casualty-terror-attack-at-tsaritsyno-museum-reserve-in-moscow-russia-3029535-2026-10-31",
-      "headline": "US warns Russia of planned 'mass casualty' terror threat at Moscow museumThe United States alerted Russia to preparations for a terrorist attack in Moscow. The warning prompted security measures and coordination over a credible mass casualty threat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-bloc-mega-rally-against-cec-gyanesh-kumar-sir-delhi-ramlila-maidan-congress-rahul-gandhi-traders-association-3029504-2026-10-31",
-      "headline": "INDIA bloc gears up for mega rally against CEC, SIR at Delhi's Ramlila MaidanThe 'Vote Bachao, Desh Bachao' mobilisation will feature a noon march from Minto Road to Ramlila Maidan, where the rally is scheduled between 10 am and 5 pm."
+      "url": "https://www.indiatoday.in/science/story/isro-imd-insat-3ds-satellite-bay-of-bengal-weather-system-rain-storm-3029202-2026-10-31",
+      "headline": "Isro satellite captures new system building up days after Cyclone ArnabIndia's INSAT-3DS satellite has captured an organised cloud system over the southeast Bay of Bengal, days after Cyclone Arnab. The IMD expects it to strengthen into a depression soon."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-5th-t20i-preview-india-redemption-rotation-hamilton-3029446-2026-11-01",
+      "headline": "NZ vs IND 5th T20I Preview: India juggle redemption and rotation in Hamilton NZ vs IND 5th T20I Preview: India look to bounce back after their Auckland setback as Shreyas Iyer's side prepare for the fifth T20I against New Zealand in Hamilton. With rotation, selection calls and bowling concerns in focus, can the visitors finish the series on a high?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-beat-sri-lanka-fakhar-zaman-record-326-chase-odi-tri-series-final-india-3029639-2026-11-01",
+      "headline": "Pakistan equal India's historic Lord's chase record, clinch ODI tri-nation series Pakistan chased down 326 to defeat Sri Lanka by three wickets in Lahore and clinch the ODI tri-nation series title. The victory saw Pakistan equal India's record for the highest successful run chase in an ODI tournament final, set against England at Lord's in 2002."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-south-africa-pat-cummins-test-series-defeat-wtc-standings-3029634-2026-10-31",
+      "headline": "Australia need couple of weeks to digest South Africa series defeat: Pat Cummins Pat Cummins admitted Australia will need a couple of weeks to digest their 2-1 Test series defeat against South Africa after surrendering their advantage following a dominant start."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-vijay-hazare-trophy-mumbai-return-sri-lanka-odis-3029626-2026-10-31",
+      "headline": "Rohit Sharma set to play in Vijay Hazare Trophy after Sri Lanka ODI series Rohit Sharma has informed the Mumbai Cricket Association (MCA) of his availability for the Vijay Hazare Trophy after India's three-match ODI series against Sri Lanka in December."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-lakshya-sen-reach-hylo-open-2026-singles-finals-3029612-2026-10-31",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/simon-harmer-emotional-10-wicket-haul-south-africa-vs-australia-test-3029498-2026-10-31",
-      "headline": "Simon Harmer fights back tears after maiden 10-wicket haul against Australia Simon Harmer fought back tears after taking his maiden 10-wicket haul against Australia. The South African spinner reflected on a difficult career journey, his years playing county cricket and his return to Test cricket."
+      "headline": "Simon Harmer fights back tears after maiden 10-wicket haul against AustraliaSimon Harmer fought back tears after taking his maiden 10-wicket haul against Australia. The South African spinner reflected on a difficult career journey, his years playing county cricket and his return to Test cricket."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/india-hockey-saffron-jersey-row-bhola-nath-dilip-tirkey-3029471-2026-10-31",
-      "headline": "Saffron jersey row: Bhola Nath disputes Tirkey's claim of being kept in the dark Hockey India secretary general Bhola Nath Singh has contradicted president Dilip Tirkey over India's controversial switch from blue to saffron jerseys before the World Cup, claiming Tirkey was aware of the decision and its approval process."
+      "headline": "Saffron jersey row: Bhola Nath disputes Tirkey's claim of being kept in the darkHockey India secretary general Bhola Nath Singh has contradicted president Dilip Tirkey over India's controversial switch from blue to saffron jerseys before the World Cup, claiming Tirkey was aware of the decision and its approval process."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-beat-australia-cape-town-test-no-1-icc-ranking-simon-harmer-3029454-2026-10-31",
-      "headline": "South Africa boss Australia to win Test series, reclaim No.1 ranking after 10 years SA vs AUS, 3rd Test: South Africa defeated Australia by 176 runs in the third Test in Cape Town to clinch the series 2-1 and reclaim the No.1 spot in the ICC Test rankings for the first time since January 2016."
+      "headline": "South Africa boss Australia to win Test series, reclaim No.1 ranking after 10 yearsSA vs AUS, 3rd Test: South Africa defeated Australia by 176 runs in the third Test in Cape Town to clinch the series 2-1 and reclaim the No.1 spot in the ICC Test rankings for the first time since January 2016."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/grace-harris-up-warriorz-wpl-2027-auction-anjum-chopra-3029378-2026-10-31",
-      "headline": "Grace Harris an absolute steal at WPL auction: Anjum Chopra credits UP Warriorz Anjum Chopra has called Grace Harris an \"absolute steal\" for UP Warriorz after the franchise secured the Australian all-rounder for just Rs 30 lakh at the WPL 2027 auction. Harris returns to UP after a season with RCB, having taken a significant pay cut."
+      "headline": "Grace Harris an absolute steal at WPL auction: Anjum Chopra credits UP WarriorzAnjum Chopra has called Grace Harris an \"absolute steal\" for UP Warriorz after the franchise secured the Australian all-rounder for just Rs 30 lakh at the WPL 2027 auction. Harris returns to UP after a season with RCB, having taken a significant pay cut."
     },
     {
       "sentiment": "positive",
@@ -445,26 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sa-vs-aus-3rd-test-rickelton-mulder-centuries-australia-288-run-target-3028950-2026-10-30",
       "headline": "Rickelton, Mulder tons set up thrilling finish as SA hand Australia 288-run targetRyan Rickelton and Wiaan Mulder hit centuries to rescue South Africa from 181 for 5 and set Australia a 288-run target, leaving the third Test and the series on a knife-edge heading into the final day at Newlands."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rahul-dravid-saina-nehwal-ahmedabad-2030-commonwealth-games-organising-committee-3028940-2026-10-30",
-      "headline": "Rahul Dravid, Saina nominated by Sports Ministry to 2030 CWG Organising CommitteeThe Sports Ministry has nominated Rahul Dravid and Saina Nehwal to the proposed organising committee for the 2030 Ahmedabad Games. Their inclusion ensures athlete representation in the body overseeing preparations for the event."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shehbaz-sharif-trolled-pakistan-beat-india-hong-kong-sixes-2026-3028937-2026-10-30",
-      "headline": "Seriously? Pakistan PM trolled for celebrating Hong Kong Sixes win over IndiaPakistan PM Shehbaz Sharif was trolled on social media after congratulating Pakistan for their four-wicket win over India in the Hong Kong Sixes 2026. Fans questioned the celebrations, given Pakistan's struggles against India in international cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/james-anderson-lancashire-exit-retirement-remark-2027-3028909-2026-10-30",
-      "headline": "Would be nice if someone let me retire: Anderson after abrupt Lancashire exitJames Anderson was left shocked by Lancashire's decision to end their 25-year association, admitting he wanted to finish his career at Old Trafford. The England great is now waiting for someone to let him retire on his own terms."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/yuvraj-singh-backs-abhishek-sharma-ishan-kishan-vaibhav-sooryavanshi-for-india-odis-3028852-2026-10-30",
-      "headline": "Sooryavanshi-Abhishek for ODIs: Yuvraj Singh wants India to take big stepYuvraj Singh has backed Vaibhav Sooryavanshi, Abhishek Sharma and Ishan Kishan for ODI opportunities, saying India are not doing justice to their talent by leaving them out of the 50-over setup."
     }
   ],
   "education": [
