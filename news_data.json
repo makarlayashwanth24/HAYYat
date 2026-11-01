@@ -31,7 +31,7 @@
       "headline": "Four finance firms booked after labourer's suicide amid loan recovery claimsLatur police have booked officials and employees linked to four credit firms after a farm labourer's alleged suicide. The complaint accuses them of repeated repayment pressure and mental harassment."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/flipkart-kickbacks-walmart-investigation-rs-150-crore-financial-wrongdoing-report-3028547-2026-10-30",
       "headline": "Walmart investigates Flipkart staff over alleged financial wrongdoing: ReportAccording to the report, some Flipkart employees allegedly accepted payments and favours from brands in exchange for giving them preferential treatment on the platform."
     },
@@ -207,12 +207,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/manipur-protests-cocomi-naga-groups-demand-scrapping-soo-agreement-kuki-zo-govt-resignation-bjp-3029270-2026-10-31",
-      "headline": "Want govt's resignation: Thousands rally in Manipur, issues 'final call' to CentreThousands of Meitei, Naga and other indigenous people rallied across Imphal, Senapati and Chandel, issuing a \"final call\" to the Centre and demanding the scrapping of the SoO agreement with Kuki groups, withdrawal of Assam Rifles and implementation of NRC with 1951 as the base year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iranian-envoys-meet-qatari-mediators-as-us-strike-threat-looms-after-midterms-3029651-2026-11-01",
-      "headline": "Iran, Qatar hold fresh talks as threat of US strikes looms after midtermsIranian and Qatari officials held fresh talks in Doha to seek an end to the Gulf conflict. The diplomacy continues as Tehran boosts military readiness and the region fears renewed US strikes."
+      "headline": "Want govt's resignation: Thousands rally in Manipur, issue 'final call' to CentreThousands of Meitei, Naga and other indigenous people rallied across Imphal, Senapati and Chandel, issuing a \"final call\" to the Centre and demanding the scrapping of the SoO agreement with Kuki groups, withdrawal of Assam Rifles and implementation of NRC with 1951 as the base year."
     },
     {
       "sentiment": "positive",
@@ -221,18 +216,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iranian-envoys-meet-qatari-mediators-as-us-strike-threat-looms-after-midterms-3029651-2026-11-01",
+      "headline": "Iran, Qatar hold fresh talks as threat of US strikes looms after midtermsIranian and Qatari officials held fresh talks in Doha to seek an end to the Gulf conflict. The diplomacy continues as Tehran boosts military readiness and the region fears renewed US strikes."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/jammu-kashmir-cm-omar-abdullah-journalist-nidhi-razdan-wedding-3029297-2026-10-31",
       "headline": "J&K Chief Minister Omar Abdullah marries journalist Nidhi RazdanJammu and Kashmir Chief Minister Omar Abdullah has announced his marriage to journalist Nidhi Razdan, sharing the news on social media on Saturday."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-students-buy-gold-tickets-for-rs-4000-jamia-millia-islamia-itspc-3029336-2026-10-31",
-      "headline": "No tickets, Rs 4,000 in hand: How 2 Jamia students made it to Diljit's concertSome came to New Delhi's Jawaharlal Nehru Stadium with tickets to see Diljit Dosanjh's performance, but there were many who turned up just hoping to find them. For two Jamia students, a chance encounter outside the concert venue turned into an unlikely bargain and a ticket to their favourite popstar's show."
+      "url": "https://www.indiatoday.in/cities/story/43-women-rescued-as-hyderabad-police-bust-alleged-illegal-egg-donation-racket-8-arrested-3029648-2026-11-01",
+      "headline": "Hyderabad police bust alleged egg donation racket, rescue 43 women; 8 arrestedHyderabad police apprehended eight people and rescued 43 women in coordinated raids on an alleged interstate egg extraction racket. The probe is examining suspected exploitation, forged documents and links involving IVF centres and ART banks."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-election-results-netanyahu-next-steps-what-it-means-for-india-3029359-2026-10-31",
-      "headline": "Netanyahu falls short. What's next for Israel, what it means for IndiaIsraeli voters did not give PM Benjamin Netanyahu a majority. They did not reject him either. The uncertainty has thrown up several questions. What lies ahead for Netanyahu? More importantly, what does it mean for India? We simplify the situation for you."
+      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-students-buy-gold-tickets-for-rs-4000-jamia-millia-islamia-itspc-3029336-2026-10-31",
+      "headline": "No tickets, Rs 4,000 in hand: How 2 Jamia students made it to Diljit's concertSome came to New Delhi's Jawaharlal Nehru Stadium with tickets to see Diljit Dosanjh's performance, but there were many who turned up just hoping to find them. For two Jamia students, a chance encounter outside the concert venue turned into an unlikely bargain and a ticket to their favourite popstar's show."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/azam-khan-arrest-ed-custody-after-bail-pan-card-money-laundering-case-3029544-2026-10-31",
-      "headline": "Punishment for being a Muslim: Azam Khan arrested moments after release on bailAzam Khan walked out of Rampur jail on bail on Saturday, only to be arrested by the ED in a money laundering case moments later. The SP leader will be produced before a special court in Ghaziabad on Sunday."
+      "url": "https://www.indiatoday.in/world/story/uk-pm-burnham-open-to-slavery-apology-but-rejects-reparations-ahead-of-commonwealth-summit-3029653-2026-11-01",
+      "headline": "UK PM Andy Burnham open to slavery apology, rules out financial reparationsAndy Burnham has offered structured talks on a formal apology for Britain's role in the transatlantic slave trade. He rejected financial compensation but proposed improved debt arrangements for vulnerable countries."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-pradesh-school-attack-class-10-girl-injured-accused-arrested-3029254-2026-10-31",
-      "headline": "Andhra school horror: Man attacks Class 10 girl with chainsaw, cuts her throatThe injured girl was rushed to Anantapur Hospital, where she is currently undergoing treatment. Chief Minister N Chandrababu Naidu expressed shock, saying he was personally monitoring the girl's recovery."
+      "url": "https://www.indiatoday.in/world/story/israel-election-results-netanyahu-next-steps-what-it-means-for-india-3029359-2026-10-31",
+      "headline": "Netanyahu falls short. What's next for Israel, what it means for IndiaIsraeli voters did not give PM Benjamin Netanyahu a majority. They did not reject him either. The uncertainty has thrown up several questions. What lies ahead for Netanyahu? More importantly, what does it mean for India? We simplify the situation for you."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-cec-gyanesh-kumar-impeachment-election-rigging-mock-parliament-3029477-2026-10-31",
-      "headline": "Won't let you escape: Rahul warns CEC; BJP calls mock Parliament a hallucinationFormer Lok Sabha Speaker Meira Kumar presided over the 'mock Parliament', where Kharge moved a resolution seeking Kumar's removal, which was adopted at the end of the session."
+      "url": "https://www.indiatoday.in/world/story/quad-is-not-an-anti-china-or-anti-anybody-coalition-says-marco-rubio-3029645-2026-11-01",
+      "headline": "Quad not an anti-China or anti-anybody coalition, says Marco RubioMarco Rubio said after the Atlanta meeting that the Quad opposes behaviours, not countries. The grouping also prioritised supply-chain resilience, economic security and expanded Indo-Pacific cooperation."
     },
     {
       "sentiment": "positive",
@@ -306,8 +306,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/cisco-gives-gen-z-employee-unlimited-ai-tokens-to-rewrite-all-of-companys-code-3028580-2026-10-30",
-      "headline": "Cisco gives Gen Z employee unlimited AI tokens to rewrite all of company's codeCisco has given 27-year-old former startup founder Padmanabhan Krishnamurthy unlimited AI tokens to rewrite 98 per cent of its legacy code within 24 months. President Jeetu Patel believes younger employees can bring fresh ideas and challenge traditional ways of working."
+      "url": "https://www.indiatoday.in/world/story/gen-z-protests-sweep-germany-as-frankfurt-shops-looted-police-clash-with-rioters-3029652-2026-11-01",
+      "headline": "Gen Z protests sweep Germany over living costs, education, Frankfurt sees lootingGen Z-led demonstrations across Germany drew thousands, with looting reported in Frankfurt. The rallies highlighted demands over public services, living costs and compulsory military service."
     },
     {
       "sentiment": "positive",
@@ -316,8 +316,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/isro-imd-insat-3ds-satellite-bay-of-bengal-weather-system-rain-storm-3029202-2026-10-31",
-      "headline": "Isro satellite captures new system building up days after Cyclone ArnabIndia's INSAT-3DS satellite has captured an organised cloud system over the southeast Bay of Bengal, days after Cyclone Arnab. The IMD expects it to strengthen into a depression soon."
+      "url": "https://www.indiatoday.in/technology/news/story/cisco-gives-gen-z-employee-unlimited-ai-tokens-to-rewrite-all-of-companys-code-3028580-2026-10-30",
+      "headline": "Cisco gives Gen Z employee unlimited AI tokens to rewrite all of company's codeCisco has given 27-year-old former startup founder Padmanabhan Krishnamurthy unlimited AI tokens to rewrite 98 per cent of its legacy code within 24 months. President Jeetu Patel believes younger employees can bring fresh ideas and challenge traditional ways of working."
     }
   ],
   "sports": [
