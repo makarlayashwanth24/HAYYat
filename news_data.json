@@ -200,14 +200,29 @@
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/9-aboard-learjet-killed-as-jet-crashes-in-florida-erupts-into-fireball-3030221-2026-11-02",
+      "headline": "9 dead as business jet nose-dives into Florida, explodes into giant fireballA business jet carrying nine people crashed in a residential area near Cresthaven, Florida, on Sunday, killing everyone on board. The aircraft was travelling from Texas to the Bahamas. The National Transportation Safety Board is investigating the crash."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-chainsaw-attack-accused-shot-in-the-legs-after-attacking-police-with-knife-during-arrest-3030210-2026-11-01",
       "headline": "Andhra chainsaw attacker shot at after assaulting cop with knife during arrestA day after attacking a Class 10 student with a chainsaw at her school in Andhra Pradesh's Anantapur district, accused Hemanth was injured in police firing while resisting arrest."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/kimi-antonelli-formula-one-champion-youngest-mexico-city-grand-prix-3030223-2026-11-02",
+      "headline": "20-year-old Kimi Antonelli of Mercedes crowned the youngest ever F1 championMercedes' Kimi Antonelli became the youngest-ever Formula One world champion on Sunday. In just his second season of F1, the 20-year-old broke Sebastian Vettel's 16-year-old record. He achieved the feat after finishing on the podium in Mexico City Grand Prix."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/omar-abdullah-government-crisis-25-nc-mlas-14-day-ultimatum-3030126-2026-11-01",
       "headline": "25 NC MLAs issue 14-day ultimatum to Omar Abdullah, threaten to topple govtTwenty-five NC MLAs have reportedly given the Omar Abdullah government a 14-day ultimatum. Their demands and Ruhullah's resignation threat have intensified pressure on the party leadership."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/bengaluru-tech-couple-1-73-lakh-monthly-budget-vs-it-fresher-salary-educ-3030108-2026-11-01",
+      "headline": "Rs 75,000 on travel every month: Bengaluru couple's spending shows two sides of IT salariesShubhi and her husband spend about Rs 1.73 lakh monthly in Bengaluru, led by travel and rent. Their budget contrasts sharply with the Rs 22,000-27,000 take-home pay of many IT freshers."
     },
     {
       "sentiment": "positive",
@@ -220,24 +235,9 @@
       "headline": "Vaibhav benched again. Gambhir says his job is not to make everyone happyVaibhav Sooryavanshi was left out again as India named their playing XI for the fifth T20I against New Zealand. Gautam Gambhir defended his selection calls, insisting that his responsibility was to make the right decisions rather than popular ones."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/bengaluru-tech-couple-1-73-lakh-monthly-budget-vs-it-fresher-salary-educ-3030108-2026-11-01",
-      "headline": "Rs 75,000 on travel every month: Bengaluru couple's spending shows two sides of IT salariesShubhi and her husband spend about Rs 1.73 lakh monthly in Bengaluru, led by travel and rent. Their budget contrasts sharply with the Rs 22,000-27,000 take-home pay of many IT freshers."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/cyclone-murasu-landfall-ongole-andhra-odisha-arnab-evacuations-rain-warning-3030206-2026-11-01",
       "headline": "Cyclone Murasu nears Andhra, Odisha days after Arnab; Chennai schools shutCyclone Murasu is approaching the Andhra Pradesh coast as authorities evacuate vulnerable residents. The fresh threat has complicated ongoing relief operations after Cyclone Arnab."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-bloc-rally-turnout-bjp-mocks-rahul-gandhi-ten-lakh-attendance-claim-ramlila-maidan-releases-video-drone-footage-3029975-2026-11-01",
-      "headline": "Super flop rally: BJP mocks INDIA bloc over turnout, questions Rahul's 10 lakh claimBJP MP Sambit Patra said the rally, held over allegations of 'vote chori' against the Election Commission, had failed to draw the crowds promised by Congress leaders. He cited visuals of the venue to claim that large portions of the ground remained vacant despite INDIA bloc leaders projecting an attendance of over 10 lakh people."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mahadev-betting-app-promoter-sourabh-chandrakar-brought-back-from-oman-to-india-to-be-produced-before-court-3030083-2026-11-01",
-      "headline": "Mahadev betting app promoter Sourabh Chandrakar extradited to India from OmanChandrakar is wanted in two CBI cases and a separate ED case linked to the alleged illegal betting syndicate. He will be medically examined before being taken to Raipur and produced before a special CBI court on Monday."
     },
     {
       "sentiment": "positive",
@@ -256,8 +256,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/siddaramaiah-sting-video-probe-kumaraswamy-delhi-residence-staffer-3030062-2026-11-01",
-      "headline": "Siddaramaiah 'sting op' probe leads to Kumaraswamy's Delhi residence, staffer namedBengaluru police have arrested another accused in the alleged sting video case involving Siddaramaiah, uncovering a new lead linked to Delhi."
+      "url": "https://www.indiatoday.in/india/story/india-bloc-rally-turnout-bjp-mocks-rahul-gandhi-ten-lakh-attendance-claim-ramlila-maidan-releases-video-drone-footage-3029975-2026-11-01",
+      "headline": "Super flop rally: BJP mocks INDIA bloc over turnout, questions Rahul's 10 lakh claimBJP MP Sambit Patra said the rally, held over allegations of 'vote chori' against the Election Commission, had failed to draw the crowds promised by Congress leaders. He cited visuals of the venue to claim that large portions of the ground remained vacant despite INDIA bloc leaders projecting an attendance of over 10 lakh people."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-state-flag-tvk-aadhav-arjuna-vijay-proposal-bjp-separatist-mindset-3030106-2026-11-01",
-      "headline": "TVK minister revives demand for Tamil Nadu flag, BJP slams separatist mindsetA flag for Tamil Nadu, \"equal to the National Flag\": Aadhav Arjuna, CM Vijay's top minister's call has drawn a BJP warning over separatism and brought former Chief Minister Karunanidhi's unfulfilled 1970 proposal back into focus."
+      "url": "https://www.indiatoday.in/india/story/mahadev-betting-app-promoter-sourabh-chandrakar-brought-back-from-oman-to-india-to-be-produced-before-court-3030083-2026-11-01",
+      "headline": "Mahadev betting app promoter Sourabh Chandrakar extradited to India from OmanChandrakar is wanted in two CBI cases and a separate ED case linked to the alleged illegal betting syndicate. He will be medically examined before being taken to Raipur and produced before a special CBI court on Monday."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-sunday-greets-fans-bulletproof-glass-jalsa-bomb-threat-abhishek-bachchan-stays-close-3030131-2026-11-01",
-      "headline": "Amitabh Bachchan holds Sunday fan meet under bulletproof glass cover post bomb threatAmitabh Bachchan greeted fans from behind bulletproof glass outside Jalsa a week after a bomb threat. The tightened security underscored concerns as police investigated the threatening email."
+      "url": "https://www.indiatoday.in/education-today/news/story/nilekani-task-force-examination-reforms-report-january-2027-ptag-3030003-2026-11-01",
+      "headline": "Nilekani-led task force gets January 2027 deadline to submit exam reform reportThe Centre has set January 2027 for the Nilekani task force's examination reform report. The exercise follows renewed NEET leaks, student protests and calls for safer testing."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/diljit-dosanjh-pro-khalistani-slogans-delhi-metro-three-arrested-concert-special-cell-3030166-2026-11-01",
-      "headline": "Khalistani slogans targetting Diljit Dosanjh found at Delhi Metro stations, 3 heldThree people have been arrested for allegedly writing pro-Khalistan slogans targetting singer Diljit Dosanjh at two Delhi Metro stations. Police suspect an SFJ-linked conspiracy and are searching for the handlers."
+      "url": "https://www.indiatoday.in/india/story/siddaramaiah-sting-video-probe-kumaraswamy-delhi-residence-staffer-3030062-2026-11-01",
+      "headline": "Siddaramaiah 'sting op' probe leads to Kumaraswamy's Delhi residence, staffer namedBengaluru police have arrested another accused in the alleged sting video case involving Siddaramaiah, uncovering a new lead linked to Delhi."
     },
     {
       "sentiment": "positive",
@@ -286,18 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cjp-abhijeet-dipke-meets-mamata-banerjee-delhi-backs-india-bloc-vote-chori-rally-but-refuses-to-join-protest-at-ramlila-maidan-3029609-2026-10-31",
-      "headline": "After meeting Mamata, Dipke says CJP to skip INDIA bloc rally: We're neutralAbhijeet Dipke met Mamata Banerjee in Delhi and backed the INDIA bloc rally. The CJP will stay away to preserve its independent, politically neutral identity."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-state-flag-tvk-aadhav-arjuna-vijay-proposal-bjp-separatist-mindset-3030106-2026-11-01",
+      "headline": "TVK minister revives demand for Tamil Nadu flag, BJP slams separatist mindsetA flag for Tamil Nadu, \"equal to the National Flag\": Aadhav Arjuna, CM Vijay's top minister's call has drawn a BJP warning over separatism and brought former Chief Minister Karunanidhi's unfulfilled 1970 proposal back into focus."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/dhanush-tamil-nadu-politics-entry-explained-tvk-cm-vijay-challenger-film-impact-itspc-3028393-2026-11-01",
-      "headline": "Can Dhanush become a bigger hit than Vijay?Tamil Nadu CM C Joseph Vijay's electoral victory has opened a new chapter in Tamil Nadu politics, but it has also raised a vacuum for a challenger. With Dhanush's fan network taking on a more organised welfare role, could another film star be preparing to enter the political battlefield?"
+      "url": "https://www.indiatoday.in/cities/other-cities/story/banka-human-remains-case-head-recovered-missing-teen-mother-arrested-3030220-2026-11-02",
+      "headline": "7 body parts, hand and head found in Bihar canal, teenage girl's murder suspectedA human head was recovered from a canal in Bihar's Banka district on Sunday, the fifth day of a chilling discovery of human remains. Police suspect the remains belong to a missing 16-year-old girl and have arrested her mother."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-gyanesh-kumar-jail-ramlila-maidan-rally-opposition-vote-chori-sir-pm-modi-amit-shah-bjp-attacks-mamata-banerjee-mallikarjun-kharge-akhilesh-yadav-delhi-march-3029968-2026-11-01",
-      "headline": "CEC will go to jail, PM to face action, says Rahul; Amit Shah's '1984 riots' retortCongress MP Rahul Gandhi warned that CEC Gyanesh Kumar could face jail and PM Narendra Modi and Union Home Minister Amit Shah would face legal action over alleged electoral irregularities. Amit Shah countered by criticising the Opposition rally's timing on the anniversary of the 1984 anti-Sikh riots."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-sunday-greets-fans-bulletproof-glass-jalsa-bomb-threat-abhishek-bachchan-stays-close-3030131-2026-11-01",
+      "headline": "Amitabh Bachchan holds Sunday fan meet under bulletproof glass cover post bomb threatAmitabh Bachchan greeted fans from behind bulletproof glass outside Jalsa a week after a bomb threat. The tightened security underscored concerns as police investigated the threatening email."
     },
     {
       "sentiment": "positive",
@@ -306,8 +306,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/fact-check/story/aerial-shot-shows-2019-rally-in-kolkata-not-india-bloc-rally-in-delhi-2521769-2024-04-01",
-      "headline": "Fact Check: This aerial shot shows 2019 rally in Kolkata, not INDIA bloc rally in DelhiIndia Today Fact Check found that the image making rounds is from 2019 and was shot during a rally in Kolkata organised by the Left parties."
+      "url": "https://www.indiatoday.in/india/story/diljit-dosanjh-pro-khalistani-slogans-delhi-metro-three-arrested-concert-special-cell-3030166-2026-11-01",
+      "headline": "Khalistani slogans targetting Diljit Dosanjh found at Delhi Metro stations, 3 heldThree people have been arrested for allegedly writing pro-Khalistan slogans targetting singer Diljit Dosanjh at two Delhi Metro stations. Police suspect an SFJ-linked conspiracy and are searching for the handlers."
     },
     {
       "sentiment": "positive",
@@ -316,11 +316,16 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/india-today-journalist-abdul-basheer-cameraman-attacked-pulivendula-andhra-pradesh-local-polls-ysrcp-tdp-3030063-2026-11-01",
-      "headline": "India Today journalist attacked while covering Andhra polls, video camera smashedIndia Today journalist Abdul Basheer and cameraman S Vijay were allegedly assaulted while covering local body polls in Andhra Pradesh's Pulivendula, triggering a war of words between the ruling TDP and Opposition YSRCP. The team's video camera was damaged during the attack."
+      "url": "https://www.indiatoday.in/india/story/cjp-abhijeet-dipke-meets-mamata-banerjee-delhi-backs-india-bloc-vote-chori-rally-but-refuses-to-join-protest-at-ramlila-maidan-3029609-2026-10-31",
+      "headline": "After meeting Mamata, Dipke says CJP to skip INDIA bloc rally: We're neutralAbhijeet Dipke met Mamata Banerjee in Delhi and backed the INDIA bloc rally. The CJP will stay away to preserve its independent, politically neutral identity."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/kimi-antonelli-formula-one-champion-youngest-mexico-city-grand-prix-3030223-2026-11-02",
+      "headline": "20-year-old Kimi Antonelli of Mercedes crowned the youngest ever F1 champion Mercedes' Kimi Antonelli became the youngest-ever Formula One world champion on Sunday. In just his second season of F1, the 20-year-old broke Sebastian Vettel's 16-year-old record. He achieved the feat after finishing on the podium in Mexico City Grand Prix."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-womens-world-cup-win-on-this-day-harmanpreet-kaur-3029977-2026-11-02",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-gautam-gambhir-shreyas-iyer-captaincy-t20i-verdict-mixed-record-3030078-2026-11-01",
-      "headline": "Gambhir sees more to Shreyas Iyer's captaincy than his modest T20I record suggests Gautam Gambhir has backed Shreyas Iyer's captaincy despite a modest T20I record. The India head coach believes the young skipper deserves credit for leading an inexperienced bowling attack and navigating a challenging transition ahead of the next T20 World Cup."
+      "headline": "Gambhir sees more to Shreyas Iyer's captaincy than his modest T20I record suggestsGautam Gambhir has backed Shreyas Iyer's captaincy despite a modest T20I record. The India head coach believes the young skipper deserves credit for leading an inexperienced bowling attack and navigating a challenging transition ahead of the next T20 World Cup."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/michael-carrick-expects-manchester-united-stay-chelsea-defeat-winless-run-3029694-2026-11-01",
       "headline": "Michael Carrick expects to stay at Manchester United despite worrying winless runManchester United's winless run has reached nine matches after a 2-0 defeat at Chelsea, piling pressure on Michael Carrick. However, the under-fire boss expects to remain in charge for Tuesday's Champions League clash against Roma."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/ac-milan-beat-inter-derby-della-madonnina-moreira-pulisic-seire-a-3029691-2026-11-01",
-      "headline": "Diego Moreira, Pulisic shine as AC Milan stun Inter in Derby della MadonninaAC Milan claimed derby bragging rights with a 3-1 win over Inter at San Siro, ending their rivals' unbeaten Serie A start. Diego Moreira starred with a goal and two assists, while Christian Pulisic struck early."
     }
   ],
   "education": [
