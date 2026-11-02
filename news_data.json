@@ -2,6 +2,31 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/ril-stock-reliance-shares-jump-6-percent-record-q2-earnings-o2c-jio-growth-3030308-2026-11-02",
+      "headline": "Reliance shares jump over 7%: Why RIL stock is rallying todayReliance Industries shares surged over 6% after the company reported record September-quarter earnings. Strong O2C performance, Jio growth and bullish brokerage calls boosted investor sentiment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-rally-sensex-nifty-jump-crude-oil-falls-ril-share-earnings-foreign-buying-3030292-2026-11-02",
+      "headline": "Sensex jumps 900 points: 3 reasons why stock markets are rallying todayAt 9.48 am, the Sensex was up 1,002.55 points (1.35%) at 75,462.08, while the Nifty gained 267.80 points (1.16%) to trade at 23,320.90."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-sensex-opens-700-points-higher-nifty-above-23200-ril-jumps-5-3030282-2026-11-02",
+      "headline": "Sensex, Nifty rally as crude oil sees decline; RIL shares jump 6%At around 9.23 am, the BSE Sensex was trading at 75,261.40, up 801.87 points or 1.08%. The NSE Nifty 50 advanced 205.95 points, or 0.89%, to 23,259.05."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-outlook-sensex-nifty-opening-crude-oil-reliance-earnings-strong-opening-3030268-2026-11-02",
+      "headline": "Stock market today: Will Sensex, Nifty open higher or lower? RIL stock in focusSensex and Nifty are likely to open higher as crude oil prices ease and Reliance earnings strengthen sentiment. Renewed foreign buying and firm technical signals could support the market's recovery."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/high-flight-plane-ticket-prices-centre-temporary-airfare-intervention-2027-bharatiya-vayuyan-niyam-3030252-2026-11-02",
+      "headline": "Worried about expensive flights? Government can now intervene in airfaresThe government can temporarily direct airline tariffs during extraordinary situations from 2027. The rules retain market pricing while requiring clearer fare disclosures and DGCA monitoring."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/binance-hack-covers-6-billion-north-korea-tradertraitor-crypto-theft-3029703-2026-11-01",
       "headline": "Binance says it has recovered $6 billion of $6.3 billion stolen in hackThe remaining amount, now less than 10%, consists of assets that are less liquid and may take longer to source in the required amounts, according to Binance."
     },
@@ -74,34 +99,54 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/jio-platforms-share-price-retail-investors-borrow-rs-2228-crore-listing-day-3028364-2026-10-30",
       "headline": "Jio Platform shares: Investors borrowed Rs 2,228 crore to buy stock on listing dayRetail investors borrowed Rs 2,228 crore to buy Jio Platforms shares on listing day. The debut made it India's fourth-largest margin trading position."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/gold-slips-below-rs-142-lakh-silver-tumbles-further-is-a-bigger-dip-coming-3028321-2026-10-30",
-      "headline": "Gold slips below Rs 1.42 lakh, silver tumbles further: Is a bigger dip coming?Gold and silver prices have been sliding over the past few sessions, bringing some relief to festive and wedding-season buyers. But with prices still under pressure, could there be a bigger buying opportunity ahead?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/overdraft-trap-promised-rs-16-lakh-at-low-interest-rate-delhi-man-buys-insurance-but-gets-no-loan-3028259-2026-10-30",
-      "headline": "How a Rs 16 lakh overdraft promise led a Delhi man to buy a Rs 2 lakh policyA Delhi businessman was promised an overdraft facility of Rs 16 lakh at a throwaway interest rate of 6.5%. The catch was a Rs 1.90-lakh insurance policy. The loan never came through, and the callers stopped responding. He reached out to IndiaToday.in to share his story."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-sensex-nifty-flat-it-stocks-rise-crude-oil-pressure-3028249-2026-10-30",
-      "headline": "Sensex, Nifty trade flat as IT gains counter crude oil concernsSensex and Nifty traded flat as IT gains countered pressure from elevated crude prices. Weak broader markets and pending heavyweight earnings kept investors cautious."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-poverty-decline-496-million-wage-gap-wealth-inequality-world-bank-3028221-2026-10-30",
-      "headline": "India's poverty falls sharply, but top 10% earn 13 times more than bottom 10%The World Bank reported a sharp fall in Indian poverty alongside a 13-fold wage gap. The findings underscore persistent earnings disparities, weak job quality and higher rural poverty."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/binance-crypto-hack-hackers-steal-over-usd-6-billion-biggest-cryptocurrency-theft-3028195-2026-10-30",
-      "headline": "Binance hack biggest crypto theft in history, hackers steal $6 billionBinance is investigating a suspected security breach involving billions of dollars in digital assets. The incident is the largest cryptocurrency theft recorded if current estimates are confirmed."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-part-1-mumbai-premiere-after-los-angeles-showcase-3030309-2026-11-02",
+      "headline": "Ramayana Part 1: After LA and London, a grand Mumbai premiere planned | Exclusive Ranbir Kapoor-Yash's Ramayana Part 1 is set for a Mumbai cast-and-crew premiere after its Los Angeles showcase. The event will precede the film's India release and wider theatrical rollout."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/anirudh-exits-shah-rukh-khans-king-sachin-jigar-take-over-music-duties-3030307-2026-11-02",
+      "headline": "Composer Anirudh exits Shah Rukh Khan's King, Sachin-Jigar take over music duties Anirudh has reportedly left Shah Rukh Khan's King, with duo Sachin-Jigar taking over its music. His theme track is expected to remain and shape the film's background score."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shah-rukh-khan-father-cinema-ticket-childhood-memory-aryan-khan-3030269-2026-11-02",
+      "headline": "Too poor for tickets, SRK and his father once sat outside theatre and watched cars Actor-producer Shah Rukh Khan recalled how he and his father watched cars after being unable to afford cinema tickets. The memory later returned when he took his son Aryan to watch a film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/go-sell-ice-cream-ar-rahman-has-a-steve-jobs-response-to-ramayana-music-critics-3030274-2026-11-02",
+      "headline": "Go sell ice cream: AR Rahman on following Steve Jobs' mantra amid Ramayana criticism Quoting Steve Jobs, AR Rahman addressed criticism surrounding the music of Nitesh Tiwari's Ramayana. He urged patience, saying listeners may understand each composition's wider thought process over time."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/shah-rukh-khan-deepika-padukone-king-song-tu-mil-jaaye-pathaan-unreleased-footage-fans-share-mixed-reactions-3030257-2026-11-02",
+      "headline": "SRK's King song feels like Pathaan's unreleased footage: Fans share mixed reactions Shah Rukh Khan's King song Tu Mil Jaaye has divided listeners. While some praise its music and SRK-Deepika chemistry, others compare it with Pathaan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-advance-booking-nears-rs-50-crore-ranbir-kapoor-release-3030237-2026-11-02",
+      "headline": "Eleven lakh tickets, Rs 46 crore: Ramayana pre-sales nears Rs 50 crore in India Ramayana: Part 1 has recorded Rs 45.96 crore in India advance bookings with three days remaining. Opening-day demand and premium formats are driving the film's strong pre-sales."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sanjay-gupta-wife-anuradha-lekhi-remembers-him-as-the-greatest-storyteller-in-emotional-tribute-3030238-2026-11-02",
+      "headline": "Sanjay Gupta's wife remembers director as 'greatest storyteller' in emotional tribute Sanjay Gupta's wife Anuradha Lekhi Gupta paid an emotional tribute to the filmmaker after his death. She remembered him as a gifted storyteller, loving father and devoted husband."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-thanks-fans-amid-king-sized-birthday-celebrations-at-mannat-3030228-2026-11-02",
+      "headline": "Shah Rukh Khan thanks fans amid King-sized birthday celebrations at Mannat Shah Rukh Khan's 61st birthday sparked celebrations outside Mannat as fans gathered to honour the superstar. He shared a heartfelt message for his fans as Mumbai lit up and King generated buzz with the release of Tu Mil Jaaye."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/king-song-tu-mil-jaaye-shah-rukh-khan-deepika-padukone-arijit-singh-ed-sheeran-birthday-3030226-2026-11-02",
+      "headline": "Tu Mil Jaaye: SRK woos Deepika and fights enemies in King's first song Shah Rukh Khan unveiled Tu Mil Jaaye, featuring Deepika Padukone, on his birthday. The song blends romance and action with Arijit Singh's vocals and Ed Sheeran's rap."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-aasif-khan-evicted-mid-season-scoutop-and-housemates-break-down-3030213-2026-11-02",
@@ -115,7 +160,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-sunday-greets-fans-bulletproof-glass-jalsa-bomb-threat-abhishek-bachchan-stays-close-3030131-2026-11-01",
-      "headline": "Amitabh Bachchan holds Sunday fan meet under bulletproof glass cover post bomb threat Amitabh Bachchan greeted fans from behind bulletproof glass outside Jalsa a week after a bomb threat. The tightened security underscored concerns as police investigated the threatening email."
+      "headline": "Amitabh Bachchan holds Sunday fan meet behind bulletproof glass cover post bomb threat Amitabh Bachchan greeted fans from behind bulletproof glass outside Jalsa a week after a bomb threat. The tightened security underscored concerns as police investigated the threatening email."
     },
     {
       "sentiment": "positive",
@@ -145,104 +190,64 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/farah-khan-urges-privacy-after-video-of-spat-with-cook-dilip-goes-viral-3029834-2026-11-01",
-      "headline": "Farah Khan asks for privacy after her video of spat with cook Dilip goes viral Farah Khan has urged social media users to respect her privacy after a video of her argument with cook Dilip Mukhiya went viral. The filmmaker-choreographer asked viewers not to draw conclusions from the brief exchange."
+      "headline": "Respect Dilip and my privacy: Farah Khan reacts to viral argument video with cook Filmmaker-choreographer Farah Khan asked social media users to respect her and Dilip Mukhiya's privacy after their exchange went viral. Her appeal cautioned viewers against drawing conclusions from the brief clip."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/heidi-klum-goes-gruesome-with-severed-hand-costume-for-halloween-2026-3029797-2026-11-01",
       "headline": "Heidi Klum goes gruesome with severed-hand costume for Halloween 2026 Heidi Klum marked 25 years of her Halloween party by arriving in a bizarre severed-hand costume. The supermodel recreated her own hand with a bloody wrist and her head at its centre."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-has-rs-4000-crore-riding-on-it-but-is-there-enough-audience-buzz-3029777-2026-11-01",
-      "headline": "Ramayana has Rs 4,000 crore riding on it, but is there enough audience buzz? With just four days to go, Ramayana's advance bookings are promising, but is the audience excitement matching its Rs 4,000-crore scale? From casting and music criticism to box-office expectations, here's what the buzz really looks like."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-birthday-king-asset-drop-expected-at-midnight-mannat-gets-ready-3029770-2026-11-01",
-      "headline": "Shah Rukh Khan birthday: King promo drop expected at midnight, Mannat gets ready A special King asset is expected to arrive at midnight on Shah Rukh Khan's 61st birthday. Cryptic posts, citywide tributes and reported music plans have intensified anticipation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/online-romance-scams-mariana-van-zeller-ai-identities-emotional-manipulation-3029736-2026-11-01",
-      "headline": "AI, fake lovers, scams: Emmy winner Mariana exposes dark side of online romance In an exclusive interview with India Today, the Emmy Award-winning journalist discusses going undercover as a romance scam target for National Geographic's Super Scam Me, how scammers manufacture emotional dependency, and why artificial intelligence could make online deception harder to detect."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/robert-downey-jr-pedro-pascal-swap-avengers-doomsday-roles-for-halloween-3029718-2026-11-01",
-      "headline": "Robert Downey Jr, Pedro Pascal swap Avengers: Doomsday roles for Halloween Robert Downey Jr and Pedro Pascal swapped their Marvel costumes for a playful Halloween outing. The role reversal teased their characters' rivalry in Avengers: Doomsday ahead of its 2026 release."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-janhvi-kapoor-celebrate-halloween-king-kylie-nagina-3029706-2026-11-01",
-      "headline": "From King Kylie to Nagina: Priyanka Chopra, Janhvi Kapoor celebrate Halloween Priyanka Chopra celebrated Halloween with Nick Jonas and their daughter. Janhvi Kapoor recreated Sridevi's iconic Nagina look with friends."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/scene-trailer-suriya-plays-rule-breaking-cop-inbaraj-in-jithu-madhavans-film-3029682-2026-11-01",
-      "headline": "Scene trailer: Suriya plays rule-breaking cop Inbaraj in Jithu Madhavan's film The trailer for Surya's Scene introduces him as an unconventional cop who takes on a ruthless criminal. The Jithu Madhavan film also stars Nazriya and Naslen."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sanjay-gupta-funeralviral-video-claims-daughter-made-obscene-gesture-at-paps-3029673-2026-11-01",
-      "headline": "Sanjay Gupta funeral: Viral video claims daughter made obscene gesture at paps A video from late filmmaker Sanjay Gupta's funeral shows a girl making an obscene gesture at photographers. Her identity remains unverified."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/one-film-wasnt-enough-heartbroken-hrithik-roshan-mourns-kaabil-director-sanjay-gupta-3029629-2026-10-31",
-      "headline": "One film wasn't enough: Heartbroken Hrithik mourns Kaabil director Sanjay Gupta Hrithik Roshan paid tribute to filmmaker Sanjay Gupta after his sudden death. The actor recalled their Kaabil collaboration with gratitude and heartbreak."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-bihar-concert-delayed-crowd-management-security-concerns-3029575-2026-10-31",
-      "headline": "Organisers wouldn't own crowd control: Diljit on why Bihar concert plan fell through Diljit Dosanjh revealed why his planned Bihar concert could not proceed. Crowd management and security responsibility remain the key hurdles."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/9-aboard-learjet-killed-as-jet-crashes-in-florida-erupts-into-fireball-3030221-2026-11-02",
-      "headline": "9 dead as business jet nose-dives into Florida, explodes into giant fireballA business jet carrying nine people crashed in a residential area near Cresthaven, Florida, on Sunday, killing everyone on board. The aircraft was travelling from Texas to the Bahamas. The National Transportation Safety Board is investigating the crash."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-chainsaw-attack-accused-shot-in-the-legs-after-attacking-police-with-knife-during-arrest-3030210-2026-11-01",
-      "headline": "Andhra chainsaw attacker shot at after assaulting cop with knife during arrestA day after attacking a Class 10 student with a chainsaw at her school in Andhra Pradesh's Anantapur district, accused Hemanth was injured in police firing while resisting arrest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/formula-one/story/kimi-antonelli-formula-one-champion-youngest-mexico-city-grand-prix-3030223-2026-11-02",
-      "headline": "20-year-old Kimi Antonelli of Mercedes crowned the youngest ever F1 championMercedes' Kimi Antonelli became the youngest-ever Formula One world champion on Sunday. In just his second season of F1, the 20-year-old broke Sebastian Vettel's 16-year-old record. He achieved the feat after finishing on the podium in Mexico City Grand Prix."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/omar-abdullah-government-crisis-25-nc-mlas-14-day-ultimatum-3030126-2026-11-01",
-      "headline": "25 NC MLAs issue 14-day ultimatum to Omar Abdullah, threaten to topple govtTwenty-five NC MLAs have reportedly given the Omar Abdullah government a 14-day ultimatum. Their demands and Ruhullah's resignation threat have intensified pressure on the party leadership."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/bengaluru-tech-couple-1-73-lakh-monthly-budget-vs-it-fresher-salary-educ-3030108-2026-11-01",
-      "headline": "Rs 75,000 on travel every month: Bengaluru couple's spending shows two sides of IT salariesShubhi and her husband spend about Rs 1.73 lakh monthly in Bengaluru, led by travel and rent. Their budget contrasts sharply with the Rs 22,000-27,000 take-home pay of many IT freshers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-tariffs-democrats-oversight-executive-trade-actions-us-midterms-elections-white-house-3030162-2026-11-01",
-      "headline": "No majority, no problem: Trump plans more tariffs as Democrats eye Congress shiftThe Trump administration is preparing executive trade action as Democrats seek congressional control. A power shift could intensify tariff scrutiny without overcoming the president's veto."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-playing-xi-gautam-gambhir-interview-3029786-2026-11-01",
-      "headline": "Vaibhav benched again. Gambhir says his job is not to make everyone happyVaibhav Sooryavanshi was left out again as India named their playing XI for the fifth T20I against New Zealand. Gautam Gambhir defended his selection calls, insisting that his responsibility was to make the right decisions rather than popular ones."
+      "url": "https://www.indiatoday.in/world/us-news/story/florida-learjet-60-crash-nine-dead-600-residents-evacuated-3030260-2026-11-02",
+      "headline": "Deadly dive, fiery impact: How Florida business jet disintegrated into craterA Learjet 60 crash in Florida killed all nine people on board, leaving a massive crater, scattered wreckage and damaged infrastructure. Around 600 residents were evacuated, while chilling air traffic control recordings captured the crew's final Mayday calls before impact."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/cyclone-murasu-landfall-ongole-andhra-odisha-arnab-evacuations-rain-warning-3030206-2026-11-01",
-      "headline": "Cyclone Murasu nears Andhra, Odisha days after Arnab; Chennai schools shutCyclone Murasu is approaching the Andhra Pradesh coast as authorities evacuate vulnerable residents. The fresh threat has complicated ongoing relief operations after Cyclone Arnab."
+      "url": "https://www.indiatoday.in/world/story/israel-netanyahu-eisenkot-coalition-possibility-election-setback-3030230-2026-11-02",
+      "headline": "Netanyahu open to Eisenkot alliance as Israel faces political deadlock: ReportIsraeli Prime Minister Benjamin Netanyahu has not ruled out a coalition with opposition leader Gadi Eisenkot despite publicly denying unity plans. The move comes amid a post-election deadlock, with Netanyahu's bloc falling short of a parliamentary majority."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/british-couple-takes-a-piece-of-india-home-ships-beloved-auto-rickshaw-to-uk-3029976-2026-11-01",
-      "headline": "British couple takes a piece of India home, ships beloved auto-rickshaw to UKA British couple shipped their beloved Indian auto-rickshaw to the UK after a 4,218-kilometre journey. Its arrival begins a new chapter, subject to British paperwork and vehicle regulations."
+      "url": "https://www.indiatoday.in/elections/assembly/story/owaisi-abdul-darri-carpet-up-assembly-election-2027-sp-congress-muslim-voters-telangana-itspc-3029493-2026-11-02",
+      "headline": "Abdul won't lay carpets: Owaisi's UP poll cry gets a Congress counterFor years, Abdul laid carpets, raised slogans and voted for the SP and Congress, says AIMIM chief Asaduddin Owaisi. Now, he says Abdul will become an MLA or MP, instead of backing the Nehru-Gandhis and Yadavs. Owaisi's attack ahead of the 2027 UP election has a Congress counter."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-florida-businessjet-learjet-crash-atc-audio-final-mayday-nine-killed-3030244-2026-11-02",
+      "headline": "We're out of time: Chilling audio captures pilot's Mayday calls before Florida crashA desperate Mayday call, descent rates of 22,000 feet per minute and a chilling final shout emerge in ATC audio, capturing the last moments before the Learjet crashed in Florida."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/mumbai-floating-led-ads-marketing-advertisement-sea-views-luxury-apartments-environmental-concerns-itspc-3029937-2026-11-02",
+      "headline": "Imagine paying Rs 18 crore for a sea view in Mumbai, only to get a floating LED adIn Mumbai, people pay crores for a balcony overlooking the Arabian Sea, a sunset without an obstruction and a little breathing space from the concrete jungle. But what happens when the sea itself becomes another billboard, competing for your attention?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-advance-booking-nears-rs-50-crore-ranbir-kapoor-release-3030237-2026-11-02",
+      "headline": "Eleven lakh tickets, Rs 46 crore: Ramayana pre-sales nears Rs 50 crore in IndiaRamayana: Part 1 has recorded Rs 45.96 crore in India advance bookings with three days remaining. Opening-day demand and premium formats are driving the film's strong pre-sales."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/georgia-mbbs-fmge-eligibility-nmc-responses-raise-licensing-concerns-for-indian-students-3030300-2026-11-02",
+      "headline": "Georgia MBBS row: Can Indian graduates practise medicine back home? FAQs explainedConflicting NMC responses on Georgia's medical degrees have raised doubts over Indian students' FMGE eligibility, with junior doctor registration and independent licensing at the centre of the dispute. Here are the key FAQs."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-vietnam-war-one-week-victory-claim-online-flak-3030279-2026-11-02",
+      "headline": "Could've won in a week: Trump's Vietnam War claim draws flak on internetDonald Trump's remarks drew immediate criticism over factual errors. Critics pointed out that Ho Chi Minh City was then called Saigon and served as the capital of South Vietnam, America's ally."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-air-pollution-aqi-turns-very-poor-crosses-300-after-brief-rain-relief-3030262-2026-11-02",
+      "headline": "Delhi's post-rain relief ends as AQI breaches 300, Diwali threat loomsData released by the Central Pollution Control Board (CPCB) showed that ITO recorded an AQI of 351, while Rohini and Punjabi Bagh registered 399 each, with both readings falling in the 'very poor' category."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-father-cinema-ticket-childhood-memory-aryan-khan-3030269-2026-11-02",
+      "headline": "Too poor for tickets, SRK and his father once sat outside theatre and watched carsActor-producer Shah Rukh Khan recalled how he and his father watched cars after being unable to afford cinema tickets. The memory later returned when he took his son Aryan to watch a film."
     },
     {
       "sentiment": "positive",
@@ -256,71 +261,96 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-bloc-rally-turnout-bjp-mocks-rahul-gandhi-ten-lakh-attendance-claim-ramlila-maidan-releases-video-drone-footage-3029975-2026-11-01",
-      "headline": "Super flop rally: BJP mocks INDIA bloc over turnout, questions Rahul's 10 lakh claimBJP MP Sambit Patra said the rally, held over allegations of 'vote chori' against the Election Commission, had failed to draw the crowds promised by Congress leaders. He cited visuals of the venue to claim that large portions of the ground remained vacant despite INDIA bloc leaders projecting an attendance of over 10 lakh people."
+      "url": "https://www.indiatoday.in/india/story/bihar-free-electricity-samrat-choudhary-cm-taxpayers-forgo-power-benefit-3030203-2026-11-01",
+      "headline": "Give up 125 units of free power: Bihar CM's appeal to affluent people, taxpayersBihar Chief Minister Samrat Choudhary has appealed to affluent households and taxpayers to opt out of the 125-unit free power scheme, urging them to forgo the subsidy in the interest of the state's development."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mr-beast-hardik-pandya-baseball-challenge-donate-charity-3029817-2026-11-01",
-      "headline": "Hardik Pandya takes a swing in MrBeast's challenge, wins big money for charityHardik Pandya won 100,000 US Dollars after beating MrBeast in a baseball home run challenge. The India all-rounder donated his winnings to charities supporting dogs in need and underprivileged children."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/go-sell-ice-cream-ar-rahman-has-a-steve-jobs-response-to-ramayana-music-critics-3030274-2026-11-02",
+      "headline": "Go sell ice cream: AR Rahman on following Steve Jobs' mantra amid Ramayana criticismQuoting Steve Jobs, AR Rahman addressed criticism surrounding the music of Nitesh Tiwari's Ramayana. He urged patience, saying listeners may understand each composition's wider thought process over time."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mahadev-betting-app-promoter-sourabh-chandrakar-brought-back-from-oman-to-india-to-be-produced-before-court-3030083-2026-11-01",
-      "headline": "Mahadev betting app promoter Sourabh Chandrakar extradited to India from OmanChandrakar is wanted in two CBI cases and a separate ED case linked to the alleged illegal betting syndicate. He will be medically examined before being taken to Raipur and produced before a special CBI court on Monday."
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-playing-xi-gautam-gambhir-interview-3029786-2026-11-01",
+      "headline": "Vaibhav benched again. Gambhir says his job is not to make everyone happyVaibhav Sooryavanshi was left out again as India named their playing XI for the fifth T20I against New Zealand. Gautam Gambhir defended his selection calls, insisting that his responsibility was to make the right decisions rather than popular ones."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/nilekani-task-force-examination-reforms-report-january-2027-ptag-3030003-2026-11-01",
-      "headline": "Nilekani-led task force gets January 2027 deadline to submit exam reform reportThe Centre has set January 2027 for the Nilekani task force's examination reform report. The exercise follows renewed NEET leaks, student protests and calls for safer testing."
+      "url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-grok-bot-is-too-expensive-to-run-calls-costs-unsustainable-as-users-hit-limits-3030253-2026-11-02",
+      "headline": "Elon Musk says Grok Bot is too expensive to run, calls costs unsustainableElon Musk told an X user that running Grok costs too much compared to what it earns. This explains why subscribers are currently facing strict usage limits."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/siddaramaiah-sting-video-probe-kumaraswamy-delhi-residence-staffer-3030062-2026-11-01",
-      "headline": "Siddaramaiah 'sting op' probe leads to Kumaraswamy's Delhi residence, staffer namedBengaluru police have arrested another accused in the alleged sting video case involving Siddaramaiah, uncovering a new lead linked to Delhi."
+      "url": "https://www.indiatoday.in/science/story/two-cyclones-arnab-murasu-in-less-than-a-week-is-indias-east-coast-ready-for-another-strike-3029801-2026-11-02",
+      "headline": "Two cyclones in less than 7 days: Is India's east coast ready for another storm?Cyclone Arnab struck after 1.8 lakh people were evacuated, with another system threatening Andhra Pradesh within a week. The rapid succession is testing whether India's east coast can restore essential services between storms."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/farah-khan-urges-privacy-after-video-of-spat-with-cook-dilip-goes-viral-3029834-2026-11-01",
-      "headline": "Farah Khan asks for privacy after her video of spat with cook Dilip goes viralFarah Khan has urged social media users to respect her privacy after a video of her argument with cook Dilip Mukhiya went viral. The filmmaker-choreographer asked viewers not to draw conclusions from the brief exchange."
+      "url": "https://www.indiatoday.in/trending-news/story/british-couple-takes-a-piece-of-india-home-ships-beloved-auto-rickshaw-to-uk-3029976-2026-11-01",
+      "headline": "British couple takes a piece of India home, ships beloved auto-rickshaw to UKA British couple shipped their beloved Indian auto-rickshaw to the UK after a 4,218-kilometre journey. Its arrival begins a new chapter, subject to proper paperwork and vehicle regulations."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-state-flag-tvk-aadhav-arjuna-vijay-proposal-bjp-separatist-mindset-3030106-2026-11-01",
-      "headline": "TVK minister revives demand for Tamil Nadu flag, BJP slams separatist mindsetA flag for Tamil Nadu, \"equal to the National Flag\": Aadhav Arjuna, CM Vijay's top minister's call has drawn a BJP warning over separatism and brought former Chief Minister Karunanidhi's unfulfilled 1970 proposal back into focus."
+      "url": "https://www.indiatoday.in/sports/formula-one/story/kimi-antonelli-formula-one-champion-youngest-mexico-city-grand-prix-3030223-2026-11-02",
+      "headline": "20-year-old Kimi Antonelli of Mercedes crowned the youngest ever F1 championMercedes' Kimi Antonelli became the youngest-ever Formula One world champion on Sunday. In just his second season of F1, the 20-year-old broke Sebastian Vettel's 16-year-old record. He achieved the feat after finishing on the podium in Mexico City Grand Prix."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/banka-human-remains-case-head-recovered-missing-teen-mother-arrested-3030220-2026-11-02",
-      "headline": "7 body parts, hand and head found in Bihar canal, teenage girl's murder suspectedA human head was recovered from a canal in Bihar's Banka district on Sunday, the fifth day of a chilling discovery of human remains. Police suspect the remains belong to a missing 16-year-old girl and have arrested her mother."
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-rally-sensex-nifty-jump-crude-oil-falls-ril-share-earnings-foreign-buying-3030292-2026-11-02",
+      "headline": "Sensex jumps 900 points: 3 reasons why stock markets are rallying todayAt 9.48 am, the Sensex was up 1,002.55 points (1.35%) at 75,462.08, while the Nifty gained 267.80 points (1.16%) to trade at 23,320.90."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-sunday-greets-fans-bulletproof-glass-jalsa-bomb-threat-abhishek-bachchan-stays-close-3030131-2026-11-01",
-      "headline": "Amitabh Bachchan holds Sunday fan meet under bulletproof glass cover post bomb threatAmitabh Bachchan greeted fans from behind bulletproof glass outside Jalsa a week after a bomb threat. The tightened security underscored concerns as police investigated the threatening email."
+      "url": "https://www.indiatoday.in/technology/news/story/63-billion-gone-in-20-minutes-binance-back-online-after-hack-says-it-will-cover-95-of-stolen-assets-3030261-2026-11-02",
+      "headline": "$6.3 billion gone in 20 minutes: Binance recovers 95% of assetsThe cyberattack on Binance shook the internet last week. Roughly $6.3 billion worth of assets were stolen from the world's largest crypto exchange, that too within a matter of minutes. But Binance claims to have covered 95 per cent of the losses for its customers."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jammu-kashmir-cm-omar-abdullah-journalist-nidhi-razdan-wedding-3029297-2026-10-31",
-      "headline": "J&K Chief Minister Omar Abdullah marries journalist Nidhi RazdanJammu and Kashmir Chief Minister Omar Abdullah has announced his marriage to journalist Nidhi Razdan, sharing the news on social media on Saturday."
+      "url": "https://www.indiatoday.in/jobs/deep-dive/story/big-tech-layoffs-in-waves-ai-restructuring-repeated-job-cuts-educ-3029278-2026-11-02",
+      "headline": "Laid off, then laid off again: Why Big Tech's job cuts come in wavesHandcrafted ByOur Editors From Amazon and Meta to Oracle and India's IT services giants, repeated workforce reductions reveal a changing relationship between financial performance, business priorities and job security."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/diljit-dosanjh-pro-khalistani-slogans-delhi-metro-three-arrested-concert-special-cell-3030166-2026-11-01",
-      "headline": "Khalistani slogans targetting Diljit Dosanjh found at Delhi Metro stations, 3 heldThree people have been arrested for allegedly writing pro-Khalistan slogans targetting singer Diljit Dosanjh at two Delhi Metro stations. Police suspect an SFJ-linked conspiracy and are searching for the handlers."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/king-song-tu-mil-jaaye-shah-rukh-khan-deepika-padukone-arijit-singh-ed-sheeran-birthday-3030226-2026-11-02",
+      "headline": "Tu Mil Jaaye: SRK woos Deepika and fights enemies in King's first songShah Rukh Khan unveiled Tu Mil Jaaye, featuring Deepika Padukone, on his birthday. The song blends romance and action with Arijit Singh's vocals and Ed Sheeran's rap."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-646-30-10-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cjp-abhijeet-dipke-meets-mamata-banerjee-delhi-backs-india-bloc-vote-chori-rally-but-refuses-to-join-protest-at-ramlila-maidan-3029609-2026-10-31",
-      "headline": "After meeting Mamata, Dipke says CJP to skip INDIA bloc rally: We're neutralAbhijeet Dipke met Mamata Banerjee in Delhi and backed the INDIA bloc rally. The CJP will stay away to preserve its independent, politically neutral identity."
+      "url": "https://www.indiatoday.in/cities/story/43-women-rescued-as-hyderabad-police-bust-alleged-illegal-egg-donation-racket-8-arrested-3029648-2026-11-01",
+      "headline": "Hyderabad police bust alleged egg donation racket, rescue 43 women; 8 arrestedHyderabad police apprehended eight people and rescued 43 women in coordinated raids on an alleged interstate egg extraction racket. The probe is examining suspected exploitation, forged documents and links involving IVF centres and ART banks."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-india-t20i-team-goodbye-nz-vs-ind-series-stay-fit-3030333-2026-11-02",
+      "headline": "Don't take Sri Lanka lightly, stay in shape: Gambhir bids T20I team goodbye from New Zealand Gautam Gambhir has urged India's T20I players to stay fit and keep improving during their month-long break after the 3-2 series win over New Zealand. India will next face Sri Lanka in a three-match T20I series in December."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-kris-srikkanth-india-vs-new-zealand-3030329-2026-11-02",
+      "headline": "Vaibhav Sooryavanshi is being discouraged: Srikkanth tears into Gambhir's India Kris Srikkanth has questioned India's handling of Vaibhav Sooryavanshi, accusing the team management of discouraging the teenager. The former India captain believes Sooryavanshi needs a sustained run in the side, rather than being left uncertain about his role."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/aiff-friendlies-brazil-rs-85-crore-fixed-deposit-kalyan-chaubey-3030267-2026-11-02",
+      "headline": "AIFF planned to liquate FD to fill Rs 85 crore hole. Members block plan The AIFF is facing a potential Rs 80-85 crore deficit after hosting international friendlies against Brazil, Uruguay and Panama. President Kalyan Chaubey's proposal to liquidate the federation's fixed deposit to clear the dues was opposed by members at Sunday's meeting."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/russian-flag-returns-in-youth-olympics-dakar-africa-3030247-2026-11-02",
+      "headline": "Banned in 2020, Russia returns to Olympic stage with Youth Games in Dakar Russian athletes have returned to the Olympic stage with their national flag and anthem at the Dakar 2026 Youth Olympic Games, marking a significant shift after years of sporting restrictions. The Games are also making history as the first Olympic sporting event to be hosted on African soil."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/aurelien-tchouameni-shot-young-fan-real-madrid-3030239-2026-11-02",
+      "headline": "Tchouameni leaves kid in tears with a wayward shot, makes up for it later Aurelien Tchouameni's wayward shot left a young Real Madrid supporter in tears during their clash against Racing Santander. The midfielder later made amends by meeting the child and signing a shirt, while Kylian Mbappe couldn't resist teasing his teammate."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/kimi-antonelli-youngest-f1-world-champion-verstappen-hamilton-3030233-2026-11-02",
+      "headline": "Verstappen, Hamilton crown new king Antonelli with fitting tribute: Watch Lewis Hamilton and Max Verstappen shared a memorable moment with Kimi Antonelli after the Italian secured his maiden Formula 1 world championship in Mexico City. The two modern greats lifted the 20-year-old on their shoulders, celebrating a historic achievement."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/formula-one/story/kimi-antonelli-formula-one-champion-youngest-mexico-city-grand-prix-3030223-2026-11-02",
@@ -349,32 +379,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-wins-vienna-title-completes-perfect-atp-500-season-3030145-2026-11-01",
-      "headline": "Alcaraz crushes De Minaur to seal Vienna title, completes perfect ATP 500 season Carlos Alcaraz brushed aside Alex de Minaur 6-1, 6-4 in the Vienna Open final to claim his fourth title of the season, complete an unbeaten 16-0 run at ATP 500 events in 2026 and extend his winning streak at the level to 26 matches."
+      "headline": "Alcaraz crushes De Minaur to seal Vienna title, completes perfect ATP 500 seasonCarlos Alcaraz brushed aside Alex de Minaur 6-1, 6-4 in the Vienna Open final to claim his fourth title of the season, complete an unbeaten 16-0 run at ATP 500 events in 2026 and extend his winning streak at the level to 26 matches."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/other-sports/story/shooting-nrai-olympic-trials-la-2028-quota-winners-no-guarantees-3030150-2026-11-01",
-      "headline": "NRAI retains Olympic trials format for LA 2028, quota winners get no guaranteees The NRAI has retained the Olympic Selection Trials format for the 2028 Los Angeles Games. Shooters, including Olympic quota winners, must compete in the trials, with selection based on performance scores and applicable quota bonus points."
+      "headline": "NRAI retains Olympic trials format for LA 2028, quota winners get no guaranteeesThe NRAI has retained the Olympic Selection Trials format for the 2028 Los Angeles Games. Shooters, including Olympic quota winners, must compete in the trials, with selection based on performance scores and applicable quota bonus points."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/tim-seifert-new-zealand-late-fightback-india-t20i-series-3030140-2026-11-01",
-      "headline": "0-3 down to back-to-back wins: Tim Seifert on New Zealand's late fightback vs India Tim Seifert reflects on New Zealand's late fightback against India after losing the first three T20Is. The hosts won the final two matches, with the opener explaining how learning from early mistakes helped them finish the series on a high."
+      "headline": "0-3 down to back-to-back wins: Tim Seifert on New Zealand's late fightback vs IndiaTim Seifert reflects on New Zealand's late fightback against India after losing the first three T20Is. The hosts won the final two matches, with the opener explaining how learning from early mistakes helped them finish the series on a high."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-mental-fatigue-coaching-india-packed-cricket-schedule-3030129-2026-11-01",
-      "headline": "12 series, little rest: Gautam Gambhir opens up on mental toll of coaching India India head coach Gautam Gambhir admitted that coaching the national team across formats has left him mentally drained at times, but said he was strong enough to handle the pressure. Having overseen 12 series in 2026, Gambhir said he was prepared to 'take the bullet' despite the demanding cricket calendar."
+      "headline": "12 series, little rest: Gautam Gambhir opens up on mental toll of coaching IndiaIndia head coach Gautam Gambhir admitted that coaching the national team across formats has left him mentally drained at times, but said he was strong enough to handle the pressure. Having overseen 12 series in 2026, Gambhir said he was prepared to 'take the bullet' despite the demanding cricket calendar."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-batting-form-mohammad-yousuf-specialist-coaching-england-australia-3030118-2026-11-01",
-      "headline": "Send Babar Azam to England, Australia to revive his form, urges Mohammad Yousuf Mohammad Yousuf has urged Babar Azam to travel to England or Australia for specialised coaching to fix his technical issues, warning that a return to domestic cricket could further dent his confidence."
+      "headline": "Send Babar Azam to England, Australia to revive his form, urges Mohammad YousufMohammad Yousuf has urged Babar Azam to travel to England or Australia for specialised coaching to fix his technical issues, warning that a return to domestic cricket could further dent his confidence."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-beats-line-kjaersfeldt-wins-hylo-open-second-title-season-3030096-2026-11-01",
-      "headline": "PV Sindhu wins Hylo Open crown, her second title of the season PV Sindhu capped her impressive European run by defeating Denmark's Line Kjaersfeldt in the women's singles final of the Hylo Open 2026 on Sunday, claiming her second title of the season."
+      "headline": "PV Sindhu wins Hylo Open crown, her second title of the seasonPV Sindhu capped her impressive European run by defeating Denmark's Line Kjaersfeldt in the women's singles final of the Hylo Open 2026 on Sunday, claiming her second title of the season."
     },
     {
       "sentiment": "positive",
@@ -445,31 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mr-beast-hardik-pandya-baseball-challenge-donate-charity-3029817-2026-11-01",
       "headline": "Hardik Pandya takes a swing in MrBeast's challenge, wins big money for charityHardik Pandya won 100,000 US Dollars after beating MrBeast in a baseball home run challenge. The India all-rounder donated his winnings to charities supporting dogs in need and underprivileged children."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-new-zealand-a-2nd-unofficial-test-day-2-match-report-3029804-2026-11-01",
-      "headline": "Dhruv Jurel hits hundred, but New Zealand A draw level at end of Day 2Dhruv Jurel converted his overnight unbeaten 99 into a century as India A posted 346 in their first innings against New Zealand A. However, an unbeaten 205-run partnership between Matthew Boyle and Dean Foxcroft helped the hosts recover from 13/3 and finish Day 2 at 218/3."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/field-hockey-artistry-modern-game-rules-tactics-fih-3029791-2026-11-01",
-      "headline": "The bullet train dilemma: Has field hockey traded its artistry for athleticism?Field hockey has become faster, fitter and more tactical, but has it lost its artistry? Data-driven strategies, frequent rule changes and relentless pace are squeezing individual brilliance and fan appeal out of the game, often leaving spectators disconnected from the game."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-playing-xi-gautam-gambhir-interview-3029786-2026-11-01",
-      "headline": "Vaibhav benched again. Gambhir says his job is not to make everyone happyVaibhav Sooryavanshi was left out again as India named their playing XI for the fifth T20I against New Zealand. Gautam Gambhir defended his selection calls, insisting that his responsibility was to make the right decisions rather than popular ones."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-new-zealand-rare-incident-match-stopped-3029763-2026-11-01",
-      "headline": "IND A vs NZ A: Man on a scooter stops play, leaves cricketers in splitsA man riding a scooter across Hagley Oval brought play to a halt during India A's second unofficial Test against New Zealand A, leaving players and commentators amused. The unusual interruption came on a day when captain Dhruv Jurel led India's recovery with an unbeaten 99."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/michael-carrick-expects-manchester-united-stay-chelsea-defeat-winless-run-3029694-2026-11-01",
-      "headline": "Michael Carrick expects to stay at Manchester United despite worrying winless runManchester United's winless run has reached nine matches after a 2-0 defeat at Chelsea, piling pressure on Michael Carrick. However, the under-fire boss expects to remain in charge for Tuesday's Champions League clash against Roma."
     }
   ],
   "education": [
