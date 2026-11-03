@@ -2,6 +2,36 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/tata-sons-tata-trusts-rift-darius-khambata-criticism-fm-sitharaman-solve-economy-rbi-listing-3031116-2026-11-03",
+      "headline": "Why Darius Khambata's letter has put the Tata Group rift back in focusDarius Khambata, who served as a trustee of both the Sir Dorabji Tata Trust and the Sir Ratan Tata Trust, has declined reappointment and sharply criticised the events surrounding the September 17 Tata Sons board meeting."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/ltcg-tax-relief-nirmala-sitharaman-budget-2027-investor-demands-3031117-2026-11-03",
+      "headline": "LTCG tax cut coming? Nirmala Sitharaman's response leaves investors guessingThe demand for LTCG tax relief is gathering pace ahead of Budget 2027, with Sebi backing concessions for foreign investors. Sitharaman has acknowledged the concerns, but will the government rethink the wider tax framework?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-today-rise-2nd-day-sensex-rises-600-points-fii-buying-lower-crude-ltcg-tax-hopes-3031139-2026-11-03",
+      "headline": "Sensex up 800 points: Why the stock market is rising for the second straight dayAt 9.28 am, the BSE Sensex was trading at 76,400.68, up 707.90 points or 0.94%. The NSE Nifty 50 gained 180.80 points, or 0.77%, to trade at 23,621.60."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-sensex-opens-500-points-higher-nifty-above-23500-indigo-up-3-3031129-2026-11-03",
+      "headline": "Sensex opens 500 points higher, Nifty above 23,500; IndiGo up 3%The BSE Sensex was trading at 76,400.68, up 707.90 points or 0.94%, at 9.28 am. The index opened at 76,288.65 and touched an early high of 76,421.48. The NSE Nifty 50 rose 180.80 points, or 0.77%, to 23,621.60. It opened at 23,582.25 and touched a high of 23,628.30."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/diwali-firecracker-accidents-will-your-health-and-fire-insurance-cover-the-damage-3030521-2026-11-03",
+      "headline": "Diwali firecracker accidents: Will your insurance cover the damage?One firecracker accident can lead to hospital visits, medical expenses or even a fire at home. But does your regular health or fire insurance cover such mishaps?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/walt-disney-eyes-thousands-of-job-cuts-asks-managers-to-target-20-savings-3031089-2026-11-03",
+      "headline": "Walt Disney eyes thousands of job cuts, asks managers to target 20% savingsThe job cuts are expected to affect some of Disney's operations more than others, including its theme parks, television channels and movie studio."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/new-aircraft-rules-airfare-break-up-cancellation-fee-disclosure-3031034-2026-11-02",
       "headline": "Airlines must show detailed fare breakup, cancellation charges under new rulesThe government has notified new rules requiring airlines to disclose a detailed fare break-up. The framework also permits airfare intervention during an undefined extraordinary situation."
     },
@@ -69,39 +99,79 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/ril-stock-reliance-shares-jump-6-percent-record-q2-earnings-o2c-jio-growth-3030308-2026-11-02",
       "headline": "Reliance shares jump over 7%: Why RIL stock is rallying todayReliance Industries shares surged over 6% after the company reported record September-quarter earnings. Strong O2C performance, Jio growth and bullish brokerage calls boosted investor sentiment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-rally-sensex-nifty-jump-crude-oil-falls-ril-share-earnings-foreign-buying-3030292-2026-11-02",
-      "headline": "Sensex jumps 1,000 points: 3 reasons why stock market is rising todayAt 9.48 am, the Sensex was up 1,002.55 points (1.35%) at 75,462.08, while the Nifty gained 267.80 points (1.16%) to trade at 23,320.90."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-sensex-opens-700-points-higher-nifty-above-23200-ril-jumps-5-3030282-2026-11-02",
-      "headline": "Sensex, Nifty rally as crude oil sees decline; RIL shares jump 6%At around 9.23 am, the BSE Sensex was trading at 75,261.40, up 801.87 points or 1.08%. The NSE Nifty 50 advanced 205.95 points, or 0.89%, to 23,259.05."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-outlook-sensex-nifty-opening-crude-oil-reliance-earnings-strong-opening-3030268-2026-11-02",
-      "headline": "Stock market today: Will Sensex, Nifty open higher or lower? RIL stock in focusSensex and Nifty are likely to open higher as crude oil prices ease and Reliance earnings strengthen sentiment. Renewed foreign buying and firm technical signals could support the market's recovery."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/high-flight-plane-ticket-prices-centre-temporary-airfare-intervention-2027-bharatiya-vayuyan-niyam-3030252-2026-11-02",
-      "headline": "Worried about expensive flights? Government can now intervene in airfaresThe government can temporarily direct airline tariffs during extraordinary situations from 2027. The rules retain market pricing while requiring clearer fare disclosures and DGCA monitoring."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/binance-hack-covers-6-billion-north-korea-tradertraitor-crypto-theft-3029703-2026-11-01",
-      "headline": "Binance says it has recovered $6 billion of $6.3 billion stolen in hackThe remaining amount, now less than 10%, consists of assets that are less liquid and may take longer to source in the required amounts, according to Binance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/750-credit-score-rs-24-lakh-salary-yet-no-home-loan-what-went-wrong-3028648-2026-10-31",
-      "headline": "750 credit score, Rs 24 lakh salary, yet no home loan: What went wrong?A healthy credit score can open doors to credit, but it does not guarantee a home loan. An IT professional earning Rs 24 lakh a year, with a score of 750, found this out when the bank rejected an Rs 80 lakh loan application."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/yash-reveals-son-dilemma-over-his-ravana-role-in-ramayana-arent-you-rama-3031148-2026-11-03",
+      "headline": "Aren't you Rama? Yash reveals son's dilemma over his Ravana role in Ramayana Actor Yash revealed how his seven-year-old son reacted to his Ravana role in Ramayana in a recent interview. The little one struggled to understand why his father wasn't playing Rama."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/shafaq-naaz-responds-trolls-karwa-chauth-sindoor-religion-zeeshan-pewekar-3031149-2026-11-03",
+      "headline": "Doesn't change my faith: Actor Shafaq Naaz defends wearing sindoor on Karwa Chauth Shafaq Naaz confronted trolls who criticised her Karwa Chauth celebrations and targeted her husband. She said celebrating another culture cannot alter religious identity and called for mutual respect."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/suriya-explains-the-one-title-fan-bond-scene-audio-launch-3031138-2026-11-03",
+      "headline": "Nadippin Nayagan to The One: Actor Suriya explains what his new tag means to him Actor-producer Suriya explained the meaning of his tag 'The One' at the Scene audio launch. He said the title symbolises his enduring unity and family-like bond with fans."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/rift-between-hanuman-ansh-producers-makers-issue-statement-on-film-rights-publicity-3031130-2026-11-03",
+      "headline": "Rift in Hanuman Ansh team? Makers issue statement on film rights, publicity Hanuman Ansh director Dr Vishal Chaturvedi and producer Namrata G Singh have clarified the film's rights and publicity arrangements. The statement follows reported internal disagreements and uncertainty over the proposed second instalment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-chiranjeevi-meet-amit-shah-over-ai-and-deepfake-misuse-3031110-2026-11-03",
+      "headline": "Ram Charan, Chiranjeevi meet Amit Shah over AI and deepfake misuse Actors Ram Charan and Chiranjeevi met Amit Shah to raise concerns about AI and deepfake misuse in films. The Home Minister assured them of stronger safeguards."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-advance-booking-rs-100-crore-dhurandhar-2-us-benchmark-3031084-2026-11-03",
+      "headline": "Rs 100 crore advance booking for Ramayana, Dhurandhar 2 record in sight Ramayana: Part One has crossed Rs 100 crore in worldwide opening-weekend advance bookings ahead of its November 5 release. Its US preview sales have surpassed seven blockbuster benchmarks and are nearing Dhurandhar 2."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/anurag-kashyap-bailable-warrant-brahmin-remarks-case-3031106-2026-11-03",
+      "headline": "Anurag Kashyap faces bailable warrant for failing to appear in Brahmin remarks case Filmmaker Anurag Kashyap faces a bailable warrant from a Surat court for not appearing in a case related to his controversial remarks against the Brahmin community on social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shanaya-kapoor-celebrates-27-with-a-spooky-bash-ananya-panday-suhana-khan-khushi-kapoor-join-the-fun-3031091-2026-11-03",
+      "headline": "Shanaya Kapoor celebrates 27 with a spooky bash. Ananya, Suhana join the fun Shanaya Kapoor celebrated her 27th birthday with a Halloween-themed dinner. Khushi Kapoor, Suhana Khan and Ananya Panday joined the spooky celebrations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/standpoint/story/dear-bollywood-urdu-is-not-a-pakistani-spy-3030725-2026-11-03",
+      "headline": "Dear Bollywood, Urdu is not a Pakistani spy! A joke in Udta Teer suggests that an Indian Hindu cannot read Urdu. Here's why that punchline is a reminder of how easily cinema erases history, claims a language for one religion and questions who gets to belong to India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mysaa-song-o-mysaa-re-rashmika-mandanna-channels-pain-and-rage-3031070-2026-11-03",
+      "headline": "O Mysaa Re: Rashmika Mandanna channels pain and rage in first Mysaa song Rashmika Mandanna's O Mysaa Re, the first song from her upcoming film Mysaa, is out now. The track presents her character's fierce side through themes of rage, courage and womanhood."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjhs-delhi-concert-was-a-blast-but-did-non-punjabi-fans-feel-left-out-3030559-2026-11-03",
+      "headline": "Diljit Dosanjh's Delhi concert was a blast, but did non-Punjabi fans feel left out? Diljit Dosanjh delivered a two-hour concert at Delhi's JLN Stadium before thousands of fans on October 30. Some non-Punjabi attendees sought more Hindi or English interactions to feel fully included."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/orry-says-sara-ali-khan-disappeared-during-his-tough-phase-recalls-fallout-3031067-2026-11-03",
+      "headline": "Orry says Sara Ali Khan disappeared during his tough phase, recalls fallout Social media influencer Orry has revealed why his friendship with actor Sara Ali Khan ended. He claimed she was not there for him when he needed her support."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-part-one-advance-booking-rs-75-crore-worldwide-3030545-2026-11-03",
+      "headline": "Rs 100-crore opening and China release: Inside Ramayana's global box-office strategy Ramayana: Part One has generated around Rs 75 crore in worldwide advance bookings. Strong domestic and overseas demand has raised expectations of a record opening."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-calls-shah-rukh-khan-the-king-on-61st-birthday-has-a-special-wish-for-him-3031065-2026-11-03",
+      "headline": "Salman Khan calls SRK 'The King' on 61st birthday, has a special wish for him Salman Khan wished Shah Rukh Khan on his 61st birthday with a sweet message. He also shared the latest song from SRK's upcoming film, King."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/the-ravana-fascination-why-yash-could-become-ramayanas-biggest-talking-point-3030998-2026-11-02",
@@ -126,128 +196,53 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-khan-confirms-king-song-with-shah-rukh-khan-on-61st-birthday-ruler-of-kingdom-3030726-2026-11-02",
       "headline": "Ruler of kingdom: Kareena Kapoor confirms King song with SRK on his 61st birthday On Shah Rukh Khan's 61st birthday, Kareena Kapoor Khan teased a glimpse of their high-energy song from director Siddharth Anand's King. The upcoming film also features actors Deepika Padukone and Suhana Khan in key roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/cm-omar-abdullah-is-qazi-fan-wants-him-to-win-bigg-boss-20-will-vote-for-him-3030630-2026-11-02",
-      "headline": "Will vote for him: CM Omar Abdullah is a Qazi fan, wants him to win Bigg Boss 20 Jammu and Kashmir Chief Minister Omar Abdullah has extended his support to singer Qazi Touqeer on Bigg Boss 20. He revealed that he will vote for the Kashmiri contestant and hopes to see him bring the trophy home."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/scam-2010-teaser-siddharth-bodke-subrata-roy-sahara-sony-liv-3030648-2026-11-02",
-      "headline": "Scam 2010: Hansal Mehta revisits financial scandals with Subrata Roy's story The Scam 2010 teaser is out. The video introduces Siddharth Bodke as Sahara founder Subrata Roy. Hansal Mehta's series examines the businessman's life and controversies ahead of its January 2027 premiere."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/kareena-kapoor-saif-ali-khan-koffee-with-karan-9-teaser-karan-johar-3030676-2026-11-02",
-      "headline": "Kareena roasts KJo, Saif roasts himself. Koffee With Karan gets cheeky in new promo Actor couple Kareena Kapoor and Saif Ali Khan join Karan Johar for Koffee With Karan 9's fourth episode. Their appearance marks the couple's return to the couch after more than a decade."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/rise-and-fall-season-2-shehzad-poonawalla-first-finalist-ultimate-ruler-manish-kashyap-sonam-malik-gautam-gulati-clash-swara-bhaskar-3030519-2026-11-02",
-      "headline": "Rise & Fall 2: Shehzad becomes 1st finalist, clashes with Swara after saving Gautam Shehzad Poonawalla won the Ticket to Finale challenge and reclaimed the Ultimate Ruler title. His victory secured the season's first finale berth and reshaped power dynamics in the Tower."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/love-always-review-jayasudha-jayaprakash-time-travel-romance-3030530-2026-11-02",
-      "headline": "Love Always review: A promising premise undone by formulaic storytellingRelease Date:Fri Oct 30, 2026 Love Always series review: Director Madhumitha's Love Always starring Jayaprakash, Jayasudha, Gouri Kishan, Ramzan Muhammed and Maya Krishnan is a fantasy romantic drama centered on an old-age couple. With a promising premise in hand, the show takes a mundane approach to document marriage, falling in and out of love."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-grieves-kaante-director-sanjay-gupta-death-true-devotee-of-art-3030483-2026-11-02",
-      "headline": "Big B mourns friend Sanjay Gupta, calls Kaante director a 'true devotee of art' Veteran actor Amitabh Bachchan paid tribute to filmmaker Sanjay Gupta following his death at the age of 57. Remembering their landmark 2002 film Kaante, Bachchan described the late director as a \"true devotee of art\" who left too soon."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/bigg-boss-malayalam-8-neha-fathima-parents-seek-exit-after-tashi-proposal-3030430-2026-11-02",
-      "headline": "Bigg Boss Malayalam 8: Neha's parents seek exit after her proposal to Tashi Neha Fathima's parents asked her to quit Bigg Boss Malayalam 8 during an emotional exchange. Their plea leaves her continuation and relationship with Tashi uncertain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-telugu-10-rohit-naidu-elimination-housemate-voting-fairness-debate-3030447-2026-11-02",
-      "headline": "Bigg Boss Telugu 10: Did Rohit Naidu's elimination expose a bigger game? Rohit Naidu Patnam was eliminated after seven housemates voted against him. The decision has renewed questions about audience voting, internal rivalries and equal treatment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/gul-gulshan-gulfam-director-and-acclaimed-dogri-writer-ved-rahi-dies-at-93-3030460-2026-11-02",
-      "headline": "Gul Gulshan Gulfam director and acclaimed Dogri writer Ved Rahi dies at 93 Veteran writer and filmmaker Ved Rahi died at his Thane residence aged 93. His career spanned Dogri literature, Hindi cinema and landmark Doordarshan productions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/nocturne-first-impression-a-terrifying-stephen-graham-an-emotionally-cold-thriller-3030350-2026-11-02",
-      "headline": "Nocturne first impression: A terrifying Stephen Graham, an emotionally cold thriller Michael Frost's return pulls former detective Jonah Lynn back towards imprisoned killer Jurek Walter. The polished psychological thriller builds menace effectively but keeps its human suffering frustratingly distant."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ranbir-kapoor-sai-pallavi-ramayana-pushpak-viman-sanjeevani-divine-wonders-3030401-2026-11-02",
-      "headline": "Pushpak Viman to Sanjeevani: Divine wonders in Ranbir Kapoor-Sai Pallavi's Ramayana Flying chariots, mountain-lifting feats of devotion, and celestial weapons of mass destruction, Ramayana: Rise of a Legend is set to bring Treta Yuga's most awe-inspiring wonders to the big screen. With the help of cutting-edge visual effects, director Nitesh Tiwari reimagines sage Valmiki's epic like never before."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sanjay-gupta-wife-anuradha-seeks-privacy-for-children-milap-zaveri-shares-statement-3030414-2026-11-02",
-      "headline": "Sanjay Gupta's wife reacts after daughter's gesture towards paps goes viral Late director Sanjay Gupta's wife, Anuradha Lekhi Gupta, has requested privacy for their children after a video of their daughter at his funeral went viral. The statement was shared by filmmaker Milap Zaveri on Instagram."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/tamil-nadu-cm-joseph-vijay-film-subsidy-rs-15-68-crore-released-to-224-tamil-producers-diwali-gift-low-budget-films-3030446-2026-11-02",
-      "headline": "CM Vijay releases Rs 15.68 crore film subsidy for 224 Tamil producers on Diwali The Tamil Nadu government, led by Chief Minister C Joseph Vijay, distributed long-pending subsidies to 224 film producers in Chennai. The assistance is intended to support low-budget cinema and families dependent on the industry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-rishikesh-ganga-meditation-after-delhi-concert-aura-tour-3030410-2026-11-02",
-      "headline": "After Delhi concert, Diljit Dosanjh finds moment of peace by the Ganga in Rishikesh Singer-actor Diljit Dosanjh visited Rishikesh and spent peaceful moments by the Ganga after his Delhi concert. The quiet retreat offered a contrast to the energy of his Aura Tour opener."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-flagged-ship-with-14-crew-members-hit-near-oman-one-seafarer-killed-3031158-2026-11-03",
+      "headline": "Gujarat sailor killed as India-flagged cargo ship comes under attack near OmanUnion Minister Sarbananda Sonowal said India-flagged MSV Al Jusufi was struck by an \"unidentified aerial object\" on Monday while navigating waters near the Omani coastline. The sailor who died was a resident of Gujarat."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/acp-manasvi-vashishtha-suspended-day-after-leading-protest-outside-delhi-police-hq-over-working-conditions-3031133-2026-11-03",
+      "headline": "Cop suspended after leading protest outside Delhi Police headquartersAround 150 Delhi Police personnel had gathered outside the Delhi Police headquarters on Monday to protest against the transfer of two officers, including ACP Manasvi Vashishtha, following a confrontation between police and lawyers at the Shahdara police station."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/florida-learjet-crash-nine-victims-identified-palm-beach-county-3031068-2026-11-03",
+      "headline": "Tech tycoon, wife and 2 kids killed in Learjet crash, were flying with friendsNine people killed after a private jet crashed into a Florida highway on Sunday have been identified. The victims included a Texas tech entrepreneur, his wife, their two young children, three other passengers and two pilots."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/two-helicopters-collide-in-nepals-solukhumbu-one-person-killed-and-another-injured-3031145-2026-11-03",
+      "headline": "Indian killed as 2 helicopters collide mid-air in Nepal, video captures accidentA 47-year-old Indian national was killed and a 53-year-old New Zealand citizen of Indian origin injured after two helicopters collided while attempting to land at a helipad in Nepal's Solukhumbu district."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-anti-india-protest-sheikh-hasina-return-ganga-water-treaty-matarbari-port-nahid-islam-tarique-rahman-itspc-3030831-2026-11-03",
+      "headline": "Anti-India rage-baiting in Bangladesh. What's fuelling it?From Dhaka's demand for a stronger Ganga water-sharing deal to opposition attacks on the Japan-sponsored Matarbari port, India-bashing is back in Bangladesh. Coming just ahead of Sheikh Hasina's promised return, can the PM Tarique Rahman prevent ties from sliding?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/cyclone-murasu-live-updates-bay-of-bengal-imd-alert-andhra-pradesh-tamil-nadu-odisha-tracker-rainfall-storm-landfall-weather-forecast-3030543-2026-11-02",
-      "headline": "Live: Cyclone Murasu makes landfall over south coastal Andhra PradeshCyclone Murasu Live Updates: Cyclone Murasu's landfall process began over south coastal Andhra Pradesh at 1 am on Tuesday, according to the latest update. The severe cyclonic storm is expected to bring heavy rainfall and strong winds to parts of Andhra Pradesh, Telangana, Tamil Nadu and Odisha. Authorities in Andhra Pradesh and Odisha have expedited evacuation efforts in vulnerable areas, while schools in Chennai have been shut as a precautionary measure. The cyclone is expected to bring wind speeds of up to 120 kmph. At least 11 flights to and from Chennai airport and 19 flights at Vijayawada airport have been cancelled due to the cyclone. Follow indiatoday.in for live updates."
+      "headline": "Live: Flooding reported in parts of Andhra after Cyclone Murasu landfallCyclone Murasu Live Updates: Cyclone Murasu's landfall process began over south coastal Andhra Pradesh at 1 am on Tuesday, according to the latest update. The severe cyclonic storm is expected to bring heavy rainfall and strong winds to parts of Andhra Pradesh, Telangana, Tamil Nadu and Odisha. Authorities in Andhra Pradesh and Odisha have expedited evacuation efforts in vulnerable areas, while schools in Chennai have been shut as a precautionary measure. The cyclone is expected to bring wind speeds of up to 120 kmph. At least 11 flights to and from Chennai airport and 19 flights at Vijayawada airport have been cancelled due to the cyclone. Follow indiatoday.in for live updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/will-trump-attack-iran-this-week-five-signs-us-israel-war-pickaxe-mountain-midterms-itspc-3030395-2026-11-03",
-      "headline": "Will Trump attack Iran this week? 5 big signs the big strike is comingAmerican warships are moving towards Iran, Israeli jets have rehearsed strikes, and US President Trump has threatened the underground Pickaxe Mountain facility. With the November 3 US midterms out of the way, and Israeli PM Netanyahu reportedly pressing Trump for renewed attacks, five developments signal the possibility of a major strike soon."
+      "url": "https://www.indiatoday.in/business/story/tata-sons-tata-trusts-rift-darius-khambata-criticism-fm-sitharaman-solve-economy-rbi-listing-3031116-2026-11-03",
+      "headline": "Why Darius Khambata's letter has put the Tata Group rift back in focusDarius Khambata, who served as a trustee of both the Sir Dorabji Tata Trust and the Sir Ratan Tata Trust, has declined reappointment and sharply criticised the events surrounding the September 17 Tata Sons board meeting."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/ghaziabad-delhi-air-pollution-pakistan-punjab-farm-fires-3031155-2026-11-03",
+      "headline": "Ghaziabad's 516 AQI beats Delhi's 456: What's happening in NCR is worrisomeDelhi is battling toxic air, but Ghaziabad's pollution is even worse. Here's what's driving the AQI spike across NCR ahead of Diwali."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/major-explosion-at-visakhapatnam-oil-refinery-sends-flames-soaring-thick-smoke-engulfs-area-3030981-2026-11-02",
-      "headline": "Blast at Visakhapatnam oil refinery sends flames soaring, thick smoke engulfs areaA major explosion was reported at an oil refinery in Visakhapatnam with massive flames and thick smoke engulfing the area. The fire has since been brought under control, with no casualties or injuries reported."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/glenn-maxwell-retirement-australia-international-cricket-career-3031052-2026-11-03",
-      "headline": "Glenn Maxwell retires from international cricket, brings curtain down on 14-year careerGlenn Maxwell has retired from international cricket, bringing an end to a 14-year Australia career across all three formats. The explosive all-rounder leaves behind a remarkable legacy, headlined by his unforgettable 201* against Afghanistan in the 2023 ODI World Cup."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/shastras-ai-iisc-professor-pratosh-ap-iit-students-3030757-2026-11-02",
-      "headline": "IISc Bengaluru professor says IIT students are studying shastras in the age of AIIISc Bengaluru professor Prathosh AP discussed with IIT students how shastras relate to reasoning and artificial intelligence. He said traditional texts could deepen intellectual inquiry and frame questions of technological responsibility."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-elections-virginia-lt-governor-ghazala-hashmi-urges-indian-americans-to-back-democrats-cites-anti-india-hate-3031060-2026-11-03",
-      "headline": "Virginia Lt Governor urges Indian-Americans to back Democrats, cites anti-India hateGhazala Hashmi urged Indian-American voters to back Democrats while warning of rising anti-India hate. She also urged US citizens to recognise the contribution of Indian-Americans and other immigrant communities to the country's economy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sridhar-vembu-joins-rss-route-march-sankarankovil-tamil-nadu-zoho-chief-scientist-intel-ananthan-ayyasamy-itspc-3030748-2026-11-02",
-      "headline": "Vembu joins RSS march, urges youth to take active role in nation-buildingZoho founder Sridhar Vembu joined an RSS march in Tamil Nadu's Tenkasi district, where he spoke about self-reliance and urged young people to contribute to nation-building. Vembu's appearance also brings attention to his active involvement in Sangh activities and his earlier remarks about Marxism."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/florida-learjet-crash-co-pilot-nathalia-filgueiras-among-nine-killed-she-got-her-licence-in-high-school-3031047-2026-11-03",
-      "headline": "Learjet Co-pilot killed in Florida crash got her pilot's licence at 17: ReportTwenty-year-old co-pilot Nathalia Gadelha Filgueiras was flying as co-pilot on the Learjet 60 travelling from Austin, Texas, to the Bahamas when it plunged towards the ground at high speed and burst into flames on Monday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mahadev-betting-app-scam-sourabh-chandrakar-bhilai-juice-seller-scam-dubai-oman-itspc-3030536-2026-11-02",
-      "headline": "How a Bhilai juice seller pulled off Rs 94,400-crore Mahadev betting app scamFrom earning Rs 15,000 a month at a juice shop in Chhattisgarh's Bhilai to allegedly running a Rs 94,400-crore betting empire from Dubai, Mahadev app kingpin Sourabh Chandrakar's rise and fall could be turned into a Netflix series. It includes a lavish Rs 200-crore wedding and luxury villas in Dubai and then being extradited to India from Oman."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/maharashtra/story/maharashtra-fda-festive-drive-seizes-food-worth-rs-9-crore-suspends-19-licences-3031063-2026-11-03",
-      "headline": "Patanjali ghee among Rs 9 crore food stock seized in Maharashtra FDA crackdownThe Maharashtra FDA suspended 19 licences and seized food worth Rs 9.01 crore during a festive-season drive. The action exposed suspected adulteration, hygiene deficiencies and food safety violations across seven divisions."
+      "url": "https://www.indiatoday.in/world/us-news/story/florida-learjet-crash-co-pilot-nathalia-filgueiras-final-text-boyfriend-captain-jeff-gregory-prayer-3031094-2026-11-03",
+      "headline": "Co-pilot's last text to boyfriend, captain's prayer before fiery Learjet crashThe plane's captain, Jeff Gregory, can be heard reciting the Lord's Prayer during a frantic distress call, while his 20-year-old co-pilot, Nathalia Filgueiras, screamed that they were about to crash."
     },
     {
       "sentiment": "positive",
@@ -261,66 +256,101 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/chandigarh-woman-spontaneous-diwali-office-dance-to-jhalla-wallah-becomes-a-hit-3030751-2026-11-02",
-      "headline": "Chandigarh woman's spontaneous Diwali office dance to Jhalla Wallah becomes a hitA Chandigarh woman has become the centre of attention online after her impromptu performance at an office Diwali party left viewers swooning."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/impact-feature/story/a-business-school-built-around-the-real-world-3027474-2026-10-29",
       "headline": "A Business School Built Around the Real WorldEstablished in 2024, the school draws on the 189-year legacy of Madras Christian College, founded in 1837, while developing a management programme for a changing business landscape."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/maldives-opposition-leader-abdulla-shahid-arrested-over-child-sexual-abuse-charges-3031057-2026-11-03",
-      "headline": "Maldives opposition leader Abdulla Shahid arrested on child sexual abuse chargesMaldives police arrested opposition leader Abdulla Shahid over allegations of sexually abusing a minor. According to the police statement issued in Dhivehi, he was arrested under Section 18 of police regulations pursuant to a court warrant executed in Male."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indian-navy-rescues-20-azini-crew-arabian-sea-somali-pirates-indian-ocean-gulf-of-aden-rajnath-singh-3030992-2026-11-02",
-      "headline": "Indian Navy foils Somali pirates' plot, rescues 20 Iranian crew from hijacked shipThe Navy intercepted the vessel and freed its crew from 12 armed pirates, with Indian Air Force support, after the hijacking off northeastern Somalia on Thursday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/fans-cheer-as-srk-steps-out-on-balcony-strikes-signature-pose-on-61st-birthday-3030815-2026-11-02",
-      "headline": "Fans cheer as SRK steps out on balcony, strikes signature pose on 61st birthdayActor Shah Rukh Khan greeted sea of fans from his Mannat balcony on his 61st birthday. The actor acknowledged the crowd by striking his signature pose."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/omar-abdullah-nidhi-rajdan-marriage-unlawful-under-sharia-muslim-jamaat-chief-fatwa-3030369-2026-11-02",
-      "headline": "Omar Abdullah and Nidhi Razdan's wedding unlawful under Sharia: Jamaat chiefMaulana Mufti Shahabuddin Razvi Barelvi declared Omar Abdullah and Nidhi Razdan's marriage unlawful under his interpretation of Sharia. The remarks have brought religious beliefs, personal freedom and the union's legal validity into focus."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/gokarna-beach-drowning-three-bengaluru-employees-killed-two-rescued-3030875-2026-11-02",
-      "headline": "3 Bengaluru techies drown after being swept away by waves at Gokarna beachFive employees entered the sea at Dubbanshashi Beach, but only two were rescued after strong waves swept them away from the shore."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tiger-shroff-car-firing-case-mumbai-woman-arrested-haryana-karnal-total-arrests-13-police-3030997-2026-11-02",
-      "headline": "Tiger Shroff firing case: Another accused arrested in Haryana, 13 caught so farA 22-year-old woman was arrested in Haryana's Karnal in connection with the firing at actor Tiger Shroff's car in Mumbai's Juhu on October 18, taking the total number of arrests in the case to 13."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-couple-quits-city-life-for-goa-breaks-down-relocation-expenses-behind-fresh-start-3030428-2026-11-02",
-      "headline": "Bengaluru couple quits city life for Goa, breaks down expenses behind fresh startRadhika and Ekansh, who have been documenting their move from Bengaluru to Goa, shared the video featuring snippets of their relocation journey and a breakdown of their expenses."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/indian-american-candidates-us-midterm-elections-governor-congress-local-races-ptag-3030874-2026-11-02",
-      "headline": "From governor to city council: Who are the Indian-Americans in fray in US midterms?Indian-American candidates are contesting federal, state and local offices in the US midterms. Their campaigns signal a broader push for representation by the 5.2 million-strong community in the US."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-advance-booking-rs-100-crore-dhurandhar-2-us-benchmark-3031084-2026-11-03",
+      "headline": "Rs 100 crore advance booking for Ramayana, Dhurandhar 2 record in sightRamayana: Part One has crossed Rs 100 crore in worldwide opening-weekend advance bookings ahead of its November 5 release. Its US preview sales have surpassed seven blockbuster benchmarks and are nearing Dhurandhar 2."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/siddaramaiah-sting-probe-gowda-accuses-kumaraswamy-3030790-2026-11-02",
-      "headline": "Kumaraswamy masterminded sting op against Siddaramaiah, alleges Karnataka ministerKarnataka Minister Krishna Byre Gowda accused Union Minister HD Kumaraswamy of masterminding the alleged sting operation targeting Siddaramaiah, claiming his team, Delhi residence and funds were used. His remarks came after the CCB searched Kannada news channel head Rakesh Shetty's home and office as part of the probe."
+      "url": "https://www.indiatoday.in/india/story/tripura-bsf-clash-four-personnel-injured-locals-attack-vehicle-3031082-2026-11-03",
+      "headline": "BSF personnel attacked with sticks during anti-smuggling ops in Tripura, 8 arrestedThe incident began after a verbal altercation broke out between BSF personnel and locals. During the argument, one BSF jawan allegedly harassed a local man on suspicion of involvement in smuggling, triggering anger among other residents."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/imagine-if-indian-protested-in-us-bombay-hcs-sharp-words-for-actor-imran-khan-over-leave-india-notice-3030554-2026-11-02",
-      "headline": "Imran Khan's unconditional apology after court says SIR protest was instigationThe Bombay High Court rebuked Imran Khan over his participation in a protest against the Election Commission, reminding him that he was an American and could not exercise the same rights as an Indian citizen."
+      "url": "https://www.indiatoday.in/india/story/bengaluru-mumbai-vande-bharat-sleeper-fares-timings-travel-time-ptag-3030880-2026-11-02",
+      "headline": "Bengaluru-Mumbai Vande Bharat Sleeper cuts six hoursThe Bengaluru-Mumbai Vande Bharat Sleeper has begun commercial operations with full bookings. Its six-hour time saving comes with higher fares compared to other, slower trains."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/nsa-ajit-doval-vietnam-hanoi-india-intelligence-sharing-classified-information-china-south-china-sea-itspc-3030794-2026-11-03",
+      "headline": "NSA Doval in Hanoi, Vietnam seeks real-time intel from India. Is China the catalyst?During NSA Ajit Doval's visit to Vietnam, Hanoi proposed real-time intelligence-sharing and a classified-information pact with India. The talks on deeper defence and cybersecurity cooperation come even as China expands its maritime presence in the South China Sea and the wider Pacific Ocean."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjhs-delhi-concert-was-a-blast-but-did-non-punjabi-fans-feel-left-out-3030559-2026-11-03",
+      "headline": "Diljit Dosanjh's Delhi concert was a blast, but did non-Punjabi fans feel left out?Diljit Dosanjh delivered a two-hour concert at Delhi's JLN Stadium before thousands of fans on October 30. Some non-Punjabi attendees sought more Hindi or English interactions to feel fully included."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/ltcg-tax-relief-nirmala-sitharaman-budget-2027-investor-demands-3031117-2026-11-03",
+      "headline": "LTCG tax cut coming? Nirmala Sitharaman's response leaves investors guessingThe demand for LTCG tax relief is gathering pace ahead of Budget 2027, with Sebi backing concessions for foreign investors. Sitharaman has acknowledged the concerns, but will the government rethink the wider tax framework?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-kmf-curd-price-cut-nandini-milk-hike-d-k-shivakumar-3031028-2026-11-02",
+      "headline": "Nandini curd prices to be cut by Rs 2 per litre, says DK Shivakumar after backlashDK Shivakumar defended the milk price hike, saying it would benefit 11 lakh farmer families, while noting that KMF had agreed to his suggestion to cut curd prices by Rs 2 per litre."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/congress-mp-bimol-akoijam-gets-interim-protection-from-arrest-in-sex-harassment-case-till-thursday-3031171-2026-11-03",
+      "headline": "Congress MP gets interim protection from arrest in JNU sex harassment caseThe Congress MP has rejected sexual harassment allegations after his dismissal from JNU. He called the action a witch hunt after the university enquiry found the accusations substantiated."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/shastras-ai-iisc-professor-pratosh-ap-iit-students-3030757-2026-11-02",
+      "headline": "IISc Bengaluru professor says IIT students are studying shastras in the age of AIIISc Bengaluru professor Prathosh AP discussed with IIT students how shastras relate to reasoning and artificial intelligence. He said traditional texts could deepen intellectual inquiry and frame questions of technological responsibility."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/chandigarh-woman-spontaneous-diwali-office-dance-to-jhalla-wallah-becomes-a-hit-3030751-2026-11-02",
+      "headline": "Chandigarh woman's spontaneous Diwali office dance to Jhalla Wallah becomes a hitA Chandigarh woman has become the centre of attention online after her impromptu performance at an office Diwali party left viewers swooning."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-strikes-irans-qeshm-island-reports-trump-signals-deal-with-tehran-drones-boats-midterms-israel-3031066-2026-11-03",
+      "headline": "US strikes Iran's Qeshm Island after Trump says deal with Tehran 'could happen'The attack on Qeshm Island took place as US President Donald Trump indicated that a deal with Tehran remained possible, even as questions persisted over whether Washington would resume military action against Iran."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sridhar-vembu-joins-rss-route-march-sankarankovil-tamil-nadu-zoho-chief-scientist-intel-ananthan-ayyasamy-itspc-3030748-2026-11-02",
+      "headline": "Vembu joins RSS march, urges youth to take active role in nation-buildingZoho founder Sridhar Vembu joined an RSS march in Tamil Nadu's Tenkasi district, where he spoke about self-reliance and urged young people to contribute to nation-building. Vembu's appearance also brings attention to his active involvement in Sangh activities and his earlier remarks about Marxism."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-lakshya-sen-no-funding-sai-badminton-3031192-2026-11-03",
+      "headline": "No money for travel, food, stay: SAI leaves badminton stars hanging in Europe PV Sindhu and Lakshya Sen signed off India's European badminton campaign with titles at the Hylo Open in Germany. Sindhu has now revealed that none of the Indian badminton players received their government funding for the Europe leg."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-india-vs-new-zealand-match-report-2nd-unofficial-test-3031169-2026-11-03",
+      "headline": "Yashasvi Jaiswal returns to form with mega hundred as India A draw New Zealand A Yashasvi Jaiswal answered his early struggles on the New Zealand A tour with a blistering 119-ball hundred in Christchurch. His innings resulted in a draw in the second four-day game between the two sides."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/dhinidhi-desinghu-interview-swimming-youth-olympics-dakar-3031135-2026-11-03",
+      "headline": "I want to be swimming's Saina Nehwal or Abhinav Bindra: Dhinidhi Desinghu India's youngest athlete at the Paris Olympics, Dhinidhi Desinghu has since become the first Indian swimmer to win a Youth Olympics medal in Dakar. At 16, the Bengaluru teenager is balancing school, the demands of elite sport and a dream of becoming a trailblazer for Indian swimming."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-pakistan-2027-odi-world-cup-match-84-lakh-ticket-requests-3031108-2026-11-03",
+      "headline": "IND vs PAK match for ODI World Cup 2027 gets 84 lakh requests for 34,000 seats The India-Pakistan clash at the 2027 ODI World Cup has attracted more than 84 lakh ticket requests. The Wanderers Stadium, where the match is going to be played, has room for only 34,000 spectators."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/sarita-gayakwad-asian-games-gold-medal-rs-69-lakh-scam-3031085-2026-11-03",
+      "headline": "How an Asian Games gold medal winner was scammed off Rs 69 lakh Asian Games gold medallist Sarita Gayakwad allegedly lost Rs 69.10 lakh after trusting a businessman who promised lucrative returns on an investment. Here's what happened."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-odi-shubman-gill-press-conference-hardik-pandya-injury-3031080-2026-11-03",
+      "headline": "Injured Hardik Pandya will play domestic cricket before India return: Gill Shubman Gill has confirmed that Hardik Pandya will have to play domestic cricket before returning to the Indian team. The all-rounder has endured a difficult few months with recurring injuries, missing several assignments since the IPL 2026 season."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/glenn-maxwell-retirement-australia-international-cricket-career-3031052-2026-11-03",
@@ -349,32 +379,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/dhinidhi-desinghu-swimming-youth-olympics-bronze-national-100m-freestyle-3030895-2026-11-02",
-      "headline": "Dhinidhi Desinghu hated swimming. Now she has made Youth Olympics history for India Dhinidhi Desinghu won bronze in the women's 100m freestyle at the Youth Olympics, setting a new national record of 56.27 seconds to become India's first Youth Olympic medallist in swimming."
+      "headline": "Dhinidhi Desinghu hated swimming. Now she has made Youth Olympics history for IndiaDhinidhi Desinghu won bronze in the women's 100m freestyle at the Youth Olympics, setting a new national record of 56.27 seconds to become India's first Youth Olympic medallist in swimming."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sarfaraz-khan-india-snub-father-naushad-home-test-opportunities-3030839-2026-11-02",
-      "headline": "Why work harder? Repeated omissions force Sarfaraz Khan to question his grind Mumbai batter Sarfaraz Khan admits he often questions the grind after repeated India snubs, but says his father Naushad's hard work remains his biggest motivation as he continues to chase an international comeback."
+      "headline": "Why work harder? Repeated omissions force Sarfaraz Khan to question his grindMumbai batter Sarfaraz Khan admits he often questions the grind after repeated India snubs, but says his father Naushad's hard work remains his biggest motivation as he continues to chase an international comeback."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-second-fitness-test-india-new-zealand-test-series-3030834-2026-11-02",
-      "headline": "Rishabh Pant faces second fitness test, could join squad directly for Wellington Test Rishabh Pant failed his first fitness test on November 1 and faces a second assessment as he looks to recover from a side strain ahead of India's Test series against New Zealand. Unlikely to play India A's third unofficial Test, Pant could join the senior squad directly in Wellington if he clears the next fitness test."
+      "headline": "Rishabh Pant faces second fitness test, could join squad directly for Wellington TestRishabh Pant failed his first fitness test on November 1 and faces a second assessment as he looks to recover from a side strain ahead of India's Test series against New Zealand. Unlikely to play India A's third unofficial Test, Pant could join the senior squad directly in Wellington if he clears the next fitness test."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-squad-sooryavanshi-abhishek-50-over-rising-stars-asia-cup-3030771-2026-11-02",
-      "headline": "ODI auditions? Sooryavanshi, Abhishek named in India A squad for 50-overs tournament India A have selected Vaibhav Sooryavanshi and Abhishek Sharma for the 50-over Rising Stars Asia Cup. The tournament offers the explosive T20 batters an opportunity to demonstrate their adaptability in the longer white-ball format."
+      "headline": "ODI auditions? Sooryavanshi, Abhishek named in India A squad for 50-overs tournamentIndia A have selected Vaibhav Sooryavanshi and Abhishek Sharma for the 50-over Rising Stars Asia Cup. The tournament offers the explosive T20 batters an opportunity to demonstrate their adaptability in the longer white-ball format."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/erik-ten-hag-cristiano-ronaldo-man-utd-fallout-hunger-commitment-3030767-2026-11-02",
-      "headline": "Erik Ten Hag tears into Cristiano Ronaldo, questions hunger to succeed for Man Utd Erik ten Hag has reignited his feud with Cristiano Ronaldo, claiming the forward's decline began at Juventus and questioning his commitment at Manchester United. The former manager has now spoken about their fallout in two recent interviews."
+      "headline": "Erik Ten Hag tears into Cristiano Ronaldo, questions hunger to succeed for Man UtdErik ten Hag has reignited his feud with Cristiano Ronaldo, claiming the forward's decline began at Juventus and questioning his commitment at Manchester United. The former manager has now spoken about their fallout in two recent interviews."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-south-korea-live-score-asian-hockey-champions-trophy-jalandhar-3030706-2026-11-02",
-      "headline": "India vs South Korea: India blow away Korea with 8-0 win India vs South Korea, Asian Champions Trophy: Harmanpreet Singh's India have beaten South Korea 8-0 in Jalandhar on Monday and will go into the semifinals unbeaten."
+      "headline": "India vs South Korea: India blow away Korea with 8-0 winIndia vs South Korea, Asian Champions Trophy: Harmanpreet Singh's India have beaten South Korea 8-0 in Jalandhar on Monday and will go into the semifinals unbeaten."
     },
     {
       "sentiment": "negative",
@@ -445,36 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/aiff-friendlies-brazil-rs-85-crore-fixed-deposit-kalyan-chaubey-3030267-2026-11-02",
       "headline": "AIFF planned to liquate FD to fill Rs 85 crore hole. Members block planThe AIFF is facing a potential Rs 80-85 crore deficit after hosting international friendlies against Brazil, Uruguay and Panama. President Kalyan Chaubey's proposal to liquidate the federation's fixed deposit to clear the dues was opposed by members at Sunday's meeting."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/russian-flag-returns-in-youth-olympics-dakar-africa-3030247-2026-11-02",
-      "headline": "Banned in 2020, Russia returns to Olympic stage with Youth Games in DakarRussian athletes have returned to the Olympic stage with their national flag and anthem at the Dakar 2026 Youth Olympic Games, marking a significant shift after years of sporting restrictions. The Games are also making history as the first Olympic sporting event to be hosted on African soil."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/aurelien-tchouameni-shot-young-fan-real-madrid-3030239-2026-11-02",
-      "headline": "Tchouameni leaves kid in tears with a wayward shot, makes up for it laterAurelien Tchouameni's wayward shot left a young Real Madrid supporter in tears during their clash against Racing Santander. The midfielder later made amends by meeting the child and signing a shirt, while Kylian Mbappe couldn't resist teasing his teammate."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/formula-one/story/kimi-antonelli-youngest-f1-world-champion-verstappen-hamilton-3030233-2026-11-02",
-      "headline": "Verstappen, Hamilton crown new king Antonelli with fitting tribute: WatchLewis Hamilton and Max Verstappen shared a memorable moment with Kimi Antonelli after the Italian secured his maiden Formula 1 world championship in Mexico City. The two modern greats lifted the 20-year-old on their shoulders, celebrating a historic achievement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/formula-one/story/kimi-antonelli-formula-one-champion-youngest-mexico-city-grand-prix-3030223-2026-11-02",
-      "headline": "20-year-old Kimi Antonelli of Mercedes crowned the youngest ever F1 championMercedes' Kimi Antonelli became the youngest-ever Formula One world champion on Sunday. In just his second season of F1, the 20-year-old broke Sebastian Vettel's 16-year-old record. He achieved the feat after finishing on the podium in Mexico City Grand Prix."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-womens-world-cup-win-on-this-day-harmanpreet-kaur-3029977-2026-11-02",
-      "headline": "The night Indian women's cricket found its wings with World Cup heistA year ago on this day, India scripted history by winning the 2025 Women's ODI World Cup. The triumph gave a generation of girls the belief to dream big, transformed the commercial landscape of women's cricket, and ushered in a new era for the sport in the country."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/harmanpreet-singh-goals-record-unclear-after-malaysia-hat-trick-3030209-2026-11-01",
-      "headline": "Has Harmanpreet Singh Balbir Singh's goals record? India captain left in limboHarmanpreet Singh scored a hat-trick against Malaysia, but confusion over Hockey India and FIH statistics has left the Indian captain unsure if he broke Balbir Singh Sr's 246-goal record. The conflicting numbers have raised questions over the historic feat."
     }
   ],
   "education": [
@@ -564,7 +564,7 @@
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
