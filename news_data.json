@@ -201,18 +201,13 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/the-reason-we-lost-is-the-war-vance-blames-iran-conflict-for-midterm-defeat-says-trump-voters-switched-sides-3032452-2026-11-04",
-      "headline": "JD Vance blames Iran war for Republicans' defeat, says Trump voters switched sidesIn a lengthy post on X, JD Vance said the main problem was not voter turnout but a shift in voter preferences. He said Republican voters had turned out in large numbers, but many were unhappy with the administration and voted for Democrats instead."
+      "url": "https://www.indiatoday.in/world/story/trump-says-its-largely-true-iran-war-hurt-republicans-in-midterms-but-says-he-would-do-it-again-3032559-2026-11-04",
+      "headline": "Trump admits Iran war hurt Republicans in midterms, but insists he would do it againDonald Trump has admitted that the Iran war contributed to Republican losses in the midterms but insisted he would launch the military campaign again to prevent Tehran from acquiring nuclear weapons."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-dismisses-sc-st-reserved-seat-rotation-plea-cji-surya-kant-protest-quip-petitioner-3032263-2026-11-04",
-      "headline": "Dialled wrong number, go protest: CJI's quip to petitioner seeking quota rotationThe Supreme Court dismissed a plea seeking rotation of Scheduled Caste and Scheduled Tribe reserved constituencies, saying the matter fell within the legislature's domain. CJI Surya Kant advised the petitioner to take up the issue with the lawmakers rather than the judiciary."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-election-results-2026-michigan-senate-race-democrat-abdul-el-sayed-bhatkal-karnataka-connection-itspc-3032171-2026-11-04",
-      "headline": "US's first Muslim senator is Karnataka's son-in-lawAbdul El-Sayed, who made history as America's first Muslim senator, has a Karnataka connection. His doctor wife, Sarah Jukaku, is the granddaughter of a former Mysore minister and MLA from Bhatkal."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-sanctions-indian-businessman-wife-and-nine-india-linked-entities-over-iran-oil-exports-3032570-2026-11-05",
+      "headline": "US sanctions Indian, Turkish firms accused of helping Iran's shadow oil fleetThe US has sanctioned an Indian couple and linked companies over alleged fraudulent ship registrations for Iranian oil carriers. The action expands Operation Economic Outcast and freezes designated assets under US jurisdiction."
     },
     {
       "sentiment": "positive",
@@ -221,23 +216,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-election-results-2026-michigan-senate-race-democrat-abdul-el-sayed-bhatkal-karnataka-connection-itspc-3032171-2026-11-04",
+      "headline": "US's first Muslim senator is Karnataka's son-in-lawAbdul El-Sayed, who made history as America's first Muslim senator, has a Karnataka connection. His doctor wife, Sarah Jukaku, is the granddaughter of a former Mysore minister and MLA from Bhatkal."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/us-midterm-election-results-trump-no-lesson-for-narendra-modi-indian-voters-premature-joculation-3032149-2026-11-04",
       "headline": "Seeing win in Trump loss is premature elationEvery time a strongman stumbles somewhere, the familiar 'lesson for Modi' tune plays here. There's jubilation. Nothing will change here because Americans voted blue. It will happen the day Indians decide it's time."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/youtube-tutorials-help-telangana-man-print-fake-currency-rs-678-crore-counterfeit-notes-seized-four-arrested-3032138-2026-11-04",
-      "headline": "Telangana man uses YouTube to master fake note printing; Rs 6.78 crore seizedTelangana police are investigating further to establish the full extent of the counterfeit currency racket, trace the absconding accused and identify others who may have been involved in the network."
+      "url": "https://www.indiatoday.in/sports/badminton/story/tanvi-patri-youth-olympics-final-first-indian-woman-badminton-history-yuzuno-watanabe-3032562-2026-11-05",
+      "headline": "15-year-old Tanvi Patri breaks new ground, enters Youth Olympic badminton finalTanvi Patri scripted history by defeating Japan's Yuzuno Watanabe 21-14, 11-21, 21-19 to reach the Youth Olympic badminton final. The 15-year-old became the first Indian woman to achieve the milestone."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/florida-citibank-shooting-two-killed-security-guard-injured-brandon-3032573-2026-11-05",
+      "headline": "Suspect among 2 dead in shooting at US Citibank Center in FloridaTwo people, including a suspected gunman, were killed in a shooting at the Citibank Center in Brandon, Florida, on Wednesday. A security guard was injured while confronting the shooter. At least four others suffered non-life-threatening injuries, authorities said."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/agnipath-scheme-agniveers-two-year-extension-permanent-service-route-3032442-2026-11-04",
-      "headline": "Agnipath reset: All Agniveers get another shot at permanent military jobsThe Union Cabinet has approved a two-year extension for Agniveers not retained after their initial four-year tenure, giving them another opportunity to join the armed forces as regular soldiers, subject to selection criteria. The decision, based on a review by the three services, comes weeks before nearly 18,300 Agniveers are due to exit by December 31."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-school-student-death-nine-year-old-class-3-girl-death-classroom-lovely-heritage-school-mayur-vihar-principal-says-it-was-cardiac-arrest-3032144-2026-11-04",
-      "headline": "9-year-old Delhi girl collapses in classroom, dies; family questions no CPRSchool authorities said the child was immediately rushed to a hospital, where doctors declared her dead and attributed the cause to cardiac arrest."
+      "url": "https://www.indiatoday.in/india/story/sharad-pawar-hospitalised-health-pm-modi-phone-call-supriya-sule-ncp-merger-buzz-3032513-2026-11-04",
+      "headline": "Supriya Sule can take care of nation: PM to ailing Sharad Pawar amid NCP merger buzzNCP (SP) chief Sharad Pawar was admitted to Mumbai's Breach Candy Hospital, hours after being discharged from a hospital in Pune. PM Modi spoke to Pawar over the phone and advised him to take complete rest, Pawar's aide said."
     },
     {
       "sentiment": "positive",
@@ -261,43 +261,43 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/mercedes-benz-glc-electric-launched-at-rs-xx-lakh-offers-715km-claimed-range-3031980-2026-11-04",
+      "headline": "Mercedes-Benz GLC Electric launched at Rs 78.5 lakh, offers 715km claimed rangeMercedes-Benz has launched the GLC Electric in India at Rs 78.5 lakh (ex-showroom), offering a 94kWh battery, dual-motor AWD, 489bhp and a claimed WLTP range of up to 715km."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/agnipath-scheme-agniveers-two-year-extension-permanent-service-route-3032442-2026-11-04",
+      "headline": "Agnipath reset: All Agniveers get another shot at permanent military jobsThe Union Cabinet has approved a two-year extension for Agniveers not retained after their initial four-year tenure, giving them another opportunity to join the armed forces as regular soldiers, subject to selection criteria. The decision, based on a review by the three services, comes weeks before nearly 18,300 Agniveers are due to exit by December 31."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-school-student-death-nine-year-old-class-3-girl-death-classroom-lovely-heritage-school-mayur-vihar-principal-says-it-was-cardiac-arrest-3032144-2026-11-04",
+      "headline": "9-year-old Delhi girl collapses in classroom, dies; family questions no CPRSchool authorities said the child was immediately rushed to a hospital, where doctors declared her dead and attributed the cause to cardiac arrest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/prashant-kishor-mocks-bihar-cm-samrat-choudhary-over-crime-apraadh-remark-3032375-2026-11-04",
+      "headline": "Class 7-fail person: Prashant Kishor mocks Bihar CM's 'crime-apraadh' distinctionPrashant Kishor mocked Bihar Chief Minister Samrat Choudhary over his crime-apraadh distinction. He also warned two defecting MLCs and backed the Madhubani shooting victim's family."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-controversies-ranbir-kapoor-sai-pallavi-ar-rahman-music-vfx-3031989-2026-11-04",
+      "headline": "Ranbir-Sai's casting to Rahman's music: 10 controversies around RamayanaNitesh Tiwari's Ramayana has sparked ten controversies spanning casting, music, visuals and legal disputes. The debates underline the scrutiny facing the Rs 4,000 crore epic before its Diwali release."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/the-reason-we-lost-is-the-war-vance-blames-iran-conflict-for-midterm-defeat-says-trump-voters-switched-sides-3032452-2026-11-04",
+      "headline": "JD Vance blames Iran war, Israel policy for Republicans' midterm defeatIn a lengthy post on X, JD Vance said the main problem was not voter turnout but a shift in voter preferences. He said Republican voters had turned out in large numbers, but many were unhappy with the administration and voted for Democrats instead."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/sc-issues-notice-on-plea-challenging-blanket-immunity-granted-to-cec-and-election-commissioners-3032170-2026-11-04",
+      "headline": "SC issues notice on plea challenging blanket immunity granted to CEC, ECsThe Supreme Court issued notice on a plea challenging the blanket immunity granted to the Chief Election Commissioner and Election Commissioners under the 2023 Act. The development came during a hearing on SIR, in which the court questioned the Election Commission's timelines and safeguards for voters."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/bombay-high-court-raps-bmc-noise-air-pollution-norms-mumbai-construction-sites-3032264-2026-11-04",
       "headline": "Officials not doing charity, must enforce noise, air pollution norms: HC raps BMCThe Bombay High Court pulled up the BMC over lax enforcement of air and noise pollution norms at construction sites, stressing that authorities must ensure compliance with such rules rather than treat it as an act of charity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/mojtaba-khamenei-warns-trumps-election-rout-will-not-change-hegemonic-policy-on-iran-war-3032316-2026-11-04",
-      "headline": "Trump's election rout won't change US policy on Iran war: Mojtaba KhameneiDonald Trump's electoral setback has done little to soften Tehran's position towards Washington. Iran's Supreme Leader, Mojtaba Khamenei, has warned that anyone expecting the Republican defeat to trigger a shift in US policy towards the Islamic Republic is \"seriously mistaken\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/cjp-legal-head-ratna-singh-contempt-proceedings-social-media-post-saket-magistrate-her-detention-3032210-2026-11-04",
-      "headline": "CJP's Ratna Singh to face contempt for social media post against Saket magistrateDelhi government counsel consented to initiating criminal contempt proceedings against Ratna Singh. The Delhi High Court will independently assess whether her posts undermined judicial authority."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/national-conference-crisis-disgruntled-mlas-omar-abdullah-cabinet-reshuffle-3032238-2026-11-04",
-      "headline": "NC turmoil: Over 10 disgruntled MLAs hold 3rd closed-door meet since reshuffleDiscontent within the National Conference deepened on Wednesday as 10 to 15 disgruntled MLAs held their third closed-door meeting since Omar Abdullah's October 27 cabinet reshuffle. The meeting coincided with the expiry of veteran leader Mubarak Gul's deadline for the party to consider his demands, including a ministerial berth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/commodities/story/dhanteras-gold-prices-2026-silver-bullion-wgc-cost-higher-despite-fall-from-january-peak-itspc-3031315-2026-11-04",
-      "headline": "Buying gold on Dhanteras? What's the value of gold bought last year?Gold prices have surged since last Dhanteras, touching a record high in January, but shoppers will still have to pay a wee bit more than they did last year. By how much has the value of the gold bought last Dhanteras risen? And what is the current demand for gold?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mahadev-case-accused-ravi-uppal-held-in-dubai-days-after-kingpin-saurabh-chandrakars-extradition-from-oman-3032365-2026-11-04",
-      "headline": "Mahadev app co-promoter Ravi Uppal held in Dubai after kingpin extradited to IndiaIndian investigative agencies have received information about Uppal's arrest through informal channels, although the UAE (UAE) authorities have not yet officially communicated the development to India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-election-results-democrats-house-senate-control-mean-for-trump-3031917-2026-11-04",
-      "headline": "What a Democrat sweep in US midterms means for TrumpDonald Trump will now have to contend with angry Democrats in both the House and Senate. The Democrats can block his agenda, decide on government spending, and also initiate impeachment proceedings. This will make Trump a lame-duck president."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/aerolaunch-india-carzspa-paint-protection-film-near-space-3031396-2026-11-04",
-      "headline": "Indian startup launches a car bonnet 21 km above Earth on a balloonAerolaunch India flew a PPF-coated miniature car bonnet to 21 km above Earth, exposing it to temperatures of -50\u00b0C and intense UV radiation."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/us-midterm-elections-america-elects-first-black-latina-native-american-women-governors-3032077-2026-11-04",
-      "headline": "US elects first Latina, Black and Native American women governors: Their storiesThe US Midterm Elections 2026 have produced several historic firsts, including three women breaking barriers in US politics. Keisha Lance Bottoms, Gina Hinojosa and Deb Haaland have become the first Black, Latina and Native American women governors, respectively. Here is a look at their education, careers and political journeys."
+      "url": "https://www.indiatoday.in/india/story/parvinder-singh-jhota-case-punjab-rs-2-crore-job-wife-3032538-2026-11-04",
+      "headline": "Rs 2 crore, govt job for Jhota's wife as Punjab reaches deal; post-mortem on Nov 6The Punjab government has agreed to provide Rs 2 crore in compensation and a government job to anti-drug activist Parvinder Singh Jhota's wife, besides installing a statue and building a trauma centre in his name. The agreement with the Justice Committee also paves the way for his post-mortem and last rites on November 6."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/owaisi-abdul-el-sayed-us-senate-michigan-win-up-assembly-election-2027-sp-congress-itspc-3032092-2026-11-04",
-      "headline": "Owaisi rejoices over Abdul's victory in US, says next Abdul will win in UPAn Abdul has won a US Senate seat, and Asaduddin Owaisi wants UP's Abduls to stop laying carpets for political leaders and start winning seats themselves. Using the victory of Abdul El-Sayed, who became the first Muslim senator, the AIMIM chief has sharpened his attack on the SP and Congress."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-elections-live-updates-trump-faces-referendum-americans-vote-decide-control-congress-senate-republicans-vs-democrats-results-3031372-2026-11-03",
+      "headline": "Live: Trump boasts of record-high stock market after Republicans' midterm routUS Midterm Election 2026 Live Updates: The 2026 US midterm elections have dealt a major blow to President Donald Trump and the Republican Party, with Democrats reclaiming control of both the Senate and the House of Representatives, giving them a majority in Congress. The Democratic surge extended into traditionally Republican strongholds, with the party flipping at least seven Senate seats in states including Kansas, Iowa, Texas, Ohio, Maine, North Carolina and South Carolina, while retaining battleground seats in Georgia and Michigan. Democrats also flipped more than two dozen House districts, including several that backed Trump by double-digit margins in 2024. In gubernatorial races, Keisha Lance Bottoms in Georgia, Amy Acton in Ohio, Rob Sand in Iowa and Gina Hinojosa in Texas defeated Republican rivals to capture party-held offices. The results mark a significant setback for Trump, leaving him with a Congress where Democrats can block his legislative agenda, reject his appointees and launch investigations into his administration during the final two years of his presidency. Stay tuned for the latest updates, including ground reports from our reporter Rohit Sharma and developments from major US media outlets."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/sc-issues-notice-on-plea-challenging-blanket-immunity-granted-to-cec-and-election-commissioners-3032170-2026-11-04",
-      "headline": "SC issues notice on plea challenging blanket immunity granted to CEC, ECsThe Supreme Court issued notice on a plea challenging the blanket immunity granted to the Chief Election Commissioner and Election Commissioners under the 2023 Act. The development came during a hearing on SIR, in which the court questioned the Election Commission's timelines and safeguards for voters."
+      "url": "https://www.indiatoday.in/world/story/mojtaba-khamenei-warns-trumps-election-rout-will-not-change-hegemonic-policy-on-iran-war-3032316-2026-11-04",
+      "headline": "Trump's election rout won't change US policy on Iran war: Mojtaba KhameneiDonald Trump's electoral setback has done little to soften Tehran's position towards Washington. Iran's Supreme Leader, Mojtaba Khamenei, has warned that anyone expecting the Republican defeat to trigger a shift in US policy towards the Islamic Republic is \"seriously mistaken\"."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-1st-odi-auckland-fast-bowlers-gurnoor-brar-anshul-kamboj-3032394-2026-11-05",
+      "headline": "Shubman promises, pacers deliver: Rookie fast bowlers impress in Auckland 1st ODI, India vs New Zealand: Gurnoor Brar brought pace, bounce and a touch of Virat Kohli-like aggression as India's young fast bowlers troubled New Zealand in Auckland, with Anshul Kamboj complementing him with a clever display of seam bowling."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/tanvi-patri-youth-olympics-final-first-indian-woman-badminton-history-yuzuno-watanabe-3032562-2026-11-05",
+      "headline": "15-year-old Tanvi Patri breaks new ground, enters Youth Olympic badminton final Tanvi Patri scripted history by defeating Japan's Yuzuno Watanabe 21-14, 11-21, 21-19 to reach the Youth Olympic badminton final. The 15-year-old became the first Indian woman to achieve the milestone."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/tennis/story/zverev-vs-musetti-paris-masters-world-no-1-defeat-3032519-2026-11-04",
+      "headline": "Zverev's No. 1 reign begins with shock loss to Musetti in Paris Masters Alexander Zverev's first match as world No. 1 ended in defeat as Lorenzo Musetti beat the German in straight sets in the Paris Masters second round. Zverev called it one of his worst performances in recent months."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-premier-league-2027-full-schedule-match-list-venue-timings-3032430-2026-11-04",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-birthday-batting-india-vs-new-zealand-odi-match-report-3032103-2026-11-04",
-      "headline": "Virat's birthday eve special seals India's win after fast bowling masterclass Virat Kohli struck 74 as India chased a rain-revised target against New Zealand. The victory also highlighted an inexperienced pace attack's decisive contribution in Auckland."
+      "headline": "Virat's birthday eve special seals India's win after fast bowling masterclassVirat Kohli struck 74 as India chased a rain-revised target against New Zealand. The victory also highlighted an inexperienced pace attack's decisive contribution in Auckland."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/jodie-burrage-death-threats-chennai-open-loss-vaishnavi-adkar-3032106-2026-11-04",
-      "headline": "British player targeted with death threats after loss to Indian at Chennai Open Jodie Burrage received death threats and online abuse after losing to India's Vaishnavi Adkar at the Chennai Open. The British tennis player shared screenshots of abusive messages on Instagram following her first-round defeat."
+      "headline": "British player targeted with death threats after loss to Indian at Chennai OpenJodie Burrage received death threats and online abuse after losing to India's Vaishnavi Adkar at the Chennai Open. The British tennis player shared screenshots of abusive messages on Instagram following her first-round defeat."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pv-sindhu-qualifies-2026-bwf-world-tour-finals-four-year-return-3032058-2026-11-04",
-      "headline": "PV Sindhu qualifies for season-ending BWF World Tour Finals after 4 years PV Sindhu has qualified for the 2026 BWF World Tour Finals in Hangzhou. The berth marks her return to the season-ending championships after four years."
+      "headline": "PV Sindhu qualifies for season-ending BWF World Tour Finals after 4 yearsPV Sindhu has qualified for the 2026 BWF World Tour Finals in Hangzhou. The berth marks her return to the season-ending championships after four years."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/other-sports/story/pv-sindhu-mirabai-chanu-elected-unopposed-ioa-athletes-commission-3031499-2026-11-03",
       "headline": "PV Sindhu, Mirabai Chanu among 10 sportspersons elected unopposed to IOA panelOlympic medallists PV Sindhu and Mirabai Chanu were among 10 sportspersons elected unopposed to the IOA Athletes' Commission on Tuesday. The polls were rendered unnecessary after two candidates withdrew, leaving exactly 10 contenders for 10 seats."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaishnavi-sharma-icc-womens-odi-ranking-zimbabwe-series-pratika-rawal-3031444-2026-11-03",
-      "headline": "Vaishnavi Sharma makes big leap in ODI rankings after dream Zimbabwe seriesVaishnavi Sharma stormed into the top 100 of the ICC Women's ODI bowling rankings, climbing 53 places to 94th after taking nine wickets in India's 3-0 series sweep against Zimbabwe. The 20-year-old became the youngest Indian bowler in 10 years to claim an ODI five-wicket haul."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-badminton-form-hylo-open-comeback-age-3030448-2026-11-03",
-      "headline": "At 31, PV Sindhu finds her spark again: Inside her return to the top sixPV Sindhu's Hylo Open triumph capped a fortnight in which she reached back-to-back finals, offering fresh hope that she is rediscovering her best form at 31. Here's the story of how she returned to her best self over the 2026 season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-amir-rules-out-ipl-2027-auction-after-british-citizenship-3031397-2026-11-03",
-      "headline": "Mohammad Amir has no IPL plans, refrains from registering for upcoming auctionMohammad Amir has decided against registering for the upcoming IPL auction, confirming that he has no immediate plans to play in the Indian league. The former Pakistan pacer, who acquired British citizenship in May 2026, is exploring franchise opportunities, having featured in The Hundred and T20 Blast."
     }
   ],
   "education": [
@@ -564,7 +564,7 @@
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
