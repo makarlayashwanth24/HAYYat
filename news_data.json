@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-rise-of-a-legend-global-success-indian-cinema-box-office-yash-sai-pallavi-ranbir-kapoor-nitesh-tiwari-namit-malhotra-3032099-2026-11-05",
+      "headline": "Beyond box office: How Ramayana's success could change Indian cinema's global game Ramayana could be more than a box-office milestone for Indian cinema. From boosting international confidence in Indian storytelling to challenging Dangal's decade-old worldwide record, here are five ways the film's success could change the industry's future."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-on-night-saif-ali-khan-was-stabbed-i-was-screaming-on-the-road-3032583-2026-11-05",
+      "headline": "I was screaming on the road: Kareena Kapoor on night Saif Ali Khan was stabbed Actor Kareena Kapoor revealed how she rushed her husband, actor Saif Ali Khan, to the hospital after he was stabbed at home. She said she ran onto the road in her night T-shirt to find the autorickshaw."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/a-cultural-leap-for-indian-cinema-allu-arjun-rishab-shetty-calls-ramayana-more-than-a-film-3032388-2026-11-04",
       "headline": "A cultural leap for us: Allu Arjun, Rishab Shetty calls Ramayana more than a film Allu Arjun, Rishab Shetty and other actors wished the Ramayana: Part 1 team ahead of its theatrical release. They called the film a celebration of Indian culture that could raise cinema's standards."
     },
@@ -186,28 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/tabu-king100-first-glimpse-mahanthi-jhansi-rani-political-avatar-3031887-2026-11-04",
       "headline": "Tabu commands power in first character glimpse from Nagarjuna's King100. Watch King100 makers unveiled actor Tabu as Mahanthi Jhansi Rani in a birthday character glimpse. The political role also marks her on-screen reunion with Nagarjuna Akkineni."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-advance-booking-nears-rs-100-crore-sells-25-lakh-tickets-3031859-2026-11-04",
-      "headline": "Ramayana's Rs 100-crore advance booking dream within reach, 25 lakh tickets sold Ramayana: Part One recorded Rs 96.56 crore in five-day advance bookings across India. The strong pre-sales put the film within reach of the Rs 100-crore milestone."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/swara-bhasker-wins-unlikely-praise-viewer-puts-politics-aside-for-rise-fall-2-3031850-2026-11-04",
-      "headline": "Swara Bhasker wins unlikely praise, viewer puts politics aside for Rise & Fall 2 Swara Bhasker earned praise for comforting Sonam Malik during an emotional moment on Rise & Fall 2. The actor shared a fan's post appreciating her support despite ideological differences."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-says-its-largely-true-iran-war-hurt-republicans-in-midterms-but-says-he-would-do-it-again-3032559-2026-11-04",
-      "headline": "Trump admits Iran war hurt Republicans in midterms, but insists he would do it againDonald Trump has admitted that the Iran war contributed to Republican losses in the midterms but insisted he would launch the military campaign again to prevent Tehran from acquiring nuclear weapons."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-sanctions-indian-businessman-wife-and-nine-india-linked-entities-over-iran-oil-exports-3032570-2026-11-05",
-      "headline": "US sanctions Indian, Turkish firms accused of helping Iran's shadow oil fleetThe US has sanctioned an Indian couple and linked companies over alleged fraudulent ship registrations for Iranian oil carriers. The action expands Operation Economic Outcast and freezes designated assets under US jurisdiction."
+      "url": "https://www.indiatoday.in/world/story/us-midterm-election-results-trump-setback-what-it-means-india-pakistan-3032244-2026-11-05",
+      "headline": "What setback to Trump in US midterms means for India, Pakistan?A major setback for Donald Trump in the US midterms, where the Democrats wrested control of Congress, is likely to have implications for India as well as Pakistan. Here's how?"
     },
     {
       "sentiment": "positive",
@@ -216,33 +211,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-election-results-2026-michigan-senate-race-democrat-abdul-el-sayed-bhatkal-karnataka-connection-itspc-3032171-2026-11-04",
-      "headline": "US's first Muslim senator is Karnataka's son-in-lawAbdul El-Sayed, who made history as America's first Muslim senator, has a Karnataka connection. His doctor wife, Sarah Jukaku, is the granddaughter of a former Mysore minister and MLA from Bhatkal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/us-midterm-election-results-trump-no-lesson-for-narendra-modi-indian-voters-premature-joculation-3032149-2026-11-04",
-      "headline": "Seeing win in Trump loss is premature elationEvery time a strongman stumbles somewhere, the familiar 'lesson for Modi' tune plays here. There's jubilation. Nothing will change here because Americans voted blue. It will happen the day Indians decide it's time."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/tanvi-patri-youth-olympics-final-first-indian-woman-badminton-history-yuzuno-watanabe-3032562-2026-11-05",
-      "headline": "15-year-old Tanvi Patri breaks new ground, enters Youth Olympic badminton finalTanvi Patri scripted history by defeating Japan's Yuzuno Watanabe 21-14, 11-21, 21-19 to reach the Youth Olympic badminton final. The 15-year-old became the first Indian woman to achieve the milestone."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-movie-release-and-review-live-updates-ranbir-kapoor-sai-pallavi-yash-sunny-deol-ravi-dubey-film-3032579-2026-11-05",
+      "headline": "Ranbir-Yash's epic opens to massive buzzRamayana Movie Review and Release Live Updates: Ranbir Kapoor's Ramayana has arrived in theatres. Follow live updates on audience reviews, celebrity reactions, performances and box-office collections."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/florida-citibank-shooting-two-killed-security-guard-injured-brandon-3032573-2026-11-05",
-      "headline": "Suspect among 2 dead in shooting at US Citibank Center in FloridaTwo people, including a suspected gunman, were killed in a shooting at the Citibank Center in Brandon, Florida, on Wednesday. A security guard was injured while confronting the shooter. At least four others suffered non-life-threatening injuries, authorities said."
+      "url": "https://www.indiatoday.in/india/story/bihar-government-removes-khagaria-sp-bhanu-pratap-singh-ips-officer-wife-pooja-singh-harassment-complaint-3032556-2026-11-04",
+      "headline": "Bihar government removes IPS officer Bhanu Pratap Singh amid marital disputeThe Bihar government has removed Bhanu Pratap Singh as Khagaria SP and called him to Patna police headquarters. The move comes amid his wife's harassment complaint, which remains under investigation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sharad-pawar-hospitalised-health-pm-modi-phone-call-supriya-sule-ncp-merger-buzz-3032513-2026-11-04",
-      "headline": "Supriya Sule can take care of nation: PM to ailing Sharad Pawar amid NCP merger buzzNCP (SP) chief Sharad Pawar was admitted to Mumbai's Breach Candy Hospital, hours after being discharged from a hospital in Pune. PM Modi spoke to Pawar over the phone and advised him to take complete rest, Pawar's aide said."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-rise-of-a-legend-global-success-indian-cinema-box-office-yash-sai-pallavi-ranbir-kapoor-nitesh-tiwari-namit-malhotra-3032099-2026-11-05",
+      "headline": "Beyond box office: How Ramayana's success could change Indian cinema's global gameRamayana could be more than a box-office milestone for Indian cinema. From boosting international confidence in Indian storytelling to challenging Dangal's decade-old worldwide record, here are five ways the film's success could change the industry's future."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-sanctions-indian-businessman-wife-and-nine-india-linked-entities-over-iran-oil-exports-3032570-2026-11-05",
+      "headline": "US sanctions Indian businessman, wife for helping Iran bypass oil curbsThe US has sanctioned an Indian couple and linked companies over alleged fraudulent ship registrations for Iranian oil carriers. The action expands Operation Economic Outcast and freezes designated assets under US jurisdiction."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-elections-results-donald-trump-iran-war-cost-of-living-consumerism-petrol-price-itspc-3031967-2026-11-04",
-      "headline": "Trump, and the Revenge of the Shopping CartWhen US President Donald Trump set the world on fire by turning the Middle East into a war zone, he thought geography would provide a buffer. He probably didn't realise how fast petroleum fires spread, and that a consumerist society would punish him for the high cost of living."
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-birthday-38-stats-greatest-batter-productivity-3032591-2026-11-05",
+      "headline": "10 days in office, 626 runs: At 38, Virat Kohli is still the employee of the yearHe has played just 10 ODIs this year, but the runs keep coming. With an average close to 70 and a strike rate above 120, Kohli is making the most of his limited international appearances, leaving even seasoned observers spellbound."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/cjp-legal-head-ratna-singh-contempt-proceedings-social-media-post-saket-magistrate-her-detention-3032210-2026-11-04",
+      "headline": "Trouble for CJP's Ratna Singh over social media posts on Delhi judgeDelhi government counsel consented to initiating criminal contempt proceedings against Ratna Singh. The Delhi High Court will independently assess whether her posts undermined judicial authority."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-on-night-saif-ali-khan-was-stabbed-i-was-screaming-on-the-road-3032583-2026-11-05",
+      "headline": "I was screaming on the road: Kareena Kapoor on night Saif Ali Khan was stabbedActor Kareena Kapoor revealed how she rushed her husband, actor Saif Ali Khan, to the hospital after he was stabbed at home. She said she ran onto the road in her night T-shirt to find the autorickshaw."
     },
     {
       "sentiment": "positive",
@@ -261,28 +261,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/mercedes-benz-glc-electric-launched-at-rs-xx-lakh-offers-715km-claimed-range-3031980-2026-11-04",
-      "headline": "Mercedes-Benz GLC Electric launched at Rs 78.5 lakh, offers 715km claimed rangeMercedes-Benz has launched the GLC Electric in India at Rs 78.5 lakh (ex-showroom), offering a 94kWh battery, dual-motor AWD, 489bhp and a claimed WLTP range of up to 715km."
+      "url": "https://www.indiatoday.in/opinion/story/us-midterm-election-results-trump-no-lesson-for-narendra-modi-indian-voters-premature-joculation-3032149-2026-11-04",
+      "headline": "Seeing win in Trump loss is premature elationEvery time a strongman stumbles somewhere, the familiar 'lesson for Modi' tune plays here. There's jubilation. Nothing will change here because Americans voted blue. It will happen the day Indians decide it's time."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/agnipath-scheme-agniveers-two-year-extension-permanent-service-route-3032442-2026-11-04",
-      "headline": "Agnipath reset: All Agniveers get another shot at permanent military jobsThe Union Cabinet has approved a two-year extension for Agniveers not retained after their initial four-year tenure, giving them another opportunity to join the armed forces as regular soldiers, subject to selection criteria. The decision, based on a review by the three services, comes weeks before nearly 18,300 Agniveers are due to exit by December 31."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-election-results-2026-michigan-senate-race-democrat-abdul-el-sayed-bhatkal-karnataka-connection-itspc-3032171-2026-11-04",
+      "headline": "US's first Muslim senator is Karnataka's son-in-lawAbdul El-Sayed, who made history as America's first Muslim senator, has a Karnataka connection. His doctor wife, Sarah Jukaku, is the granddaughter of a former Mysore minister and MLA from Bhatkal."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-school-student-death-nine-year-old-class-3-girl-death-classroom-lovely-heritage-school-mayur-vihar-principal-says-it-was-cardiac-arrest-3032144-2026-11-04",
-      "headline": "9-year-old Delhi girl collapses in classroom, dies; family questions no CPRSchool authorities said the child was immediately rushed to a hospital, where doctors declared her dead and attributed the cause to cardiac arrest."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-air-pollution-aqi-ahead-of-diwali-severe-category-very-poor-air-quality-aiims-jahangirpuri-cpcb-3032604-2026-11-05",
+      "headline": "Delhi air turns toxic ahead of Diwali as 18 stations record severe AQI, AIIMS at 402Jahangirpuri was among the worst-hit areas, recording an AQI of 459, followed by Nauroji Nagar Ring Road at 416 and the area around AIIMS at 402, all in the 'severe' category, according to the Central Pollution Control Board (CPCB)."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prashant-kishor-mocks-bihar-cm-samrat-choudhary-over-crime-apraadh-remark-3032375-2026-11-04",
-      "headline": "Class 7-fail person: Prashant Kishor mocks Bihar CM's 'crime-apraadh' distinctionPrashant Kishor mocked Bihar Chief Minister Samrat Choudhary over his crime-apraadh distinction. He also warned two defecting MLCs and backed the Madhubani shooting victim's family."
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-bhagwant-mann-punjab-drug-menace-alcohol-remarks-aap-response-3032584-2026-11-05",
+      "headline": "Smelt alcohol on him: Rahul Gandhi's barb at Bhagwant Mann triggers AAP backlashRahul Gandhi attacked Bhagwant Mann's anti-drug record and made allegations about his alcohol consumption. The exchange sharpened the Congress-AAP contest ahead of the 2027 Punjab Assembly elections."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-controversies-ranbir-kapoor-sai-pallavi-ar-rahman-music-vfx-3031989-2026-11-04",
-      "headline": "Ranbir-Sai's casting to Rahman's music: 10 controversies around RamayanaNitesh Tiwari's Ramayana has sparked ten controversies spanning casting, music, visuals and legal disputes. The debates underline the scrutiny facing the Rs 4,000 crore epic before its Diwali release."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-elections-results-donald-trump-iran-war-cost-of-living-consumerism-petrol-price-itspc-3031967-2026-11-04",
+      "headline": "Trump, and the Revenge of the Shopping CartWhen US President Donald Trump set the world on fire by turning the Middle East into a war zone, he thought geography would provide a buffer. He probably didn't realise how fast petroleum fires spread, and that a consumerist society would punish him for the high cost of living."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-chief-minister-dk-shivakumar-corporates-back-rural-education-support-1000-govt-schools-csr-funds-3032552-2026-11-05",
+      "headline": "Karnataka CM Shivakumar asks corporates to help upgrade 1,000 rural govt schoolsThe Karnataka CM reiterated the commitment to improving government school infrastructure and called upon companies to direct their CSR contributions towards educational development, particularly in rural regions."
     },
     {
       "sentiment": "positive",
@@ -291,36 +296,41 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/sc-issues-notice-on-plea-challenging-blanket-immunity-granted-to-cec-and-election-commissioners-3032170-2026-11-04",
-      "headline": "SC issues notice on plea challenging blanket immunity granted to CEC, ECsThe Supreme Court issued notice on a plea challenging the blanket immunity granted to the Chief Election Commissioner and Election Commissioners under the 2023 Act. The development came during a hearing on SIR, in which the court questioned the Election Commission's timelines and safeguards for voters."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/bombay-high-court-raps-bmc-noise-air-pollution-norms-mumbai-construction-sites-3032264-2026-11-04",
-      "headline": "Officials not doing charity, must enforce noise, air pollution norms: HC raps BMCThe Bombay High Court pulled up the BMC over lax enforcement of air and noise pollution norms at construction sites, stressing that authorities must ensure compliance with such rules rather than treat it as an act of charity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/brain-stacking-viral-trend-books-journals-puzzles-doomscrolling-boost-memory-attention-3031389-2026-11-04",
-      "headline": "Can't stop scrolling reels? Try this hack to give your brain a breakSocial media has yet another viral trend to help you get off your phones. It can be aesthetic, have that ASMR video appeal, and might just help you, for real."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/parvinder-singh-jhota-case-punjab-rs-2-crore-job-wife-3032538-2026-11-04",
-      "headline": "Rs 2 crore, govt job for Jhota's wife as Punjab reaches deal; post-mortem on Nov 6The Punjab government has agreed to provide Rs 2 crore in compensation and a government job to anti-drug activist Parvinder Singh Jhota's wife, besides installing a statue and building a trauma centre in his name. The agreement with the Justice Committee also paves the way for his post-mortem and last rites on November 6."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-elections-live-updates-trump-faces-referendum-americans-vote-decide-control-congress-senate-republicans-vs-democrats-results-3031372-2026-11-03",
-      "headline": "Live: Trump boasts of record-high stock market after Republicans' midterm routUS Midterm Election 2026 Live Updates: The 2026 US midterm elections have dealt a major blow to President Donald Trump and the Republican Party, with Democrats reclaiming control of both the Senate and the House of Representatives, giving them a majority in Congress. The Democratic surge extended into traditionally Republican strongholds, with the party flipping at least seven Senate seats in states including Kansas, Iowa, Texas, Ohio, Maine, North Carolina and South Carolina, while retaining battleground seats in Georgia and Michigan. Democrats also flipped more than two dozen House districts, including several that backed Trump by double-digit margins in 2024. In gubernatorial races, Keisha Lance Bottoms in Georgia, Amy Acton in Ohio, Rob Sand in Iowa and Gina Hinojosa in Texas defeated Republican rivals to capture party-held offices. The results mark a significant setback for Trump, leaving him with a Congress where Democrats can block his legislative agenda, reject his appointees and launch investigations into his administration during the final two years of his presidency. Stay tuned for the latest updates, including ground reports from our reporter Rohit Sharma and developments from major US media outlets."
+      "headline": "Live: Trump turns attention to White House ballroom after midterm setbackUS Midterm Election 2026 Live Updates: The US midterm results have reshaped the political landscape in Washington, with Democrats wresting control of Congress from Republicans in a major setback for President Donald Trump. Democrats flipped seven Senate seats in Kansas, Iowa, Texas, Ohio, Maine, North Carolina and South Carolina, while retaining key battleground seats in Georgia and Michigan. They also gained more than two dozen House districts, including several that had voted for Trump by double-digit margins in 2024. Trump acknowledged that the ongoing war with Iran had influenced the results, citing voter frustration over rising fuel prices. Vice President JD Vance also blamed the conflict for the Republican losses. The electoral setback has triggered turmoil within the GOP, with House Speaker Mike Johnson reportedly deciding not to seek re-election to the post. Democrats, meanwhile, are preparing a 100-day agenda centred on lowering the cost of fuel, groceries and healthcare. They are also planning extensive investigations into Trump and his administration, with impeachment among the options being considered. Stay tuned for the latest updates, including ground reports from our reporter Rohit Sharma and developments from major US media outlets."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/mojtaba-khamenei-warns-trumps-election-rout-will-not-change-hegemonic-policy-on-iran-war-3032316-2026-11-04",
-      "headline": "Trump's election rout won't change US policy on Iran war: Mojtaba KhameneiDonald Trump's electoral setback has done little to soften Tehran's position towards Washington. Iran's Supreme Leader, Mojtaba Khamenei, has warned that anyone expecting the Republican defeat to trigger a shift in US policy towards the Islamic Republic is \"seriously mistaken\"."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/from-a-mars-dream-to-an-indian-army-challenge-how-bits-students-built-gps-free-drone-tech-2998733-2026-11-05",
+      "headline": "Built for Mars, now tested by Army: BITS students develop GPS-free drone systemTwo BITS Hyderabad students have developed an indigenous vision-based navigation module that helps drones operate without GPS, following an Army officer's suggestion to explore its military applications. The technology has undergone military trials and could support autonomous defence systems."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-1st-odi-auckland-fast-bowlers-gurnoor-brar-anshul-kamboj-3032394-2026-11-05",
+      "headline": "Shubman promises, pacers deliver: Rookie fast bowlers impress in Auckland1st ODI, India vs New Zealand: Gurnoor Brar brought pace, bounce and a touch of Virat Kohli-like aggression as India's young fast bowlers troubled New Zealand in Auckland, with Anshul Kamboj complementing him with a clever display of seam bowling."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/haryana-panchkula-school-assault-boy-bail-assault-videos-removed-3032585-2026-11-05",
+      "headline": "Boy who attacked Panchkula girl gets bail, assault videos ordered off social mediaThe Juvenile Justice Board granted bail to the eight-year-old boy accused in the Panchkula school assault. The order also directed the removal of incident videos as authorities continued investigating alleged negligence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/youtube-tutorials-help-telangana-man-print-fake-currency-rs-678-crore-counterfeit-notes-seized-four-arrested-3032138-2026-11-04",
+      "headline": "Telangana man uses YouTube to master fake note printing; Rs 6.78 crore seizedTelangana police are investigating further to establish the full extent of the counterfeit currency racket, trace the absconding accused and identify others who may have been involved in the network."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-japan-asian-champions-trophy-final-mohali-preview-team-news-live-streaming-3032601-2026-11-05",
+      "headline": "India have conquered all, but Japan eye silencing Mohali crowd in ACT final India face Japan in the Asian Champions Trophy 2026 final in Mohali as Harmanpreet Singh's men chase another title. Japan, the only side to trouble India in the league stage, will look to upset the hosts and silence the home crowd."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-birthday-38-stats-greatest-batter-productivity-3032591-2026-11-05",
+      "headline": "10 days in office, 626 runs: At 38, Virat Kohli is still the employee of the year He has played just 10 ODIs this year, but the runs keep coming. With an average close to 70 and a strike rate above 120, Kohli is making the most of his limited international appearances, leaving even seasoned observers spellbound."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-1st-odi-auckland-fast-bowlers-gurnoor-brar-anshul-kamboj-3032394-2026-11-05",
@@ -364,17 +374,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-korea-live-score-asian-hockey-champions-trophy-semi-final-mohali-3032274-2026-11-04",
-      "headline": "IND vs KOR Live: IND (7-1) KOR, India on course to enter final Asian Hockey Champions Trophy Semi Final Live Score: India are well and truly on their way to play Japan in the final as they have put Korea to the sword in Mohali."
+      "headline": "IND vs KOR Highlights: India set up Japan clash in final with 8-1 win Asian Hockey Champions Trophy Semi Final Live Score: India on their way to play Japan in the final as they have put Korea to the sword in Mohali. The hosts secured an 8-1 win and are on the cusp of a record-extending 6th ACT title."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-husband-venkata-sai-datta-trusted-badminton-sounding-board-3032147-2026-11-04",
-      "headline": "PV Sindhu's husband, a sports buff, is now her trusted sounding board PV Sindhu has found a trusted sounding board in husband Venkata Sai Datta, a sports enthusiast who travels with her, watches her matches closely and isn't afraid to offer his opinions on her game."
+      "headline": "PV Sindhu's husband, a sports buff, is now her trusted sounding boardPV Sindhu has found a trusted sounding board in husband Venkata Sai Datta, a sports enthusiast who travels with her, watches her matches closely and isn't afraid to offer his opinions on her game."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-surpasses-sachin-tendulkar-most-runs-batting-chasing-odi-nz-vs-ind-3032129-2026-11-04",
-      "headline": "Virat Kohli dethrones Sachin Tendulkar to become ODI cricket's king of chases NZ vs IND 1st ODI: Virat Kohli surpassed Sachin Tendulkar to become the highest run-scorer in ODI chases. His 74 against New Zealand took his tally to 8,741 runs batting second, setting another milestone in his remarkable career."
+      "headline": "Virat Kohli dethrones Sachin Tendulkar to become ODI cricket's king of chasesNZ vs IND 1st ODI: Virat Kohli surpassed Sachin Tendulkar to become the highest run-scorer in ODI chases. His 74 against New Zealand took his tally to 8,741 runs batting second, setting another milestone in his remarkable career."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-first-odi-virat-kohli-rohit-sharma-auckland-preview-3031515-2026-11-03",
       "headline": "Rohit, Virat take centre stage as India switch to ODI World Cup prep in New ZealandIND vs NZ, 1st ODI: India begin their ODI series against New Zealand, with Virat Kohli and Rohit Sharma in focus ahead of the 2027 World Cup. Both teams face injury concerns, while Auckland's conditions could make the opening contest a challenging one."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-ipl-2027-trade-punjab-kings-mumbai-indians-captaincy-3031517-2026-11-03",
-      "headline": "Mumbai or Punjab, Hardik Pandya unlikely to get captaincy in IPL 2027Mumbai Indians and Punjab Kings are discussing a potential Hardik Pandya-Arshdeep Singh trade. Hardik is unlikely to captain either franchise in IPL 2027."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/pv-sindhu-mirabai-chanu-elected-unopposed-ioa-athletes-commission-3031499-2026-11-03",
-      "headline": "PV Sindhu, Mirabai Chanu among 10 sportspersons elected unopposed to IOA panelOlympic medallists PV Sindhu and Mirabai Chanu were among 10 sportspersons elected unopposed to the IOA Athletes' Commission on Tuesday. The polls were rendered unnecessary after two candidates withdrew, leaving exactly 10 contenders for 10 seats."
     }
   ],
   "education": [
@@ -564,7 +564,7 @@
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
