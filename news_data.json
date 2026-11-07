@@ -104,13 +104,18 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/kbc-18-shoot-paused-as-amitabh-bachchan-recovers-from-seasonal-flu-3034615-2026-11-07",
+      "headline": "KBC 18 shoot paused as Amitabh Bachchan takes a break due to ill health Filming for KBC 18 has paused as host Amitabh Bachchan reportedly fell ill. According to sources, the precautionary break is unrelated to heightened security around Jalsa."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/dilwali-diwali-review-manoj-pahwa-mihir-ahuja-film-is-like-soan-papdi-sweet-but-forgettable-3034494-2026-11-07",
       "headline": "Dilwali Diwali review: Manoj Pahwa's film is like soan papdi, sweet but forgettableRelease Date:Thu Nov 05, 2026 Dilwali Diwali review: A Diwali family reunion brings a hidden lie, clashing ideas of a better life and old colony nostalgia to the fore. This 61-minute drama has its heart in the right place but leaves you wanting more."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-indore-concert-four-songs-barred-over-alcohol-gun-culture-3034533-2026-11-07",
-      "headline": "Diljit Dosanjh Indore concert: Four songs barred over alcohol, gun culture Punjabi singer Diljit Dosanjh has been restricted from performing four of his popular tracks during his upcoming concert in Indore on November 15. Authorities issued a directive following complaints over themes promoting alcohol and gun culture."
+      "headline": "Diljit Dosanjh can't sing 'Patiala Peg', '5 Tara Theke' at Indore concert, here's why Punjabi singer Diljit Dosanjh has been restricted from performing four of his popular tracks during his upcoming concert in Indore on November 15. Authorities issued a directive following complaints over themes promoting alcohol and gun culture."
     },
     {
       "sentiment": "positive",
@@ -191,58 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/shehzad-poonawalla-calls-tej-pratap-a-clown-rules-out-close-friendship-rise-and-fall-2-3033785-2026-11-06",
       "headline": "Exclusive: Shehzad Poonawalla calls Tej Pratap a 'clown', rules out close friendship Shehzad Poonawalla called Tej Pratap Yadav the \"clown of Indian politics\" after winning Rise & Fall Season 2. In an exclusive interview, he said they are unlikely to stay in regular touch but would help him if he seeks advice."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mahesh-bhatt-emotional-ramayana-ranbir-kapoor-yash-sai-pallavi-3033718-2026-11-06",
-      "headline": "I came out in tears: Mahesh Bhatt gets emotional after watching Ramayana Mahesh Bhatt watched Ramayana among regular cinemagoers after skipping its star-studded premiere. The film revived childhood memories, moved him to tears and deepened his pride in Indian cinema."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-ayodhya-ram-temple-visit-uttar-pradesh-cm-yogi-adityanath-demands-apology-3034601-2026-11-07",
-      "headline": "Apologise to Ram devotees: CM Yogi's message as Akhilesh Yadav plans Ayodhya visitThe Uttar Pradesh CM's remarks came hours after a Samajwadi Party leader announced that Akhilesh Yadav and his wife, Dimple Yadav, would visit Ayodhya on December 12."
+      "url": "https://www.indiatoday.in/world/story/israel-president-isaac-herzog-taps-opposition-candidate-eisenkot-to-form-government-in-big-setback-for-netanyahu-3034673-2026-11-08",
+      "headline": "Israel President taps Netanyahu's rival Eisenkot to form governmentIsaac Herzog is expected to formally hand Eisenkot the mandate at a ceremony at the President's Residence at 5 pm (local time) on Sunday. Eisenkot will then have 28 days to build a governing coalition, with the president able to grant him another 14 days if he needs more time."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-diwali-soldiers-ayodhya-deepotsav-30-lakh-diyas-3034565-2026-11-07",
-      "headline": "PM urges people to work towards developed India in Diwali message, to meet soldiersIn a separate message on the government's Jan Sampark Portal, PM Modi said Diwali was an occasion to cherish India's traditions and strengthen the bonds of togetherness."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/5-killed-over-dozen-injured-in-shooting-near-krakows-main-market-square-gunman-shot-by-police-3034616-2026-11-07",
-      "headline": "5 killed as gunman opens fire in Poland's busy market, shot by copsThe Malopolska Police said the suspect drove into the Main Market Square before opening fire \"at random people from his car\". Police officers responded to the attack and shot the perpetrator. The suspect was then transported to hospital."
+      "url": "https://www.indiatoday.in/world/story/houthi-attacks-on-saudi-arabia-target-aramco-riyadh-airport-and-troops-in-new-wave-of-strikes-3034659-2026-11-07",
+      "headline": "Houthis claim attacks on Aramco, Riyadh airport in wave of strikes on Saudi ArabiaThe Houthis claimed attack on Saudi oil facilities, Riyadh airport and troop positions, and said they would continue responding to Saudi military action, warning that Saudi Arabia would face further attacks."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/uk-news/story/uk-police-handed-abused-minor-girl-fiona-goddard-back-to-pakistan-grooming-gang-3034559-2026-11-07",
-      "headline": "Enjoy your night, lads: UK cop handed abused minor back to Pak grooming gangFiona Goddard had been groomed from the age of 14 after running away from a children's home in Bradford in 2008. What began with a group of men approaching her to ask for a lighter eventually turned into years of sexual abuse, trafficking and intimidation."
+      "url": "https://www.indiatoday.in/india/story/lucknow-bound-indigo-flight-returns-to-bengaluru-after-security-threat-reported-onboard-checks-underway-3034656-2026-11-07",
+      "headline": "Lucknow-bound IndiGo flight returns to Bengaluru after security threat onboardFollowing the reported threat, the crew informed the concerned authorities, and the pilots opted to return to Bengaluru so that the necessary security checks could be conducted before the aircraft resumed its journey."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/in-focus/story/21-year-old-college-student-opens-gurugram-cafe-makes-rs-15-lakh-in-just-50-days-educ-3034340-2026-11-07",
-      "headline": "21-year-old college student opens Gurugram cafe, makes Rs 15 lakh in just 50 daysA 21-year-old college student, Ananya Agarwal, co-founded Lume & Lime, a vegetarian cafe in Gurugram that reportedly earned Rs 15 lakh in its first 50 days. While completing her management degree, she is also managing the restaurant and its Italian, Mexican and Mediterranean-inspired menu."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-emergency-mistake-indira-gandhi-rajiv-sanjay-rift-memoir-3034481-2026-11-07",
-      "headline": "Emergency a mistake: Sonia Gandhi reveals how it led to rift in familyIn a freewheeling interview ahead of the release of her memoir, Belonging: A Journey of Love, Sonia Gandhi has spoken at length on how the decision to impose the Emergency divided the family."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/lk-advani-99th-birthday-100-years-bjp-hawan-prayers-national-headquarters-3034498-2026-11-07",
-      "headline": "LK Advani enters 100th year tomorrow, BJP to hold special hawan for good healthAdvani, born on November 8, 1927, will enter his 100th year. BJP president Nitin Nabin and Union minister Piyush Goyal will address the gathering in the presence of his daughter, Pratibha Advani."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-test-retirement-agarkar-bengal-coach-laxmi-shukla-interview-3034482-2026-11-07",
-      "headline": "The last straw that broke Mohammed ShamiMohammed Shami announced his Test retirement after repeated attempts to regain his India place. His coaches linked the decision to prolonged selection snubs despite strong domestic performances."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/surat-trader-gives-rs-1-lakh-cash-each-to-employees-as-diwali-bonus-viral-video-gujarat-news-3034521-2026-11-07",
-      "headline": "Surat trader gives staff over Rs 1 lakh each as Diwali bonus, leaves them emotionalA platter full of fresh currency notes, overwhelmed employees and an unusually generous Diwali bonus have taken social media by storm. The Surat-based trader also revealed why he considers his staff family."
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-offers-ufc-boss-dana-white-white-house-press-secretary-post-3034670-2026-11-08",
+      "headline": "Dana, take the job: Trump offers White House press secretary post to UFC bossTrump announced the offer in a Saturday post on Truth Social, describing UFC boss Dana White as a \"violent fighter and warrior\" and joking that he should bring a team of UFC fighters with him to the White House."
     },
     {
       "sentiment": "positive",
@@ -251,23 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/bhopal/story/congress-mla-dinesh-jain-boss-finds-couple-in-compromising-position-in-his-room-at-bhopal-rest-house-madhya-pradesh-3034408-2026-11-07",
-      "headline": "MLA finds couple in compromising position in his room at Bhopal rest houseDinesh Jain Boss, who represents the Mahidpur Assembly constituency, has sought an enquiry into the incident, alleging that the couple had gained access to a room allotted in his name without his knowledge or permission."
+      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-ayodhya-ram-temple-visit-uttar-pradesh-cm-yogi-adityanath-demands-apology-3034601-2026-11-07",
+      "headline": "Apologise to Ram devotees: CM Yogi to Akhilesh Yadav as SP chief plans Ayodhya visitA proposed temple visit has triggered a fresh political confrontation in Uttar Pradesh, with the Chief Minister invoking the Ram Janmabhoomi movement, the 1990 firing on kar sevaks and the Opposition's past."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/a-business-school-built-around-the-real-world-3027474-2026-10-29",
-      "headline": "A Business School Built Around the Real WorldEstablished in 2024, the school draws on the 189-year legacy of Madras Christian College, founded in 1837, while developing a management programme for a changing business landscape."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/nvidia-ceo-jensen-had-romantic-relationship-with-chinese-spy-alice-report-says-us-has-intel-to-prove-it-3034359-2026-11-07",
-      "headline": "Nvidia CEO had romantic relationship with Chinese spy, report says US has intelChina sent a woman to spy on Nvidia chief Jensen Huang. The two reportedly developed a romantic relationship. The Trump administration may have intel to prove it."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/irgc-ready-to-change-iran-nuclear-doctrine-if-mojtaba-khamenei-orders-3034524-2026-11-07",
-      "headline": "Iran's Revolutionary Guards ready to change nuclear doctrine if Mojtaba ordersIRGC spokesperson Brigadier General Hossein Mohebbi made the remarks on Saturday, stressing that any change would depend on a decision by Iran's leadership."
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-test-retirement-agarkar-bengal-coach-laxmi-shukla-interview-3034482-2026-11-07",
+      "headline": "The last straw that broke Mohammed ShamiMohammed Shami announced his Test retirement after repeated attempts to regain his India place. His coaches linked the decision to prolonged selection snubs despite strong domestic performances."
     },
     {
       "sentiment": "positive",
@@ -276,13 +241,48 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bihar-cops-uncover-liquor-laden-secret-compartment-suv-bolero-expose-modified-car-roof-full-of-booze-in-nawada-3034501-2026-11-07",
-      "headline": "Car roof full of booze: Bihar cops uncover liquor-laden secret compartment on SUVA concealed chamber had been created by cutting into the vehicle's roof structure, providing space to stash a substantial quantity of illicit liquor."
+      "url": "https://www.indiatoday.in/world/uk-news/story/uk-police-handed-abused-minor-girl-fiona-goddard-back-to-pakistan-grooming-gang-3034559-2026-11-07",
+      "headline": "Enjoy your night, lads: UK cop handed abused minor back to Pak grooming gangFiona Goddard had been groomed from the age of 14 after running away from a children's home in Bradford in 2008. What began with a group of men approaching her to ask for a lighter eventually turned into years of sexual abuse, trafficking and intimidation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/bhopal/story/congress-mla-dinesh-jain-boss-finds-couple-in-compromising-position-in-his-room-at-bhopal-rest-house-madhya-pradesh-3034408-2026-11-07",
+      "headline": "MLA finds couple in compromising position in his room at Bhopal rest houseDinesh Jain Boss, who represents the Mahidpur Assembly constituency, has sought an enquiry into the incident, alleging that the couple had gained access to a room allotted in his name without his knowledge or permission."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-emergency-mistake-indira-gandhi-rajiv-sanjay-rift-memoir-3034481-2026-11-07",
+      "headline": "Emergency a mistake: Sonia Gandhi reveals how it led to rift in familyIn a freewheeling interview ahead of the release of her memoir, Belonging: A Journey of Love, Sonia Gandhi has spoken at length on how the decision to impose the Emergency divided the family."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/impact-feature/story/a-business-school-built-around-the-real-world-3027474-2026-10-29",
+      "headline": "A Business School Built Around the Real WorldEstablished in 2024, the school draws on the 189-year legacy of Madras Christian College, founded in 1837, while developing a management programme for a changing business landscape."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/surat-trader-gives-rs-1-lakh-cash-each-to-employees-as-diwali-bonus-viral-video-gujarat-news-3034521-2026-11-07",
+      "headline": "Surat trader gives each staff Rs 1 lakh cash as Diwali bonus, leaves them emotionalA platter full of fresh currency notes, overwhelmed employees and an unusually generous Diwali bonus have taken social media by storm. The Surat-based trader also revealed why he considers his staff family."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/lk-advani-99th-birthday-100-years-bjp-hawan-prayers-national-headquarters-3034498-2026-11-07",
+      "headline": "LK Advani enters 100th year today, BJP to hold special hawan for good healthAdvani, born on November 8, 1927, will enter his 100th year. BJP president Nitin Nabin and Union minister Piyush Goyal will address the gathering in the presence of his daughter, Pratibha Advani."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-military-launches-iron-gate-task-force-to-choke-irans-land-routes-to-ship-weapons-3034604-2026-11-07",
+      "headline": "US launches Iron Gate task force to choke Iran's land routes to ship weaponsThe US has formed Task Force Iron Gate to disrupt Iran's land and Caspian supply routes. The move expands Washington's pressure beyond its naval blockade around Iranian ports."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/5-killed-over-dozen-injured-in-shooting-near-krakows-main-market-square-gunman-shot-by-police-3034616-2026-11-07",
+      "headline": "6 killed as gunman opens fire in Poland's busy market, shot by copsThe Malopolska Police said the suspect drove into the Main Market Square before opening fire \"at random people from his car\". Police officers responded to the attack and shot the perpetrator. The suspect was then transported to hospital."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-indore-concert-four-songs-barred-over-alcohol-gun-culture-3034533-2026-11-07",
-      "headline": "Diljit Dosanjh Indore concert: Four songs barred over alcohol, gun culturePunjabi singer Diljit Dosanjh has been restricted from performing four of his popular tracks during his upcoming concert in Indore on November 15. Authorities issued a directive following complaints over themes promoting alcohol and gun culture."
+      "headline": "Diljit Dosanjh can't sing 'Patiala Peg', '5 Tara Theke' at Indore concert, here's whyPunjabi singer Diljit Dosanjh has been restricted from performing four of his popular tracks during his upcoming concert in Indore on November 15. Authorities issued a directive following complaints over themes promoting alcohol and gun culture."
     },
     {
       "sentiment": "positive",
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/talking-points/story/doctors-are-right-about-temple-but-we-should-let-deepinder-goyal-cook-3034270-2026-11-07",
-      "headline": "Doctors are right about Temple, but we should let Deepinder Goyal cookIt's been less than a week after preorders opened but Temple has divided Indians. One group, mostly doctors and people who consider themselves rational, are demanding proof. Its creator Deepinder Goyal, and a community of tech founders, is asking for faith. Both are right."
+      "url": "https://www.indiatoday.in/india/story/pm-modi-diwali-soldiers-ayodhya-deepotsav-30-lakh-diyas-3034565-2026-11-07",
+      "headline": "PM urges people to work towards developed India in Diwali message, to meet soldiersIn a separate message on the government's Jan Sampark Portal, PM Modi said Diwali was an occasion to cherish India's traditions and strengthen the bonds of togetherness."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/kerala/story/kerala-excise-bribe-report-v-muraleedharan-seeram-sambasiva-rao-transfer-3034549-2026-11-07",
-      "headline": "BJP accuses Keralam govt of bias after excise officer flags bribes before transferRao's report recommended a vigilance inquiry into two Excise officials and referred to a bar owner known to Excise Minister M Liju. The minister called for an investigation but denied that Rao's transfer was linked to disagreements over the department's functioning."
+      "url": "https://www.indiatoday.in/world/story/irgc-ready-to-change-iran-nuclear-doctrine-if-mojtaba-khamenei-orders-3034524-2026-11-07",
+      "headline": "Iran's Revolutionary Guards ready to change nuclear doctrine if Mojtaba ordersIRGC spokesperson Brigadier General Hossein Mohebbi made the remarks on Saturday, stressing that any change would depend on a decision by Iran's leadership."
     },
     {
       "sentiment": "positive",
@@ -311,16 +311,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-slams-bjp-abhishek-banerjee-home-attack-kali-puja-disruptions-3034352-2026-11-07",
-      "headline": "Run bulldozer over me: Mamata slams BJP over attack on Abhishek Banerjee's homeThe development came hours after Abhishek Banerjee alleged that BJP-backed goons attacked his residence on Kalighat Road around 2 am following a clash with supporters of the Mamata Banerjee-led TMC faction. He described the incident as a life-threatening attack."
+      "url": "https://www.indiatoday.in/science/story/north-india-weather-kashmir-rain-snow-november-western-disturbance-imd-winter-3034357-2026-11-07",
+      "headline": "Cold to persist across dry North on Diwali Sunday, Kashmir to get snow soonDelhi is likely to see clear skies and temperatures of 14\u201330\u00b0C as Kashmir prepares for a spell of winter precipitation brought by a weather system coming in from the west."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/south/story/tamil-nadu-periyar-library-controversy-trisha-vijay-ai-annamalai-probe-dmk-3034299-2026-11-07",
-      "headline": "Author 'Trisha Vijay', AI content: Library row snowballs, Annamalai seeks probeThe alleged irregularities in book purchases for Periyar Arivulagam were flagged by noted author Perumal Murugan in a bombshell article. It has sparked a massive political storm in Tamil Nadu and a slugfest between Vijay's TVK and the DMK."
+      "url": "https://www.indiatoday.in/technology/talking-points/story/doctors-are-right-about-temple-but-we-should-let-deepinder-goyal-cook-3034270-2026-11-07",
+      "headline": "Doctors are right about Temple, but we should let Deepinder Goyal cookIt's been less than a week after preorders opened but Temple has divided Indians. One group, mostly doctors and people who consider themselves rational, are demanding proof. Its creator Deepinder Goyal, and a community of tech founders, is asking for faith. Both are right."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/taniya-beach-wrestling-silver-india-dakar-2026-youth-olympics-3034663-2026-11-07",
+      "headline": "Taniya becomes first Indian to bag Youth Olympics beach wrestling medal Taniya scripted history at the Dakar 2026 Youth Olympics, becoming the first Indian wrestler to win a beach wrestling medal after claiming silver in the women's 75kg category. She lost 1-2 to China's Min Zhao in the gold-medal bout."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/towhid-hridoy-record-242-bangladesh-west-indies-sylhet-test-records-3034647-2026-11-07",
+      "headline": "Towhid Hridoy reaches new heights with historic 242 in Sylhet Test vs West Indies BAN vs WI, 2nd Test: Towhid Hridoy smashed an unbeaten 242 to become Bangladesh's highest individual Test run-scorer, surpassing Mushfiqur Rahim's previous record of 219 against West Indies in Sylhet."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/gael-monfils-named-france-davis-cup-captain-after-retirement-3034612-2026-11-07",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-2nd-odi-ravi-shastri-gurnoor-brar-growing-confidence-3034454-2026-11-07",
-      "headline": "NZ vs IND: Ravi Shastri spots a promising signs in Gurnoor Brar's growing confidence Gurnoor Brar's four-wicket haul against New Zealand has impressed Ravi Shastri, who sees growing confidence and a better understanding of his strengths in the young pacer. Shane Bond also praised India's inexperienced pace attack for its patience and discipline."
+      "headline": "NZ vs IND: Ravi Shastri spots a promising signs in Gurnoor Brar's growing confidenceGurnoor Brar's four-wicket haul against New Zealand has impressed Ravi Shastri, who sees growing confidence and a better understanding of his strengths in the young pacer. Shane Bond also praised India's inexperienced pace attack for its patience and discipline."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-injury-baroda-squad-syed-mushtaq-ali-trophy-2026-3034402-2026-11-07",
-      "headline": "Hardik Pandya's comeback delayed again as all-rounder misses Baroda's SMAT squad Hardik Pandya's return to competitive cricket has been delayed further after the India all-rounder was left out of Baroda's 15-member squad for the Syed Mushtaq Ali Trophy 2026 due to injury."
+      "headline": "Hardik Pandya's comeback delayed again as all-rounder misses Baroda's SMAT squadHardik Pandya's return to competitive cricket has been delayed further after the India all-rounder was left out of Baroda's 15-member squad for the Syed Mushtaq Ali Trophy 2026 due to injury."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/pv-sindhu-harmanpreet-singh-ioa-athletes-commission-appointments-3033948-2026-11-06",
       "headline": "PV Sindhu to head IOA Athletes' Commission, Harmanpreet named vice-chairpersonPV Sindhu has been named chairperson of the IOA Athletes' Commission, with Harmanpreet Singh appointed vice-chairperson. Mirabai Chanu and Sajan Prakash have also been elected as athlete representatives ahead of the IOA elections on December 5."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ex-kkr-star-chris-lynn-one-month-ban-cocaine-use-3033906-2026-11-06",
-      "headline": "Ex-KKR star completes one-month ban after testing positive for cocaine useFormer KKR batter Chris Lynn has completed a one-month ban after testing positive for a cocaine metabolite during England's T20 Blast. The Australian admitted to cocaine use, with authorities ruling it an out-of-competition offence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/brian-devine-clicky-ponting-ban-saltburn-relegation-finger-clicking-scandal-3033899-2026-11-06",
-      "headline": "Clicky Ponting pays a heavy price for a little finger trick, his club relegatedA finger-click designed to fool an umpire has cost Brian Devine two years of cricket. His club, Saltburn, have also been relegated and handed a 60-point penalty."
     }
   ],
   "education": [
