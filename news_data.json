@@ -104,6 +104,41 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-lacma-art-film-gala-2026-kim-kardashian-kylie-jenner-3034767-2026-11-08",
+      "headline": "Hrithik joins Kylie Jenner, Kim Kardashian at LACMA Art + Film Gala Hrithik Roshan attended the 2026 LACMA Art + Film Gala alongside global stars like Kim Kardashian, Kylie Jenner and Nicole Kidman. His invitation marked the first appearance by an Indian actor at the event."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-bts-photos-ranbir-kapoor-stunt-double-action-scenes-3034750-2026-11-08",
+      "headline": "Inside Ramayana's action world: Ranbir Kapoor's stunt double shares BTS pics Stunt performer Luke Ioannou shared behind-the-scenes pictures from Nitesh Tiwari's Ramayana. The images reveal elaborate action arrangements as he praises lead actor Ranbir Kapoor."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-spectacular-moments-nitesh-tiwari-ranbir-kapoor-jatayau-ravana-3033794-2026-11-08",
+      "headline": "7 moments that make Ramayana a visual spectacle Nitesh Tiwari's Ramayana brings the timeless epic to life through striking cinematic moments. Grand visual effects blend with nuanced characters, emotional storytelling and a surprise appearance by Hanuman."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/janhvi-kapoor-jokes-sridevi-saw-film-potential-after-nose-job-3034725-2026-11-08",
+      "headline": "Janhvi Kapoor jokes Sridevi saw 'potential' in her after nose job Janhvi Kapoor recalled Sridevi's initial doubts about her entering films during a conversation with Maheswari. She joked that her mother's view changed after her nose job."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sandiyar-controversy-k-krishnasamy-opposes-kamal-haasan-film-title-3034723-2026-11-08",
+      "headline": "Kamal Haasan's Sandiyar title sparks caste row, Puthiya Tamilagam founder objects Kamal Haasan's revived Sandiyar title has drawn objections from Puthiya Tamilagam founder K Krishnasamy. The dispute revives a two-decade debate over caste connotations, film imagery and political pressure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-part-1-makers-legal-action-theatre-recordings-piracy-3034708-2026-11-08",
+      "headline": "Ramayana makers call illegal theatre recordings a criminal offence, threaten action Ramayana: Part 1 makers have warned against unauthorised recording the film in cinemas and sharing footage online. Offenders could face criminal, civil and contempt proceedings under a Bombay High Court order."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-collection-day-3-rs-375-crore-worldwide-3034691-2026-11-08",
+      "headline": "Ramayana box office Day 3: Rs 375 crore in three days, Saturday sets new record Ranbir Kapoor and Yash's Ramayana: Part One earned an estimated Rs 182.70 crore worldwide on its third day. The Saturday surge took its three-day global gross to Rs 375.50 crore."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/kbc-18-shoot-paused-as-amitabh-bachchan-recovers-from-seasonal-flu-3034615-2026-11-07",
       "headline": "KBC 18 shoot paused as Amitabh Bachchan takes a break due to ill health Filming for KBC 18 has paused as host Amitabh Bachchan reportedly fell ill. According to sources, the precautionary break is unrelated to heightened security around Jalsa."
     },
@@ -161,148 +196,63 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/arasan-promo-december-4-theatrical-release-anirudh-background-score-simbu-vetri-maaran-3034273-2026-11-07",
       "headline": "Simbu's Arasan promo postponed from Diwali, may release in theatres on December 4 The Arasan team is reportedly considering a December 4 theatrical launch for its eight-minute promo. The reported delay reflects its decision to await Anirudh Ravichander's original score for the intended impact."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/teja-sajja-to-marry-us-based-partner-actor-invites-cm-revanth-reddy-to-engagement-3034243-2026-11-07",
-      "headline": "Teja Sajja to marry US-based partner; actor invites CM Revanth Reddy to engagement Actor Teja Sajja, known for pan-India films such as HanuMan (2024) and Mirai (2025), is set to get married in December 2026, according to reports. The actor personally met Telangana Chief Minister Revanth Reddy to invite him to his engagement ceremony."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/can-sita-wield-a-sword-and-still-be-goddess-the-question-at-heart-of-nitesh-tiwari-ramayana-3034241-2026-11-07",
-      "headline": "Can Sita wield a sword and still be goddess? Question at heart of Tiwari's Ramayana Nitesh Tiwari's Ramayana gives Sita a sword and the freedom to fight alongside Rama. But is this warrior Sita really a departure from the epic, or have we forgotten the many Ramayanas that imagined her differently?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-collection-day-2-smashes-rs-221-crore-worldwide-eyes-rs-500-crore-weekend-3034214-2026-11-07",
-      "headline": "Ramayana box office Day 2: Smashes Rs 221 crore worldwide, eyes Rs 500-crore weekend Nitesh Tiwari's Ramayana continued its strong run at the worldwide box office. On Day 2, a working day, the film witnessed an expected dip in collections compared to its opening day. However, it still crossed the Rs 200-crore mark worldwide, raising hopes of entering the Rs 500-crore club by the end of the weekend."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/prabhas-fans-react-as-ranbirs-ramayana-misses-adipurushs-day-1-box-office-record-sai-pallavi-yash-3033979-2026-11-06",
-      "headline": "Prabhas's fans react as Ranbir's Ramayana misses Adipurush's Day 1 box office record Actor Prabhas's fans reacted after Ramayana: Rise of a Legend's opening box office collection failed to surpass Adipurush's collection. Both films featured actors Prabhas and Ranbir Kapoor as Lord Rama."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-on-ramayana-4000-crore-buzz-vfx-focus-on-ram-sita-scriptures-ranbir-sai-pallavi-3033907-2026-11-06",
-      "headline": "Focus on Ram, Sita, scriptures: Salman Khan on Ramayana's Rs 4,000 crore buzz, VFX Actor Salman Khan urged audiences to discuss Ramayana's story rather than its budget or VFX. His remarks shifted attention towards the film's characters based on scriptures."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/unaccustomed-earth-trailer-freida-pinto-siddharth-navigate-forbidden-love-secrets-3033793-2026-11-06",
-      "headline": "Unaccustomed Earth trailer: Freida Pinto, Siddharth navigate forbidden love, secrets The Unaccustomed Earth trailer brings Freida Pinto and Siddharth into Jhumpa Lahiri's world. The eight-episode adaptation links her independent stories through love, loss and long-buried choices."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/shehzad-poonawalla-calls-tej-pratap-a-clown-rules-out-close-friendship-rise-and-fall-2-3033785-2026-11-06",
-      "headline": "Exclusive: Shehzad Poonawalla calls Tej Pratap a 'clown', rules out close friendship Shehzad Poonawalla called Tej Pratap Yadav the \"clown of Indian politics\" after winning Rise & Fall Season 2. In an exclusive interview, he said they are unlikely to stay in regular touch but would help him if he seeks advice."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-president-isaac-herzog-taps-opposition-candidate-eisenkot-to-form-government-in-big-setback-for-netanyahu-3034673-2026-11-08",
-      "headline": "Israel President taps Netanyahu's rival Eisenkot to form governmentIsaac Herzog is expected to formally hand Eisenkot the mandate at a ceremony at the President's Residence at 5 pm (local time) on Sunday. Eisenkot will then have 28 days to build a governing coalition, with the president able to grant him another 14 days if he needs more time."
+      "url": "https://www.indiatoday.in/india/story/no-agenda-such-people-have-no-place-in-up-yogi-on-owaisis-next-abdul-will-win-remark-at-aajtak-panchayat-3034770-2026-11-08",
+      "headline": "No agenda, no space for such people: Yogi on Owaisi's 'Abdul will win in UP' remarkYogi Adityanath's attack came after Owaisi invoked Abdul El-Sayed's Michigan Senate victory, saying Muslims in Uttar Pradesh should build their own political identity instead of backing other parties."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-ayodhya-ram-temple-visit-uttar-pradesh-cm-yogi-adityanath-demands-apology-3034601-2026-11-07",
-      "headline": "Apologise to Ram devotees: CM Yogi to Akhilesh Yadav as SP chief plans Ayodhya visitA proposed temple visit has triggered a fresh political confrontation in Uttar Pradesh, with the Chief Minister invoking the Ram Janmabhoomi movement, the 1990 firing on kar sevaks and the Opposition's past."
+      "url": "https://www.indiatoday.in/india/story/abhijeet-dipke-predicts-modi-defeat-2029-demands-cec-gyanesh-kumar-resignation-3034572-2026-11-08",
+      "headline": "CJP's Abhijeet Dipke predicts BJP's defeat in 2029 Lok Sabha pollsCJP founder Abhijeet Dipke addressed a Kochi protest against the SIR exercise and CEC Gyanesh Kumar. He framed electoral transparency and youth dissent as central to democratic change."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/houthi-attacks-on-saudi-arabia-target-aramco-riyadh-airport-and-troops-in-new-wave-of-strikes-3034659-2026-11-07",
-      "headline": "Houthis claim attacks on Aramco, Riyadh airport in wave of strikes on Saudi ArabiaThe Houthis claimed attack on Saudi oil facilities, Riyadh airport and troop positions, and said they would continue responding to Saudi military action, warning that Saudi Arabia would face further attacks."
+      "url": "https://www.indiatoday.in/india/story/this-is-first-diwali-in-bastar-where-naxalism-has-been-eliminated-pm-celebrates-festival-with-jawans-3034784-2026-11-08",
+      "headline": "This is first Diwali in Bastar where Naxalism has been eliminated: PM celebrates festival with jawansThis is first Diwali in Bastar where Naxalism has been eliminated: PM celebrates festival with jawans"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/lk-advani-99th-birthday-100-years-bjp-hawan-prayers-national-headquarters-3034498-2026-11-07",
-      "headline": "LK Advani enters 100th year today, BJP to hold special hawan for good healthAdvani, born on November 8, 1927, will enter his 100th year. BJP president Nitin Nabin and Union minister Piyush Goyal will address the gathering in the presence of his daughter, Pratibha Advani."
+      "url": "https://www.indiatoday.in/elections/assembly/story/yogi-adityanath-mocks-akhilesh-yadav-pda-pitch-uttar-pradesh-election-3034779-2026-11-08",
+      "headline": "Parivar Development Authority: Yogi Adityanath mocks Akhilesh Yadav's PDA pitchThrough the remarks, Adityanath sought to target the Samajwadi Party over allegations of promoting dynastic politics. BJP leaders have repeatedly accused the party's founder, Mulayam Singh Yadav, and his son Akhilesh of prioritising family interests over the development of all sections of society."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/ueno-bank-collapse-paraguay-santiago-pena-resignation-impeachment-itspc-3033647-2026-11-07",
-      "headline": "Bank collapse leaves half of Paraguay without funds, president under house arrestA bank serving nearly half of Paraguay's population has collapsed, leaving millions of customers struggling to access their savings and putting public funds at risk. President Santiago Pena, a former economist with the IMF, has been impeached and placed under house arrest."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-u19-asia-cup-live-score-aryavir-sehwag-anvay-dravid-3034714-2026-11-08",
+      "headline": "IND vs PAK Live: IND (86/5). Sehwag out. Dravid out. India in deep troubleIndia (IND) vs Pakistan (PAK) Live Score, U19 Asia Cup: India are in deep trouble against Pakistan in the U19 Asia Cup. Aaryavir Sehwag and Anvay Dravid have lost their wickets as India struggle in their group-stage match."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-offers-ufc-boss-dana-white-white-house-press-secretary-post-3034670-2026-11-08",
-      "headline": "Dana, take the job: Trump offers White House press secretary post to UFC bossTrump announced the offer in a Saturday post on Truth Social, describing UFC boss Dana White as a \"violent fighter and warrior\" and joking that he should bring a team of UFC fighters with him to the White House."
+      "url": "https://www.indiatoday.in/sunday-special/story/diwali-mumbai-pune-killa-tradition-maharashtra-first-diya-chhatrapati-shivaji-miniature-forts-history-itspc-3034013-2026-11-08",
+      "headline": "First Diwali diya for Shivaji. Killa-makers keep centuries-old tradition aliveEvery Diwali, families across Maharashtra and north Karnataka build miniature forts using stones, bricks and mud to honour the legacy of Chhatrapati Shivaji Maharaj. Some even offer the first diya to the Maratha ruler. Here's how the tradition emerged, evolved over time and found fresh momentum through social media and cash-prize competitions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/lucknow-bound-indigo-flight-returns-to-bengaluru-after-security-threat-reported-onboard-checks-underway-3034656-2026-11-07",
-      "headline": "Lucknow-bound IndiGo flight returns to Bengaluru after security threat onboardFollowing the reported threat, the crew informed the concerned authorities, and the pilots opted to return to Bengaluru so that the necessary security checks could be conducted before the aircraft resumed its journey."
+      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-should-apologise-to-devotees-for-defaming-ram-mandir-yogi-adityanath-at-aaj-tak-panchayat-3034758-2026-11-08",
+      "headline": "Akhilesh should apologise for defaming Ram Mandir: Yogi at AajTak PanchayatSpeaking at Aaj Tak Panchayata, Uttar Pradesh Chief Minister Yogi Adityanath said that Samajwadi Party leader and MP Akhilesh Yadav should apologise to devotees for defaming Ram Mandir over the years."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-test-retirement-agarkar-bengal-coach-laxmi-shukla-interview-3034482-2026-11-07",
-      "headline": "The last straw that broke Mohammed ShamiMohammed Shami announced his Test retirement after repeated attempts to regain his India place. His coaches linked the decision to prolonged selection snubs despite strong domestic performances."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-collection-day-3-rs-375-crore-worldwide-3034691-2026-11-08",
+      "headline": "Ramayana box office Day 3: Rs 375 crore in three days, Saturday sets new recordRanbir Kapoor and Yash's Ramayana: Part One earned an estimated Rs 182.70 crore worldwide on its third day. The Saturday surge took its three-day global gross to Rs 375.50 crore."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/uk-news/story/uk-police-handed-abused-minor-girl-fiona-goddard-back-to-pakistan-grooming-gang-3034559-2026-11-07",
-      "headline": "Enjoy your night, lads: UK cop handed abused minor back to Pak grooming gangFiona Goddard had been groomed from the age of 14 after running away from a children's home in Bradford in 2008. What began with a group of men approaching her to ask for a lighter eventually turned into years of sexual abuse, trafficking and intimidation."
+      "url": "https://www.indiatoday.in/opinion/story/lk-advani-at-100-birthday-bharat-ratna-partition-bjp-rath-yatra-legacy-pm-narendra-modi-3034609-2026-11-08",
+      "headline": "Bharat Ratna LK Advani Ji at 100!Two qualities always set Advani Ji apart as a leader. First, his ideological clarity and intellectual sharpness. Second, the manner in which he exposed the pseudo-secularism propounded by a large section of the Indian polity for many years."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/haryana-faridabad-shooting-singapore-based-man-killed-neighbour-parking-dispute-15-fires-sustained-eight-nine-bullets-3034226-2026-11-07",
-      "headline": "He came home from Singapore. His neighbour shot him dead over parking, dog disputeA man who had returned from Singapore for his nephew's wedding was shot dead by his neighbour, who fired 15-16 rounds from a licensed pistol following a parking dispute in Faridabad."
+      "url": "https://www.indiatoday.in/trending-news/story/udaipur-startup-gives-employees-a-diwali-gift-that-puts-their-work-fatigue-first-3033711-2026-11-06",
+      "headline": "Udaipur startup gives employees a Diwali gift that puts their work fatigue firstInfluish co-founder Sankalp Nag unveiled Diwali hampers for employees at the Udaipur office. The practical gifts drew praise online for recognising employees' hard work."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/bhopal/story/congress-mla-dinesh-jain-boss-finds-couple-in-compromising-position-in-his-room-at-bhopal-rest-house-madhya-pradesh-3034408-2026-11-07",
-      "headline": "MLA finds couple in compromising position in his room at Bhopal rest houseDinesh Jain Boss, who represents the Mahidpur Assembly constituency, has sought an enquiry into the incident, alleging that the couple had gained access to a room allotted in his name without his knowledge or permission."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/a-business-school-built-around-the-real-world-3027474-2026-10-29",
-      "headline": "A Business School Built Around the Real WorldEstablished in 2024, the school draws on the 189-year legacy of Madras Christian College, founded in 1837, while developing a management programme for a changing business landscape."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/surat-trader-gives-rs-1-lakh-cash-each-to-employees-as-diwali-bonus-viral-video-gujarat-news-3034521-2026-11-07",
-      "headline": "Surat trader gives each staff Rs 1 lakh cash as Diwali bonus, leaves them emotionalA platter full of fresh currency notes, overwhelmed employees and an unusually generous Diwali bonus have taken social media by storm. The Surat-based trader also revealed why he considers his staff family."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-emergency-mistake-indira-gandhi-rajiv-sanjay-rift-memoir-3034481-2026-11-07",
-      "headline": "Emergency a mistake: Sonia Gandhi reveals how it led to rift in familyIn a freewheeling interview ahead of the release of her memoir, Belonging: A Journey of Love, Sonia Gandhi has spoken at length on how the decision to impose the Emergency divided the family."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-military-launches-iron-gate-task-force-to-choke-irans-land-routes-to-ship-weapons-3034604-2026-11-07",
-      "headline": "US launches Iron Gate task force to choke Iran's land routes to ship weaponsThe US has formed Task Force Iron Gate to disrupt Iran's land and Caspian supply routes. The move expands Washington's pressure beyond its naval blockade around Iranian ports."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/5-killed-over-dozen-injured-in-shooting-near-krakows-main-market-square-gunman-shot-by-police-3034616-2026-11-07",
-      "headline": "Poland shooting: 6 killed in Krakow square, 3 more bodies found at gunman's homeThe investigation took a further turn after authorities discovered three bodies at the suspect's home in Ostrowiec Swietokrzyski, nearly 200 kilometres north of Krakow."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-indore-concert-four-songs-barred-over-alcohol-gun-culture-3034533-2026-11-07",
-      "headline": "Diljit Dosanjh can't sing 'Patiala Peg', '5 Tara Theke' at Indore concert, here's whyPunjabi singer Diljit Dosanjh has been restricted from performing four of his popular tracks during his upcoming concert in Indore on November 15. Authorities issued a directive following complaints over themes promoting alcohol and gun culture."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-647-06-11-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-diwali-soldiers-ayodhya-deepotsav-30-lakh-diyas-3034565-2026-11-07",
-      "headline": "PM urges people to work towards developed India in Diwali message, to meet soldiersIn a separate message on the government's Jan Sampark Portal, PM Modi said Diwali was an occasion to cherish India's traditions and strengthen the bonds of togetherness."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/paraguay-court-orders-ex-president-pena-detained-in-probe-into-collapsed-digital-lender-3034677-2026-11-08",
-      "headline": "Paraguay's ousted president Pe\u00f1a ordered detained over collapsed lenderA Paraguayan court ordered former president Santiago Pe\u00f1a into pretrial detention over alleged links to ueno. The case deepens a political and financial crisis following the digital lender's collapse."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/donald-trump-congressional-defeat-shutdowns-vetoes-global-disruption-3034154-2026-11-07",
-      "headline": "Beware of the wounded beast: Trump can still cause a lot of havocA normal President would have been considered a lame duck after losing the House and Senate. Trump is not a normal President. He will not go gently into the night. He will try to make his pain stop by making everyone else hurt more."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/kanpur/story/kanpur-man-killed-as-speeding-thar-driven-by-woman-learner-driver-rams-his-scooter-3034681-2026-11-08",
+      "headline": "Woman learner driver rams Thar into man's scooter, kills him on Diwali eve, fleesA 55-year-old man was killed after a speeding Mahindra Thar rammed his scooter in Kanpur on Saturday evening. The SUV, driven by a woman learner driver, crashed through residential boundary walls after the collision, while its three occupants fled the scene in another car."
     },
     {
       "sentiment": "positive",
@@ -311,16 +261,96 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/explosions-reported-in-iran-as-2-tankers-hit-mines-in-strait-of-hormuz-3034676-2026-11-08",
-      "headline": "Blasts rock southern Iran, 2 tankers catch fire amid US blockade of HormuzExplosions were reported across southern Iran as two tankers caught fire in the Strait of Hormuz. The incidents intensified tensions over Washington's blockade and fears of renewed American strikes."
+      "url": "https://www.indiatoday.in/impact-feature/story/a-business-school-built-around-the-real-world-3027474-2026-10-29",
+      "headline": "A Business School Built Around the Real WorldEstablished in 2024, the school draws on the 189-year legacy of Madras Christian College, founded in 1837, while developing a management programme for a changing business landscape."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/north-india-weather-kashmir-rain-snow-november-western-disturbance-imd-winter-3034357-2026-11-07",
-      "headline": "Cold to persist across dry North on Diwali Sunday, Kashmir to get snow soonDelhi is likely to see clear skies and temperatures of 14\u201330\u00b0C as Kashmir prepares for a spell of winter precipitation brought by a weather system coming in from the west."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-spectacular-moments-nitesh-tiwari-ranbir-kapoor-jatayau-ravana-3033794-2026-11-08",
+      "headline": "7 moments that make Ramayana a visual spectacleNitesh Tiwari's Ramayana brings the timeless epic to life through striking cinematic moments. Grand visual effects blend with nuanced characters, emotional storytelling and a surprise appearance by Hanuman."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-new-zealand-odi-kl-rahul-smartphone-gift-hnry-stadium-staff-member-3034720-2026-11-08",
+      "headline": "KL Rahul's award turns into a gift for Hnry Stadium staff memberKL Rahul's composed effort helped India through a tricky chase in Wellington, but it was what he did with his prize afterwards that caught attention. The India batter gifted his smartphone reward to a female member of the stadium staff."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/over-20-injured-after-57-magnitude-earthquake-strikes-central-japan-no-tsunami-warning-issued-3034713-2026-11-08",
+      "headline": "Over 20 injured as 5.7 magnitude quake jolts Japan, no tsunami warning issuedThe earthquake struck at around 1.04 am local time, with its epicentre in the western part of Shizuoka Prefecture, at a depth of approximately 40 km."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/ueno-bank-collapse-paraguay-santiago-pena-resignation-impeachment-itspc-3033647-2026-11-07",
+      "headline": "Bank collapse leaves half of Paraguay without funds, president under house arrestA bank serving nearly half of Paraguay's population has collapsed, leaving millions of customers struggling to access their savings and putting public funds at risk. President Santiago Pena, a former economist with the IMF, has been impeached and placed under house arrest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/indian-puzzle-newspapers-screen-free-fun-adults-2026-3034715-2026-11-08",
+      "headline": "Remember Champak and Nandan? Puzzle newspapers are bringing that joy backRemember spending hours solving puzzles in magazines like Champak and Nandan? Puzzle newspapers are bringing back that simple joy, with a nostalgic twist for grown-ups."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-647-06-11-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/usman-khawaja-sandpapergate-claims-ball-tampering-david-warner-3034690-2026-11-08",
+      "headline": "Promised Warner that I would tell the truth: Khawaja on Sandpapergate claimsUsman Khawaja has revealed that he tried to expose Australia's collective involvement in Sandpapergate as early as 2018, but was talked out of it by Steve Smith. He also explained why he finally decided to speak up in his upcoming autobiography, Sabr."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-air-pollution-aqi-severe-diwali-grap-stage-3-restrictions-3034680-2026-11-08",
+      "headline": "Delhi chokes on Diwali as AQI climbs to 384, nears severe markDelhi recorded severe air quality at 11 monitoring stations on Diwali morning. Unfavourable weather, emissions and festive activity intensified concerns as GRAP Stage III remained enforced."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/deep-dive/story/us-midterm-elections-how-the-democratic-win-could-affect-indian-jobs-education-and-visas-3033974-2026-11-08",
+      "headline": "US midterm blue wave: Could Indian students and workers get a fairer deal right now?Handcrafted ByOur Editors Democrats have won control of both chambers of the US Congress in the 2026 midterm elections. Could this make America more welcoming for Indian students and professionals? Experts explain what the political shift could mean for OPT, STEM OPT, H-1B visas, green cards and university admissions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/argentina-launches-public-recruitment-drive-for-intelligence-agents-receives-40000-applications-educ-3034733-2026-11-08",
+      "headline": "Forget corporate jobs, Argentina is hiring spies and 40,000 people have appliedArgentina's intelligence agency has received over 40,000 applications within 24 hours of launching its first public recruitment drive. The campaign seeks fresh talent across intelligence, technology, cybersecurity, and strategic analysis."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/israel-president-isaac-herzog-taps-opposition-candidate-eisenkot-to-form-government-in-big-setback-for-netanyahu-3034673-2026-11-08",
+      "headline": "Israel President taps Benjamin Netanyahu's rival Gadi Eisenkot to form governmentIsaac Herzog is expected to formally hand Eisenkot the mandate at a ceremony at the President's Residence at 5 pm (local time) on Sunday. Eisenkot will then have 28 days to build a governing coalition, with the president able to grant him another 14 days if he needs more time."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rajat-patidar-withdraws-india-a-squad-pauses-odis-fitness-concerns-3034777-2026-11-08",
+      "headline": "Rajat Patidar takes time off from ODIs, withdraws from India A squad Rajat Patidar has withdrawn from the India A squad for the ACC Rising Stars Asia Cup as he manages his existing injuries. Ayush Badoni has been named as his replacement, while Rinku Singh takes over as vice-captain."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/east-bengal-maiden-afc-womens-champions-league-quarter-final-berth-3034740-2026-11-08",
+      "headline": "East Bengal secure historic AFC Women's Champions League quarter-finals East Bengal's wait for a historic continental breakthrough is finally over. The Moshal Girls have become the first Indian club to reach the AFC Women's Champions League quarter-finals, achieving the feat a year after narrowly missing out on goal difference."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-new-zealand-odi-kl-rahul-smartphone-gift-hnry-stadium-staff-member-3034720-2026-11-08",
+      "headline": "KL Rahul's award turns into a gift for Hnry Stadium staff member KL Rahul's composed effort helped India through a tricky chase in Wellington, but it was what he did with his prize afterwards that caught attention. The India batter gifted his smartphone reward to a female member of the stadium staff."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-u19-asia-cup-live-score-aryavir-sehwag-anvay-dravid-3034714-2026-11-08",
+      "headline": "IND vs PAK Live: IND (86/5). Sehwag out. Dravid out. India in deep trouble India (IND) vs Pakistan (PAK) Live Score, U19 Asia Cup: India are in deep trouble against Pakistan in the U19 Asia Cup. Aaryavir Sehwag and Anvay Dravid have lost their wickets as India struggle in their group-stage match."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/laliga-real-madrid-barcelona-points-table-3034697-2026-11-08",
+      "headline": "LaLiga race heats up as Real Madrid draw level with Barcelona Real Madrid moved level with Barcelona on 30 points after a comfortable 3-0 victory over Valencia. Atletico Madrid could shake up the LaLiga title race when they face Barcelona on Sunday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/usman-khawaja-sandpapergate-claims-ball-tampering-david-warner-3034690-2026-11-08",
+      "headline": "Promised Warner that I would tell the truth: Khawaja on Sandpapergate claims Usman Khawaja has revealed that he tried to expose Australia's collective involvement in Sandpapergate as early as 2018, but was talked out of it by Steve Smith. He also explained why he finally decided to speak up in his upcoming autobiography, Sabr."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/taniya-beach-wrestling-silver-india-dakar-2026-youth-olympics-3034663-2026-11-07",
@@ -349,32 +379,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/vaishnavi-adkar-rutuja-bhosale-chennai-open-wta-doubles-final-history-3034540-2026-11-07",
-      "headline": "Chennai Open: Adkar, Bhosale break new ground with historic doubles final Vaishnavi Adkar and Rutuja Bhosale made Indian tennis history by becoming the first all-Indian pair to reach a WTA Tour-level doubles final, beating second seeds Weronika Falkowska and Alana Smith at the Chennai Open."
+      "headline": "Chennai Open: Adkar, Bhosale break new ground with historic doubles finalVaishnavi Adkar and Rutuja Bhosale made Indian tennis history by becoming the first all-Indian pair to reach a WTA Tour-level doubles final, beating second seeds Weronika Falkowska and Alana Smith at the Chennai Open."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/aiff-elections-praful-patel-arvind-menon-likely-presidential-contenders-3034526-2026-11-07",
-      "headline": "Praful Patel, Arvind Menon likely to contest AIFF presidential elections Praful Patel and Arvind Menon could challenge incumbent Kalyan Chaubey for the AIFF presidency as Indian football's governing body prepares for elections on December 20. Neither has officially confirmed a candidature, but both are weighing a bid."
+      "headline": "Praful Patel, Arvind Menon likely to contest AIFF presidential electionsPraful Patel and Arvind Menon could challenge incumbent Kalyan Chaubey for the AIFF presidency as Indian football's governing body prepares for elections on December 20. Neither has officially confirmed a candidature, but both are weighing a bid."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gurnoor-brar-india-vs-new-zealand-2nd-odi-rohit-sharma-virat-kohli-3034496-2026-11-07",
-      "headline": "How Virat Kohli, Rohit Sharma helped Gurnoor Brar bounce back in New Zealand Gurnoor Brar has bounced back from difficult outings in Guwahati and Lord's to emerge as India's leading wicket-taker in the New Zealand ODI series, claiming seven wickets in two matches. He credited Virat Kohli, Rohit Sharma and Shubman Gill for their guidance after winning the Player of the Match award in Wellington."
+      "headline": "How Virat Kohli, Rohit Sharma helped Gurnoor Brar bounce back in New ZealandGurnoor Brar has bounced back from difficult outings in Guwahati and Lord's to emerge as India's leading wicket-taker in the New Zealand ODI series, claiming seven wickets in two matches. He credited Virat Kohli, Rohit Sharma and Shubman Gill for their guidance after winning the Player of the Match award in Wellington."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-arshdeep-singh-punjab-kings-mumbai-indians-ipl-2027-trade-3034504-2026-11-07",
-      "headline": "Hardik Pandya-Arshdeep Singh trade all but done as MI, PBKS prepare for major swap Hardik Pandya's move to Punjab Kings in exchange for Arshdeep Singh is all but done, with both franchises having submitted their expressions of interest to the BCCI."
+      "headline": "Hardik Pandya-Arshdeep Singh trade all but done as MI, PBKS prepare for major swapHardik Pandya's move to Punjab Kings in exchange for Arshdeep Singh is all but done, with both franchises having submitted their expressions of interest to the BCCI."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-test-retirement-agarkar-bengal-coach-laxmi-shukla-interview-3034482-2026-11-07",
-      "headline": "The last straw that broke Mohammed Shami Mohammed Shami announced his Test retirement after repeated attempts to regain his India place. His coaches linked the decision to prolonged selection snubs despite strong domestic performances."
+      "headline": "The last straw that broke Mohammed ShamiMohammed Shami announced his Test retirement after repeated attempts to regain his India place. His coaches linked the decision to prolonged selection snubs despite strong domestic performances."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-test-squad-rizwan-imam-omitted-sri-lanka-series-maiden-call-ups-3034463-2026-11-07",
-      "headline": "Mohammad Rizwan snubbed again as Pakistan revise squad for Sri Lanka Tests Mohammad Rizwan and Imam-ul-Haq have been overlooked as Pakistan revised their squad for the two-Test series against Sri Lanka, despite Rizwan scoring a domestic double century. Aamir Jamal returns to the squad, while Ali Shabbir, Muhammad Tayyab Arif and Saqib Khan earn maiden Pakistan call-ups."
+      "headline": "Mohammad Rizwan snubbed again as Pakistan revise squad for Sri Lanka TestsMohammad Rizwan and Imam-ul-Haq have been overlooked as Pakistan revised their squad for the two-Test series against Sri Lanka, despite Rizwan scoring a domestic double century. Aamir Jamal returns to the squad, while Ali Shabbir, Muhammad Tayyab Arif and Saqib Khan earn maiden Pakistan call-ups."
     },
     {
       "sentiment": "positive",
@@ -445,36 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/gurpreet-singh-sandhu-dropped-india-squad-new-zealand-friendlies-khalid-jamil-3034152-2026-11-06",
       "headline": "Gurpreet dropped as Khalid Jamil names 23-member India squad for New ZealandGurpreet Singh Sandhu has been dropped from India's 23-member squad for the New Zealand friendlies. Khalid Jamil has picked Hrithik Tiwari, Som Kumar and Vishal Kaith as his goalkeeping options for the two matches in November."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-vs-india-2nd-odi-preview-young-indian-pacers-wellington-3034023-2026-11-06",
-      "headline": "India's pace pack finds its bite as New Zealand brace for another testIndia's inexperienced pace attack impressed in the first ODI against New Zealand. As the visitors eye another win in the second ODI at Wellington, Gurnoor Brar, Anshul Kamboj and Arshdeep Singh will look to maintain their impact."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/syed-mushtaq-ali-trophy-ishant-sharma-delhi-mohammed-shami-bengal-squads-3034066-2026-11-06",
-      "headline": "Syed Mushtaq Ali Trophy: Ishant returns for Delhi, Shami named in Bengal squadIshant Sharma returns to Delhi's T20 set-up, while Mohammed Shami joins Bengal after a strong start to the Ranji Trophy season, picking up 14 wickets in three appearances."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/dhinidhi-desinghu-historic-youth-olympics-swimming-bronze-medal-freestyle-3034062-2026-11-06",
-      "headline": "Desinghu, Tirthank power India's historic Youth Olympics swimming campaignDhinidhi Desinghu's double bronze and Pegu Tirthank's historic podium finish mark a breakthrough for Indian swimming at Dakar 2026. The duo combined to win three individual medals, setting new milestones at the Youth Olympic Games."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-return-portugal-jorge-jesus-reaction-press-conference-3034003-2026-11-06",
-      "headline": "Thought he'd return: Portugal coach on Cristiano Ronaldo's international retirementPortugal coach Jorge Jesus admits he expected Cristiano Ronaldo to return to the national team despite their public fallout, revealing he had planned to recall the Al-Nassr forward before the 41-year-old announced his international retirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-bihar-captain-syed-mushtaq-ali-trophy-t20-3033960-2026-11-06",
-      "headline": "Vaibhav Sooryavanshi to captain Bihar at 15, leads Syed Mushtaq Ali Trophy squadVaibhav Sooryavanshi will lead Bihar in senior cricket for the first time, captaining the side in the opening two Syed Mushtaq Ali Trophy matches before joining India A for the Rising Stars Asia Cup."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/pv-sindhu-harmanpreet-singh-ioa-athletes-commission-appointments-3033948-2026-11-06",
-      "headline": "PV Sindhu to head IOA Athletes' Commission, Harmanpreet named vice-chairpersonPV Sindhu has been named chairperson of the IOA Athletes' Commission, with Harmanpreet Singh appointed vice-chairperson. Mirabai Chanu and Sajan Prakash have also been elected as athlete representatives ahead of the IOA elections on December 5."
     }
   ],
   "education": [
