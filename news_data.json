@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/pics-big-b-ditches-bulletproof-glass-for-sunday-darshan-on-diwali-after-threats-3034984-2026-11-08",
+      "headline": "Pics: Big B ditches bulletproof glass for Sunday Darshan on Diwali after threats Amitabh Bachchan met fans outside Jalsa without the bulletproof glass. The appearance comes days after a threatening letter named him and amid concerns over his health."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/a-dogs-perfect-christmas-review-cute-dogs-family-drama-but-little-festive-magic-3034944-2026-11-08",
+      "headline": "A Dog's Perfect Christmas review: Cute dogs, family drama but little festive magicRelease Date:Wed Nov 04, 2026 Directed by Cathryn Michon, A Dog's Perfect Christmas, led by two adorable dogs, swaps standard holiday romance for heavy themes. The film navigates dysfunctional family dynamics, grief, romance and a medical crisis."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/black-doves-2-review-keira-knightley-ben-whishaw-shine-in-twisted-spy-thriller-3034771-2026-11-08",
       "headline": "Black Doves 2 review: Keira Knightley, Ben Whishaw shine in twisted spy thriller Helen and Sam reunite to confront conspiracies, murder charges and buried secrets. Their compelling friendship anchors a stylish thriller weakened by an overcomplicated plot."
     },
@@ -130,7 +140,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/daler-mehndi-shares-gratitude-note-on-uttarakhand-row-the-way-you-all-stood-by-me-3034860-2026-11-08",
-      "headline": "The way you all stood by me: Daler Mehndi shares gratitude note on Uttarakhand row Punjabi singer Daler Mehndi has released his first public statement following the recent controversy surrounding his live performance in Uttarakhand. Expressing gratitude to his fans and supporters, the veteran artist shared an emotional note on Diwali."
+      "headline": "The way you all stood by me: Daler Mehndi shares gratitude note after Uttarakhand row Punjabi singer Daler Mehndi has released his first public statement following the recent controversy surrounding his live performance in Uttarakhand. Expressing gratitude to his fans and supporters, the veteran artist shared an emotional note on Diwali."
     },
     {
       "sentiment": "positive",
@@ -150,7 +160,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-deleted-sita-lakshmana-action-scene-international-cut-3034823-2026-11-08",
-      "headline": "Ramayana: Missing Sita-Lakshmana forest fight scene from Indian version goes viral A Sita-Lakshmana action sequence from Ramayana's international cut has surfaced online. Its absence from the ndian theatres has prompted viewers to question the film's editing choices."
+      "headline": "Ramayana: Missing Sita-Lakshmana forest fight scene from Indian version goes viral A Sita-Lakshmana action sequence from Ramayana's international cut has surfaced online. Its absence from the Indian theatres has prompted viewers to question the film's editing choices."
     },
     {
       "sentiment": "positive",
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-bts-photos-ranbir-kapoor-stunt-double-action-scenes-3034750-2026-11-08",
       "headline": "Inside Ramayana's action world: Ranbir Kapoor's stunt double shares BTS pics Stunt performer Luke Ioannou shared behind-the-scenes pictures from Nitesh Tiwari's Ramayana. The images reveal elaborate action arrangements as he praises lead actor Ranbir Kapoor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-spectacular-moments-nitesh-tiwari-ranbir-kapoor-jatayau-ravana-3033794-2026-11-08",
-      "headline": "7 moments that make Ramayana a visual spectacle Nitesh Tiwari's Ramayana brings the timeless epic to life through striking cinematic moments. Grand visual effects blend with nuanced characters, emotional storytelling and a surprise appearance by Hanuman."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/janhvi-kapoor-jokes-sridevi-saw-film-potential-after-nose-job-3034725-2026-11-08",
-      "headline": "Janhvi Kapoor jokes Sridevi saw 'potential' in her after nose job Janhvi Kapoor recalled Sridevi's initial doubts about her entering films during a conversation with Maheswari. She joked that her mother's view changed after her nose job."
     }
   ],
   "general news": [
@@ -206,13 +206,48 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/two-passenger-trains-collide-in-egypts-giza-province-killing-4-and-injuring-88-several-carriages-derail-3034987-2026-11-08",
+      "headline": "4 killed, 88 injured after 2 passenger trains collide in Egypt's Giza provinceThe crash left several carriages derailed, with rescue teams working to clear the wreckage and restore train services."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/up-assembly-elections-2027-yogi-adityanath-nda-80-percent-seats-prediction-3034831-2026-11-08",
       "headline": "How many seats NDA will win in 2027 UP Assembly polls? Yogi Adityanath answersThe Uttar Pradesh Chief Minister first invoked the 80-20 formula ahead of the 2022 Assembly elections. At the time, he had said that 80 per cent of the electorate, comprising people who believed in nationalism, good governance and development, would vote for the BJP."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/mallikarjun-kharge-diwali-khushiyon-ka-eid-bjp-anti-sanatan-congress-row-3034979-2026-11-08",
+      "headline": "Congress is anti-Sanatan: BJP targets Kharge over Diwali 'Khushiyon ka Eid' remarkThe BJP targeted Mallikarjun Kharge over his 'Khushiyon Ka Eid' Diwali remark. The exchange also revived controversy over Sonia Gandhi's comments on the Babri Masjid demolition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-deleted-sita-lakshmana-action-scene-international-cut-3034823-2026-11-08",
+      "headline": "Ramayana: Missing Sita-Lakshmana forest fight scene from Indian version goes viralA Sita-Lakshmana action sequence from Ramayana's international cut has surfaced online. Its absence from the Indian theatres has prompted viewers to question the film's editing choices."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ayodhya-ram-temple-donation-theft-case-akhilesh-yadav-questions-yogi-adityanath-3034949-2026-11-08",
+      "headline": "Why is CM silent? Akhilesh raises Ram Temple theft after Yogi's apology demandAn apology demand over the 1990 firing on kar sevaks drew a counter from Akhilesh Yadav on temple donation theft and land compensation, setting off a war of words with Yogi Adityanath ahead of his Ayodhya visit."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/pics-big-b-ditches-bulletproof-glass-for-sunday-darshan-on-diwali-after-threats-3034984-2026-11-08",
+      "headline": "Pics: Big B ditches bulletproof glass for Sunday Darshan on Diwali after threatsAmitabh Bachchan met fans outside Jalsa without the bulletproof glass. The appearance comes days after a threatening letter named him and amid concerns over his health."
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-air-pollution-aqi-376-severe-diwali-smog-forecast-ptag-3034921-2026-11-08",
-      "headline": "Delhi braces for 'severe' air pollution after Diwali as AQI climbs to 376Delhi's AQI reached 376 on Sunday as Diwali celebrations began under dense smog. Forecasters expect severe pollution as emissions rise and weak winds trap pollutants."
+      "url": "https://www.indiatoday.in/cities/other-cities/story/national-level-boxer-mantsa-found-dead-kanpur-prayagraj-highway-family-accuses-friend-3035011-2026-11-09",
+      "headline": "National-level boxer found dead near Kanpur-Prayagraj highway, family alleges murderNational-level boxer identified as Mantsa was found dead along the Kanpur-Prayagraj highway in Uttar Pradesh after leaving home. Her family has accused her friend, while police are examining call records and other evidence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/harsh-goenka-questions-how-indian-tourists-behave-abroad-after-viral-vietnam-video-3034879-2026-11-08",
+      "headline": "Harsh Goenka questions how Indian tourists behave abroad after viral Vietnam videoA viral video of Indian tourists sitting on the floor and eating at a Vietnam airport has sparked a debate over civic sense and public etiquette. Harsh Goenka also shared the post."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/israel-iran-conflict-katz-mission-unfinished-hezbollah-warning-3034954-2026-11-08",
+      "headline": "Mission not complete: Israel warns Iran, threatens Hezbollah with severe blowsIsraeli Defence Minister Israel Katz's remarks came a day after President Isaac Herzog tasked Netanyahu's rival Gadi Eisenkot with forming a new government following a deadlocked election."
     },
     {
       "sentiment": "positive",
@@ -221,48 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-deleted-sita-lakshmana-action-scene-international-cut-3034823-2026-11-08",
-      "headline": "Ramayana: Missing Sita-Lakshmana forest fight scene from Indian version goes viralA Sita-Lakshmana action sequence from Ramayana's international cut has surfaced online. Its absence from the ndian theatres has prompted viewers to question the film's editing choices."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/sheikh-hasina-extradition-bangladesh-seeks-return-from-india-3034825-2026-11-08",
-      "headline": "No room for emotions: Bangladesh vows to deal with Sheikh Hasina as per lawHasina fled to India on August 5, 2024, after a mass uprising ended her 15-year rule. An interim government led by Nobel laureate Muhammad Yunus subsequently took charge."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/seattle-diwali-celebration-jake-lang-targets-hindus-washington-us-midterm-elections-far-right-3034869-2026-11-08",
-      "headline": "Video: With anti-Hindu signs, far-right group disrupts Diwali event in SeattleFar right activist Jake Lang claimed that Hindus were responsible for turning Texas blue in the midterm elections, also using an abusive slur against the community."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-u19-asia-cup-live-score-aryavir-sehwag-anvay-dravid-3034714-2026-11-08",
-      "headline": "IND vs PAK Highlights: Hamza, PAK spoil India's Diwali party with 3-wicket winIndia (IND) vs Pakistan (PAK) Highlights, U19 Asia Cup: Hamza Zahoor's brilliant hundred has helped Pakistan beat India by three wickets in a low-scoring thriller in Oman to make it two out of two in the U19 Asia Cup. India posted 208 on the back of a brilliant hundred Arjun Rajput. The bowlers delivered early but Hamza and Hasnain's partnership took the game away from them."
+      "url": "https://www.indiatoday.in/impact-feature/story/a-business-school-built-around-the-real-world-3027474-2026-10-29",
+      "headline": "A Business School Built Around the Real WorldEstablished in 2024, the school draws on the 189-year legacy of Madras Christian College, founded in 1837, while developing a management programme for a changing business landscape."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/lucknow/story/lucknow-petrol-pump-worker-dragged-by-car-over-unpaid-fuel-3034901-2026-11-08",
       "headline": "Petrol pump staffer blocks car leaving without paying, they drag him for 1 kmA petrol pump employee in Lucknow was injured after being dragged for nearly a kilometre by car occupants who fled without paying for fuel, with the incident captured on CCTV."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/kanpur/story/kanpur-roof-collapse-kills-three-family-members-including-newborn-and-mother-3034878-2026-11-08",
-      "headline": "3 of family, including 20-day-old baby, killed as house roof collapses in KanpurThe police said preliminary investigations suggest that water leakage may have weakened the roof, with accumulated water adding to the load and eventually causing it to cave in."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-addresses-health-concerns-cites-hand-pain-amid-kbc-18-absence-3034904-2026-11-08",
-      "headline": "Amitabh Bachchan addresses health concerns, cites hand pain amid KBC 18 absenceVeteran actor Amitabh Bachchan has finally broken his silence regarding concerns over his health following his recent absence from the Kaun Banega Crorepati 18 set. The 84-year-old attributed delays in his routine fan outreach to physical discomfort."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/a-business-school-built-around-the-real-world-3027474-2026-10-29",
-      "headline": "A Business School Built Around the Real WorldEstablished in 2024, the school draws on the 189-year legacy of Madras Christian College, founded in 1837, while developing a management programme for a changing business landscape."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/diwali-mumbai-pune-killa-tradition-maharashtra-first-diya-chhatrapati-shivaji-miniature-forts-history-itspc-3034013-2026-11-08",
-      "headline": "First Diwali diya for Shivaji. Killa-makers keep centuries-old tradition aliveEvery Diwali, families across Maharashtra and north Karnataka build miniature forts using stones, bricks and mud to honour the legacy of Chhatrapati Shivaji Maharaj. Some even offer the first diya to the Maratha ruler. Here's how the tradition emerged, evolved over time and found fresh momentum through social media and cash-prize competitions."
     },
     {
       "sentiment": "positive",
@@ -276,8 +276,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/daler-mehndi-shares-gratitude-note-on-uttarakhand-row-the-way-you-all-stood-by-me-3034860-2026-11-08",
-      "headline": "The way you all stood by me: Daler Mehndi shares gratitude note on Uttarakhand rowPunjabi singer Daler Mehndi has released his first public statement following the recent controversy surrounding his live performance in Uttarakhand. Expressing gratitude to his fans and supporters, the veteran artist shared an emotional note on Diwali."
+      "url": "https://www.indiatoday.in/india/story/abhijeet-dipke-predicts-modi-defeat-2029-demands-cec-gyanesh-kumar-resignation-3034572-2026-11-08",
+      "headline": "CJP's Abhijeet Dipke predicts BJP's defeat in 2029 Lok Sabha pollsCJP founder Abhijeet Dipke addressed a Kochi protest against the SIR exercise and CEC Gyanesh Kumar. He framed electoral transparency and youth dissent as central to democratic change."
     },
     {
       "sentiment": "positive",
@@ -290,37 +290,52 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/hassan-karnataka-corruption-allegations-kumaraswamy-whatsapp-chats-cash-demands-3034864-2026-11-08",
-      "headline": "Cash for file clearance? HD Kumaraswamy releases alleged WhatsApp exchangesKumaraswamy alleged that of the Rs 60 lakh demanded for the crusher-related files, Rs 50 lakh was meant for a senior official and Rs 10 lakh for other staff."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-air-pollution-aqi-376-severe-diwali-smog-forecast-ptag-3034921-2026-11-08",
+      "headline": "Delhi braces for 'severe' air pollution after Diwali as AQI climbs to 376Delhi's AQI reached 376 on Sunday as Diwali celebrations began under dense smog. Forecasters expect severe pollution as emissions rise and weak winds trap pollutants."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-collection-day-3-rs-375-crore-worldwide-3034691-2026-11-08",
-      "headline": "Ramayana box office Day 3: Rs 375 crore in three days, Saturday sets new recordRanbir Kapoor and Yash's Ramayana: Part One earned an estimated Rs 182.70 crore worldwide on its third day. The Saturday surge took its three-day global gross to Rs 375.50 crore."
+      "url": "https://www.indiatoday.in/sunday-special/story/diwali-mumbai-pune-killa-tradition-maharashtra-first-diya-chhatrapati-shivaji-miniature-forts-history-itspc-3034013-2026-11-08",
+      "headline": "First Diwali diya for Shivaji. Killa-makers keep centuries-old tradition aliveEvery Diwali, families across Maharashtra and north Karnataka build miniature forts using stones, bricks and mud to honour the legacy of Chhatrapati Shivaji Maharaj. Some even offer the first diya to the Maratha ruler. Here's how the tradition emerged, evolved over time and found fresh momentum through social media and cash-prize competitions."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/sheikh-hasina-extradition-bangladesh-seeks-return-from-india-3034825-2026-11-08",
+      "headline": "No room for emotions: Bangladesh vows to deal with Sheikh Hasina as per lawHasina fled to India on August 5, 2024, after a mass uprising ended her 15-year rule. An interim government led by Nobel laureate Muhammad Yunus subsequently took charge."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/iphone-18-launching-in-early-2027-design-price-battery-and-everything-we-know-3034790-2026-11-08",
-      "headline": "iPhone 18 launching in early 2027: Design, price, battery and everything we knowiPhone 18 may cost more than the previous standard model, iPhone 17. There's a notable upgrade expected in the device's inner workings, including a faster processor, a smoother display, and a larger battery. Here is what we know so far."
+      "url": "https://www.indiatoday.in/india-today-insight/story/how-chinas-reinforcement-muscle-keeps-arunachal-border-on-edge-3034726-2026-11-08",
+      "headline": "How China's reinforcement muscle keeps Arunachal border on edgeThe Chinese army has built a layered architecture that lets Beijing maintain pressure on India, probe its defences and test the limits of existing border mechanisms"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-ram-temple-visit-ravi-kishan-yogi-vhp-demand-apology-3034942-2026-11-08",
-      "headline": "People will realise electoral Hindus: Ravi Kishan jabs Akhilesh on Ram Temple visitAkhilesh Yadav is set to visit the Ram Mandir on December 12, his first visit to the shrine since its consecration in January 2024. BJP asked him to apologise first."
+      "url": "https://www.indiatoday.in/world/us-news/story/seattle-diwali-celebration-jake-lang-targets-hindus-washington-us-midterm-elections-far-right-3034869-2026-11-08",
+      "headline": "Video: With anti-Hindu signs, far-right group disrupts Diwali event in SeattleFar right activist Jake Lang claimed that Hindus were responsible for turning Texas blue in the midterm elections, also using an abusive slur against the community."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/phone-free-dining-india-restaurants-digital-detox-mindful-eating-3034608-2026-11-08",
-      "headline": "Can phone-free dining find a place at the Indian restaurants?Restaurants in India and abroad are experimenting with ways to curb phones at the table. But at a time when social media drive marketing strategies, when everyone is chronically online, and we have QR menu scans, how reasonable is it to prohibit phones in India?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/gujarat-businessman-skips-sweets-gives-employees-over-rs-1-lakh-each-as-diwali-bonus-3034748-2026-11-08",
-      "headline": "Gujarat trader skips sweets, gives employees over Rs 1 lakh each as Diwali bonusA Surat-based textile trader gave 20 employees cash bonuses exceeding Rs 1 lakh. The emotional presentation on ceremonial thalis drew widespread praise on social media."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-new-zealand-odi-kl-rahul-smartphone-gift-hnry-stadium-staff-member-3034720-2026-11-08",
+      "headline": "KL Rahul's award turns into a gift for Hnry Stadium staff memberKL Rahul's composed effort helped India through a tricky chase in Wellington, but it was what he did with his prize afterwards that caught attention. The India batter gifted his smartphone reward to a female member of the stadium staff."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-4-4-draw-aston-villa-michael-carrick-comeback-premier-league-3035012-2026-11-09",
+      "headline": "Manchester United fight back for 4-4 draw vs Aston Villa, hand Carrick lifeline Manchester United staged a dramatic comeback from two goals down twice to snatch a 4-4 draw against Aston Villa at Old Trafford. Late goals from Joshua Zirkzee and Patrick Dorgu rescued a point and eased pressure on Michael Carrick."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/chennai-open-tennis-air-quality-rain-singles-final-postponed-3035007-2026-11-08",
+      "headline": "Chennai Open final scheduled on Diwali postponed due to poor air quality, rain Diwali fireworks added to Chennai's air quality woes as rain further disrupted proceedings, forcing the women's singles final to Monday. Meanwhile, Vaishnavi Adkar and Rutuja Bhosale made history as the first Indian pair to reach a WTA 250 doubles final."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ecb-financial-losses-2027-india-tour-icc-revenue-rs-627-crore-3034977-2026-11-08",
+      "headline": "No India games, ICC payment cut: ECB stares at Rs. 627 crore loss in 2027 The ECB faces a steep 2027 loss as India stay away and the ICC withholds revenue. The squeeze exposes English cricket's dependence on Indian audiences and threatens already struggling counties."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hamza-zahoor-century-note-celebration-pakistan-india-u19-asia-cup-3034950-2026-11-08",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-new-zealand-odi-kl-rahul-smartphone-gift-hnry-stadium-staff-member-3034720-2026-11-08",
-      "headline": "KL Rahul's award turns into a gift for Hnry Stadium staff member KL Rahul's composed effort helped India through a tricky chase in Wellington, but it was what he did with his prize afterwards that caught attention. The India batter gifted his smartphone reward to a female member of the stadium staff."
+      "headline": "KL Rahul's award turns into a gift for Hnry Stadium staff memberKL Rahul's composed effort helped India through a tricky chase in Wellington, but it was what he did with his prize afterwards that caught attention. The India batter gifted his smartphone reward to a female member of the stadium staff."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-u19-asia-cup-live-score-aryavir-sehwag-anvay-dravid-3034714-2026-11-08",
-      "headline": "IND vs PAK Highlights: Hamza, PAK spoil India's Diwali party with 3-wicket win India (IND) vs Pakistan (PAK) Highlights, U19 Asia Cup: Hamza Zahoor's brilliant hundred has helped Pakistan beat India by three wickets in a low-scoring thriller in Oman to make it two out of two in the U19 Asia Cup. India posted 208 on the back of a brilliant hundred Arjun Rajput. The bowlers delivered early but Hamza and Hasnain's partnership took the game away from them."
+      "headline": "IND vs PAK Highlights: Hamza, PAK spoil India's Diwali party with 3-wicket winIndia (IND) vs Pakistan (PAK) Highlights, U19 Asia Cup: Hamza Zahoor's brilliant hundred has helped Pakistan beat India by three wickets in a low-scoring thriller in Oman to make it two out of two in the U19 Asia Cup. India posted 208 on the back of a brilliant hundred Arjun Rajput. The bowlers delivered early but Hamza and Hasnain's partnership took the game away from them."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/laliga-real-madrid-barcelona-points-table-3034697-2026-11-08",
-      "headline": "LaLiga race heats up as Real Madrid draw level with Barcelona Real Madrid moved level with Barcelona on 30 points after a comfortable 3-0 victory over Valencia. Atletico Madrid could shake up the LaLiga title race when they face Barcelona on Sunday."
+      "headline": "LaLiga race heats up as Real Madrid draw level with BarcelonaReal Madrid moved level with Barcelona on 30 points after a comfortable 3-0 victory over Valencia. Atletico Madrid could shake up the LaLiga title race when they face Barcelona on Sunday."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/indian-football-youth-development-isl-foreign-player-restrictions-sc-delhi-tomas-tchorz-3034298-2026-11-07",
       "headline": "Indian football's broken system needs fixing, not foreign-player restrictionsIndian football keeps looking for ways to protect its domestic players, but overseas restrictions can only do so much. As coach Tomasz Tch\u00f3rz argues, the real illness lies deeper in a development system that is failing to prepare young footballers for the demands of the senior game."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/asian-champions-trophy-2026-punjab-hockey-jalandhar-mohali-reporter-diary-3034228-2026-11-07",
-      "headline": "Lights, bhangra, action: Inside Punjab's enduring love affair with hockeyA lot of glitz and glamour was present on hockey's return to Punjab and a few uncomfortable truths as well. The Asian Champions Trophy took me on a journey through Punjab's hockey heart, where India's triumph was only part of a much bigger story about the sport's past, present and future."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-back-to-back-centuries-india-a-vs-new-zealand-a-comeback-3034275-2026-11-07",
-      "headline": "Yashasvi Jaiswal answers critics with back-to-back India A centuriesYashasvi Jaiswal has responded to a difficult run in red-ball cricket with successive centuries for India A against New Zealand A. His latest hundred in Lincoln is a timely boost ahead of the two-Test series, offering the India opener a chance to rebuild confidence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-test-retirement-ravi-shastri-questions-fitness-concerns-3034192-2026-11-07",
-      "headline": "Mohammed Shami deserved another Test chance, says disappointed Ravi ShastriMohammed Shami's Test career has ended after a prolonged absence from India's plans, but Ravi Shastri believes the pacer still had plenty to offer. The former coach has questioned the fitness concerns surrounding Shami and feels he deserved another opportunity."
     }
   ],
   "education": [
