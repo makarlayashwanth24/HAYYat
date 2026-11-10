@@ -201,8 +201,13 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/white-house-on-lockdown-after-car-crashes-into-sign-near-premises-3035613-2026-11-09",
-      "headline": "White House on lockdown after car crashes into sign near premisesWhite House on lockdown after car crashes into sign near premises"
+      "url": "https://www.indiatoday.in/world/story/nvidia-jensen-huang-investigation-trump-ties-china-intelligence-operation-3035725-2026-11-10",
+      "headline": "Trump-Huang ties under scrutiny as Nvidia probes alleged Chinese intelligence linksNvidia's board is investigating whether Jensen Huang was targeted by an alleged China-linked intelligence operation. The inquiry has intensified scrutiny of his ties with Donald Trump and US chip-export decisions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pete-hegseth-impeachment-thomas-massie-iran-war-3035724-2026-11-10",
+      "headline": "Trump's two wars defence fails to shield Hegseth from impeachment pushUS President Donald Trump's claim that Pete Hegseth has \"won two wars\" has not eased the impeachment pressure on the US defence chief. Republican Thomas Massie has introduced eight articles accusing Hegseth of waging war against Iran without congressional approval and abusing power."
     },
     {
       "sentiment": "positive",
@@ -211,18 +216,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/white-house-on-lockdown-after-car-crashes-into-sign-near-premises-3035613-2026-11-09",
+      "headline": "White House on brief lockdown after car crashes nearby, Trump was inside complexA car crashed into a signpost in Lafayette Square, just across from the White House, triggering a security response and temporary lockdown at the US presidential complex."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/temple-is-made-by-indian-startup-but-it-is-not-made-for-indians-deepinder-goyal-says-3035275-2026-11-09",
+      "headline": "Temple is made by Indian startup, but it is not made for Indians, Deepinder Goyal saysDeepinder Goyal has lashed out at growing online criticism of Temple wearable. The Zomato founder, who is leading charge for this new gadget, said bluntly, \"Temple is not made for India,\" adding that he expected not more than 1 per cent Indians to buy it."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/kerala/story/mammootty-bjp-leader-gopalakrishnan-home-visit-cpim-disowns-online-attacks-3035526-2026-11-09",
       "headline": "Mammootty faces backlash over visit to BJP leader's home for daughter's weddingMammootty's visit to BJP leader B Gopalakrishnan's home has triggered an online backlash, largely from Left-leaning users. The BJP leader defended their personal ties and senior CPI(M) leaders distanced the party from the attacks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-claims-early-voting-dumps-skewed-election-says-machines-matter-more-than-voters-3035606-2026-11-09",
-      "headline": "First time after midterm loss, Trump questions results, targets voting machinesIn his first remarks questioning the outcome of the US midterm elections, President Donald Trump on Monday cast doubt on the legitimacy of the results after Republicans suffered major defeats across the country, including in party strongholds such as Texas and South Carolina."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/nvidia-ceo-admits-cheating-on-wife-of-40-years-who-is-lori-huang-and-what-does-she-do-3035151-2026-11-09",
-      "headline": "Nvidia CEO admits cheating on wife of 40 years. Who is Lori Huang?Nvidia CEO Jensen Huang has confessed having an affair with alleged Chinese spy Alice Huang. This has put Jensen's family, in particular his wife Lori, at the centre of attention. Let's delve in to know more about the Nvidia chief's family and what they do."
     },
     {
       "sentiment": "positive",
@@ -231,13 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/deep-dive/story/microsoft-ceo-nadellas-old-video-on-20-million-ai-agents-resurfaces-after-60000-exit-offer-educ-3035116-2026-11-09",
-      "headline": "Microsoft's 60,000-employee exit offer and Nadella's vision of 20 million AI agentsMicrosoft's 60,000-employee exit offer has brought renewed attention to Satya Nadella's vision of millions of AI agents working alongside humans, raising fresh questions about job displacement, workplace transformation and the future of employment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-measles-outbreak-2026-deaths-health-minister-says-hang-me-muhammad-yunus-tarique-rahman-itspc-3035430-2026-11-09",
-      "headline": "Hang me: Bangladesh minister takes blame, another targets Yunus after 1,200 deathsBangladesh Health Minister Sardar Md Sakhawat Hossain has taken responsibility for over 1,200 measles-related deaths, saying \"hang me\" when questioned about accountability. The junior health minister, however, blamed Muhammad Yunus's interim regime for the measles deaths."
+      "url": "https://www.indiatoday.in/science/story/cop31-climate-finance-australia-turkey-presidency-adaptation-1-5c-goal-3035717-2026-11-10",
+      "headline": "Climate finance, mountain emergency and 1.5\u00b0C target dominate COP31 opening dayAustralia and Turkey assumed the COP31 presidency as vulnerable nations pressed their climate demands. The opening exposed unresolved divisions over adaptation finance, emissions cuts and the 1.5\u00b0C limit."
     },
     {
       "sentiment": "positive",
@@ -246,13 +246,43 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/nvidia-shares-crash-7-as-ceo-jensen-huang-affair-scandal-rattles-investors-3035565-2026-11-09",
-      "headline": "Nvidia shares crash 7% as CEO Jensen Huang affair scandal rattles investorsNvidia shares plunged as investors worried that the controversy surrounding CEO Jensen Huang, including the board's probe into alleged Chinese intelligence links, could create leadership uncertainty, damage the company's reputation and invite greater political and regulatory scrutiny."
+      "url": "https://www.indiatoday.in/cities/other-cities/story/kapurthala-diwali-shooting-wrestler-mani-pehlwan-killed-outside-home-3035722-2026-11-10",
+      "headline": "Punjab wrestler shot dead while bursting Diwali firecrackers outside homeUnidentified assailants allegedly shot wrestler Mani outside his Kapurthala home during Diwali celebrations. The killing triggered panic as police began investigating the motive and recording family statements."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kerala-petrol-pumps-ethanol-testing-karnataka-31-percent-e20-fuel-controversy-vehicle-damage-itspc-3035288-2026-11-09",
-      "headline": "Keralam tests petrol at fuel stations after Karnataka's E20 shockerDays after the Congress government of Karnataka alleged that petrol sold at fuel stations contained up to 31.2% ethanol against the E20 benchmark, the party-led government in Kerala has begun testing petrol at pumps across four districts. The Keralam government said that the inspections follow complaints of vehicle damage, even as oil marketing companies and the Centre have rejected Karnataka's findings."
+      "url": "https://www.indiatoday.in/india/story/amitabh-bachchan-jalsa-bulletproof-glass-removal-bjp-congress-security-row-3035694-2026-11-09",
+      "headline": "Big B's bulletproof shield gone, BJP-Congress clash over Bollywood stars' safetyAmitabh Bachchan's removal of the bulletproof glass barrier at his Mumbai residence has triggered a BJP-Congress face-off over Bollywood's security. While the Congress questioned whether threats had subsided or whether the government wanted to avoid embarrassment, the BJP accused the Opposition of politicising the issue."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-best-bus-accident-six-injured-wadala-lodha-junction-3035708-2026-11-10",
+      "headline": "Six injured as speeding BEST bus rams two cars at Mumbai's WadalaA speeding BEST bus rammed into two cars waiting at a Wadala traffic signal. Six people were injured, while officials began initiating necessary legal action."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/hyderabad-class-12-students-summitsathi-satellite-receiver-brings-weather-images-without-internet-3035548-2026-11-09",
+      "headline": "Hyderabad student builds a satellite device for villages that works without internetWhen mobile networks fail during heavy rain, remote Himalayan villages can struggle to access weather information. A Hyderabad Class 12 student has built a Rs 68,000 satellite receiver that brings cloud images directly from weather satellites, without needing the internet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-plenary-address-kisan-tak-bharat-agriculture-conference-3034287-2026-11-07",
+      "headline": "Prime Minister Narendra Modi to deliver plenary address at India Today Group's Kisan Tak Bharat Agriculture Conference 2026PM Modi to address over 2,000 farmers, policymakers, and global experts at Bharat Mandapam. Presented by Mahindra Tractors and co-presented by Mahadhan Agritech."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/france-blames-iran-irgc-refrigerator-cyberattacks-3035723-2026-11-10",
+      "headline": "France blames Iran's IRGC for cyberattacks on 700 refrigeration sitesFrance has accused Iran's IRGC of orchestrating cyberattacks on commercial refrigeration systems. The incidents exposed vulnerable cold-storage infrastructure and raised the prospect of further EU sanctions."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/karnataka/story/hasanamba-temple-footwear-protest-dk-shivakumar-puja-political-row-3035667-2026-11-09",
+      "headline": "Slippers thrown at screen showing DK Shivakumar's temple puja, sparks rowDK Shivakumar's visit to Hasanamba temple sparked a video showing devotees throwing slippers at an LED screen broadcasting his puja visuals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/haryana/story/fatehabad-bee-swarm-spoils-diwali-sweets-rs-1-lakh-loss-3035670-2026-11-09",
+      "headline": "Bees ruin Diwali sweets at Haryana shop, owner suffers Rs 1 lakh lossHundreds of bees descended on a Diwali sweets stall in Fatehabad and stung employees. The incident caused heavy losses and renewed concerns over uncovered festive food stalls."
     },
     {
       "sentiment": "positive",
@@ -261,23 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/kareena-kapoor-diwali-look-200-year-old-bhopal-kalgi-silver-kaftan-saif-ali-khan-3035238-2026-11-09",
-      "headline": "A turban, 200-year-old kalgi and royal heirlooms. Kareena's Diwali look decodedKareena Kapoor paired a silver kaftan and turban with Bhopal royal heirlooms for Diwali. And guess what, Saif Ali Khan has also been spotted sporting that heirloom kalagi."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/pt-usha-ioa-election-setback-second-presidential-term-in-doubt-3035516-2026-11-09",
+      "headline": "PT Usha loses key Indian Olympic body poll in big blow to 2nd term as presidentPT Usha failed to secure a place among the four athletes elected to the IOA General Assembly, dealing a setback to her bid for a second term as president ahead of the December 5 elections."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-plenary-address-kisan-tak-bharat-agriculture-conference-3034287-2026-11-07",
-      "headline": "Prime Minister Narendra Modi to deliver plenary address at India Today Group's Kisan Tak Bharat Agriculture Conference 2026PM Modi to address over 2,000 farmers, policymakers, and global experts at Bharat Mandapam. Presented by Mahindra Tractors and co-presented by Mahadhan Agritech."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anirudh-kavya-maran-wedding-rajinikanth-mk-stalin-udhayanidhi-greece-3035110-2026-11-09",
-      "headline": "Anirudh-Kavya Maran wedding: Rajinikanth, MK Stalin, Udhayanidhi head to GreeceSuperstar Rajinikanth and the Stalin family were seen leaving Chennai for Anirudh Ravichander and Kavya Maran's Greece wedding. The gathering reflects the couple's close links across cinema, politics, business and cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/viral-kolkata-couples-new-video-features-car-ride-classic-song-and-sons-cute-cameo-3035138-2026-11-09",
-      "headline": "Viral Kolkata couple's new video features car ride, classic song and son's cute cameoThe viral Kolkata couple has returned with another heartwarming video, this time featuring a car sing-along to Bade Achhe Lagte Hai."
+      "url": "https://www.indiatoday.in/technology/news/story/nvidia-ceo-admits-cheating-on-wife-of-40-years-who-is-lori-huang-and-what-does-she-do-3035151-2026-11-09",
+      "headline": "Nvidia CEO admits cheating on wife of 40 years. Who is Lori Huang?Nvidia CEO Jensen Huang has confessed having an affair with alleged Chinese spy Alice Huang. This has put Jensen's family, in particular his wife Lori, at the centre of attention. Let's delve in to know more about the Nvidia chief's family and what they do."
     },
     {
       "sentiment": "positive",
@@ -286,41 +306,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/hyderabad-class-12-students-summitsathi-satellite-receiver-brings-weather-images-without-internet-3035548-2026-11-09",
-      "headline": "Hyderabad student builds a satellite device for villages that works without internetWhen mobile networks fail during heavy rain, remote Himalayan villages can struggle to access weather information. A Hyderabad Class 12 student has built a Rs 68,000 satellite receiver that brings cloud images directly from weather satellites, without needing the internet."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bjp-mla-papiya-adhikari-firecrackers-cure-diseases-kolkata-pollution-row-3035283-2026-11-09",
-      "headline": "Firecrackers can cure diseases: Bengal BJP MLA's bizarre remark goes viralBJP MLA Papiya Adhikari said bursting firecrackers helped cure many diseases at a Kali Puja event. The claim triggered a row and sarcastic online reactions amid Kolkata's pollution concerns."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-3rd-odi-preview-rain-weather-3035323-2026-11-09",
+      "headline": "3rd ODI Preview: Rain and hail stand in way of India's bid to win seriesNew Zealand are staring at the end of their 11-series unbeaten home run as India chase a series-clinching win in Hamilton. But rain and hail could interrupt India's plans and give the hosts another chance to fight back."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-surprises-its-biggest-critics-5-things-internet-got-spectacularly-wrong-3033915-2026-11-09",
-      "headline": "Ramayana surprises its biggest critics. 5 things internet got spectacularly wrongRamayana's theatrical release has overturned several pre-release doubts about its visuals and casting. Strong performances and intimate moments impress, although the music remains a weakness."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/was-delhis-aqi-2000-1300-or-500-on-diwali-night-heres-the-reality-check-3035167-2026-11-09",
-      "headline": "Was Delhi's AQI 2000, 1300 or 500 on Diwali night? Let me clear the airDelhi's Diwali air quality readings varied sharply across official and third-party platforms. Different scales and averaging periods explain the gap, though pollution remained dangerous."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-measles-outbreak-2026-deaths-health-minister-says-hang-me-muhammad-yunus-tarique-rahman-itspc-3035430-2026-11-09",
+      "headline": "Hang me: Bangladesh minister takes blame, another targets Yunus after 1,200 deathsBangladesh Health Minister Sardar Md Sakhawat Hossain has taken responsibility for over 1,200 measles-related deaths, saying \"hang me\" when questioned about accountability. The junior health minister, however, blamed Muhammad Yunus's interim regime for the measles deaths."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/comedian-russell-brand-sentenced-to-105-years-in-prison-for-raping-woman-sexually-assaulting-3-others-3035572-2026-11-09",
-      "headline": "Comedian Russell Brand jailed for 10 years and 6 months for rape, sexual assaultOnce a celebrated comedian and Hollywood actor, Russell Brand now faces a lengthy prison sentence following convictions over sexual offences. But the verdict may not be the end of his legal troubles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bhiwani-flies-swarm-open-trays-of-sweets-at-haryana-shop-as-customers-continue-buying-3035223-2026-11-09",
-      "headline": "Flies swarm open trays of sweets at Haryana shop as customers continue buyingThe video, recorded near Bhiwani's old bus stand, showed a vendor seated outside his shop with several trays of sweets displayed on tables covered with a white cloth. A large number of flies could be seen hovering over and sitting on the sweets as customers gathered around the stall and made purchases."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/short-seller-flagged-nvidia-ceos-closeness-to-alleged-chinese-spy-6-months-ago-now-affair-is-public-3035071-2026-11-09",
-      "headline": "Short seller flagged Nvidia CEO's closeness to alleged Chinese spy 6 months agoNvidia CEO Jensen Huang has accepted having an affair with alleged Chinese spy Alice Huang. But months before reports about this relationship emerged, a US short seller had connected the dots."
+      "url": "https://www.indiatoday.in/sports/football/story/harry-kane-snubbed-fifpro-mens-world-11-messi-yamal-bellingham-3035689-2026-11-09",
+      "headline": "Ballon d'Or winner Kane snubbed, Messi included in FIFPRO team of the yearHarry Kane's 2026 Ballon d'Or triumph was not enough to earn him a place in the FIFPRO Men's World 11. Lionel Messi returned for an 18th selection, while Lamine Yamal made history with his second appearance as a teenager."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/harry-kane-snubbed-fifpro-mens-world-11-messi-yamal-bellingham-3035689-2026-11-09",
+      "headline": "Ballon d'Or winner Kane snubbed, Messi included in FIFPRO team of the year Harry Kane's 2026 Ballon d'Or triumph was not enough to earn him a place in the FIFPRO Men's World 11. Lionel Messi returned for an 18th selection, while Lamine Yamal made history with his second appearance as a teenager."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/juhi-chawla-backs-lalit-modi-january-ipl-start-schedule-change-3035671-2026-11-09",
+      "headline": "KKR co-owner Juhi Chawla sides with Lalit Modi, backs IPL calendar shake-up KKR co-owner Juhi Chawla has backed Lalit Modi's call for a January IPL start, questioning the tournament's April-May schedule due to extreme heat. Chawla feels that a shift to January will offer better conditions for everyone involved."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-mumbai-captain-syed-mushtaq-ali-trophy-ranji-snub-3035544-2026-11-09",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/khelo-india-youth-games-2026-schedule-softball-sailing-telangana-3035358-2026-11-09",
-      "headline": "Softball to debut at Khelo India Youth Games in Telangana, sailing as demo event Softball will make its debut at the Khelo India Youth Games in Telangana, while sailing will be included as a demonstrative event, adding two new dimensions to the country's flagship youth sporting competition."
+      "headline": "Softball to debut at Khelo India Youth Games in Telangana, sailing as demo eventSoftball will make its debut at the Khelo India Youth Games in Telangana, while sailing will be included as a demonstrative event, adding two new dimensions to the country's flagship youth sporting competition."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-arshdeep-singh-trade-mumbai-indians-punjab-kings-abhinav-mukund-3035319-2026-11-09",
-      "headline": "Hardik-Arshdeep swap great for MI, questionable for PBKS: Ex-IND batter Former India batter Abhinav Mukund believes Mumbai Indians will benefit more from the proposed Hardik Pandya-Arshdeep Singh trade. He questions Hardik's role under Shreyas Iyer at Punjab Kings and its impact on youngster Suryansh Shedge."
+      "headline": "Hardik-Arshdeep swap great for MI, questionable for PBKS: Ex-IND batterFormer India batter Abhinav Mukund believes Mumbai Indians will benefit more from the proposed Hardik Pandya-Arshdeep Singh trade. He questions Hardik's role under Shreyas Iyer at Punjab Kings and its impact on youngster Suryansh Shedge."
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-beat-india-u19-asia-cup-hamza-zahoor-arjun-rajput-3034948-2026-11-08",
       "headline": "Pakistan spoil India's Diwali party as Arjun Rajput's 107 goes in vainHamza Zahoor smashed an unbeaten 100 to lead Pakistan to a thrilling three-wicket win over India in the Under-19 Asia Cup, chasing down 209 with 12 balls to spare. His match-winning knock overshadowed Arjun Rajput's magnificent 107, as Pakistan recovered from 61/5 to have the last laugh."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pak-vs-sl-mike-hesson-pakistan-test-coach-mohsin-naqvi-wtc-2025-27-3034909-2026-11-08",
-      "headline": "Naqvi man Hesson to remain PAK Test coach till end of WTC 2025-27 cycleMike Hesson will continue as Pakistan's interim Test head coach until the end of the 2025-27 World Test Championship cycle. The decision comes amid debate over his growing influence on team selection and other cricketing matters under PCB chairman Mohsin Naqvi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-mi-pbks-trade-arshdeep-singh-aakash-chopra-ipl-2027-3034862-2026-11-08",
-      "headline": "MI won't miss Hardik much: Ex-IND batter's claim as PBKS trade edges closerAakash Chopra believes Mumbai Indians can cope without Hardik Pandya as his reported trade to Punjab Kings, involving Arshdeep Singh, nears completion. Chopra also expects MI to have enough batting depth to accommodate Will Jacks in their playing XI."
     }
   ],
   "education": [
