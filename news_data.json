@@ -104,6 +104,21 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-vfx-versus-baahubali-indian-cinema-visual-effects-benchmark-3036871-2026-11-12",
+      "headline": "From Baahubali to Ramayana: Has Indian cinema finally cracked the VFX game?X cannot surpass the Baahubali benchmark Namit Malhotra's Ramayana's visual effects drew scrutiny before winning praise in theatres. The debate shows why Baahubali remains Indian cinema's benchmark for spectacle with emotion."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/koffee-with-karan-9-kiara-advani-on-trolling-toxic-intimate-scenes-with-yash-reveals-sidharths-reaction-3037094-2026-11-12",
+      "headline": "Kiara addresses trolling over Toxic intimate scenes, reveals Sidharth's reaction Actor Kiara Advani addressed trolling over her intimate scenes with Yash in Toxic. She also opened up on husband, actor Sidharth Malhotra's reaction to the controversy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/gunmaaster-g9-trailer-emraan-hashmi-vows-to-shed-blood-to-protect-love-and-family-3036843-2026-11-12",
+      "headline": "Gunmaaster G9 trailer: Emraan Hashmi vows to shed blood to protect love and family The trailer of actor Emraan Hashmi's upcoming action thriller Gunmaaster G9 is out now. Directed by Aditya Datt, the film features Genelia Deshmukh and Aparshakti Khurana alongside Hashmi in a story driven by betrayal and revenge."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-served-legal-notice-over-bhopal-royal-pendant-with-quranic-verse-3036919-2026-11-11",
       "headline": "Kareena Kapoor served legal notice over Bhopal royal pendant with Quranic verse Actor Kareena Kapoor Khan has been served a legal notice concerning a Bhopal royal pendant inscribed with Ayat-ul-Kursi. The matter brings the pendant's royal association and inscription under legal scrutiny."
     },
@@ -181,24 +196,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/divyanka-tripathi-belated-birthday-wish-vivek-dahiya-diwali-fire-tragedy-3036614-2026-11-11",
       "headline": "Divyanka shares happy pics shot before Diwali fire, wishes birthday to husband Vivek Divyanka Tripathi shared a belated birthday wish for Vivek Dahiya after a fatal fire in their building. The tragedy reshaped his Diwali birthday as the family mourned their guard Dhanpat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/vinod-kapri-pyre-takes-independent-route-to-99th-academy-awards-oscars-race-3036603-2026-11-11",
-      "headline": "Vinod Kapri's Pyre takes independent route to 99th Oscars Vinod Kapri has submitted Pyre for the 99th Academy Awards through the independent route. The move underscores his belief that independent cinema should compete on merit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anirudh-ravichander-wedding-old-interview-three-hour-school-romance-3036575-2026-11-11",
-      "headline": "Composer Anirudh's first love story lasted just 3 hours, old video goes viral Composer Anirudh Ravichander recalled proposing to a schoolmate in an old interview. The three-hour romance has resurfaced amid reports of his wedding to Kavya Maran."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-review-rgv-taj-mahal-cinema-yash-ranbir-kapoor-3036584-2026-11-11",
-      "headline": "RGV calls Ramayana 'Taj Mahal of cinema' after second watch Ram Gopal Varma reviewed Ramayana again, praising its scale, performances and music. He called it a new benchmark that future Indian films would be measured against."
     }
   ],
   "general news": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/nvidia-board-meeting-jensen-huang-removal-relationship-allegations-3037099-2026-11-12",
+      "headline": "Nvidia prepares to oust CEO Jensen Huang as affair with employee comes to lightNvidia's board is set to decide on CEO Jensen Huang's future amid allegations of extramarital relationships and scrutiny over his reported links to a Chinese businesswoman. The controversy has rattled investors, wiping nearly USD 600 billion off Nvidia's market value."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/belonging-a-journey-of-love-sonia-gandhi-book-indira-gandhi-assassination-1984-anti-sikh-riots-indian-army-itspc-3036842-2026-11-12",
+      "headline": "Delay in Army action: Sonia Gandhi's 1984 riots claim was busted 40 years agoDuring the 1984 anti-Sikh pogrom, had the Army been deployed sooner in Delhi, at least 2,000 lives could have been saved. Congress leader Sonia Gandhi writes the delay was due to then Army Chief Gen AS Vaidya's decision. However, the deposition of Gen Vaidya and the Misra Commission findings busted those claims 40 years ago."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/govt-employees-can-now-get-laptops-worth-up-to-rs-18-lakh-keep-them-after-4-years-3036845-2026-11-11",
+      "headline": "Govt employees can now get laptops worth up to Rs 1.8 lakh, keep them after 4 yearsCentral government officers can now get laptops worth up to Rs 1.8 lakh and retain them after four years under the Finance Ministry's revised device purchase rules. Here are all the details."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/11-democrats-under-fire-for-helping-pete-hegseth-avoid-impeachment-who-are-they-3037080-2026-11-12",
+      "headline": "11 Democrats under fire for helping Pete Hegseth avoid impeachment. Who are they?The House voted 211-204 to send Republican Representative Thomas Massie's impeachment articles against Hegseth to the GOP-controlled Judiciary Committee. 11 Democrats were among the 18 members who did not vote."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-belonging-55-factual-contextual-issues-3036891-2026-11-11",
+      "headline": "President RK Narayan? Why Sonia Gandhi needed a better fact-checker for her bookAn examination of Sonia Gandhi's memoir has flagged 55 factual and contextual issues. The discrepancies highlight weaknesses in its accounts of parliamentary, political and international events."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/ncp-merger-sunetra-pawar-reunion-buzz-sanjay-raut-mla-exit-claims-3036869-2026-11-11",
@@ -211,53 +236,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/govt-employees-can-now-get-laptops-worth-up-to-rs-18-lakh-keep-them-after-4-years-3036845-2026-11-11",
-      "headline": "Govt employees can now get laptops worth up to Rs 1.8 lakh, keep them after 4 yearsCentral government officers can now get laptops worth up to Rs 1.8 lakh and retain them after four years under the Finance Ministry's revised device purchase rules. Here are all the details."
+      "url": "https://www.indiatoday.in/india/law-news/story/bombay-high-court-upholds-adult-womans-right-to-choose-partner-across-religion-3037091-2026-11-12",
+      "headline": "Religion no bar: Bombay High Court backs 21-year-old woman's choice of husbandThe Bombay High Court granted relief to a Hindu woman seeking protection after marrying a Muslim man. The bench reaffirmed an adult woman's freedom to choose her partner without force or pressure."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nvidia-ceo-jensen-huang-affair-board-investigation-3036880-2026-11-11",
-      "headline": "Business as usual: Nvidia CEO addresses staff, dodges affair questionsNvidia CEO Jensen Huang apologised to employees during a meeting after disclosing an extramarital affair. The company's board has launched an investigation, while reports of the relationship have drawn scrutiny amid Huang's business ties with China."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/koffee-with-karan-9-kiara-advani-on-trolling-toxic-intimate-scenes-with-yash-reveals-sidharths-reaction-3037094-2026-11-12",
+      "headline": "Kiara addresses trolling over Toxic intimate scenes, reveals Sidharth's reactionActor Kiara Advani addressed trolling over her intimate scenes with Yash in Toxic. She also opened up on husband, actor Sidharth Malhotra's reaction to the controversy."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/kurnool-suicide-case-three-year-old-found-unconscious-beside-mothers-body-3037087-2026-11-12",
+      "headline": "3-year-old tries to wake mother all night after she hangs self in Andhra's KurnoolA three-year-old boy spent the night crying beside his mother's body after the 30-year-old woman allegedly died by suicide at their Kurnool residence. Police found the child unconscious on a stool nearby after neighbours alerted them."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-belonging-55-factual-contextual-issues-3036891-2026-11-11",
-      "headline": "President RK Narayan? Why Sonia Gandhi needed a better fact-checker for her bookAn examination of Sonia Gandhi's memoir has flagged 55 factual and contextual issues. The discrepancies highlight weaknesses in its accounts of parliamentary, political and international events."
+      "url": "https://www.indiatoday.in/world/story/trumps-china-chip-crackdown-stuck-as-lutnick-resists-export-curbs-report-3037095-2026-11-12",
+      "headline": "Trump's Nvidia chip crackdown on China stalled by Lutnick: ReportDonald Trump approved tighter controls on suspected Nvidia chip diversions after consulting Elon Musk. Howard Lutnick's reported resistance has deepened an administration dispute over China's access to American AI technology."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/qualcomm-layoffs-india-iit-hyderabad-mtech-graduate-loses-rs-26-lakh-job-3036581-2026-11-11",
-      "headline": "Qualcomm layoffs hit IIT Hyderabad graduate who landed Rs 26 lakh campus placementHe took a year off to crack GATE, spent two years pursuing an MTech at IIT Hyderabad, and landed a job at Qualcomm through campus placements. Now, he has been laid off. A social media post has highlighted how even hard-earned engineering jobs are not immune to the latest tech industry cuts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/amul-hikes-milk-prices-across-india-from-nov-12-with-gold-costing-rs-4-more-and-taaza-rs-2-more-per-litre-3036841-2026-11-11",
-      "headline": "Amul milk gets costlier across India, prices raised by up to Rs 4 per litreAmul has increased the prices of its fresh pouch milk variants by around 4-5 per cent across major markets in India, with toned milk becoming costlier by Rs 2 per litre and full-cream milk by Rs 4."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/kerala-student-naifa-balkies-hameed-dubai-crash-flat-tyre-last-call-father-keralam-itspc-3036812-2026-11-11",
-      "headline": "A flat tyre, a call to dad, then run over: Keralam student dies in Dubai crashA flat tyre led 21-year-old Keralam student Naifa Balkies Hameed to call her father while driving to university in Dubai. Five minutes later, she stopped answering his calls. Later, her family in India learnt that she had been struck by a vehicle and killed on the spot while seeking roadside assistance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anirudh-ravichander-and-kavya-maran-get-married-in-dreamy-ceremony-first-pics-out-3036892-2026-11-11",
-      "headline": "First pics: Anirudh-Kaviya get married in Greece, Rajinikanth and others attendAnirudh Ravichander and Kaviya Maran married at an intimate destination ceremony in Greece. The private celebrations will be followed by a grand Chennai reception on November 21."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/up-assembly-elections-2027-owaisi-chandrashekhar-azad-alliance-150-seats-3037020-2026-11-11",
-      "headline": "Third front on the cards for UP polls as Owaisi, Chandrashekhar Azad to join handsAsaduddin Owaisi and Chandrashekhar Azad are expected to announce a third front in Lucknow on Thursday. The proposed alliance seeks to unite Dalit and Muslim voters for the 2027 Uttar Pradesh Assembly elections."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/uttar-pradesh-assembly-elections-2027-bjp-60-seats-nda-allies-3036577-2026-11-11",
-      "headline": "BJP's 60-seat formula for UP allies: What's behind NDA's 2027 election strategy?The BJP is considering reserving around 60 Uttar Pradesh Assembly seats for NDA partners in 2027. The proposal will test alliance unity and reveal its reliance on regional partners."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/sonia-gandhi-education-qualification-cambridge-certificate-art-conservation-diploma-3036700-2026-11-11",
-      "headline": "Sonia Gandhi went to Cambridge, but not the university. The story you may not knowLong before she became one of India's most influential political figures, Sonia Gandhi was a young woman from northern Italy trying to find her feet in England. Her memoir 'Belonging: A Journey of Love', revisits her language classes, Cambridge years and the educational qualifications she went on to acquire."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/faridabad-shooting-cctv-parking-dispute-tech-mahindra-executive-killing-3037046-2026-11-11",
+      "headline": "15 rounds in 5 seconds: CCTV captures Faridabad murder over parking rowCCTV footage shows Monu Sharma confronting Paramjit Dhankhar before allegedly shooting him in Faridabad. The clips detail how a parking dispute escalated into a fatal attack."
     },
     {
       "sentiment": "positive",
@@ -266,8 +266,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/gujarat-family-sets-up-impromptu-kitchen-in-3ac-train-to-make-food-faces-backlash-3036516-2026-11-11",
-      "headline": "Train coach turns kitchen for Gujarat family, one even rues not carrying toasterA viral video shows a Gujarati family preparing sandwiches across berths in a train compartment. The setup has raised questions about passenger etiquette and civic sense."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anirudh-ravichander-and-kavya-maran-get-married-in-dreamy-ceremony-first-pics-out-3036892-2026-11-11",
+      "headline": "First pics: Anirudh-Kaviya get married in Greece, Rajinikanth and others attendAnirudh Ravichander and Kaviya Maran married at an intimate destination ceremony in Greece. The private celebrations will be followed by a grand Chennai reception on November 21."
     },
     {
       "sentiment": "positive",
@@ -276,8 +276,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/gunmen-ambush-paks-kohat-police-team-en-route-to-raid-illegal-gold-mines-dsp-si-among-11-killed-12-injured-3036938-2026-11-11",
-      "headline": "11 Pakistan cops, including DSP and SI, killed in ambush in Khyber PakhtunkhwaThe police personnel were travelling through the Gambat area of Kohat to conduct a raid against illegal gold mining when they came under attack in the Darbokach Jalandhar Banda area, between Kohat and Karak."
+      "url": "https://www.indiatoday.in/world/story/nvidia-ceo-jensen-huang-affair-board-investigation-3036880-2026-11-11",
+      "headline": "Business as usual: Nvidia CEO addresses staff, dodges affair questionsNvidia CEO Jensen Huang apologised to employees during a meeting after disclosing an extramarital affair. The company's board has launched an investigation, while reports of the relationship have drawn scrutiny amid Huang's business ties with China."
     },
     {
       "sentiment": "positive",
@@ -286,18 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-served-legal-notice-over-bhopal-royal-pendant-with-quranic-verse-3036919-2026-11-11",
-      "headline": "Kareena Kapoor served legal notice over Bhopal royal pendant with Quranic verseActor Kareena Kapoor Khan has been served a legal notice concerning a Bhopal royal pendant inscribed with Ayat-ul-Kursi. The matter brings the pendant's royal association and inscription under legal scrutiny."
+      "url": "https://www.indiatoday.in/india/story/ajit-pawars-plane-crash-was-a-conspiracy-says-ncp-spokesperson-umesh-patil-3037081-2026-11-12",
+      "headline": "My gut feeling: NCP spokesperson suspects conspiracy in Ajit Pawar crashNCP spokesperson Umesh Patil claimed Ajit Pawar's plane crash could involve a conspiracy. He acknowledged there was no concrete evidence and urged restraint pending the investigation."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/jaipur/story/jaipur-murder-history-sheeter-vijay-bajia-killed-after-suv-ambush-3037092-2026-11-12",
+      "headline": "Car rammed, man axed to death in minutes as residents film live murder in JaipurA group of four to six assailants rammed Vijay Bajia's SUV before chasing and attacking him with axes in Jaipur. Police suspect revenge over a longstanding dispute and have launched a manhunt."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/indias-economy-holds-firm-against-energy-shock-moodys-lifts-growth-forecast-to-7-3036774-2026-11-11",
-      "headline": "Moody's upgrades India's growth forecast to 7%, sees resilience to global shocksMoody's said broad-based economic growth, strong domestic consumption and improving investment were helping India navigate external pressures. Sound macroeconomic fundamentals should also allow the economy to sustain growth close to 7% over the medium term, it added."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-vijay-sterlite-protest-victims-additional-rs-5-25-crore-relief-3036921-2026-11-11",
-      "headline": "Vijay announces extra Rs 5 crore for families of TN Sterlite protest victimsThe additional compensation includes Rs 25 lakh each for the families of 13 killed protesters and Rs 5 lakh each for 40 injured persons, based on the Justice Aruna Jagadeesan Commission's recommendations."
+      "url": "https://www.indiatoday.in/business/story/amul-hikes-milk-prices-across-india-from-nov-12-with-gold-costing-rs-4-more-and-taaza-rs-2-more-per-litre-3036841-2026-11-11",
+      "headline": "Amul milk gets costlier across India, prices raised by up to Rs 4 per litreAmul has increased the prices of its fresh pouch milk variants by around 4-5 per cent across major markets in India, with toned milk becoming costlier by Rs 2 per litre and full-cream milk by Rs 4."
     },
     {
       "sentiment": "positive",
@@ -315,9 +315,9 @@
       "headline": "Truck driver gets Diwali gift after 11 years, his unboxing video is a delightA surprise gift hamper and a cash bonus for Diwali after 11 years of service left a truck driver visibly delighted, and a video of him unboxing his presents has made social media users smile."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/ghaziabad-grap-3-construction-ban-november-20-hybrid-classes-class-5-3037037-2026-11-11",
-      "headline": "GRAP-III in Ghaziabad: Construction banned, hybrid classes till class 5 as AQI dipsThe directives were issued during a review meeting chaired by the District Magistrate through video conferencing on November 11."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/qualcomm-layoffs-india-iit-hyderabad-mtech-graduate-loses-rs-26-lakh-job-3036581-2026-11-11",
+      "headline": "Qualcomm layoffs hit IIT Hyderabad graduate who landed Rs 26 lakh campus placementHe took a year off to crack GATE, spent two years pursuing an MTech at IIT Hyderabad, and landed a job at Qualcomm through campus placements. Now, he has been laid off. A social media post has highlighted how even hard-earned engineering jobs are not immune to the latest tech industry cuts."
     }
   ],
   "sports": [
