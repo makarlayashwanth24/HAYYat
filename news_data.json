@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/fabulous-negotiations-commerce-minister-piyush-goyal-hints-at-india-us-trade-deal-announcement-soon-3037875-2026-11-13",
+      "headline": "Fabulous negotiations: Piyush Goyal hints at India-US trade deal announcement soonPiyush Goyal said India-US trade negotiations were smooth, with only a few issues unresolved. He expects the pact to secure highly favourable American market access for Indian products."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/pm-modi-government-absorbed-rs-43-per-litre-diesel-hike-protect-farmers-3037839-2026-11-12",
       "headline": "PM says govt absorbed Rs 43 of Rs 50 per litre diesel price hike to protect farmersThe PM further claimed that the government had been bearing a financial burden of Rs 14,000 crore every month to shield consumers and farmers from higher fuel prices."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-772-points-higher-nifty-above-25200-indigo-up-4-3036697-2026-11-11",
       "headline": "Markets end higher despite giving up early gains; banks and auto stocks leadThe Sensex closed at 81,879.40, up 772.75 points or 0.95%. The index had opened at 82,248.68 and touched an intraday high of 82,520.40 before slipping to a low of 81,417.39. The Nifty50 settled at 25,255.05, gaining 210.40 points or 0.84%."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/video/warehouse-loans-can-help-farmers-avoid-distress-sales-but-uptake-remains-low-3036683-2026-11-11",
-      "headline": "Warehouse loans can help farmers avoid distress sales, but uptake remains lowBanks can lend up to 80% of the value of the stored produce against warehouse receipts. The process, including farmer KYC, opening a loan account and disbursal, can be completed digitally within 24 hours."
     }
   ],
   "entertainment": [
@@ -200,12 +200,27 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-kisan-tak-bharat-agriculture-conference-2026-smart-farming-viksit-bharat-itspc-3037735-2026-11-12",
+      "headline": "No Viksit Bharat without smart farming: PM echoes Kisan Tak's theme as agri roadmapUsing the theme of India Today Group's Kisan Tak Bharat Agriculture Conference 2026, PM Narendra Modi said smart farming is needed to fulfil the vision of Viksit Bharat 2047."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/ousted-nvidia-ceo-jensen-huangs-affair-with-another-employee-comes-to-light-amid-scandal-3037873-2026-11-13",
+      "headline": "Jensen Huang's third 'intimate' affair surfaces amid scandal that toppled Nvidia CEOJensen Huang admitted having an affair in a statement on November 8, issued after reports emerged about his relationship with Alice Huang. He did not identify the woman by name. Days later, he resigned from Nvidia after 33 years at the company he co-founded and helped turn into a big force in the global artificial intelligence boom."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/pm-modi-government-absorbed-rs-43-per-litre-diesel-hike-protect-farmers-3037839-2026-11-12",
       "headline": "PM says govt absorbed Rs 43 of Rs 50 per litre diesel price hike to protect farmersThe PM further claimed that the government had been bearing a financial burden of Rs 14,000 crore every month to shield consumers and farmers from higher fuel prices."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/many-people-including-indians-killed-after-truck-loses-control-hits-multiple-vehicles-in-uae-3037863-2026-11-12",
+      "headline": "Indians among 14 killed after truck loses control, rams multiple vehicles in UAEThe truck first collided with another vehicle before overturning and striking several vehicles that had slowed down or stopped because of the traffic. The impact triggered a fire, which quickly spread to other vehicles caught in the pile-up."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/farm-sector-growth-at-over-4-small-farmers-overcame-poverty-in-large-numbers-pm-at-kisan-tak-conference-3037731-2026-11-12",
       "headline": "Agri sector grew over 4% for first time since Independence, 50 cr beat poverty: PMSpeaking at the India Today Group's Kisan Tak Bharat Agriculture Conference, Prime Minister Narendra Modi said India's agriculture sector had grown at an average annual rate of over 4 per cent in the past decade."
     },
@@ -216,23 +231,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/jensen-huang-who-quit-as-nvidia-ceo-agrees-to-testify-before-congress-says-trumps-party-leader-3037835-2026-11-12",
-      "headline": "Jensen Huang, who quit as Nvidia CEO, to testify before Congress: US lawmakerBrian Mast, a Republican from Florida, told reporters that Huang had agreed to appear before lawmakers and that discussions were under way to settle the date. The hearing is expected to be conducted under oath and recorded as part of a congressional inquiry involving several committees."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/jensen-huang-exits-as-nvidia-ceo-as-spy-affair-row-explodes-read-full-statement-3037673-2026-11-12",
-      "headline": "Jensen Huang exits as Nvidia CEO as 'spy' affair row explodes. Read full statementNvidia CEO Jensen Huang, 63, has stepped down amid a massive row over his affairs, including one with Chinese businesswoman Alice Huang, suspected by the US of spying for Beijing. Colette Kress will serve as interim CEO as the company searches for a successor. Read Nvidia's full statement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/intoxicated-with-power-at-kisan-tak-conference-pm-takes-dig-at-rahul-gandhi-over-constitution-in-pocket-3037748-2026-11-12",
-      "headline": "Constitution in pocket: PM Modi's dig at Rahul Gandhi at Kisan Tak ConferencePrime Minister Narendra Modi took an apparent swipe at Rahul Gandhi at the Kisan Tak Conference, saying some people think the Constitution is in their pocket. He also described power as an intoxicant and recalled his tenure as Gujarat CM."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/trump-says-apples-tim-cook-is-the-only-man-who-can-replace-jensen-huang-as-nvidia-ceo-3037761-2026-11-12",
-      "headline": "Trump says Tim Cook is the only man who can replace Jensen Huang at NvidiaHours after Jensen Huang resigned from Nvidia in the wake of an affair with a suspected Chinese spy, Donald Trump took to Truth Social to suggest that Tim Cook was the only person capable of taking over from the AI chip giant's longtime chief."
+      "url": "https://www.indiatoday.in/world/story/us-has-not-concluded-alice-huang-was-chinese-spy-says-attorney-general-blanche-amid-nvidia-fallout-3037878-2026-11-13",
+      "headline": "US has not concluded Alice Huang was Chinese spy, says Blanche amid Nvidia falloutThe FBI is investigating Alice Huang's alleged Chinese intelligence links as Jensen Huang leaves Nvidia. The controversy has intensified scrutiny of foreign influence risks and advanced chip exports."
     },
     {
       "sentiment": "positive",
@@ -241,38 +241,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/nvidia-new-chief-cfo-colette-kress-interim-ceo-jensen-huang-exit-affair-scandal-3037171-2026-11-12",
-      "headline": "Who is Colette Kress? Meet Nvidia's interim CEO as Jensen Huang resignsWhile Nvidia's chief financial officer Colette Kress and vice-president Ian Buck seem to be top contenders, eight executives outside the chip-making giant are emerging as potential names to watch if the chipmaker has to find a replacement for its long-time leader."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-kisan-tak-bharat-agriculture-conference-2026-smart-farming-viksit-bharat-itspc-3037735-2026-11-12",
-      "headline": "Just filling granaries won't do: PM Modi says no Viksit Bharat without smart farmingUsing the theme of India Today Group's Kisan Tak Bharat Agriculture Conference 2026, PM Narendra Modi said smart farming is needed to fulfil the vision of Viksit Bharat 2047."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/what-sonia-gandhi-says-and-doesnt-say-about-the-bachchan-family-in-her-book-belonging-3037396-2026-11-12",
       "headline": "What Sonia Gandhi says and doesn't say about the Bachchan family in her bookSonia Gandhi recalls how Teji and Harivansh Rai Bachchan welcomed and guided her in India. Her memoir celebrates that early warmth while leaving the families' later estrangement largely unexplained."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nvidia-ceo-jensen-huang-resigns-amid-spy-affair-scandal-colette-kress-appointed-interim-chief-3037661-2026-11-12",
-      "headline": "Nvidia CEO Jensen Huang resigns amid 'spy' affair; Colette Kress named interim chiefColette Kress, Nvidia's executive vice president and chief financial officer, has been appointed interim CEO following Jensen Huang's resignation. She will continue to serve as CFO while leading the company until a permanent successor is named."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/gunjan-youth-olympics-historic-woman-boxing-gold-dakar-3037825-2026-11-12",
-      "headline": "Gunjan scripts history, joins Ambekar Meetei in India's Youth Olympics gold rushGunjan scripted history at the Dakar 2026 Youth Olympics, becoming the first Indian woman to win a boxing gold medal in the women's 48kg final. Her triumph, alongside Lairenlakpam Ambekar Meetei's gold, gave India two boxing titles at the Games."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/jensen-huang-alice-huang-links-nvidia-ai-chip-investigations-3037292-2026-11-12",
-      "headline": "When Jensen Huang met Alice, her Chinese husband played matchmakerNvidia CEO Jensen Huang was introduced to Alice Huang by her husband, Kang Wei, who reportedly knew about their relationship and even joked about their closeness. The couple built a business empire spanning technology and cloud computing, but their links to Huang and alleged exports of restricted Nvidia AI chips to China have triggered investigations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-bharat-agriculture-conference-india-growth-smart-farming-crop-diversification-farmer-income-3037738-2026-11-12",
-      "headline": "From drones to AI, PM calls for tech-led transformation of agriculture. Top quotesPrime Minister Narendra Modi said India's goal of becoming a developed nation hinges on empowering farmers and modernising agriculture through technology, crop diversification, value addition and better market access."
+      "url": "https://www.indiatoday.in/world/story/jensen-huang-who-quit-as-nvidia-ceo-agrees-to-testify-before-congress-says-trumps-party-leader-3037835-2026-11-12",
+      "headline": "Jensen Huang, who quit as Nvidia CEO, to testify before Congress: US lawmakerBrian Mast, a Republican from Florida, told reporters that Huang had agreed to appear before lawmakers and that discussions were under way to settle the date. The hearing is expected to be conducted under oath and recorded as part of a congressional inquiry involving several committees."
     },
     {
       "sentiment": "positive",
@@ -281,8 +256,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/sonia-gandhi-memoir-raihan-vadra-aviva-baig-back-cover-photo-rajiv-gandhi-front-over-3037363-2026-11-12",
-      "headline": "Raihan Vadra, fiancee Aviva Baig's special contribution to Sonia Gandhi's bookHere's a sweet little detail about Sonia Gandhi's newly released and much-talked-about memoir, Belonging: A Journey of Love. It has to do with her grandson Raihan Vadra, and his fiancee Aviva Baig."
+      "url": "https://www.indiatoday.in/business/story/nvidia-new-chief-cfo-colette-kress-interim-ceo-jensen-huang-exit-affair-scandal-3037171-2026-11-12",
+      "headline": "Who is Colette Kress? Meet Nvidia's interim CEO as Jensen Huang resignsWhile Nvidia's chief financial officer Colette Kress and vice-president Ian Buck seem to be top contenders, eight executives outside the chip-making giant are emerging as potential names to watch if the chipmaker has to find a replacement for its long-time leader."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/gunjan-youth-olympics-historic-woman-boxing-gold-dakar-3037825-2026-11-12",
+      "headline": "Gunjan scripts history, joins Ambekar Meetei in India's Youth Olympics gold rushGunjan scripted history at the Dakar 2026 Youth Olympics, becoming the first Indian woman to win a boxing gold medal in the women's 48kg final. Her triumph, alongside Lairenlakpam Ambekar Meetei's gold, gave India two boxing titles at the Games."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/intoxicated-with-power-at-kisan-tak-conference-pm-takes-dig-at-rahul-gandhi-over-constitution-in-pocket-3037748-2026-11-12",
+      "headline": "Constitution in pocket: PM Modi's dig at Rahul Gandhi at Kisan Tak ConferencePrime Minister Narendra Modi took an apparent swipe at Rahul Gandhi at the Kisan Tak Conference, saying some people think the Constitution is in their pocket. He also described power as an intoxicant and recalled his tenure as Gujarat CM."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-bharat-agriculture-conference-india-growth-smart-farming-crop-diversification-farmer-income-3037738-2026-11-12",
+      "headline": "From drones to AI, PM calls for tech-led transformation of agriculture. Top quotesPrime Minister Narendra Modi said India's goal of becoming a developed nation hinges on empowering farmers and modernising agriculture through technology, crop diversification, value addition and better market access."
     },
     {
       "sentiment": "positive",
@@ -291,13 +281,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/nvidia-shares-crash-after-ceo-jensen-huang-resigns-valuation-hits-14-year-low-3037697-2026-11-12",
-      "headline": "Nvidia shares crash 13% as CEO Jensen Huang resigns; valuation hits 14-year lowNvidia shares plunged after CEO Jensen Huang resigned following 33 years at the helm, triggering fresh uncertainty over the AI chipmaker's leadership, valuation and future growth prospects."
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/sonia-gandhi-memoir-raihan-vadra-aviva-baig-back-cover-photo-rajiv-gandhi-front-over-3037363-2026-11-12",
+      "headline": "Raihan Vadra, fiancee Aviva Baig's special contribution to Sonia Gandhi's bookHere's a sweet little detail about Sonia Gandhi's newly released and much-talked-about memoir, Belonging: A Journey of Love. It has to do with her grandson Raihan Vadra, and his fiancee Aviva Baig."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/jensen-huang-alice-huang-links-nvidia-ai-chip-investigations-3037292-2026-11-12",
+      "headline": "When Jensen Huang met Alice, her Chinese husband played matchmakerFormer Nvidia CEO Jensen Huang was introduced to Alice Huang by her husband, Kang Wei, who reportedly knew about their relationship and even joked about their closeness. The couple built a business empire spanning technology and cloud computing, but their links to Huang and alleged exports of restricted Nvidia AI chips to China have triggered investigations."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/pm-modi-agriculture-solar-pumps-ai-soil-testing-kisan-tak-conference-science-3037754-2026-11-12",
-      "headline": "India enhancing the role of engineering and science in agriculture: PM ModiAt the Kisan Tak Bharat Agriculture Conference, the Prime Minister spoke about reducing cultivation costs and improving farm productivity through science and technology."
+      "url": "https://www.indiatoday.in/india/story/kisan-tak-bharat-agriculture-conference-2026-pm-modi-india-today-group-3037769-2026-11-12",
+      "headline": "A positive beginning: PM Modi praises India Today Group's initiative for farmersPrime Minister Narendra Modi praised the India Today Group while addressing its Kisan Tak Bharat Agriculture Conference 2026. The event brings farmers, scientists and industry representatives together to discuss technology-led agricultural transformation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/south/story/brazil-weg-tamil-nadu-investment-rs-2000-crore-dharmapuri-plant-3000-jobs-over-andhra-pradesh-3037772-2026-11-12",
+      "headline": "Brazil firm picks Tamil Nadu over Andhra for Rs 2,000-crore manufacturing unitWEG has selected Dharmapuri over Andhra Pradesh's Kuppam for its proposed manufacturing investment. The project strengthens Tamil Nadu's push for global investment and balanced regional industrial growth."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/four-shot-in-washington-dc-neighbourhood-a-mile-from-white-house-3037671-2026-11-12",
-      "headline": "1 dead, 4 shot in Washington DC's Logan Circle; suspect found with gunshot woundFour people were shot at multiple locations in Washington DC's Logan Circle, about a mile from the White House. Police launched a search for a suspect, cordoned off streets and placed nearby schools under lockdown."
+      "url": "https://www.indiatoday.in/cities/mumbai/story/bhojpuri-songs-mumbai-railway-stations-chhath-puja-political-row-3037766-2026-11-12",
+      "headline": "Bhojpuri songs played at Mumbai railway stations ahead of Chhath Puja, sparks rowBhojpuri songs at some Mumbai railway stations ahead of Chhath Puja sparked a row, with MNS and Shiv Sena (UBT) leaders questioning their use in railway announcement systems. Central Railway said the songs were played alongside special festival trains."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/alice-huang-singapore-ban-megaspeed-probe-jensen-huang-nvidia-resignation-3037746-2026-11-12",
+      "headline": "Alice Huang barred from re-entering Singapore amid Nvidia sagaThe Singapore government said Thursday that Alice Huang left the country in February and was later barred from returning following an investigation into Megaspeed's business activities."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nvidia-ceo-jensen-huang-affair-investigation-chinese-espionage-alice-huang-taipei-chips-us-investigation-3037137-2026-11-12",
-      "headline": "Alice's wish was Jensen's command? Here's what went down at a Taipei partyAlice Huang openly flaunted her access to Nvidia CEO Jensen Huang at a Taipei party in June 2024, telling a group of tech executives she could bring him there, according to a New York Times report."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/jensen-huang-kimberly-powell-security-nda-hotel-video-report-3037217-2026-11-12",
-      "headline": "Jensen Huang was caught on camera getting cosy with Nvidia VP. Then came the NDAA bystander filmed Nvidia CEO Jensen Huang getting affectionate with company executive Kimberly Powell, adding another explosive twist to the growing controversy surrounding the tech billionaire. The latest revelation comes as Huang faces mounting scrutiny following his admission of an affair with Chinese businesswoman, whom US intelligence suspect of being a spy."
+      "url": "https://www.indiatoday.in/technology/news/story/govt-employees-can-now-get-laptops-worth-up-to-rs-18-lakh-keep-them-after-4-years-3036845-2026-11-11",
+      "headline": "Govt employees can now get laptops worth up to Rs 1.8 lakh, keep them after 4 yearsCentral government officers can now get laptops worth up to Rs 1.8 lakh and retain them after four years under the Finance Ministry's revised device purchase rules. Here are all the details."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-usman-khawaja-australiasandpapergate-allegations-friendship-3037877-2026-11-13",
+      "headline": "Khawaja 100 percent wrong, his Sandpapergate story irresponsible: Pat Cummins Pat Cummins has hit back at Usman Khawaja over his Sandpapergate revelations, calling his account irresponsible and accusing his former teammate of being casual with people's reputations. He also firmly denied knowing about the 2018 ball-tampering plot."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/gunjan-youth-olympics-historic-woman-boxing-gold-dakar-3037825-2026-11-12",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-under-19-asia-cup-final-afghanistan-win-3037480-2026-11-12",
-      "headline": "India vs Pakistan in U19 Asia Cup final after Lakshya special blows away Afghanistan India stormed into the U19 Asia Cup final with an eight-wicket thrashing of Afghanistan, powered by skipper Lakshya Raichandani's unbeaten 93. The win sets up a blockbuster clash against Pakistan on Saturday, with India eyeing revenge for their group-stage defeat and hoping to end their run of losing the last two finals."
+      "headline": "India vs Pakistan in U19 Asia Cup final after Lakshya special blows away AfghanistanIndia stormed into the U19 Asia Cup final with an eight-wicket thrashing of Afghanistan, powered by skipper Lakshya Raichandani's unbeaten 93. The win sets up a blockbuster clash against Pakistan on Saturday, with India eyeing revenge for their group-stage defeat and hoping to end their run of losing the last two finals."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/dakar-2026-youth-olympics-ambekar-meetei-mens-50kg-boxing-final-3037009-2026-11-11",
       "headline": "Lairenlakpam Ambekar Meetei ends India's 16-year wait, reaches boxing finalLairenlakpam Ambekar Meetei ended India's 16-year wait for a Youth Olympics boxing finalist after storming into the men's 50kg final at Dakar 2026. The Manipuri boxer defeated Colombia's Izzon Jeffrey Galea Arevalo 5-0 and will now fight Ireland's Kristian Jubani for a historic gold medal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/joe-root-avoids-ball-tampering-row-usman-khawaja-ashes-revelations-3036977-2026-11-11",
-      "headline": "Joe Root refuses to get drawn into Usman Khawaja's Ashes ball-tampering claimsJoe Root has refused to comment on Usman Khawaja's explosive revelations about Australia's ball-tampering practices during the 2017-18 Ashes, insisting he does not want to speculate. Khawaja's claims have received backing from David Warner, who questioned Cricket Australia's investigation into the 2018 Sandpapergate scandal."
     }
   ],
   "education": [
@@ -549,7 +549,7 @@
       "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
