@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/huf-vs-individual-assets-ownership-taxation-inheritance-explained-3049141-2026-11-28",
+      "headline": "HUF vs individual assets: Ownership, taxation and inheritance explainedExperts explain how HUF and individual assets differ in ownership, taxation and inheritance. Their guidance highlights shared coparcenary rights, transfer limits and tax clubbing risks."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/zoho-sridhar-vembu-ex-wife-secret-share-transfer-india-move-divorce-battle-3049142-2026-11-28",
+      "headline": "I am an idiot: Vembu's ex-wife drops bombshell on divorce, Zoho share transferPramila Srinivasan, the ex-wife of Zoho founder Sridhar Vembu, has claimed in an interview that he secretly transferred a significant portion of his stake to his family members without her knowledge. Srinivasan also speaks of their ugly divorce and her life now in California."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/rbi-eases-daily-crr-requirement-to-90-from-99-what-does-it-mean-3048503-2026-11-27",
       "headline": "RBI eases daily CRR requirement to 90% from 99%. What does it mean?In a notification issued on November 27, the central bank said the decision was taken after assessing the current and evolving economic situation and liquidity conditions."
     },
@@ -89,19 +99,54 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/mutual-fund-distributors-sip-book-growth-market-volatility-report-3047430-2026-11-26",
       "headline": "62% of mutual fund distributors grew SIP books despite market volatility: ReportA study found that 62% of surveyed distributors reported an increase in their monthly SIP books over the previous year. Another 33% said their SIP books remained unchanged despite market volatility."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/nse-becomes-worlds-no-3-listed-stock-exchange-beats-london-stock-exchange-deutsche-boerse-3047424-2026-11-26",
-      "headline": "NSE becomes world's No. 3 listed stock exchangeWith a market value of $64.1 billion, NSE now ranks third among the world's largest listed stock exchange operators."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-390-points-higher-nifty-nears-25900-hcltech-up-6-it-rally-3047391-2026-11-26",
-      "headline": "Sensex, Nifty end higher after volatile session as IT stocks lead recoveryThe Sensex gained 390.31 points, or 0.46%, to close at 84,328.59. It had opened at 84,301.40 and moved between an intraday low of 83,754.66 and a high of 84,551.74. The Nifty 50 rose 65.25 points, or 0.25%, to settle at 25,884.50."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/mirzapur-2-movie-being-chased-by-a-list-star-source-3049376-2026-11-28",
+      "headline": "Mirzapur 2 movie being chased by A-list star: Source An A-list star has approached the makers about joining the Mirzapur sequel. The development comes as the team plans a grander film after the original's success."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/kevin-pietersen-lands-in-phulera-ex-england-star-joins-panchayat-season-5-fun-3049346-2026-11-28",
+      "headline": "Kevin Pietersen lands in Phulera: Ex-England star joins Panchayat Season 5 fun Former England cricketer Kevin Pietersen has stepped into the fictional village of Phulera for a special Panchayat Season 5 promo. He is seen sipping chai from a saucer and interacting with the show's beloved characters ahead of its December 3 release."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ranveer-singhs-pralay-sets-placed-under-tight-security-after-set-pics-leak-online-3049261-2026-11-28",
+      "headline": "Ranveer Singh's Pralay sets placed under tight security after pics get leaked online Following the online leak of set photos, the makers of actor Ranveer Singh's upcoming zombie survival thriller Pralay have reportedly shifted filming to a tightly guarded, closed set in Mumbai's Borivali."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-turns-mumbai-concert-into-statement-of-love-defiance-punjabi-pride-3049269-2026-11-28",
+      "headline": "Diljit Dosanjh turns Mumbai concert into statement of love, defiance, Punjabi pride Punjabi singer Diljit Dosanjh answered a bomb threat with a message of love at his Mumbai concert. His performance blended Punjabi pride, fan appreciation and defiance over disputed songs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/shraddha-kapoors-eetha-gets-censor-board-clearance-becomes-her-longest-film-yet-3049207-2026-11-28",
+      "headline": "Shraddha Kapoor's Eetha gets censor board clearance, becomes her longest film yet Directed by Laxman Utekar, Eetha has been cleared by the Central Board of Film Certification (CBFC) with a runtime of 2 hours and 52 minutes, edging past Saaho to become the longest film of actor Shraddha Kapoor's career."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/neena-gupta-on-panchayat-role-wearing-spaghetti-straps-doesnt-change-me-3049149-2026-11-28",
+      "headline": "Wearing Spaghetti straps doesn't change me: Neena Gupta on Panchayat role Veteran actor Neena Gupta addressed assumptions about playing Manju Devi during a discussion at Sahitya AajTak 2026. She said clothing choices neither define her identity nor diminish her understanding of village life."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/mona-singh-questions-film-sequels-says-india-has-enough-folklore-to-explore-3049095-2026-11-28",
+      "headline": "Mona Singh wants Bollywood to move beyond sequels and explore Indian folklore Actor Mona Singh questioned the trend of film sequels and urged filmmakers to explore India's rich folklore at Sahitya AajTak 2026. She also spoke about how streaming platforms have changed the industry, while emphasising that fame and recognition are temporary."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/dune-3-director-denis-villeneuve-on-clash-with-avengers-doomsday-deeply-disappointed-3049050-2026-11-28",
+      "headline": "Deeply disappointed: Dune 3 director Denis Villeneuve on clash with Doomsday With Avengers: Doomsday and Dune: Part Three releasing a day apart this December, director Denis Villeneuve admitted he was hoping for a normal release free of major hurdles."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aishwarya-rai-abhishek-bachchan-twin-magenta-shaina-nc-reunion-3049022-2026-11-28",
+      "headline": "Aishwarya Rai and Abhishek Bachchan twin in magenta at Shaina NC's bash Fashion designer and Shiv Sena leader Shaina NC reunited with actor-couple Aishwarya Rai and Abhishek Bachchan at an event. Her note celebrated a friendship sustained by trust despite long gaps."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/ar-rahman-says-rockstar-producer-disliked-the-music-delayed-payment-by-8-months-3048981-2026-11-28",
@@ -151,88 +196,43 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-brings-mumbai-to-its-feet-karisma-kapoor-avneet-kaur-join-sanya-malhotra-steals-a-moment-3048819-2026-11-28",
       "headline": "Diljit Dosanjh brings Mumbai to its feet; Karisma, Avneet join, Sanya steals a moment Diljit Dosanjh performed for thousands in Mumbai as actor Sanya Malhotra joined him on stage. Tight security followed a threat email, but celebrities such as Karisma Kapoor, Susssanne Khan, Jasmin Bhasin and fans attended the concert."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-day-23-epic-beats-baahubali-2-to-become-indias-3rd-biggest-film-3048810-2026-11-28",
-      "headline": "Ramayana box office Day 23: Epic beats Baahubali 2 to become India's 3rd biggest film Ranbir Kapoor-starrer Ramayana has pushed Baahubali 2 out of the third spot with a worldwide collection of Rs 1,790.10 crore in 23 days."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/netflix-pakistani-show-jo-bachay-hain-sang-samait-lo-india-curbs-fawad-khan-mahira-khan-experts-3048390-2026-11-28",
-      "headline": "Does Netflix need India to make Fawad-Mahira's Pakistani show a hit? The government reminded Netflix of its advisory restricting Pakistan-origin content in India. Will this ban hurt Netflix and its subscriber base? Experts, speaking to India Today, weighed in on the controversy and its probable aftereffects."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-answers-mumbai-concert-bomb-threat-with-message-of-love-3048609-2026-11-27",
-      "headline": "It's only love from my side: Diljit addresses bomb threat at Mumbai concert Singer-actor Diljit Dosanjh addressed fans during his Mumbai concert on Friday after a bomb threat email triggered heightened security. He said he only had love to offer despite the threats, as over 500 police personnel secured the venue."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/king-song-daddy-cool-shah-rukh-khan-kareena-kapoor-go-old-school-and-stay-cool-3048597-2026-11-27",
-      "headline": "Shah Rukh, Kareena go old school and stay cool in King's Daddy Cool song Actors Shah Rukh Khan and Kareena Kapoor Khan's Daddy Cool is the second song from King. The track gives Boney M's popular hit a Bollywood twist, with the actors showing off their dance moves."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/lakshmi-puthra-review-thara-anuradha-shines-chikkanna-film-falters-3048508-2026-11-27",
-      "headline": "Lakshmi Puthra review: Only Thara shines in this painfully regressive 'entertainer'Release Date:Fri Nov 27, 2026 Lakshmi Puthra movie review: The film mistakes eve-teasing for romance and a mother's love for a licence to excuse bad behaviour. In this regressive, outdated entertainer, veteran actor Thara Anuradha is the only saving grace."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/hanuman-anshs-shobhinaw-satyaa-compares-his-big-break-to-srks-fauji-debut-3048519-2026-11-27",
-      "headline": "Hanuman Ansh's Shobhinaw Satyaa compares his big break to SRK's Fauji debut Actor Shobhinaw Satyaa compared his unexpected casting in Hanuman Ansh to Shah Rukh Khan's journey from a small role to the lead in Fauji. He also explained why he agreed to play Neem Karoli Baba."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/khushbu-sundar-cites-india-pak-cricket-ban-to-oppose-jo-bachay-hain-sang-samait-lo-3048458-2026-11-27",
-      "headline": "Khushbu Sundar cites India-Pak cricket ban to oppose Jo Bachay Hain Sang Samait Lo Actor-politician Khushbu Sundar opposed the release of Pakistani series Jo Bachay Hain Sang Samait Lo in India. She compared it to allowing an India-Pakistan cricket match on Indian soil."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/cosmic-samson-review-sandeep-pradeep-superhero-origin-story-3048449-2026-11-27",
-      "headline": "Cosmic Samson review: A superhero with potential, but a story that plays too safeRelease Date:Fri Nov 27, 2026 Cosmic Samson movie review: Director Abhijith Joseph's Cosmic Samson, starring Sandeep Pradeep, Mukesh and Miya George, is a rooted superhero thriller that is high on melodrama. While the film has some promising beats, the makers fail to explore its full potential."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sandeep-reddy-vanga-kamal-haasan-mammootty-chiranjeevi-pacino-de-niro-3048388-2026-11-27",
-      "headline": "Kamal, Mammootty, Chiranjeevi bigger than Robert De Niro, Al Pacino: Sandeep Vanga Sandeep Reddy Vanga placed Kamal Haasan, Mammootty and Chiranjeevi above Al Pacino and Robert De Niro. He cited their larger filmographies and wider range of characters."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/karthigai-deepam-deepathon-muslims-hindus-thiruparankundram-supreme-court-crpf-tamil-nadu-itspc-3048949-2026-11-28",
-      "headline": "Karthigai Deepam lighting: Muslims throng dargah, flower shower for CRPF by HindusOver 100 Muslims, including those from Keralam, visited the Sikandar Dargah as Hindu devotees showered flower petals on CRPF personnel deployed at Thiruparankundram Hill. The scenes unfolded ahead of the Supreme Court-directed lighting of the Karthigai Deepam lamp atop the Deepathoon on Saturday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/we-made-a-promise-to-our-nari-shakti-and-remain-committed-to-it-pm-modi-as-delimitation-bill-gets-backing-3048939-2026-11-28",
-      "headline": "Committed to our Nari Shakti promise: PM Modi as Delimitation Bill gets backingPrime Minister Narendra Modi reiterated his commitment to women's reservation, saying no obstacle would prevent greater participation of women in Parliament and state assemblies. His remarks come as the Centre pushes revised legislation linking the 33% quota with delimitation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/govt-aiming-for-800-paar-mallikarjun-kharge-says-delimitation-bill-bid-to-retain-power-permanently-3048966-2026-11-28",
-      "headline": "Bid to retain power forever: Kharge's '800 paar' jab at BJP on Delimitation BillCongress president Mallikarjun Kharge, addressing the media after a meeting of the INDIA bloc, accused the BJP of using the proposed Delimitation Bill to consolidate power. He also said the bill fails to protect the interests of SCs and STs."
+      "url": "https://www.indiatoday.in/india/story/delimitation-bill-southern-parties-bjp-two-thirds-majority-3049329-2026-11-28",
+      "headline": "How southern parties help BJP close in on two-thirds majority for delimitationSouthern parties holding 46 of the South's 129 Lok Sabha seats are backing the revised delimitation Bill. The DMK's 22 MPs, who voted against the earlier Bill, bring the BJP-led government closer to a two-thirds majority."
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/zoho-sridhar-vembu-ex-wife-secret-share-transfer-india-move-divorce-battle-3049142-2026-11-28",
+      "headline": "I am an idiot: Vembu's ex-wife drops bombshell on divorce, Zoho share transferPramila Srinivasan, the ex-wife of Zoho founder Sridhar Vembu, has claimed in an interview that he secretly transferred a significant portion of his stake to his family members without her knowledge. Srinivasan also speaks of their ugly divorce and her life now in California."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/prakash-raj-asks-mk-stalin-rethink-dmk-support-revised-delimitation-bill-3049291-2026-11-28",
+      "headline": "Isn't this backstabbing? Prakash Raj asks Stalin to rethink delimitation supportPrakash Raj's appeal came hours after the DMK passed a resolution supporting the Delimitation Bill ahead of Monday's Parliament sitting."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/bhopal/story/bhopal-jailer-rape-charge-fifty-eight-year-old-woman-guard-alleges-rape-inside-central-jail-3049227-2026-11-28",
+      "headline": "Woman guard accuses senior officer of rape while on duty inside Bhopal Central JailAn administrative jailer at Bhopal Central Jail is facing rape allegations after a 58-year-old woman guard accused him of forcibly taking her to a washroom inside the prison premises and sexually assaulting her while she was on duty."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-karthigai-deepam-lit-thirupparankundram-madurai-deepathoon-supreme-court-order-3049236-2026-11-28",
+      "headline": "Tears, prayers and chants as Karthigai Deepam lit at disputed Deepathoon in MaduraiEmotions ran high at Thirupparankundram as devotees watched the ceremonial flame light up the hilltop stone pillar, chanting Lord Murugan's name, folding their hands in prayer and some breaking into tears."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/at-least-six-killed-nearly-100-injured-after-blast-in-school-in-afghanistans-kunar-province-3048980-2026-11-28",
-      "headline": "At least 7 killed, almost 100 injured in blast in school in Afghanistan's KunarAt least seven students were killed and 97 injured in an explosion near a school in Afghanistan's Kunar province. The blast occurred in a house where mining workers had reportedly stored dynamite, Al Jazeera reported."
+      "headline": "Pieces of human flesh flying: Survivors recall Afghanistan blast that killed 1010 people were killed and over 100 injured in an explosion near a school in Afghanistan's Kunar province. The blast occurred in a house where mining workers had reportedly stored dynamite."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/americans-thanksgiving-turkey-feast-jains-us-pray-slain-birds-navkaar-jaap-ahimsa-michigan-itspc-3048145-2026-11-28",
-      "headline": "On Thanksgiving Americans feast on turkeys, Jains in US pray for souls of slain birdsAs Americans feast on around 4.6 crore turkeys on Thanksgiving, Jains in the US mark the festival with prayers for the souls of the slaughtered birds."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/himachal-school-assault-six-students-suspended-class-9-boy-kinn-aur-ptag-3048837-2026-11-28",
-      "headline": "Class 9 boy thrashed by seniors at Himachal school, 6 suspended as video goes viralSix students have been suspended after a video of seniors kicking and punching a Class 9 boy at a Himachal Pradesh school went viral, with authorities ordering a probe into the assault and examining the role of school staff."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/south/story/tvk-savarkar-2-0-rss-jibe-mk-stalin-dmk-support-revised-delimitation-bill-vijay-3048941-2026-11-28",
-      "headline": "Stalin, aka Savarkar 2.0: TVK targets Stalin after DMK backs Delimitation BillTVK called DMK chief MK Stalin \"Savarkar 2.0\" and shared an edited picture of him in an RSS uniform, targeting the party over its decision to support the Centre's revised Delimitation Bill."
+      "url": "https://www.indiatoday.in/india/story/dmk-backs-delimitation-bills-lok-sabha-seating-india-bloc-3049212-2026-11-28",
+      "headline": "DMK MPs to sit apart from INDIA bloc in Lok Sabha as party backs delimitation BillsDMK MPs will sit apart from the INDIA bloc as the party backs the revised delimitation Bills. The shift could aid the Centre's bid for the required two-thirds majority."
     },
     {
       "sentiment": "positive",
@@ -241,48 +241,48 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/in-focus/story/hyderabad-woman-salary-journey-morgan-stanley-amazon-meta-million-dollar-career-own-business-3048871-2026-11-28",
-      "headline": "She left Meta at Rs 9 cr, built her venture. Now, Hyderabad woman is multimillionaireGrowing up in a financially constrained household in Hyderabad, Bala Sahitya Vadlamani wanted the freedom to make her own choices. Eleven years after moving to the US, she has worked at Morgan Stanley, Amazon and Meta, crossed a seven-figure annual compensation and started her own advisory business."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/kevin-pietersen-lands-in-phulera-ex-england-star-joins-panchayat-season-5-fun-3049346-2026-11-28",
+      "headline": "Kevin Pietersen lands in Phulera: Ex-England star joins Panchayat Season 5 funFormer England cricketer Kevin Pietersen has stepped into the fictional village of Phulera for a special Panchayat Season 5 promo. He is seen sipping chai from a saucer and interacting with the show's beloved characters ahead of its December 3 release."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/south/story/dmk-support-revised-delimitation-bill-after-centre-addresses-mk-stalin-demands-3048828-2026-11-28",
-      "headline": "We must think calmly: Stalin calls Delimitation Bill a victory for southern statesAfter days of speculation, the DMK confirmed that it would support the Delimitation Bill that the Centre will bring in Parliament next week. On Saturday, the party passed a resolution to support the bill in a meeting chaired by MK Stalin in Chennai."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/netflix-pakistani-show-jo-bachay-hain-sang-samait-lo-india-curbs-fawad-khan-mahira-khan-experts-3048390-2026-11-28",
-      "headline": "Does Netflix need India to make Fawad-Mahira's Pakistani show a hit?The government reminded Netflix of its advisory restricting Pakistan-origin content in India. Will this ban hurt Netflix and its subscriber base? Experts, speaking to India Today, weighed in on the controversy and its probable aftereffects."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-benjamin-netanyahu-offer-rotating-pm-deal-rival-eisenkot-government-3048850-2026-11-28",
-      "headline": "Netanyahu blinks? Israeli PM ready to offer top spot to rival in rotational govtIn a significant concession, Netanyahu has offered rival Gadi Eisenkot the prime minister's post in a rotational government. Netanyahu is willing to serve as the second prime minister. This comes as efforts to form a new government hit a dead end, a month since the election."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/india-roller-hockey-captain-monish-world-championship-gold-recognition-3048571-2026-11-28",
-      "headline": "Dhoni's calm, Kohli's fire: India captain Monish dreams big for roller hockeyInspired by MS Dhoni's calmness and Virat Kohli's aggression, India roller hockey captain Yarlagadda Monish dreams of winning a World Championship gold while fighting for greater recognition, better facilities and support for the sport in India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/bihar-katihar-groom-collapses-at-reception-day-after-wedding-dies-on-way-to-purnia-hospital-3048613-2026-11-27",
-      "headline": "Bihar groom collapses at reception day after wedding, dies on way to hospitalA Bihar-based doctor died after collapsing on stage during his post-wedding reception in Katihar on November 26. Pawan Kumar Yadav had married a day earlier. His sudden death left both families devastated, with his bride reportedly fainting repeatedly."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/samay-raina-to-raj-shamani-indians-are-rewriting-youtubes-global-charts-3048911-2026-11-28",
-      "headline": "Samay Raina to Raj Shamani, Indians are rewriting YouTube's global chartsSamay Raina crossed one million paid YouTube members as Raj Shamani topped the platform's podcast rankings. Their milestones highlight India's expanding presence across YouTube's global creator, entertainment and news charts."
+      "url": "https://www.indiatoday.in/india/story/india-bloc-meeting-live-updates-congress-other-opposition-parties-floor-leaders-to-meet-over-parliament-special-session-delimitation-bill-3048787-2026-11-28",
+      "headline": "Kanimozhi explains DMK's support for Delimitation Bill, says party has not changed standDelimitation Bill Highlights: INDIA bloc leaders on Saturday decided to jointly oppose the Centre's proposed Delimitation Bill and the linked constitutional amendment, following a meeting at the Delhi residence of Congress president Mallikarjun Kharge. Addressing a press conference after the meeting, Kharge described the proposed legislation as a \"grave threat to democracy\" and accused the Modi government of seeking to consolidate power. The Opposition also raised concerns over the proposed 50 per cent increase in Lok Sabha seats, which would take the House's maximum strength to 850. The bloc outlined three key demands: retaining the existing strength of the Lok Sabha, implementing the 33 per cent women's quota within the current number of seats, and keeping the allocation of seats among states unchanged for the next 25 years. The meeting was attended by Congress leader Rahul Gandhi, TMC's Abhishek Banerjee, RJD's Manoj Jha and other Opposition leaders. However, differences have emerged within the Opposition, with the Sharad Pawar-led NCP (SP) backing the revised proposal on the condition that all states receive a uniform 50 per cent increase in Lok Sabha seats. Stay tuned to indiatoday.in for all the latest updates."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-day-23-epic-beats-baahubali-2-to-become-indias-3rd-biggest-film-3048810-2026-11-28",
-      "headline": "Ramayana box office Day 23: Epic beats Baahubali 2 to become India's 3rd biggest filmRanbir Kapoor-starrer Ramayana has pushed Baahubali 2 out of the third spot with a worldwide collection of Rs 1,790.10 crore in 23 days."
+      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-complaint-fake-affidavit-videos-kalna-police-station-3049389-2026-11-28",
+      "headline": "FIR against Abhishek Banerjee over clip of cops 'forging' affidavits for TMC rebelsThe FIR came hours after the MP accused serving police personnel of forging affidavits submitted to the Election Commission by a rival TMC faction seeking recognition as the party."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/how-i-landed-a-google-internship-at-20-students-journey-coding-tips-and-interview-preparation-3048409-2026-11-28",
-      "headline": "2 years, 600 days of coding: How I landed a Google internship at 20A 20-year-old engineering student from Haryana, Karan Chhillar secured a Google internship within two years of joining college. From struggling with programming fundamentals to maintaining a 600-day coding streak, he shares how consistent practice, competitive programming and communication skills helped him get there."
+      "url": "https://www.indiatoday.in/india/story/bihar-woman-murder-family-suspects-affair-link-after-body-found-with-slit-throat-in-munger-paddy-field-3049371-2026-11-28",
+      "headline": "Bihar woman found dead in paddy field, husband's suspicion points to alleged affairA 30-year-old woman was found with her throat slit in a paddy field in Munger. Her family suspects a man over his alleged relationship with her, while police are investigating the murder and verifying statements by family members."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/americans-thanksgiving-turkey-feast-jains-us-pray-slain-birds-navkaar-jaap-ahimsa-michigan-itspc-3048145-2026-11-28",
+      "headline": "On Thanksgiving Americans feast on turkeys, Jains in US pray for souls of slain birdsAs Americans feast on around 4.6 crore turkeys on Thanksgiving, Jains in the US mark the festival with prayers for the souls of the slaughtered birds."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/gulf-of-aden-hijacking-armed-men-leave-uae-owned-mv-marsa-virgo-3049384-2026-11-28",
+      "headline": "Gunmen board and seize UAE-owned container ship in Gulf of AdenThe EU naval mission Operation Atalanta said it was investigating. The alerts described incidents close together in time and location, though it was unclear whether they referred to the same ship."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/cyberattack-hits-uks-biggest-spending-govt-department-handling-pensions-benefits-forcing-key-public-services-offline-3049393-2026-11-28",
+      "headline": "Cyberattack hits UK's biggest-spending govt department handling pensions, benefitsBritain's welfare department confirmed a cyberattack after taking several services offline. Payments continued normally, with no evidence that personal details were compromised."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/gukesh-sindarov-draw-game-4-world-chess-championship-geneva-3049382-2026-11-28",
+      "headline": "Gukesh and Sindarov play 4th straight draw in World Championship matchD Gukesh and Javokhir Sindarov played out their fourth consecutive draw at the 2026 World Chess Championship, with the scores remaining level at 2-2. Gukesh created more opportunities to press for a win, but Sindarov showed defensive resilience to deny the Indian a breakthrough."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/karthigai-deepam-deepathon-muslims-hindus-thiruparankundram-supreme-court-crpf-tamil-nadu-itspc-3048949-2026-11-28",
+      "headline": "Before Karthigai Deepam lit, Muslims throng dargah, flower shower for CRPF by HindusOver 100 Muslims, including those from Keralam, visited the Sikandar Dargah as Hindu devotees showered flower petals on CRPF personnel deployed at Thiruparankundram Hill. The scenes unfolded ahead of the Supreme Court-directed lighting of the Karthigai Deepam lamp atop the Deepathoon on Saturday."
     },
     {
       "sentiment": "positive",
@@ -291,90 +291,160 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cds-subramani-pakistan-space-capabilities-china-turkey-india-accelerates-military-satellite-development-3048835-2026-11-28",
-      "headline": "Pakistan's space push with China, Turkey help concern for India: Defence chiefThe Chief of Defence Staff flagged Pakistan's growing space capabilities, backed by China and potentially Turkey, stressing the need for India to accelerate the development of its own space-based military assets to maintain a strategic edge."
+      "url": "https://www.indiatoday.in/cities/mumbai/story/diljit-dosanjh-mumbai-concert-two-test-positive-police-drug-screening-3048977-2026-11-28",
+      "headline": "Mumbai cops deploy anti-drug van at Diljit concert, Kenyan among 2 test positiveMumbai Police screened around 40 people at Diljit Dosanjh's concert in Mumbai using its newly introduced Anti-Narcotics Forensic Van, with two testing positive for suspected drug consumption, including a Kenyan national."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/rakesh-sharma-indian-food-space-pulao-aloo-chole-halwa-soviet-cosmonauts-pakistan-astronaut-butter-chicken-itspc-3048066-2026-11-28",
-      "headline": "Pulao before butter chicken: What Rakesh Sharma fed Soviets in space 42 years agoAs Pakistan's first astronaut took butter chicken and nihari aboard China's space station, here's a look at the Indian delicacies Rakesh Sharma took to space 42 years ago. India's first man in space not only relished desi food but also shared it with his Soviet colleagues, and one particular Indian delicacy became a hit with them."
+      "url": "https://www.indiatoday.in/cities/ahmedabad/story/gujarat-organ-donation-with-28-day-old-baby-in-arms-woman-donates-brain-dead-husbands-liver-kidneys-in-ahmedabad-saves-three-patients-3049341-2026-11-28",
+      "headline": "With 28-day-old baby in arms, woman donates brain-dead husband's organs in AhmedabadA grieving wife consented to donate her brain-dead husband's liver and kidneys. The donation offers three patients hope while highlighting the need for greater awareness."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dulquer-salmaan-telugu-films-story-first-roles-audience-appeal-3048124-2026-11-28",
-      "headline": "Dulquer Salmaan, Telugu cinema's favourite cousin who always comes home to a hitDespite being a Malayalam actor-producer, Dulquer Salmaan has connected with Telugu audiences through varied, story-led roles. His choices have built a distinct identity beyond the conventional mass-hero template."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-disabled-teen-tury-dies-longing-for-jailed-awami-league-sharmin-sultana-shormi-itspc-3049063-2026-11-28",
+      "headline": "Jailed Awami League woman leader gets last glimpse of disabled son at prison gateSharmin Sultana Shormi, jailed for activities linked to Sheikh Hasina's Awami League, lost her 15-year-old disabled son. Despite the family's pleas, she could see him only after his death, and for a few minutes, when his body was brought to the prison gate. The case has raised several questions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/raul-john-aju-kerala-teenager-ai-startup-selfie-with-putin-3048216-2026-11-27",
-      "headline": "Keralam teen who pays his father Rs 2 lakh to work at his AI startup meets PutinA bathroom video at nine, a robot at 12 and an AI startup at 16. Keralam teenager Raul John Aju went viral after meeting Russian President Vladimir Putin in Moscow. Here is how the Class 12 student built his venture, trained learners and even recruited his own father too."
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-first-reaction-mumbai-indians-ipl-captaincy-return-3048851-2026-11-28",
+      "headline": "Rohit Sharma reveals he was initially reluctant to take up MI captaincy againRohit Sharma has revealed he initially wasn't ready to return as Mumbai Indians captain when Akash Ambani approached him. The five-time IPL-winning skipper eventually accepted the challenge, calling for the team to prioritise enjoyment over trophies."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/myanmar-military-airstrike-kills-at-least-30-at-village-school-and-monastery-3049182-2026-11-28",
+      "headline": "30 killed as Myanmar military bombs school during religious ceremonyA Myanmar military airstrike hit a school and monastery compound during a religious ceremony in Sinbaungwe Township, killing at least 30 people. Opposition authorities called the attack a war crime and sought international restrictions on military supplies."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/madurai-deepathoon-row-sc-hearing-live-updates-thiruparankundram-karthigai-deepam-contempt-tamil-nadu-government-3048784-2026-11-28",
-      "headline": "Live: Karthigai Deepam to be lit at Deepathoon today at 5 pm, as directed by judgeMadurai Deepathoon Row Live Updates: The Supreme Court has escalated its confrontation with the Tamil Nadu government over the Deepathoon lamp-lighting row, issuing contempt notices to the state's Chief Secretary, DGP and other officials for non-compliance with its earlier order. In a firm directive, the court also ordered the CRPF to secure Thiruparankundram hill and ensure the lamp is lit on November 28, putting the state administration under renewed judicial scrutiny."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-second-test-day-2-christchurch-report-batting-collapse-3048864-2026-11-28",
-      "headline": "Catches dropped, wickets tumble: India let New Zealand seize control on Day 2New Zealand took firm control of the Christchurch Test on Day 2, capitalising on India's sloppy fielding and a top-order collapse to leave the visitors staring at a daunting task. India unravelled with the bat, losing six wickets for 116 runs and ending the day 240 runs behind."
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-asha-workers-continue-protest-reject-rs-2000-honorarium-hike-ptag-3049373-2026-11-28",
+      "headline": "Karnataka ASHA workers continue protest despite Rs 2,000 honorarium raiseKarnataka ASHA workers continued their indefinite protest after rejecting the conciliatory meeting's outcome. Their reversal underscores dissatisfaction with the delayed hike and unresolved demand for Rs 15,000."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-lose-brentford-4-0-premier-league-old-trafford-3049401-2026-11-28",
+      "headline": "Manchester United staring at relegation after humiliating 0-4 loss to Brentford Premier League: Manchester United slumped to a humiliating 0-4 defeat against Brentford at Old Trafford, leaving Mauricio Pochettino's side staring at a potential relegation battle. Callum Wilson scored twice before Kristoffer Ajer and Kevin Schade completed the rout, leaving United 19th with just eight points from 12 matches."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/gukesh-sindarov-draw-game-4-world-chess-championship-geneva-3049382-2026-11-28",
+      "headline": "Gukesh and Sindarov play 4th straight draw in World Championship match D Gukesh and Javokhir Sindarov played out their fourth consecutive draw at the 2026 World Chess Championship, with the scores remaining level at 2-2. Gukesh created more opportunities to press for a win, but Sindarov showed defensive resilience to deny the Indian a breakthrough."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/india-women-beat-china-third-straight-asian-champions-trophy-title-deepika-3049343-2026-11-28",
+      "headline": "Deepika's brace powers India women to hat-trick of Asian Champions Trophy titles India defeated China to clinch their third consecutive Women's Asian Champions Trophy title, completing a historic hat-trick of crowns. Deepika scored twice from penalty corners while Ishika added a goal as the hosts maintained their unbeaten run."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-kkr-captain-ipl-2027-irfan-pathan-shai-hope-3049308-2026-11-28",
+      "headline": "Rinku Singh is the best option to lead KKR in IPL 2027, feels Irfan Pathan Irfan Pathan backed Rinku Singh to fill KKR's captaincy vacancy ahead of the IPL 2027 auction. His endorsement highlights the franchise's limited leadership options, although Shai Hope remains an auction alternative."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/cameron-bancroft-australia-test-recall-sandpapergate-george-bailey-3049266-2026-11-28",
+      "headline": "Bancroft wasn't blacklisted from Tests over Sandpapergate, asserts George Bailey George Bailey has denied that Cameron Bancroft's comments in 2021 about the 2018 Sandpapergate scandal played any role in his continued absence from Australia's Test team."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-alastair-cook-test-cricket-3049215-2026-11-28",
+      "headline": "Sooryavanshi can shine in Tests, the format needs players like him: Alastair Cook Alastair Cook believes Vaibhav Sooryavanshi has the talent and fearless approach to make a mark in Test cricket, adding that the format needs inspirational players like him. The former England captain hopes the teenage sensation can replicate his white-ball dominance in red-ball cricket and inspire the next generation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-shot-selection-r-ashwin-test-captaincy-nz-vs-ind-2nd-test-3049201-2026-11-28",
+      "headline": "This is why Pant is not Test captain: R Ashwin slams shot selection R Ashwin questions Rishabh Pant's reckless shot selection, arguing that poor decision-making has cost India and prevented the wicketkeeper-batter from realising his full potential. He also questions how often Pant's attacking approach has won matches."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/jasprit-bumrah-india-coach-backs-pacer-after-tough-new-zealand-series-3049144-2026-11-28",
+      "headline": "Wickets will come for Bumrah: India spin coach backs pacer after tough NZ series India's spin-bowling coach has backed Jasprit Bumrah after a difficult series against New Zealand, insisting wickets will come for the star pacer. The coach highlighted Bumrah's ability to adapt his bowling according to pitch conditions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mushfiqur-rahim-bangladesh-retirement-england-test-january-2027-farewell-3049129-2026-11-28",
+      "headline": "Mushfiqur Rahim announces Bangladesh retirement, brings curtain down on 22-year career Bangladesh great Mushfiqur Rahim announces his international retirement, with the first Test against England in February 2027 set to be his farewell appearance. The veteran wicketkeeper-batter will bring the curtain down on a career spanning more than 21 years, having scored over 16,000 international runs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/dilip-tirkey-undecided-second-term-hockey-india-president-elections-2026-3049110-2026-11-28",
+      "headline": "Dilip Tirkey coy on 2nd term as president as Hockey India polls get go-ahead The Supreme Court cleared Hockey India's December 5 elections and restored Dilip Tirkey's eligibility. The ruling intensifies a leadership battle shaped by membership rights and institutional power."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-u19-womens-asia-cup-squad-bhavika-ahire-captain-3049100-2026-11-28",
+      "headline": "India U19 Women amp up World Cup preparations, name strong Asia Cup squad Defending champions India have named a 15-member squad led by Bhavika Ahire for the upcoming U19 Women's Asia Cup as they ramp up preparations for the 2027 World Cup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-test-squad-seven-pacers-australia-series-3049066-2026-11-28",
+      "headline": "New Zealand announce squad for Australia Tests, aim to end 41-year-long hoodooNew Zealand have announced a 16-member squad featuring seven fast bowlers for their four-Test tour of Australia, with Will O'Rourke, Matt Fisher and Michael Rae returning to the side. Tom Latham's men will look to end a 41-year wait for a Test series win in Australia, having last achieved the feat in 1985."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-2nd-test-day-2-jacob-duffy-white-ball-cricket-wellington-struggles-christchurch-3048994-2026-11-28",
+      "headline": "After Wellington nightmare, Jacob Duffy finds his rhythm in ChristchurchJacob Duffy blamed a heavy white-ball workload for affecting his bowling action and rhythm in Wellington, where he conceded 201 runs. The New Zealand pacer worked on his technique before bouncing back with two wickets in Christchurch."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/jensi-kanabar-youngest-breaks-sania-mirza-record-reaches-w15-kolkata-final-3049025-2026-11-28",
+      "headline": "Jensi Kanabar, 14, becomes youngest Indian woman to reach tennis pro singles final14-year-old Jensi Kanabar became the youngest Indian woman to reach a professional singles final, breaking Sania Mirza's 24-year-old record with her run to the W15 Kolkata title clash."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/supreme-court-clears-hockey-india-elections-december-5-2026-3048997-2026-11-28",
-      "headline": "Hockey India elections back on track as Supreme Court overturns Odisha HC orders The Supreme Court has cleared the way for Hockey India elections on December 5, setting aside two Orissa High Court orders that had stalled the polls. The court warned that delaying elections could risk serious consequences, including FIH disaffiliation."
+      "headline": "Hockey India elections back on track as Supreme Court overturns Odisha HC ordersThe Supreme Court has cleared the way for Hockey India elections on December 5, setting aside two Orissa High Court orders that had stalled the polls. The court warned that delaying elections could risk serious consequences, including FIH disaffiliation."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/india-roller-hockey-captain-monish-world-championship-gold-recognition-3048571-2026-11-28",
-      "headline": "Dhoni's calm, Kohli's fire: India captain Monish dreams big for roller hockey Inspired by MS Dhoni's calmness and Virat Kohli's aggression, India roller hockey captain Yarlagadda Monish dreams of winning a World Championship gold while fighting for greater recognition, better facilities and support for the sport in India."
+      "headline": "Dhoni's calm, Kohli's fire: India captain Monish dreams big for roller hockeyInspired by MS Dhoni's calmness and Virat Kohli's aggression, India roller hockey captain Yarlagadda Monish dreams of winning a World Championship gold while fighting for greater recognition, better facilities and support for the sport in India."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sunil-gavaskar-india-fielding-dropped-catches-new-zealand-christchurch-test-3048968-2026-11-28",
-      "headline": "India's poor fielding in 2nd Test leaves Gavaskar fuming as video goes viral Sunil Gavaskar lost his cool over India's fielding lapses in Christchurch, questioning the positioning of the slip fielders after another missed chance. The Indian legend explained why better positioning could have helped India take crucial catches."
+      "headline": "India's poor fielding in 2nd Test leaves Gavaskar fuming as video goes viralSunil Gavaskar lost his cool over India's fielding lapses in Christchurch, questioning the positioning of the slip fielders after another missed chance. The Indian legend explained why better positioning could have helped India take crucial catches."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-shot-selection-bhasmasura-india-new-zealand-test-christchurch-3048965-2026-11-28",
-      "headline": "Rishabh Pant's Bhasmasura paradox: The danger of his own brilliance NZ vs IND 2nd Test: Rishabh Pant's attacking instincts have often helped India turn games around, but his dismissal against Jacob Duffy in Christchurch exposed the risks. With India struggling, Pant's audacity became a costly gamble, reigniting the debate over his shot selection."
+      "headline": "Rishabh Pant's Bhasmasura paradox: The danger of his own brillianceNZ vs IND 2nd Test: Rishabh Pant's attacking instincts have often helped India turn games around, but his dismissal against Jacob Duffy in Christchurch exposed the risks. With India struggling, Pant's audacity became a costly gamble, reigniting the debate over his shot selection."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-2nd-test-sairaj-bahutule-press-conference-batting-collapse-3048926-2026-11-28",
-      "headline": "Kotak then, Bahutule now: India repeat bizarre PC move after batting collapse India's unusual press conference pattern continued after their batting collapse in Christchurch, with spin bowling coach Sairaj Bahutule facing the media instead of batting coach Sitanshu Kotak. Bahutule also addressed dropped catches and Jadeja's omission."
+      "headline": "Kotak then, Bahutule now: India repeat bizarre PC move after batting collapseIndia's unusual press conference pattern continued after their batting collapse in Christchurch, with spin bowling coach Sairaj Bahutule facing the media instead of batting coach Sitanshu Kotak. Bahutule also addressed dropped catches and Jadeja's omission."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-second-test-day-2-christchurch-report-batting-collapse-3048864-2026-11-28",
-      "headline": "Catches dropped, wickets tumble: India let New Zealand seize control on Day 2 New Zealand took firm control of the Christchurch Test on Day 2, capitalising on India's sloppy fielding and a top-order collapse to leave the visitors staring at a daunting task. India unravelled with the bat, losing six wickets for 116 runs and ending the day 240 runs behind."
+      "headline": "Catches dropped, wickets tumble: India let New Zealand seize control on Day 2New Zealand took firm control of the Christchurch Test on Day 2, capitalising on India's sloppy fielding and a top-order collapse to leave the visitors staring at a daunting task. India unravelled with the bat, losing six wickets for 116 runs and ending the day 240 runs behind."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-first-reaction-mumbai-indians-ipl-captaincy-return-3048851-2026-11-28",
-      "headline": "Rohit Sharma reveals he was initially reluctant to take up MI captaincy again Rohit Sharma has revealed he initially wasn't ready to return as Mumbai Indians captain when Akash Ambani approached him. The five-time IPL-winning skipper eventually accepted the challenge, calling for the team to prioritise enjoyment over trophies."
+      "headline": "Rohit Sharma reveals he was initially reluctant to take up MI captaincy againRohit Sharma has revealed he initially wasn't ready to return as Mumbai Indians captain when Akash Ambani approached him. The five-time IPL-winning skipper eventually accepted the challenge, calling for the team to prioritise enjoyment over trophies."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/chess-world-championship-gukesh-vs-sindarov-camaradarie-3048814-2026-11-28",
-      "headline": "Mates across the board: Gukesh and Sindarov bring warmth to World Championship Gukesh and Sindarov are locked in a fierce battle for the world title, but there is little sign of hostility off the board. Their easy camaraderie has brought a refreshing warmth to the World Championship match."
+      "headline": "Mates across the board: Gukesh and Sindarov bring warmth to World ChampionshipGukesh and Sindarov are locked in a fierce battle for the world title, but there is little sign of hostility off the board. Their easy camaraderie has brought a refreshing warmth to the World Championship match."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-2nd-test-akash-deep-five-wickets-jasprit-bumrah-wicketless-3048791-2026-11-28",
-      "headline": "2nd Test: Akash Deep takes five, Jasprit Bumrah wicketless after 5 years New Zealand vs India: Jasprit Bumrah went wicketless in an overseas Test first innings for the first time in five years, while Akash Deep stole the show with a five-wicket haul to bowl New Zealand out for 356 in Christchurch."
+      "headline": "2nd Test: Akash Deep takes five, Jasprit Bumrah wicketless after 5 yearsNew Zealand vs India: Jasprit Bumrah went wicketless in an overseas Test first innings for the first time in five years, while Akash Deep stole the show with a five-wicket haul to bowl New Zealand out for 356 in Christchurch."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/bronson-reed-wwe-dies-medical-complications-crown-jewel-saudi-arabia-death-3048782-2026-11-28",
-      "headline": "WWE star Bronson Reed dies at 38, weeks after competing at Crown Jewel WWE has announced the death of Bronson Reed, real name Jermaine Haley, at 38 due to medical complications. The active wrestler had competed at Crown Jewel in Saudi Arabia on November 7, weeks before his death."
+      "headline": "WWE star Bronson Reed dies at 38, weeks after competing at Crown JewelWWE has announced the death of Bronson Reed, real name Jermaine Haley, at 38 due to medical complications. The active wrestler had competed at Crown Jewel in Saudi Arabia on November 7, weeks before his death."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/mauricio-pochettino-rejects-manchester-united-management-criticism-not-nice-3048780-2026-11-28",
-      "headline": "Mauricio Pochettino rejects criticism of his Manchester United management style Manchester United manager Mauricio Pochettino has hit back at criticism of his management style after Jamie Redknapp suggested he had become \"too nice\". Pochettino dismissed the suggestion ahead of United's Premier League clash against Brentford."
+      "headline": "Mauricio Pochettino rejects criticism of his Manchester United management styleManchester United manager Mauricio Pochettino has hit back at criticism of his management style after Jamie Redknapp suggested he had become \"too nice\". Pochettino dismissed the suggestion ahead of United's Premier League clash against Brentford."
     },
     {
       "sentiment": "positive",
@@ -405,71 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rising-stars-asia-cup-pak-vs-ban-result-pakistan-reach-final-3048740-2026-11-27",
       "headline": "Day after India's exit, Pakistan book place in final of Rising Stars Asia CupPakistan A beat Bangladesh A by five wickets to book their place in the Rising Stars Asia Cup final. The defending champions will face Sri Lanka A, who knocked out India A with a stunning chase."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-mi-captain-suryakumar-yadav-celebrates-ipl-2027-return-3048708-2026-11-27",
-      "headline": "Brother, leader, mentor: Surya has a message for MI fans after Rohit's returnSuryakumar Yadav celebrated Rohit Sharma's return as Mumbai Indians captain with a spirited social media message. Rohit will lead the five-time champions in IPL 2027."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-australia-3rd-t20i-jamie-overton-five-wicket-haul-england-2-1-lead-3048657-2026-11-27",
-      "headline": "Jamie Overton demolishes Australia with landmark T20I 5-wicket haul for EnglandAUS vs ENG, 3rd T20I: Jamie Overton registered his career best figures of 5 for 12, helping England seal a dominant win over Australia at the Gabba. The Chennai Super Kings all-rounder became only the second Englishman to take a five-wicket haul in T20is."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/bruno-fernandes-manchester-united-contract-extension-june-2028-3048621-2026-11-27",
-      "headline": "Manchester United trigger one-year extension to Bruno Fernandes' contractManchester United have extended Bruno Fernandes' contract until 2028, but the move comes amid uncertainty over his long-term future. New manager Mauricio Pochettino faces an uphill task, with United languishing in the Premier League relegation zone."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-jasprit-bumrah-bowling-action-debate-3048588-2026-11-27",
-      "headline": "Jasprit Bumrah changed his run-up for an afternoon. Why are we panicking?New Zealand vs India: Jasprit Bumrah's altered run-up in Christchurch triggered questions about his fitness, form and workload. But are we reading too much into one experiment, while expecting one man to carry India's bowling attack?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-mi-captaincy-ipl-2027-ravichandran-ashwin-3048537-2026-11-27",
-      "headline": "Rohit's return as captain doesn't guarantee success for MI in IPL 2027: AshwinRohit Sharma's return as Mumbai Indians captain for IPL 2027 has raised hopes of a revival, but Ravichandran Ashwin believes leadership alone cannot guarantee success. The former India spinner highlighted deeper concerns within the five-time champions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-mumbai-indians-vice-captaincy-rohit-sharma-3048380-2026-11-27",
-      "headline": "Jasprit Bumrah turned down Mumbai Indians' request to be Rohit Sharma's deputyJasprit Bumrah turned down Mumbai Indians' offer to become vice-captain under Rohit Sharma's leadership after the franchise decided to bring back the former captain for IPL 2027."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-mumbai-indians-captaincy-return-ipl-2027-3048427-2026-11-27",
-      "headline": "IPL 2027: Rohit Sharma, Mumbai cha Raja, back as Mumbai Indians captainRohit Sharma is back as Mumbai Indians captain for IPL 2027 after three seasons away from the role. The five-time champions have turned to their most successful skipper following Hardik Pandya's move to Punjab Kings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-siraj-nz-vs-ind-2nd-test-dropped-gautam-gambhir-selection-justified-3048177-2026-11-27",
-      "headline": "Mohammed Siraj dropped again: What's the reason for Gautam Gambhir's convictionMohammed Siraj's omission from India's XI for the 2nd Test in Christchurch has raised questions over Gautam Gambhir's selection approach. With Gurnoor Brar stepping in, is there a cricketing method behind the call, or is the management being stubborn?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pcb-pakistan-women-central-contracts-2026-27-fatima-sana-3048277-2026-11-27",
-      "headline": "PCB slash Pakistan women's central contracts from 20 to 8 after poor yearThe PCB have reduced Pakistan women's central contracts from 20 players to just eight for 2026-27. Categories D and E have been scrapped, with several established names and emerging talents, including Eyman Fatima and Shawaal Zulfiqar, missing out."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sunil-gavaskar-vaibhav-sooryavanshi-batting-all-round-destroyer-3048236-2026-11-27",
-      "headline": "Sooryavanshi brings out the kid in me: Sunil Gavaskar in awe of India starSunil Gavaskar is in awe of Vaibhav Sooryavanshi's fearless batting, admitting the 15-year-old brings out the child in him. The Indian legend also urged his family to keep him grounded as he continues to take the cricketing world by storm."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/akash-deep-jasprit-bumrah-tweaked-bowling-action-christchurch-test-3048185-2026-11-27",
-      "headline": "Who are we to question Jasprit Bumrah? Akash Deep on pacer's new bowling styleAkash Deep backed Jasprit Bumrah's decision to experiment with his bowling action during the Christchurch Test, saying there must be a reason behind the pacer's approach. He also revealed that Bumrah had practised the variation before the Test."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/akash-deep-80-90-percent-bowling-mantra-india-new-zealand-christchurch-test-day-1-3048126-2026-11-27",
-      "headline": "Akash Deep's 80-90 mantra: How pacer became India's best on Day 1 of 2nd TestAkash Deep revealed his 80-90% mantra that helped India strike after lunch on Day 1 of the Christchurch Test. The pacer explained his disciplined approach, assessed the pitch and backed it to offer sustained assistance to fast bowlers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-2nd-test-day-1-report-akash-deep-latham-blundell-3048057-2026-11-27",
-      "headline": "Akash Deep leads India's charge, but NZ stay ahead on a hard-fought Day 1New Zealand recovered from a mid-innings wobble to reach 246 for 5 at stumps on the opening day of the second Test in Christchurch. India fought back through Akash Deep, whose three-wicket burst left the hosts reeling at 110 for 4, but half-centuries from Tom Latham and Tom Blundell helped New Zealand regain control after India won the toss and elected to bowl."
     }
   ],
   "education": [
@@ -569,7 +574,7 @@
       "headline": "Confusion reignsBindeshwari Dubey Government, despite its oft-repeated announcements of steps to improve the state's education system, suddenly scrapped the Bihar Intermediate Education Council set up in 1980 by the Jagannath Mishra government through an ordinance."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/19850430-bihar-cm-bindeshwari-dubey-says-no-teachers-appointments-would-be-allowed-on-ad-hoc-basis-769995-2013-12-06",
       "headline": "Bihar University: Lessons of the pastPoliticians in Bihar have long been notorious for meddling with higher education. Rules have been changed and appointments made under their pressure - all under the ruse of \"creating a better academic climate\"."
     }
